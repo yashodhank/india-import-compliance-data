@@ -6,3 +6,5 @@ __pycache__/
 refresh-report.json
 dist/
 release-notes.md
+_site/
+site/
