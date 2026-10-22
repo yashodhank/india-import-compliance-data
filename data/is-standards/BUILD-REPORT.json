@@ -1,0 +1,28 @@
+{
+ "references_named_in_this_repository": 1272,
+ "matched": 1187,
+ "unmatched": 64,
+ "pending_not_yet_fetched": 21,
+ "matched_by_status": {
+  "current": 1182,
+  "withdrawn": 0,
+  "superseded": 0,
+  "unknown": 5
+ },
+ "unmatched_not_on_portal_search_at_all": 41,
+ "unmatched_number_found_but_not_this_part": 23,
+ "matched_with_amendments": 520,
+ "matched_with_reaffirmation_year": 24,
+ "matched_with_qco_label": 81,
+ "matched_with_ics": 0,
+ "fetched_from": "2026-10-22",
+ "fetched_to": "2026-10-22",
+ "raw_pages_archived": 1187,
+ "raw_bytes": 126367090,
+ "not_obtainable_from_the_public_page": [
+  "ICS code (the details page shows none)",
+  "the QCO document list (qco_file_details answers 303 to an anonymous session)",
+  "older editions: references carry no year, so the latest edition is matched and an older one is not detected",
+  "the text of any standard (BIS copyright; never fetched)"
+ ]
+}

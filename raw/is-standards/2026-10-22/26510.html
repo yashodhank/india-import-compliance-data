@@ -1,0 +1,3628 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Indian_standards - BIS Connect</title>
+     
+<link rel="icon" href="https://www.services.bis.gov.in/php/BIS_2.0/assets/dist/img/favicon.png" type="image/x-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/fontawesome-free/css/all.min.css">
+<!-- Tempusdominus Bbootstrap 4 -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
+<!-- iCheck -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+<!-- JQVMap -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/jqvmap/jqvmap.min.css">
+<!-- Theme style -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/dist/css/adminlte.min.css">
+<!-- overlayScrollbars -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+<!-- Daterange picker -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/daterangepicker/daterangepicker.css">
+<!-- summernote -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/summernote/summernote-bs4.css">
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/datatables-bs4/css/dataTables.bootstrap4.css">
+<!-- Google Font: Source Sans Pro -->
+<link href="https://www.services.bis.gov.in/php/BIS_2.0/assets/dist/css/fontcss.css" rel="stylesheet">
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/assets/dist/css/sweetalert.css">
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/assets/dist/css/jquery-ui.css">
+
+<!-- Prashant Report -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/dgdashboard/assets/plugins/datatable/datatables.min.css">
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/dgdashboard/assets/plugins/datatable/buttons.dataTables.min.css">
+<!-- Prashant Report -->
+  <style>
+    @media only screen and (min-width: 768px) {
+      .small-box>.inner {
+        padding: 10px;
+        height: 100px !important;
+      }
+    }
+  </style>
+
+</head>
+
+<body class="hold-transition sidebar-mini layout-fixed">
+  <div class="wrapper">
+
+    <!-- Navbar -->
+    <style>
+      .animated {
+        -webkit-animation-duration: 1s;
+        animation-duration: 1s;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+      }
+
+      .zoomIn {
+        -webkit-animation-name: zoomIn;
+        animation-name: zoomIn;
+      }
+
+      .wrap-tiles1 img {
+        max-width: 100% !important;
+        max-height: 100% !important;
+        width: 100% !important;
+        height: auto !important;
+        border-radius: 100%;
+        margin: 5px 0 0 0 !important;
+        background-size: cover;
+      }
+
+      .small-box p {
+        font-size: 0.90rem !important;
+      }
+    </style>
+    <style>
+      .small-box p {
+        font-size: 0.90rem !important;
+      }
+
+      /* New Css for tiles */
+
+      .wrap-tilesp img {
+        max-width: 100% !important;
+
+        max-height: 100%;
+        margin: auto !important;
+        display: block;
+      }
+
+      .grid3_bottom {
+        background: #a7b1c4;
+        border: 2px solid rgb(76, 100, 145);
+        margin-top: 7px;
+        box-shadow: 0px 3px 6px 0px #e8e8e8;
+      }
+
+      .wrap-tiles2 img {
+
+        max-width: 100% !important;
+        border-radius: 100%;
+
+      }
+
+      .wrap-tilesp {
+        height: 67px;
+        width: 71px;
+        float: left;
+        background: #f7f7f7;
+        padding: 0px;
+
+        border: 2px solid #d6d6d6;
+      }
+
+      .wrap_tilecont p {
+
+        margin-left: 10px;
+        color: #fff;
+        font-size: 12px;
+        line-height: 19px;
+
+      }
+
+      .wrap-tilespd img {
+        max-width: 100% !important;
+        border-radius: 100%;
+        padding: 3px;
+      }
+
+      .tiles1 {
+        background: #60005e;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+      .common_height {
+        min-height: 100px;
+      }
+
+      .tiles2 {
+
+        background: #004c64;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+
+      }
+
+      .tiles3 {
+
+        background: #001860;
+        ;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+
+      }
+
+      .tiles4 {
+
+        background: #752626;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+
+      }
+
+      .tiles5 {
+        background: #0a5ba2;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+      .tiles6 {
+        background: #347119;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+      .tiles7 {
+        background: #8a6307;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+      .tiles8 {
+        background: #007995;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+      .tiles9 {
+        background: #001860;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+      .tiles10 {
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+        background: #4032a2;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+      }
+
+      .tiles11 {
+        background: #006c44;
+        max-width: 100% !important;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+      }
+
+      .tiles12 {
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+        background: #6f5e04;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+      }
+
+      .row_first {
+        margin-top: 9px;
+      }
+
+      .navlog {
+        float: right;
+        padding: 2px 0px 7px 35px;
+      }
+
+      .wrap-tiles1 {
+        height: 48px;
+        width: 48px;
+        float: left;
+        background: #f7f7f7;
+        padding: 5px;
+        border-radius: 100%;
+        border: 2px solid #d6d6d6;
+      }
+
+      .wrap-tiles2 {
+
+        height: 48px;
+        width: 48px;
+        float: left;
+        background: #f7f7f7;
+        padding: 5px;
+        border-radius: 100%;
+        border: 2px solid #d6d6d6;
+      }
+
+      .wrap-tiles3 {
+
+
+        height: 48px;
+        width: 48px;
+        float: left;
+        background: #f7f7f7;
+        padding: 5px;
+        border-radius: 100%;
+        border: 2px solid #d6d6d6;
+
+      }
+
+      .overlay input[type=text]:hover {
+        background: #f1f1f1;
+      }
+
+      .overlay button {
+        float: left;
+        width: 20%;
+        padding: 15px;
+        background: #ddd;
+        font-size: 17px;
+        border: none;
+        cursor: pointer;
+      }
+
+      .overlay button:hover {
+        background: #bbb;
+      }
+
+      .bg-b-purple1 {
+        background: linear-gradient(45deg, #8368b0, #001c78);
+        background: -webkit-linear-gradient(45deg, #8368b0, #001c78);
+        color: #fff;
+        margin-bottom: 9px;
+        margin-top: 22px;
+      }
+
+      .common_height:hover {
+        padding: 30px !important -webkit-transition: all 300ms ease-in;
+        -ms-transition: all 500ms ease-in;
+        -moz-transition: all 500ms ease-in;
+        transition: all 500ms ease-in;
+        transform: scale(1.1);
+        z-index: 999;
+      }
+
+      .wrap-tilespv {
+
+        position: absolute;
+        z-index: 999999999 !important;
+        left: 0;
+        top: -59px;
+        border: 2px solid #fff;
+        padding: 3px;
+        background: #fff;
+        display: none;
+        transition: ease-in;
+
+
+      }
+
+      .bordt:hover .wrap-tilespv {
+
+        position: absolute;
+        z-index: 999999999 !important;
+        left: 0;
+        top: -59px;
+        border: 2px solid #fff;
+        padding: 3px;
+        background: #fff;
+        display: block;
+        transition: ease-in;
+
+
+      }
+
+      .copy_right p {
+        font-size: 13px;
+        color: #DDD;
+        text-align: left;
+        margin-top: 2px;
+      }
+
+      .common_height:hover .read_more .fa-arrow-circle-right {
+        color: #fff;
+
+        display: block;
+
+        position: relative;
+
+        top: -19px;
+      }
+
+      .common_height:hover .wrap-tiles1 {
+
+        width: 48px !important;
+        height: 48px !important;
+        line-height: 48px;
+
+      }
+
+      .heading_txt_tiles h3 {
+        color: #fff;
+        font-size: 20px !important;
+        display: inherit;
+        white-space: pre-line !important;
+        position: relative;
+        top: 10px;
+        left: 10px;
+        line-height: 17px;
+        text-align: left;
+        font-weight: bold;
+
+      }
+    </style>
+
+    <style>
+      .fas {
+        -moz-osx-font-smoothing: grayscale;
+        -webkit-font-smoothing: antialiased;
+        display: inline-block;
+        font-style: normal;
+        font-variant: normal;
+        text-rendering: auto;
+        line-height: 1;
+        margin-right: 6px !important;
+      }
+
+      ul:last-child {
+        padding-bottom: 70px;
+      }
+
+      .navbar-nav {
+        padding-bottom: 0px !important;
+      }
+
+      .layout-fixed .brand-link {
+        margin-bottom: 10px;
+      }
+
+      .fab {
+        font-family: "Font Awesome 5 Brands";
+        margin-right: 6px !important;
+      }
+
+      .ccc .bbb {
+        background-color: inherit !important;
+        color: #fff !important;
+        padding-left: 10px;
+
+      }
+
+      .ccc .ccc .bbb {
+        background-color: inherit !important;
+        color: #fff !important;
+        padding-left: 20px;
+
+      }
+
+      .ccc .aa {
+        background-color: #inherit !important;
+
+        color: #fff !important;
+        padding-left: 10px;
+
+      }
+
+      .flex-column .aa a {
+        background-color: rgba(255, 255, 255, .1);
+        color: #fff;
+      }
+
+      .ccc .aa:before {
+        content: ".";
+        font: 32px 'Consolas';
+        font-weight: 900;
+        color: #fff;
+        float: left;
+        padding: 0 0 0 10px;
+      }
+
+      .ccc .ccc .bbb:before {
+        content: "-";
+        font: 16px 'Consolas';
+        font-weight: 900;
+        color: #fff;
+        float: left;
+        padding: 11px 0 0 10px;
+      }
+    </style>
+
+
+    <style>
+      .content-header {
+        padding-top: 80px !important;
+      }
+    </style>
+    <style>
+      .clear {
+        clear: both;
+        margin-top: 20px;
+      }
+
+      #searchResult {
+        list-style: none;
+        padding: 0px;
+        width: 100%;
+        position: absolute;
+        margin: 0;
+        z-index: 10000;
+
+        max-height: 300px;
+        overflow-y: scroll;
+        scrollbar-color: rebeccapurple green;
+        scrollbar-width: thin;
+      }
+
+      /* for li list Css Start Here */
+      em {
+        font-weight: bold !important;
+      }
+
+      #searchResult li {
+        background: white;
+        padding: 4px;
+        font-size: 14px;
+
+      }
+
+      #searchResult li:nth-child(even) {
+        background: white;
+        color: black;
+      }
+
+      #searchResult li:hover {
+        cursor: pointer;
+        background: #eee;
+      }
+
+      /* End Here*/
+
+      input[type=text] {
+        width: 100%;
+        display: inline-block;
+        box-sizing: border-box;
+        border-radius: 10px !important;
+        border: 2px solid #d7dbe2b3;
+        padding: 20px;
+      }
+    </style>
+    <style>
+      @media only screen and (min-width: 768px) {
+        .small-box>.inner {
+          padding: 10px;
+          height: 100px !important;
+        }
+      }
+
+
+      .btn1 {
+        background-color: #007bff;
+        border: none;
+        color: white;
+        padding: 5px 20px 14px;
+        cursor: pointer;
+        font-size: 20px;
+      }
+
+      /* Darker background on mouse-over */
+      .btn1:hover {
+        background-color: RoyalBlue;
+      }
+
+
+
+      .common_height {
+        min-height: 100px !important;
+      }
+
+      label:not(.form-check-label):not(.custom-file-label) {
+        font-weight: bold !important;
+      }
+
+      .rly {
+
+        color: #000;
+        font-weight: normal !important;
+
+      }
+
+      .qs {
+
+        color: #060696;
+        font-weight: bold !important;
+      }
+
+
+      .form-group {
+        margin-bottom: 0rem !important;
+      }
+
+
+      .dataTables_filter,
+      div.dataTables_wrapper div.dataTables_filter {
+
+
+        margin-bottom: 20px;
+      }
+
+      table.dataTable thead th,
+      table.dataTable thead tr {
+
+        background-color: blue !important;
+      }
+
+      table.dataTable thead th,
+      table.dataTable thead td {
+
+        color: #fff !important;
+      }
+
+
+      #reload {
+
+        cursor: pointer;
+      }
+
+
+
+
+      .heading_txt_tiles_a {
+        color: #fff;
+        font-size: 14px !important;
+        display: inherit;
+        white-space: pre-line !important;
+        position: relative;
+        top: 20px;
+        left: 17px;
+        line-height: 17px;
+        text-align: left;
+
+
+      }
+
+
+      .tiles {
+
+        max-width: 100% !important;
+        padding: 5px;
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+
+      .center {
+        text-align: center;
+        width: 50%;
+        margin: 20px auto;
+      }
+
+      .center span {
+        display: inline-block;
+        padding: 6px 6px 4px;
+        border-radius: 3px;
+        background: #b09dc4;
+        margin-right: -2px;
+      }
+
+      .didyoumean {
+        text-align: center;
+        background: #eee !important;
+        cursor: auto !important;
+      }
+
+      .nothingmatch {
+        text-align: center;
+        background: #eee !important;
+        cursor: auto !important;
+
+      }
+
+      #searchResult li b {
+        font-weight: 600;
+      }
+
+      .warning {}
+
+          </style>
+
+    </head>
+
+    <body class="hold-transition sidebar-mini layout-fixed">
+       
+
+<style>
+
+.notification {
+              
+  color: white;
+  text-decoration: none;
+  padding: 6px 26px;
+  position: relative;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+
+
+.notification .badge {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  background: red;
+  color: white;
+}
+.fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    margin-right: 6px !important;
+}
+
+ul:last-child {    
+  padding-bottom:70px;
+}
+.navbar-nav{
+padding-bottom:0px !important;
+}
+
+.layout-fixed .brand-link{
+margin-bottom:10px;
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands";
+    margin-right: 6px !important;
+}
+.ccc .bbb{
+background-color:inherit !important;
+color:#fff !important;
+padding-left:10px;
+    
+}
+.ccc .ccc .bbb{
+background-color:inherit !important;
+color:#fff !important;
+padding-left:20px;
+    
+}
+
+.ccc .aa{
+background-color:#inherit !important;
+
+color:#fff !important;
+padding-left:10px;
+    
+}
+.flex-column .aa a{
+	background-color: rgba(255,255,255,.1);
+    color: #fff;
+}
+
+.ccc .aa:before{ content: ".";
+    font: 32px 'Consolas';
+    font-weight: 900;
+    color: #fff;
+    float: left;
+    padding: 0 0 0 10px;}	
+	
+.ccc .ccc .bbb:before{ content: "-";
+    font: 16px 'Consolas';
+    font-weight: 900;
+    color: #fff;
+    float: left;
+    padding: 11px 0 0 10px;}	
+
+</style>
+
+
+<link href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/fontawesome-free/css/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://www.services.bis.gov.in/php/BIS_2.0//common/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://www.services.bis.gov.in/php/BIS_2.0//common/css/style.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    
+<nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
+        <a href="https://www.services.bis.gov.in/php/BIS_2.0//eBIS" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+         <img src="https://www.services.bis.gov.in/php/BIS_2.0//eBIS/img/strip-logo.png" alt="logo" style="width:240px; height:70px;"/>
+        </a>
+        <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto p-4 p-lg-0">
+                <a href="/php/BIS_2.0/eBIS" class="nav-item nav-link active">Home</a>
+                <a href="/php/BIS_2.0/eBIS/about-standards" class="nav-item nav-link">About the Activity</a>
+				  <a href="https://www.bis.gov.in/standard-of-the-week/" target="_blank" class="nav-item nav-link">Standard of the Week</a>
+				    <a href="https://www.bis.gov.in/standard-of-the-month/" target="_blank" class="nav-item nav-link">Standard of the Month</a>
+                <a href="https://www.services.bis.gov.in/php/BIS_2.0/bistalks/" target="_blank" class="nav-item nav-link">BIS Talks</a>
+
+                <a href="/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails" target="_blank" class="nav-item nav-link">Know Your Standard</a>
+				<a href="https://www.bis.gov.in/directory/enquiry/" target="_blank" class="nav-item nav-link">Contact Us</a>
+            </div>
+                          <a href="/php/BIS_2.0/" target="_blank" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Login</a>
+              <!-- <a target="_blank" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block" onclick="history.back();">BACK</a> -->
+              <!-- <button style="width:90px;" id="bckButton" type="button" class="btn btn-primary" onclick="history.back();"><i class="fa fa-arrow-left"></i> Back</button> -->
+                         
+        </div>
+    </nav>  
+  
+  <script src="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/assets/global/plugins/jquery.min.js" type="text/javascript"></script> 
+					
+					
+<script src="https://www.services.bis.gov.in/php/BIS_2.0/plugins/jquery/jquery.min.js"></script>
+<link rel="icon" href="https://www.services.bis.gov.in/php/BIS_2.0/assets/dist/img/favicon.png" type="image/x-icon" />
+<!-- jQuery UI 1.11.4 -->
+ <script>
+$(function() {
+  $('input[name="daterange"]').daterangepicker({
+    opens: 'left',
+    locale: {
+      format: 'DD/MM/YYYY'
+    }
+  }, function(start, end, label) {
+   $('#start_date').val(start.format('DD/MM/YYYY'));
+    $('#end_date').val(end.format('DD/MM/YYYY'));
+	
+	//console.log("A new date selection was made: " + start.format('YYYY-MM-DD') + ' to ' + end.format('YYYY-MM-DD'));
+  });
+		
+		var backhistory = history.length;
+		if(backhistory > 1){
+		$("#bckButton").removeAttr("disabled");
+		
+		
+		}else{
+		$("#bckButton").attr("disabled", true);
+		
+		}
+		
+
+});
+</script>					  
+
+      <!-- Content Wrapper. Contains page content -->
+                <div class="content-wrapper" style="margin-left:0px; !important;">
+
+                    <!-- Content Header (Page header) -->
+          <div class="content-header">
+            <div class="container-fluid">
+              <div class="row mb-2">
+                <div class="col-sm-6">
+                  <h1 class="m-0 text-dark">Know your standards</h1>
+                </div><!-- /.col -->
+                <div class="col-sm-6">
+                  <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/">Home</a></li>
+                    <li class="breadcrumb-item active">Know your standards</li>
+                  </ol>
+                </div><!-- /.col -->
+              </div><!-- /.row -->
+            </div><!-- /.container-fluid -->
+          </div>
+          <center>
+            <div class="content-header" style="margin-top:-30px;">
+              <div class="container-fluid"> 
+                  <div class="row mb-2">       
+                  <div class="col-sm-12 float-sm-right" style="font-size: 15px;" >  
+                  <a class="btn btn-warning" target="_blank" href="https://standards.bis.gov.in/website/know-your-standards">
+                    <b>All the standards published after 01 Oct 2025 are available in new portal. Please click here to view the portal</b>
+                  </a>
+                </div>
+              </div>
+              </div><!-- /.row -->
+            </div><!-- /.container-fluid -->
+        </center>
+
+
+          <!-- Main content -->
+          <section class="content">
+            <br>
+            <div class="container-fluid">
+
+
+              <div class="card ">
+                <div class="card-header" style="background-color: #f7f6f68c !important;">
+                  <form class="form-horizontal" id="search_form" name="search_form" action="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/" method="post">
+
+                                        <input type="hidden" id="wh" name="wh" value="0">
+
+
+                    <input type="hidden" id="search_type" name="search_type" value="1">
+
+                    <div class="card-body">
+                      <div class="form-group row">
+
+
+
+                        <label for="inputEmail3" class="col-sm-3 col-form-label" style="font-weight:bold">Search Indian Standard (IS) :</label>
+                        <div class="col-sm-4">
+
+
+                          <div class="form-check form-check-inline" style="margin-top: 5px;">
+                            <input class="form-check-input" type="radio" name="seachby" id="inlineRadio1" onclick="ChangeSearchType('1');" value="isnumber" checked="checked">
+                            <label class="form-check-label" for="inlineRadio1" style="font-weight:bold;font-size:15px">By IS Number</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="seachby" id="inlineRadio2" onclick="ChangeSearchType('0');" value="keywords" >
+                            <label class="form-check-label" for="inlineRadio2" style="font-weight:bold;font-size:15px">By Keyword</label>
+                          </div>
+                          
+
+                          <div class="form-check form-check-inline" style="margin-top: 5px;">
+                            <input class="form-check-input" type="radio" name="seachby" id="inlineRadio4" onclick="ChangeToEchoMark();">
+                            <label class="form-check-label" for="seachbyechomark" style="font-weight:bold;font-size:14px">IS On ECO Mark</label>
+                          </div>
+
+                        </div>
+
+
+                        <div class="col-sm-4">
+                          <input type="text" value="" id="txt_search" autocomplete="off" name="txt_search" class="form-control" placeholder="Enter Indian Standard (IS) Number / Keyword"><br>
+                          <div id="multikeyword" style="display: none;"><label>Search multiple keywords:</label><br>Please enter multiple keywords or keyword strings separated by comma(,) and press enter to see multiple keyword search results</div>
+                                                    <ul id="searchResult"></ul>
+
+                          <div class="clear"></div>
+                        </div>
+                        <div class="col-sm-1">
+                          <button type="button" class="btn btn-labeled btn-primary" onclick="checkEmpty();">
+                            <i class="fas fa-search"></i>
+                          </button>
+                          <img src="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/images/refresh-icon.png" style="width:30px;vertical-align:middle" id="reload">
+
+                          <!--
+&nbsp;
+<a href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/ecomark" target="_blank"><img src="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/images/echo-mark_logo.jpeg" style="width:96px;vertical-align:middle;border:0px solid #fff"></a>
+-->
+
+                        </div>
+
+
+
+
+
+
+
+                        <input type="hidden" name="pk_is_id" id="pk_is_id" value="" />
+                        <input type="hidden" name="search_type" id="search_type" value="1" />
+                      </div>
+
+
+                    </div>
+
+                  </form>
+
+
+
+
+
+                </div>
+
+                <div id="loadingDiv">
+
+                  
+
+                  
+
+
+                  
+
+
+
+
+                </div>
+
+
+                <br>
+
+
+                                  <div class="card">
+
+
+
+
+
+                    <div class="card-header card-primary" style="background-color: #007bff;color:#fff">
+                      <div class="row">
+                        <div class="col-md-6">
+                          <h3 class="card-title" style="font-size:20px; font-weight:bold;color:#fff">Basic Details/ मूल ब्यौरा</h3>
+                        </div>
+                                                  <div class="col-md-6 text-right">
+                            <button onclick="submit_details(event,'26510')" style="background-color:#6538B1;color:#fff"><i class="fa fa-comments"></i>Comment</button>
+                          </div>
+                                                </div>
+
+
+                    </div>
+
+
+
+
+                    <div class="card-header">
+
+                      <div class="card-body">
+                                                      <div class="row">
+                              <div class="col-sm-8">
+                                                        <div class="form-group row">
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">IS Number/<label style="font-size:14px">आईएस संख्या</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-5 col-form-label text-left rly warning">
+                            IS 17781:2021<br>                          </label>                         
+
+                        </div>
+
+
+                        <div class="form-group row">
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs ">IS Title/<label style="font-size:14px">आईएस शीर्षक</label>
+                          </label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                            VITAMIN  MINERAL PREMIX FOR MANUFACTURING FORTIFIED RICE KERNELS- SPECIFICATION                                                                                  </label>
+
+                        </div>
+
+                                                
+                                                  <div class="form-group row">
+                            <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Superseding IS/<label style="font-size:14px">सुपरसीडिंग आईएस</label></label>
+                            <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                            <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                              None                            </label>
+                          </div>
+                        
+
+
+
+
+
+                        <div class="form-group row">
+
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Degree of Equivalence/<label style="font-size:14px">समतुल्यता स्तर</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                            Indigenous                          </label>
+
+
+
+                        </div>
+
+
+
+
+
+                        <div class="form-group row">
+
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Number of Revisions/<label style="font-size:14px">पुनरीक्षणों की संख्या</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                            New Standard                          </label>
+
+
+                        </div>
+
+                        <div class="form-group row">
+
+
+
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Number of Amendments/<label style="font-size:14px">संशोधनों की संख्या</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                            No amendment issued                          </label>
+                        </div>
+
+
+
+
+                        <div class="form-group row">
+
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Aspect/<label style="font-size:14px">पक्ष</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                            Product Specification                          </label>
+
+
+                        </div>
+
+
+
+
+                        <div class="form-group row">
+
+
+
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Language/<label style="font-size:14px">भाषा</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center ">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                            English                          </label>
+                        </div>
+
+
+                        
+
+                        <div class="form-group row">
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Reaffirmation Year/<label style="font-size:14px">पुनर्पुष्टि वर्ष</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                                                      </label>
+
+                        </div>
+
+
+
+
+                        
+                          <div class="form-group row">
+
+
+                            <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Technical Department/<label style="font-size:14px">तकनीकी विभाग</label></label>
+                            <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                            <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+
+                              FAD (Food and Agriculture Department)                            </label>
+
+
+                          </div>
+
+
+
+                          <div class="form-group row">
+
+
+
+                            <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Technical Committee/<label style="font-size:14px">तकनीकी समिति</label></label>
+                            <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                            <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                              FAD  16&nbsp;(Foodgrains, Allied products and Ready-to-Eat Foods&nbsp; Sectional Committee)</label>
+                          </div>
+
+
+
+                        
+
+
+
+                        <div class="form-group row">
+
+
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Member Secretary/<label style="font-size:14px">सदस्य सचिव</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+
+                             Abhijit Singh (SCIENTIST-C)</label>
+                        </div>
+
+                        
+                      </div>
+                      
+                          <div class="col-sm-4">
+                            <label for="inputEmail3" class="col-sm-12 col-form-label text-left rly warning">
+                                                      </label>
+
+                                                            <label for="inputEmail3" class="col-sm-12 col-form-label text-left qs">Summary/सारांश</label>  
+                                                                        
+                                          
+                                          <iframe id="myiframe" style="border:2px solid black;" height="50%" width="100%" src="/tmp/tbl5_2024-11-11-09-23.pdf"></iframe>
+                                          <button style="background-color: #001860;" class="btn btn-primary" type="button" onclick="myFunction()">Expand in Fullscreen</button><br>
+                                          
+                                          
+                                                                    
+                        
+
+                        </div>
+
+
+
+
+
+
+
+                      </div>
+                    </div>
+
+                    <div class="card-header" style="background-color: #007bff;color:#fff">
+                      <h3 class="card-title" style="font-size:20px; font-weight:bold;background-color: #007bff; color:#fff">Other Details</h3>
+                    </div>
+
+
+                    <div class="card-header">
+                      <section class="content">
+                        
+                          <div class="container-fluid">
+                            <!-- Small boxes (Stat box) -->
+
+
+                            <div class="row">
+
+                              <div class="col-md-4 col-lg-4">
+
+                                <div class="tiles common_height animated zoomIn" style="background:#6ec2de;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/standardization-cells.png" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-left">
+                                      <h3>Indian Standard</h3>
+                                    </span>
+
+                                    <a href='https://standardsbis.bsbedge.com/search_redirect.aspx?id=26510' target='_blank' class='heading_txt_tiles_a' onclick='download_count(26510)'> Click to download  </a>
+                                  </div>
+                                </div>
+
+
+
+                              </div>
+
+
+
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background:#79a7e8;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/wc-draft1.png" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-left">
+                                      <h3>Amendment&nbsp;:&nbsp;0
+                                      </h3>
+                                    </span>
+                                                                          <!-- <a href="javascript:void(0);"   class="heading_txt_tiles_a">Click to download</a>-->
+                                    
+                                  </div>
+                                </div>
+                              </div>
+
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background:#7e8cf1;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/annual-action-plan.jpg" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                                                        <span class="heading_txt_tiles text-center">
+                                      <h3>Gazette Document&nbsp;:&nbsp;1</h3>
+                                    </span>
+                                                                          <br>
+                                      <a href="javascript:void(0);" id="getgazette" class="heading_txt_tiles_a">Click to download</a>
+                                      <!-- <a href="javascript:void(0);" onclick="getgazattees('25750')"  class="heading_txt_tiles_a">Click to view</a>-->
+                                                                      </div>
+                                </div>
+                              </div>
+
+                            </div>
+
+
+                            <div class="row" style="margin-top:30px;">
+
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background:#17b79c;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/Accreditation_of_SDOs.jpg" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-center">
+                                      <h3>License&nbsp;:&nbsp;10                                      </h3>
+                                    </span>
+
+                                                                          <a href="javascript:void(0);" id="getlicence" class="heading_txt_tiles_a">Click to view</a>
+                                                                      </div>
+                                </div>
+                              </div>
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background:#009a9c;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/mou.jpg" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-center">
+                                      <h3>Product Manual & SIT&nbsp;:&nbsp;1</h3>
+                                    </span>
+
+                                                                          <a href="javascript:void(0);" id="getsti" class="heading_txt_tiles_a">Click to download</a>
+                                    
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background:#007c92;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/p-drafts.jpg" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-center">
+                                      <h3>Laboratory&nbsp;:&nbsp;5</h3>
+                                    </span>
+
+                                                                          <a href="javascript:void(0);" id="getlabs" class="heading_txt_tiles_a">Click to view</a>
+                                                                      </div>
+                                </div>
+                              </div>
+                            </div>
+
+
+
+
+
+
+                            <div class="row" style="margin-top:30px;">
+
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background-color:#e51284;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/standards-for-review.png" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-center">
+                                      <h3>Classification Details</h3>
+                                    </span>
+
+                                    <a href="javascript:void(0);" id="getclassification" class="heading_txt_tiles_a">Click to view</a>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background-color:#cc1075;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/irda.jpg" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-center">
+                                      <h3>Cross Reference Details</h3>
+                                    </span>
+                                    <a href="javascript:void(0);" id="getcrossreference" class="heading_txt_tiles_a">Click to view</a>
+                                  </div>
+                                </div>
+                              </div>
+
+
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background-color:#B20E66;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/publish-standards.png" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-center">
+                                      <h3>Composition</h3>
+                                    </span>
+                                    <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/dgdashboard/committee_sso/composition/283/2" class="heading_txt_tiles_a">Click to View</a>
+                                  </div>
+                                </div>
+                              </div>
+
+
+
+
+
+
+                            </div>
+
+
+                            <div class="row" style="margin-top:30px;">
+                              
+
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background:#7e8cf1;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/annual-action-plan.jpg" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                                                        <span class="heading_txt_tiles text-center">
+                                      <h3>Corrigendum &nbsp;:&nbsp;0</h3>
+                                    </span>
+                                                                      </div>
+                                </div>
+                              </div>
+
+                            </div>
+
+
+
+
+                            <!-- /.row (main row) -->
+                          </div><!-- /.container-fluid -->
+                        
+                      </section>
+
+                    </div>
+                    <div class="card-header">
+
+
+
+
+
+
+                      <section class="content">
+
+
+
+
+
+
+                        <div class="container-fluid">
+                          <!-- Small boxes (Stat box) -->
+                          <div class="row justify-content-around" id="content_area">
+
+
+
+
+                            <!-- Table getcrossreference details Start-->
+                            <div class="col-md-12 no-display" id='crossreferenceTr' style="margin-top:20px; width:1024px;display:none">
+                              <div class="card">
+
+                                <div class="card-header card-primary" style="background-color: #007bff;color:#fff">
+                                  <h3 class="card-title">Cross Reference Details</h3>
+
+                                </div>
+
+
+                                <div class="card-body">
+                                  <div class="row">
+                                    <div class="col-md-12 text-right">
+
+                                      
+
+                                      <a href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/downloadCrossReferences/MjU3NTA=/MjY1MTA=">
+                                        <button class="btn1"><i class="fa fa-download"></i> Download</button>
+                                      </a>
+                                    </div>
+
+                                  </div>
+                                </div>
+
+
+                                <div class="card-body">
+
+
+                                  <div class="panel-body">
+                                    <div class="col-sm-12">
+                                      <div>
+                                        <div class="portlet-title">
+
+                                          <div class="portlet-body">
+
+
+                                            <table class="table" id="proposal_details_data">
+
+                                              <tbody>
+                                                <tr>
+                                                  <th>Indian Standards Referred In IS IS 17781:2021<br> :</th>
+                                                  <td>
+                                                    
+                                                      <table class="table table-bordered table-striped table-condensed flip-content" id="CrossReferenceDetails">
+                                                        <tbody>
+                                                          <!-- <tr>
+                                                            <th>SNo</th>
+                                                            <th>IS Number</th>
+                                                            <th>Title</th>
+                                                            <th>Technical Committee</th>
+                                                          </tr> -->
+                                                                                                                          <tr>
+                                                                  <td>
+                                                                    <center>1</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/Mjg5NjA=">
+                                                                        IS 1070:2023<br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>Reagent grade water - Specification (Third Revision)</td>
+                                                                  <td>CHD 13</td>
+                                                                </tr>
+                                                                                                                            <tr>
+                                                                  <td>
+                                                                    <center>2</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzIwMTk=">
+                                                                        IS 2491:2024<br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>Food hygiene - General principles - Code of practice (Third Revision)</td>
+                                                                  <td>FAD 15</td>
+                                                                </tr>
+                                                                                                                            <tr>
+                                                                  <td>
+                                                                    <center>3</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MTIwMzY=">
+                                                                        IS 5282:1969<br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>Liquid sedimentation methods for determination of particle size of powders</td>
+                                                                  <td>CED 55</td>
+                                                                </tr>
+                                                                                                                            <tr>
+                                                                  <td>
+                                                                    <center>4</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MjE2NzI=">
+                                                                        IS 16072:2012<br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>Determination of moisture content in milk powder and similar products (Routine Method)</td>
+                                                                  <td>FAD 19</td>
+                                                                </tr>
+                                                                                                                            <tr>
+                                                                  <td>
+                                                                    <center>5</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MjMwMjM=">
+                                                                        IS 16639:2018<br>ISO 20633 : 2015 <br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>Infant formula and adult nutritionals - Determination of vitamin E and vitamin A by normal phase high performance liquid chromatography</td>
+                                                                  <td>FAD 28</td>
+                                                                </tr>
+                                                                                                                            <tr>
+                                                                  <td>
+                                                                    <center>6</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MjMwMjQ=">
+                                                                        IS 16640:2018<br>ISO 20634 : 2015 <br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>Infant formula and adult nutritionals - Determination of vitamin B12 by reversed phase high performance liquid chromatography (RP - HPLC)</td>
+                                                                  <td>FAD 28</td>
+                                                                </tr>
+                                                                                                                  </table>
+                                                                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <th>International Standards Referred In IS 17781:2021<br></th>
+                                                  <td>
+
+                                                    
+                                                      <table class="table table-bordered table-striped table-condensed flip-content" id="InternationalStandardsReferred">
+                                                        <tbody>
+                                                          <!-- <tr>
+                                                            <th>SNo</th>
+                                                            <th>International Standard Number</th>
+                                                          </tr> -->
+                                                                                                                      <tr>
+                                                              <td>1</td>
+                                                              <td>
+                                                                EN 14164 : 0 : 2014 0
+                                                              </td>
+                                                            </tr>
+                                                                                                                </table>
+                                                    
+
+
+
+                                                  </td>
+                                                </tr>
+
+
+                                                <tr>
+                                                  <th>IS 17781:2021<br> is Referred in following Indian Standards :</th>
+                                                  <td>
+
+                                                    
+                                                      <table class="table table-bordered table-striped table-condensed flip-content" id="ReferredinfollowingIndianStandards">
+                                                        <tbody>
+                                                          <!-- <tr>
+                                                            <th>SNo</th>
+                                                            <th>IS Number</th>
+                                                            <th>Title</th>
+                                                            <th>Technical Committee</th>
+                                                          </tr> -->
+                                                                                                                          <tr>
+                                                                  <td>1</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MjYyNTA=">
+
+                                                                          IS 3565  : 1966                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Rubber Teats for Feeding Bottles</td>
+                                                                  <td>                                                                      PCD 13</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>2</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MjY2MDE=">
+
+                                                                          IS 3025 : Part 71  : 2021                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Methods of Sampling and Test (Physical and Chemical) for Water and Wastewater Part 71 Determination of Dissolved Cations Using Ion Chromatography</td>
+                                                                  <td>                                                                      CHD 36</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>3</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MjY4NjY=">
+
+                                                                          IS 16143 : Part 6  : 2021                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Hard coal and coke - Mechanical sampling : Part 6 coke - preparation of test samples (First Revision)</td>
+                                                                  <td>                                                                      PCD 07</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>4</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MjY4Nzc=">
+
+                                                                          IS 17567 : Part 1  : 2021                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      ISO TS 19807-1:2019 Nanotechnologies  Magnetic nanomaterials  Part 1: Specification of characteristics and measurements for magnetic nanosuspensions</td>
+                                                                  <td>                                                                      MTD 33</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>5</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/Mjc0MTE=">
+
+                                                                          IS 17652   : 2021                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Soy Butter</td>
+                                                                  <td>                                                                      FAD 16</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>6</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/Mjc0MTQ=">
+
+                                                                          IS 17667 : 2021                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Vegetable fats and oils  Determination of phospholipids content in lecithins by HPLC using a light-scattering detector </td>
+                                                                  <td>                                                                      FAD 13</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>7</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/Mjc4NzU=">
+
+                                                                          IS 16048 : Part 2  : 2021                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      SECONDARY CELLS AND BATTERIES CONTAINING ALKALINE OR OTHER NON-ACID ELECTROLYTES  SECONDARY SEALED CELLS AND BATTERIES FOR PORTABLE APPLICATIONS  PART 2: NICKEL-METAL HYDRIDE</td>
+                                                                  <td>                                                                      ETD 11</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>8</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/Mjc4ODA=">
+
+                                                                          IS 1248 : Part 9  : 2021                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Direct Acting Indicating Analogue Electrical Measuring Instruments and their Accessories Part 9 Recommended Test Methods (Fourth Revision)</td>
+                                                                  <td>                                                                      ETD 12</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>9</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MjkyMjg=">
+
+                                                                          IS/ISO 26262 : Part 5  : 2018                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Road vehicles  Functional safety  Part 5:  Product development at the hardware level</td>
+                                                                  <td>                                                                      TED 11</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>10</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/Mjk0NjA=">
+
+                                                                          IS 5501  : 2021                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Specification for Pneumatic Tyred Roller (first revision)</td>
+                                                                  <td>                                                                      MED 07</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>11</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/Mjk0NjE=">
+
+                                                                          IS/ISO 26262 : Part 11  : 2018                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Road vehicles Functional safety  Part 11:  Guidelines on application of ISO 26262 to semiconductors</td>
+                                                                  <td>                                                                      TED 11</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>12</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/Mjk1Mjg=">
+
+                                                                          IS/ISO/TR 24971   : 2013                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Medical devices - Guidance on the application of ISO 14971</td>
+                                                                  <td>                                                                      MHD 14</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>13</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/Mjk2MDU=">
+
+                                                                          IS 1205  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      METHODS FOR TESTING TAR AND BITUMINOUS MATERIALS - Determination of Softening Point Ring and Ball Apparatus  IS 1205</td>
+                                                                  <td>                                                                      MED 26</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>14</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/Mjk5Njc=">
+
+                                                                          IS 101 : Part 2 : Sec 4  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Methods of sampling and  test for paints varnishes and  related products: Part 2 test on liquid paints chemical examination : Sec 4 determination of volatile organic compound voc and or semi volatile organic compounds svoc content gas-chromatographic (First Revision)</td>
+                                                                  <td>                                                                      CHD 20</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>15</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzAwMTA=">
+
+                                                                          IS 14473 : Part 3  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      CRANES  INSPECTIONS -- PART 3 TOWER CRANES</td>
+                                                                  <td>                                                                      MED 14</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>16</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzAwMTI=">
+
+                                                                          IS 17847   : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Bensulfuron Methyl technical- Specification</td>
+                                                                  <td>                                                                      FAD 01</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>17</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzAwMTM=">
+
+                                                                          IS 17881 : Part 1  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Protective clothing against heat and flame  - Part 1 Test method for complete garments  - Measurement of transferred energy using an instrumented manikin</td>
+                                                                  <td>                                                                      TXD 32</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>18</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzAwOTg=">
+
+                                                                          IS/ISO 14155   : 2011                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Clinical investigation of medical devices for human subjects - Good clinical practice</td>
+                                                                  <td>                                                                      MHD 19</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>19</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzAxMzc=">
+
+                                                                          IS 14268  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Uncoated Stress Relieved Low Relaxation Seven-Wire (Ply) Strand for Prestressed Concrete -Specification (Second Revision)</td>
+                                                                  <td>                                                                      CED 54</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>20</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzAyMDU=">
+
+                                                                          IS 1885 : Part 84  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Electrotechnical Vocabulary Part 84 Terminology  Concerning Fire Tests for Electrotechnical Products (Third Revision)</td>
+                                                                  <td>                                                                      LITD 01</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>21</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzAyNTI=">
+
+                                                                          IS 11047  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      TEXTILES  POSTAL GREEN CASH BAGS  SPECIFICATION </td>
+                                                                  <td>                                                                      TXD 20</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>22</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzAyNTM=">
+
+                                                                          IS 17706   : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      PULL HANDLES  SPECIFICATION</td>
+                                                                  <td>                                                                      CED 15</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>23</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzAyNjk=">
+
+                                                                          IS 17883   : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Geological Exploration for Tunnels  Guidelines</td>
+                                                                  <td>                                                                      WRD 05</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>24</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzA4OTU=">
+
+                                                                          IS 1713 : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Decorticated Groundnut Oilcake as Livestock Feed Ingredient — Specification ( Third Revision )</td>
+                                                                  <td>                                                                      FAD 05</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>25</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzA5MDU=">
+
+                                                                          IS 3161 : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Gram Chuni as Livestock Feed Ingredient — Specification ( First Revision )</td>
+                                                                  <td>                                                                      FAD 05</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>26</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzA5MTc=">
+
+                                                                          IS 13450 : Part 1  : 2018                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Medical electrical equipment: Part 1 general requirements for basic safety and essential performance (Second Revision)</td>
+                                                                  <td>                                                                      MHD 15</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>27</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzA5MTg=">
+
+                                                                          IS 13450 : Part 1 : SEC 2  : 2018                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Medical electrical equipment: Part 1 general requirements for the basic safety and essential performance: Sec 2 collateral standard: electromagnetic disturbances - Requirements and tests (First Revision)</td>
+                                                                  <td>                                                                      MHD 15</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>28</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzA5MjA=">
+
+                                                                          IS 13450 (Part 1/Sec 6) : 2020                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Medical Electrical Equipment Part 1 General Requirements for Basic Safety and Essential Performance Section 6 Collateral standard: Usability </td>
+                                                                  <td>                                                                      MHD 15</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>29</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzA5MjI=">
+
+                                                                          IS 13450 : Part 1 : Sec 10  : 2019                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Medical Electrical Equipment Part 1 General Requirements for Basic Safety and Essential Performance Section 10 Collateral standard: Requirements for the development of physiologic closed-loop controllers </td>
+                                                                  <td>                                                                      MHD 15</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>30</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzA5OTE=">
+
+                                                                          IS 13360 : Part 11 : Sec 15  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      PLASTICS - METHODS OF TESTING  PART 11 SPECIAL PROPERTIES Section 15 Determination of Viscosity using a Falling-Ball Viscometer  Inclined-tube method </td>
+                                                                  <td>                                                                      PCD 27</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>31</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzEwMzc=">
+
+                                                                          IS 17960   : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Dentistry  Coiled springs for use in orthodontics </td>
+                                                                  <td>                                                                      MHD 08</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>32</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzExNDA=">
+
+                                                                          IS/IEC 62488 : Part 3  : 2021                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Power line communication systems for power utility applications Part 3: Digital Power Line Carrier DPLC Terminals and hybrid ADPLC Terminals</td>
+                                                                  <td>                                                                      LITD 10</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>33</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzEyMzU=">
+
+                                                                          IS 13450 : Part 2 : Sec 43  : 2016                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Medical electrical equipment: Part 2 particular requirements for the basic safety and essential performance: Sec 43 X-ray equipment for interventional procedures (First Revision)</td>
+                                                                  <td>                                                                      MHD 15</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>34</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzEyMzY=">
+
+                                                                          IS 13450 : Part 2 : Sec 45  : 2016                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Medical electrical equipment: Part 2 particular requirements for the basic safety and essential performance: Sec 45 mammographic X-ray equipment and mammographic stereotactic devices (First Revision)</td>
+                                                                  <td>                                                                      MHD 15</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>35</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzEyMzc=">
+
+                                                                          IS 13450 : Part 2 : Sec 54  : 2016                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Medical electrical equipment: Part 2 particular requirements for the basic safety and essential performance: Sec 54 X-ray equipment for radiography and radioscopy</td>
+                                                                  <td>                                                                      MHD 15</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>36</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzE1OTc=">
+
+                                                                          IS/ISO 7396 : Part 1  : 2007                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Medical gas pipeline systems: Part 1 pipeline systems for compressed medical gases and vacuum</td>
+                                                                  <td>                                                                      MHD 11</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>37</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzE2MTg=">
+
+                                                                          IS/ISO 7439  : 2015                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Copper - Bearing contraceptive intrauterine devices - Requirements and tests (First Revision)</td>
+                                                                  <td>                                                                      MHD 03</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>38</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzE2MTg=">
+
+                                                                          IS/ISO 7439  : 2015                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Copper - Bearing contraceptive intrauterine devices - Requirements and tests (First Revision)</td>
+                                                                  <td>                                                                      MHD 03</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>39</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzE2MjM=">
+
+                                                                          IS 3937 : Part 2  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      RECOMMENDATIONS FOR SOCKETING OF WIRE ROPES - PART 2 SOCKETING WITH WHITE METAL  Second Revision</td>
+                                                                  <td>                                                                      MED 10</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>40</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzE2MjQ=">
+
+                                                                          IS 4707 (Part 4) : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Classification Of Cosmetic Raw Materials And Adjuncts  -List of   UV Filters Allowed In Cosmetics With Restriction-IS 4707 Part 4</td>
+                                                                  <td>                                                                      PCD 19</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>41</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzE2ODI=">
+
+                                                                          IS 14936  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Triazophos, technical concentrates - Specification</td>
+                                                                  <td>                                                                      FAD 01</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>42</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzE2ODM=">
+
+                                                                          IS 1366  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Slotted Cheese Head Screws  ï¿½ Product Grade A  (Fourth Revision of IS 1366)</td>
+                                                                  <td>                                                                      PGD 37</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>43</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzE3NDc=">
+
+                                                                          IS/IEC 62680 : Part 1 : Sec 8  : 2019                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Universal Serial Bus Interfaces for Data and Power Part 1: Common Components Section 8: USB Audio 3.0 Devices Class Definition Terminal Types</td>
+                                                                  <td>                                                                      LITD 07</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>44</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzE3NjM=">
+
+                                                                          IS/ISO 10651 : Part 4  : 2002                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Lung ventilators for medical use - Particular requirements for basic safety and essential performance: Part 4 particular requirements for operator - Powered resuscitators</td>
+                                                                  <td>                                                                      MHD 11</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>45</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzE3NjM=">
+
+                                                                          IS/ISO 10651 : Part 4  : 2002                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Lung ventilators for medical use - Particular requirements for basic safety and essential performance: Part 4 particular requirements for operator - Powered resuscitators</td>
+                                                                  <td>                                                                      MHD 11</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>46</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzE5Njk=">
+
+                                                                          IS 4155 : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Glossary of Terms Relating to Chemical and Radiation Hazards and Hazardous Chemicals (First Revision)</td>
+                                                                  <td>                                                                      CHD 7</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>47</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzIwMzQ=">
+
+                                                                          IS 443 : Part 11  : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      METHODS OF TEST FOR RUBBER AND PLASTICS  TUBING HOSES AND HOSE ASSEMBLIES PART 11 RUBBER AND PLASTICS HOSES AND TUBING  MEASUREMENT OF FLEXIBILITY AND STIFFNESS  BENDING TESTS AT SUB-AMBIENT TEMPERATURES  ISO 10619-2 : 2021 IDT</td>
+                                                                  <td>                                                                      PCD 29</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>48</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzIyODM=">
+
+                                                                          IS 16150 : Part 5  : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      IS 16150 Part 5 Fish feed  Specification Part 5 Pangasius feed </td>
+                                                                  <td>                                                                      FAD 12</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>49</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzIzMDU=">
+
+                                                                          IS/ISO 14015  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Environmental management  Guidelines for environmental due diligence assessment first revision</td>
+                                                                  <td>                                                                      EED 01</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>50</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzIzNTU=">
+
+                                                                          IS 16412   : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Nanotechnologies  Characterization of multiwall carbon nanotubes  Mesoscopic shape factors</td>
+                                                                  <td>                                                                      MTD 33</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>51</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzIzNjQ=">
+
+                                                                          IS/ISO 1039   : 1995                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      CINEMATOGRAPHY - CORES FOR MOTION-PICTURE AND MAGNETIC FILM ROLLS  DIMENSIONS  ADOPTION OF ISO 1039: 1995</td>
+                                                                  <td>                                                                      MED 32</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>52</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzIzNjc=">
+
+                                                                          IS 3803 : Part 2  : 2022                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Steel  Conversion of elongation values  Part 2: Austenitic steels</td>
+                                                                  <td>                                                                      MTD 03</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>53</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzI2OTE=">
+
+                                                                          IS 18225   : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Media and Entertainment Services- Categorization of Programmes offered by Skill Development Service Providers </td>
+                                                                  <td>                                                                      SSD 13</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>54</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzI2OTE=">
+
+                                                                          IS 18225   : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Media and Entertainment Services- Categorization of Programmes offered by Skill Development Service Providers </td>
+                                                                  <td>                                                                      SSD 13</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>55</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzI3NzY=">
+
+                                                                          IS 13450 : Part 2 : Sec 21  : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Medical Electrical Equipment Part 2 Particular Requirements for the Basic Safety and Essential Performance Section 21 Infant Radiant Warmer First Revision</td>
+                                                                  <td>                                                                      MHD 15</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>56</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzI3OTI=">
+
+                                                                          IS 18078   : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Implants for surgery - Metal bone plates - Holes corresponding to screws with asymmetrical thread and spherical under-surface</td>
+                                                                  <td>                                                                      MHD 02</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>57</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzMyMTI=">
+
+                                                                          IS/IEC 61058 : Part 1 : Sec 2  : 2016                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      SWITCHES FOR APPLIANCES PART 1 GENERAL REQUIREMENTS SECTION 2 PARTICULAR REQUIREMENTS FOR ELECTRONICS SWITCHES </td>
+                                                                  <td>                                                                      ETD 14</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>58</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzMyMTg=">
+
+                                                                          IS/IEC/TR 62059 : Part 11  : 2002                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Electricity Metering Equipment  Dependability : Part 11 General concepts</td>
+                                                                  <td>                                                                      ETD 13</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>59</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzMzOTE=">
+
+                                                                          IS/ISO 11979 : PART 7  : 2006                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Ophthalmic implants - Intraocular lenses: Part 7 clinical investigations</td>
+                                                                  <td>                                                                      MHD 05</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>60</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzM1NTY=">
+
+                                                                          IS 18173   : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Daruharidra Berberis aristata DC Stem for use in  Traditional Medicine  Specification</td>
+                                                                  <td>                                                                      AYD 01</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>61</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzM2OTQ=">
+
+                                                                          IS 1448 : Part 191  : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Methods of test for petroleum and its products  Part  Determination of low-temperature cone penetration of lubricating greases</td>
+                                                                  <td>                                                                      PCD 01</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>62</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzQwNzg=">
+
+                                                                          IS 7155 : Part 7  : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      CODE OF RECOMMENDED PRACTICE FOR CONVEYOR SAFETY  PART 7  INSPECTION AND MAINTENANCE </td>
+                                                                  <td>                                                                      MED 06</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>63</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzQwODc=">
+
+                                                                          IS 9203 : Part 3  : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      FRICTION ROLLERS FOR MINE HAULAGE  TRACKS  SPECIFICATION  PART 3 TAPERED AND VERTICAL ROLLERS AND HORIZONTAL AND VERTICAL PULLEYS   [ First Revision of IS 9203 (Part 3) ]</td>
+                                                                  <td>                                                                      MED 08</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>64</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzQwODc=">
+
+                                                                          IS 9203 : Part 3  : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      FRICTION ROLLERS FOR MINE HAULAGE  TRACKS  SPECIFICATION  PART 3 TAPERED AND VERTICAL ROLLERS AND HORIZONTAL AND VERTICAL PULLEYS   [ First Revision of IS 9203 (Part 3) ]</td>
+                                                                  <td>                                                                      MED 08</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>65</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzQxNTA=">
+
+                                                                          IS 13725  : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Hexagon Head Screws With Metric Fine Pitch Thread  Product Grades A and B  Third Revision of 13275</td>
+                                                                  <td>                                                                      PGD 37</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                                                                                        <tr>
+                                                                  <td>66</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzQxNjM=">
+
+                                                                          IS 6660  : 2023                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Guide for illustration in books</td>
+                                                                  <td>                                                                      MSD 06</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                        </table>
+
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+
+                                            </table>
+
+                                            </table>
+
+
+
+                                          </div>
+                                        </div>
+
+
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <!-- Table getcrossreference details End-->
+
+
+                            <!-- Table classification details Start-->
+                            <div class="col-md-12 no-display" id='classificationTr' style="margin-top:20px; width:1024px;display:none">
+                              <div class="card">
+
+                                <div class="card-header card-primary" style="background-color: #007bff;color:#fff">
+                                  <h3 class="card-title">Classification Details</h3>
+
+                                </div>
+
+                                <div class="card-body">
+                                  <div class="row">
+                                    <div class="col-md-12 text-right">
+                                      
+
+                                      <!--
+  <a href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/downloadCrossReferences/MjU3NTA=">
+  <button class="btn1"><i class="fa fa-download"></i> Download</button>
+  </a>
+  -->
+                                    </div>
+
+                                  </div>
+                                </div>
+
+
+
+                                <div class="card-body">
+
+
+                                  <div class="panel-body">
+                                    <div class="col-sm-12">
+                                      <div>
+                                        <div class="portlet-title">
+
+                                          <div class="portlet-body">
+
+                                            <table class="table" id="proposal_details_data">
+
+                                              <tbody>
+                                                
+                                                    <tr>
+                                                      <th>Group</th>
+                                                      <th width="2%">:</th>
+                                                      <td>Food,  Food Products and food processing equipments</td>
+                                                    </tr>
+                                                    <tr>
+                                                      <th>Sub Group</th>
+                                                      <th width="2%">:</th>
+                                                      <td>Food Additives and Food Ingredients</td>
+                                                    </tr>
+                                                    <tr>
+                                                      <th>Sub Sub Group</th>
+                                                      <th width="2%">:</th>
+                                                      <td>Terminology & Other Functional Additives</td>
+                                                    </tr>
+                                                    <tr>
+                                                                                                                                                                <th>Aspect</th>
+                                                        <th width="2%">:</th>
+                                                        <td>Product Specification</td>
+                                                                                                          </tr>
+                                                    <tr>
+                                                                                                              <th>Certification</th>
+                                                        <th width="2%">:</th>
+                                                        

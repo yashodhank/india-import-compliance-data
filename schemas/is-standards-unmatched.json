@@ -1,0 +1,67 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "is-standards-unmatched",
+ "title": "IS numbers named in this repository that the BIS portal search did not match exactly",
+ "fields": [
+  {
+   "name": "is_no",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "is_base",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "pattern": "^\\d+$",
+    "required": true
+   }
+  },
+  {
+   "name": "part",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "pattern": "^\\d+$"
+   }
+  },
+  {
+   "name": "reason",
+   "type": "string",
+   "description": "Why there is no match",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "candidate_1",
+   "type": "string",
+   "description": "Nearest portal hits, shown and never guessed",
+   "constraints": {}
+  },
+  {
+   "name": "candidate_2",
+   "type": "string",
+   "description": "",
+   "constraints": {}
+  },
+  {
+   "name": "candidate_3",
+   "type": "string",
+   "description": "",
+   "constraints": {}
+  },
+  {
+   "name": "fetched_at",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+    "required": true
+   }
+  }
+ ]
+}

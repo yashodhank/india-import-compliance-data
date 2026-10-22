@@ -1,0 +1,1675 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Indian_standards - BIS Connect</title>
+     
+<link rel="icon" href="https://www.services.bis.gov.in/php/BIS_2.0/assets/dist/img/favicon.png" type="image/x-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/fontawesome-free/css/all.min.css">
+<!-- Tempusdominus Bbootstrap 4 -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
+<!-- iCheck -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+<!-- JQVMap -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/jqvmap/jqvmap.min.css">
+<!-- Theme style -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/dist/css/adminlte.min.css">
+<!-- overlayScrollbars -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+<!-- Daterange picker -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/daterangepicker/daterangepicker.css">
+<!-- summernote -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/summernote/summernote-bs4.css">
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/datatables-bs4/css/dataTables.bootstrap4.css">
+<!-- Google Font: Source Sans Pro -->
+<link href="https://www.services.bis.gov.in/php/BIS_2.0/assets/dist/css/fontcss.css" rel="stylesheet">
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/assets/dist/css/sweetalert.css">
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/assets/dist/css/jquery-ui.css">
+
+<!-- Prashant Report -->
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/dgdashboard/assets/plugins/datatable/datatables.min.css">
+<link rel="stylesheet" href="https://www.services.bis.gov.in/php/BIS_2.0/dgdashboard/assets/plugins/datatable/buttons.dataTables.min.css">
+<!-- Prashant Report -->
+  <style>
+    @media only screen and (min-width: 768px) {
+      .small-box>.inner {
+        padding: 10px;
+        height: 100px !important;
+      }
+    }
+  </style>
+
+</head>
+
+<body class="hold-transition sidebar-mini layout-fixed">
+  <div class="wrapper">
+
+    <!-- Navbar -->
+    <style>
+      .animated {
+        -webkit-animation-duration: 1s;
+        animation-duration: 1s;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+      }
+
+      .zoomIn {
+        -webkit-animation-name: zoomIn;
+        animation-name: zoomIn;
+      }
+
+      .wrap-tiles1 img {
+        max-width: 100% !important;
+        max-height: 100% !important;
+        width: 100% !important;
+        height: auto !important;
+        border-radius: 100%;
+        margin: 5px 0 0 0 !important;
+        background-size: cover;
+      }
+
+      .small-box p {
+        font-size: 0.90rem !important;
+      }
+    </style>
+    <style>
+      .small-box p {
+        font-size: 0.90rem !important;
+      }
+
+      /* New Css for tiles */
+
+      .wrap-tilesp img {
+        max-width: 100% !important;
+
+        max-height: 100%;
+        margin: auto !important;
+        display: block;
+      }
+
+      .grid3_bottom {
+        background: #a7b1c4;
+        border: 2px solid rgb(76, 100, 145);
+        margin-top: 7px;
+        box-shadow: 0px 3px 6px 0px #e8e8e8;
+      }
+
+      .wrap-tiles2 img {
+
+        max-width: 100% !important;
+        border-radius: 100%;
+
+      }
+
+      .wrap-tilesp {
+        height: 67px;
+        width: 71px;
+        float: left;
+        background: #f7f7f7;
+        padding: 0px;
+
+        border: 2px solid #d6d6d6;
+      }
+
+      .wrap_tilecont p {
+
+        margin-left: 10px;
+        color: #fff;
+        font-size: 12px;
+        line-height: 19px;
+
+      }
+
+      .wrap-tilespd img {
+        max-width: 100% !important;
+        border-radius: 100%;
+        padding: 3px;
+      }
+
+      .tiles1 {
+        background: #60005e;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+      .common_height {
+        min-height: 100px;
+      }
+
+      .tiles2 {
+
+        background: #004c64;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+
+      }
+
+      .tiles3 {
+
+        background: #001860;
+        ;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+
+      }
+
+      .tiles4 {
+
+        background: #752626;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+
+      }
+
+      .tiles5 {
+        background: #0a5ba2;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+      .tiles6 {
+        background: #347119;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+      .tiles7 {
+        background: #8a6307;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+      .tiles8 {
+        background: #007995;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+      .tiles9 {
+        background: #001860;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+      .tiles10 {
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+        background: #4032a2;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+      }
+
+      .tiles11 {
+        background: #006c44;
+        max-width: 100% !important;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+      }
+
+      .tiles12 {
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+        background: #6f5e04;
+        max-width: 100% !important;
+        padding: 5px;
+
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+      }
+
+      .row_first {
+        margin-top: 9px;
+      }
+
+      .navlog {
+        float: right;
+        padding: 2px 0px 7px 35px;
+      }
+
+      .wrap-tiles1 {
+        height: 48px;
+        width: 48px;
+        float: left;
+        background: #f7f7f7;
+        padding: 5px;
+        border-radius: 100%;
+        border: 2px solid #d6d6d6;
+      }
+
+      .wrap-tiles2 {
+
+        height: 48px;
+        width: 48px;
+        float: left;
+        background: #f7f7f7;
+        padding: 5px;
+        border-radius: 100%;
+        border: 2px solid #d6d6d6;
+      }
+
+      .wrap-tiles3 {
+
+
+        height: 48px;
+        width: 48px;
+        float: left;
+        background: #f7f7f7;
+        padding: 5px;
+        border-radius: 100%;
+        border: 2px solid #d6d6d6;
+
+      }
+
+      .overlay input[type=text]:hover {
+        background: #f1f1f1;
+      }
+
+      .overlay button {
+        float: left;
+        width: 20%;
+        padding: 15px;
+        background: #ddd;
+        font-size: 17px;
+        border: none;
+        cursor: pointer;
+      }
+
+      .overlay button:hover {
+        background: #bbb;
+      }
+
+      .bg-b-purple1 {
+        background: linear-gradient(45deg, #8368b0, #001c78);
+        background: -webkit-linear-gradient(45deg, #8368b0, #001c78);
+        color: #fff;
+        margin-bottom: 9px;
+        margin-top: 22px;
+      }
+
+      .common_height:hover {
+        padding: 30px !important -webkit-transition: all 300ms ease-in;
+        -ms-transition: all 500ms ease-in;
+        -moz-transition: all 500ms ease-in;
+        transition: all 500ms ease-in;
+        transform: scale(1.1);
+        z-index: 999;
+      }
+
+      .wrap-tilespv {
+
+        position: absolute;
+        z-index: 999999999 !important;
+        left: 0;
+        top: -59px;
+        border: 2px solid #fff;
+        padding: 3px;
+        background: #fff;
+        display: none;
+        transition: ease-in;
+
+
+      }
+
+      .bordt:hover .wrap-tilespv {
+
+        position: absolute;
+        z-index: 999999999 !important;
+        left: 0;
+        top: -59px;
+        border: 2px solid #fff;
+        padding: 3px;
+        background: #fff;
+        display: block;
+        transition: ease-in;
+
+
+      }
+
+      .copy_right p {
+        font-size: 13px;
+        color: #DDD;
+        text-align: left;
+        margin-top: 2px;
+      }
+
+      .common_height:hover .read_more .fa-arrow-circle-right {
+        color: #fff;
+
+        display: block;
+
+        position: relative;
+
+        top: -19px;
+      }
+
+      .common_height:hover .wrap-tiles1 {
+
+        width: 48px !important;
+        height: 48px !important;
+        line-height: 48px;
+
+      }
+
+      .heading_txt_tiles h3 {
+        color: #fff;
+        font-size: 20px !important;
+        display: inherit;
+        white-space: pre-line !important;
+        position: relative;
+        top: 10px;
+        left: 10px;
+        line-height: 17px;
+        text-align: left;
+        font-weight: bold;
+
+      }
+    </style>
+
+    <style>
+      .fas {
+        -moz-osx-font-smoothing: grayscale;
+        -webkit-font-smoothing: antialiased;
+        display: inline-block;
+        font-style: normal;
+        font-variant: normal;
+        text-rendering: auto;
+        line-height: 1;
+        margin-right: 6px !important;
+      }
+
+      ul:last-child {
+        padding-bottom: 70px;
+      }
+
+      .navbar-nav {
+        padding-bottom: 0px !important;
+      }
+
+      .layout-fixed .brand-link {
+        margin-bottom: 10px;
+      }
+
+      .fab {
+        font-family: "Font Awesome 5 Brands";
+        margin-right: 6px !important;
+      }
+
+      .ccc .bbb {
+        background-color: inherit !important;
+        color: #fff !important;
+        padding-left: 10px;
+
+      }
+
+      .ccc .ccc .bbb {
+        background-color: inherit !important;
+        color: #fff !important;
+        padding-left: 20px;
+
+      }
+
+      .ccc .aa {
+        background-color: #inherit !important;
+
+        color: #fff !important;
+        padding-left: 10px;
+
+      }
+
+      .flex-column .aa a {
+        background-color: rgba(255, 255, 255, .1);
+        color: #fff;
+      }
+
+      .ccc .aa:before {
+        content: ".";
+        font: 32px 'Consolas';
+        font-weight: 900;
+        color: #fff;
+        float: left;
+        padding: 0 0 0 10px;
+      }
+
+      .ccc .ccc .bbb:before {
+        content: "-";
+        font: 16px 'Consolas';
+        font-weight: 900;
+        color: #fff;
+        float: left;
+        padding: 11px 0 0 10px;
+      }
+    </style>
+
+
+    <style>
+      .content-header {
+        padding-top: 80px !important;
+      }
+    </style>
+    <style>
+      .clear {
+        clear: both;
+        margin-top: 20px;
+      }
+
+      #searchResult {
+        list-style: none;
+        padding: 0px;
+        width: 100%;
+        position: absolute;
+        margin: 0;
+        z-index: 10000;
+
+        max-height: 300px;
+        overflow-y: scroll;
+        scrollbar-color: rebeccapurple green;
+        scrollbar-width: thin;
+      }
+
+      /* for li list Css Start Here */
+      em {
+        font-weight: bold !important;
+      }
+
+      #searchResult li {
+        background: white;
+        padding: 4px;
+        font-size: 14px;
+
+      }
+
+      #searchResult li:nth-child(even) {
+        background: white;
+        color: black;
+      }
+
+      #searchResult li:hover {
+        cursor: pointer;
+        background: #eee;
+      }
+
+      /* End Here*/
+
+      input[type=text] {
+        width: 100%;
+        display: inline-block;
+        box-sizing: border-box;
+        border-radius: 10px !important;
+        border: 2px solid #d7dbe2b3;
+        padding: 20px;
+      }
+    </style>
+    <style>
+      @media only screen and (min-width: 768px) {
+        .small-box>.inner {
+          padding: 10px;
+          height: 100px !important;
+        }
+      }
+
+
+      .btn1 {
+        background-color: #007bff;
+        border: none;
+        color: white;
+        padding: 5px 20px 14px;
+        cursor: pointer;
+        font-size: 20px;
+      }
+
+      /* Darker background on mouse-over */
+      .btn1:hover {
+        background-color: RoyalBlue;
+      }
+
+
+
+      .common_height {
+        min-height: 100px !important;
+      }
+
+      label:not(.form-check-label):not(.custom-file-label) {
+        font-weight: bold !important;
+      }
+
+      .rly {
+
+        color: #000;
+        font-weight: normal !important;
+
+      }
+
+      .qs {
+
+        color: #060696;
+        font-weight: bold !important;
+      }
+
+
+      .form-group {
+        margin-bottom: 0rem !important;
+      }
+
+
+      .dataTables_filter,
+      div.dataTables_wrapper div.dataTables_filter {
+
+
+        margin-bottom: 20px;
+      }
+
+      table.dataTable thead th,
+      table.dataTable thead tr {
+
+        background-color: blue !important;
+      }
+
+      table.dataTable thead th,
+      table.dataTable thead td {
+
+        color: #fff !important;
+      }
+
+
+      #reload {
+
+        cursor: pointer;
+      }
+
+
+
+
+      .heading_txt_tiles_a {
+        color: #fff;
+        font-size: 14px !important;
+        display: inherit;
+        white-space: pre-line !important;
+        position: relative;
+        top: 20px;
+        left: 17px;
+        line-height: 17px;
+        text-align: left;
+
+
+      }
+
+
+      .tiles {
+
+        max-width: 100% !important;
+        padding: 5px;
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 20px;
+        box-shadow: 0px 0px 5px 4px #c8c8c8;
+      }
+
+
+      .center {
+        text-align: center;
+        width: 50%;
+        margin: 20px auto;
+      }
+
+      .center span {
+        display: inline-block;
+        padding: 6px 6px 4px;
+        border-radius: 3px;
+        background: #b09dc4;
+        margin-right: -2px;
+      }
+
+      .didyoumean {
+        text-align: center;
+        background: #eee !important;
+        cursor: auto !important;
+      }
+
+      .nothingmatch {
+        text-align: center;
+        background: #eee !important;
+        cursor: auto !important;
+
+      }
+
+      #searchResult li b {
+        font-weight: 600;
+      }
+
+      .warning {}
+
+          </style>
+
+    </head>
+
+    <body class="hold-transition sidebar-mini layout-fixed">
+       
+
+<style>
+
+.notification {
+              
+  color: white;
+  text-decoration: none;
+  padding: 6px 26px;
+  position: relative;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+
+
+.notification .badge {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  background: red;
+  color: white;
+}
+.fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    margin-right: 6px !important;
+}
+
+ul:last-child {    
+  padding-bottom:70px;
+}
+.navbar-nav{
+padding-bottom:0px !important;
+}
+
+.layout-fixed .brand-link{
+margin-bottom:10px;
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands";
+    margin-right: 6px !important;
+}
+.ccc .bbb{
+background-color:inherit !important;
+color:#fff !important;
+padding-left:10px;
+    
+}
+.ccc .ccc .bbb{
+background-color:inherit !important;
+color:#fff !important;
+padding-left:20px;
+    
+}
+
+.ccc .aa{
+background-color:#inherit !important;
+
+color:#fff !important;
+padding-left:10px;
+    
+}
+.flex-column .aa a{
+	background-color: rgba(255,255,255,.1);
+    color: #fff;
+}
+
+.ccc .aa:before{ content: ".";
+    font: 32px 'Consolas';
+    font-weight: 900;
+    color: #fff;
+    float: left;
+    padding: 0 0 0 10px;}	
+	
+.ccc .ccc .bbb:before{ content: "-";
+    font: 16px 'Consolas';
+    font-weight: 900;
+    color: #fff;
+    float: left;
+    padding: 11px 0 0 10px;}	
+
+</style>
+
+
+<link href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="https://www.services.bis.gov.in/php/BIS_2.0/plugins/fontawesome-free/css/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://www.services.bis.gov.in/php/BIS_2.0//common/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://www.services.bis.gov.in/php/BIS_2.0//common/css/style.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    
+<nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
+        <a href="https://www.services.bis.gov.in/php/BIS_2.0//eBIS" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+         <img src="https://www.services.bis.gov.in/php/BIS_2.0//eBIS/img/strip-logo.png" alt="logo" style="width:240px; height:70px;"/>
+        </a>
+        <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto p-4 p-lg-0">
+                <a href="/php/BIS_2.0/eBIS" class="nav-item nav-link active">Home</a>
+                <a href="/php/BIS_2.0/eBIS/about-standards" class="nav-item nav-link">About the Activity</a>
+				  <a href="https://www.bis.gov.in/standard-of-the-week/" target="_blank" class="nav-item nav-link">Standard of the Week</a>
+				    <a href="https://www.bis.gov.in/standard-of-the-month/" target="_blank" class="nav-item nav-link">Standard of the Month</a>
+                <a href="https://www.services.bis.gov.in/php/BIS_2.0/bistalks/" target="_blank" class="nav-item nav-link">BIS Talks</a>
+
+                <a href="/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails" target="_blank" class="nav-item nav-link">Know Your Standard</a>
+				<a href="https://www.bis.gov.in/directory/enquiry/" target="_blank" class="nav-item nav-link">Contact Us</a>
+            </div>
+                          <a href="/php/BIS_2.0/" target="_blank" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Login</a>
+              <!-- <a target="_blank" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block" onclick="history.back();">BACK</a> -->
+              <!-- <button style="width:90px;" id="bckButton" type="button" class="btn btn-primary" onclick="history.back();"><i class="fa fa-arrow-left"></i> Back</button> -->
+                         
+        </div>
+    </nav>  
+  
+  <script src="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/assets/global/plugins/jquery.min.js" type="text/javascript"></script> 
+					
+					
+<script src="https://www.services.bis.gov.in/php/BIS_2.0/plugins/jquery/jquery.min.js"></script>
+<link rel="icon" href="https://www.services.bis.gov.in/php/BIS_2.0/assets/dist/img/favicon.png" type="image/x-icon" />
+<!-- jQuery UI 1.11.4 -->
+ <script>
+$(function() {
+  $('input[name="daterange"]').daterangepicker({
+    opens: 'left',
+    locale: {
+      format: 'DD/MM/YYYY'
+    }
+  }, function(start, end, label) {
+   $('#start_date').val(start.format('DD/MM/YYYY'));
+    $('#end_date').val(end.format('DD/MM/YYYY'));
+	
+	//console.log("A new date selection was made: " + start.format('YYYY-MM-DD') + ' to ' + end.format('YYYY-MM-DD'));
+  });
+		
+		var backhistory = history.length;
+		if(backhistory > 1){
+		$("#bckButton").removeAttr("disabled");
+		
+		
+		}else{
+		$("#bckButton").attr("disabled", true);
+		
+		}
+		
+
+});
+</script>					  
+
+      <!-- Content Wrapper. Contains page content -->
+                <div class="content-wrapper" style="margin-left:0px; !important;">
+
+                    <!-- Content Header (Page header) -->
+          <div class="content-header">
+            <div class="container-fluid">
+              <div class="row mb-2">
+                <div class="col-sm-6">
+                  <h1 class="m-0 text-dark">Know your standards</h1>
+                </div><!-- /.col -->
+                <div class="col-sm-6">
+                  <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/">Home</a></li>
+                    <li class="breadcrumb-item active">Know your standards</li>
+                  </ol>
+                </div><!-- /.col -->
+              </div><!-- /.row -->
+            </div><!-- /.container-fluid -->
+          </div>
+          <center>
+            <div class="content-header" style="margin-top:-30px;">
+              <div class="container-fluid"> 
+                  <div class="row mb-2">       
+                  <div class="col-sm-12 float-sm-right" style="font-size: 15px;" >  
+                  <a class="btn btn-warning" target="_blank" href="https://standards.bis.gov.in/website/know-your-standards">
+                    <b>All the standards published after 01 Oct 2025 are available in new portal. Please click here to view the portal</b>
+                  </a>
+                </div>
+              </div>
+              </div><!-- /.row -->
+            </div><!-- /.container-fluid -->
+        </center>
+
+
+          <!-- Main content -->
+          <section class="content">
+            <br>
+            <div class="container-fluid">
+
+
+              <div class="card ">
+                <div class="card-header" style="background-color: #f7f6f68c !important;">
+                  <form class="form-horizontal" id="search_form" name="search_form" action="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/" method="post">
+
+                                        <input type="hidden" id="wh" name="wh" value="0">
+
+
+                    <input type="hidden" id="search_type" name="search_type" value="1">
+
+                    <div class="card-body">
+                      <div class="form-group row">
+
+
+
+                        <label for="inputEmail3" class="col-sm-3 col-form-label" style="font-weight:bold">Search Indian Standard (IS) :</label>
+                        <div class="col-sm-4">
+
+
+                          <div class="form-check form-check-inline" style="margin-top: 5px;">
+                            <input class="form-check-input" type="radio" name="seachby" id="inlineRadio1" onclick="ChangeSearchType('1');" value="isnumber" checked="checked">
+                            <label class="form-check-label" for="inlineRadio1" style="font-weight:bold;font-size:15px">By IS Number</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="seachby" id="inlineRadio2" onclick="ChangeSearchType('0');" value="keywords" >
+                            <label class="form-check-label" for="inlineRadio2" style="font-weight:bold;font-size:15px">By Keyword</label>
+                          </div>
+                          
+
+                          <div class="form-check form-check-inline" style="margin-top: 5px;">
+                            <input class="form-check-input" type="radio" name="seachby" id="inlineRadio4" onclick="ChangeToEchoMark();">
+                            <label class="form-check-label" for="seachbyechomark" style="font-weight:bold;font-size:14px">IS On ECO Mark</label>
+                          </div>
+
+                        </div>
+
+
+                        <div class="col-sm-4">
+                          <input type="text" value="" id="txt_search" autocomplete="off" name="txt_search" class="form-control" placeholder="Enter Indian Standard (IS) Number / Keyword"><br>
+                          <div id="multikeyword" style="display: none;"><label>Search multiple keywords:</label><br>Please enter multiple keywords or keyword strings separated by comma(,) and press enter to see multiple keyword search results</div>
+                                                    <ul id="searchResult"></ul>
+
+                          <div class="clear"></div>
+                        </div>
+                        <div class="col-sm-1">
+                          <button type="button" class="btn btn-labeled btn-primary" onclick="checkEmpty();">
+                            <i class="fas fa-search"></i>
+                          </button>
+                          <img src="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/images/refresh-icon.png" style="width:30px;vertical-align:middle" id="reload">
+
+                          <!--
+&nbsp;
+<a href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/ecomark" target="_blank"><img src="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/images/echo-mark_logo.jpeg" style="width:96px;vertical-align:middle;border:0px solid #fff"></a>
+-->
+
+                        </div>
+
+
+
+
+
+
+
+                        <input type="hidden" name="pk_is_id" id="pk_is_id" value="" />
+                        <input type="hidden" name="search_type" id="search_type" value="1" />
+                      </div>
+
+
+                    </div>
+
+                  </form>
+
+
+
+
+
+                </div>
+
+                <div id="loadingDiv">
+
+                  
+
+                  
+
+
+                  
+
+
+
+
+                </div>
+
+
+                <br>
+
+
+                                  <div class="card">
+
+
+
+
+
+                    <div class="card-header card-primary" style="background-color: #007bff;color:#fff">
+                      <div class="row">
+                        <div class="col-md-6">
+                          <h3 class="card-title" style="font-size:20px; font-weight:bold;color:#fff">Basic Details/ मूल ब्यौरा</h3>
+                        </div>
+                                                  <div class="col-md-6 text-right">
+                            <button onclick="submit_details(event,'30667')" style="background-color:#6538B1;color:#fff"><i class="fa fa-comments"></i>Comment</button>
+                          </div>
+                                                </div>
+
+
+                    </div>
+
+
+
+
+                    <div class="card-header">
+
+                      <div class="card-body">
+                                                      <div class="row">
+                              <div class="col-sm-8">
+                                                        <div class="form-group row">
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">IS Number/<label style="font-size:14px">आईएस संख्या</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-5 col-form-label text-left rly warning">
+                            IS 9360:2024<br>                          </label>                         
+
+                        </div>
+
+
+                        <div class="form-group row">
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs ">IS Title/<label style="font-size:14px">आईएस शीर्षक</label>
+                          </label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                            Carbofuran granules, encapsulated - Specification (first revision)                                                                                  </label>
+
+                        </div>
+
+                                                
+                                                  <div class="form-group row">
+                            <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Superseding IS/<label style="font-size:14px">सुपरसीडिंग आईएस</label></label>
+                            <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                            <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                              IS 9360 : 1980                            </label>
+                          </div>
+                        
+
+
+
+
+
+                        <div class="form-group row">
+
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Degree of Equivalence/<label style="font-size:14px">समतुल्यता स्तर</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                            Indigenous                          </label>
+
+
+
+                        </div>
+
+
+
+
+
+                        <div class="form-group row">
+
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Number of Revisions/<label style="font-size:14px">पुनरीक्षणों की संख्या</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                            1                          </label>
+
+
+                        </div>
+
+                        <div class="form-group row">
+
+
+
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Number of Amendments/<label style="font-size:14px">संशोधनों की संख्या</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                            No amendment issued                          </label>
+                        </div>
+
+
+
+
+                        <div class="form-group row">
+
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Aspect/<label style="font-size:14px">पक्ष</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                            Product Specification                          </label>
+
+
+                        </div>
+
+
+
+
+                        <div class="form-group row">
+
+
+
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Language/<label style="font-size:14px">भाषा</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center ">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                            English                          </label>
+                        </div>
+
+
+                        
+
+                        <div class="form-group row">
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Reaffirmation Year/<label style="font-size:14px">पुनर्पुष्टि वर्ष</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                                                      </label>
+
+                        </div>
+
+
+
+
+                        
+                          <div class="form-group row">
+
+
+                            <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Technical Department/<label style="font-size:14px">तकनीकी विभाग</label></label>
+                            <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                            <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+
+                              FAD (Food and Agriculture Department)                            </label>
+
+
+                          </div>
+
+
+
+                          <div class="form-group row">
+
+
+
+                            <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Technical Committee/<label style="font-size:14px">तकनीकी समिति</label></label>
+                            <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                            <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+                              FAD  01&nbsp;(Pesticides&nbsp; Sectional Committee)</label>
+                          </div>
+
+
+
+                        
+
+
+
+                        <div class="form-group row">
+
+
+
+                          <label for="inputEmail3" class="col-sm-3 col-form-label text-left qs">Member Secretary/<label style="font-size:14px">सदस्य सचिव</label></label>
+                          <label for="inputEmail3" class="col-sm-1 col-form-label text-center">:</label>
+                          <label for="inputEmail3" class="col-sm-8 col-form-label text-left rly warning">
+
+                             SUSHIL JAISINGHANI (SCIENTIST-C)</label>
+                        </div>
+
+                        
+                      </div>
+                      
+                          <div class="col-sm-4">
+                            <label for="inputEmail3" class="col-sm-12 col-form-label text-left rly warning">
+                                                      </label>
+
+                                                            <label for="inputEmail3" class="col-sm-12 col-form-label text-left qs">Summary/सारांश</label>  
+                                                                        
+                                          
+                                          <iframe id="myiframe" style="border:2px solid black;" height="50%" width="100%" src="/tmp/tbl5_2024-11-08_1135.pdf"></iframe>
+                                          <button style="background-color: #001860;" class="btn btn-primary" type="button" onclick="myFunction()">Expand in Fullscreen</button><br>
+                                          
+                                          
+                                                                    
+                        
+
+                        </div>
+
+
+
+
+
+
+
+                      </div>
+                    </div>
+
+                    <div class="card-header" style="background-color: #007bff;color:#fff">
+                      <h3 class="card-title" style="font-size:20px; font-weight:bold;background-color: #007bff; color:#fff">Other Details</h3>
+                    </div>
+
+
+                    <div class="card-header">
+                      <section class="content">
+                        
+                          <div class="container-fluid">
+                            <!-- Small boxes (Stat box) -->
+
+
+                            <div class="row">
+
+                              <div class="col-md-4 col-lg-4">
+
+                                <div class="tiles common_height animated zoomIn" style="background:#6ec2de;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/standardization-cells.png" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-left">
+                                      <h3>Indian Standard</h3>
+                                    </span>
+
+                                    <a href='https://standardsbis.bsbedge.com/search_redirect.aspx?id=30667' target='_blank' class='heading_txt_tiles_a' onclick='download_count(30667)'> Click to download  </a>
+                                  </div>
+                                </div>
+
+
+
+                              </div>
+
+
+
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background:#79a7e8;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/wc-draft1.png" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-left">
+                                      <h3>Amendment&nbsp;:&nbsp;0
+                                      </h3>
+                                    </span>
+                                                                          <!-- <a href="javascript:void(0);"   class="heading_txt_tiles_a">Click to download</a>-->
+                                    
+                                  </div>
+                                </div>
+                              </div>
+
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background:#7e8cf1;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/annual-action-plan.jpg" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                                                        <span class="heading_txt_tiles text-center">
+                                      <h3>Gazette Document&nbsp;:&nbsp;4</h3>
+                                    </span>
+                                                                          <br>
+                                      <a href="javascript:void(0);" id="getgazette" class="heading_txt_tiles_a">Click to download</a>
+                                      <!-- <a href="javascript:void(0);" onclick="getgazattees('16703')"  class="heading_txt_tiles_a">Click to view</a>-->
+                                                                      </div>
+                                </div>
+                              </div>
+
+                            </div>
+
+
+                            <div class="row" style="margin-top:30px;">
+
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background:#17b79c;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/Accreditation_of_SDOs.jpg" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-center">
+                                      <h3>License&nbsp;:&nbsp;0                                      </h3>
+                                    </span>
+
+                                                                          <!-- <a href="javascript:void(0);"    class="heading_txt_tiles_a">Click to view</a>-->
+                                                                      </div>
+                                </div>
+                              </div>
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background:#009a9c;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/mou.jpg" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-center">
+                                      <h3>Product Manual & SIT&nbsp;:&nbsp;1</h3>
+                                    </span>
+
+                                                                          <a href="javascript:void(0);" id="getsti" class="heading_txt_tiles_a">Click to download</a>
+                                    
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background:#007c92;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/p-drafts.jpg" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-center">
+                                      <h3>Laboratory&nbsp;:&nbsp;2</h3>
+                                    </span>
+
+                                                                          <a href="javascript:void(0);" id="getlabs" class="heading_txt_tiles_a">Click to view</a>
+                                                                      </div>
+                                </div>
+                              </div>
+                            </div>
+
+
+
+
+
+
+                            <div class="row" style="margin-top:30px;">
+
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background-color:#e51284;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/standards-for-review.png" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-center">
+                                      <h3>Classification Details</h3>
+                                    </span>
+
+                                    <a href="javascript:void(0);" id="getclassification" class="heading_txt_tiles_a">Click to view</a>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background-color:#cc1075;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/irda.jpg" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-center">
+                                      <h3>Cross Reference Details</h3>
+                                    </span>
+                                    <a href="javascript:void(0);" id="getcrossreference" class="heading_txt_tiles_a">Click to view</a>
+                                  </div>
+                                </div>
+                              </div>
+
+
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background-color:#B20E66;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/publish-standards.png" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                    <span class="heading_txt_tiles text-center">
+                                      <h3>Composition</h3>
+                                    </span>
+                                    <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/dgdashboard/committee_sso/composition/272/2" class="heading_txt_tiles_a">Click to View</a>
+                                  </div>
+                                </div>
+                              </div>
+
+
+
+
+
+
+                            </div>
+
+
+                            <div class="row" style="margin-top:30px;">
+                              
+
+                              <div class="col-md-4 col-lg-4 padd6 ">
+                                <div class="tiles common_height animated zoomIn" style="background:#7e8cf1;">
+                                  <div class="wrap-tiles2"><img src="https://www.services.bis.gov.in/php/BIS_2.0/assets/img/annual-action-plan.jpg" style="width:38px; height:38px;"></div>
+                                  <div class="">
+                                                                        <span class="heading_txt_tiles text-center">
+                                      <h3>Corrigendum &nbsp;:&nbsp;0</h3>
+                                    </span>
+                                                                      </div>
+                                </div>
+                              </div>
+
+                            </div>
+
+
+
+
+                            <!-- /.row (main row) -->
+                          </div><!-- /.container-fluid -->
+                        
+                      </section>
+
+                    </div>
+                    <div class="card-header">
+
+
+
+
+
+
+                      <section class="content">
+
+
+
+
+
+
+                        <div class="container-fluid">
+                          <!-- Small boxes (Stat box) -->
+                          <div class="row justify-content-around" id="content_area">
+
+
+
+
+                            <!-- Table getcrossreference details Start-->
+                            <div class="col-md-12 no-display" id='crossreferenceTr' style="margin-top:20px; width:1024px;display:none">
+                              <div class="card">
+
+                                <div class="card-header card-primary" style="background-color: #007bff;color:#fff">
+                                  <h3 class="card-title">Cross Reference Details</h3>
+
+                                </div>
+
+
+                                <div class="card-body">
+                                  <div class="row">
+                                    <div class="col-md-12 text-right">
+
+                                      
+
+                                      <a href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/downloadCrossReferences/MTY3MDM=/MzA2Njc=">
+                                        <button class="btn1"><i class="fa fa-download"></i> Download</button>
+                                      </a>
+                                    </div>
+
+                                  </div>
+                                </div>
+
+
+                                <div class="card-body">
+
+
+                                  <div class="panel-body">
+                                    <div class="col-sm-12">
+                                      <div>
+                                        <div class="portlet-title">
+
+                                          <div class="portlet-body">
+
+
+                                            <table class="table" id="proposal_details_data">
+
+                                              <tbody>
+                                                <tr>
+                                                  <th>Indian Standards Referred In IS IS 9360:2024<br> :</th>
+                                                  <td>
+                                                    
+                                                      <table class="table table-bordered table-striped table-condensed flip-content" id="CrossReferenceDetails">
+                                                        <tbody>
+                                                          <!-- <tr>
+                                                            <th>SNo</th>
+                                                            <th>IS Number</th>
+                                                            <th>Title</th>
+                                                            <th>Technical Committee</th>
+                                                          </tr> -->
+                                                                                                                          <tr>
+                                                                  <td>
+                                                                    <center>1</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MTEzMjQ=">
+                                                                        IS 460 (Part 1):2020<br> <br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>Test Sieves — Specification Part 1 Wire Cloth Test Sieves ( Fourth Revision ) </td>
+                                                                  <td>CED 55</td>
+                                                                </tr>
+                                                                                                                            <tr>
+                                                                  <td>
+                                                                    <center>2</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzM3NDE=">
+                                                                        IS 19297:2025<br>ISO 23806: 2022<br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>Reagent Grade Water  Specification (Fourth Revision)</td>
+                                                                  <td>CHD 13</td>
+                                                                </tr>
+                                                                                                                            <tr>
+                                                                  <td>
+                                                                    <center>3</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzI5ODY=">
+                                                                        IS 6940:2025<br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>Methods of test for pesticides and their formulations (First Revision)</td>
+                                                                  <td>FAD 01</td>
+                                                                </tr>
+                                                                                                                            <tr>
+                                                                  <td>
+                                                                    <center>4</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MTUyNzQ=">
+                                                                        IS 8190 (Part 1):1988<br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>Requirements for packing of pesticides: Part 1 solid pesticides (Second Revision)</td>
+                                                                  <td>FAD 01</td>
+                                                                </tr>
+                                                                                                                            <tr>
+                                                                  <td>
+                                                                    <center>5</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzI0MDA=">
+                                                                        IS 18721:2024<br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>PHORATE G ENCAPSULATED  SPECIFICATION  Second Revision </td>
+                                                                  <td>FAD 01</td>
+                                                                </tr>
+                                                                                                                            <tr>
+                                                                  <td>
+                                                                    <center>6</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MTQ3Mw==">
+                                                                        IS 10627:1983<br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>Methods for sampling of pesticidal formulations</td>
+                                                                  <td>FAD 01</td>
+                                                                </tr>
+                                                                                                                            <tr>
+                                                                  <td>
+                                                                    <center>7</center>
+                                                                  </td>
+                                                                  <td>
+                                                                                                                                          <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzM1ODg=">
+                                                                        IS 11019:2025<br>                                                                      </a>
+                                                                                                                                      </td>
+                                                                  <td>Specification for carbofuran, technical</td>
+                                                                  <td>FAD 01</td>
+                                                                </tr>
+                                                                                                                  </table>
+                                                                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <th>International Standards Referred In IS 9360:2024<br></th>
+                                                  <td>
+
+                                                    Standard contains no Cross Referenced International Standard.
+
+
+
+                                                  </td>
+                                                </tr>
+
+
+                                                <tr>
+                                                  <th>IS 9360:2024<br> is Referred in following Indian Standards :</th>
+                                                  <td>
+
+                                                    
+                                                      <table class="table table-bordered table-striped table-condensed flip-content" id="ReferredinfollowingIndianStandards">
+                                                        <tbody>
+                                                          <!-- <tr>
+                                                            <th>SNo</th>
+                                                            <th>IS Number</th>
+                                                            <th>Title</th>
+                                                            <th>Technical Committee</th>
+                                                          </tr> -->
+                                                                                                                          <tr>
+                                                                  <td>1</td>
+
+
+                                                                  <td>
+                                                                                                                                              <a target="_blank" href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/NDg5Mg==">
+
+                                                                          IS 13358 : Part 1  : 1992                                                                        </a>
+                                                                      
+
+
+
+
+                                                                    
+                                                                  </td>
+
+
+
+
+
+                                                                  <td>                                                                      Cultivation of aromatic plantscode of practice: Part 1 geranium</td>
+                                                                  <td>                                                                      PCD 18</td>
+
+
+
+
+
+                                                                </tr>
+
+
+                                                        </table>
+
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+
+                                            </table>
+
+                                            </table>
+
+
+
+                                          </div>
+                                        </div>
+
+
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <!-- Table getcrossreference details End-->
+
+
+                            <!-- Table classification details Start-->
+                            <div class="col-md-12 no-display" id='classificationTr' style="margin-top:20px; width:1024px;display:none">
+                              <div class="card">
+
+                                <div class="card-header card-primary" style="background-color: #007bff;color:#fff">
+                                  <h3 class="card-title">Classification Details</h3>
+
+                                </div>
+
+                                <div class="card-body">
+                                  <div class="row">
+                                    <div class="col-md-12 text-right">
+                                      
+
+                                      <!--
+  <a href="https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/downloadCrossReferences/MTY3MDM=">
+  <button class="btn1"><i class="fa fa-download"></i> Download</button>
+  </a>
+  -->
+                                    </div>
+
+                                  </div>
+                                </div>
+
+
+
+                                <div class="card-body">
+
+
+                                  <div class="panel-body">
+                                    <div class="col-sm-12">
+                                      <div>
+                                        <div class="portlet-title">
+
+                                          <div class="portlet-body">
+
+                                            <table class="table" id="proposal_details_data">
+
+                                              <tbody>
+                                                
+                                                    <tr>
+                                                      <th>Group</th>
+                                                      <th width="2%">:</th>
+                                                      <td>Agriculture, Agricultural Products and Implements</td>
+                                                    </tr>
+                                                    <tr>
+                                                      <th>Sub Group</th>
+                                                      <th width="2%">:</th>
+                                                      <td>Pesticides and Insecticides</td>
+                                                    </tr>
+                                                    <tr>
+                                                      <th>Sub Sub Group</th>
+                                                      <th width="2%">:</th>
+                                                      <td>Pesticides</td>
+                                                    </tr>
+                                                    <tr>
+                                                                                                                                                                <th>Aspect</th>
+                                                        <th width="2%">:</th>
+                                                        <td>Product Specification</td>
+                                                                                                          </tr>
+                                                    <tr>
+                                                                                                              <th>Certification</th>
+                                                        <th width="2%">:</th>
+                                                        

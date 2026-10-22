@@ -1,0 +1,151 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "is-standards",
+ "title": "IS standards metadata from BIS Know Your Standards (no standard texts)",
+ "fields": [
+  {
+   "name": "is_no",
+   "type": "string",
+   "description": "IS number and part as this repository names it, e.g. IS 302 (Part 1); the key",
+   "constraints": {
+    "pattern": "^IS \\d+( \\(Part \\d+\\))?$",
+    "required": true
+   }
+  },
+  {
+   "name": "is_base",
+   "type": "string",
+   "description": "Number without part",
+   "constraints": {
+    "pattern": "^\\d+$",
+    "required": true
+   }
+  },
+  {
+   "name": "part",
+   "type": "string",
+   "description": "Part number, blank when the standard has none",
+   "constraints": {
+    "pattern": "^\\d+$"
+   }
+  },
+  {
+   "name": "title",
+   "type": "string",
+   "description": "Title as the portal prints it (portal mojibake repaired where detectable)",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "year",
+   "type": "string",
+   "description": "Year of the latest edition the portal lists",
+   "constraints": {
+    "pattern": "^\\d{4}$"
+   }
+  },
+  {
+   "name": "status",
+   "type": "string",
+   "description": "current, withdrawn, superseded or unknown; read from the portal result list, not the details page",
+   "constraints": {
+    "enum": [
+     "current",
+     "withdrawn",
+     "superseded",
+     "unknown"
+    ],
+    "required": true
+   }
+  },
+  {
+   "name": "superseded_by",
+   "type": "string",
+   "description": "Text after \"Superceded by\" in the result list",
+   "constraints": {}
+  },
+  {
+   "name": "supersedes",
+   "type": "string",
+   "description": "The portal's \"Superseding IS\" field: the older edition this one replaces",
+   "constraints": {}
+  },
+  {
+   "name": "amendments",
+   "type": "string",
+   "description": "JSON list of {number, year, file}; file names only, no download followed",
+   "constraints": {}
+  },
+  {
+   "name": "reaffirmed_year",
+   "type": "string",
+   "description": "Reaffirmation year as printed",
+   "constraints": {}
+  },
+  {
+   "name": "qco_status_label",
+   "type": "string",
+   "description": "The QCO label printed on the details page; the QCO document list itself is gated and not fetched",
+   "constraints": {}
+  },
+  {
+   "name": "classification",
+   "type": "string",
+   "description": "JSON object: group, sub group, aspect, certification, ministries, ITC-HS code as printed. No ICS: the public page has none",
+   "constraints": {}
+  },
+  {
+   "name": "committee",
+   "type": "string",
+   "description": "Technical committee",
+   "constraints": {}
+  },
+  {
+   "name": "list_flags",
+   "type": "string",
+   "description": "The result-list row text for the chosen edition, verbatim",
+   "constraints": {}
+  },
+  {
+   "name": "match_note",
+   "type": "string",
+   "description": "How the edition was chosen",
+   "constraints": {}
+  },
+  {
+   "name": "pk_is_id",
+   "type": "integer",
+   "description": "Portal internal id of the chosen edition; names the archived page raw/is-standards/<date>/<pk>.html",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "source_url",
+   "type": "string",
+   "description": "The BIS details page the record was read from (a POST form; pk_is_id selects the standard)",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "fetched_at",
+   "type": "string",
+   "description": "UTC timestamp of the fetch",
+   "constraints": {
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+    "required": true
+   }
+  },
+  {
+   "name": "sha256_detail",
+   "type": "string",
+   "description": "SHA-256 of the details page bytes as received",
+   "constraints": {
+    "pattern": "^[0-9a-f]{64}$",
+    "required": true
+   }
+  }
+ ]
+}

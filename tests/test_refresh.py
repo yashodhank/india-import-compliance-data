@@ -15,7 +15,8 @@ from pipeline import refresh as rf  # noqa: E402
 def clone():
     d = tempfile.mkdtemp(prefix='icd-')
     for sub in ('raw', 'data'):
-        shutil.copytree(os.path.join(REPO, sub), os.path.join(d, sub))
+        # the IS-standards page archive (pipeline.adapter_kys, monthly, 120 MB) is not part of the offline rebuild
+        shutil.copytree(os.path.join(REPO, sub), os.path.join(d, sub), ignore=shutil.ignore_patterns('is-standards') if sub == 'raw' else None)
     return d
 
 
@@ -49,6 +50,7 @@ class RefreshTest(unittest.TestCase):
         shutil.copy(os.path.join(REPO, 'data', 'qco', 'gazette-pdf-hashes.csv'), os.path.join(self.root, 'data', 'qco'))
         shutil.copytree(os.path.join(REPO, 'data', 'hs6'), os.path.join(self.root, 'data', 'hs6'))  # a static input, not rebuilt from raw/
         shutil.copytree(os.path.join(REPO, 'data', 'hs-links'), os.path.join(self.root, 'data', 'hs-links'))  # static inputs imported once by pipeline.hs_links
+        shutil.copytree(os.path.join(REPO, 'data', 'is-standards'), os.path.join(self.root, 'data', 'is-standards'))  # fetched monthly by pipeline.adapter_kys
         rf.run(self.root, '2026-10-22', offline=True)
         got = tree(self.root)
         self.assertEqual(sorted(want), sorted(got))

@@ -1,0 +1,86 @@
+name: refresh-is-standards
+
+# Monthly, not weekly: the IS-standards metadata takes 3 to 4 requests per reference, 2 seconds apart (about 1,300 references). One run
+# fetches at most 400 references (never fetched first, then the oldest); a 403 or 429 from the portal stops it with exit 3 and the next
+# run resumes from data/is-standards/*.csv.
+on:
+  schedule:
+    - cron: '0 21 1 * *'   # 1st of the month, 02:30 IST
+  workflow_dispatch:
+    inputs:
+      max_refs:
+        description: references to fetch in this run
+        default: '400'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 150
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Install pytest
+        run: python -m pip install -r requirements-dev.txt
+
+      - name: Fetch IS-standards metadata (stops on 403 or 429; the next run resumes)
+        id: kys
+        run: |
+          set +e
+          python -m pipeline.adapter_kys --max-refs "${{ github.event.inputs.max_refs || '400' }}"
+          rc=$?
+          echo "rc=$rc" >> "$GITHUB_OUTPUT"
+          # 0 = done, 3 = blocked by the portal (partial progress is kept); anything else is a failure
+          if [ "$rc" != "0" ] && [ "$rc" != "3" ]; then exit "$rc"; fi
+
+      - name: Rebuild the measures join, then verify the tree
+        run: |
+          python -m pipeline.measures > /dev/null
+          python packages/sync.py
+          python -m pipeline.datapackage
+          python -m pytest tests -q
+
+      - name: Commit and release
+        run: |
+          set -euo pipefail
+          git add -A data raw packages datapackage.json
+          if git diff --cached --quiet; then echo "nothing changed"; exit 0; fi
+          TAG="v$(date -u +%Y.%m.%d)"
+          if gh release view "$TAG" >/dev/null 2>&1; then TAG="${TAG}.$(date -u +%H%M)"; fi
+          git config user.name "data-refresh"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          printf '## %s, %s\n\nIS-standards metadata refresh from BIS Know Your Standards. Counts: data/is-standards/BUILD-REPORT.json.\n' "$TAG" "$(date -u +%Y-%m-%d)" > changelog-entry.md
+          python - "$TAG" <<'PY'
+          import sys
+          entry = open('changelog-entry.md', encoding='utf-8').read()
+          old = open('CHANGELOG.md', encoding='utf-8').read()
+          head, sep, rest = old.partition('\n## ')
+          open('CHANGELOG.md', 'w', encoding='utf-8').write(head + '\n' + entry + ('\n## ' + rest if sep else ''))
+          PY
+          git add CHANGELOG.md
+          git commit -m "data: monthly IS-standards refresh $TAG"
+          git push origin HEAD:main
+          python -m pipeline.assets dist
+          gh release create "$TAG" --title "$TAG" --notes-file changelog-entry.md dist/*
+
+      - name: Open or update an issue on failure
+        if: failure()
+        run: |
+          set -euo pipefail
+          url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          body="The monthly IS-standards refresh failed and published nothing. Run: ${url}"
+          num="$(gh issue list --label refresh-failure --state open --json number --jq '.[0].number // empty')"
+          if [ -n "$num" ]; then gh issue comment "$num" --body "$body"; else gh issue create --title "IS-standards refresh failed" --label refresh-failure --body "$body"; fi

@@ -1,0 +1,3 @@
+file,source_url,retrieved_on,sha256,rows,source_rows,page_date,parser,raw_file,raw_sha256,raw_bytes,raw_committed,fetch_method,fetch_tier,fetch_cost_usd
+standards.csv,https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails,2026-10-22,5e83acf0b3a4868f54040f1226c99f7a062262f4afd7885a6fd699971c0126a9,1187,1187,,pipeline.adapter_kys,raw/is-standards/2026-10-22/,66fe19b25992864715ad53ace98be478cd30768cd89256a73c7e1a83a8f6b21c,126367090,yes,direct,,
+unmatched.csv,https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails,2026-10-22,512f5c39781969007ec6a5284cba9f6c624de551444c7c5521660978fde66cb4,64,64,,pipeline.adapter_kys,,,,no,direct,,
