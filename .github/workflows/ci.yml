@@ -1,0 +1,27 @@
+name: ci
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install poppler (PDF lists) and pytest
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+          python -m pip install -r requirements-dev.txt
+      - name: Tests, golden files and schema validation of every published CSV
+        run: python -m pytest tests -q
+      - name: Count the tests that ran
+        run: python -m pytest tests --collect-only -q | tail -1

@@ -1,0 +1,104 @@
+name: refresh
+
+on:
+  schedule:
+    - cron: '30 20 * * 0'   # Monday 02:00 IST (Sunday 20:30 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install poppler (PDF lists) and pytest
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+          python -m pip install -r requirements-dev.txt
+
+      # The policy lives in the pipeline: a fetch error, a parse failure, a parsed count that differs from the source's own count, or a
+      # list that shrinks by more than half exits non-zero and writes nothing. This step is allowed to fail, and nothing after it runs then.
+      - name: Fetch, parse, assert, write
+        run: python -m pipeline.refresh --report refresh-report.json --changelog-md changelog-entry.md
+
+      - name: Verify the rebuilt tree (schemas, invariants, golden tests)
+        run: python -m pytest tests -q
+
+      - name: Did anything change?
+        id: diff
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          r = json.load(open('refresh-report.json'))
+          assert r['status'] == 'ok', r
+          print('changed=' + ('true' if r.get('changed') else 'false'))
+          PY
+          git status --short | head -20
+
+      - name: Commit, changelog entry and release
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          set -euo pipefail
+          TAG="v$(date -u +%Y.%m.%d)"
+          if gh release view "$TAG" >/dev/null 2>&1; then TAG="${TAG}.$(date -u +%H%M)"; fi
+          python - "$TAG" <<'PY'
+          import sys
+          entry = open('changelog-entry.md', encoding='utf-8').read().replace('## ', '## %s, ' % sys.argv[1], 1)
+          old = open('CHANGELOG.md', encoding='utf-8').read()
+          head, sep, rest = old.partition('\n## ')
+          open('CHANGELOG.md', 'w', encoding='utf-8').write(head + '\n' + entry + ('\n## ' + rest if sep else ''))
+          PY
+          git config user.name "data-refresh"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data raw CHANGELOG.md
+          git commit -m "data: weekly refresh $TAG" -m "$(cat changelog-entry.md)"
+          git push origin HEAD:main
+          gh release create "$TAG" --title "$TAG" --notes-file changelog-entry.md \
+            data/itchs/2022/all.csv data/qco/register.csv data/qco/register.json data/derived/hs-scheme-candidates.csv \
+            data/bis/*.csv data/tec/mtcte.csv data/bee/*.csv
+
+      - name: Open or update an issue on failure
+        if: failure()
+        run: |
+          set -euo pipefail
+          reason="$(python - <<'PY'
+          import json
+          try:
+              print(json.load(open('refresh-report.json')).get('reason', 'a later step failed; see the run log'))
+          except Exception:
+              print('the run failed before a report was written; see the run log')
+          PY
+          )"
+          url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          body="The weekly refresh failed and published nothing.
+
+          Reason: ${reason}
+
+          Run: ${url}"
+          num="$(gh issue list --label refresh-failure --state open --json number --jq '.[0].number // empty')"
+          if [ -n "$num" ]; then
+            gh issue comment "$num" --body "$body"
+          else
+            labels="$(gh label list --json name --jq '.[].name')"
+            case "$labels" in
+              *refresh-failure*) ;;
+              *) gh label create refresh-failure --color B60205 --description "weekly refresh failed" ;;
+            esac
+            gh issue create --title "Weekly refresh failed" --label refresh-failure --body "$body"
+          fi
