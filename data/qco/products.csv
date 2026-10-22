@@ -27,7 +27,7 @@ agro-textiles-quality-control-order-2023,Flexible Water Storage Tank for Agricul
 agro-textiles-quality-control-order-2023,Hail Protection Nets for Agriculture and Horticulture Purposes- Warp Knitted Hail Protection Nets,IS 17730 (Part 1) : 2021,active,Agro Textiles,,isi_qco.csv,546
 agro-textiles-quality-control-order-2023,Hail Protection Nets for Agriculture and Horticulture Purposes – Woven Hail Protection Nets,IS 17730 (Part 2) : 2021,active,Agro Textiles,,isi_qco.csv,547
 agro-textiles-quality-control-order-2023,Laminated Woven Orchard Protection Covers,IS 17731 : 2021,active,Agro Textiles,,isi_qco.csv,548
-air-cleaning-appliances,Air-Cleaning Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,68
+air-cleaning-appliances,Air-Cleaning Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,66
 air-conditioner-and-its-related-parts-hermetic-compressor-and-temperature-sensin,Room Air Conditioners- Specification Part 1 Unitary Air Conditioners,IS 1391 (Part-1): 2017,active,"Air Conditioner and its related Parts, Hermetic Compressor and Temperature Sensing Controls",,isi_qco.csv,299
 air-conditioner-and-its-related-parts-hermetic-compressor-and-temperature-sensin,Room Air Conditioners- Specification Part 2 Split Air Conditioners,IS 1391 (Part-2): 2018,active,"Air Conditioner and its related Parts, Hermetic Compressor and Temperature Sensing Controls",,isi_qco.csv,300
 air-conditioner-and-its-related-parts-hermetic-compressor-and-temperature-sensin,Ducted and Package Air Conditioners,IS 8148:2018,active,"Air Conditioner and its related Parts, Hermetic Compressor and Temperature Sensing Controls",,isi_qco.csv,301
@@ -35,7 +35,7 @@ air-conditioner-and-its-related-parts-hermetic-compressor-and-temperature-sensin
 air-conditioner-and-its-related-parts-hermetic-compressor-and-temperature-sensin,Hermetic compressor Hermetic Compressors-Specification,IS 10617:2018,active,"Air Conditioner and its related Parts, Hermetic Compressor and Temperature Sensing Controls",,isi_qco.csv,303
 air-cooler-and-air-filters-quality-control-order-2023,Evaporative Air Coolers (Desert Coolers),IS 3315:2019,active,Air Cooler and Air Filters,,isi_qco.csv,623
 air-cooler-and-air-filters-quality-control-order-2023,Air Filters for general ventilation – Technical specifications requirements and classification system based upon particulate matter efficiency (ePM),IS 17570 (Part 1): 2021 ISO 16890-2: 2016,active,Air Cooler and Air Filters,,isi_qco.csv,624
-all-electrical-appliance-intended-for-household-commercial-or-similar-applicatio,"All electrical appliance intended for household,commercial or similar application with rated voltage not exceeding 250 V for single-phase appliances and 480 V for other appliances including direct current supplied appliances and battery operated appliances Illustrative list of electrical appliances is given below:",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,4
+all-electrical-appliance-intended-for-household-commercial-or-similar-applicatio,"All electrical appliance intended for household,commercial or similar application with rated voltage not exceeding 250 V for single-phase appliances and 480 V for other appliances including direct current supplied appliances and battery operated appliances Illustrative list of electrical appliances is given below:",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,2
 aluminium-and-aluminium-alloy-products-quality-control-order-2023,Aluminium alloy tubes for irrigation purposes -welded tubes,IS 7092 (Part 1):1992,active,Aluminium and Aluminium Alloy Products,,isi_qco.csv,504
 aluminium-and-aluminium-alloy-products-quality-control-order-2023,Aluminium alloy tube for irrigation purposes – extruded tube,IS 7092 (Part 2):1987,active,Aluminium and Aluminium Alloy Products,,isi_qco.csv,505
 aluminium-and-aluminium-alloy-products-quality-control-order-2023,EC Grade Aluminium Rod produced by Continuous Casting and Rolling,IS 5484:1997,active,Aluminium and Aluminium Alloy Products,,isi_qco.csv,506
@@ -58,12 +58,15 @@ aluminium-and-aluminium-alloys-quality-control-order-2023,High purity primary al
 aluminium-and-aluminium-alloys-quality-control-order-2023,Aluminum alloy ingots for remelting for general engineering purpose,IS 6754:1972,withdrawn,Metals and Alloys,,isi_qco.csv,484
 aluminium-and-aluminium-alloys-quality-control-order-2023,Primary aluminium ingots for remelting for general engineering purpose,IS 2590 : 1987,withdrawn,Metals and Alloys,,isi_qco.csv,485
 aluminium-and-aluminium-alloys-quality-control-order-2023,Aluminum ingots billets and wire bars (EC GRADE),IS 4026 : 2023,withdrawn,Metals and Alloys,,isi_qco.csv,486
-aluminium-cans-for-beverages,Aluminium cans for beverages,IS 14407:2023,upcoming,,2026-10-01,qco_upcoming.csv,3
+aluminium-cans-for-beverages,Aluminium cans for beverages,IS 14407:2023,upcoming,,2027-04-01,qco_upcoming.csv,121
 aluminium-foil-quality-control-order-2020,Aluminium and Aluminium Alloy Bare Foil for Food Packaging,IS 15392,active,Aluminium Foil,,isi_qco.csv,324
-amusement-machines-and-personal-service-machines,Amusement Machines and Personal Service Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,73
+amusement-machines-and-personal-service-machines,Amusement Machines and Personal Service Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,71
 aniline-quality-control-order-2019,Aniline,IS 2833:2019,active,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,240
-appliances-for-heating-liquids,Appliances for Heating Liquids,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,12
-appliances-for-skin-exposure-to-optical-radiation,Appliances for Skin Exposure to Optical Radiation,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,48
+animal-feeds-and-feed-ingredients-quaity-control-order-2026,Mineral mixtures for supplementing cattle feeds,IS 1664,active,Non-ferrous refined metals,,isi_qco.csv,801
+animal-feeds-and-feed-ingredients-quaity-control-order-2026,"Dicalcium Phosphate, animal feed grade",IS 5470,active,Non-ferrous refined metals,,isi_qco.csv,802
+animal-feeds-and-feed-ingredients-quaity-control-order-2026,Common salt and cattle licks for animal consumption,IS 920,active,Non-ferrous refined metals,,isi_qco.csv,803
+appliances-for-heating-liquids,Appliances for Heating Liquids,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,10
+appliances-for-skin-exposure-to-optical-radiation,Appliances for Skin Exposure to Optical Radiation,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,46
 asbestos-or-fibre-cement-based-products-quality-control-order-2024,Corrugated and Semi – Corrugated Asbestos Cement Sheets,IS 459:1992,active,Asbestos or Fibre Cement based Products,,isi_qco.csv,631
 asbestos-or-fibre-cement-based-products-quality-control-order-2024,Asbestos Cement Pressure Pipes and Joints,IS 1592:2003,active,Asbestos or Fibre Cement based Products,,isi_qco.csv,632
 asbestos-or-fibre-cement-based-products-quality-control-order-2024,Asbestos Cement Flat Sheets,IS 2096:1992,active,Asbestos or Fibre Cement based Products,,isi_qco.csv,633
@@ -80,10 +83,10 @@ automobile-wheel-rim-component-quality-control-order-2020,Automotive Vehicles Wh
 automobile-wheel-rim-component-quality-control-order-2020,Automotive Vehicles Wheel Rims for Two and Three Wheeled Vehicles Part 3 Spoke Wheel Rims Method of Tests and Requirements,IS: 16192 (Part 3),active,Automobile Wheel Rim Component,,isi_qco.csv,345
 automobile-wheel-rim-component-quality-control-order-2020,Performance Requirements and Methods of Tests for Wheels for Passenger Cars,IS: 9436,active,Automobile Wheel Rim Component,,isi_qco.csv,346
 automobile-wheel-rim-component-quality-control-order-2020,Performance Requirements and Methods of Tests for Wheels or Rims for Trucks and Buses,IS: 9438,active,Automobile Wheel Rim Component,,isi_qco.csv,347
-beauty-care-appliances-incorporating-lasers-and-intense-light-sources,Beauty Care Appliances Incorporating Lasers and Intense Light Sources,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,82
+beauty-care-appliances-incorporating-lasers-and-intense-light-sources,Beauty Care Appliances Incorporating Lasers and Intense Light Sources,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,80
 beta-picoline-quality-control-order-2020,Beta Picoline,IS 16112:2013,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,245
 bicycles-retro-reflective-devices-quality-control-order-2020,Retro-reflective Devices,IS/ISO 6742-2:2015,active,Reflectors for Bicycles,,isi_qco.csv,340
-blankets-pads-clothing-and-similar-flexible-heating-appliances,"Blankets, Pads, Clothing and Similar Flexible Heating Appliances",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,47
+blankets-pads-clothing-and-similar-flexible-heating-appliances,"Blankets, Pads, Clothing and Similar Flexible Heating Appliances",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,45
 bolts-nuts-and-fasteners-quality-control-order-2023,"Hexagon Head Bolts, Screws and Nuts of product Grade C Hexagon Head Bolts (Size Range M 5 to M 64)",IS 1363 (Part 1) :2019,active,"Bolts, Nuts and Fasteners",,isi_qco.csv,441
 bolts-nuts-and-fasteners-quality-control-order-2023,Hexagon Head Screw (Size ranges from M 5 to 64),IS 1363 (Part 2) :2018,active,"Bolts, Nuts and Fasteners",,isi_qco.csv,442
 bolts-nuts-and-fasteners-quality-control-order-2023,"Hexagon Head Bolts, Screws and Nuts of product Grade C – Hexagon Nuts (Size Range M5 to M64)",IS 1363 (Part 3) :2018,active,"Bolts, Nuts and Fasteners",,isi_qco.csv,443
@@ -148,28 +151,27 @@ cement-quality-control-order-2003,High Alumina Refractory Cement.,IS 15895: 2018
 centrifugally-cast-spun-iron-pipes-quality-control-order-2021,"Centrifugally cast (Spun) iron pressure pipes for water, gas and sewage",IS 1536: 2001,active,Centrifugally cast (Spun) iron pipes,,isi_qco.csv,383
 centrifugally-cast-spun-iron-pipes-quality-control-order-2021,"Centrifugally cast (Spun) iron spigot and socket soil, waste, ventilating and rainwater pipes, fittings and accessories",IS 3989: 2009,active,Centrifugally cast (Spun) iron pipes,,isi_qco.csv,384
 centrifugally-cast-spun-iron-pipes-quality-control-order-2021,"Hubless centrifugally cast (Spun) iron pipes, fittings and accessories – Spigot series",IS 15905: 2011,active,Centrifugally cast (Spun) iron pipes,,isi_qco.csv,385
-chain-pipe-wrenches,Chain Pipe Wrenches,4123:1982,upcoming,,2027-04-01,qco_upcoming.csv,116
+chain-pipe-wrenches,Chain Pipe Wrenches,4123:1982,upcoming,,2027-04-01,qco_upcoming.csv,114
 clinical-thermometers-quality-control-2001,Clinical thermometers :Part1 Solid stem type,IS 3055 (Part 1),active,Medical Equipment,,isi_qco.csv,71
 clinical-thermometers-quality-control-2001,Clinical thermometers :Part 2 Enclosed scale type,IS 3055 (Part 2),active,Medical Equipment,,isi_qco.csv,72
-clothes-dryers-and-towel-rails,Clothes Dryers and Towel Rails,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,54
+clothes-dryers-and-towel-rails,Clothes Dryers and Towel Rails,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,52
 coconut-fatty-acids-quality-control-order-2022,Coconut Fatty Acids,IS 12069 : 1987,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,293
-combination-side-cutting-pliers,Combination Side Cutting Pliers,3650:1981,upcoming,,2027-04-01,qco_upcoming.csv,119
-combination-side-cutting-pliers-2,Combination Side Cutting Pliers,3650:1981,upcoming,,2027-04-01,qco_upcoming.csv,122
-commercial-electric-appliances-for-keeping-food-and-crockery-warm,Commercial Electric Appliances for keeping Food and Crockery Warm,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,57
-commercial-electric-bainsmarie,Commercial Electric BainsMarie,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,58
-commercial-electric-boiling-pans,Commercial Electric Boiling Pans,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,55
-commercial-electric-cooking-ranges-ovens-hobs-and-hob-elements,"Commercial Electric Cooking Ranges, Ovens, Hobs and Hob Elements",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,49
-commercial-electric-dishwashing-machines,Commercial Electric Dishwashing Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,63
-commercial-electric-doughnut-fryers-and-deep-fat-fryers,Commercial Electric Doughnut Fryers and Deep Fat Fryers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,50
-commercial-electric-forced-convection-ovens-steam-cookers-and-steam-convection-o,"Commercial Electric Forced Convection Ovens, Steam Cookers and Steam – Convection Ovens",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,53
-commercial-electric-griddles-and-griddle-grills,Commercial Electric Griddles and Griddle Grills,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,51
-commercial-electric-grillers-and-toasters,Commercial Electric Grillers and Toasters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,56
-commercial-electric-hoods,Commercial Electric Hoods,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,78
-commercial-electric-kitchen-machines,Commercial Electric Kitchen Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,67
-commercial-electric-multi-purpose-cooking-pans,Commercial Electric Multi – purpose Cooking Pans,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,52
-commercial-electric-rinsing-sinks,Commercial Electric Rinsing Sinks,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,66
-commercial-vacuum-packaging-appliances,Commercial Vacuum Packaging Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,86
-common-salt-and-cattle-licks-for-animal-consumption,Common salt and cattle licks for animal consumption,IS 920,upcoming,,2027-06-05,qco_upcoming.csv,123
+combination-side-cutting-pliers,Combination Side Cutting Pliers,3650:1981,upcoming,,2027-04-01,qco_upcoming.csv,117
+commercial-electric-appliances-for-keeping-food-and-crockery-warm,Commercial Electric Appliances for keeping Food and Crockery Warm,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,55
+commercial-electric-bainsmarie,Commercial Electric BainsMarie,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,56
+commercial-electric-boiling-pans,Commercial Electric Boiling Pans,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,53
+commercial-electric-cooking-ranges-ovens-hobs-and-hob-elements,"Commercial Electric Cooking Ranges, Ovens, Hobs and Hob Elements",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,47
+commercial-electric-dishwashing-machines,Commercial Electric Dishwashing Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,61
+commercial-electric-doughnut-fryers-and-deep-fat-fryers,Commercial Electric Doughnut Fryers and Deep Fat Fryers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,48
+commercial-electric-forced-convection-ovens-steam-cookers-and-steam-convection-o,"Commercial Electric Forced Convection Ovens, Steam Cookers and Steam – Convection Ovens",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,51
+commercial-electric-griddles-and-griddle-grills,Commercial Electric Griddles and Griddle Grills,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,49
+commercial-electric-grillers-and-toasters,Commercial Electric Grillers and Toasters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,54
+commercial-electric-hoods,Commercial Electric Hoods,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,76
+commercial-electric-kitchen-machines,Commercial Electric Kitchen Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,65
+commercial-electric-multi-purpose-cooking-pans,Commercial Electric Multi – purpose Cooking Pans,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,50
+commercial-electric-rinsing-sinks,Commercial Electric Rinsing Sinks,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,64
+commercial-vacuum-packaging-appliances,Commercial Vacuum Packaging Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,84
+common-salt-and-cattle-licks-for-animal-consumption,Common salt and cattle licks for animal consumption,IS 920,upcoming,,2027-04-01,qco_upcoming.csv,120
 compulsory-registration-scheme-crs,AMPLIFIERS WITH INPUT POWER 2000W AND ABOVE,IS 616:2017,active,,2013-07-03,crs.csv,2
 compulsory-registration-scheme-crs,AUTOMATIC DATA PROCESSING MACHINE,IS 13252(Part 1):2010,active,,2013-07-03,crs.csv,3
 compulsory-registration-scheme-crs,ELECTRONIC CLOCKS WITH MAINS POWER,IS 302-2-26:2014,active,,2013-07-03,crs.csv,4
@@ -244,7 +246,7 @@ compulsory-registration-scheme-crs,Polyphosphoric Acid,IS 17439:2020,active,,202
 compulsory-registration-scheme-crs,Trimethyl Phosphite Technical Grade,IS 17412:2020,active,,2022-10-01,crs.csv,73
 compulsory-registration-scheme-crs,Television Sets,IS 18112:2025,active,,2026-07-26,crs.csv,74
 compulsory-registration-scheme-crs,"Extended Reality Products (Augmented Reality, Virtual Reality, Mixed Reality etc.)",IS/IEC 62368: Part 1: 2023,active,,2025-12-05,crs.csv,75
-cooking-ranges-hobs-ovens-and-similar-appliances,"Cooking Ranges, Hobs, Ovens and Similar Appliances",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,7
+cooking-ranges-hobs-ovens-and-similar-appliances,"Cooking Ranges, Hobs, Ovens and Similar Appliances",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,5
 cookware-and-utensils-quality-control-order-2023,Stainless Steel Cookware,IS 14756 : 2022,active,"Cookware, Utensils and Cans for food and beverages",,isi_qco.csv,460
 cookware-and-utensils-quality-control-order-2023,Wrought Aluminium Utensils,IS 1660:2024,active,"Cookware, Utensils and Cans for food and beverages",,isi_qco.csv,461
 cookware-and-utensils-quality-control-order-2023,Stainless Steel Sinks for Domestic Purposes,IS 13983:1994,active,"Cookware, Utensils and Cans for food and beverages",,isi_qco.csv,462
@@ -276,18 +278,18 @@ cross-recessed-screws-quality-control-order-2024,Chipboard Screws – Specificat
 cross-recessed-screws-quality-control-order-2024,Cross-recessed Countersunk Head Wood Screws – Specification,IS 18509 : 2023,active,Cross Recessed Screws,,isi_qco.csv,671
 cycle-and-rickshaw-tyres-and-tubes-quality-control-order-2023,Cycle and Rickshaw Pneumatic Tyres,IS 2414:2005,active,Cycle and Rickshaw Tyres and Tubes,,isi_qco.csv,604
 cycle-and-rickshaw-tyres-and-tubes-quality-control-order-2023,Cycle – Rubber Tubes (Moulded or Jointed),IS 2415 :2015,active,Cycle and Rickshaw Tyres and Tubes,,isi_qco.csv,605
-dc-supplied-battery-operated-air-purifier,DC supplied/ battery-operated air purifier,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,94
-dc-supplied-battery-operated-blenders-juicers,"DC supplied/ battery-operated blenders, juicers",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,91
-dc-supplied-battery-operated-foot-warmer-and-heating-mats,DC supplied/ battery-operated foot warmer and heating mats,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,93
-dc-supplied-battery-operated-massage-appliances,DC supplied/ battery-operated Massage appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,90
-dc-supplied-battery-operated-shavers-trimmers-clippers-and-similar-appliances,"DC supplied/ battery-operated shavers, trimmers, clippers and similar appliances",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,89
-dc-supplied-battery-operated-toothbrush-and-other-oral-hygiene-appliances,DC supplied/ battery-operated toothbrush and other oral hygiene appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,92
-dc-supplied-battery-operated-vacuum-cleaners,DC supplied/ battery-operated vacuum cleaners,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,88
+dc-supplied-battery-operated-air-purifier,DC supplied/ battery-operated air purifier,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,92
+dc-supplied-battery-operated-blenders-juicers,"DC supplied/ battery-operated blenders, juicers",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,89
+dc-supplied-battery-operated-foot-warmer-and-heating-mats,DC supplied/ battery-operated foot warmer and heating mats,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,91
+dc-supplied-battery-operated-massage-appliances,DC supplied/ battery-operated Massage appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,88
+dc-supplied-battery-operated-shavers-trimmers-clippers-and-similar-appliances,"DC supplied/ battery-operated shavers, trimmers, clippers and similar appliances",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,87
+dc-supplied-battery-operated-toothbrush-and-other-oral-hygiene-appliances,DC supplied/ battery-operated toothbrush and other oral hygiene appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,90
+dc-supplied-battery-operated-vacuum-cleaners,DC supplied/ battery-operated vacuum cleaners,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,86
 diagnostic-medical-x-ray-equipment-aerb-443-39-mdx-3509-94-oct-94,Diagnostic Medical X-Ray Equipment,IS 7620 (Part 1),active,Medical Equipment,,isi_qco.csv,73
-dicalcium-phosphate-animal-feed-grade,"Dicalcium Phosphate, animal feed grade",IS 5470,upcoming,,2027-04-01,qco_upcoming.csv,121
+dicalcium-phosphate-animal-feed-grade,"Dicalcium Phosphate, animal feed grade",IS 5470,upcoming,,2027-04-01,qco_upcoming.csv,119
 diesel-engines-nox-reduction-agent-aus-32-quality-control-order-2024,Diesel Engines – NOx Reduction Agent AUS 32,IS 17042 (Part-1): 2018,active,Diesel Engines – NOx Reduction Agent AUS 32,,isi_qco.csv,622
-digital-television-receiver-for-satellite-broadcast-transmission,Digital Television Receiver for Satellite Broadcast Transmission,IS 18112:2022,upcoming,,2027-01-26,qco_upcoming.csv,109
-dishwashers,Dishwashers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,44
+digital-television-receiver-for-satellite-broadcast-transmission,Digital Television Receiver for Satellite Broadcast Transmission,IS 18112:2022,upcoming,,2027-01-26,qco_upcoming.csv,107
+dishwashers,Dishwashers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,42
 domestic-gas-stoves-for-use-with-liquefied-petroleum-gases-quality-control-order,Domestic Gas Stoves for use with Liquefied Petroleum Gases,IS 4246: 2002,active,Domestic Gas Stoves for use with Liquefied Petroleum Gases,,isi_qco.csv,306
 domestic-gas-stoves-for-use-with-piped-natural-gas-quality-control-order-2023,Domestic Gas Stoves for use with Piped Natural Gas (PNG),IS 17153:2019,active,Domestic Gas Stoves for use with PNG,,isi_qco.csv,465
 door-fittings-quality-control-order-2023,Door closers (pneumatically regulated) for light doors weighing up to 40 kg,IS 6343:1982,active,Door Fittings,,isi_qco.csv,565
@@ -297,7 +299,7 @@ door-fittings-quality-control-order-2023,Floor springs (hydraulically regulated)
 door-fittings-quality-control-order-2023,Rim Latches,IS 1019:1974,active,Door Fittings,,isi_qco.csv,569
 door-fittings-quality-control-order-2023,Door Handles,IS 208:2020,active,Door Fittings,,isi_qco.csv,570
 door-fittings-quality-control-order-2023,Door handles for mortice lock (vertical type),IS 4992:1975,active,Door Fittings,,isi_qco.csv,571
-drives-for-vertically-moving-garage-doors-for-residential-use,Drives for Vertically Moving Garage Doors for Residential Use,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,76
+drives-for-vertically-moving-garage-doors-for-residential-use,Drives for Vertically Moving Garage Doors for Residential Use,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,74
 drums-and-tins-quality-control-order-2023,"Drums, Large Open Top",IS 13997:2014,active,Drums and Tins,,isi_qco.csv,558
 drums-and-tins-quality-control-order-2023,"Drums Large, Fixed Ends – Grade A",IS 1783 (Part 1) :2014,active,Drums and Tins,,isi_qco.csv,559
 drums-and-tins-quality-control-order-2023,"Drums, Large, Fixed Ends – Grade",IS 1783 (Part 2) :2014,active,Drums and Tins,,isi_qco.csv,560
@@ -307,34 +309,34 @@ drums-and-tins-quality-control-order-2023,Square Tins for Solid Products,IS 916:
 drums-and-tins-quality-control-order-2023,"Square Tins – 15 Kilograms or litre for Ghee, Vanaspati, Edible Oils and Bakery",IS 10325:2000,active,Drums and Tins,,isi_qco.csv,564
 ductile-iron-pressure-pipes-and-fittings-quality-control-order-2009,"Centrifugally cast (spun) ductile iron pressure pipes for water, gas and sewage",IS 8329 : 2000,active,Steel and Iron Products,,isi_qco.csv,225
 ductile-iron-pressure-pipes-and-fittings-quality-control-order-2009,"Ductile iron fittings for pressure pipes for water, gas and sewage",IS 9523:2000,active,Steel and Iron Products,,isi_qco.csv,226
-electric-bean-slicers,Electric Bean Slicers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,21
-electric-berryjuice-extractors,Electric Berryjuice Extractors,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,22
-electric-call-bells-and-buzzers-for-indoor-use,Electric Call Bells and Buzzers for Indoor Use,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,18
-electric-can-openers,Electric Can Openers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,23
+electric-bean-slicers,Electric Bean Slicers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,19
+electric-berryjuice-extractors,Electric Berryjuice Extractors,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,20
+electric-call-bells-and-buzzers-for-indoor-use,Electric Call Bells and Buzzers for Indoor Use,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,16
+electric-can-openers,Electric Can Openers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,21
 electric-ceiling-type-fans-quality-control-order-2023,Electric Ceiling Type Fans,IS 374:2019,active,Electric Ceiling Type Fans,,isi_qco.csv,468
-electric-centrifugal-juicers,Electric Centrifugal Juicers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,24
-electric-churn,Electric Churn,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,25
-electric-citrusfruit-squeezers,Electric Citrusfruit Squeezers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,26
-electric-coffee-makers,Electric Coffee Makers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,20
-electric-coffee-mills-not-exceeding-500g-hopper-capacity,Electric Coffee Mills not exceeding 500g hopper capacity,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,27
-electric-cream-whippers,Electric Cream Whippers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,28
-electric-egg-beaters,Electric Egg Beaters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,29
+electric-centrifugal-juicers,Electric Centrifugal Juicers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,22
+electric-churn,Electric Churn,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,23
+electric-citrusfruit-squeezers,Electric Citrusfruit Squeezers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,24
+electric-coffee-makers,Electric Coffee Makers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,18
+electric-coffee-mills-not-exceeding-500g-hopper-capacity,Electric Coffee Mills not exceeding 500g hopper capacity,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,25
+electric-cream-whippers,Electric Cream Whippers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,26
+electric-egg-beaters,Electric Egg Beaters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,27
 electric-fence-energizers-quality-control-order-2024,Safety of Household and similar electrical appliances – Part 2 particular requirement Sec 76 electric fence energizers,IS 302-2-76:1999,active,Electric Fence Energizers,,isi_qco.csv,787
-electric-food-processors,Electric Food Processors,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,30
-electric-forced-convection-ovens-steam-cookers-and-steam-convection-ovens,"Electric Forced Convection Ovens, Steam Cookers and Steam -Convection Ovens",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,14
-electric-grain-grinders-not-exceeding-3l-hopper-capacity,Electric Grain Grinders not exceeding 3l hopper capacity,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,31
-electric-graters,Electric Graters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,32
-electric-heating-tools,Electric Heating Tools,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,15
-electric-hot-plates,Electric Hot Plates,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,41
-electric-icecream-machines-including-those-for-use-in-refrigerators-and-freezers,"Electric IceCream Machines, including those for use in refrigerators and freezers",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,33
-electric-knife-sharpeners,Electric Knife Sharpeners,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,34
-electric-knives,Electric Knives,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,35
-electric-noodle-makers,Electric Noodle Makers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,36
-electric-potato-peelers,Electric Potato Peelers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,37
-electric-shredders,Electric Shredders,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,38
-electric-sieving-machines,Electric Sieving Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,39
-electric-steam-cookers,Electric Steam Cookers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,16
-electric-water-boilers,Electric Water Boilers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,19
+electric-food-processors,Electric Food Processors,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,28
+electric-forced-convection-ovens-steam-cookers-and-steam-convection-ovens,"Electric Forced Convection Ovens, Steam Cookers and Steam -Convection Ovens",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,12
+electric-grain-grinders-not-exceeding-3l-hopper-capacity,Electric Grain Grinders not exceeding 3l hopper capacity,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,29
+electric-graters,Electric Graters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,30
+electric-heating-tools,Electric Heating Tools,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,13
+electric-hot-plates,Electric Hot Plates,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,39
+electric-icecream-machines-including-those-for-use-in-refrigerators-and-freezers,"Electric IceCream Machines, including those for use in refrigerators and freezers",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,31
+electric-knife-sharpeners,Electric Knife Sharpeners,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,32
+electric-knives,Electric Knives,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,33
+electric-noodle-makers,Electric Noodle Makers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,34
+electric-potato-peelers,Electric Potato Peelers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,35
+electric-shredders,Electric Shredders,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,36
+electric-sieving-machines,Electric Sieving Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,37
+electric-steam-cookers,Electric Steam Cookers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,14
+electric-water-boilers,Electric Water Boilers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,17
 electrical-accessories-quality-control-order-2023,Boxes and Enclosures for Electrical Accessories for Household and Similar Fixed Electrical Installations,IS 14772: 2020,active,Electrical Accessories,,isi_qco.csv,612
 electrical-accessories-quality-control-order-2023,Cable Trunking and Ducting Systems for Electrical Installations – Cable Trunking and Ducting Systems Intended for Mounting on Walls or Ceiling,IS 14927 (Part 2): 2001,active,Electrical Accessories,,isi_qco.csv,613
 electrical-accessories-quality-control-order-2023,Bayonet Lamp Holders,IS 1258: 2005,active,Electrical Accessories,,isi_qco.csv,614
@@ -354,8 +356,8 @@ electrical-appliances-for-domestic-water-heating-quality-control-order-2023,Mini
 electrical-appliances-for-kitchen-quality-control-order-2023,"Safety of household and similar electrical appliances – particular requirements – toasters, grills, roasters and similar appliances",IS 302 (Part 2/Sec 9): 2009,active,Electrical Appliances,,isi_qco.csv,625
 electrical-appliances-for-kitchen-quality-control-order-2023,Safety of household and similar electrical appliances – particular requirements – range hoods,IS 302 (Part 2/Sec 31): 2009,active,Electrical Appliances,,isi_qco.csv,626
 electrical-appliances-for-skin-or-hair-care-quality-control-order-2023,Safety of household and similar electrical appliances – particular requirements – appliances for skin or hair care,IS 302 (Part 2/Sec 23): 2009,active,Electrical Appliances,,isi_qco.csv,627
-electrical-appliances-for-use-with-aquariums-and-garden-ponds,Electrical Appliances for use with Aquariums and Garden Ponds,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,62
-electrical-shavers-hair-clippers-and-similar-appliances,"Electrical Shavers Hair, Clippers and Similar Appliances",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,8
+electrical-appliances-for-use-with-aquariums-and-garden-ponds,Electrical Appliances for use with Aquariums and Garden Ponds,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,60
+electrical-shavers-hair-clippers-and-similar-appliances,"Electrical Shavers Hair, Clippers and Similar Appliances",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,6
 electrical-transformers-quality-control-order-2015,"Out door type Oil immersed Distribution Transformers upto and including 2500 kVA, 33 KV-specification Part 1 Mineral oil immersed",IS 1180 (Part 1),active,Electrical Transformers,,isi_qco.csv,231
 electrical-wires-cables-appliances-and-protection-devices-and-accessories-qualit,Residual current operated circuit breakers for house hold and similar uses-Part 1 Circuit breakers without integral overcurrent protection (RCCBs),IS 12640 (Part 1),active,Household Electrical goods,,isi_qco.csv,18
 electrical-wires-cables-appliances-and-protection-devices-and-accessories-qualit,Residual current operated circuit breakers for household and similar uses – Part 2 Circuit breakers with integral overcurrent protection(RCVOs),IS 12640 (Part 2),active,Household Electrical goods,,isi_qco.csv,19
@@ -372,7 +374,7 @@ electrical-wires-cables-appliances-and-protection-devices-and-accessories-qualit
 electrical-wires-cables-appliances-and-protection-devices-and-accessories-qualit,PVC insulated cables for working voltages up to and including 1100V,IS 694,active,Household Electrical goods,,isi_qco.csv,30
 electrical-wires-cables-appliances-and-protection-devices-and-accessories-qualit,Electrical Accessories-Circuit breakers for overcurrent protection for household and similar installations,IS 8828 *,active,Household Electrical goods,,isi_qco.csv,31
 electrical-wires-cables-appliances-and-protection-devices-and-accessories-qualit,Elastomer insulated cables (Part.1): For working voltages up to and including1100 V,IS 9968 (Part 1),active,Household Electrical goods,,isi_qco.csv,32
-electrolysers,Electrolysers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,81
+electrolysers,Electrolysers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,79
 environment-protection-115-amendment-rules-2021-notification-of-water-purificati,Reverse Osmosis Based Point of Use Water Treatment System for Drinking Purposes,IS 16240 : 2023,active,Water Treatment System,,isi_qco.csv,388
 ether-quality-control-order-2020,Ether,IS 336:1973,active,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,259
 ethylene-dichloride-quality-control-order-2021,Ethylene Dichloride,IS 869:2020,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,283
@@ -393,15 +395,15 @@ explosive-act-1884-gas-cylinder-rules-2016,Welded and seamless steel dissolved a
 explosive-act-1884-gas-cylinder-rules-2016,Valve fittings for use with liquefied petroleum gas cylinders of more than 5 litre water capacity Part 2 Valve fittings for newly manufactured LPG cylinders,IS 8737,active,"Cylinder, Valves and Regulator",,isi_qco.csv,68
 explosive-act-1884-gas-cylinder-rules-2016,Valve Fittings for Use with Liquefied Petroleum Gas (LPG) Cylinders up to and Including 5-Litre Water Capacity,IS 8776,active,"Cylinder, Valves and Regulator",,isi_qco.csv,69
 explosive-act-1884-gas-cylinder-rules-2016,Low pressure regulators for use with liquefied petroleum gas (LPG) mixtures,IS 9798,active,"Cylinder, Valves and Regulator",,isi_qco.csv,70
-fabric-steamers,Fabric Steamers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,75
+fabric-steamers,Fabric Steamers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,73
 fire-extinguishers-quality-control-order-2023,Portable Fire Extinguishers,IS 15683 : 2018,active,Fire Extinguishers,,isi_qco.csv,466
 fire-extinguishers-quality-control-order-2023,Wheeled Fire Extinguishers,IS 16018:2012,active,Fire Extinguishers,,isi_qco.csv,467
-fixed-immersion-heaters,Fixed Immersion Heaters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,70
+fixed-immersion-heaters,Fixed Immersion Heaters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,68
 flame-producing-lighters-quality-control-order-2023,Lighters- Safety Specifications,IS/ISO 9994:2018,active,Flame- Producing Lighters,,isi_qco.csv,428
 flame-producing-lighters-quality-control-order-2023,Utility Lighters – Safety Specifications,IS/ISO 22702:2018,active,Flame- Producing Lighters,,isi_qco.csv,429
 flashlight-quality-control-order-2025,Flashlight – Specification,IS 2083:2024,active,Flashlight,,isi_qco.csv,788
 flat-transparent-sheet-glass-quality-control-order-2020,Flat Transparent Sheet Glass.,IS 2835 : 1987,active,Flat Transparent Sheet Glass,,isi_qco.csv,332
-floor-treatment-machines-and-wet-scrubbing-machines,Floor Treatment Machines and Wet Scrubbing Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,45
+floor-treatment-machines-and-wet-scrubbing-machines,Floor Treatment Machines and Wet Scrubbing Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,43
 flux-cored-solder-wire-quality-control-order-2023,Flux Cored Solder Wire,IS 1921: 2005,withdrawn,Flux Cored Solder Wire,,isi_qco.csv,499
 flux-cored-tubular-electrodes-quality-control-order-2021,Flux Cored (Tubular) Electrodes for Gas Shielded and Self-Shielded Metal Welding of Carbon or Carbon- Manganese Steel,IS 15769:2008,active,Flux Cored (Tubular) Electrodes,,isi_qco.csv,386
 food-safety-standards,"Skimmed milk-powder, standard grade De-notified from compulsory BIS certification",IS 13334 (Part 1),de-notified,Food & Related Products De-notified from compulsory BIS certification,,isi_qco.csv,39
@@ -410,8 +412,8 @@ food-safety-standards-prohibition-restriction-on-sales-regulation-2011,Processed
 food-safety-standards-prohibition-restriction-on-sales-regulation-2011,Milk-powder De-notified from compulsory BIS certification,IS 1165,de-notified,Food & Related Products De-notified from compulsory BIS certification,,isi_qco.csv,36
 food-safety-standards-prohibition-restriction-on-sales-regulation-2011,"Condensed milk, partly skimmed and skimmed condensed milk De-notified from compulsory BIS certification",IS 1166,de-notified,Food & Related Products De-notified from compulsory BIS certification,,isi_qco.csv,37
 food-safety-standards-prohibition-restriction-on-sales-regulation-2011,Sweetened ultra high temperature treated condensed milk De-notified from compulsory BIS certification,IS 12176,de-notified,Food & Related Products De-notified from compulsory BIS certification,,isi_qco.csv,38
-food-waste-disposers,Food Waste Disposers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,46
-foot-warmers-and-heating-mats,Foot Warmers and Heating Mats,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,72
+food-waste-disposers,Food Waste Disposers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,44
+foot-warmers-and-heating-mats,Foot Warmers and Heating Mats,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,70
 footwear-made-from-all-rubber-and-all-polymeric-material-and-its-components-qual,Industrial and protective rubber knee and ankle boots,IS 5557: 2004,active,Foot Wear,,isi_qco.csv,348
 footwear-made-from-all-rubber-and-all-polymeric-material-and-its-components-qual,All rubber gum boots and ankle boots,IS 5557 (Part 2): 2018,active,Foot Wear,,isi_qco.csv,349
 footwear-made-from-all-rubber-and-all-polymeric-material-and-its-components-qual,Moulded solid rubber soles and heels,IS 5676: 1995,active,Foot Wear,,isi_qco.csv,350
@@ -438,7 +440,7 @@ footwear-made-from-leather-and-other-materials-quality-control-order-2020,High a
 footwear-made-from-leather-and-other-materials-quality-control-order-2020,Antiriot shoes,IS 17037: 2018,active,Foot Wear,,isi_qco.csv,371
 footwear-made-from-leather-and-other-materials-quality-control-order-2020,Shoes for Services,IS 17043 (Part-1): 2024,active,Foot Wear,,isi_qco.csv,372
 footwear-made-from-leather-and-other-materials-quality-control-order-2020,Shoes for General Purpose,IS 17043 (Part-2): 2024,active,Foot Wear,,isi_qco.csv,373
-frying-pans-deep-fat-fryers-and-similar-appliances,"Frying Pans, Deep Fat Fryers and similar appliances",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,11
+frying-pans-deep-fat-fryers-and-similar-appliances,"Frying Pans, Deep Fat Fryers and similar appliances",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,9
 fssai-direction-vide-file-no-1-95-std-misc-sp-lc-a-fssai-2015-pt-1c-dated-27-01,Compounded Feeds for Cattle,IS 2052 : 2009,active,Cattle Feeds,,isi_qco.csv,342
 furniture-quality-control-order-2025,Work chairs,IS 17631: 2022,active,Furniture,,isi_qco.csv,791
 furniture-quality-control-order-2025,General purpose chairs and stools,IS 17632: 2022,active,Furniture,,isi_qco.csv,792
@@ -446,9 +448,9 @@ furniture-quality-control-order-2025,Tables and desks,IS 17633: 2022,active,Furn
 furniture-quality-control-order-2025,Storage units,IS 17634: 2022,active,Furniture,,isi_qco.csv,794
 furniture-quality-control-order-2025,Beds,IS 17635: 2022,active,Furniture,,isi_qco.csv,795
 furniture-quality-control-order-2025,Bunk beds,IS 17636: 2022,active,Furniture,,isi_qco.csv,796
-furniture-with-electrically-motorized-parts,Furniture with Electrically Motorized Parts,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,85
+furniture-with-electrically-motorized-parts,Furniture with Electrically Motorized Parts,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,83
 gamma-picoline-quality-control-order-2020,Gamma Picoline,IS 16113:2013,active,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,244
-gas-oil-and-solid-fuel-burning-appliances-having-electrical-connections,"Gas, Oil and Solid-Fuel Burning Appliances Having Electrical Connections",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,80
+gas-oil-and-solid-fuel-burning-appliances-having-electrical-connections,"Gas, Oil and Solid-Fuel Burning Appliances Having Electrical Connections",IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,78
 geo-textiles-quality-control-order-2022,Laminated High Density Polyethylene (HDPE) Woven Geomembrane for Water Proof Lining,IS 15351 : 2015,active,Geo Textiles,,isi_qco.csv,396
 geo-textiles-quality-control-order-2022,Poly Vinyl Chloride (PVC) Geomembranes,IS 15909 : 2020,active,Geo Textiles,,isi_qco.csv,397
 geo-textiles-quality-control-order-2022,Needle punched non-woven geobags,IS 16653 : 2017,active,Geo Textiles,,isi_qco.csv,398
@@ -469,13 +471,13 @@ geo-textiles-quality-control-order-2022,Reinforced HDPE membrane for effluents a
 geo-textiles-quality-control-order-2022,Geocells,IS 17483 (Part 1): 2020,active,Geo Textiles,,isi_qco.csv,413
 geo-textiles-quality-control-order-2022,Geocells,IS 17483 (Part 2): 2020,active,Geo Textiles,,isi_qco.csv,414
 geotextiles-quality-control-order-2024,Geosynthetics — Synthetic Polymer RopeGabions for Coastal and Waterways Protection — Specification,IS 17880 :2022,active,Geo Textiles,,isi_qco.csv,415
-glass-screen-protector-specification,Glass Screen Protector– Specification,IS 19348:2025,upcoming,,2027-04-01,qco_upcoming.csv,110
+glass-screen-protector-specification,Glass Screen Protector– Specification,IS 19348:2025,upcoming,,2027-04-01,qco_upcoming.csv,108
 gypsum-based-building-materials-quality-control-order-2024,Gypsum plaster boards – Specification: Part 1 plain gypsum plaster boards,IS 2095 (Part 1):2011,active,Gypsum based Building Materials,,isi_qco.csv,645
 gypsum-based-building-materials-quality-control-order-2024,Glass Fibre Reinforced Gypsum Panels,IS 17400:2021,active,Gypsum based Building Materials,,isi_qco.csv,646
 gypsum-based-building-materials-quality-control-order-2024,Gypsum Plaster Boards – Coated/ Laminated Gypsum Plaster Boards,IS 2095 (Part 2): 2022,active,Gypsum based Building Materials,,isi_qco.csv,647
 gypsum-based-building-materials-quality-control-order-2024,Gypsum Plaster Boards – Reinforced Gypsum Plaster Boards and Ceiling Tiles,IS 2095 (Part 3):2022,active,Gypsum based Building Materials,,isi_qco.csv,648
 h-acid-quality-control-order-2024,H Acid,IS 8637 : 2020,withdrawn,"H Acid , K Acid & Vinyl Sulphone",,isi_qco.csv,784
-hand-held-electric-engraving-tools,Hand held electric Engraving Tools,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,87
+hand-held-electric-engraving-tools,Hand held electric Engraving Tools,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,85
 hand-tools-quality-control-order-2024,Chain Pipe Wrenches,IS 4123:1982,active,Hand Tools,,isi_qco.csv,762
 hand-tools-quality-control-order-2024,Open Ended Slugging Wrenches (Spanners),IS 4508:1992,active,Hand Tools,,isi_qco.csv,763
 hand-tools-quality-control-order-2024,Ring Slugging Wrenches (Spanners),IS 4509:1992,active,Hand Tools,,isi_qco.csv,764
@@ -498,11 +500,11 @@ hinges-quality-control-order-2023,Continuous (Piano) hinges,IS 3818:1992,active,
 hinges-quality-control-order-2023,Steel back flap hinges,IS 3843:1995,active,Hinges,,isi_qco.csv,601
 hinges-quality-control-order-2023,Double-acting spring hinges,IS 453:1993,active,Hinges,,isi_qco.csv,602
 hinges-quality-control-order-2023,Cabinet hinges,IS 18297:2023,active,Hinges,,isi_qco.csv,603
-humidifiers,Humidifiers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,77
+humidifiers,Humidifiers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,75
 hydrogen-peroxide-quality-control-order-2020,Stabilized Hydrogen Peroxide,IS 2080:2021,active,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,253
 hydrogenated-rice-bran-fatty-acids-quality-control-order-2022,Hydrogenated Rice Bran Fatty Acids,IS 12361 :1988,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,295
 indutech-quality-control-order-2024,Textiles – Flat woven webbing slings made of man-made fibres for general services,IS 15041:2001,active,Indutech,,isi_qco.csv,771
-insect-killers,Insect Killers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,17
+insect-killers,Insect Killers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,15
 insulated-flask-bottles-and-containers-for-domestic-use-quality-control-order-20,Insulated Flask for Domestic Use,IS 17790 : 2022,active,"Insulated Flask, Bottles and Containers for Domestic Use",,isi_qco.csv,435
 insulated-flask-bottles-and-containers-for-domestic-use-quality-control-order-20,Domestic Stainless steel vacuum flask/bottle,IS 17526 : 2021,active,"Insulated Flask, Bottles and Containers for Domestic Use",,isi_qco.csv,436
 insulated-flask-bottles-and-containers-for-domestic-use-quality-control-order-20,Insulated Container for Food Storage,IS 17569: 2021,active,"Insulated Flask, Bottles and Containers for Domestic Use",,isi_qco.csv,437
@@ -521,12 +523,12 @@ laboratory-glassware-quality-control-order-2023,Glass beakers,IS 2619:2018,activ
 lauric-acid-quality-control-order-2022,Lauric Acid,IS 10931 : 1984,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,289
 legal-metrology-material-measures-of-length-quality-control-order-2023,Legal Metrology – Material Measure of length – Woven metallic and glass fibre tape measures,IS 1269(Part 1) : 1997,active,Material Measure of length,,isi_qco.csv,585
 legal-metrology-material-measures-of-length-quality-control-order-2023,Legal Metrology – Material Measure of length – Steel tape measures,IS 1269(Part 2) : 1997,active,Material Measure of length,,isi_qco.csv,586
-linear-alkyl-benzene,Linear Alkyl Benzene,IS 12795:2020,upcoming,,2026-12-31,qco_upcoming.csv,106
+linear-alkyl-benzene,Linear Alkyl Benzene,IS 12795:2020,upcoming,,2026-12-31,qco_upcoming.csv,104
 linear-alkyl-benzene-quality-control-order-2021,Linear Alkyl Benzene,IS 12795:2020,active,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,277
-low-speed-food-grinding-machines,Low Speed Food Grinding Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,43
+low-speed-food-grinding-machines,Low Speed Food Grinding Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,41
 maleic-anhydride-quality-control-order-2020,"Maleic Anhydride, Technical",IS 5149:2020,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,267
 malleable-iron-shots-and-grits-quality-control-order-2020,Specification for Malleable iron shots and grits for use in foundries,IS 9139:1979,active,Steel and Iron Products,,isi_qco.csv,230
-massage-appliances,Massage Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,13
+massage-appliances,Massage Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,11
 medical-textiles-quality-control-order-2023,Sanitary napkins,IS 5405 : 2019,active,Medical Textiles,,isi_qco.csv,523
 medical-textiles-quality-control-order-2023,Disposable baby diaper,IS 17509 : 2021,active,Medical Textiles,,isi_qco.csv,524
 medical-textiles-quality-control-order-2023,Reusable Sanitary pad/ Sanitary Napkin/ Period Panties,IS 17514 : 2021,active,Medical Textiles,,isi_qco.csv,525
@@ -540,7 +542,7 @@ methylene-chloride-dichloromethane-quality-control-order-2021,Methylene Chloride
 mild-steel-tubes-excluding-seamless-tube-tubes-according-to-api-specification-qu,Steel tubes for structural purposes,IS 1161:2014,active,Steel and Iron Products,,isi_qco.csv,227
 mild-steel-tubes-excluding-seamless-tube-tubes-according-to-api-specification-qu,"Steel Tubes, Tubulars and Other Wrought Steel Fittings – Part 1 : Steel Tubes",IS 1239 (Part 1):2014,active,Steel and Iron Products,,isi_qco.csv,228
 mild-steel-tubes-excluding-seamless-tube-tubes-according-to-api-specification-qu,Steel tubes used for water-wells (upto 200 mm dia),IS 4270:2001,active,Steel and Iron Products,,isi_qco.csv,229
-mineral-mixtures-for-supplementing-cattle-feeds,Mineral mixtures for supplementing cattle feeds,IS 1664,upcoming,,2027-04-01,qco_upcoming.csv,120
+mineral-mixtures-for-supplementing-cattle-feeds,Mineral mixtures for supplementing cattle feeds,IS 1664,upcoming,,2027-04-01,qco_upcoming.csv,118
 miscellaneous-steel-products-quality-control-order-2023,Bar or wire Wrapped Steel Cylinder Pipes with Mortar Lining and Coating Including Specials,IS 15155 : 2020,active,Miscellaneous Steel Products,,isi_qco.csv,500
 miscellaneous-steel-products-quality-control-order-2023,High Strength deformed stainless steel bars and wires for concrete reinforcement,IS 16651 : 2017,active,Miscellaneous Steel Products,,isi_qco.csv,501
 miscellaneous-steel-products-quality-control-order-2023,Steel Pipe Flanges,IS 6392 : 2020,active,Miscellaneous Steel Products,,isi_qco.csv,502
@@ -551,13 +553,13 @@ nickel-quality-control-order-2023,Nickel Powder,IS 7506:1987,withdrawn,Metals an
 oil-pressure-stoves-q-c-order-1997,"Oil pressure stove, offset burner type",IS 10109,active,Oil Pressure Stoves,,isi_qco.csv,49
 oil-pressure-stoves-q-c-order-1997,Multi-burner oil pressure stoves,IS 2787,active,Oil Pressure Stoves,,isi_qco.csv,50
 oil-pressure-stoves-q-c-order-1997,Oil pressure stoves,IS 1342,active,Oil Pressure Stoves,,isi_qco.csv,51
-open-ended-slugging-wrenches-spanners,Open Ended Slugging Wrenches(Spanners),4508:1992,upcoming,,2027-04-01,qco_upcoming.csv,117
-open-jaw-wrenched-spanners,Open-Jaw Wrenched(Spanners),2028:2004,upcoming,,2027-04-01,qco_upcoming.csv,113
-oral-hygiene-appliances,Oral Hygiene Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,59
-outdoor-barbecues,Outdoor Barbecues,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,71
+open-ended-slugging-wrenches-spanners,Open Ended Slugging Wrenches(Spanners),4508:1992,upcoming,,2027-04-01,qco_upcoming.csv,115
+open-jaw-wrenched-spanners,Open-Jaw Wrenched(Spanners),2028:2004,upcoming,,2027-04-01,qco_upcoming.csv,111
+oral-hygiene-appliances,Oral Hygiene Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,57
+outdoor-barbecues,Outdoor Barbecues,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,69
 p-xylene-quality-control-order-2021,p-Xylene,IS 17370:2020,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,284
 palm-fatty-acids-quality-control-order-2022,Palm Fatty Acids,IS 12067: 1987,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,291
-personal-etransporters,Personal-eTransporters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,83
+personal-etransporters,Personal-eTransporters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,81
 personal-protective-equipment-footwear-quality-control-order-2020,Personal protective equipment – Part 2 Safety Footwear,IS 15298 (Part 2): 2016,active,Foot Wear,,isi_qco.csv,374
 personal-protective-equipment-footwear-quality-control-order-2020,Personal protective equipment – Part 3 Protective Footwear,IS 15298 ( Part 3) : 2019,active,Foot Wear,,isi_qco.csv,375
 personal-protective-equipment-footwear-quality-control-order-2020,Personal protective equipment – Part 4 Occupational Footwear,IS 15298 (Part 4) : 2017,active,Foot Wear,,isi_qco.csv,376
@@ -565,8 +567,8 @@ phosphorous-oxychloride-quality-control-order-2020,"Phosphorous Oxychloride, Tec
 phosphorous-pentachloride-quality-control-order-2020,"Phosphorous Pentachloride, Technical",IS 11744:1986,active,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,251
 phosphorous-trichloride-quality-control-order-2020,"Phosphorous Trichloride, pure and Analytical Reagent",IS 4581:1978,active,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,250
 phthalic-anhydride-quality-control-order-2020,"Specification for Phthalic Anhydride, Technical",IS 5158: 1987,active,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,242
-pipe-wrenches-general-purpose,Pipe Wrenches-General Purpose,4003 (Part 1):1978,upcoming,,2027-04-01,qco_upcoming.csv,111
-pipe-wrenches-heavy-duty,Pipe Wrenches Heavy Duty,4003(Part 2):1986,upcoming,,2027-04-01,qco_upcoming.csv,112
+pipe-wrenches-general-purpose,Pipe Wrenches-General Purpose,4003 (Part 1):1978,upcoming,,2027-04-01,qco_upcoming.csv,109
+pipe-wrenches-heavy-duty,Pipe Wrenches Heavy Duty,4003(Part 2):1986,upcoming,,2027-04-01,qco_upcoming.csv,110
 plain-copier-paper-quality-control-order-2020,Plain Copier Paper,IS 14490:2018,active,Paper,,isi_qco.csv,341
 plugs-and-socket-outlets-and-alternating-current-direct-connected-static-prepaym,Plugs and socket-outlets of Rated Voltage up to and including 250 Volts and Rated current up to and including 16 amperes,IS 1293 : 2005,active,Plugs and Socket-Outlets and Alternating Current Direct Connected Static Prepayment Meters for Active Energy,,isi_qco.csv,304
 plugs-and-socket-outlets-and-alternating-current-direct-connected-static-prepaym,Alternating Current Direct Connected Static Prepayment Meters for Active Energy (Class1 and 2),IS 15884:2010,active,Plugs and Socket-Outlets and Alternating Current Direct Connected Static Prepayment Meters for Active Energy,,isi_qco.csv,305
@@ -629,12 +631,12 @@ refined-nickel-quality-control-order-2025,Refined Nickel,IS 2782: 2023,withdrawn
 refined-zinc-quality-control-order-2025,Refined Zinc,IS 209: 2024,withdrawn,Non-ferrous refined metals,,isi_qco.csv,799
 refrigerating-appliances-quality-control-order-2020,Household Refrigerating Appliances- Characteristics and Test Methods part-1 General Requirements,IS 17550 (Part 1): 2021,active,Refrigerating Appliances,,isi_qco.csv,381
 refrigerating-appliances-quality-control-order-2020,Freezers,IS 7872: 2018,active,Refrigerating Appliances,,isi_qco.csv,382
-resin-treated-compressed-wood-laminates-quality-control-order-2023,Resin treated compressed wood laminates (compregs) – For electrical purposes,IS 3513 (Part 1) : 1989,active,Resin Treated Compressed Wood Laminates,,isi_qco.csv,438
-resin-treated-compressed-wood-laminates-quality-control-order-2023,Resin treated compressed wood laminates (compregs) – For chemical purposes,IS 3513 (Part 2) : 1989,active,Resin Treated Compressed Wood Laminates,,isi_qco.csv,439
-resin-treated-compressed-wood-laminates-quality-control-order-2023,Resin treated compressed wood laminates (compregs) – For general purposes,IS 3513 (Part 3) : 1989,active,Resin Treated Compressed Wood Laminates,,isi_qco.csv,440
+resin-treated-compressed-wood-laminates-quality-control-order-2023,Resin treated compressed wood laminates (compregs) – For electrical purposes,IS 3513 (Part 1) : 1989,active,"Insulated Flask, Bottles and Containers for Domestic Use",,isi_qco.csv,438
+resin-treated-compressed-wood-laminates-quality-control-order-2023,Resin treated compressed wood laminates (compregs) – For chemical purposes,IS 3513 (Part 2) : 1989,active,"Insulated Flask, Bottles and Containers for Domestic Use",,isi_qco.csv,439
+resin-treated-compressed-wood-laminates-quality-control-order-2023,Resin treated compressed wood laminates (compregs) – For general purposes,IS 3513 (Part 3) : 1989,active,"Insulated Flask, Bottles and Containers for Domestic Use",,isi_qco.csv,440
 rice-bran-fatty-acids-quality-control-order-2022,Rice Bran Fatty Acids,IS 12068 :1987,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,292
-ring-slugging-wrenches-spanners,Ring Slugging Wrenches (Spanners),4509:1992,upcoming,,2027-04-01,qco_upcoming.csv,118
-ring-wrenches-spanners,Ring Wrenches(Spanners),2029:1998,upcoming,,2027-04-01,qco_upcoming.csv,114
+ring-slugging-wrenches-spanners,Ring Slugging Wrenches (Spanners),4509:1992,upcoming,,2027-04-01,qco_upcoming.csv,116
+ring-wrenches-spanners,Ring Wrenches(Spanners),2029:1998,upcoming,,2027-04-01,qco_upcoming.csv,112
 ropes-and-cordages-quality-control-order-2024,Textiles — Manila Ropes — Specification,IS 1084:2005,active,Ropes and Cordages,,isi_qco.csv,772
 ropes-and-cordages-quality-control-order-2024,"Fibre Ropes — Polyester — 3-, 4-, 8- and 12- Strand Ropes",IS 11066:2022,active,Ropes and Cordages,,isi_qco.csv,773
 ropes-and-cordages-quality-control-order-2024,Textiles — Composite Synthetic Fibre Ropes — Specification,IS 14928:2001,active,Ropes and Cordages,,isi_qco.csv,774
@@ -743,13 +745,13 @@ safety-of-household-commercial-and-similar-electrical-appliances-quality-control
 safety-of-household-commercial-and-similar-electrical-appliances-quality-control,DC supplied/ battery-operated toothbrush and other oral hygiene appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,active,"Safety of Household, Commercial and Similar Electrical Appliances",,isi_qco.csv,759
 safety-of-household-commercial-and-similar-electrical-appliances-quality-control,DC supplied/ battery-operated foot warmer and heating mats,IS 302 (Part 1) : 2024 IEC 60335-1:2020,active,"Safety of Household, Commercial and Similar Electrical Appliances",,isi_qco.csv,760
 safety-of-household-commercial-and-similar-electrical-appliances-quality-control,DC supplied/ battery-operated air purifier,IS 302 (Part 1) : 2024 IEC 60335-1:2020,active,"Safety of Household, Commercial and Similar Electrical Appliances",,isi_qco.csv,761
-sauna-heating-appliances-and-infrared-cabins,Sauna Heating Appliances and Infrared Cabins,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,60
+sauna-heating-appliances-and-infrared-cabins,Sauna Heating Appliances and Infrared Cabins,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,58
 self-contained-drinking-water-coolers-quality-control-order-2023,Self- Contained Drinking Water Coolers – Energy Consumption and Performance,IS 1475 (Part 1) : 2001,active,Self- Contained Drinking Water Coolers,,isi_qco.csv,522
 sewing-machines-quality-control-order-2021,Household Zig-Zag Sewing Machine Head,IS 15449 : Part 1 : 2004,active,Sewing Machine,,isi_qco.csv,387
-single-ended-open-jaw-adjustable-wrenches,Single-ended Open-jaw Adjustable Wrenches,6149:1984,upcoming,,2027-04-01,qco_upcoming.csv,115
-single-walled-baking-ovens,Single Walled Baking Ovens,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,42
-skin-beauty-care-appliances,Skin Beauty Care Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,84
-slicing-machines,Slicing Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,40
+single-ended-open-jaw-adjustable-wrenches,Single-ended Open-jaw Adjustable Wrenches,6149:1984,upcoming,,2027-04-01,qco_upcoming.csv,113
+single-walled-baking-ovens,Single Walled Baking Ovens,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,40
+skin-beauty-care-appliances,Skin Beauty Care Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,82
+slicing-machines,Slicing Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,38
 smart-meters-quality-control-order-2023,A.C. Static Direct Connected Watt Hour Smart Meter Class 1 and 2,IS 16444 Part 1,active,Smart Meters,,isi_qco.csv,433
 smart-meters-quality-control-order-2023,"A.C. Static Transformer Operated Watt Hour and Var-Hour Smart Meters, Class 0.2S, 0.5S and 1.0S",IS 16444 Part 2,active,Smart Meters,,isi_qco.csv,434
 so-178-e-dated-18th-january-2017-so-3207-e-dated-29th-september-2017,Energy Efficient Induction Motors-Three Phase Squirrel Cage,IS 12615,active,Electrical Motors,,isi_qco.csv,232
@@ -765,7 +767,7 @@ solar-dc-cable-and-fire-survival-cable-quality-control-order-2023,"Thermosetting
 solar-thermal-systems-devices-and-components-quality-control-order-2024,Solar Flat Plate Collector for Solar Water Heating Systems,IS 12933 (Part 1): 2003 IS 12933 (Part 2): 2003,active,"Solar Thermal Systems, Devices and Components",,isi_qco.csv,781
 solar-thermal-systems-devices-and-components-quality-control-order-2024,All Glass Evacuated Tubes Solar Water Heating System,IS 16544: 2016,active,"Solar Thermal Systems, Devices and Components",,isi_qco.csv,782
 solar-thermal-systems-devices-and-components-quality-control-order-2024,Storage Water Tank for All Glass Evacuated Tubes Solar Water Heating Systems,IS 16542: 2016,active,"Solar Thermal Systems, Devices and Components",,isi_qco.csv,783
-spin-extractors,Spin Extractors,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,6
+spin-extractors,Spin Extractors,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,4
 stainless-steel-pipes-and-tubes-quality-control-order-2025,Stainless Steel Seamless pipes and tubes for general service,IS 17875: 2022,active,Stainless Steel Pipes and Tubes,,isi_qco.csv,789
 stainless-steel-pipes-and-tubes-quality-control-order-2025,Stainless Steel Welded pipes and tubes for general service,IS 17876: 2022,active,Stainless Steel Pipes and Tubes,,isi_qco.csv,790
 steel-and-steel-products-quality-control-order-2020,Plain Hard-drawn Steel Wire For Pre-stressed Concrete: Part 1 Cold Drawn Stress-relieved Wire,IS 1785 (Part 1) : 1983,active,Steel and Iron Products,,isi_qco.csv,74
@@ -930,15 +932,15 @@ steel-wires-or-strands-nylon-or-wire-ropes-and-wire-mesh-quality-control-order-2
 steel-wires-or-strands-nylon-or-wire-ropes-and-wire-mesh-quality-control-order-2,"Mechanically Woven, Double- Twisted, Hexagonal Wire Mesh Gabions, Revet Mattresses and Rock Fall Netting and Other Rock Fall Netting and Other Products for Civil Engineering Purposes (Galvanized Steel Wire or Galvanized Steel Wire with polymer coating)",IS 16014:2018,active,"Steel Wires or Strands, Nylon or Wire Ropes and Wire mesh",,isi_qco.csv,584
 styrene-butadiene-rubber-latex-quality-control-order-2021,Styrene-Butadiene Rubber Latex,IS 11356:2020,active,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,275
 styrene-vinyl-benzene-quality-control-order-2020,Styrene (Vinyl Benzene),IS 4105:2020,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,266
-surface-cleaning-appliances-for-household-use-employing-liquids-or-steam,Surface-Cleaning Appliances for Household use Employing Liquids or Steam,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,61
+surface-cleaning-appliances-for-household-use-employing-liquids-or-steam,Surface-Cleaning Appliances for Household use Employing Liquids or Steam,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,59
 synthetic-micro-fibres-for-use-in-cement-based-matrix-quality-control-order-2021,Synthetic Micro-Fibres for use in Cement Based Matrix,IS 16481:2016,active,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,276
 telescopic-ball-bearing-drawer-slide-quality-control-order-2024,Telescopic Ball Bearing Drawer Slide,IS 17954:2023,active,Telescopic Ball Bearing Drawer Slide,,isi_qco.csv,657
 terephthalic-acid-quality-control-order-2020,Terephthalic Acid,IS 15030:2001,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,262
 textiles-high-density-polyethylene-hdpe-polypropylene-pp-woven-sacks-for-packagi,Textiles — High Density Polyethylene (HDPE) Polypropylene (PP) Woven Sacks for Packaging of 25 kg Polymer Materials,IS 16703 : 2017,active,Polyethylene Woven Sacks,,isi_qco.csv,590
-textiles-high-density-polyethylene-hdpe-polypropylene-pp-woven-sacks-for-packagi-2,Textiles — High Density Polyethylene (HDPE)/ Polypropylene (PP) Woven Sacks for Packaging of 50 kg Cement,IS 11652 : 2017,upcoming,,2027-01-06,qco_upcoming.csv,107
+textiles-high-density-polyethylene-hdpe-polypropylene-pp-woven-sacks-for-packagi-2,Textiles — High Density Polyethylene (HDPE)/ Polypropylene (PP) Woven Sacks for Packaging of 50 kg Cement,IS 11652 : 2017,upcoming,,2027-01-06,qco_upcoming.csv,105
 textiles-polypropylene-pp-high-density-polyethylene-hdpe-laminated-woven-sacks-f,"Textiles — Polypropylene (PP)/ High Density Polyethylene (HDPE) Laminated Woven Sacks for Mail Sorting, Storage, Transport and Distribution",IS 17399 : 2020,active,Polyethylene Woven Sacks,,isi_qco.csv,591
-textiles-polypropylene-pp-high-density-polyethylene-hdpe-laminated-woven-sacks-f-2,"Textiles — Polypropylene (PP)/ High Density Polyethylene (HDPE) Laminated Woven Sacks for Mail Sorting, Storage, Transport and Distribution",IS 17399 : 2020,upcoming,,2027-01-06,qco_upcoming.csv,108
-textiles-polypropylene-pp-woven-laminated-block-bottom-valve-sacks-for-packaging,"Textiles — Polypropylene (PP) Woven, Laminated, Block Bottom Valve Sacks for Packaging of 50 kg Cement",IS 16709 : 2017,upcoming,,2026-11-06,qco_upcoming.csv,95
+textiles-polypropylene-pp-high-density-polyethylene-hdpe-laminated-woven-sacks-f-2,"Textiles — Polypropylene (PP)/ High Density Polyethylene (HDPE) Laminated Woven Sacks for Mail Sorting, Storage, Transport and Distribution",IS 17399 : 2020,upcoming,,2027-01-06,qco_upcoming.csv,106
+textiles-polypropylene-pp-woven-laminated-block-bottom-valve-sacks-for-packaging,"Textiles — Polypropylene (PP) Woven, Laminated, Block Bottom Valve Sacks for Packaging of 50 kg Cement",IS 16709 : 2017,upcoming,,2026-11-06,qco_upcoming.csv,93
 textileshigh-density-polyethylene-hdpe-polypropylene-pp-woven-sacks-for-packagin,Textiles—High Density Polyethylene (HDPE) /Polypropylene (PP) Woven Sacks for Packaging Fertilizers,IS 9755 : 2021,active,Polyethylene Woven Sacks,,isi_qco.csv,587
 textileshigh-density-polyethylene-hdpe-polypropylene-pp-woven-sacks-for-packagin-2,Textiles — High Density Polyethylene (HDPE)/ Polypropylene (PP) Woven Sacks for Packaging of 50 kg Cement,IS 11652 : 2017,active,Polyethylene Woven Sacks,,isi_qco.csv,588
 textilespolypropylene-pp-woven-laminated-block-bottom-valve-sacks-for-packaging,"Textiles — Polypropylene (PP) Woven, Laminated, Block Bottom Valve Sacks for Packaging of 50 kg Cement",IS 16709 : 2017,active,Polyethylene Woven Sacks,,isi_qco.csv,589
@@ -948,9 +950,9 @@ the-textiles-high-density-polyethylene-and-polypropylene-woven-sacks-for-packagi
 the-textiles-high-density-polyethylene-and-polypropylene-woven-sacks-for-packagi,"Textiles –High Density Polyethylene (HDPE)/ Polypropylene (PP) Woven Sacks for packaging 10 kilogram, 15 kilogram, 20 kilogram, 25 kilogram, and 30 kilogram Foodgrains",IS 16208:2015,active,Woven Sacks,,isi_qco.csv,336
 the-textiles-high-density-polyethylene-and-polypropylene-woven-sacks-for-packagi,Textiles –High Density Polyethylene (HDPE)/ Polypropylene (PP) Woven Sacks for packaging 50 kilogram /25 kilogram Sugar,IS 14968:2015,active,Woven Sacks,,isi_qco.csv,337
 the-textiles-high-density-polyethylene-and-polypropylene-woven-sacks-for-packagi,Textiles –High Density Polyethylene (HDPE)/ Polypropylene (PP) Woven Sacks for filling Sand,IS 14252:2015,active,Woven Sacks,,isi_qco.csv,338
-thermal-storage-room-heaters,Thermal Storage Room Heaters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,65
+thermal-storage-room-heaters,Thermal Storage Room Heaters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,63
 tin-ingot-quality-control-order-2025,Tin Ingot,IS 26: 2024,withdrawn,Non-ferrous refined metals,,isi_qco.csv,800
-toilet-appliances,Toilet Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,74
+toilet-appliances,Toilet Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,72
 toluene-quality-control-order-2020,Toluene,IS 537:2011,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,261
 toys-quality-control-order-2020,Safety of Toys Part l Safety Aspects Related to Mechanical and Physical Properties.,IS 9873 (Part 1) : 2018,active,Non Electric Toys,,isi_qco.csv,325
 toys-quality-control-order-2020,Safety of Toys Part 2 Flammability.,IS 9873 (Part 2) : 2017,active,Non Electric Toys,,isi_qco.csv,326
@@ -960,37 +962,36 @@ toys-quality-control-order-2020,Safety of Toys Part 7 Requirements and Test Meth
 toys-quality-control-order-2020,Safety of Toys Part 9 Certain Phthalates Esters in Toys and Children’s Products.,IS 9873 (Part 9) : 2017,active,Non Electric Toys,,isi_qco.csv,330
 toys-quality-control-order-2020,Safety of Electric Toys.,IS 15644: 2006,active,Electric Toys,,isi_qco.csv,331
 transparent-float-glass-quality-control-order-2019,Transparent Float Glass,IS 14900: 2018,active,Transparent Float Glass,,isi_qco.csv,307
-tumbler-dryers,Tumbler Dryers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,9
+tumbler-dryers,Tumbler Dryers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,7
 v-belt-quality-control-order-2024,V-Belts – Endless V-Belts for Industrial Purposes – General Purpose,IS 2494 (Part 1): 1994,active,V-Belt,,isi_qco.csv,654
 v-belt-quality-control-order-2024,V-Belts – Endless V-Belts for Industrial Purposes – fire resistant and antistatic V-Belts,IS 2494 (Part 2): 1993,active,V-Belt,,isi_qco.csv,655
 v-belt-quality-control-order-2024,Transmission Devices – V – Belts endless narrow V-Belts for industrial use,IS 14261: 1995,active,V-Belt,,isi_qco.csv,656
-vacuum-cleaners-and-water-suction-cleaning-appliances,Vacuum Cleaners and Water Suction Cleaning Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,5
-vaporizers,Vaporizers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,79
+vacuum-cleaners-and-water-suction-cleaning-appliances,Vacuum Cleaners and Water Suction Cleaning Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,3
+vaporizers,Vaporizers,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,77
 vinyl-acetate-monomer-quality-control-order-2020,Vinyl Acetate Monomer,IS 12345:1988,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,265
 vinyl-chloride-monomer-quality-control-order-2020,Vinyl Chloride Monomer,IS 17442:2020,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,287
 vinyl-sulphone-quality-control-order-2024,Vinyl Sulphone,IS 18340 : 2023,withdrawn,"H Acid , K Acid & Vinyl Sulphone",,isi_qco.csv,786
 viscose-staple-fibres-quality-control-order-2022,Viscose Staple Fibres,IS 17266:2019,withdrawn,Viscose Staple Fibres,,isi_qco.csv,395
-warming-plates-and-similar-appliances,Warming Plates and Similar Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,10
-water-bed-heaters,Water-Bed Heaters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,69
+warming-plates-and-similar-appliances,Warming Plates and Similar Appliances,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,8
+water-bed-heaters,Water-Bed Heaters,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,67
 water-meters-and-accessories-quality-control-order-2023,Water meters (bulk type),IS 2373:1981,active,Water meters and accessories,,isi_qco.csv,642
 water-meters-and-accessories-quality-control-order-2023,Water meters (domestic type),IS 779: 1994,active,Water meters and accessories,,isi_qco.csv,643
 water-meters-and-accessories-quality-control-order-2023,Ferrules for water services,IS 2692: 1989,active,Water meters and accessories,,isi_qco.csv,644
 welding-rods-and-electrodes-quality-control-order-2023,Covered electrodes for manual metal arc welding of carbon and carbon manganese steel,IS 814 : 2004,active,Welding Rods and Electrodes,,isi_qco.csv,431
 welding-rods-and-electrodes-quality-control-order-2023,Welding rode and bare electrodes for gas shielded arc welding of structural steel,IS 6419 : 1996,active,Welding Rods and Electrodes,,isi_qco.csv,432
-whirlpool-baths-and-whirlpool-spas,Whirlpool Baths and Whirlpool Spas,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,64
+whirlpool-baths-and-whirlpool-spas,Whirlpool Baths and Whirlpool Spas,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,62
 wood-based-boards-quality-control-order-2023,Block Boards,IS 1659:2004,active,Wood Based Boards,,isi_qco.csv,469
 wood-based-boards-quality-control-order-2023,Prelaminated particle boards from wood and other Lignocellulosic material,IS 12823:2015,active,Wood Based Boards,,isi_qco.csv,470
 wood-based-boards-quality-control-order-2023,Particle boards of wood and other lignocellulosic materials (medium density) for general purpose,IS 3087:2005,active,Wood Based Boards,,isi_qco.csv,471
 wood-based-boards-quality-control-order-2023,Medium density fibre boards for general purpose,IS 12406:2021,active,Wood Based Boards,,isi_qco.csv,472
 wood-based-boards-quality-control-order-2023,Veneered particle boards,IS 3097:2006,active,Wood Based Boards,,isi_qco.csv,473
-wrought-aluminium-and-aluminium-alloy-bars-rods-and-sections-for-general-enginee,"Wrought aluminium and aluminium alloy bars, rods and sections (For General Engineering Purposes)",IS 733:1983,upcoming,,2026-12-01,qco_upcoming.csv,96
-wrought-aluminium-and-aluminium-alloy-bars-rods-tubes-sections-plates-and-sheets,"Wrought aluminium and aluminium alloy bars, rods, tubes, sections, plates and sheets for electrical applications",IS 5082:1998,upcoming,,2026-12-01,qco_upcoming.csv,105
-wrought-aluminium-and-aluminium-alloy-plate-for-general-engineering-purposes,Wrought aluminium and aluminium alloy plate for general engineering purposes,IS 736:1986,upcoming,,2026-12-01,qco_upcoming.csv,98
-wrought-aluminium-and-aluminium-alloy-rivet-stock-for-general-engineering-purpos,Wrought aluminium and aluminium alloy rivet stock for general engineering purposes,IS 740:1977,upcoming,,2026-12-01,qco_upcoming.csv,101
-wrought-aluminium-and-aluminium-alloy-sheet-and-strip-for-general-engineering-pu,Wrought aluminium and aluminium alloy sheet and strip for general engineering purposes,IS 737:2008,upcoming,,2026-12-01,qco_upcoming.csv,99
-wrought-aluminium-and-aluminium-alloy-wire-for-general-engineering-purposes,Wrought aluminium and aluminium alloy wire for general engineering purposes,IS 739:1992,upcoming,,2026-12-01,qco_upcoming.csv,100
-wrought-aluminium-and-aluminium-alloys-extruded-round-tube-and-hollow-section-fo,Wrought aluminium and aluminium alloys- Extruded round tube and hollow section for general engineering purposes,IS 1285:2002,upcoming,,2026-12-01,qco_upcoming.csv,102
-wrought-aluminium-and-aluminium-alloys-for-manufacture-of-utensils,Wrought aluminium and aluminium alloys for manufacture of utensils,IS 21:1992,upcoming,,2026-12-01,qco_upcoming.csv,104
-wrought-aluminium-and-aluminium-alloys-forging-stock-and-forgings-for-general-en,"Wrought aluminium and aluminium alloys, forging stock and forgings for general engineering purposes",IS 734:1975,upcoming,,2026-12-01,qco_upcoming.csv,97
-wrought-aluminium-utensils,Wrought Aluminium Utensils,IS 1660:2024,upcoming,,2026-10-01,qco_upcoming.csv,2
-wrought-aluminium-wire-for-electrical-purposes,Wrought Aluminium Wire for Electrical Purposes,IS 2067:1975,upcoming,,2026-12-01,qco_upcoming.csv,103
+wrought-aluminium-and-aluminium-alloy-bars-rods-and-sections-for-general-enginee,"Wrought aluminium and aluminium alloy bars, rods and sections (For General Engineering Purposes)",IS 733:1983,upcoming,,2026-12-01,qco_upcoming.csv,94
+wrought-aluminium-and-aluminium-alloy-bars-rods-tubes-sections-plates-and-sheets,"Wrought aluminium and aluminium alloy bars, rods, tubes, sections, plates and sheets for electrical applications",IS 5082:1998,upcoming,,2026-12-01,qco_upcoming.csv,103
+wrought-aluminium-and-aluminium-alloy-plate-for-general-engineering-purposes,Wrought aluminium and aluminium alloy plate for general engineering purposes,IS 736:1986,upcoming,,2026-12-01,qco_upcoming.csv,96
+wrought-aluminium-and-aluminium-alloy-rivet-stock-for-general-engineering-purpos,Wrought aluminium and aluminium alloy rivet stock for general engineering purposes,IS 740:1977,upcoming,,2026-12-01,qco_upcoming.csv,99
+wrought-aluminium-and-aluminium-alloy-sheet-and-strip-for-general-engineering-pu,Wrought aluminium and aluminium alloy sheet and strip for general engineering purposes,IS 737:2008,upcoming,,2026-12-01,qco_upcoming.csv,97
+wrought-aluminium-and-aluminium-alloy-wire-for-general-engineering-purposes,Wrought aluminium and aluminium alloy wire for general engineering purposes,IS 739:1992,upcoming,,2026-12-01,qco_upcoming.csv,98
+wrought-aluminium-and-aluminium-alloys-extruded-round-tube-and-hollow-section-fo,Wrought aluminium and aluminium alloys- Extruded round tube and hollow section for general engineering purposes,IS 1285:2002,upcoming,,2026-12-01,qco_upcoming.csv,100
+wrought-aluminium-and-aluminium-alloys-for-manufacture-of-utensils,Wrought aluminium and aluminium alloys for manufacture of utensils,IS 21:1992,upcoming,,2026-12-01,qco_upcoming.csv,102
+wrought-aluminium-and-aluminium-alloys-forging-stock-and-forgings-for-general-en,"Wrought aluminium and aluminium alloys, forging stock and forgings for general engineering purposes",IS 734:1975,upcoming,,2026-12-01,qco_upcoming.csv,95
+wrought-aluminium-wire-for-electrical-purposes,Wrought Aluminium Wire for Electrical Purposes,IS 2067:1975,upcoming,,2026-12-01,qco_upcoming.csv,101

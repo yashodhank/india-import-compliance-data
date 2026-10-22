@@ -16,7 +16,7 @@
  "hs8_codes": 12587,
  "hs8_with_import_policy_row": 12587,
  "hs8_with_a_bis_row": 548,
- "qco_records": 311,
+ "qco_records": 310,
  "qco_mapped_to_hs": 116,
  "qco_unmapped_to_hs": [
   "1-3-phenylenediamine-quality-control-order-2022",
@@ -35,6 +35,7 @@
   "aluminium-cans-for-beverages",
   "aluminium-foil-quality-control-order-2020",
   "aniline-quality-control-order-2019",
+  "animal-feeds-and-feed-ingredients-quaity-control-order-2026",
   "asbestos-or-fibre-cement-based-products-quality-control-order-2024",
   "automobile-wheel-rim-component-quality-control-order-2020",
   "beta-picoline-quality-control-order-2020",
@@ -51,7 +52,6 @@
   "chain-pipe-wrenches",
   "coconut-fatty-acids-quality-control-order-2022",
   "combination-side-cutting-pliers",
-  "combination-side-cutting-pliers-2",
   "common-salt-and-cattle-licks-for-animal-consumption",
   "cookware-and-utensils-quality-control-order-2023",
   "copper-products-quality-control-order-2023",
@@ -212,7 +212,6 @@
   "wrought-aluminium-and-aluminium-alloys-extruded-round-tube-and-hollow-section-fo",
   "wrought-aluminium-and-aluminium-alloys-for-manufacture-of-utensils",
   "wrought-aluminium-and-aluminium-alloys-forging-stock-and-forgings-for-general-en",
-  "wrought-aluminium-utensils",
   "wrought-aluminium-wire-for-electrical-purposes"
  ],
  "is_named_in_itchs_but_on_no_bis_list": 8,
