@@ -9,6 +9,8 @@ ASSETS = {
     'itchs-2022-chapter-conditions.csv': 'data/itchs/2022/chapter-conditions.csv',
     'qco-register.csv': 'data/qco/register.csv',
     'qco-register.json': 'data/qco/register.json',
+    'measures.csv': 'data/measures/measures.csv',
+    'measures.json': 'data/measures/measures.json',
     'hs-scheme-candidates.csv': 'data/derived/hs-scheme-candidates.csv',
     'bis-isi_qco.csv': 'data/bis/isi_qco.csv',
     'bis-crs.csv': 'data/bis/crs.csv',
