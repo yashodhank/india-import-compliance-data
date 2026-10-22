@@ -69,9 +69,8 @@ jobs:
           git add -A data raw CHANGELOG.md
           git commit -m "data: weekly refresh $TAG" -m "$(cat changelog-entry.md)"
           git push origin HEAD:main
-          gh release create "$TAG" --title "$TAG" --notes-file changelog-entry.md \
-            data/itchs/2022/all.csv data/qco/register.csv data/qco/register.json data/derived/hs-scheme-candidates.csv \
-            data/bis/*.csv data/tec/mtcte.csv data/bee/*.csv
+          python -m pipeline.assets dist
+          gh release create "$TAG" --title "$TAG" --notes-file changelog-entry.md dist/*
 
       - name: Open or update an issue on failure
         if: failure()
