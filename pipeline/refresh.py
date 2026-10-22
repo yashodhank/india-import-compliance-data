@@ -11,6 +11,7 @@ than half stops the run: nothing is written and the exit code is 1. A list that 
 (no new raw copy) until its last stamp is REVERIFY_DAYS old.
 """
 import argparse
+import collections
 import csv
 import datetime
 import glob
@@ -29,6 +30,7 @@ from pipeline import refresh_diff as rd
 from pipeline import sources as S
 
 Failure = A.Failure
+NoStructure = A.NoStructure
 SHRINK_LIMIT = 0.5
 REVERIFY_DAYS = 28
 RAW_MAX = 2 * 1024 * 1024
@@ -110,6 +112,14 @@ class Ctx:
         self.prov = {}  # file -> provenance row, per data dir
         self.meta = {}  # source id -> how it was fetched (fetch_method, fetch_tier, fetch_cost_usd)
 
+    def debug(self, name, body):
+        """The body of a source that failed the structure check, for the run artifact (REFRESH_DEBUG_DIR); never part of the data."""
+        d = os.environ.get('REFRESH_DEBUG_DIR')
+        if d and body is not None:
+            os.makedirs(d, exist_ok=True)
+            with open(os.path.join(d, re.sub(r'[^A-Za-z0-9_.-]', '_', name) + '.body'), 'wb') as fh:
+                fh.write(body if isinstance(body, bytes) else body.encode('utf-8', 'replace'))
+
 
 def fetch_url(url, lang):
     return url + ('&' if '?' in url else '?') + 'lang=en' if lang else url
@@ -169,6 +179,45 @@ def keep_stale(ctx, summary, source_id, out, err):
     return current
 
 
+def _norm_is(code):
+    return re.sub(r'\s+', '', (code or '').upper().replace('IS', ''))
+
+
+def reconcile_upcoming(ctx, current, new, summary):
+    """A product that leaves the upcoming list is explained, not dropped silently.
+    - its IS code is now in Scheme-I (data/bis/isi_qco.csv as fetched in this run): the order came into force; the row goes and the changelog says so;
+    - the same IS code + product is still listed (BIS de-duplicated its own list, e.g. two serials of one product collapsing to one): nothing is lost;
+    - otherwise BIS edited the list and left no trace: the row is kept, with ' | source_removed <date>' in its notes, so consumers do not lose a product."""
+    have = {(_norm_is(r['is_codes']), r['product_name'].strip().lower()) for r in new}
+    b = ctx.stage.files.get('data/bis/isi_qco.csv') or read_file(ctx.root, 'data/bis/isi_qco.csv') or b''
+    in_force = {_norm_is(r['is_codes']) for r in csv.DictReader(io.StringIO(b.decode('utf-8'), newline=''))}
+    notes, kept = [], []
+    n_cur, n_new = collections.Counter(), collections.Counter()
+    for r in current:
+        n_cur[(_norm_is(r['is_codes']), r['product_name'].strip().lower())] += 1
+    for r in new:
+        n_new[(_norm_is(r['is_codes']), r['product_name'].strip().lower())] += 1
+    for r in current:
+        k = (_norm_is(r['is_codes']), r['product_name'].strip().lower())
+        if n_new[k] and n_cur[k] > n_new[k]:
+            notes.append('%s (%s): listed %d times before, %d now (BIS de-duplicated its own list); one row kept' % (r['product_name'], r['is_codes'], n_cur[k], n_new[k]))
+            n_cur[k] = 0  # said once
+    for r in current:
+        key = (_norm_is(r['is_codes']), r['product_name'].strip().lower())
+        if key in have:
+            continue
+        if key[0] in in_force:
+            notes.append('%s (%s): now in force, listed in Scheme-I' % (r['product_name'], r['is_codes']))
+        else:
+            if 'source_removed' not in r['notes']:
+                r = dict(r, notes=r['notes'] + ' | source_removed ' + ctx.today)
+            kept.append(r)
+            notes.append('%s (%s): no longer on the source page and not in Scheme-I; kept, flagged source_removed %s' % (r['product_name'], r['is_codes'], ctx.today))
+    if notes:
+        summary.setdefault('explained', {})['data/bis/qco_upcoming.csv'] = notes
+    return new + kept
+
+
 def run_list(ctx, spec, summary, prov):
     out = spec['out']
     cols = A.COLS + spec.get('extra_cols', [])
@@ -176,18 +225,50 @@ def run_list(ctx, spec, summary, prov):
         body, date, raw_rel, archived = get_raw(ctx, spec['id'], spec['url'], spec['lang'], spec['stem'], spec['ext'])
     except Failure as e:
         return keep_stale(ctx, summary, spec['id'], out, e)
+
+    def parse(b):
+        try:
+            parsed = spec['parse'](b, spec['url'], date)
+        except NoStructure:
+            raise
+        except A.Failure as e:
+            raise Failure('%s: %s' % (out, e))
+        except Exception as e:  # noqa: BLE001 (a parser that crashes on a changed layout is a failed run, never a half-written list)
+            raise Failure('%s: the parser crashed (%s: %s)' % (out, type(e).__name__, e))
+        if not parsed.rows:
+            raise NoStructure('%s: the page parsed to zero rows (layout changed?)' % out)
+        return parsed
+
     try:
-        parsed = spec['parse'](body, spec['url'], date)
-    except A.Failure as e:
-        raise Failure('%s: %s' % (out, e))
-    except Exception as e:  # noqa: BLE001 (a parser that crashes on a changed layout is a failed run, never a half-written list)
-        raise Failure('%s: the parser crashed (%s: %s)' % (out, type(e).__name__, e))
-    if not parsed.rows:
-        raise Failure('%s: the page parsed to zero rows (layout changed?)' % out)
+        try:
+            parsed = parse(body)
+        except NoStructure as first:
+            # a 200 without the expected structure is a fetch problem until proven otherwise: retry through the paid fallback, then keep the source stale
+            ctx.debug(spec['id'], body)
+            if ctx.offline:
+                raise Failure('%s: %s' % (out, first))
+            u = fetch_url(spec['url'], spec['lang'])
+            try:
+                rescrape = getattr(ctx.fetch, 'rescrape', None)
+                if rescrape is None:
+                    raise Failure('no paid fallback available')
+                body = rescrape(u, 'page answered 200 without the expected structure')
+                ctx.meta[spec['id']] = (getattr(ctx.fetch, 'info', None) or {}).get(u) or ctx.meta.get(spec['id'], {})
+                raw_rel, archived = 'raw/%s/%s/%s_%s.%s' % (spec['id'], ctx.today, spec['stem'], ctx.today, spec['ext']), False
+                parsed = parse(body)
+            except NoStructure as second:
+                ctx.debug(spec['id'] + '-fallback', body)
+                raise NoStructure('page answered 200 without the expected tables (direct: %s; paid fallback: %s)' % (str(first)[:120], str(second)[:120]))
+            except Failure as second:
+                raise NoStructure('page answered 200 without the expected tables (direct: %s; paid fallback: %s)' % (str(first)[:120], str(second)[:120]))
+    except NoStructure as e:
+        return keep_stale(ctx, summary, spec['id'], out, e)
     if parsed.source_rows != len(parsed.rows):
         raise Failure('%s: parsed %d rows, the source has %d' % (out, len(parsed.rows), parsed.source_rows))
     current = read_rows(ctx.root, out)
     new = [{c: r.get(c, '') for c in cols} for r in parsed.rows]
+    if spec['id'] == 'bis-upcoming' and current:
+        new = reconcile_upcoming(ctx, current, new, summary)
     if current is not None and len(new) < len(current) * SHRINK_LIMIT:
         raise Failure('%s: %d rows against %d before (more than %d%% below); keeping the last good file' % (out, len(new), len(current), int((1 - SHRINK_LIMIT) * 100)))
     unchanged = False
@@ -436,6 +517,11 @@ class LazyFetch:
             self._f = FB.FallbackFetcher()
         return self._f(url)
 
+    def rescrape(self, url, why):
+        if self._f is None:
+            self._f = FB.FallbackFetcher()
+        return self._f.rescrape(url, why)
+
     @property
     def info(self):
         return self._f.info if self._f else {}
@@ -527,6 +613,9 @@ def changelog_entry(summary):
     if it.get('chapters_changed'):
         lines.append('- `data/itchs/2022`: %d chapters changed (%s); %d codes added, %d removed, %d changed.' % (
             len(it['chapters_changed']), ', '.join(it['chapters_changed'][:20]), it['added'], it['removed'], it['changed']))
+    for f, notes in sorted((summary.get('explained') or {}).items()):
+        for n in notes:
+            lines.append('  - `%s`: %s' % (f, n))
     for x in summary.get('stale') or []:
         lines.append('- `%s`: STALE since %s, last good data kept: %s' % (x['file'], x['since'], x['reason']))
     fb = summary.get('fallback') or {}

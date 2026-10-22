@@ -38,7 +38,18 @@ jobs:
         env:
           ALTERLAB_API_KEY: ${{ secrets.ALTERLAB_API_KEY }}
           ALTERLAB_MAX_USD: '0.25'
+          REFRESH_DEBUG_DIR: refresh-debug
         run: python -m pipeline.refresh --report refresh-report.json --changelog-md changelog-entry.md
+
+      # The bodies of sources that answered without the expected structure, so the next failure is readable without a laptop.
+      - name: Upload the bodies of failed sources
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: refresh-debug
+          path: refresh-debug/
+          retention-days: 3
+          if-no-files-found: ignore
 
       - name: Verify the rebuilt tree (schemas, invariants, golden tests)
         run: python -m pytest tests -q

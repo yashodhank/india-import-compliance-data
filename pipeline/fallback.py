@@ -138,6 +138,13 @@ class FallbackFetcher:
                 self.info[url] = {'fetch_method': 'direct', 'fetch_tier': '', 'fetch_cost_usd': ''}
         return body
 
+    def rescrape(self, url, why):
+        """Fetch through the paid API although the direct fetch answered 200: for a body that lacks the structure the adapter expects.
+        Raises Failure when no key is configured or the API fails."""
+        if not self.configured:
+            raise Failure('fallback fetcher: not configured')
+        return self._scrape(url, why)
+
     def _wayback(self, url):
         """Verbatim bytes of a refused PDF from the Internet Archive, free; None when it has no copy."""
         try:

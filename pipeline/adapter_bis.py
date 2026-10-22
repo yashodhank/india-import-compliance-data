@@ -5,14 +5,14 @@ notification the row above spans over it. The expected row count is the table's 
 titles; a `<tr>` that is none of these and does not fill the table's columns is a failure, never a skipped row."""
 import re
 
-from pipeline.adapters import CUT, Failure, Parsed, clean, count_check, html_grid, page_date, row, status_of
+from pipeline.adapters import CUT, Failure, NoStructure, Parsed, clean, count_check, html_grid, page_date, row, status_of
 
 
 def grid_tables(body, shapes, what):
     """The page's tables, each checked against the header cells the parser was proved against."""
     ts = html_grid(body)
     if len(ts) < len(shapes):
-        raise Failure('%s: %d tables on the page, %d expected (layout changed?)' % (what, len(ts), len(shapes)))
+        raise NoStructure('%s: %d tables on the page, %d expected (layout changed?)' % (what, len(ts), len(shapes)))
     for i, head in enumerate(shapes):
         got = [c[0].lower() for c in ts[i][0]] if ts[i] else []
         if not all(any(w in g for g in got) for w in head):

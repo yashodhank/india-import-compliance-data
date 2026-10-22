@@ -85,6 +85,12 @@ class Failure(Exception):
     """The refresh stops and nothing is kept."""
 
 
+class NoStructure(Failure):
+    """A 200 body that lacks the structure the adapter expects (fewer tables than expected, no rows). Until proven otherwise this is a FETCH problem
+    (a block page or a JavaScript shell served to a datacenter address), so the refresh re-fetches the source through the paid fallback before it
+    gives up and keeps the source's last good data as stale. A body that has the tables but the wrong columns is a plain Failure."""
+
+
 class Parsed(collections.namedtuple('Parsed', 'rows source_rows page_date notes')):
     pass
 
@@ -197,7 +203,7 @@ def serial_rows(table):
 def need_tables(body, shapes, what):
     ts = html_tables(body)
     if len(ts) < len(shapes):
-        raise Failure('%s: %d tables on the page, %d expected (layout changed?)' % (what, len(ts), len(shapes)))
+        raise NoStructure('%s: %d tables on the page, %d expected (layout changed?)' % (what, len(ts), len(shapes)))
     for i, head in enumerate(shapes):
         got = [c[0].lower() for c in ts[i][0]] if ts[i] else []
         if not all(any(w in g for g in got) for w in head):

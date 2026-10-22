@@ -5,7 +5,7 @@ Rows are keyed on IS code + product name, never on the serial (a serial-keyed sc
 """
 import re
 
-from pipeline.adapters import Failure, Parsed, clean, count_check, html_tables, page_date, row
+from pipeline.adapters import Failure, NoStructure, Parsed, clean, count_check, html_tables, page_date, row
 
 SCHEME = 'BIS CRS (Scheme-II registration)'
 MONTHS = {m: i + 1 for i, m in enumerate(['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'])}
@@ -21,7 +21,7 @@ def iso_date(text):
 def parse_crs(body, url, today):
     ts = html_tables(body)
     if not ts:
-        raise Failure('crs: no table on the page (layout changed?)')
+        raise NoStructure('crs: no table on the page (layout changed?)')
     t = ts[0]
     head = [c[0].lower() for c in t[0]] if t else []
     if not (any('product' in h for h in head) and any('is' in h for h in head)):

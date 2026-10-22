@@ -195,7 +195,9 @@ class DgftSession:
         for _ in range(tries):
             try:
                 body = self._req(API_URL + '&_csrf=' + urllib.parse.quote(self.csrf), data=('itcCode=%s&expType=1' % ch).encode())
-                json.loads(body)
+                doc = json.loads(body)
+                if isinstance(doc, dict) and doc.get('responseCode') == 200 and str(doc.get('chapterNo', '')).zfill(2) != ch:
+                    raise ValueError('the server answered for chapter %r, not %s' % (doc.get('chapterNo'), ch))  # a glitch seen 2026-10-22 (ch27): retried
                 return body
             except Failure:
                 raise

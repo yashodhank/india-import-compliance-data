@@ -92,3 +92,12 @@ class DgftSessionTest(unittest.TestCase):
         self.assertEqual(['01'], itchs.chapters_in_listing(s.listing()))
         self.assertEqual([itchs.PAGE_URL, itchs.LISTING_URL], asked)
         self.assertEqual('tok', s.csrf)
+
+    def test_a_chapter_answer_for_the_wrong_chapter_is_retried(self):
+        s = itchs.DgftSession(sleep=lambda n: None)
+        answers = [chapter([item('27011100')], ch='27').replace(b'"chapterNo": "27"', b'"chapterNo": null'), chapter([item('27011100')], ch='27')]
+        s._req = lambda url, data=None, csrf=None: answers.pop(0)
+        s.csrf = 'x'
+        s.listing = lambda: None
+        self.assertIn(b'"27"', s.chapter('27'))
+        self.assertEqual([], answers)
