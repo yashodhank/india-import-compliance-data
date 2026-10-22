@@ -238,3 +238,23 @@ class UpcomingReconcileTest(unittest.TestCase):
         self.assertTrue(any('source_removed' in n and 'Vanished' in n for n in notes))
         self.assertTrue(any('de-duplicated' in n and 'Pliers' in n for n in notes))
         self.assertEqual(out, rf.reconcile_upcoming(ctx, out, new, {}), 'stable on the next run')
+
+
+class OlderEditionTest(unittest.TestCase):
+    def test_a_pdf_older_than_the_archived_copy_keeps_the_source_stale_instead_of_being_parsed(self):
+        """2026-10-22: the TEC host served the runner its 2022 edition (175 serials, another column geometry) of a list the archive holds from 2023."""
+        root = clone()
+        self.addCleanup(shutil.rmtree, root, True)
+        spec = next(x for x in rf.S.LISTS if x['out'] == 'data/tec/mtcte.csv')
+        have = open(rf.newest_raw(root, spec['id'])[1], 'rb').read()
+        stamp = rf.pdf_created(have)
+        self.assertTrue(stamp)
+        older = have.replace(b'D:' + stamp.encode(), b'D:20220714134537')
+        self.assertNotEqual(have, older)
+        summary = {'lists': {}}
+        ctx = rf.Ctx(root, '2026-10-29', False, lambda url: older, False)
+        rows = rf.run_list(ctx, spec, summary, {})
+        self.assertTrue(rows)
+        self.assertIn('older edition', summary['stale'][0]['reason'])
+        self.assertEqual({}, ctx.stage.files)
+        self.assertEqual('', rf.older_edition(root, spec['id'], have))

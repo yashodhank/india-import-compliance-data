@@ -166,6 +166,26 @@ def prov_write(ctx, rel, prov):
     ctx.stage.put(rel, csv_bytes(PROV_COLS, [prov[k] for k in sorted(prov)]))
 
 
+def pdf_created(b):
+    m = re.search(rb"/CreationDate\s*\(D:(\d{14})", b[-200000:] + b[:200000])
+    return m.group(1).decode() if m else ''
+
+
+def older_edition(root, source_id, body):
+    """A message when the fetched PDF was created before the newest archived copy of the same source, else ''."""
+    try:
+        _, path = newest_raw(root, source_id)
+    except Failure:
+        return ''
+    with open(path, 'rb') as fh:
+        have = pdf_created(fh.read())
+    got = pdf_created(body)
+    if have and got and got < have:
+        return 'the origin served an older edition of the PDF (created %s-%s-%s, %d bytes; the archived copy was created %s-%s-%s)' % (
+            got[:4], got[4:6], got[6:8], len(body), have[:4], have[4:6], have[6:8])
+    return ''
+
+
 def keep_stale(ctx, summary, source_id, out, err):
     """A source that cannot be fetched (robots, a block that the paid fallback also failed, a dead host) keeps its last good file and is reported as
     stale; the other sources go on. Only data that is fetched but contradictory or unparseable fails the run (nothing written). With no last good file
@@ -225,6 +245,12 @@ def run_list(ctx, spec, summary, prov):
         body, date, raw_rel, archived = get_raw(ctx, spec['id'], spec['url'], spec['lang'], spec['stem'], spec['ext'])
     except Failure as e:
         return keep_stale(ctx, summary, spec['id'], out, e)
+
+    if spec['ext'] == 'pdf' and not ctx.offline and not archived:
+        older = older_edition(ctx.root, spec['id'], body)
+        if older:  # an origin that serves a datacenter address an older copy of the file: not new data, and not a parse problem
+            ctx.debug(spec['id'], body)
+            return keep_stale(ctx, summary, spec['id'], out, Failure(older))
 
     def parse(b):
         try:
