@@ -19,6 +19,7 @@ from pipeline.adapters import REPO_URL, USER_AGENT, Failure, PoliteFetcher
 
 PERMISSION_REF = 'DGFTCOMS-2026-24H4345L'
 PAGE_URL = 'https://www.dgft.gov.in/CP/?opt=itchs-import-export'
+LISTING_URL = 'https://www.dgft.gov.in/CP/webHP?requestType=ApplicationRH&screenId=90000802&actionVal=itchsDetails&itchType=import'
 API_URL = 'https://www.dgft.gov.in/CP/webHP?requestType=ApplicationRH&screenId=90000802&actionVal=getChapterDetails'
 EDITION = 'ITC(HS) 2022 Schedule 1 (Import Policy)'
 
@@ -184,7 +185,10 @@ class DgftSession:
         if not m:
             raise Failure('itchs: no CSRF token on the listing page (layout changed?)')
         self.csrf = m.group(1).decode()
-        return page
+        if b'itchsimport' in page:
+            return page
+        # 2026-10-22: the page became a shell; its chapter table is loaded by the page's own itchsdetails('import') call, which is this GET.
+        return self._req(LISTING_URL)
 
     def chapter(self, ch, tries=3):
         last = None

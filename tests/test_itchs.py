@@ -80,3 +80,15 @@ class DgftSessionTest(unittest.TestCase):
         self.assertEqual(['01', '02'], itchs.chapters_in_listing(html))
         with self.assertRaises(Failure):
             itchs.chapters_in_listing(b'<html></html>')
+
+    def test_a_shell_page_without_the_chapter_table_falls_through_to_the_listing_fragment(self):
+        """2026-10-22: the page became a shell whose chapter table is loaded by itchsdetails('import'); the session must fetch that fragment."""
+        s = itchs.DgftSession(sleep=lambda n: None)
+        s.robots._rules = lambda url: type('R', (), {'can_fetch': staticmethod(lambda ua, u: True)})()
+        asked = []
+        pages = {itchs.PAGE_URL: b'<meta name="_csrf" content="tok"><html>shell</html>',
+                 itchs.LISTING_URL: b'<a class="itchsimport" data-chapterId="01">x</a>'}
+        s._req = lambda url, data=None, csrf=None: asked.append(url) or pages[url]
+        self.assertEqual(['01'], itchs.chapters_in_listing(s.listing()))
+        self.assertEqual([itchs.PAGE_URL, itchs.LISTING_URL], asked)
+        self.assertEqual('tok', s.csrf)
