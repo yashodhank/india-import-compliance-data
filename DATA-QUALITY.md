@@ -38,6 +38,16 @@ Honest list. Open an issue if you find another.
 - 31 of the 316 linked Gazette PDFs could not be fetched when hashed (`status` in `data/qco/gazette-pdf-hashes.csv`); their hash is blank.
 - The Scheme-I page does not state the administering ministry, so `ministry` is blank for those records.
 
+## IS standards metadata (`data/is-standards/`)
+
+- Counts (2026-10-22 harvest): 1,272 IS number-and-part references are named by the BIS lists and the QCO register; 1,187 matched, 64 unmatched, 21 not yet fetched (the first monthly run takes them). The original harvest had 1,205 matched and 79 unmatched reference strings; here they are keyed on number and part: 16 matched strings and 4 unmatched strings were spelling variants of one reference (for example `IS 302 (Part 1` and `IS 302 (Part 1)`), and 2 matched and 11 unmatched strings name numbers that none of this repository's tables carries (they are not published).
+- Status: 1,182 `current`, 5 `unknown`, **0 `withdrawn`, 0 `superseded`**. That is the method, not a finding: references carry no year, the latest edition is matched, and the latest edition is rarely marked withdrawn. An older edition that a QCO still names is not detected. Do not read "current" as "the edition the QCO names".
+- 64 unmatched: 41 where the portal search returned no candidate at all for that number (not on the public portal, for example some IEC-derived numbers), 23 where the number exists but not with this part, or only with sections (for example `IS 1391` exists only as Parts 1 and 2). Nearest hits are in `unmatched.csv`.
+- The public page does **not** show: the ICS code (`classification` has none; 0 rows), the QCO document list (`qco_file_details` answers 303 to an anonymous session and is not called; `qco_status_label` is the one-line label on the details page, present on 81 rows), the standard's text, or older editions.
+- Matching is by number and part only. Titles of amendments are sometimes carried by the portal as the title of the latest edition (for example "... Amendment - 3"). Portal titles with double-encoded UTF-8 are repaired where detectable.
+- Join to `measures.csv` (`is_title`, `is_status`, `is_superseded_by`): 227 rows joined, 3 of them `unknown`. 430 rows are not joined because the measure names a multi-part standard without a part (for example `IS 302` from a combined entry), 173 because the number is unmatched or absent on the portal. **Warning list: refs whose standard is withdrawn or superseded: none at present** (`is_standards_join.warning_standard_withdrawn_or_superseded` in `data/measures/BUILD-REPORT.json` lists them when there are any). Even then the measure's own `status` is not changed from this signal.
+- The 120 MB archive of details pages (`raw/is-standards/`) is committed because each is under 2 MB; a page over 2 MB would be hash-only. Later runs archive a page only when its parsed record changed.
+
 ## Derived candidates
 
 - A keyword match, in capitals for acronyms. It will miss a rule that is described in other words, and it can match a text that mentions a scheme without imposing it. Use it to find where to look.
