@@ -126,6 +126,9 @@
   "data/measures/measures.csv": "measures",
   "data/hs-links/steel-qco-hs-columns.csv": "steel-qco-hs-columns",
   "data/hs-links/appendix3-bis.csv": "appendix3-bis",
-  "data/hs-links/PROVENANCE.csv": "provenance"
+  "data/hs-links/PROVENANCE.csv": "provenance",
+  "data/is-standards/standards.csv": "is-standards",
+  "data/is-standards/unmatched.csv": "is-standards-unmatched",
+  "data/is-standards/PROVENANCE.csv": "provenance"
  }
 }

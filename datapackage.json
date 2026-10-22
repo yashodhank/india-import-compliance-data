@@ -2,7 +2,7 @@
   "name": "india-import-compliance-data",
   "title": "India import compliance data",
   "description": "What approval applies to a product at import into India: ITC(HS) 2022 import policy and conditions, BIS, TEC and BEE compulsory lists, a QCO register with Gazette hashes. Not a trade-statistics dataset.",
-  "version": "v2026.10.24.1",
+  "version": "v2026.10.25",
   "homepage": "https://github.com/yashodhank/india-import-compliance-data",
   "keywords": [
     "India",
@@ -1492,6 +1492,341 @@
         ],
         "primaryKey": [
           "hs6"
+        ]
+      }
+    },
+    {
+      "name": "is-standards-provenance",
+      "title": "Provenance of a published CSV",
+      "path": "data/is-standards/PROVENANCE.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "file",
+            "type": "string",
+            "description": "",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "source_url",
+            "type": "string",
+            "description": "",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "retrieved_on",
+            "type": "date",
+            "description": "",
+            "constraints": {
+              "required": true,
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            }
+          },
+          {
+            "name": "sha256",
+            "type": "string",
+            "description": "sha256 of the published CSV",
+            "constraints": {
+              "required": true,
+              "pattern": "^[0-9a-f]{64}$"
+            }
+          },
+          {
+            "name": "rows",
+            "type": "integer",
+            "description": "",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "source_rows",
+            "type": "integer",
+            "description": "Rows the source itself counts; equals rows"
+          },
+          {
+            "name": "page_date",
+            "type": "string",
+            "description": "\"Last updated\" date the page prints, if any"
+          },
+          {
+            "name": "parser",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "raw_file",
+            "type": "string",
+            "description": "Path of the archived raw copy"
+          },
+          {
+            "name": "raw_sha256",
+            "type": "string",
+            "description": "sha256 of the raw copy"
+          },
+          {
+            "name": "raw_bytes",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "raw_committed",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "fetch_method",
+            "type": "string",
+            "description": "direct, or alterlab when the origin refused the direct fetch; empty on rows written before this column existed"
+          },
+          {
+            "name": "fetch_tier",
+            "type": "string",
+            "description": "scraping tier used by the fallback; empty for a direct fetch"
+          },
+          {
+            "name": "fetch_cost_usd",
+            "type": "number",
+            "description": "cost of the fallback fetch in US dollars; empty for a direct fetch"
+          }
+        ],
+        "primaryKey": [
+          "file"
+        ]
+      }
+    },
+    {
+      "name": "is-standards-standards",
+      "title": "IS standards metadata from BIS Know Your Standards (no standard texts)",
+      "path": "data/is-standards/standards.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "is_no",
+            "type": "string",
+            "description": "IS number and part as this repository names it, e.g. IS 302 (Part 1); the key",
+            "constraints": {
+              "pattern": "^IS \\d+( \\(Part \\d+\\))?$",
+              "required": true
+            }
+          },
+          {
+            "name": "is_base",
+            "type": "string",
+            "description": "Number without part",
+            "constraints": {
+              "pattern": "^\\d+$",
+              "required": true
+            }
+          },
+          {
+            "name": "part",
+            "type": "string",
+            "description": "Part number, blank when the standard has none",
+            "constraints": {
+              "pattern": "^\\d+$"
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "description": "Title as the portal prints it (portal mojibake repaired where detectable)",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "year",
+            "type": "string",
+            "description": "Year of the latest edition the portal lists",
+            "constraints": {
+              "pattern": "^\\d{4}$"
+            }
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "current, withdrawn, superseded or unknown; read from the portal result list, not the details page",
+            "constraints": {
+              "enum": [
+                "current",
+                "withdrawn",
+                "superseded",
+                "unknown"
+              ],
+              "required": true
+            }
+          },
+          {
+            "name": "superseded_by",
+            "type": "string",
+            "description": "Text after \"Superceded by\" in the result list",
+            "constraints": {}
+          },
+          {
+            "name": "supersedes",
+            "type": "string",
+            "description": "The portal's \"Superseding IS\" field: the older edition this one replaces",
+            "constraints": {}
+          },
+          {
+            "name": "amendments",
+            "type": "string",
+            "description": "JSON list of {number, year, file}; file names only, no download followed",
+            "constraints": {}
+          },
+          {
+            "name": "reaffirmed_year",
+            "type": "string",
+            "description": "Reaffirmation year as printed",
+            "constraints": {}
+          },
+          {
+            "name": "qco_status_label",
+            "type": "string",
+            "description": "The QCO label printed on the details page; the QCO document list itself is gated and not fetched",
+            "constraints": {}
+          },
+          {
+            "name": "classification",
+            "type": "string",
+            "description": "JSON object: group, sub group, aspect, certification, ministries, ITC-HS code as printed. No ICS: the public page has none",
+            "constraints": {}
+          },
+          {
+            "name": "committee",
+            "type": "string",
+            "description": "Technical committee",
+            "constraints": {}
+          },
+          {
+            "name": "list_flags",
+            "type": "string",
+            "description": "The result-list row text for the chosen edition, verbatim",
+            "constraints": {}
+          },
+          {
+            "name": "match_note",
+            "type": "string",
+            "description": "How the edition was chosen",
+            "constraints": {}
+          },
+          {
+            "name": "pk_is_id",
+            "type": "integer",
+            "description": "Portal internal id of the chosen edition; names the archived page raw/is-standards/<date>/<pk>.html",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "source_url",
+            "type": "string",
+            "description": "The BIS details page the record was read from (a POST form; pk_is_id selects the standard)",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "fetched_at",
+            "type": "string",
+            "description": "UTC timestamp of the fetch",
+            "constraints": {
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+              "required": true
+            }
+          },
+          {
+            "name": "sha256_detail",
+            "type": "string",
+            "description": "SHA-256 of the details page bytes as received",
+            "constraints": {
+              "pattern": "^[0-9a-f]{64}$",
+              "required": true
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "is-standards-unmatched",
+      "title": "IS numbers named in this repository that the BIS portal search did not match exactly",
+      "path": "data/is-standards/unmatched.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "is_no",
+            "type": "string",
+            "description": "",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "is_base",
+            "type": "string",
+            "description": "",
+            "constraints": {
+              "pattern": "^\\d+$",
+              "required": true
+            }
+          },
+          {
+            "name": "part",
+            "type": "string",
+            "description": "",
+            "constraints": {
+              "pattern": "^\\d+$"
+            }
+          },
+          {
+            "name": "reason",
+            "type": "string",
+            "description": "Why there is no match",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "candidate_1",
+            "type": "string",
+            "description": "Nearest portal hits, shown and never guessed",
+            "constraints": {}
+          },
+          {
+            "name": "candidate_2",
+            "type": "string",
+            "description": "",
+            "constraints": {}
+          },
+          {
+            "name": "candidate_3",
+            "type": "string",
+            "description": "",
+            "constraints": {}
+          },
+          {
+            "name": "fetched_at",
+            "type": "string",
+            "description": "",
+            "constraints": {
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+              "required": true
+            }
+          }
         ]
       }
     },
@@ -11165,6 +11500,31 @@
               "required": true,
               "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
             }
+          },
+          {
+            "name": "is_title",
+            "type": "string",
+            "description": "Title of the standard named in measure_value, from data/is-standards (BIS Know Your Standards, latest edition); blank when not joined",
+            "constraints": {}
+          },
+          {
+            "name": "is_status",
+            "type": "string",
+            "description": "current, withdrawn, superseded or unknown, as the BIS portal result list shows it; a data-quality signal only, never a change to this measure's own status",
+            "constraints": {
+              "enum": [
+                "current",
+                "withdrawn",
+                "superseded",
+                "unknown"
+              ]
+            }
+          },
+          {
+            "name": "is_superseded_by",
+            "type": "string",
+            "description": "The IS number the portal names as superseding it, when is_status is superseded or withdrawn",
+            "constraints": {}
           }
         ]
       }

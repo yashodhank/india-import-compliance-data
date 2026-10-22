@@ -144,6 +144,31 @@
     "required": true,
     "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
    }
+  },
+  {
+   "name": "is_title",
+   "type": "string",
+   "description": "Title of the standard named in measure_value, from data/is-standards (BIS Know Your Standards, latest edition); blank when not joined",
+   "constraints": {}
+  },
+  {
+   "name": "is_status",
+   "type": "string",
+   "description": "current, withdrawn, superseded or unknown, as the BIS portal result list shows it; a data-quality signal only, never a change to this measure's own status",
+   "constraints": {
+    "enum": [
+     "current",
+     "withdrawn",
+     "superseded",
+     "unknown"
+    ]
+   }
+  },
+  {
+   "name": "is_superseded_by",
+   "type": "string",
+   "description": "The IS number the portal names as superseding it, when is_status is superseded or withdrawn",
+   "constraints": {}
   }
  ],
  "missingValues": [

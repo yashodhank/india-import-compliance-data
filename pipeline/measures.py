@@ -22,7 +22,7 @@ sys.path.insert(0, REPO)
 from pipeline import derived  # noqa: E402
 
 COLS = ['hs8', 'hs6', 'measure_type', 'measure_value', 'condition_text', 'document_code', 'legal_ref', 'valid_from', 'valid_to', 'status',
-        'confidence', 'basis', 'qco_slug', 'source_file', 'source_sha256', 'as_of']
+        'confidence', 'basis', 'qco_slug', 'source_file', 'source_sha256', 'as_of', 'is_title', 'is_status', 'is_superseded_by']
 TYPE_ORDER = ['import_policy', 'policy_condition', 'import_monitoring', 'bis_isi_qco', 'bis_upcoming_qco', 'bis_crs', 'bis_scheme_x',
               'tec_mtcte', 'bee_label', 'other_condition']
 
@@ -37,6 +37,7 @@ LISTS = {'data/bis/crs.csv': ('bis_crs', 'BIS-CRS'), 'data/bis/scheme_ii_other.c
          'data/bis/option2.csv': ('bis_isi_qco', 'BIS-ISI-OPT2')}
 STEEL = 'data/hs-links/steel-qco-hs-columns.csv'
 APP3 = 'data/hs-links/appendix3-bis.csv'
+ISSTD = 'data/is-standards/standards.csv'
 CRS_GENERIC = 'compulsory-registration-scheme-crs'
 SO = re.compile(r'S\.?\s?O\.?\s*(?:No\.?)?\s*\d+\s*\(\s*E\s*\)', re.I)
 IS_RE = re.compile(r'\bIS(?:/(?:IEC|ISO))?\s*:?\s*(\d{2,6})(?!\d)')
@@ -114,6 +115,42 @@ def _norm_policy(p):
 
 def _date(s):
     return s if re.match(r'^\d{4}-\d{2}-\d{2}$', s or '') else ''
+
+
+def join_standards(out, std_rows):
+    """Adds is_title, is_status, is_superseded_by to the rows whose measure_value is a single IS number (bis_isi_qco, bis_upcoming_qco, and
+    the Appendix III rows). The key is the exact IS number and part; a value with no part is not guessed onto one part of a multi-part
+    standard. The measure's own `status` is never touched: a standard's withdrawal on the BIS portal is not a withdrawal of the order.
+    -> (joined, ambiguous_multi_part, not_in_table, warnings)"""
+    by_no = {r['is_no']: r for r in std_rows}
+    parts_of = collections.defaultdict(list)
+    for r in std_rows:
+        parts_of[r['is_base']].append(r)
+    joined = ambiguous = missing = 0
+    warn = {}
+    for m in out:
+        m.setdefault('is_title', '')
+        m.setdefault('is_status', '')
+        m.setdefault('is_superseded_by', '')
+        if m['measure_type'] not in ('bis_isi_qco', 'bis_upcoming_qco') or not re.match(r'^IS \d', m['measure_value'] or ''):
+            continue
+        refs = is_refs(m['measure_value'])
+        if len(refs) != 1:
+            continue
+        base, part = refs[0]
+        std = by_no.get('IS %s%s' % (base, (' (Part %s)' % part) if part else ''))
+        if std is None:
+            if not part and any(r['part'] for r in parts_of.get(base, [])):
+                ambiguous += 1
+            else:
+                missing += 1
+            continue
+        m['is_title'], m['is_status'], m['is_superseded_by'] = std['title'], std['status'], std['superseded_by']
+        joined += 1
+        if std['status'] in ('withdrawn', 'superseded'):
+            warn[std['is_no']] = {'is_no': std['is_no'], 'status': std['status'], 'superseded_by': std['superseded_by'], 'title': std['title'],
+                                  'hs8_rows': warn.get(std['is_no'], {}).get('hs8_rows', 0) + 1}
+    return joined, ambiguous, missing, sorted(warn.values(), key=lambda w: w['is_no'])
 
 
 def build(root=REPO, files=None):
@@ -328,6 +365,11 @@ def build(root=REPO, files=None):
                 condition_text=clean(c['condition_text']), document_code=doc, legal_ref='ITC(HS) 2022 Schedule 1, line %s' % hs,
                 basis='candidate: keyword "%s" in the condition text' % c['matched_terms'], source_file=CANDS, source_sha256=sha[CANDS])
 
+    try:
+        std_rows = _csv(_read(root, ISSTD, files))
+    except FileNotFoundError:
+        std_rows = []
+    joined, ambiguous, no_std, std_warn = join_standards(out, std_rows)
     tidx = {t: i for i, t in enumerate(TYPE_ORDER)}
     out.sort(key=lambda m: (m['hs8'], tidx[m['measure_type']], m['measure_value'], m['basis'], m['legal_ref'], m['qco_slug']))
 
@@ -348,6 +390,10 @@ def build(root=REPO, files=None):
         'note': 'A BIS measure is attached to an HS code only where the ITC(HS) text for that code (or the chapter policy condition it cites) '
                 'names an IS number carried by a BIS list or by DGFT Appendix III, or where the HS column of the 2020 Steel QCO gazette PDFs prints the code. No official text held in this repository ties the other QCOs, or any TEC MTCTE, '
                 'BEE or CRS entry, to an HS code, so those are unmapped, not absent.',
+        'is_standards_join': {'rows_with_title_and_status': joined, 'rows_status_not_known': sum(1 for m in out if m['is_title'] and m['is_status'] == 'unknown'),
+                              'rows_multi_part_standard_not_guessed': ambiguous, 'rows_standard_not_in_table': no_std,
+                              'warning_standard_withdrawn_or_superseded': std_warn,
+                              'note': 'DATA-QUALITY warning only: the measure status is never changed from this signal.'},
         'steel_hs_columns_not_in_itchs': sorted(steel_missing),
         'lists_with_no_hs_link': ['data/tec/mtcte.csv', 'data/bee/mandatory.csv', 'data/bee/voluntary.csv'],
     }

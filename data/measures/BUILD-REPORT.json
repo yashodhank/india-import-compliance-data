@@ -218,6 +218,14 @@
  "is_named_in_itchs_but_on_no_bis_list": 8,
  "chapter_condition_refs_not_found": 0,
  "note": "A BIS measure is attached to an HS code only where the ITC(HS) text for that code (or the chapter policy condition it cites) names an IS number carried by a BIS list or by DGFT Appendix III, or where the HS column of the 2020 Steel QCO gazette PDFs prints the code. No official text held in this repository ties the other QCOs, or any TEC MTCTE, BEE or CRS entry, to an HS code, so those are unmapped, not absent.",
+ "is_standards_join": {
+  "rows_with_title_and_status": 227,
+  "rows_status_not_known": 3,
+  "rows_multi_part_standard_not_guessed": 430,
+  "rows_standard_not_in_table": 173,
+  "warning_standard_withdrawn_or_superseded": [],
+  "note": "DATA-QUALITY warning only: the measure status is never changed from this signal."
+ },
  "steel_hs_columns_not_in_itchs": [
   "70283019",
   "72104900",

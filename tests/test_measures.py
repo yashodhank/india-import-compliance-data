@@ -169,5 +169,36 @@ class MeasuresTest(unittest.TestCase):
         self.assertEqual(out['report'], open(os.path.join(REPO, 'data/measures/BUILD-REPORT.json'), 'rb').read())
 
 
+class IsStandardsJoinTest(unittest.TestCase):
+    STD = {r['is_no']: r for r in rows('data/is-standards/standards.csv')}
+
+    def test_joined_rows_carry_the_table_values_and_nothing_else_changes(self):
+        joined = [m for m in M if m['is_title']]
+        self.assertEqual(REPORT['is_standards_join']['rows_with_title_and_status'], len(joined))
+        self.assertGreater(len(joined), 200)
+        for m in joined:
+            self.assertIn(m['measure_type'], ('bis_isi_qco', 'bis_upcoming_qco'))
+            refs = measures.is_refs(m['measure_value'])
+            self.assertEqual(1, len(refs))
+            s = self.STD['IS %s%s' % (refs[0][0], (' (Part %s)' % refs[0][1]) if refs[0][1] else '')]
+            self.assertEqual((s['title'], s['status'], s['superseded_by']), (m['is_title'], m['is_status'], m['is_superseded_by']))
+        self.assertTrue(all(not m['is_title'] and not m['is_status'] for m in M if m['measure_type'] in ('import_policy', 'policy_condition')))
+
+    def test_join_unit(self):
+        std = [{'is_no': 'IS 55', 'is_base': '55', 'part': '', 'title': 'Five', 'status': 'withdrawn', 'superseded_by': 'IS 55:2020'},
+               {'is_no': 'IS 77 (Part 1)', 'is_base': '77', 'part': '1', 'title': 'Seven', 'status': 'current', 'superseded_by': ''}]
+        out = [dict(measure_type='bis_isi_qco', measure_value='IS 55', status='in_force'),
+               dict(measure_type='bis_isi_qco', measure_value='IS 77', status='in_force'),
+               dict(measure_type='bis_isi_qco', measure_value='IS 77 (Part 1)', status='in_force'),
+               dict(measure_type='bis_isi_qco', measure_value='IS 99', status='in_force'),
+               dict(measure_type='import_policy', measure_value='Free', status='in_force')]
+        joined, ambiguous, missing, warn = measures.join_standards(out, std)
+        self.assertEqual((2, 1, 1), (joined, ambiguous, missing))
+        self.assertEqual('withdrawn', out[0]['is_status'])
+        self.assertEqual('in_force', out[0]['status'])  # the measure's own status is never changed from this signal
+        self.assertEqual('', out[1]['is_title'])  # a multi-part standard is not guessed onto one part
+        self.assertEqual(['IS 55'], [w['is_no'] for w in warn])
+
+
 if __name__ == '__main__':
     unittest.main()
