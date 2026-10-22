@@ -50,6 +50,22 @@ class BisLayoutChangeTest(unittest.TestCase):
         got = AB.parse_scheme1(self.fixture().encode('utf-8'), 'u', TODAY)
         self.assertEqual(['IS 12330', 'IS 12600', 'IS 1489 (Part 1)', 'IS 1664', 'IS 5470', 'IS 920'], [r['is_codes'] for r in got.rows])
         self.assertEqual(3, got.notes['rows_only_in_the_longest_table_copy'])
+        self.assertEqual(['Animal Feeds and Feed Ingredients'] * 3, [r['group'] for r in got.rows[3:]])  # the page gives them no section title: the order's own name
+
+    def test_scheme_i_only_the_compregs_rows_differ_in_section_between_first_and_longest_copy(self):
+        """The longest copy gives the compregs rows no section title of their own (they fall under the flask section above); the first copy does.
+        Rows keep the first copy's section, so those three are the only rows where the two copies disagree."""
+        with open(os.path.join(REPO, 'raw', 'bis-scheme1', '2026-10-22', 'www.bis.gov.in_scheme-1_2026-10-22.html'), 'rb') as fh:  # the live page with three different copies
+            ts = AB.grid_tables(fh.read(), [['sr no', 'is no', 'product']], 'scheme_1')
+        base = AB.table_copies(ts)[0]
+        self.assertNotEqual(0, base)
+        spacer = lambda r: AB.blank(r) or (len(r) >= 3 and not r[1][0] and not r[2][0])  # noqa: E731
+        def by_code(t):
+            secs = AB.first_copy_sections(t, spacer)
+            return {r[1][0]: secs[id(r)] for r in t[1:] if id(r) in secs}
+        first, longest = by_code(ts[0]), by_code(ts[base])
+        flips = sorted(c for c in first if c in longest and first[c] != longest[c])
+        self.assertEqual(['IS 3513 (Part 1) : 1989', 'IS 3513 (Part 2) : 1989', 'IS 3513 (Part 3) : 1989'], flips)
 
     def test_scheme_i_copies_that_contradict_each_other_still_fail(self):
         h = self.fixture()

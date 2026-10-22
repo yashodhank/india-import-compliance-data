@@ -78,6 +78,19 @@ def table_copies(ts):
     return base, use, names, differs, len(copies[base]) - min(len(c) for c in copies)
 
 
+def first_copy_sections(t, spacer):
+    """{id(row): section title} for the data rows of the page's first table copy."""
+    out, sec = {}, ''
+    for r in t[1:]:
+        if spacer(r):
+            continue
+        if len(r) == 1 or (r.own <= 2 and not any(r.covered) and not r[1][0]):
+            sec = clean(r[0][0])
+        else:
+            out[id(r)] = sec
+    return out
+
+
 def parse_scheme1(body, url, today):
     ts = grid_tables(body, [['sr no', 'is no', 'product']], 'scheme_1')
     base, use, names, disagreements, only_in_base = table_copies(ts)
@@ -87,6 +100,8 @@ def parse_scheme1(body, url, today):
     spacer = lambda r: blank(r) or (len(r) >= 3 and not r[1][0] and not r[2][0])  # noqa: E731 (a blank-looking row between sections)
     data, expected, secs = data_rows(t, 4, 'scheme_1', sections=True, spacer=spacer)
     is_sec = {id(r) for r in secs}
+    sec0 = first_copy_sections(ts[0], spacer)  # a row keeps the section the first copy gives it
+    prev_notif = ''
     for r in t[1:]:
         if spacer(r):
             continue
@@ -94,6 +109,13 @@ def parse_scheme1(body, url, today):
             sec, notif, links = clean(r[0][0]), '', []
             continue
         r = use.get(id(r), r)  # the first copy's text for a row it has
+        if id(r) in sec0:
+            sec = sec0[id(r)]
+        elif base and r[3][0] and clean(r[3][0]) != prev_notif:
+            # a row only the longest copy has, under an order the page gives no section title for: the order's own name
+            sec = re.sub(r'\s*\(Qua\w+ Control\).*$', '', clean(r[3][0])) or sec
+        if r[3][0]:
+            prev_notif = clean(r[3][0])
         if not r[1][0] or not r[2][0]:
             raise Failure('scheme_1: row %r has no IS number or no product' % r[0][0][:40])
         if r[3][0]:
