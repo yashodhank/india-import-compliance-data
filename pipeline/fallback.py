@@ -50,6 +50,8 @@ class DirectFetcher(A.PoliteFetcher):
 
 
 def needs_fallback(err):
+    if isinstance(err, A.RobotsUnreadable):
+        return True  # the origin never answered robots.txt: our own fetch cannot tell what is allowed, the paid fetch can
     s = getattr(err, 'status', None)
     return s in (403, 429) or (s is not None and 500 <= s <= 599)
 

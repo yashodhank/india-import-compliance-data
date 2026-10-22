@@ -106,6 +106,41 @@ class FallbackTest(unittest.TestCase):
         self.assertEqual(['https://example.org/robots.txt'], seen)
         self.assertEqual([], api.calls)
 
+    def test_a_robots_dns_failure_or_timeout_is_retried_once_then_goes_to_the_paid_fallback(self):
+        import urllib.error
+        for exc in (urllib.error.URLError('[Errno -3] Temporary failure in name resolution'), TimeoutError('timed out')):
+            seen, naps = [], []
+
+            def opener(url, exc=exc):
+                seen.append(url)
+                raise exc
+            api = Api()
+            f = FB.FallbackFetcher(direct=FB.DirectFetcher(delay=0, sleep=naps.append, opener=opener), env={'ALTERLAB_API_KEY': 'k'}, post=api, out=io.StringIO())
+            self.assertEqual(b'<html>from api</html>', f(URL))
+            self.assertEqual(['https://example.org/robots.txt'] * 2, seen, 'retried once, the page itself never requested')
+            self.assertIn(10.0, naps)
+            self.assertEqual(1, len(api.calls))
+
+    def test_a_robots_transport_fault_without_the_fallback_is_unchanged(self):
+        def opener(url):
+            raise OSError('reset')
+        api = Api()
+        f = FB.FallbackFetcher(direct=FB.DirectFetcher(delay=0, sleep=lambda s: None, opener=opener), env={}, post=api, out=io.StringIO())
+        with self.assertRaisesRegex(FB.Failure, 'could not be read'):
+            f(URL)
+        self.assertEqual([], api.calls)
+
+    def test_a_robots_5xx_is_still_a_block_and_not_sent_to_the_fallback(self):
+        import urllib.error
+
+        def opener(url):
+            raise urllib.error.HTTPError(url, 503, 'x', {}, None)
+        api = Api()
+        f = FB.FallbackFetcher(direct=FB.DirectFetcher(delay=0, sleep=lambda s: None, opener=opener), env={'ALTERLAB_API_KEY': 'k'}, post=api, out=io.StringIO())
+        with self.assertRaisesRegex(FB.Failure, 'HTTP 503'):
+            f(URL)
+        self.assertEqual([], api.calls)
+
     def test_the_run_ceiling_stops_the_fallback(self):
         api = Api(resp={'content': {'html': '<p>x</p>'}, 'billing': {'tier_used': '4', 'final_cost_microcents': 30_000_000}})
         f, _ = make(Direct(FB.FetchError('HTTP 403 from x', 403)), api)

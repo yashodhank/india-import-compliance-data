@@ -85,6 +85,11 @@ class Failure(Exception):
     """The refresh stops and nothing is kept."""
 
 
+class RobotsUnreadable(Failure):
+    """robots.txt could not be read at all (DNS failure, timeout, reset). Not a refusal: the origin said nothing. The fetcher retries once after a
+    short backoff; the refresh then sends the source to the paid fallback, and keeps it stale if that is not configured or fails too."""
+
+
 class NoStructure(Failure):
     """A 200 body that lacks the structure the adapter expects (fewer tables than expected, no rows). Until proven otherwise this is a FETCH problem
     (a block page or a JavaScript shell served to a datacenter address), so the refresh re-fetches the source through the paid fallback before it
@@ -404,6 +409,7 @@ class PoliteFetcher:
         self.delay, self.sleep, self.clock, self.timeout, self.urlopen = delay, sleep, clock, timeout, urlopen
         self.opener = opener or self._open
         self.robots, self.last = {}, {}
+        self.retry_after = 10.0
 
     def _open(self, url):
         req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT, 'Accept': '*/*'})
@@ -428,13 +434,19 @@ class PoliteFetcher:
             rp = urllib.robotparser.RobotFileParser()
             lines = []
             try:
-                status, ctype, body = self._get(host + '/robots.txt')
+                try:
+                    status, ctype, body = self._get(host + '/robots.txt')
+                except urllib.error.HTTPError:
+                    raise
+                except Exception:  # noqa: BLE001 (a transport fault: retried once after a backoff)
+                    self.sleep(self.retry_after)
+                    status, ctype, body = self._get(host + '/robots.txt')
             except urllib.error.HTTPError as e:
                 if not 400 <= e.code <= 499:
                     raise Failure('robots.txt of %s answered HTTP %s: nothing is fetched from it' % (u.netloc, e.code))
                 status, ctype, body = e.code, '', b''  # RFC 9309 2.3.1.3: a 4xx means the file is unavailable, so there are no rules (not a refusal)
             except Exception as e:  # noqa: BLE001
-                raise Failure('robots.txt of %s could not be read (%s): nothing is fetched from it' % (u.netloc, e))
+                raise RobotsUnreadable('robots.txt of %s could not be read (%s): nothing is fetched from it' % (u.netloc, e))
             text = body.decode('utf-8', 'replace')
             if status == 200 and 'html' not in ctype.lower() and not re.search(r'<\s*(html|body)\b', text[:500], re.I):
                 lines = text.splitlines()

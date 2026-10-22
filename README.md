@@ -136,7 +136,7 @@ Every CSV is UTF-8, LF line endings, comma separated, with a header row. `schema
 2. archive the raw bytes under `raw/<source>/<date>/` with SHA-256 (files under 2 MB are committed; larger ones are listed by URL and hash only);
 3. parse, and assert that the parsed row count equals the source's own count;
 4. a list that is unchanged stays byte-identical; a list that shrinks by more than half is refused;
-5. if anything changed and every assertion and test passed: commit to `main`, add a `CHANGELOG.md` entry and publish a release. If anything failed: open or update an issue and publish nothing.
+5. if anything changed and every assertion and test passed: commit to `main`, add a `CHANGELOG.md` entry and publish a release. If a source cannot be fetched it is kept stale (see Freshness below); if anything else failed: open or update an issue and publish nothing.
 
 ### Fetching, fallback and change detection
 
@@ -152,6 +152,21 @@ python -m pipeline.refresh --offline    # rebuild every file from the archived r
 python -m pipeline.refresh              # fetch and rebuild
 python -m pytest tests                  # golden tests, schema validation of every CSV, pipeline behaviour
 ```
+
+### Freshness: what refreshes from the GitHub-hosted runner
+
+Some government hosts treat a datacenter address differently from a home connection, so not every source can refresh from the weekly workflow.
+
+- **Refreshes weekly from the runner:** the BIS Scheme-I, II, IV and X pages, the upcoming-QCO list and the BIS simplified-procedure PDF.
+- **Falls back:** a source that is refused, answers a page without its tables, or whose `robots.txt` cannot be read (DNS failure, timeout) is retried once, then fetched by the paid fallback (capped per run). The CRS list and the BEE lists are the usual cases.
+- **Stays stale, loudly:** if the fallback is unavailable or also fails, the source keeps its last good file and the run reports it as `STALE since <date>` in `refresh-report.json`, the `CHANGELOG.md` entry and an issue comment. The other sources still refresh. Data that is fetched but contradictory or unparseable still fails the run and writes nothing.
+- **Refreshed from an operator machine:** ITC(HS) (DGFT answers 403 to the runner and the chapter exports need a browser-like session) and the TEC MTCTE list (the host serves the runner an older edition). The workflow keeps their archived data and marks them stale; refresh them from a normal connection and push through the usual route:
+
+```
+python -m pipeline.refresh --report refresh-report.json --changelog-md changelog-entry.md
+```
+
+  The run should exit 0 with no `stale` entries in the report. Commit the result and let the workflow's verify step (`python -m pytest tests`) pass before it is released.
 
 ## Contributing
 
