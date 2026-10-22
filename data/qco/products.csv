@@ -62,9 +62,9 @@ aluminium-cans-for-beverages,Aluminium cans for beverages,IS 14407:2023,upcoming
 aluminium-foil-quality-control-order-2020,Aluminium and Aluminium Alloy Bare Foil for Food Packaging,IS 15392,active,Aluminium Foil,,isi_qco.csv,324
 amusement-machines-and-personal-service-machines,Amusement Machines and Personal Service Machines,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,71
 aniline-quality-control-order-2019,Aniline,IS 2833:2019,active,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,240
-animal-feeds-and-feed-ingredients-quaity-control-order-2026,Mineral mixtures for supplementing cattle feeds,IS 1664,active,Non-ferrous refined metals,,isi_qco.csv,801
-animal-feeds-and-feed-ingredients-quaity-control-order-2026,"Dicalcium Phosphate, animal feed grade",IS 5470,active,Non-ferrous refined metals,,isi_qco.csv,802
-animal-feeds-and-feed-ingredients-quaity-control-order-2026,Common salt and cattle licks for animal consumption,IS 920,active,Non-ferrous refined metals,,isi_qco.csv,803
+animal-feeds-and-feed-ingredients-quaity-control-order-2026,Mineral mixtures for supplementing cattle feeds,IS 1664,active,Animal Feeds and Feed Ingredients,,isi_qco.csv,801
+animal-feeds-and-feed-ingredients-quaity-control-order-2026,"Dicalcium Phosphate, animal feed grade",IS 5470,active,Animal Feeds and Feed Ingredients,,isi_qco.csv,802
+animal-feeds-and-feed-ingredients-quaity-control-order-2026,Common salt and cattle licks for animal consumption,IS 920,active,Animal Feeds and Feed Ingredients,,isi_qco.csv,803
 appliances-for-heating-liquids,Appliances for Heating Liquids,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,10
 appliances-for-skin-exposure-to-optical-radiation,Appliances for Skin Exposure to Optical Radiation,IS 302 (Part 1) : 2024 IEC 60335-1:2020,upcoming,,2026-10-01,qco_upcoming.csv,46
 asbestos-or-fibre-cement-based-products-quality-control-order-2024,Corrugated and Semi – Corrugated Asbestos Cement Sheets,IS 459:1992,active,Asbestos or Fibre Cement based Products,,isi_qco.csv,631
@@ -631,9 +631,9 @@ refined-nickel-quality-control-order-2025,Refined Nickel,IS 2782: 2023,withdrawn
 refined-zinc-quality-control-order-2025,Refined Zinc,IS 209: 2024,withdrawn,Non-ferrous refined metals,,isi_qco.csv,799
 refrigerating-appliances-quality-control-order-2020,Household Refrigerating Appliances- Characteristics and Test Methods part-1 General Requirements,IS 17550 (Part 1): 2021,active,Refrigerating Appliances,,isi_qco.csv,381
 refrigerating-appliances-quality-control-order-2020,Freezers,IS 7872: 2018,active,Refrigerating Appliances,,isi_qco.csv,382
-resin-treated-compressed-wood-laminates-quality-control-order-2023,Resin treated compressed wood laminates (compregs) – For electrical purposes,IS 3513 (Part 1) : 1989,active,"Insulated Flask, Bottles and Containers for Domestic Use",,isi_qco.csv,438
-resin-treated-compressed-wood-laminates-quality-control-order-2023,Resin treated compressed wood laminates (compregs) – For chemical purposes,IS 3513 (Part 2) : 1989,active,"Insulated Flask, Bottles and Containers for Domestic Use",,isi_qco.csv,439
-resin-treated-compressed-wood-laminates-quality-control-order-2023,Resin treated compressed wood laminates (compregs) – For general purposes,IS 3513 (Part 3) : 1989,active,"Insulated Flask, Bottles and Containers for Domestic Use",,isi_qco.csv,440
+resin-treated-compressed-wood-laminates-quality-control-order-2023,Resin treated compressed wood laminates (compregs) – For electrical purposes,IS 3513 (Part 1) : 1989,active,Resin Treated Compressed Wood Laminates,,isi_qco.csv,438
+resin-treated-compressed-wood-laminates-quality-control-order-2023,Resin treated compressed wood laminates (compregs) – For chemical purposes,IS 3513 (Part 2) : 1989,active,Resin Treated Compressed Wood Laminates,,isi_qco.csv,439
+resin-treated-compressed-wood-laminates-quality-control-order-2023,Resin treated compressed wood laminates (compregs) – For general purposes,IS 3513 (Part 3) : 1989,active,Resin Treated Compressed Wood Laminates,,isi_qco.csv,440
 rice-bran-fatty-acids-quality-control-order-2022,Rice Bran Fatty Acids,IS 12068 :1987,withdrawn,"Chemicals, Fertilizers, Polymers & Textiles",,isi_qco.csv,292
 ring-slugging-wrenches-spanners,Ring Slugging Wrenches (Spanners),4509:1992,upcoming,,2027-04-01,qco_upcoming.csv,116
 ring-wrenches-spanners,Ring Wrenches(Spanners),2029:1998,upcoming,,2027-04-01,qco_upcoming.csv,112
