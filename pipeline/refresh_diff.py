@@ -20,10 +20,23 @@ def _norm(s):
     return re.sub(r'\W', '', s or '').lower()
 
 
-def _keyed(rows):
+SERIAL = re.compile(r'(?:\bSr|List serial|\bSl)\s+([\w.()/-]+)')
+
+
+def _base(r):
+    return (_norm(r.get('scheme')), _norm(r.get('is_codes')), _norm(r.get('product_name')))
+
+
+def _keyed(rows, shared):
+    """Rows by (scheme, IS code, name). A key that more than one row shares (the same standard listed at several serials) is widened with the
+    row's own serial from its notes, so deleting the middle one of three is reported as that row and not as a change to its neighbour; what
+    is still shared after that is told apart by order."""
     seen, out = {}, {}
     for r in rows:
-        k = (_norm(r.get('is_codes')), _norm(r.get('product_name')))
+        k = _base(r)
+        if k in shared:
+            m = SERIAL.search(r.get('notes') or '')
+            k = k + (m.group(1) if m else '',)
         n = seen.get(k, 0)
         seen[k] = n + 1
         out[k + (n,)] = r
@@ -39,18 +52,30 @@ def _label(r):
 
 
 def list_diff(before, after):
-    b, a = _keyed(before), _keyed(after)
-    added = [_label(a[k]) for k in a if k not in b]
-    removed = [_label(b[k]) for k in b if k not in a]
+    counts = {}
+    for side in (before, after):
+        c = {}
+        for r in side:
+            c[_base(r)] = c.get(_base(r), 0) + 1
+        for k, n in c.items():
+            counts[k] = max(counts.get(k, 0), n)
+    shared = {k for k, n in counts.items() if n > 1}  # shared by several rows on either side of the refresh
+    b, a = _keyed(before, shared), _keyed(after, shared)
+
+    def lab(r):
+        m = SERIAL.search(r.get('notes') or '') if _base(r) in shared else None
+        return _label(r) + (' [serial %s]' % m.group(1) if m else '')
+    added = [lab(a[k]) for k in a if k not in b]
+    removed = [lab(b[k]) for k in b if k not in a]
     status, dates, other = [], [], 0
     for k in a:
         if k not in b:
             continue
         x, y = b[k], a[k]
         if x.get('status') != y.get('status'):
-            status.append({'row': _label(y), 'from': x.get('status', ''), 'to': y.get('status', '')})
+            status.append({'row': lab(y), 'from': x.get('status', ''), 'to': y.get('status', '')})
         elif _dates(x.get('notes')) != _dates(y.get('notes')):
-            dates.append({'row': _label(y), 'from': _dates(x.get('notes')), 'to': _dates(y.get('notes'))})
+            dates.append({'row': lab(y), 'from': _dates(x.get('notes')), 'to': _dates(y.get('notes'))})
         elif any(x.get(c, '') != y.get(c, '') for c in ('product_name', 'is_codes', 'group', 'scheme', 'authority', 'notes')):
             other += 1
     return {

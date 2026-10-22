@@ -1,5 +1,9 @@
-"""Unit tests for the shared adapter helpers: status words, polite fetching (robots.txt, delay), the per-list diff."""
+"""Unit tests for the shared adapter helpers: status words, polite fetching (robots.txt, delay, timeout), the per-list diff."""
+import csv
+import io
+import json
 import os
+import re
 import sys
 import unittest
 
@@ -7,7 +11,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 import pipeline.adapters as A  # noqa: E402
 import pipeline.refresh_diff as rd  # noqa: E402
-from testkit import REPO, TODAY  # noqa: E402
+from testkit import ARCHIVES, REPO, TODAY, raw  # noqa: E402
 
 
 class StatusTest(unittest.TestCase):
@@ -45,7 +49,8 @@ class PoliteFetcherTest(unittest.TestCase):
             calls.append(url)
             r = responses.get(url)
             if r is None:
-                raise OSError('not found')
+                import urllib.error
+                raise urllib.error.HTTPError(url, 404, 'not found', {}, None)
             return r
 
         def sleep(n):
@@ -86,6 +91,7 @@ class PoliteFetcherTest(unittest.TestCase):
         with self.assertRaisesRegex(A.Failure, 'empty body'):
             f('https://h.example/b')
 
+
 class DiffTest(unittest.TestCase):
     def rows(self):
         base = {'scheme': 'S', 'authority': 'A', 'group': 'G', 'source_url': 'u', 'retrieved_on': '2026-10-01', 'status': 'active'}
@@ -117,3 +123,131 @@ class DiffTest(unittest.TestCase):
         d = rd.list_diff([r, dict(r)], [r])
         self.assertEqual(1, d['removed'])
 
+
+
+class ReviewStatusTest(unittest.TestCase):
+    def test_case_and_the_past_tense_do_not_hide_a_withdrawal(self):
+        self.assertEqual('withdrawn', A.status_of('', 'withdrawal of the Order dated 13 November 2025')[0])
+        self.assertEqual('withdrawn', A.status_of('', 'Rescinded vide S.O. 1(E) 12 January 2026')[0])
+        self.assertEqual('withdrawn', A.status_of('', 'WITHDRAWAL OF the order')[0])
+
+    def test_a_replaced_order_still_stays_active(self):
+        self.assertEqual('active', A.status_of('', 'The above order was rescinded by DIPP and a fresh Notification was issued.')[0])
+
+
+class ReviewFetcherTest(unittest.TestCase):
+    def make(self, responses, delay=2.0, slow=0.0):
+        import urllib.error
+        calls, naps, t = [], [], [0.0]
+
+        def opener(url, timeout=60):
+            calls.append(url)
+            t[0] += slow
+            r = responses.get(url)
+            if isinstance(r, Exception):
+                raise r
+            if r is None:
+                raise urllib.error.HTTPError(url, 404, 'nf', {}, None)
+            return r
+
+        def sleep(n):
+            naps.append(n)
+            t[0] += n
+
+        return A.PoliteFetcher(delay=delay, sleep=sleep, opener=opener, clock=lambda: t[0]), calls, naps
+
+    def test_the_nap_is_exactly_the_delay_between_two_requests_to_one_host(self):
+        f, _, naps = self.make({'https://h.example/a': (200, 'x', b'1'), 'https://h.example/b': (200, 'x', b'2')})
+        f('https://h.example/a')
+        f('https://h.example/b')
+        self.assertEqual([2.0, 2.0], naps[-2:])
+
+    def test_a_slow_response_does_not_cancel_the_next_wait(self):
+        f, _, naps = self.make({'https://h.example/a': (200, 'x', b'1'), 'https://h.example/b': (200, 'x', b'2')}, slow=3.0)
+        f('https://h.example/a')
+        before = len(naps)
+        f('https://h.example/b')
+        self.assertEqual([2.0], naps[before:])
+
+    def test_a_robots_transport_error_or_a_forbidden_is_a_refusal(self):
+        import urllib.error
+        for err in (urllib.error.HTTPError('https://h.example/robots.txt', 403, 'forbidden', {}, None), urllib.error.HTTPError('https://h.example/robots.txt', 500, 'x', {}, None), OSError('reset')):
+            f, calls, _ = self.make({'https://h.example/robots.txt': err, 'https://h.example/a': (200, 'x', b'1')})
+            with self.assertRaises(A.Failure):
+                f('https://h.example/a')
+            self.assertNotIn('https://h.example/a', calls)
+
+    def test_a_missing_robots_file_is_no_rules(self):
+        f, _, _ = self.make({'https://h.example/a': (200, 'x', b'1')})
+        self.assertEqual(b'1', f('https://h.example/a'))
+
+    def test_star_disallow_wins_over_an_earlier_mozilla_allow(self):
+        body = b'User-agent: Mozilla\nAllow: /\n\nUser-agent: *\nDisallow: /\n'
+        f, calls, _ = self.make({'https://h.example/robots.txt': (200, 'text/plain', body), 'https://h.example/a': (200, 'x', b'1')})
+        with self.assertRaisesRegex(A.Failure, 'robots.txt disallows'):
+            f('https://h.example/a')
+        self.assertNotIn('https://h.example/a', calls)
+
+    def test_cpcb_robots_as_published_refuses_the_uploads_path(self):
+        body = b'User-Agent: *\nAllow: /web/\nDisallow: /\n'
+        f, _, _ = self.make({'https://cpcb.example/robots.txt': (200, 'text/plain', body)})
+        with self.assertRaisesRegex(A.Failure, 'robots.txt disallows'):
+            f('https://cpcb.example/uploads/Projects/E-Waste/rules.pdf')
+
+    def test_a_page_that_answers_is_requested_once(self):
+        f, calls, _ = self.make({'https://h.example/a': (200, 'x', b'1')})
+        f('https://h.example/a')
+        self.assertEqual(1, calls.count('https://h.example/a'))
+
+    def test_a_transport_error_is_retried_and_then_succeeds(self):
+        n = [0]
+        f, calls, _ = self.make({})
+
+        def flaky(url, timeout=60):
+            calls.append(url)
+            n[0] += 1
+            if n[0] == 2:  # first call is robots.txt
+                raise OSError('reset')
+            if url.endswith('robots.txt'):
+                import urllib.error
+                raise urllib.error.HTTPError(url, 404, 'nf', {}, None)
+            return 200, 'x', b'ok'
+        f.opener = flaky
+        self.assertEqual(b'ok', f('https://h.example/a'))
+        self.assertEqual(2, calls.count('https://h.example/a'))
+
+    def test_the_default_fetcher_passes_its_timeout_on(self):
+        seen = []
+        f = A.PoliteFetcher(sleep=lambda n: None, timeout=45, urlopen=lambda req, timeout: seen.append(timeout) or _Resp())
+        f('https://h.example/robots.txt')
+        self.assertEqual({45}, set(seen))
+
+
+class _Resp:
+    status = 200
+    headers = {'Content-Type': 'text/plain'}
+
+    def read(self, n):
+        return b'x'
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *a):
+        return False
+
+
+class ReviewDiffTest(unittest.TestCase):
+    def test_deleting_the_middle_of_three_repeated_keys_is_one_removal_of_that_serial(self):
+        base = {'scheme': 'S', 'authority': 'A', 'group': 'G', 'source_url': 'u', 'retrieved_on': 'x', 'status': 'active', 'product_name': 'Breaker', 'is_codes': 'IS 1'}
+        before = [dict(base, notes='Sr 1.1(a) | t'), dict(base, notes='Sr 1.1(b) | t'), dict(base, notes='Sr 1.1(c) | t')]
+        after = [before[0], before[2]]
+        d = rd.list_diff(before, after)
+        self.assertEqual((0, 1, 0, 0, 0), (d['added'], d['removed'], d['status_changed'], d['date_changed'], d['other_changed']))
+        self.assertIn('1.1(b)', d['removed_sample'][0])
+
+    def test_the_same_appliance_on_two_schemes_is_two_keys(self):
+        base = {'authority': 'A', 'group': 'G', 'source_url': 'u', 'retrieved_on': 'x', 'status': 'active', 'product_name': 'Induction Hob', 'is_codes': '', 'notes': 'n'}
+        before = [dict(base, scheme='M'), dict(base, scheme='V')]
+        d = rd.list_diff(before, [dict(base, scheme='V', status='withdrawn'), dict(base, scheme='M')])
+        self.assertEqual((0, 0, 1), (d['added'], d['removed'], d['status_changed']))

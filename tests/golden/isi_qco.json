@@ -1,10 +1,10 @@
 {
- "rows": 710,
- "source_rows": 710,
+ "rows": 799,
+ "source_rows": 799,
  "page_date": "2026-10-15",
- "sha256": "f52b3512b14952db06a182c05a240b092d39ba8c8a2ba5b065bfa25a9a4c9ff3",
+ "sha256": "b73661b293b1371c799b5f1761d5bd67062e73fc499ac82aa971443479d3f873",
  "statuses": {
-  "active": 622,
+  "active": 711,
   "de-notified": 13,
   "withdrawn": 75
  },
@@ -32,37 +32,37 @@
    "notes": "QCO: 1. Cement (Quality Control)Order, 2003 S.O. No. 191(E) Dt. 17 Feb 2003 | QCO PDF: https://www.bis.gov.in/MandatoryProducts/QCOrder/SO-No-191(E).pdf"
   },
   {
-   "product_name": "Poly Aluminium Chloride",
-   "is_codes": "IS 15573",
+   "product_name": "Acrylonitrile",
+   "is_codes": "IS 12540:1988",
    "scheme": "BIS ISI-mandatory QCO (Scheme-I)",
    "authority": "BIS (via QCO of administering ministry)",
    "group": "Chemicals, Fertilizers, Polymers & Textiles",
    "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
    "retrieved_on": "2026-10-22",
-   "status": "active",
-   "notes": "QCO: 19. Poly Aluminium Chloride (Quality Control) Order, 2019 (S.O. 2790 (E) dated 05/08/2019) | QCO PDF: https://bis.gov.in/wp-content/uploads/2019/08/Poly-Aluminium-Chloride.pdf"
-  },
-  {
-   "product_name": "Unlined moulded rubber boots",
-   "is_codes": "IS 13995: 1995",
-   "scheme": "BIS ISI-mandatory QCO (Scheme-I)",
-   "authority": "BIS (via QCO of administering ministry)",
-   "group": "Foot Wear",
-   "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
-   "retrieved_on": "2026-10-22",
    "status": "withdrawn",
-   "notes": "QCO: Footwear made from all-Rubber and all Polymeric material and its components (Quality Control) Order, 2020 (S.O. No. 3858 (E) 27/10/2020) Footwear made from all-Rubber and all Polymeric material and its components (Quality Control) Amendment Order, 2020 (S.O. 4378 (E) dated 04/12/2020) Footwear made from all Rubber and all Polymeric material and its components (Quality Control) Amendment Order, 2021 Rescind order for the Footwear made from all-Rubber and all Polymeric material and its components (Quality Control) Order, 2020 (S.O. 2597(E), dated 3rd June 2022) 61. Footwear made from all-Rubber  | QCO PDF: https://bis.gov.in/wp-content/uploads/2020/11/Footwear-QualityControlOrder-2020-29October2020.pdf; https://bis.gov.in/wp-content/uploads/2020/12/Footwear-made-from-all-Rubber-and-all-Polymeric-material-and-its-components-Quality-Control-Amendment-Order-2020.pdf; https://bis.gov.in/wp-content/uploads/2021/07/Footwear-made-from-all-Rubber-and-all-Polymeric-material-and-its-components-Quality-Control-Amendment-Order-2021.pdf | Status: rescinded 3rd June 2022"
+   "notes": "QCO: Acrylonitrile (Quality Control) Order, 2020 (S.O. No. 3999 (E) 04/11/2020) Acrylonitrile (Quality Control) Amendment Order, 2020 Amendment Orders for various chemical Products Acrylonitrile (Quality Control) Order, 2021 Amendment order for various Petrochemicals, dated 08/10/2021 Acrylonitrile (Quality Control) Order, 2022 Amendment order for various chemicals, dated 05/04/2022 Acrylonitrile (Quality Control) Amendment Order, 2022 Amendment order for various Petrochemicals, dated 29 September 2022 Acrylonitrile (Quality Control) Amendment Order, 2023 (S.O. 1787(E), dated 18/04/2023) Acrylonitr | QCO PDF: https://www.bis.gov.in/wp-content/uploads/2020/11/Acrylonitrile-QCO-1.pdf; https://www.bis.gov.in/wp-content/uploads/2020/11/Acrylonitrile-QCO-1.pdf; https://www.bis.gov.in/wp-content/uploads/2021/06/Amendment-Orders-for-various-chemical-Products.pdf | Status: rescinded 24 October, 2025"
   },
   {
-   "product_name": "Cast iron/ductile iron drainage pipes and pipe fittings for over ground non-pressure pipelines socket and spigot series",
-   "is_codes": "IS 1729:2002",
+   "product_name": "Jute Geotextiles",
+   "is_codes": "IS 14715 (Part 2): 2016",
    "scheme": "BIS ISI-mandatory QCO (Scheme-I)",
    "authority": "BIS (via QCO of administering ministry)",
-   "group": "Cast Iron Products",
+   "group": "Geo Textiles",
    "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
    "retrieved_on": "2026-10-22",
    "status": "active",
-   "notes": "QCO: 88. Cast Iron Products (Quality Control) Order, 2023 S.O. 3806(E), dated 24th August 2023 Cast Iron Products (Quality Control) Order, 2024 S.O. 2287(E), dated 13th June 2024 | QCO PDF: https://bis.gov.in/wp-content/uploads/2023/08/Cast-Iron-Products-QCO-2023.pdf; https://bis.gov.in/wp-content/uploads/2024/06/Cast-Iron-Products.pdf"
+   "notes": "QCO: 72. Geo Textiles (Quality Control) Order, 2022 (S.O. 1706 (E), dated 10th April, 2023) Geo Textiles (Quality Control) Amendment Order, 2022 (S.O. 2331(E), dated 24th May, 2023) Ministry of Textiles Order, 2023 No. 6/1/2021 – R&D (Pt.) , dated 06 October, 2023 | QCO PDF: https://bis.gov.in/wp-content/uploads/2023/04/Geo-textiles-QCO-1.pdf; https://bis.gov.in/wp-content/uploads/2023/10/Geo-Textiles-Quality-ControlAmendment-Order-2023.pdf; https://bis.gov.in/wp-content/uploads/2023/10/Ministry-of-Textiles-Order-2023.pdf"
+  },
+  {
+   "product_name": "Sapling bags for growth of seedling /sapling",
+   "is_codes": "IS 16089 : 2013",
+   "scheme": "BIS ISI-mandatory QCO (Scheme-I)",
+   "authority": "BIS (via QCO of administering ministry)",
+   "group": "Agro Textiles",
+   "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
+   "retrieved_on": "2026-10-22",
+   "status": "active",
+   "notes": "QCO: 96. Agro Textiles (Quality Control) Order, 2023 S.O. 4248(E), dated 27th September 2023 Agro Textiles (Quality Control) Amendment Order, 2024 S.O. 1579(E), dated 28th March 2024 | QCO PDF: https://bis.gov.in/wp-content/uploads/2023/10/Agro-Textiles-QCO-2023.pdf; https://bis.gov.in/wp-content/uploads/2024/04/Agro-Textiles.pdf"
   },
   {
    "product_name": "Refined Zinc",
@@ -87,5 +87,8 @@
    "notes": "QCO: Tin Ingot (Quality Control) Order, 2025 S.O. 1769 (E) Dated 17 April, 2025 Tin Ingot (Quality Control) Amendment Order, 2025 S.O. 4369 (E) Dated 25 September, 2025 Withdrawal of Tin Ingot (Quality Control) Order, 2025 S.O. 5167(E) Dated 13 November, 2025 | QCO PDF: https://bis.gov.in/wp-content/uploads/2025/04/Tin-Ingot-Quality-Control-Order-2025.pdf; https://www.bis.gov.in/wp-content/uploads/2025/09/Tin-Ingot-Quality-Control-Amendment-Order-2025.pdf; https://www.bis.gov.in/wp-content/uploads/2025/11/Tin-Ingot-Quality-Control-Order-2025-Withdrawal-Order.pdf | Status: withdrawn 13 November, 2025"
   }
  ],
- "parse_notes": {}
+ "parse_notes": {
+  "section_titles": 108,
+  "name_differs_between_the_pages_tables": 49
+ }
 }

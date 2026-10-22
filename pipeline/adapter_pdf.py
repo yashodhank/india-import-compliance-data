@@ -1,7 +1,7 @@
 """PDF adapters: the BIS Option-2 (simplified procedure) list and the TEC MTCTE product list (pipeline/adapters.py has the contract)."""
 import re
 
-from pipeline.adapters import Failure, Parsed, clean, count_check, pdf_items, pdf_rows, row
+from pipeline.adapters import Failure, Parsed, clean, count_check, pdf_items, pdf_rows, row, serial_tokens
 
 
 def parse_simplified(body, url, today):
@@ -34,8 +34,9 @@ def parse_simplified(body, url, today):
     if bad:
         raise Failure('simplified: %d rows lack an IS number or a product (%s ...)' % (len(bad), bad[0]))
     gaps = sorted(set(range(1, max(serials) + 1)) - set(serials))
-    count_check('simplified', len(out), len(serials))
-    return Parsed(out, len(serials), '', {'serial_gaps_in_the_source': gaps, 'highest_serial': max(serials), 'footnotes_not_rows': dropped})
+    expected = serial_tokens(items, 115, 230)
+    count_check('simplified serials', len(out), expected)
+    return Parsed(out, expected, '', {'serial_gaps_in_the_source': gaps, 'highest_serial': max(serials), 'footnotes_not_rows': dropped})
 
 
 MTCTE_HEADER = {'S.N.', 'Essential Requirement/', 'Product Name', 'Product Variant Name', 'MTCTE Phase', 'Mandatory date of', 'certification of product under', 'MTCTE'}
@@ -71,5 +72,9 @@ def parse_mtcte(body, url, today):
                        notes='Essential Requirement/Product: %s | %s | Mandatory certification date: %s | IS code N/A (TEC ER/ITSAR, not BIS)' % (er, phase, date)))
     if serials != sorted(set(serials)):
         raise Failure('mtcte: serials are not strictly increasing')
-    count_check('mtcte', len(out), len(serials))
-    return Parsed(out, len(serials), '', {'highest_serial': max(serials)})
+    gaps = sorted(set(range(1, max(serials) + 1)) - set(serials))
+    if gaps:
+        raise Failure('mtcte: serials %s are missing from 1..%d (the list is numbered without gaps)' % (gaps[:10], max(serials)))
+    expected = serial_tokens(items, 112, 200)
+    count_check('mtcte serials', len(out), expected)
+    return Parsed(out, expected, '', {'highest_serial': max(serials)})

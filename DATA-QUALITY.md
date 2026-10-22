@@ -24,6 +24,8 @@ Honest list. Open an issue if you find another.
 
 ## BIS, TEC, BEE lists
 
+- Releases before v2026.10.23 under-counted Scheme I (710 rows instead of 799): a rowspan layout was misread. Do not cite the earlier Scheme-I counts. Since v2026.10.23 the expected count is taken from the page's `<tr>` rows independently of the row builder.
+
 - Statuses (`active`, `withdrawn`, `de-notified`, `upcoming`) are read from the page's own words (section titles, "Withdrawal of", "Rescind"); nothing is computed from today's date.
 - The BIS Option-2 PDF has gaps in its own serial numbers (403, 468, 515 are absent in the source); no row is invented.
 - The BEE pages give no IS codes. The MTCTE list uses TEC essential requirements, not IS codes.

@@ -46,6 +46,7 @@ import tempfile
 import time
 
 
+import urllib.error
 import urllib.parse
 
 
@@ -131,6 +132,53 @@ def html_tables(body):
     return out
 
 
+class GridRow(list):
+    """One <tr> laid out on the table's columns: a list of (text, [hrefs]) per logical column. A cell that a rowspan from an earlier row
+    covers is filled in from the row that owns it (`covered[i]` is True), so a row that holds only its own product still has its serial, IS
+    code and notification. `own` is how many <td> the <tr> itself holds."""
+
+    own = 0
+    covered = ()
+
+
+def html_grid(body):
+    """Every <table> of a page as a list of GridRow, rowspans and colspans honoured. A colspan cell is one logical cell."""
+    h = body.decode('utf-8', errors='replace') if isinstance(body, bytes) else body
+    out = []
+    for t in re.findall(r'<table.*?</table>', h, flags=re.S):
+        rows, active = [], {}
+        for tr in re.findall(r'<tr.*?</tr>', t, flags=re.S):
+            own = [(m.group(1), m.group(2)) for m in re.finditer(r'<t[dh]([^>]*)>(.*?)</t[dh]>', tr, flags=re.S)]
+            row_, cov, col, k = GridRow(), [], 0, 0
+            used = []
+            while k < len(own) or col in active:
+                if col in active:
+                    row_.append(active[col][1])
+                    cov.append(True)
+                    used.append(col)
+                    col += 1
+                    continue
+                attrs, inner = own[k]
+                k += 1
+                links = re.findall(r'href="([^"]+)"', inner)
+                cell = (clean(htmllib.unescape(re.sub(r'<[^>]+>', ' ', inner))), links)
+                rs = re.search(r'rowspan\s*=\s*"?(\d+)', attrs)
+                cs = re.search(r'colspan\s*=\s*"?(\d+)', attrs)
+                row_.append(cell)
+                cov.append(False)
+                if rs and int(rs.group(1)) > 1:
+                    active[col] = [int(rs.group(1)) - 1, cell]  # rows still to cover after this one
+                col += int(cs.group(1)) if cs else 1
+            for c in used:
+                active[c][0] -= 1
+                if active[c][0] <= 0:
+                    del active[c]
+            row_.own, row_.covered = len(own), tuple(cov)
+            rows.append(row_)
+        out.append(rows)
+    return out
+
+
 def page_date(body):
     """The page's own 'Last Updated on <Month D, YYYY>' as an ISO date; '' when the page prints none."""
     h = body.decode('utf-8', errors='replace') if isinstance(body, bytes) else body
@@ -167,12 +215,13 @@ def status_of(section, text):
     t = text or ''
     if 'de-notified' in (section or '').lower():
         return 'de-notified', ''
-    m = re.search(r'Withdrawal of', t)
+    m = re.search(r'withdrawal of', t, re.I)
     if m:
         d = printed_dates(t[m.end():])
         return 'withdrawn', STATUS_TAG + 'withdrawn' + (' ' + t[m.end():][d[0][0]:d[0][1]].strip() if d else '')
-    m = re.search(r'\bRescind(?:s)?\b', t)
-    if m:
+    m = re.search(r'\brescind(?:s|ed)?\b', t, re.I)
+    # "was rescinded by ... and a fresh Notification was issued" says the QCO lives on in a new order: that is not this QCO ending
+    if m and not (re.search(r'\b(?:was|been)\s+rescinded\b', t, re.I) and re.search(r'\bfresh\b', t, re.I)):
         d = printed_dates(t[m.end():])
         return 'withdrawn', STATUS_TAG + 'rescinded' + (' ' + t[m.end():][d[0][0]:d[0][1]].strip() if d else ' (no date printed)')
     return 'active', ''
@@ -218,6 +267,12 @@ def split_serial_items(items, serial_max_left):
 
 
 PDF_HEADER_WORDS = {'Sr. No.', 'IS Number', 'Product/Title'}
+
+
+def serial_tokens(items, serial_max_left, wide):
+    """How many serial numbers the PDF prints, counted over a wider band than the one the row builder reads (`wide` > `serial_max_left`), so a
+    serial that has slipped out of the first column is in this count and not in the rows, and the two disagree."""
+    return sum(1 for it in split_serial_items(items, serial_max_left) if it[2] < wide and re.fullmatch(r'\d{1,4}', it[4]))
 
 
 def pdf_rows(items, serial_max_left, dropped=None, header_words=PDF_HEADER_WORDS, column_of=None, chain_gap=0):
@@ -306,23 +361,32 @@ def pdf_rows(items, serial_max_left, dropped=None, header_words=PDF_HEADER_WORDS
 
 
 class PoliteFetcher:
-    """GET with robots.txt honoured and two seconds between requests to one host. `sleep` and `opener` are injectable for tests."""
+    """GET with robots.txt honoured and two seconds between the end of one request and the start of the next to the same host.
+    `sleep`, `opener`, `urlopen` and `clock` are injectable for tests.
 
-    def __init__(self, delay=2.0, sleep=time.sleep, opener=None, clock=time.monotonic):
-        self.delay, self.sleep, self.clock = delay, sleep, clock
+    robots.txt: a 404 or 410, or a 200 that is an HTML page, means no published rules. Any other answer (401, 403, 429, 5xx, a transport error)
+    means we cannot tell what is allowed, so nothing is fetched from that host. Only the `*` record is read (this fetcher has no product token)."""
+
+    def __init__(self, delay=2.0, sleep=time.sleep, opener=None, clock=time.monotonic, timeout=60, urlopen=urllib.request.urlopen):
+        self.delay, self.sleep, self.clock, self.timeout, self.urlopen = delay, sleep, clock, timeout, urlopen
         self.opener = opener or self._open
         self.robots, self.last = {}, {}
 
-    def _open(self, url, timeout=60):
+    def _open(self, url):
         req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT, 'Accept': '*/*'})
-        with urllib.request.urlopen(req, timeout=timeout) as resp:  # noqa: S310 (https URLs from our own manifest)
+        with self.urlopen(req, timeout=self.timeout) as resp:  # noqa: S310 (https URLs from our own manifest)
             return resp.status, resp.headers.get('Content-Type', ''), resp.read(16 * 1024 * 1024)
 
-    def _wait(self, host):
+    def _get(self, url):
+        """One request, spaced from the previous one to the same host, and stamped when its answer has arrived."""
+        host = urllib.parse.urlsplit(url).netloc
         gap = self.clock() - self.last.get(host, -1e9)
         if gap < self.delay:
             self.sleep(self.delay - gap)
-        self.last[host] = self.clock()
+        try:
+            return self.opener(url)
+        finally:
+            self.last[host] = self.clock()
 
     def _rules(self, url):
         u = urllib.parse.urlsplit(url)
@@ -331,33 +395,39 @@ class PoliteFetcher:
             rp = urllib.robotparser.RobotFileParser()
             lines = []
             try:
-                self._wait(u.netloc)
-                status, ctype, body = self.opener(host + '/robots.txt')
-                text = body.decode('utf-8', 'replace')
-                if status == 200 and 'html' not in ctype.lower() and not re.search(r'<\s*(html|body)\b', text[:500], re.I):
-                    lines = text.splitlines()
-            except Exception:  # noqa: BLE001 (404, an error page, or no robots.txt at all means no published rules)
-                lines = []
+                status, ctype, body = self._get(host + '/robots.txt')
+            except urllib.error.HTTPError as e:
+                if e.code not in (404, 410):
+                    raise Failure('robots.txt of %s answered HTTP %s: nothing is fetched from it' % (u.netloc, e.code))
+                status, ctype, body = e.code, '', b''
+            except Exception as e:  # noqa: BLE001
+                raise Failure('robots.txt of %s could not be read (%s): nothing is fetched from it' % (u.netloc, e))
+            text = body.decode('utf-8', 'replace')
+            if status == 200 and 'html' not in ctype.lower() and not re.search(r'<\s*(html|body)\b', text[:500], re.I):
+                lines = text.splitlines()
+            elif status not in (200, 404, 410):
+                raise Failure('robots.txt of %s answered HTTP %s: nothing is fetched from it' % (u.netloc, status))
             rp.parse(lines)
             self.robots[host] = rp
         return self.robots[host]
 
     def __call__(self, url, tries=3):
-        if not self._rules(url).can_fetch(USER_AGENT, url):
+        if not self._rules(url).can_fetch('*', url):
             raise Failure('robots.txt disallows %s' % url)
-        host = urllib.parse.urlsplit(url).netloc
         last = None
-        for _ in range(tries):
+        for _ in range(tries):  # a transport error is retried; an answer, good or bad, is final
             try:
-                self._wait(host)
-                status, _, body = self.opener(url)
-                if status != 200:
-                    raise Failure('HTTP %s from %s' % (status, url))
-                if not body.strip():
-                    raise Failure('empty body from %s' % url)
-                return body
+                status, _, body = self._get(url)
             except Failure:
                 raise
+            except urllib.error.HTTPError as e:
+                raise Failure('HTTP %s from %s' % (e.code, url))
             except Exception as e:  # noqa: BLE001 (any transport fault is a failed fetch)
                 last = e
+                continue
+            if status != 200:
+                raise Failure('HTTP %s from %s' % (status, url))
+            if not body.strip():
+                raise Failure('empty body from %s' % url)
+            return body
         raise Failure('fetch failed for %s: %s' % (url, last))

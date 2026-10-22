@@ -10,14 +10,14 @@ Every row carries its source URL, retrieval date and a hash of the archived orig
 |---|---|---|---|
 | ITC(HS) 2022 Schedule 1 (Import Policy), all 97 chapters, 4, 6 and 8-digit lines | `data/itchs/2022/` (`all.csv`, `chNN.csv`, `chNN.json`) | 15,943 lines, of which 12,587 are 8-digit | DGFT |
 | Chapter policy conditions and notes | `data/itchs/2022/chapter-conditions.csv`, `section-notes.csv` | 729 + 53 | DGFT |
-| BIS Scheme I (ISI / QCO) | `data/bis/isi_qco.csv` | 710 | BIS |
+| BIS Scheme I (ISI / QCO) | `data/bis/isi_qco.csv` | 799 | BIS |
 | BIS Scheme II (CRS, registration) | `data/bis/crs.csv`, `data/bis/scheme_ii_other.csv` | 74 + 9 | CRS portal, BIS |
 | BIS Scheme IV, Scheme X | `data/bis/scheme_iv.csv`, `data/bis/scheme_x.csv` | 2 + 52 | BIS |
 | BIS upcoming QCOs | `data/bis/qco_upcoming.csv` | 122 | BIS |
 | BIS Option-2 (simplified procedure) list | `data/bis/option2.csv` | 1,085 | BIS |
 | TEC MTCTE product list | `data/tec/mtcte.csv` | 200 | TEC |
 | BEE star-label lists | `data/bee/mandatory.csv`, `voluntary.csv` | 19 + 23 | BEE |
-| QCO register (order, S.O. number, dates, IS codes, state, Gazette PDF hash) | `data/qco/register.csv`, `register.json`, `events.csv`, `products.csv` | 310 records | derived from the BIS lists and the Gazette |
+| QCO register (order, S.O. number, dates, IS codes, state, Gazette PDF hash) | `data/qco/register.csv`, `register.json`, `events.csv`, `products.csv` | 311 records | derived from the BIS lists and the Gazette |
 | HS to scheme candidates | `data/derived/hs-scheme-candidates.csv` | 402 | derived from the ITC(HS) condition text |
 
 Each data directory has a `PROVENANCE.csv`: source URL, retrieval date, row count, the source's own row count (the two must be equal or the run fails), SHA-256 of the published file and of the raw copy under `raw/`.

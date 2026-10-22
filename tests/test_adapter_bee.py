@@ -32,5 +32,22 @@ class BeeLayoutChangeTest(unittest.TestCase):
             AE.parse_bee(raw(BEE_M), body, 'm', 'v', TODAY)
 
 
+class BeeBlankRowTest(unittest.TestCase):
+    def test_a_blank_row_above_the_live_list_does_not_discontinue_it(self):
+        html = raw(BEE_M).decode('utf-8', 'replace')
+        i = html.index('<tr', html.index('<tr') + 3)  # the first row after the header
+        edited = (html[:i] + '<tr><td></td><td></td><td></td><td></td><td></td></tr>' + html[i:]).encode()
+        p = AE.parse_bee(edited, raw(BEE_V), 'm', 'v', TODAY)
+        live = [r for r in p.rows if r['scheme'].endswith('(mandatory)') and r['status'] == 'active']
+        self.assertEqual(18, len(live))
+        self.assertEqual(['Tubular Fluorescent Lamps'], [r['product_name'] for r in p.rows if r['status'] == 'discontinued'])
+
+    def test_the_same_appliance_on_both_lists_is_two_rows_with_two_schemes(self):
+        rows = parse('bee.csv').rows
+        hobs = [r for r in rows if r['product_name'] == 'Induction Hob']
+        self.assertEqual(['BEE star-label (mandatory)', 'BEE star-label (voluntary)'], sorted(r['scheme'] for r in hobs)[::-1] if False else sorted(r['scheme'] for r in hobs))
+
+
+
 if __name__ == '__main__':
     unittest.main()
