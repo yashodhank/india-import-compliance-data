@@ -139,8 +139,10 @@ def get_raw(ctx, source_id, url, lang, stem, ext):
             return fh.read(), date, os.path.relpath(path, ctx.root), True
     u = fetch_url(url, lang)
     body = ctx.fetch(u)
-    ctx.meta[source_id] = (getattr(ctx.fetch, 'info', None) or {}).get(u) or {'fetch_method': 'direct', 'fetch_tier': '', 'fetch_cost_usd': ''}
-    if ctx.meta[source_id]['fetch_method'] == 'alterlab_text':
+    ctx.meta[source_id] = (getattr(ctx.fetch, 'info', None) or {}).get(u) or {}
+    if ctx.meta[source_id].get('fetch_method') == 'direct':
+        ctx.meta[source_id] = {}  # a direct fetch is the default and is not recorded, so a tree rebuilt offline from raw/ reproduces the provenance
+    if ctx.meta[source_id].get('fetch_method') == 'alterlab_text':
         raise Failure('%s: only extracted text of the PDF could be fetched, which is not the original bytes; nothing is archived or parsed from it' % source_id)
     return body, ctx.today, 'raw/%s/%s/%s_%s.%s' % (source_id, ctx.today, stem, ctx.today, ext), False
 
@@ -281,7 +283,7 @@ def run_list(ctx, spec, summary, prov):
                 if rescrape is None:
                     raise Failure('no paid fallback available')
                 body = rescrape(u, 'page answered 200 without the expected structure')
-                ctx.meta[spec['id']] = (getattr(ctx.fetch, 'info', None) or {}).get(u) or ctx.meta.get(spec['id'], {})
+                ctx.meta[spec['id']] = (getattr(ctx.fetch, 'info', None) or {}).get(u) or {}
                 raw_rel, archived = 'raw/%s/%s/%s_%s.%s' % (spec['id'], ctx.today, spec['stem'], ctx.today, spec['ext']), False
                 parsed = parse(body)
             except NoStructure as second:
@@ -496,9 +498,15 @@ def run_qco(ctx, summary):
         if b is None:
             raise Failure('qco register: data/bis/%s is missing' % f)
         files[f] = b
-    date, page = newest_raw(root, 'bis-scheme1')[1], None
-    with open(date, 'rb') as fh:
-        page = fh.read()
+    # The register is built from the NEWEST Scheme-I page, which on a day the page changed is the one this run has only staged: reading the disk
+    # would build it from the previous copy and the committed tree would not reproduce from raw/ (the offline rebuild would differ).
+    on_disk = newest_raw(root, 'bis-scheme1')
+    staged = sorted(k for k in ctx.stage.files if k.startswith('raw/bis-scheme1/') and not k.endswith('.ref.json'))
+    if staged and staged[-1].split('/')[2] >= on_disk[0]:
+        page = ctx.stage.files[staged[-1]]
+    else:
+        with open(on_disk[1], 'rb') as fh:
+            page = fh.read()
     gaz = {r['source_url']: r for r in (read_rows(root, S.QCO_DIR + '/gazette-pdf-hashes.csv') or [])}
     reg, ev, prod = qco_register.build(files, page, {u: r['sha256'] for u, r in gaz.items() if r['sha256']})
     urls = sorted({u.strip() for r in reg for u in r['pdf_urls'].split(';') if u.strip()})
