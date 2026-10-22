@@ -258,3 +258,42 @@ class OlderEditionTest(unittest.TestCase):
         self.assertIn('older edition', summary['stale'][0]['reason'])
         self.assertEqual({}, ctx.stage.files)
         self.assertEqual('', rf.older_edition(root, spec['id'], have))
+
+
+class DgftStaleTest(unittest.TestCase):
+    def test_an_unreachable_dgft_keeps_the_archived_itchs_data_and_reports_it_stale(self):
+        root = clone()
+        self.addCleanup(shutil.rmtree, root, True)
+        orig = (rf.itchs.DgftSession, rf.run_list, rf.run_bee)
+
+        class Blocked(orig[0]):
+            def listing(self):
+                raise rf.itchs.Unreachable('HTTP 403 from https://www.dgft.gov.in/CP/?opt=itchs-import-export')
+        rf.itchs.DgftSession, rf.run_list, rf.run_bee = Blocked, (lambda ctx, spec, summary, prov: None), (lambda ctx, summary, prov: None)
+        self.addCleanup(lambda: (setattr(rf.itchs, 'DgftSession', orig[0]), setattr(rf, 'run_list', orig[1]), setattr(rf, 'run_bee', orig[2])))
+        summary = rf.run(root, '2026-10-29', dry_run=True, fetch=lambda url: b'')
+        self.assertEqual('data/itchs/2022', summary['stale'][0]['file'])
+        self.assertIn('HTTP 403', summary['stale'][0]['reason'])
+        self.assertEqual(97, summary['itchs']['chapters'])
+        self.assertEqual(0, summary['itchs']['rows_8digit'] - summary['itchs']['rows_8digit'])
+
+    def test_main_prints_the_traceback_and_the_url_of_an_unexpected_error(self):
+        import urllib.error
+        import io
+        import contextlib
+        rep = os.path.join(tempfile.mkdtemp(prefix='rep-'), 'r.json')
+        orig = rf.run
+
+        def boom(*a, **k):
+            raise urllib.error.HTTPError('https://x.example/p', 403, 'Forbidden', {}, None)
+        rf.run = boom
+        self.addCleanup(setattr, rf, 'run', orig)
+        err = io.StringIO()
+        with contextlib.redirect_stderr(err), contextlib.redirect_stdout(io.StringIO()):
+            code = rf.main(['--report', rep])
+        self.assertEqual(1, code)
+        import json
+        reason = json.load(open(rep))['reason']
+        self.assertIn('https://x.example/p', reason)
+        self.assertIn('Traceback', reason)
+        self.assertIn('Traceback', err.getvalue())

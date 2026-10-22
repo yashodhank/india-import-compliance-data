@@ -21,6 +21,7 @@ import json
 import os
 import re
 import sys
+import traceback
 import urllib.request
 
 from pipeline import adapters as A
@@ -569,7 +570,18 @@ def run(root, today, offline=False, dry_run=False, fetch=http_fetch):
     run_bee(ctx, summary, provs['data/bee'])
     for d, prov in provs.items():
         prov_write(ctx, d + '/PROVENANCE.csv', prov)
-    all_rows = run_itchs(ctx, summary)
+    try:
+        all_rows = run_itchs(ctx, summary)
+    except itchs.Unreachable as e:
+        # DGFT cannot be reached (no paid fallback for its session): rebuild from the archived chapter exports and report the source stale
+        prov = read_rows(ctx.root, S.ITCHS_DIR + '/PROVENANCE.csv') or []
+        since = max([r['retrieved_at_utc'][:10] for r in prov] or [''])
+        summary.setdefault('stale', []).append({'file': S.ITCHS_DIR, 'source': 'dgft-itchs', 'since': since, 'reason': str(e)[:300]})
+        ctx.offline = True
+        try:
+            all_rows = run_itchs(ctx, summary)
+        finally:
+            ctx.offline = offline
     run_qco(ctx, summary)
     cand = derived.candidates(all_rows)
     ctx.stage.put('data/derived/hs-scheme-candidates.csv', derived.to_csv(cand))
@@ -606,7 +618,10 @@ def main(argv=None):
     except Failure as e:
         summary, code = {'status': 'failed', 'date': a.today, 'reason': str(e)}, 1
     except Exception as e:  # noqa: BLE001 (nothing is written before every assertion has passed)
-        summary, code = {'status': 'failed', 'date': a.today, 'reason': 'unexpected %s: %s' % (type(e).__name__, e)}, 1
+        tb = traceback.format_exc()
+        print(tb, file=sys.stderr)
+        url = getattr(e, 'url', None) or getattr(e, 'filename', None) or ''
+        summary, code = {'status': 'failed', 'date': a.today, 'reason': 'unexpected %s: %s%s\n%s' % (type(e).__name__, e, ' (url: %s)' % url if url else '', tb[-1500:])}, 1
     text = json.dumps(summary, indent=2, ensure_ascii=False)
     if a.report:
         with open(a.report, 'w', encoding='utf-8') as fh:

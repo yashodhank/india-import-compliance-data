@@ -75,6 +75,8 @@ def _post(payload, key, timeout):
             return e.code, json.loads(e.read().decode('utf-8', 'replace') or '{}')
         except Exception:  # noqa: BLE001
             return e.code, {}
+    except Exception as e:  # noqa: BLE001 (timeout, reset, DNS: reported as a failed fallback, never an escaping exception)
+        return 0, {'error': type(e).__name__}
 
 
 def _content(resp):

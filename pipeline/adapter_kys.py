@@ -230,6 +230,8 @@ class Client:
             return r.status, r.read(), ''
         except urllib.error.HTTPError as e:
             return e.code, e.read(), e.headers.get('Location', '')
+        except Exception as e:  # noqa: BLE001 (timeout, reset, DNS)
+            raise Failure('%s %s: %s: %s' % (method, url, type(e).__name__, e))
 
     def req(self, method, url, data=None, headers=None):
         wait = self.delay - (self.clock() - self.last)

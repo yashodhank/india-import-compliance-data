@@ -101,3 +101,33 @@ class DgftSessionTest(unittest.TestCase):
         s.listing = lambda: None
         self.assertIn(b'"27"', s.chapter('27'))
         self.assertEqual([], answers)
+
+
+class DgftUnreachableTest(unittest.TestCase):
+    def session(self, exc):
+        import io
+        import urllib.error
+
+        class Op:
+            def open(self, req, timeout=0):
+                raise exc(req.full_url) if callable(exc) else exc
+        s = itchs.DgftSession(sleep=lambda n: None, opener=Op())
+        s.robots._rules = lambda url: type('R', (), {'can_fetch': staticmethod(lambda ua, u: True)})()
+        return s
+
+    def test_every_dgft_failure_is_unreachable_with_the_url_and_status(self):
+        import urllib.error
+        for exc, want in ((lambda u: urllib.error.HTTPError(u, 403, 'no', {}, None), 'HTTP 403 from https://www.dgft.gov.in/'), (lambda u: OSError('reset'), 'OSError from https://www.dgft.gov.in/')):
+            with self.assertRaisesRegex(itchs.Unreachable, want):
+                self.session(exc).listing()
+
+    def test_a_chapter_the_server_keeps_refusing_is_unreachable_not_a_changed_chapter(self):
+        import urllib.error
+        s = self.session(lambda u: urllib.error.HTTPError(u, 503, 'x', {}, None))
+        s.csrf = 'x'
+        s.listing = lambda: None
+        with self.assertRaises(itchs.Unreachable):
+            s.chapter('01')
+        with self.assertRaises(Failure) as cm:
+            itchs.parse_chapter(chapter([item('03011100')], ch='04'), '03', '2026-10-22')
+        self.assertNotIsInstance(cm.exception, itchs.Unreachable)

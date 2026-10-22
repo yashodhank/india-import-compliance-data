@@ -12,6 +12,7 @@ import io
 import json
 import re
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -150,6 +151,11 @@ def chapters_in_listing(html_bytes):
     return sorted(set(c.zfill(2) for c in chs))
 
 
+class Unreachable(Failure):
+    """DGFT did not answer a request (4xx, 5xx or a transport fault). The chapter JSON is reachable only through this session and has no paid
+    fallback, so the refresh keeps the archived ITC(HS) data and reports it stale; a changed or contradictory chapter stays a plain Failure."""
+
+
 class DgftSession:
     """Chapter-by-chapter POST, one request a second, robots.txt honoured, the user agent names this repository."""
 
@@ -174,10 +180,17 @@ class DgftSession:
         if data is not None:
             headers['Content-Type'] = 'application/x-www-form-urlencoded'
         req = urllib.request.Request(url, data=data, headers=headers)
-        with self.opener.open(req, timeout=120) as resp:
-            if resp.status != 200:
-                raise Failure('HTTP %s from %s' % (resp.status, url))
-            return resp.read()
+        try:
+            with self.opener.open(req, timeout=120) as resp:
+                if resp.status != 200:
+                    raise Unreachable('HTTP %s from %s' % (resp.status, url))
+                return resp.read()
+        except Unreachable:
+            raise
+        except urllib.error.HTTPError as e:
+            raise Unreachable('HTTP %s from %s' % (e.code, url))
+        except Exception as e:  # noqa: BLE001 (a transport fault: timeout, reset, DNS)
+            raise Unreachable('%s from %s: %s' % (type(e).__name__, url, e))
 
     def listing(self):
         page = self._req(PAGE_URL)
@@ -199,6 +212,14 @@ class DgftSession:
                 if isinstance(doc, dict) and doc.get('responseCode') == 200 and str(doc.get('chapterNo', '')).zfill(2) != ch:
                     raise ValueError('the server answered for chapter %r, not %s' % (doc.get('chapterNo'), ch))  # a glitch seen 2026-10-22 (ch27): retried
                 return body
+            except Unreachable as e:  # may be a passing 5xx: retried, then reported as unreachable
+                last = e
+                self.sleep(30)
+                try:
+                    self.listing()
+                except Exception:  # noqa: BLE001
+                    pass
+                continue
             except Failure:
                 raise
             except Exception as e:  # noqa: BLE001
@@ -208,7 +229,7 @@ class DgftSession:
                     self.listing()
                 except Exception:  # noqa: BLE001
                     pass
-        raise Failure('itchs ch%s: fetch failed (%s)' % (ch, last))
+        raise Unreachable('itchs ch%s: fetch failed (%s)' % (ch, last))
 
 
 def provenance_row(ch, body, ts, rows_in_json):
