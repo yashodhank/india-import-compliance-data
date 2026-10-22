@@ -1,0 +1,47 @@
+{
+ "bee-mandatory": {},
+ "bee-voluntary": {},
+ "bis-option2": {
+  "changed_on": "",
+  "checked_on": "2026-10-22",
+  "sha256": "51c1ae487dcac929579c6680e5bd0e3030b9adec2afbcb78fc999a0724c9f9c5",
+  "url": "https://www.bis.gov.in/wp-content/uploads/2024/11/List-of-Products-Under-Simplified-Procedure.pdf"
+ },
+ "bis-scheme1": {
+  "changed_on": "",
+  "checked_on": "2026-10-22",
+  "sha256": "0e132906b5b852dbd02838857dcd7fefbaf999f0fc35e7846afd671b84ecc473",
+  "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/?lang=en"
+ },
+ "bis-scheme2": {
+  "changed_on": "",
+  "checked_on": "2026-10-22",
+  "sha256": "ae9ceafea40ceccc6ed56ab22eb1583d8cb6eabcf1e1b5331c77e0282779ce55",
+  "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme/?lang=en"
+ },
+ "bis-scheme4": {
+  "changed_on": "",
+  "checked_on": "2026-10-22",
+  "sha256": "13be4940fbf236a801e46417014e674af40623780d06ddfb3629421b42581ba6",
+  "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-4/?lang=en"
+ },
+ "bis-schemex": {
+  "changed_on": "",
+  "checked_on": "2026-10-22",
+  "sha256": "cac31141388bf3acd8a4b8a05063844e5701e2af41ee46993a1d9850b678f783",
+  "url": "https://www.bis.gov.in/products-under-compulsory-certification-scheme-x/?lang=en"
+ },
+ "bis-upcoming": {
+  "changed_on": "",
+  "checked_on": "2026-10-22",
+  "sha256": "b3597d54a94d40e994a0cb546cc54bf71d2d0cb7f3937ac8e5d166389826b9a3",
+  "url": "https://www.bis.gov.in/upcoming-qcos-notified-and-due-for-implementation/?lang=en"
+ },
+ "crs": {
+  "changed_on": "",
+  "checked_on": "2026-10-22",
+  "sha256": "a85b878ee3c90b9746e7f1401ccc49cf9be92ad111666a398e5d13a1e75ab274",
+  "url": "https://www.crsbis.in/BIS/products-bis.do"
+ },
+ "tec-mtcte": {}
+}
