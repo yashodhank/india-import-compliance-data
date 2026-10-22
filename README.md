@@ -4,11 +4,30 @@ Open, versioned, weekly-refreshed tables that answer one question: **what does I
 
 Every row carries its source URL, retrieval date and a hash of the archived original, so any figure can be traced back to the page or Gazette it came from.
 
+**Not legal advice.** Every row carries an `as_of` date; it was true of the source on that date only.
+The official source prevails over this repository wherever they differ.
+Confirm with the issuing authority before you ship, file or certify anything.
+
+## Where this fits
+
+This is **not a trade-statistics dataset**. It holds no import values, volumes, ports or partner countries. It answers what approval applies to a product at import, per HS code. The repositories below answer other questions and complement it: join them on the HS code (`hs6` here is the common key).
+
+| Repository | What it answers | Licence | Use it with this one for |
+|---|---|---|---|
+| [Vonter/india-export-import](https://github.com/Vonter/india-export-import) | How much India trades: DGCIS FTDDP values by commodity, port and country | ODbL | Value and volume of a code you are checking the rules for |
+| [Lekh007/india-import-atlas-data](https://github.com/Lekh007/india-import-atlas-data) | Sector import bill, import-substitution ratings, ventures | GODL and CC BY 4.0 | Where imports are large, then what approval each line needs |
+| [lakshyaag/India-Trade-Data](https://github.com/lakshyaag/India-Trade-Data) | A scraper for the TRADESTAT portal | see the repository | Fetching statistics to put beside the policy tables |
+| [datasets/harmonized-system](https://github.com/datasets/harmonized-system) | HS 2022 nomenclature to six digits (data package) | ODC-PDDL-1.0 | The source of `data/hs6/`; the shared vocabulary of all of the above |
+| **this repository** | What approval applies per HS code: ITC(HS) policy and conditions, BIS, QCO, TEC and BEE lists, QCO register with Gazette hashes | CC BY 4.0 (data), MIT (code) | |
+
+The licence column is as stated by each project when this section was written; check it before reuse.
+
 ## What is here
 
 | Dataset | Path | Rows | Source |
 |---|---|---|---|
-| ITC(HS) 2022 Schedule 1 (Import Policy), all 97 chapters, 4, 6 and 8-digit lines | `data/itchs/2022/` (`all.csv`, `chNN.csv`, `chNN.json`) | 15,943 lines, of which 12,587 are 8-digit | DGFT |
+| HS 2022 six-digit descriptions (join table for `hs6`) | `data/hs6/harmonized-system.csv` | 5,613 | datasets/harmonized-system (WCO nomenclature via UN Comtrade) |
+| ITC(HS) 2022 Schedule 1 (Import Policy), all 97 chapters, 4, 6 and 8-digit lines, with `hs6` and `hs6_description` columns | `data/itchs/2022/` (`all.csv`, `chNN.csv`, `chNN.json`) | 15,943 lines, of which 12,587 are 8-digit | DGFT |
 | Chapter policy conditions and notes | `data/itchs/2022/chapter-conditions.csv`, `section-notes.csv` | 729 + 53 | DGFT |
 | BIS Scheme I (ISI / QCO) | `data/bis/isi_qco.csv` | 799 | BIS |
 | BIS Scheme II (CRS, registration) | `data/bis/crs.csv`, `data/bis/scheme_ii_other.csv` | 74 + 9 | CRS portal, BIS |
@@ -27,6 +46,7 @@ The HS to scheme file is **candidates only**: a keyword match on the official co
 ## Licences
 
 - **Data** (`data/`, `schemas/`): [CC BY 4.0](LICENSE-DATA). Attribute this repository and the original source named below.
+- **HS6 table** (`data/hs6/`): redistributed from [datasets/harmonized-system](https://github.com/datasets/harmonized-system) under ODC-PDDL-1.0 (public domain dedication); source and hash in `data/hs6/PROVENANCE.csv`.
 - **Code** (`pipeline/`, `tests/`, `.github/`): [MIT](LICENSE-CODE).
 
 ## Source acknowledgement
@@ -52,7 +72,7 @@ rows = list(csv.DictReader(open("data/itchs/2022/all.csv", encoding="utf-8")))
 hit = [r for r in rows if r["hs_code"] == "85171300"]
 ```
 
-Every CSV is UTF-8, LF line endings, comma separated, with a header row. `schemas/*.json` holds a Table Schema for each shape and `schemas/index.json` maps each file to its schema. Releases (`vYYYY.MM.DD`) carry the main CSVs as assets, and `CHANGELOG.md` says what changed.
+Every CSV is UTF-8, LF line endings, comma separated, with a header row. `schemas/*.json` holds a Table Schema for each shape and `schemas/index.json` maps each file to its schema. `datapackage.json` at the root is a [Frictionless Data Package](https://datapackage.org) describing every CSV (regenerate with `python -m pipeline.datapackage`; a test fails when it is stale). To join on the international code, use `hs6`: 24 of the 5,629 distinct `hs6` values are India-specific splits or chapters 98/99 with no WCO line and a blank `hs6_description`; `BUILD-REPORT.json` lists them. Releases (`vYYYY.MM.DD`) carry the main CSVs as assets, and `CHANGELOG.md` says what changed.
 
 ## How it stays current
 
@@ -81,7 +101,7 @@ python -m pytest tests                  # golden tests, schema validation of eve
 
 ## Contributing
 
-Corrections are welcome as issues or pull requests, ideally with a pointer to the official page or Gazette that shows the right value. Files under `data/` are generated: fix the parser or the archived input, not the CSV.
+Corrections are welcome: see `CORRECTIONS.md` and the issue forms. Include a pointer to the official page or Gazette that shows the right value. Files under `data/` are generated: fix the parser or the archived input, not the CSV.
 
 ## Raw archive
 
