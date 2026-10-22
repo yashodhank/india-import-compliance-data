@@ -1,0 +1,91 @@
+{
+ "rows": 710,
+ "source_rows": 710,
+ "page_date": "2026-10-15",
+ "sha256": "f52b3512b14952db06a182c05a240b092d39ba8c8a2ba5b065bfa25a9a4c9ff3",
+ "statuses": {
+  "active": 622,
+  "de-notified": 13,
+  "withdrawn": 75
+ },
+ "sample": [
+  {
+   "product_name": "Sulphate Resisting Portland Cement",
+   "is_codes": "IS 12330",
+   "scheme": "BIS ISI-mandatory QCO (Scheme-I)",
+   "authority": "BIS (via QCO of administering ministry)",
+   "group": "Cement (any variety of cement manufactured or sold in India) such as",
+   "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
+   "retrieved_on": "2026-10-22",
+   "status": "active",
+   "notes": "QCO: 1. Cement (Quality Control)Order, 2003 S.O. No. 191(E) Dt. 17 Feb 2003 | QCO PDF: https://www.bis.gov.in/MandatoryProducts/QCOrder/SO-No-191(E).pdf"
+  },
+  {
+   "product_name": "Low heat Portland Cement",
+   "is_codes": "IS 12600",
+   "scheme": "BIS ISI-mandatory QCO (Scheme-I)",
+   "authority": "BIS (via QCO of administering ministry)",
+   "group": "Cement (any variety of cement manufactured or sold in India) such as",
+   "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
+   "retrieved_on": "2026-10-22",
+   "status": "active",
+   "notes": "QCO: 1. Cement (Quality Control)Order, 2003 S.O. No. 191(E) Dt. 17 Feb 2003 | QCO PDF: https://www.bis.gov.in/MandatoryProducts/QCOrder/SO-No-191(E).pdf"
+  },
+  {
+   "product_name": "Poly Aluminium Chloride",
+   "is_codes": "IS 15573",
+   "scheme": "BIS ISI-mandatory QCO (Scheme-I)",
+   "authority": "BIS (via QCO of administering ministry)",
+   "group": "Chemicals, Fertilizers, Polymers & Textiles",
+   "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
+   "retrieved_on": "2026-10-22",
+   "status": "active",
+   "notes": "QCO: 19. Poly Aluminium Chloride (Quality Control) Order, 2019 (S.O. 2790 (E) dated 05/08/2019) | QCO PDF: https://bis.gov.in/wp-content/uploads/2019/08/Poly-Aluminium-Chloride.pdf"
+  },
+  {
+   "product_name": "Unlined moulded rubber boots",
+   "is_codes": "IS 13995: 1995",
+   "scheme": "BIS ISI-mandatory QCO (Scheme-I)",
+   "authority": "BIS (via QCO of administering ministry)",
+   "group": "Foot Wear",
+   "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
+   "retrieved_on": "2026-10-22",
+   "status": "withdrawn",
+   "notes": "QCO: Footwear made from all-Rubber and all Polymeric material and its components (Quality Control) Order, 2020 (S.O. No. 3858 (E) 27/10/2020) Footwear made from all-Rubber and all Polymeric material and its components (Quality Control) Amendment Order, 2020 (S.O. 4378 (E) dated 04/12/2020) Footwear made from all Rubber and all Polymeric material and its components (Quality Control) Amendment Order, 2021 Rescind order for the Footwear made from all-Rubber and all Polymeric material and its components (Quality Control) Order, 2020 (S.O. 2597(E), dated 3rd June 2022) 61. Footwear made from all-Rubber  | QCO PDF: https://bis.gov.in/wp-content/uploads/2020/11/Footwear-QualityControlOrder-2020-29October2020.pdf; https://bis.gov.in/wp-content/uploads/2020/12/Footwear-made-from-all-Rubber-and-all-Polymeric-material-and-its-components-Quality-Control-Amendment-Order-2020.pdf; https://bis.gov.in/wp-content/uploads/2021/07/Footwear-made-from-all-Rubber-and-all-Polymeric-material-and-its-components-Quality-Control-Amendment-Order-2021.pdf | Status: rescinded 3rd June 2022"
+  },
+  {
+   "product_name": "Cast iron/ductile iron drainage pipes and pipe fittings for over ground non-pressure pipelines socket and spigot series",
+   "is_codes": "IS 1729:2002",
+   "scheme": "BIS ISI-mandatory QCO (Scheme-I)",
+   "authority": "BIS (via QCO of administering ministry)",
+   "group": "Cast Iron Products",
+   "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
+   "retrieved_on": "2026-10-22",
+   "status": "active",
+   "notes": "QCO: 88. Cast Iron Products (Quality Control) Order, 2023 S.O. 3806(E), dated 24th August 2023 Cast Iron Products (Quality Control) Order, 2024 S.O. 2287(E), dated 13th June 2024 | QCO PDF: https://bis.gov.in/wp-content/uploads/2023/08/Cast-Iron-Products-QCO-2023.pdf; https://bis.gov.in/wp-content/uploads/2024/06/Cast-Iron-Products.pdf"
+  },
+  {
+   "product_name": "Refined Zinc",
+   "is_codes": "IS 209: 2024",
+   "scheme": "BIS ISI-mandatory QCO (Scheme-I)",
+   "authority": "BIS (via QCO of administering ministry)",
+   "group": "Non-ferrous refined metals",
+   "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
+   "retrieved_on": "2026-10-22",
+   "status": "withdrawn",
+   "notes": "QCO: Refined Zinc (Quality Control) Order, 2025 S.O. 1768 (E) Dated 17 April, 2025 Refined Zinc (Quality Control) Amendment Order, 2025 S.O. 4368 (E) Dated 25 September, 2025 Withdrawal of Refined Zinc (Quality Control) Order, 2025 S.O. 5169(E) Dated 13 November, 2025 | QCO PDF: https://bis.gov.in/wp-content/uploads/2025/04/Refined-Zinc-Quality-Control-Order-2025.pdf; https://www.bis.gov.in/wp-content/uploads/2025/09/Refined-Zinc-Quality-Control-Amendment-Order-2025.pdf; https://www.bis.gov.in/wp-content/uploads/2025/11/Refined-Zinc-Quality-Control-Order-2025-Withdrawal-Order.pdf | Status: withdrawn 13 November, 2025"
+  },
+  {
+   "product_name": "Tin Ingot",
+   "is_codes": "IS 26: 2024",
+   "scheme": "BIS ISI-mandatory QCO (Scheme-I)",
+   "authority": "BIS (via QCO of administering ministry)",
+   "group": "Non-ferrous refined metals",
+   "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
+   "retrieved_on": "2026-10-22",
+   "status": "withdrawn",
+   "notes": "QCO: Tin Ingot (Quality Control) Order, 2025 S.O. 1769 (E) Dated 17 April, 2025 Tin Ingot (Quality Control) Amendment Order, 2025 S.O. 4369 (E) Dated 25 September, 2025 Withdrawal of Tin Ingot (Quality Control) Order, 2025 S.O. 5167(E) Dated 13 November, 2025 | QCO PDF: https://bis.gov.in/wp-content/uploads/2025/04/Tin-Ingot-Quality-Control-Order-2025.pdf; https://www.bis.gov.in/wp-content/uploads/2025/09/Tin-Ingot-Quality-Control-Amendment-Order-2025.pdf; https://www.bis.gov.in/wp-content/uploads/2025/11/Tin-Ingot-Quality-Control-Order-2025-Withdrawal-Order.pdf | Status: withdrawn 13 November, 2025"
+  }
+ ],
+ "parse_notes": {}
+}

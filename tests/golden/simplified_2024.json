@@ -1,0 +1,100 @@
+{
+ "rows": 1085,
+ "source_rows": 1085,
+ "page_date": "",
+ "sha256": "ab635174c49ebfe75746c81b5f0c29d7b4286bc52923fc69c35cf1fb334c6758",
+ "statuses": {
+  "active": 1085
+ },
+ "sample": [
+  {
+   "product_name": "Containers for Packaging of Natural Mineral Water and Packaged Drinking Water",
+   "is_codes": "IS 15410",
+   "scheme": "BIS Simplified process (Option-2) list 2024",
+   "authority": "BIS",
+   "group": "Option-2 (erstwhile simplified procedure) mandatory",
+   "source_url": "https://www.bis.gov.in/wp-content/uploads/2024/11/List-of-Products-Under-Simplified-Procedure.pdf",
+   "retrieved_on": "2026-10-22",
+   "status": "active",
+   "notes": "List serial 1"
+  },
+  {
+   "product_name": "Skimmed Milk Powder Part 1 : Standard Grade",
+   "is_codes": "IS 13334 (Part 1)",
+   "scheme": "BIS Simplified process (Option-2) list 2024",
+   "authority": "BIS",
+   "group": "Option-2 (erstwhile simplified procedure) mandatory",
+   "source_url": "https://www.bis.gov.in/wp-content/uploads/2024/11/List-of-Products-Under-Simplified-Procedure.pdf",
+   "retrieved_on": "2026-10-22",
+   "status": "active",
+   "notes": "List serial 2"
+  },
+  {
+   "product_name": "Protective Rubber Canvas Boots For Miners",
+   "is_codes": "IS 3976",
+   "scheme": "BIS Simplified process (Option-2) list 2024",
+   "authority": "BIS",
+   "group": "Option-2 (erstwhile simplified procedure) mandatory",
+   "source_url": "https://www.bis.gov.in/wp-content/uploads/2024/11/List-of-Products-Under-Simplified-Procedure.pdf",
+   "retrieved_on": "2026-10-22",
+   "status": "active",
+   "notes": "List serial 362"
+  },
+  {
+   "product_name": "Propiconazole E.c.",
+   "is_codes": "IS 15182",
+   "scheme": "BIS Simplified process (Option-2) list 2024",
+   "authority": "BIS",
+   "group": "Option-2 (erstwhile simplified procedure) mandatory",
+   "source_url": "https://www.bis.gov.in/wp-content/uploads/2024/11/List-of-Products-Under-Simplified-Procedure.pdf",
+   "retrieved_on": "2026-10-22",
+   "status": "active",
+   "notes": "List serial 546"
+  },
+  {
+   "product_name": "Hexaconazole, EC",
+   "is_codes": "IS 14550",
+   "scheme": "BIS Simplified process (Option-2) list 2024",
+   "authority": "BIS",
+   "group": "Option-2 (erstwhile simplified procedure) mandatory",
+   "source_url": "https://www.bis.gov.in/wp-content/uploads/2024/11/List-of-Products-Under-Simplified-Procedure.pdf",
+   "retrieved_on": "2026-10-22",
+   "status": "active",
+   "notes": "List serial 727"
+  },
+  {
+   "product_name": "Irrigation Equipment - Micro Sprayer (*)",
+   "is_codes": "IS 14605",
+   "scheme": "BIS Simplified process (Option-2) list 2024",
+   "authority": "BIS",
+   "group": "Option-2 (erstwhile simplified procedure) mandatory",
+   "source_url": "https://www.bis.gov.in/wp-content/uploads/2024/11/List-of-Products-Under-Simplified-Procedure.pdf",
+   "retrieved_on": "2026-10-22",
+   "status": "active",
+   "notes": "List serial 1087"
+  },
+  {
+   "product_name": "Polymer Modified Bitumen (*)",
+   "is_codes": "IS 15462",
+   "scheme": "BIS Simplified process (Option-2) list 2024",
+   "authority": "BIS",
+   "group": "Option-2 (erstwhile simplified procedure) mandatory",
+   "source_url": "https://www.bis.gov.in/wp-content/uploads/2024/11/List-of-Products-Under-Simplified-Procedure.pdf",
+   "retrieved_on": "2026-10-22",
+   "status": "active",
+   "notes": "List serial 1088"
+  }
+ ],
+ "parse_notes": {
+  "serial_gaps_in_the_source": [
+   403,
+   468,
+   515
+  ],
+  "highest_serial": 1088,
+  "footnotes_not_rows": [
+   "(*)  Presently,  application  submission  through  online  portal  is  allowed  under  both  option-1  and",
+   "option-2. In due course, these products will be shifted to option-2."
+  ]
+ }
+}
