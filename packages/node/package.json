@@ -1,0 +1,25 @@
+{
+  "name": "india-import-compliance",
+  "version": "2026.10.24",
+  "description": "Offline lookup of India import policy and product-compliance measures per ITC(HS) 2022 code. Not legal advice.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./src/index.cjs",
+  "module": "./src/index.js",
+  "exports": {
+    ".": {
+      "import": "./src/index.js",
+      "require": "./src/index.cjs"
+    }
+  },
+  "files": ["src", "data"],
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashodhank/india-import-compliance-data.git",
+    "directory": "packages/node"
+  },
+  "engines": {"node": ">=18"}
+}

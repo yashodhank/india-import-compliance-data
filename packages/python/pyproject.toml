@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "india-import-compliance"
+version = "2026.10.24"
+description = "Offline lookup of India import policy and product-compliance measures per ITC(HS) 2022 code. Not legal advice."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/yashodhank/india-import-compliance-data"
+
+[tool.setuptools]
+packages = ["india_import_compliance"]
+
+[tool.setuptools.package-data]
+india_import_compliance = ["data/*.csv"]
