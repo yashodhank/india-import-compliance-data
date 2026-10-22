@@ -10,31 +10,31 @@
  "bis-scheme1": {
   "changed_on": "2026-10-22",
   "checked_on": "2026-10-22",
-  "sha256": "0e5b32541601fe19a1ae72c3a25288627c79b0eee02ea5066eca905000e4d56e",
+  "sha256": "235d6bce0483164da13b74d29f14d0a1bf588f34cca88af371d68bba810886e6",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/?lang=en"
  },
  "bis-scheme2": {
   "changed_on": "2026-10-22",
   "checked_on": "2026-10-22",
-  "sha256": "98848ecc00abc898b32b3c94a764196b17a6e1e87d2cebc411f17461a2a84ffb",
+  "sha256": "a216b31e9869c586bc4a75bd759d49943a3fbe5f6aebd2897bb53ab883deea02",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme/?lang=en"
  },
  "bis-scheme4": {
   "changed_on": "2026-10-22",
   "checked_on": "2026-10-22",
-  "sha256": "e69d1bdace31feffef4087c1c013489a5272970b15b3ff6707ee353108feae01",
+  "sha256": "5b40f10b2466706cc8bb3a2ec6667c4f64b3fad1e94206821d9a4396cb6ea103",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-4/?lang=en"
  },
  "bis-schemex": {
   "changed_on": "2026-10-22",
   "checked_on": "2026-10-22",
-  "sha256": "7a5e37dc682c20374ab4965d3aa8481d9fc372c5a70ad5e1a0ccfb478aa014dd",
+  "sha256": "c564a7245846431b98a80ef5e85e1baf83263afde1243c7a87f0d61132329db9",
   "url": "https://www.bis.gov.in/products-under-compulsory-certification-scheme-x/?lang=en"
  },
  "bis-upcoming": {
   "changed_on": "2026-10-22",
   "checked_on": "2026-10-22",
-  "sha256": "ad8c7ffe3df234746216356260575e9c360155ee32dbc69b5d028c5e41c29d21",
+  "sha256": "0ff3021cf6958cb38ce4a2804427109b1e2f1ed073b55ac0165625fee9ba9da0",
   "url": "https://www.bis.gov.in/upcoming-qcos-notified-and-due-for-implementation/?lang=en"
  },
  "crs": {
@@ -43,5 +43,10 @@
   "sha256": "a85b878ee3c90b9746e7f1401ccc49cf9be92ad111666a398e5d13a1e75ab274",
   "url": "https://www.crsbis.in/BIS/products-bis.do"
  },
- "tec-mtcte": {}
+ "tec-mtcte": {
+  "changed_on": "",
+  "checked_on": "2026-10-22",
+  "sha256": "61770f27af642fe9bf98cfcc4d690b0fb61886cfec215116c1e82ed972aa6cd5",
+  "url": "https://mtcte.tec.gov.in/filedownload?name=downloadDocument_ProductsList.pdf"
+ }
 }
