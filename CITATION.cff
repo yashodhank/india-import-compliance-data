@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and acknowledge the original sources listed in the README."
+title: "India import compliance data: ITC(HS) 2022 import policy, BIS, TEC and BEE compulsory lists, QCO register"
+type: dataset
+authors:
+  - given-names: "Yashodhan"
+    family-names: "Kulkarni"
+version: "v2026.10.22"
+date-released: "2026-10-22"
+license:
+  - CC-BY-4.0
+  - MIT
+repository-code: "https://github.com/yashodhank/india-import-compliance-data"
+url: "https://github.com/yashodhank/india-import-compliance-data"
+keywords:
+  - India
+  - import policy
+  - ITC(HS)
+  - HS code
+  - BIS
+  - QCO
+  - customs
+  - open data
