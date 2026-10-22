@@ -1,0 +1,1346 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <title>EquipmentSchemes</title>
+   
+    <link href="../../BeeLogo.ico" rel="Shortcut Icon" type="image/x-icon" />
+    <!--===============  BEE CSS FILE INCLUDE START ===============-->
+    <link href="../../Content/themes/css/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="../../Content/themes/css/fontawesome.css" rel="stylesheet" type="text/css" />
+    <link href="../../Content/themes/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="../../Content/themes/css/responsive.css" rel="stylesheet" type="text/css" />
+    <!-- select2 css file include -->
+    <link href="../../Content/themes/css/select2.min.css" rel="stylesheet" type="text/css" />
+    <!--===============  BEE CSS FILE INCLUDE END ===============-->
+    <!--====== OWL CAROUSEL CSS INCLUDE ========-->
+    
+    <!--====== VIDEO POP CSS  ======-->
+    <link rel="stylesheet" href="../../Content/themes/css/magnific-popup.css"/>
+
+    <!--- BOOTSTRAP DROPDOWN CSS -->
+    <link rel="stylesheet" href="../../Content/themes/css/bootstrap-select.min.css" />
+    <!--==== JQUERY FILE INCLUDE =====-->
+    <script src="../../Content/themes/js/jquery-3.6.0.min.js"></script>
+	<script type="text/javascript"> 
+	
+	$(document).ready(function () {
+
+    // Block < and ' from being typed
+    $(document).on("keypress", "input[type='text'], textarea", function (e) {
+        var char = String.fromCharCode(e.which || e.keyCode);
+
+        if (char === "<"  || char ==">") {
+            e.preventDefault();
+            return false;
+        }
+    });
+
+    // Block < and ' from being pasted
+    $(document).on("paste", "input[type='text'], textarea", function (e) {
+        var pasteData = (e.originalEvent || e).clipboardData.getData('text');
+
+        if (pasteData.indexOf("<") !== -1 || pasteData.indexOf("'") !== -1) {
+            e.preventDefault();
+            alert("Characters < and ' are not allowed.");
+        }
+    });
+
+});
+
+	</script>
+
+   
+    <!--Script for Disabling the right click & control key -->
+    <script type="text/javascript">
+            $(document).ready(function () {
+                //$('a').each(function () {
+                    
+                //    if ($(this).attr('class') == "carousel-control-prev" || $(this).attr('class') == "carousel-control-next")
+                //    { }
+                //    else
+                //    {
+                //        var href = $(this).attr('href');
+                //        $(this).attr('href', 'javascript:void(0);');
+                //        $(this).attr('jshref', href);
+                //    }
+                    
+                //});
+                //$('a').bind('click', function (e) {
+                //    if ($(this).attr('class') == "carousel-control-prev" || $(this).attr('class') == "carousel-control-next")
+                //    { }
+                //    else
+                //        {
+                //    var href = $(this).attr('jshref');
+                //    if (href != "#") {
+                //        e.stopImmediatePropagation();
+                //        e.preventDefault();
+                //        e.stopPropagation();
+                //        if (!e.metaKey && e.ctrlKey) {
+                //            e.metaKey = e.ctrlKey;
+
+                //        }
+
+                //        if (!e.metaKey) {
+                //            location.href = href;
+                //        }
+                //        else { alert('Opening in a new tab has been restricted due to security.'); }
+
+                //        return false;
+                //    }
+                //        }
+                //})
+
+            });
+
+            // Comment below method to inspect the element on browser.
+            $(document).ready(function () {
+
+
+                $(document)[0].oncontextmenu = function () { return false; }
+                $(document).mousedown(function (e) {
+                    if (e.button == 2) {
+                        alert('Sorry, this functionality is disabled!');
+                        return false;
+                    } else {
+                        return true;
+                    }
+
+                });
+            });
+    </script>
+    
+  <script type="text/javascript">
+    jQuery(document).unbind('keypress'); //for other
+    jQuery(document).unbind('keydown'); // for IE
+    jQuery(document).keypress(function (e) {
+        //alert(e.target.nodeName.toUpperCase());
+        if (e.target.nodeName.toUpperCase() != 'INPUT' &&
+			e.target.nodeName.toUpperCase() != 'TEXTAREA') {
+            var code = (e.keyCode ? e.keyCode : e.which);
+            if (code == 8) {
+                alert('For security, this operation is not allowed.');
+                return false;
+            }
+        }
+    });
+
+    jQuery(document).keydown(function (e) {
+        //alert(e.target.nodeName.toUpperCase());
+        if (e.target.nodeName.toUpperCase() != 'INPUT' &&
+			e.target.nodeName.toUpperCase() != 'TEXTAREA') {
+            var code = (e.keyCode ? e.keyCode : e.which);
+            if (code == 8) {
+                alert('For security, this operation is not allowed.');
+                return false;
+            }
+        }
+    });
+    function disableBackButton() {
+        //alert('This Operation is not Allowed, due to Sucurity.');
+        // window.history.forward();
+    }
+    function getInternetExplorerVersion()
+    // Returns the version of Internet Explorer or a -1
+    // (indicating the use of another browser).
+    {
+        var rv = -1; // Return value assumes failure.
+
+        if (navigator.appName == 'Microsoft Internet Explorer') {
+            var ua = navigator.userAgent;
+            var re = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+            if (re.exec(ua) != null)
+                rv = parseFloat(RegExp.$1);
+        }
+        if (rv > -1) {
+            if (rv < 8.0) {
+                msg = "This site is compatible with IE 8 and above versions. Please upgrade your Internet Explorer."
+                alert(msg);
+                //history.go(-1);
+                //return false;
+            }
+        }
+    }
+
+    getInternetExplorerVersion();
+    </script>
+     
+
+</head>
+
+ 
+
+<body onload="javascript:disableBackButton();" ondragstart="return false;" ondrop="return false;">
+    <!-- This Code block for Token Authentiction -->
+    
+    
+    
+    
+         <!-- Header -->
+    <header>
+        <script type="text/javascript">
+            //$(document).click(function () {
+            //    alert('calling body click');
+            //    if ($('.sub_menu:visible').length == 1) {
+            //        alert('calling body click1');
+            //        $('.sub_menu').hide();
+            //    }
+            //    if ($('.login_menu:visible').length == 1) {
+            //        alert('calling body click2');
+            //        $('.login_menu').hide();
+            //    }
+
+            //});
+            function LanguageToggle()
+            {
+                //alert('calling LanguageToggle');
+                if ($('.sub_menu:visible').length == 0) {
+                    $('.sub_menu').show();
+                    if ($('.login_menu:visible').length == 1) {
+                        $('.login_menu').hide();
+                    }
+                }
+                else {
+                    $('.sub_menu').hide();
+                }
+               
+            }
+            function LoginToggle()
+            {
+                //alert('calling LoginToggle');
+                if ($('.login_menu:visible').length == 0) {
+                    $('.login_menu').show();
+                    if ($('.sub_menu:visible').length == 1) {
+                        $('.sub_menu').hide();
+                    }
+                }
+                else {
+                    $('.login_menu').hide();
+                }
+            }
+        </script>
+        <!-- Top Header -->
+        <div class="top-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-auto mr-auto">
+                        <div class="social-icon pt-1">
+                            Follow Us -
+                            <a href="https://www.facebook.com/beeindiadigital/" target="_blank">
+                                <i class="fab fa-facebook-square fb"></i>
+                            </a>
+                            <a href="https://twitter.com/beeindiadigital" target="_blank">
+                                <i class="fab fa-twitter twitter"></i>
+                            </a>
+                            <a href="https://www.youtube.com/channel/UCgZ3hVD1_fIF2rwotvXDgqQ" target="_blank">
+                                <i class="fab fa-youtube youtube"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <ul class="top-links">
+
+                            <li>
+                                <span>Available on :</span>
+                                <a href="https://play.google.com/store/apps/details?id=com.beestarlabel&hl=en_IN" target="_blank">
+                                    <img src='/Content/themes/images/play-store.png' alt="play-store" class="mr-1">
+                                </a>
+                                <a href="https://apps.apple.com/in/app/bee-star-label/id6751802629" target="_blank">
+                                    <img src='/Content/themes/images/app-store.png' alt="app-store">
+                                </a>
+                            </li>
+
+
+
+                            <li class="dropdown">
+                                <a href="javascript:void(0)" class="dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" onclick="return LanguageToggle();">
+                                    <i class="fas fa-globe"></i> Languages
+                                </a>
+                                <ul class="dropdown-menu sub_menu" aria-labelledby="dropdownMenuButton">
+                                    <li class="dropdown-item"><a href="?message=Hi">Hindi</a></li>
+                                    <li class="dropdown-item"><a href="?message=En">English</a></li>
+                                    
+                                    
+
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="javascript:void(0)" class="dropdown-toggle" id="dropdownloginButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" onclick="return LoginToggle();"><i class="fas fa-sign-out-alt"></i> Login</a>
+                                <ul class="dropdown-menu login_menu" aria-labelledby="dropdownLoginButton">
+                                    <li class="dropdown-item">
+
+                                        <a href='/Home/Login?source=Manufacturer' title="For Manufacturer, Importer and Trader.  Kindly Login Here."><span><i class="fas fa-cog"></i></span>Manufacturers</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href='/Home/Login?source=BEE' title="For BEE Internal use only."><span class="bee-icon"><i class="fas fa-bolt"></i></span>BEE</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href='/Home/Login?source=IAME'><span class="iame"><i class="fas fa-lightbulb"></i></span>IAME</a>
+                                    </li>
+                                    <li class="dropdown-item">
+                                        <a href='/Home/Login?source=Laboratory'><span class="laboratory"><i class="fas fa-flask"></i></span>Laboratory</a>
+                                    </li>
+                                  
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Top Header -->
+        <!-- Main Naviagtion -->
+        <nav class="navbar navbar-expand-lg navbar-light custom-nav">
+            <div class="container">
+             
+                    <a class="navbar-brand logo"  href='/' ><img src="../../Content/themes/NewCss/images/logo.png" alt=""></a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarCollapse">
+                        <ul class="navbar-nav ml-auto">
+
+                            
+
+                            
+                            <li class="nav-item"><a href='/Home/EquipmentSchemes?type=M' class="nav-link">Mandatory Appliance</a></li>
+                            <li class="nav-item"><a href='/Home/EquipmentSchemes?type=V' class="nav-link">Voluntary Appliance</a> </li>
+                             
+                        </ul>
+                    </div>
+</div>
+        </nav>
+        <!-- Main Naviagtion -->
+    </header>
+    <!-- Header -->
+ 
+    
+
+    <!--===== HOME PAGE HTML START =======-->
+    <!-- Body Section -->
+    <main role="main" id="bee_portal">
+        
+
+<style>
+    .archive-mandatory {
+        text-align: right;
+        padding: 0px 0px 12px 0;
+    }
+</style>
+
+<form action="/Home/EquipmentSchemes?type=V" method="post">        <div class="main-container">
+
+            <!--===== PAGE TITLE AREA =====-->
+            <div class="page_title_area">
+                <div class="page_title_image position-relative">
+                    <img src="../../Content/themes/images/page_title.png" class="img-fluid" alt="Page Title" />
+                    <div class="banner_title">
+                            <h1>
+                                Voluntary Scheme
+                            </h1>
+                    </div>
+                </div>
+            </div>
+            <!--===== PAGE TITLE AREA =====-->
+
+        </div>
+        <div class="mandatory-scheme container m-y-47">
+            <div class="archive-mandatory">
+            </div>
+            <div class="table-responsive">
+                    <table class="table table-bordered mb-0">
+                        <thead class="table-primary">
+                            <tr>
+                                <th width="75px">
+                                    Sr. No.
+                                </th>
+
+                                <th>
+                                    <strong>Equipments Name</strong>
+                                </th>
+                                <th>
+                                    <strong>Schedules for Equipments</strong>
+                                </th>
+                                <th width="210px" align="right">
+                                    <strong>Sample Label PDF/CDR</strong>
+                                </th>
+                            </tr>
+                        </thead>
+                                <tr>
+                                    <td>
+                                        1
+                                    </td>
+
+                                    <td>
+                                        General Purpose Industrial Motor
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schedule6-InductionMotors.pdf' target="_blank"> Schedule 6 - Induction Motors   </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schedule 6.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/Schedule 6.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        2
+                                    </td>
+
+                                    <td>
+                                        Submersible Pump Set
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schedule7-APS.pdf' target="_blank"> Schedule 7 - Agricultural Pump Sets   </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Pump_NewSampleLabel.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/Pump_NewSampleLabel.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        3
+                                    </td>
+
+                                    <td>
+                                        Computer
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/shcedule14com.pdf' target="_blank"> Schedule 14 - Computer (Notebook /Laptops)  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/COMP.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/COMP.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        4
+                                    </td>
+
+                                    <td>
+                                        Ballast
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schedule-15ballast.pdf' target="_blank"> Schedule 15 - Ballast (Electronic/Magnetic)  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/New_Ballast_Label.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/New_Ballast_Label.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        5
+                                    </td>
+
+                                    <td>
+                                        Office Automation Products
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schedule - 16Office Equipments.pdf' target="_blank"> Schedule 16 – Office equipment&#39;s (Printer, Copier, Scanner, MFD’s).   </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/COMPLabel design.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/COMPLabel design.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        6
+                                    </td>
+
+                                    <td>
+                                        Diesel Engine Driven MonosetPumps  for Agricultural Purposes
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schedule 13-Diesel Engine Driven MonosetPumps for Agricultural Purposes.pdf' target="_blank"> Schedule 13-Diesel Engine Driven MonosetPumps for Agricultural Purposes  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/DG Pump Label.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/DG Pump Label.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        7
+                                    </td>
+
+                                    <td>
+                                        Solid State Inverter
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Inverter Schedule.pdf' target="_blank"> Schedule 17 Solid State Inverter  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/image.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/image.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        8
+                                    </td>
+
+                                    <td>
+                                        Diesel Generator Set
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/DG Set schedule.pdf' target="_blank"> Schedule 18 Diesel Generator  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/DG_set_Label.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/DG_set_Label.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        9
+                                    </td>
+
+                                    <td>
+                                        Microwave Oven
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schedule22-MWO.pdf' target="_blank"> Schedule 22 Microwave Ovens  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/MWO_Sample.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/MWO_Sample.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        10
+                                    </td>
+
+                                    <td>
+                                        Solar Water Heater
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/schedule_solar_water_heater.pdf' target="_blank"> Schedule 23 Solar Water Heaters  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/SWH_Label.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/SWH_Label.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        11
+                                    </td>
+
+                                    <td>
+                                        Air Compressors
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Air_Compressor_Schedule_Final.pdf' target="_blank"> Schedule 27 Air Compressor  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/AIR_CO_Sample_label.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/AIR_CO_Sample_label.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        12
+                                    </td>
+
+                                    <td>
+                                        High Energy Li-Battery
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/SCHEDULE_29.pdf' target="_blank"> SCHEDULE-29 Li-ion traction batteries and Systems  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Baterry_Label.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/Baterry_Label.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        13
+                                    </td>
+
+                                    <td>
+                                        Tyres/Tires
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schedule_30.pdf' target="_blank"> Schedule 30 Tyres  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Tyre_Label.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/Tyre_Label.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        14
+                                    </td>
+
+                                    <td>
+                                        Side by Side/Multi Door Refrigerator
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/SBS_Schedule.pdf' target="_blank"> Schedule 31 side by side refrigerator  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/SBS_SampleLabel.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/SBS_SampleLabel.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        15
+                                    </td>
+
+                                    <td>
+                                        Pedestal Fan
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schudle_PedestralFan.pdf' target="_blank"> Schedule 33 Pedestal Fan  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/SampleLabel_PedestalFan.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/SampleLabel_PedestalFan.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        16
+                                    </td>
+
+                                    <td>
+                                        Table/Wall Fan
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schudle_TableFan.pdf' target="_blank"> Schedule 32 Table/Wall Fan  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/SampleLabel_TableFan.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/SampleLabel_TableFan.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        17
+                                    </td>
+
+                                    <td>
+                                        Induction Hob
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schedule_Induction_hobs.pdf' target="_blank"> Schedule 34 Induction Hob  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/SampleLabel_Induction Hobs.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/SampleLabel_Induction Hobs.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        18
+                                    </td>
+
+                                    <td>
+                                        Solar Photovoltaic
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Solar_Photovoltaic_Schudle.pdf' target="_blank"> Schedule 35 Solar Photovoltaic  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/SolarPV_SampleLabel.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/SolarPV_SampleLabel.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        19
+                                    </td>
+
+                                    <td>
+                                        Packaged Boiler
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Boiler_Schedule_Final.pdf' target="_blank"> Schedule 36 Packaged Boiler  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Boiler_Sample_Label.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/Boiler_Sample_Label.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        20
+                                    </td>
+
+                                    <td>
+                                        Commercial Beverage Coolers
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Visi_Cooler.pdf' target="_blank"> Schedule 37 Visi Cooler  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Visi_Cooler_sample_Label.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/Visi_Cooler_sample_Label.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        21
+                                    </td>
+
+                                    <td>
+                                        Refrigerant Compressors
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schedule_39_Refrigerant_Compressors.pdf' target="_blank"> Schedule 39_Refrigerant Compressors  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Refrigerant_Compressors_Label.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/Refrigerant_Compressors_Label.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        22
+                                    </td>
+
+                                    <td>
+                                        Evaporative Air Coolers
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schedule_40_Evaporative_Air_Coolers.pdf' target="_blank"> Schedule 40_Evaporative Air Coolers  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Evaporative_Air_Coolers_Label.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/Evaporative_Air_Coolers_Label.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        23
+                                    </td>
+
+                                    <td>
+                                        EV Charger
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/Schedule_41_EV_Charger.pdf' target="_blank"> Schedule 41_EV Charger  </a>
+                                    </td>
+                                    <td>
+                                        <a href='../Content/Files/EV_Charger_Label.pdf' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-pdf.png' width="19" height="23" alt="Download in PDF Format" />
+                                        </a>
+                                        &nbsp; &nbsp; &nbsp;
+
+                                        <a href='../Content/Files/EV_Charger_Label.zip' target="_blank">
+                                            <img src='../../Content/themes/base/images/icon-zip.png' width="26" height="23" alt="Download in Compressed Format" />
+                                        </a>
+                                    </td>
+                                </tr>
+                    </table>
+            </div>
+
+        </div>
+</form>
+
+    </main>
+    <!-- End of body Section -->
+    <!--Footer -->
+    
+    
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row justify-content-around mb-5">
+            <div class="col-md-4 mobile-mb-10">
+                <ul class="footer-links">
+                    <li><a href="../../Content/Files/Important%20Instructions.pdf" target="_blank">Important Instruction of Submission Appliance</a></li>
+                    <li><a href="../../Content/Files/FAQ%20BEESL.pdf" target="_blank">FAQ</a></li>
+                    <li><a href="../../Content/Files/Renew_Model.pdf" target="_blank">Help Manual for Model Renew</a></li>
+                    <li><a href="../../Home/ConsumerSurvey">Consumer Survey <img src="../../Content/themes/base/images/new-blink2.gif" style="width: 30px; height: 30px;"></a></li>
+                    <li><a href="../../Home/Feedback">Consumer Feedback <img src="../../Content/themes/base/images/new-blink2.gif" style="width: 30px; height: 30px;"></a></li>
+                    <li style="display:none;"><a href="../../Ticket/CreateTicket">Raise Query <img src="../../Content/themes/base/images/new-blink2.gif" style="width: 30px; height: 30px;"></a></li>
+                    <li style="display:none;"><a href="../../Ticket/TrackTicket">Track Query <img src="../../Content/themes/base/images/new-blink2.gif" style="width: 30px; height: 30px;"></a></li>
+                    <li><a href="../../EnergySavingCalculation/EnergySavingCalculation">Proposed Energy Saving<img src="../../Content/themes/base/images/new-blink2.gif" style="width: 30px; height: 30px;"></a></li>
+                </ul>
+            </div>
+            <div class="col-md-5 mobile-mb-10">
+                <p class="text-white lh-33">
+                    <a href="../Content/Files/Agreement_Voluntary.docx" target="_blank">New Format of Standard Agreement between the Bureau and the user of label for voluntary products.</a>
+                </p>
+                <p class="text-white helpline">
+                    <span>
+                        Women Helpline Number: <a href="tel:7827170170">7827170170</a>
+                        <a href="https://www.ncwwomenhelpline.in/" target="_blank">Women Helpline</a>
+                    </span>
+                </p>
+                <p class="text-white lh-33 mt-4 pt-2 mb-0">
+                    Subscribe for Latest News & Notifications
+                </p>
+                    <script src="../../Scripts/jquery.unobtrusive-ajax-3.2.6.js"></script>
+    
+    <script src="../../Scripts/jquery.validate.js"></script>
+    <script src="../../Scripts/jquery.validate.unobtrusive-3.2.12.js"></script>
+
+
+<script type="text/javascript">
+
+    function ValidateNewsletterEmail(ths) {
+        var email = $(ths).val();
+        var expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+        if (!expr.test(email)) {
+            $('#dvsubsres').css("display", "block");
+            $('#dvsubsres').html('Please enter valid Email Address.');
+            //$('.validation-summary-errors').css("display", "none");
+            $(ths).val('');
+            $(ths).focus();
+            return false;
+        }
+        else {
+            $('#dvsubsres').css("display", "none");
+            $('.validation-summary-errors').css("display", "none");
+        }
+    }
+
+    function Validateform()
+    {
+        var EmailValue = $("#txtNewsLetterSubscriberEmail").val();
+        if (EmailValue == '') {
+            $('#dvsubsres').html('');
+            $('#dvsubsres').css("display", "block");
+            $('#dvsubsres').html('Please enter valid Email Address.');
+            //$('.validation-summary-errors').css("display", "none");
+            return false;
+        }
+        
+    }
+
+    function OnSuccess(response) {
+        if (response == '1')
+        {
+            window.location.href = "/Home/NewslettersubscriptionThankyou";
+        }
+        else if (response == '-1')
+        {
+            $('#dvsubsres').css("display", "block");
+            $('#dvsubsres').html('Please enter valid Email Address.');
+        }
+        else if (response == '2') {
+            $('#dvsubsres').css("display", "block");
+            $('#dvsubsres').html('Email Already Exist.');
+        }
+        else {
+            $('#dvsubsres').css("display", "block");
+            $('#dvsubsres').html('Error while subscribe Latest News & Notifications.');
+        }
+    }
+    function OnFailure(response) {
+        $('#dvsubsres').css("display", "block");
+        $('#dvsubsres').html('Error while subscribe Latest News & Notifications.');
+    }
+
+</script>
+ 
+
+
+<form action="/Home/Newslettersubscription" data-ajax="true" data-ajax-failure="OnFailure" data-ajax-success="OnSuccess" id="form0" method="post">                <div class="row">
+
+                    <div class="col-sm-9 pr-0">
+
+
+                        
+                        <div class="input-area subscribe-input">
+                            <input class="form-control" id="txtNewsLetterSubscriberEmail" maxlength="100" name="Email" onchange=" ValidateNewsletterEmail(txtNewsLetterSubscriberEmail);" onpaste="return false" placeholder="Enter Your Email" title="Email Address" type="email" value="" />
+                            
+                        </div> 
+
+                        <span id="dvsubsres" class="error_message"></span> 
+                    </div>
+
+                    <div class="subscribe-btn col-sm-3">
+
+                        <input type="submit" class="btn btn-success btn-green" id="btnSubscribeNews" value="Submit" onclick="return Validateform();" title="Subscribe For Latest News & Notifications" />
+                    </div>
+
+                </div>
+</form>
+
+
+
+
+
+            </div>
+            <div class="col-md-3 pl-90">
+                <p class="footer-heading">Follow us</p>
+                <p class="text-white fw-300 mb-2">Stay up to date with BEE Activities</p>
+                <ul class="footer-social mb-2">
+                    <li>
+                        <a href="https://www.facebook.com/beeindiadigital/" target="_blank">
+                            <i class="fab fa-facebook-square fb"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/beeindiadigital" target="_blank"><i class="fab fa-twitter twitter"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCgZ3hVD1_fIF2rwotvXDgqQ" target="_blank">
+                            <i class="fab fa-youtube youtube"></i>
+                        </a>
+                    </li>
+                </ul>
+                <p class="text-white fw-300 mb-2"><a href="/Home/TermAndCondition">Terms & Conditions</a></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid strip">
+        <div class="row">
+            <div class="col-md-12">
+                <p class="text-center">Copyright &copy;  2026 All Rights Reserved, Bureau of Energy Efficiency</p>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer -->
+<!--====== LOGIN MODAL =======-->
+
+<div class="modal fade modal_controller" id="Login_modal">
+    <div class="modal-dialog modal-dialog  modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+            <div class="modal-body">
+
+                <div class="login_main" id="login">
+                    <div class="container">
+                        <div class="row row_controller justify-content-center align-items-center h-100">
+                            <div class="col-sm-12 col-md-12 col-lg-12 p-0">
+                                <div class="inner_column w-100">
+                                    <div class="logo text-center">
+                                        <a href="index.html">
+                                            <img src="../../Content/themes/images/login-logo.jpg" alt="Logo" />
+                                        </a>
+                                        <h3>Login</h3>
+                                    </div>
+
+                                    <!-- <h2 class="text-center"><strong>BEE Login</strong></h2> -->
+
+                                    <div class="login_tab_listing">
+                                        <ul class="nav nav-pills">
+                                            <li class="nav-item">
+                                                <a class="nav-link active"
+                                                   data-toggle="pill" href="#Manufacturer">
+                                                    <span><i class="fas fa-cog"></i></span>
+                                                    <p>
+                                                        <strong>Manufacturers</strong>
+                                                    </p>
+                                                </a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" data-toggle="pill" href="#Bee_Login">
+                                                    <span><i class="fas fa-bolt"></i></span>
+                                                    <p>
+                                                        <strong>BEE</strong>
+                                                    </p>
+                                                </a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" data-toggle="pill" href="#ManageUser">
+                                                    <span><i class="far fa-lightbulb"></i></span>
+                                                    <p>
+                                                        <strong>IAME</strong>
+                                                    </p>
+                                                </a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" data-toggle="pill" href="#Laboratory">
+                                                    <span><i class="fas fa-flask"></i></span>
+                                                    <p>
+                                                        <strong>Laboratry</strong>
+                                                    </p>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <!-- Tab panes Bee_Login -->
+                                    <div class="tab-content">
+                                        <div class="tab-pane container active" id="Manufacturer">
+
+                                            <div class="fieldset">
+                                                <form method="POST">
+                                                    <div class="form-group">
+
+                                                        <input type="text" class="form-control" placeholder="Username">
+                                                    </div>
+                                                    <div class="form-group">
+
+                                                        <input type="password" class="form-control" placeholder="Password">
+                                                    </div>
+                                                    <div class="form-group">
+
+                                                        <div class="captcha_text_box">
+                                                            <div>
+                                                                <input type="text" class="form-control" placeholder="Captcha Code">
+                                                            </div>
+
+
+                                                        </div>
+                                                        <div class="captcha_code">
+                                                            <img src="../../Content/themes/images/captcha.png" alt="captcha-code">
+                                                        </div>
+                                                        <div class="refresh-btn">
+                                                            <a href="#"><i class="fas fa-redo"></i></a>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="form-group ">
+                                                        <div class="forget text-center">
+                                                            <a href="#">Forget Password?</a>
+                                                        </div>
+
+                                                    </div>
+
+
+
+                                                    <div class="form-group">
+                                                        <button type="submit" class="btn btn-green btn-block">Sign In</button>
+                                                    </div>
+                                                    
+
+                                                    <div class="form-group clearfix">
+                                                        <a href="#" class="btn dark-blue">Register New Agency</a>
+                                                        <a href="#" class="btn bg-brown">Agency Search</a>
+                                                    </div>
+                                                    <div class="form-group form_text text-center">
+                                                        <!-- <a href="#Paymment_Registration " data-toggle="modal" data-dismiss="modal">
+                                                        <strong>Pay Registration Fee</strong></a> -->
+                                                        <a href="#"><strong>Pay Registration Fee</strong></a>
+                                                        <p class="pb-4">
+                                                            Before proceed for payment, kindly verify contact person's Email Id.
+                                                        </p>
+                                                    </div>
+                                                </form>
+                                            </div>
+
+                                            <div class="form-footer">
+                                                <p><span>Please Use Internet Explorer 10 or above for smooth processing!</span> <a href="#">Please click here to upgrade your Internet Explorer</a></p>
+                                            </div>
+                                        </div>
+                                        <div class="tab-pane container" id="Bee_Login">
+                                            
+                                            <div class="fieldset">
+                                                <form method="POST">
+                                                    <div class="form-group">
+
+                                                        <input type="text" class="form-control" placeholder="User Name">
+                                                    </div>
+                                                    <div class="form-group">
+
+                                                        <input type="password" class="form-control" placeholder="Password">
+                                                    </div>
+                                                    <div class="form-group">
+
+                                                        <div class="captcha_text_box">
+                                                            <div>
+                                                                <input type="text" class="form-control" placeholder="Captcha Code">
+                                                            </div>
+
+
+                                                        </div>
+                                                        <div class="captcha_code">
+                                                            <img src="../../Content/themes/images/captcha.png" alt="captcha-code">
+                                                        </div>
+                                                        <div class="refresh-btn">
+                                                            <a href="#"><i class="fas fa-redo"></i></a>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <button type="submit" class="btn btn-green btn-block">LogIn</button>
+                                                    </div>
+
+
+
+                                                </form>
+                                            </div>
+
+
+
+                                        </div>
+                                        <div class="tab-pane container fade" id="ManageUser">
+                                            
+                                            <div class="fieldset">
+                                                <form method="POST">
+                                                    <div class="form-group">
+
+                                                        <input type="text" class="form-control" placeholder="User Name">
+                                                    </div>
+                                                    <div class="form-group">
+
+                                                        <input type="password" class="form-control" placeholder="Password">
+                                                    </div>
+                                                    <div class="form-group">
+
+                                                        <div class="captcha_text_box">
+                                                            <div>
+                                                                <input type="text" class="form-control" placeholder="Captcha Code">
+                                                            </div>
+
+
+                                                        </div>
+                                                        <div class="captcha_code">
+                                                            <img src="../../Content/themes/images/captcha.png" alt="captcha-code">
+                                                        </div>
+                                                        <div class="refresh-btn">
+                                                            <a href="#"><i class="fas fa-redo"></i></a>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <button type="submit" class="btn btn-green btn-block">LogIn</button>
+                                                    </div>
+
+
+
+                                                </form>
+                                            </div>
+
+
+
+                                        </div>
+                                        <div class="tab-pane container fade"
+                                             id="Laboratory">
+                                            
+
+
+                                            <div class="fieldset">
+                                                <form method="POST">
+                                                    <div class="form-group">
+
+                                                        <input type="text" class="form-control" placeholder="User Name">
+                                                    </div>
+                                                    <div class="form-group">
+
+                                                        <input type="password" class="form-control" placeholder="Password">
+                                                    </div>
+                                                    <div class="form-group">
+
+                                                        <div class="captcha_text_box">
+                                                            <div>
+                                                                <input type="text" class="form-control" placeholder="Captcha Code">
+                                                            </div>
+
+
+                                                        </div>
+                                                        <div class="captcha_code">
+                                                            <img src="../../Content/themes/images/captcha.png" alt="captcha-code">
+                                                        </div>
+                                                        <div class="refresh-btn">
+                                                            <a href="#"><i class="fas fa-redo"></i></a>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <button type="submit" class="btn btn-green btn-block">LogIn</button>
+                                                    </div>
+
+
+
+                                                </form>
+                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!--====== LOGIN MODAL =======-->
+
+    <!-- End Footer -->
+    <!--=== JS FILE INCLUDE START ====-->
+
+
+    <script src="../../Content/themes/js/bootstrap.bundle.js"></script>
+    <script src="../../Content/themes/js/fontawesome.js"></script>
+    <!--=====-->
+    
+    <script src="../../Content/themes/js/jquery.magnific-popup.js"></script>
+
+    <script src="../../Scripts/Application.js" type="text/javascript"></script>
+    <script src="../../Scripts/Calculation.js" type="text/javascript"></script>
+        <script src="../../Scripts/datepiker2.js" type="text/javascript"></script>
+    <script src="../../Scripts/datepicker2.js" type="text/javascript"></script>
+    <script src="../../Scripts/spin.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery-migrate-1.4.1.min.js"></script>
+    
+    <link href="../../Content/datepicker.css" rel="stylesheet" type="text/css" />
+    <!-- select2 js file include -->
+    <script src="../../Content/themes/js/select2.min.js"></script>
+    <script src="../../Content/themes/js/custom.js"></script>
+
+    <!--Date Picker-->
+
+    <script type="text/javascript">
+        $(function () {
+            $(".datePicker").datepicker({ showOn: 'both', dateFormat: 'dd/mm/yy' });
+            $(".datePicker-future").datepicker({ showOn: 'both', dateFormat: 'dd/mm/yy', minDate: 0 });
+            $(".datePicker-past").datepicker({ showOn: 'both', dateFormat: 'dd/mm/yy', maxDate: 0 });
+        });
+    </script>
+    <!--=== JS FILE INCLUDE END ====-->
+
+</body>
+</html>
+
+
