@@ -232,7 +232,8 @@ def run_list(ctx, spec, summary, prov):
         except NoStructure:
             raise
         except A.Failure as e:
-            raise Failure('%s: %s' % (out, e))
+            ctx.debug(spec['id'], b)
+            raise Failure('%s: %s [fetched body: %d bytes, sha256 %s]' % (out, e, len(b), sha(b)[:16]))
         except Exception as e:  # noqa: BLE001 (a parser that crashes on a changed layout is a failed run, never a half-written list)
             raise Failure('%s: the parser crashed (%s: %s)' % (out, type(e).__name__, e))
         if not parsed.rows:
