@@ -89,6 +89,7 @@
  ],
  "parse_notes": {
   "section_titles": 108,
-  "name_differs_between_the_pages_tables": 49
+  "name_differs_between_the_pages_tables": 49,
+  "rows_only_in_the_longest_table_copy": 0
  }
 }

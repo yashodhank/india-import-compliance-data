@@ -41,6 +41,23 @@ class BisLayoutChangeTest(unittest.TestCase):
         self.assertNotEqual(html, out, 'the edit changed nothing')
         return out.encode('utf-8')
 
+    def fixture(self):
+        with open(os.path.join(REPO, 'tests', 'fixtures', 'scheme1_copies_2026-10-22.html'), encoding='utf-8') as fh:
+            return fh.read()
+
+    def test_scheme_i_copy_with_rows_the_others_lack_is_the_source_of_truth(self):
+        """Live 2026-10-22: BIS had added IS 1664, IS 5470 and IS 920 to one of the page's three table copies only (799/802/799 rows)."""
+        got = AB.parse_scheme1(self.fixture().encode('utf-8'), 'u', TODAY)
+        self.assertEqual(['IS 12330', 'IS 12600', 'IS 1489 (Part 1)', 'IS 1664', 'IS 5470', 'IS 920'], [r['is_codes'] for r in got.rows])
+        self.assertEqual(3, got.notes['rows_only_in_the_longest_table_copy'])
+
+    def test_scheme_i_copies_that_contradict_each_other_still_fail(self):
+        h = self.fixture()
+        out = h.replace('IS 12600', 'IS 12601', 1)  # the first copy now holds a code the longest copy does not
+        self.assertNotEqual(h, out)
+        with self.assertRaisesRegex(A.Failure, 'different IS numbers'):
+            AB.parse_scheme1(out.encode('utf-8'), 'u', TODAY)
+
     def test_a_row_the_parser_would_skip_is_a_failure_not_a_silent_drop(self):
         body = self.page(ARCHIVES['isi_qco.csv'], lambda h: h.replace('</table>', '<tr><td>9999.</td><td></td><td>Ghost product</td></tr></table>', 1))
         with self.assertRaisesRegex(A.Failure, 'shape'):

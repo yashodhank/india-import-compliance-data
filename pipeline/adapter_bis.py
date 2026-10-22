@@ -37,32 +37,55 @@ def data_rows(t, width, what, sections=False, spacer=blank, widths=None):
     return data, len(body) - len(spacers) - len(secs), secs
 
 
-def other_table_names(ts, data):
-    """The Scheme-I page carries its table three times. The copies must list the same IS codes in the same order (else the page changed shape:
-    Failure). Where the first copy's product name is the other two's with a stray serial digit in front ("6Stainless Steel ..."), theirs is used;
-    any other disagreement (dash glyphs, longer titles) is counted in the parse notes, not guessed at."""
+def table_copies(ts):
+    """The Scheme-I page carries its table three times, and BIS edits them at different moments: on 2026-10-22 one copy (the second) held three new
+    rows (IS 1664, IS 5470, IS 920, the Animal Feeds QCO of 12 Oct 2026) that the other two did not yet have. The copies also word their notification
+    cell and some product names differently, so switching the copy a row is read from would churn the whole file. The rule, chosen deliberately:
+      1. The row SET comes from the copy with the most rows, provided every other copy's IS-number sequence is an in-order subsequence of it (the
+         others are only behind on edits). Anything else (a code the longest copy lacks, or another order) is a real contradiction: Failure.
+      2. A row's TEXT comes from the first copy whenever the first copy has that row (the copy the dataset was always built from); only the rows
+         the first copy lacks are read from the longest copy.
+    Returns (index of the copy that sets the rows, {id(row of that copy): row to read instead}, {id(row to read): corrected name}, number of rows
+    the longest copy has over the shortest). The name is corrected where the first copy's is the other two's with a stray serial digit in front
+    ("6Stainless Steel ..."); any other name disagreement is counted in the parse notes, not guessed at."""
     copies = [[r for r in t[1:] if len(r) == 4 and r[1][0] and r[2][0]] for t in ts[:3]]
     if len(copies) < 3:
-        return {}, 0
-    if not (len(copies[0]) == len(copies[1]) == len(copies[2])) or not all([r[1][0] for r in copies[0]] == [r[1][0] for r in c] for c in copies[1:]):
-        raise Failure('scheme_1: the page\'s three copies of the table list different IS numbers (layout changed?)')
-    names, differs = {}, 0
-    for a, b, c in zip(*copies):
-        if a[2][0] != b[2][0] or a[2][0] != c[2][0]:
+        return 0, {}, {}, 0, 0
+    base = max(range(3), key=lambda i: (len(copies[i]), -i))  # the longest; the first of equals
+    keys = [r[1][0] for r in copies[base]]
+    at = [None] * 3  # at[i][n] = copy i's row for the base copy's n-th row
+    for i, c in enumerate(copies):
+        pos, m = 0, {}
+        for r in c:
+            while pos < len(keys) and keys[pos] != r[1][0]:
+                pos += 1
+            if pos == len(keys):
+                raise Failure('scheme_1: the page\'s three copies of the table list different IS numbers (layout changed?)')
+            m[pos] = r
+            pos += 1
+        at[i] = m
+    use, names, differs = {}, {}, 0
+    for n, brow in enumerate(copies[base]):
+        src = 0 if n in at[0] else base
+        a = at[src][n]
+        if a is not brow:
+            use[id(brow)] = a
+        others = [at[i][n] for i in range(3) if i != src and n in at[i]]
+        if any(a[2][0] != o[2][0] for o in others):
             differs += 1
-            if b[2][0] == c[2][0] and re.fullmatch(r'\d+' + re.escape(b[2][0]), a[2][0]):  # the stray serial digit
-                names[id(a)] = b[2][0]
-    return names, differs
+            if len(others) == 2 and others[0][2][0] == others[1][2][0] and re.fullmatch(r'\d+' + re.escape(others[0][2][0]), a[2][0]):  # the stray serial digit
+                names[id(a)] = others[0][2][0]
+    return base, use, names, differs, len(copies[base]) - min(len(c) for c in copies)
 
 
 def parse_scheme1(body, url, today):
     ts = grid_tables(body, [['sr no', 'is no', 'product']], 'scheme_1')
-    t = ts[0]
+    base, use, names, disagreements, only_in_base = table_copies(ts)
+    t = ts[base]
     out, sec, notif, links = [], '', '', []
     scheme = 'BIS ISI-mandatory QCO (Scheme-I)'
     spacer = lambda r: blank(r) or (len(r) >= 3 and not r[1][0] and not r[2][0])  # noqa: E731 (a blank-looking row between sections)
     data, expected, secs = data_rows(t, 4, 'scheme_1', sections=True, spacer=spacer)
-    names, disagreements = other_table_names(ts, data)
     is_sec = {id(r) for r in secs}
     for r in t[1:]:
         if spacer(r):
@@ -70,6 +93,7 @@ def parse_scheme1(body, url, today):
         if id(r) in is_sec:
             sec, notif, links = clean(r[0][0]), '', []
             continue
+        r = use.get(id(r), r)  # the first copy's text for a row it has
         if not r[1][0] or not r[2][0]:
             raise Failure('scheme_1: row %r has no IS number or no product' % r[0][0][:40])
         if r[3][0]:
@@ -82,7 +106,7 @@ def parse_scheme1(body, url, today):
     if len(set(keys)) != len(keys):
         raise Failure('scheme_1: two rows share one IS code + product name')
     count_check('scheme_1', len(out), expected)
-    return Parsed(out, expected, page_date(body), {'section_titles': len(secs), 'name_differs_between_the_pages_tables': disagreements})
+    return Parsed(out, expected, page_date(body), {'section_titles': len(secs), 'name_differs_between_the_pages_tables': disagreements, 'rows_only_in_the_longest_table_copy': only_in_base})
 
 
 S2_TABLES = [  # table index on the page -> (authority, group). Table 0 is the MeitY CRS list, taken from crsbis.in.
