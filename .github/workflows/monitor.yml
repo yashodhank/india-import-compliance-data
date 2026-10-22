@@ -1,0 +1,60 @@
+name: monitor
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # Direct fetch is free. The paid fallback is used only when a source refuses, and only if the secret exists.
+      - name: Look at every source
+        env:
+          ALTERLAB_API_KEY: ${{ secrets.ALTERLAB_API_KEY }}
+          ALTERLAB_MAX_USD: '0.10'
+        run: python -m pipeline.monitor --report monitor-report.json
+
+      - name: Did a source change?
+        id: diff
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          r = json.load(open('monitor-report.json'))
+          print('changed=' + ('true' if r['changed'] else 'false'))
+          print('ids=' + ','.join(r['changed']))
+          PY
+
+      - name: Start the refresh when a source changed
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          echo "changed: ${{ steps.diff.outputs.ids }}"
+          gh workflow run refresh.yml
+
+      - name: Commit the new state
+        run: |
+          set -euo pipefail
+          git add state/monitor.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "data-monitor"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(monitor): source fingerprints $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
+          git push origin HEAD:main

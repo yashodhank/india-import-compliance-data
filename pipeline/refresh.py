@@ -23,6 +23,7 @@ import sys
 import urllib.request
 
 from pipeline import adapters as A
+from pipeline import fallback as FB
 from pipeline import derived, itchs, qco_register
 from pipeline import refresh_diff as rd
 from pipeline import sources as S
@@ -33,7 +34,8 @@ REVERIFY_DAYS = 28
 RAW_MAX = 2 * 1024 * 1024
 HERE = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_ROOT = os.path.normpath(os.path.join(HERE, '..'))
-PROV_COLS = ['file', 'source_url', 'retrieved_on', 'sha256', 'rows', 'source_rows', 'page_date', 'parser', 'raw_file', 'raw_sha256', 'raw_bytes', 'raw_committed']
+PROV_COLS = ['file', 'source_url', 'retrieved_on', 'sha256', 'rows', 'source_rows', 'page_date', 'parser', 'raw_file', 'raw_sha256', 'raw_bytes', 'raw_committed',
+             'fetch_method', 'fetch_tier', 'fetch_cost_usd']
 
 
 def sha(b):
@@ -106,6 +108,7 @@ class Ctx:
         self.root, self.today, self.offline, self.fetch, self.dry_run = root, today, offline, fetch, dry_run
         self.stage = Stage(root)
         self.prov = {}  # file -> provenance row, per data dir
+        self.meta = {}  # source id -> how it was fetched (fetch_method, fetch_tier, fetch_cost_usd)
 
 
 def fetch_url(url, lang):
@@ -123,8 +126,14 @@ def get_raw(ctx, source_id, url, lang, stem, ext):
         date, path = newest_raw(ctx.root, source_id)
         with open(path, 'rb') as fh:
             return fh.read(), date, os.path.relpath(path, ctx.root), True
-    body = ctx.fetch(fetch_url(url, lang))
+    u = fetch_url(url, lang)
+    body = ctx.fetch(u)
+    ctx.meta[source_id] = (getattr(ctx.fetch, 'info', None) or {}).get(u) or {'fetch_method': 'direct', 'fetch_tier': '', 'fetch_cost_usd': ''}
     return body, ctx.today, 'raw/%s/%s/%s_%s.%s' % (source_id, ctx.today, stem, ctx.today, ext), False
+
+
+def fetch_cols(ctx, source_id):
+    return dict(ctx.meta.get(source_id) or {})
 
 
 def stage_raw(ctx, raw_rel, body, url):
@@ -177,7 +186,7 @@ def run_list(ctx, spec, summary, prov):
     prov[os.path.basename(out)] = {
         'file': os.path.basename(out), 'source_url': spec['url'], 'retrieved_on': date, 'sha256': sha(data), 'rows': len(rows), 'source_rows': parsed.source_rows,
         'page_date': parsed.page_date, 'parser': '%s.%s' % (spec['parse'].__module__, spec['parse'].__name__), 'raw_file': raw_rel, 'raw_sha256': sha(body),
-        'raw_bytes': len(body), 'raw_committed': 'yes' if committed else 'no (url and hash only)'}
+        'raw_bytes': len(body), 'raw_committed': 'yes' if committed else 'no (url and hash only)', **fetch_cols(ctx, spec['id'])}
     return rows
 
 
@@ -215,7 +224,7 @@ def run_bee(ctx, summary, prov):
         committed = True if arch else stage_raw(ctx, rel, body, url)
         prov[os.path.basename(out)] = {'file': os.path.basename(out), 'source_url': url, 'retrieved_on': d, 'sha256': sha(data), 'rows': len(use), 'source_rows': len(use),
                                        'page_date': '', 'parser': 'pipeline.adapter_bee.parse_bee', 'raw_file': rel, 'raw_sha256': sha(body), 'raw_bytes': len(body),
-                                       'raw_committed': 'yes' if committed else 'no (url and hash only)'}
+                                       'raw_committed': 'yes' if committed else 'no (url and hash only)', **fetch_cols(ctx, b[key]['id'])}
 
 
 # ---- ITC(HS) ----------------------------------------------------------------------------------------------------------
@@ -382,10 +391,26 @@ def run_qco(ctx, summary):
 
 # ---- run --------------------------------------------------------------------------------------------------------------
 
-def http_fetch(url, _f=[]):
-    if not _f:
-        _f.append(A.PoliteFetcher())
-    return _f[0](url)
+class LazyFetch:
+    """The network fetcher, built on first use (so an offline run never says anything about the fallback)."""
+
+    def __init__(self):
+        self._f = None
+
+    def __call__(self, url):
+        if self._f is None:
+            self._f = FB.FallbackFetcher()
+        return self._f(url)
+
+    @property
+    def info(self):
+        return self._f.info if self._f else {}
+
+    def stats(self):
+        return self._f.stats() if self._f else None
+
+
+http_fetch = LazyFetch()
 
 
 def run(root, today, offline=False, dry_run=False, fetch=http_fetch):
@@ -406,6 +431,10 @@ def run(root, today, offline=False, dry_run=False, fetch=http_fetch):
         summary['dry_run'] = True
         summary['files_that_would_change'] = sum(1 for rel, b in ctx.stage.files.items() if read_file(root, rel) != b)
         return summary
+    st = getattr(fetch, 'stats', None)
+    st = st() if st else None
+    if st:
+        summary['fallback'] = st
     summary['files_written'] = ctx.stage.commit()
     summary['changed'] = summary['files_written'] > 0
     return summary
@@ -459,6 +488,8 @@ def changelog_entry(summary):
     if it.get('chapters_changed'):
         lines.append('- `data/itchs/2022`: %d chapters changed (%s); %d codes added, %d removed, %d changed.' % (
             len(it['chapters_changed']), ', '.join(it['chapters_changed'][:20]), it['added'], it['removed'], it['changed']))
+    fb = summary.get('fallback') or {}
+    lines.append('Fallback fetches: %d, cost USD %.4f' % (fb.get('count', 0), fb.get('cost_usd', 0.0)))
     q = summary.get('qco') or {}
     if q:
         lines.append('- `data/qco`: %d register records, %d events.' % (q['register'], q['events']))

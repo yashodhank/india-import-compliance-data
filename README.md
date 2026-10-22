@@ -64,6 +64,14 @@ Every CSV is UTF-8, LF line endings, comma separated, with a header row. `schema
 4. a list that is unchanged stays byte-identical; a list that shrinks by more than half is refused;
 5. if anything changed and every assertion and test passed: commit to `main`, add a `CHANGELOG.md` entry and publish a release. If anything failed: open or update an issue and publish nothing.
 
+### Fetching, fallback and change detection
+
+- **Direct fetch is free and always first.** `robots.txt` is checked before any request and always wins: a disallowed path is fetched by no route.
+- **Fallback only on refusal.** If the origin answers 403, 429 or 5xx, or returns a page that needs JavaScript, and the environment variable `ALTERLAB_API_KEY` (a repository secret of the same name) is set, the page is fetched once through a pay-per-success scraping API with a per-request cap. The bytes it returns are archived and hashed like any direct fetch, and `PROVENANCE.csv` records `fetch_method`, `fetch_tier` and `fetch_cost_usd`. Without the key the pipeline fetches directly only and prints `fallback fetcher: not configured` once.
+- **Ceiling.** `ALTERLAB_MAX_USD` (default 0.25) is the most one run may spend; when it is reached the fallback is not used for the rest of the run and the run summary says so. Each refresh entry in `CHANGELOG.md` ends with `Fallback fetches: N, cost USD x.xxxx`.
+- **Change detection.** `.github/workflows/monitor.yml` runs every 6 hours: it fetches each of the 10 source pages by the cheapest route, normalises the body (whitespace, scripts, styles, CSRF tokens, cache-busting query values, copyright year), compares its SHA-256 with `state/monitor.json`, and starts the refresh workflow when one differs. The weekly refresh stays as the safety net.
+- **Cost model.** Direct fetch: free. Fallback: only for a refused source, a fraction of a cent per page. Monitor: at most 12 sources x 4 runs a day, direct unless refused, so zero in the normal case and bounded by its own `ALTERLAB_MAX_USD` (0.10) per run otherwise.
+
 ```
 python -m pipeline.refresh --offline    # rebuild every file from the archived raw copies, no network
 python -m pipeline.refresh              # fetch and rebuild

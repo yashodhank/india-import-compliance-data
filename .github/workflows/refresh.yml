@@ -35,6 +35,9 @@ jobs:
       # The policy lives in the pipeline: a fetch error, a parse failure, a parsed count that differs from the source's own count, or a
       # list that shrinks by more than half exits non-zero and writes nothing. This step is allowed to fail, and nothing after it runs then.
       - name: Fetch, parse, assert, write
+        env:
+          ALTERLAB_API_KEY: ${{ secrets.ALTERLAB_API_KEY }}
+          ALTERLAB_MAX_USD: '0.25'
         run: python -m pipeline.refresh --report refresh-report.json --changelog-md changelog-entry.md
 
       - name: Verify the rebuilt tree (schemas, invariants, golden tests)

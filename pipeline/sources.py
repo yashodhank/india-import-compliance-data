@@ -34,3 +34,11 @@ BEE = dict(
 ITCHS_DIR = 'data/itchs/2022'
 ITCHS_RAW = 'raw/dgft-itchs-2022'
 QCO_DIR = 'data/qco'
+
+
+def source_urls():
+    """[(id, url)] of every page the refresh reads from the web, in the form it is fetched (lang=en where the refresh asks for it)."""
+    sep = lambda u: u + ('&' if '?' in u else '?') + 'lang=en'  # noqa: E731
+    out = [(s['id'], sep(s['url']) if s['lang'] else s['url']) for s in LISTS]
+    out += [(BEE[k]['id'], BEE[k]['url']) for k in ('mandatory', 'voluntary')]
+    return out

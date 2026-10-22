@@ -1,2 +1,2 @@
-file,source_url,retrieved_on,sha256,rows,source_rows,page_date,parser,raw_file,raw_sha256,raw_bytes,raw_committed
-mtcte.csv,https://mtcte.tec.gov.in/filedownload?name=downloadDocument_ProductsList.pdf,2026-10-21,4c5d90c90df8d35cdc17b6b05a34696baae3c1f9290a0edde89ab21c75e78eb9,200,200,,pipeline.adapter_pdf.parse_mtcte,raw/tec-mtcte/2026-10-21/mtcte.tec.gov.in_ProductsList_2026-10-21.pdf,5b8c5cc2cf3cec8a195b1fb9a329447660ac7cc809d175af20884a6ac615c791,448451,yes
+file,source_url,retrieved_on,sha256,rows,source_rows,page_date,parser,raw_file,raw_sha256,raw_bytes,raw_committed,fetch_method,fetch_tier,fetch_cost_usd
+mtcte.csv,https://mtcte.tec.gov.in/filedownload?name=downloadDocument_ProductsList.pdf,2026-10-21,4c5d90c90df8d35cdc17b6b05a34696baae3c1f9290a0edde89ab21c75e78eb9,200,200,,pipeline.adapter_pdf.parse_mtcte,raw/tec-mtcte/2026-10-21/mtcte.tec.gov.in_ProductsList_2026-10-21.pdf,5b8c5cc2cf3cec8a195b1fb9a329447660ac7cc809d175af20884a6ac615c791,448451,yes,,,

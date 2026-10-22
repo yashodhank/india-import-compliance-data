@@ -79,6 +79,21 @@
    "name": "raw_committed",
    "type": "string",
    "description": ""
+  },
+  {
+   "name": "fetch_method",
+   "type": "string",
+   "description": "direct, or alterlab when the origin refused the direct fetch; empty on rows written before this column existed"
+  },
+  {
+   "name": "fetch_tier",
+   "type": "string",
+   "description": "scraping tier used by the fallback; empty for a direct fetch"
+  },
+  {
+   "name": "fetch_cost_usd",
+   "type": "number",
+   "description": "cost of the fallback fetch in US dollars; empty for a direct fetch"
   }
  ],
  "missingValues": [
