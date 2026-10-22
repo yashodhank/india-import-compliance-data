@@ -35,6 +35,8 @@ CANDS = 'data/derived/hs-scheme-candidates.csv'
 LISTS = {'data/bis/crs.csv': ('bis_crs', 'BIS-CRS'), 'data/bis/scheme_ii_other.csv': ('bis_crs', 'BIS-CRS'),
          'data/bis/scheme_x.csv': ('bis_scheme_x', 'BIS-SCHEME-X'), 'data/bis/scheme_iv.csv': ('other_condition', 'BIS-SCHEME-IV'),
          'data/bis/option2.csv': ('bis_isi_qco', 'BIS-ISI-OPT2')}
+STEEL = 'data/hs-links/steel-qco-hs-columns.csv'
+APP3 = 'data/hs-links/appendix3-bis.csv'
 CRS_GENERIC = 'compulsory-registration-scheme-crs'
 SO = re.compile(r'S\.?\s?O\.?\s*(?:No\.?)?\s*\d+\s*\(\s*E\s*\)', re.I)
 IS_RE = re.compile(r'\bIS(?:/(?:IEC|ISO))?\s*:?\s*(\d{2,6})(?!\d)')
@@ -117,7 +119,7 @@ def _date(s):
 def build(root=REPO, files=None):
     """-> {'rows','csv','json','report'}. `files` optionally overrides repo files by relative path (bytes), as the refresh stage does."""
     files = files or {}
-    raw = {rel: _read(root, rel, files) for rel in [ITC, CHAP, REG, EVENTS, PRODUCTS, CANDS] + sorted(LISTS) + [
+    raw = {rel: _read(root, rel, files) for rel in [ITC, CHAP, REG, EVENTS, PRODUCTS, CANDS, STEEL, APP3] + sorted(LISTS) + [
         'data/bis/isi_qco.csv', 'data/bis/qco_upcoming.csv']}
     sha = {rel: _sha(b) for rel, b in raw.items()}
     itc = [r for r in _csv(raw[ITC]) if r['level'] == '8']
@@ -171,6 +173,11 @@ def build(root=REPO, files=None):
             for b in is_bases(r['is_codes']):
                 index[b].append({'parts': _parts(r['is_codes']), 'kind': 'list', 'type': typ, 'doc': doc, 'name': r['product_name'], 'file': rel, 'row': r, 'n': n,
                                  'slug': CRS_GENERIC if rel == 'data/bis/crs.csv' else ''})
+
+    app3 = collections.defaultdict(list)
+    for a in _csv(raw[APP3]):
+        for b, pt in is_refs(a['is_code']):
+            app3[b].append({'serial': a['serial'], 'parts': {b: {pt}} if pt else {}})
 
     out, seen = [], set()
     stats = collections.Counter()
@@ -232,6 +239,12 @@ def build(root=REPO, files=None):
             for ref in is_refs(t):
                 ib = ref[0]
                 official_is.add(hs)
+                for e in _compatible(ref, app3.get(ib, [])):
+                    add(**base, source_file=ITC + (';' + CHAP if b != 'row condition' else '') + ';' + APP3,
+                        source_sha256=sha[ITC] + (';' + sha[CHAP] if b != 'row condition' else '') + ';' + sha[APP3], measure_type='bis_isi_qco',
+                        measure_value='IS %s' % ib, condition_text=t, document_code='BIS-APP3',
+                        legal_ref='ITC(HS) 2022 Schedule 1, Appendix III, serial %s' % e['serial'], valid_from=nd,
+                        basis='%s: names IS %s; Appendix III serial %s' % (b, ib, e['serial']))
                 hits = _compatible(ref, index.get(ib, []))
                 src = ITC + (';' + CHAP if b != 'row condition' else '')
                 srcsha = sha[ITC] + (';' + sha[CHAP] if b != 'row condition' else '')
@@ -280,6 +293,23 @@ def build(root=REPO, files=None):
                         if h['slug']:
                             mapped_slugs[h['slug']].add(hs)
 
+    # HS column printed in the 2020 Steel QCO gazette PDFs
+    itc_codes = {r['hs_code']: r for r in itc}
+    steel_missing = set()
+    for st in _csv(raw[STEEL]):
+        r = itc_codes.get(st['hs_code'])
+        if not r:
+            steel_missing.add(st['hs_code'])
+            continue
+        f = qco_facts(st['qco_slug'])
+        pages = st['pages'].replace(';', ', ')
+        add(hs8=st['hs_code'], as_of=r['as_of'], confidence='official', status=f['status'], source_file=STEEL + ';' + REG,
+            source_sha256=sha[STEEL] + ';' + sha[REG], measure_type='bis_isi_qco', measure_value=f['title'], document_code='BIS-ISI',
+            legal_ref=st['so_number'] + ' (HS column); the QCO register lists the order as in force under later S.O. numbers',
+            valid_from=st['order_date'], valid_to='', qco_slug=st['qco_slug'],
+            basis='QCO %s HS column, page%s %s' % (st['so_number'], 's' if ';' in st['pages'] else '', pages))
+        mapped_slugs[st['qco_slug']].add(st['hs_code'])
+
     # keyword candidates: only where no explicit IS tie or named system already describes the code
     named_ims = {m['hs8'] for m in out if m['measure_type'] == 'import_monitoring'}
     for c in _csv(raw[CANDS]):
@@ -316,8 +346,9 @@ def build(root=REPO, files=None):
         'qco_records': len(register), 'qco_mapped_to_hs': len(mapped), 'qco_unmapped_to_hs': unmapped,
         'is_named_in_itchs_but_on_no_bis_list': stats['is_named_unmatched'], 'chapter_condition_refs_not_found': stats['chapter_condition_not_found'],
         'note': 'A BIS measure is attached to an HS code only where the ITC(HS) text for that code (or the chapter policy condition it cites) '
-                'names an IS number carried by a BIS list. No official text held in this repository ties the other QCOs, or any TEC MTCTE, '
+                'names an IS number carried by a BIS list or by DGFT Appendix III, or where the HS column of the 2020 Steel QCO gazette PDFs prints the code. No official text held in this repository ties the other QCOs, or any TEC MTCTE, '
                 'BEE or CRS entry, to an HS code, so those are unmapped, not absent.',
+        'steel_hs_columns_not_in_itchs': sorted(steel_missing),
         'lists_with_no_hs_link': ['data/tec/mtcte.csv', 'data/bee/mandatory.csv', 'data/bee/voluntary.csv'],
     }
     return {'rows': out, 'csv': buf.getvalue().encode('utf-8'),

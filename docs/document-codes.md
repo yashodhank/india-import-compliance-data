@@ -7,6 +7,7 @@
 | `BIS-ISI` | BIS Scheme I: ISI-mark certification under a Quality Control Order that is in force or withdrawn | `bis_isi_qco` |
 | `BIS-ISI-UPCOMING` | As `BIS-ISI`, for a QCO that is notified and not yet enforced (`status=upcoming`, `valid_from` is the enforcement date) | `bis_upcoming_qco` |
 | `BIS-ISI-OPT2` | BIS Option-2 (simplified procedure) list | `bis_isi_qco` |
+| `BIS-APP3` | DGFT Import Policy Appendix III: items under mandatory BIS certification for import, listed by IS number (no HS codes); used where the ITC(HS) text names the IS number | `bis_isi_qco` |
 | `BIS-CRS` | BIS Compulsory Registration Scheme (Scheme II), including the non-MeitY Scheme II list | `bis_crs` |
 | `BIS-SCHEME-X` | BIS Scheme X: electrical equipment type testing | `bis_scheme_x` |
 | `BIS-SCHEME-IV` | BIS Scheme IV: essential-requirement or input-material certification | `other_condition` |

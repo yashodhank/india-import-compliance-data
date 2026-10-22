@@ -102,7 +102,7 @@ class MeasuresTest(unittest.TestCase):
         itc = {r['hs_code']: r for r in HS8}
         chap = rows('data/itchs/2022/chapter-conditions.csv')
         for m in M:
-            if m['measure_type'] in ('bis_isi_qco', 'bis_crs', 'bis_scheme_x', 'bis_upcoming_qco') and m['confidence'] == 'official':
+            if m['measure_type'] in ('bis_isi_qco', 'bis_crs', 'bis_scheme_x', 'bis_upcoming_qco') and m['confidence'] == 'official' and not m['basis'].startswith('QCO S.O.'):
                 base = re.search(r'\d+', m['measure_value']).group(0)
                 text = itc[m['hs8']]['condition_text'] + ' ' + ' '.join(c['text'] for c in chap if c['chapter'] == m['hs8'][:2])
                 self.assertIn(base, measures.is_bases(text), m)
@@ -122,6 +122,41 @@ class MeasuresTest(unittest.TestCase):
         pol = [m for m in phone if m['measure_type'] == 'import_policy']
         self.assertEqual(1, len(pol))
         self.assertEqual('54/2015-2020', pol[0]['legal_ref'])
+
+    def test_steel_hs_columns_become_measures(self):
+        steel = rows('data/hs-links/steel-qco-hs-columns.csv')
+        itc8 = {r['hs_code'] for r in HS8}
+        have = {(m['hs8'], m['legal_ref'].split(' (')[0]) for m in M if m['basis'].startswith('QCO S.O.')}
+        want = {(r['hs_code'], r['so_number']) for r in steel if r['hs_code'] in itc8}
+        self.assertEqual(want, have)
+        for m in M:
+            if m['basis'].startswith('QCO S.O.'):
+                self.assertEqual('bis_isi_qco', m['measure_type'])
+                self.assertEqual('BIS-ISI', m['document_code'])
+                self.assertEqual('steel-and-steel-products-quality-control-order-2020', m['qco_slug'])
+                self.assertIn('HS column, page', m['basis'])
+        self.assertEqual(sorted({r['hs_code'] for r in steel} - itc8), REPORT['steel_hs_columns_not_in_itchs'])
+
+    def test_appendix3_is_an_additional_basis_where_the_text_names_the_is(self):
+        app = {r['serial']: r for r in rows('data/hs-links/appendix3-bis.csv')}
+        got = [m for m in M if m['document_code'] == 'BIS-APP3']
+        self.assertTrue(got)
+        for m in got:
+            n = re.search(r'Appendix III serial (\d+)', m['basis']).group(1)
+            self.assertIn(re.search(r'\d+', m['measure_value']).group(0), measures.is_bases(app[n]['is_code']))
+            self.assertTrue(m['legal_ref'])
+
+    def test_hs_link_inputs_are_archived_and_hashed(self):
+        import hashlib
+        for p in rows('data/hs-links/PROVENANCE.csv'):
+            data = open(os.path.join(REPO, 'data/hs-links', p['file']), 'rb').read()
+            self.assertEqual(p['sha256'], hashlib.sha256(data).hexdigest())
+            files, shas, flags = p['raw_file'].split(' ; '), p['raw_sha256'].split(' ; '), p['raw_committed'].split(' ; ')
+            self.assertEqual(len(files), len(shas))
+            for f, h, c in zip(files, shas, flags):
+                self.assertRegex(h, r'^[0-9a-f]{64}$')
+                if c == 'yes':
+                    self.assertEqual(h, hashlib.sha256(open(os.path.join(REPO, f), 'rb').read()).hexdigest())
 
     def test_json_matches_csv(self):
         j = json.load(open(os.path.join(REPO, 'data/measures/measures.json'), encoding='utf-8'))

@@ -1,0 +1,50 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "appendix3-bis",
+ "title": "DGFT Appendix III: IS numbers under mandatory BIS certification for import (no HS codes)",
+ "fields": [
+  {
+   "name": "serial",
+   "type": "integer",
+   "description": "Serial in Appendix III",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "is_code",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "description",
+   "type": "string",
+   "description": "",
+   "constraints": {}
+  },
+  {
+   "name": "section",
+   "type": "string",
+   "description": "",
+   "constraints": {}
+  },
+  {
+   "name": "notes",
+   "type": "string",
+   "description": "",
+   "constraints": {}
+  },
+  {
+   "name": "source_page",
+   "type": "integer",
+   "description": "",
+   "constraints": {}
+  }
+ ],
+ "missingValues": [
+  ""
+ ]
+}

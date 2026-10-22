@@ -1,0 +1,84 @@
+serial,is_code,description,section,notes,source_page
+1,IS 1165,Milk powder,I,,1
+2,IS 1166,"Condensed milk, partly skimmed and skimmed condensed milk",I,,1
+3,IS 1656,Milk-cereal based weaning foods,I,,1
+4,IS 11536,Processed cereal based complementary foods for infants,I,,1
+5,IS 12176,Sweetened ultra high temperature treated condensed milk,I,,1
+6,IS 13334(Part 1),"Skimmed milk powder, standard grade",I,,1
+7,IS 13334(Part 2),"Skimmed milk powder, extra grade",I,,1
+8,IS 14542,Partly skimmed milk powder,I,,1
+9,IS 14433,"(Part Infant milk substitute, milk protein based 1)",I,,1
+10,IS 13428,Packaged Natural Mineral Water,I,,1
+11,IS 14543,Packaged Drinking Water (Other than Packaged Natural Mineral Water),I,,1
+12,IS 15757,Follow –up – formula- Complimentary Food-Specification,I,,1
+13,IS 269,33 Grade Ordinary Portland cement,II,,2
+14,IS 455,Portland Slag cement,II,,2
+15,IS 1489 (Pt 1),Portland pozzolana cement - Part 1 Fly Ash based,II,,2
+16,IS 1489 (Pt 2),Portland pozzolana cement – Part 2 Calcined Clay based,II,,2
+17,IS 3466,Masonry cement,II,,2
+18,IS 6452,High alumina cement for structural use,II,,2
+19,IS 6909,Super sulphated cement,II,,2
+20,IS 8041,Rapid hardening Portland cement,II,,2
+21,IS 8042,White Portland Cement,II,,2
+22,IS 8043,Hydrophobic Portland Cement,II,,2
+23,IS 8112,43 Grade Ordinary Portland cement,II,,2
+24,IS 8229,Oil well cement,II,,2
+25,IS 12269,53 Grade Ordinary Portland cement,II,,2
+26,IS 12330,Sulphate resisting Portland cement,II,,2
+27,IS 12600,Low heat Portland Cement,II,,2
+28,IS 302,(Pt2/Sec Safety of household and similar electrical appliances -Electric Iron 3),III,,2
+29,IS 302,(Pt2/Sec Safety of household and similar electrical appliances- Electric radiators 30),III,,2
+30,IS 302,(Pt2/Sec Safety of household and similar electrical appliances - Electric immersion water,III,,2
+31,IS 302,(Pt2/Sec Safety of household and similar electrical appliances - Electric stove Appendix - III,III,,2
+32,IS 418,Tungsten filament general service electric lamps (upto 100 W),III,,3
+33,IS 694,PVC insulated cables for working Voltages upto and including 1100 V,III,,3
+34,IS 3854,Switches for domestic and similar purposes,III,,3
+35,IS 8828,Electrical Accessories - Circuit Breakers for over current protection for household and similar installations,III,,3
+36,IS 9968 (Pt.1),Elastomer insulated cables (Pt.1): For working voltages upto and including 1100 V,III,,3
+37,IS 12640 (Pt.1),Residual current operated circuit breakers for household and similar uses - (Pt.1) : Circuit breakers without integral overcurrent protection (RCCBs),III,,3
+38,IS 12640 (Pt.2),Residual current operated circuit breakers for household and similar uses - (Pt.2): Circuit breakers with integral overcurrent protection (RCVOs),III,,3
+39,IS 13010,"AC Watt-hour meters, class 0.5, 1 & 2",III,,3
+40,IS 13779,"ac static watt-hour meters, class 1 & 2",III,,3
+41,IS 14697,"ac static transformer operated watt-hour and VAR- hour meters, class 0.2S & 0.5S",III,,3
+42,IS 15111,(Pt1 & Self ballasted lamps for general lighting services Part 1 Safety requirements and Pt 2) Part 2 Performance requirements,III,,3
+43,IS 8144,Multipurpose dry batteries,IV,,3
+44,IS 3055(Part 1),Clinical Thermometers: Part 1 Solid Stem Type,V,,3
+45,IS 3055(Part 2),Clinical Thermometers: Part 2 Enclosed Scale Type Appendix - III,V,,3
+46,IS 1161,Steel tubes for structural purposes,VI,,4
+47,IS 1239(Pt1),"Mild steel tubes, tubular products and other wrought steel fittings: Part 1 Mild Steel Tubes",VI,,4
+48,IS 4270,Steel tubes used for water wells (upto 200 mm dia),VI,,4
+49,IS 1342,Oil pressure stoves,VII,,4
+50,IS 2787,Multi-burner oil pressure stoves,VII,,4
+51,IS 10109,"Oil pressure stove, offset burner type",VII,,4
+52,IS 3470,"Hexane, Food grade Appendix - III",VIII,,4
+53,IS 3196 (Pt 1),Welded low carbon steel gas cylinder exceeding 5 litre water capacity for low pressure liquefiable gases: Pt1 Cylinders for liquefied petroleum gas (LPG),IX,,5
+54,IS 3196 (Pt 2),Welded low carbon steel gas cylinder exceeding 5-litre water capacity for low-,IX,,5
+55,IS 3196 (Part 4),Welded low carbon steel cylinders exceeding 5 litre Water capacity for low gases,IX,,5
+56,IS 3224,Valve fittings for compressed gas cylinder excluding liquefied petroleum gas cylinders,IX,,5
+57,IS 3745,** Yoke type valve connections for small medical gas cylinders,IX,,5
+58,IS 7142,Welded low carbon steel gas cylinder for low pressure liquefiable gases not exceeding 5 litre water capacity,IX,,5
+59,IS 7285 (Part 1),Refillable Seamless steel gas cylinders – Specification – Part 1: Normalized,IX,,5
+60,IS 7285 (Part 2),Refillable Seamless steel gas cylinders – Specification – Part 2: Quenched and kgf/mm2),IX,,5
+61,IS 7302,Valve fittings for gas cylinder valves for use with breathing apparatus,IX,,5
+62,IS 7312,Welded and seamless steel dissolved acetylene gas cylinders,IX,,5
+63,IS 8737,Valve fittings for use with liquefied petroleum gas cylinders of more than 5 litre water capacity: Pt 2 Valve fittings for newly manufactured LPG cylinders,IX,,5
+64,IS 8776,Valve fittings for use with liquefied petroleum gas cylinder up to and including 5 litre water capacity,IX,,5
+65,IS 9798,Low pressure regulators for use with liquefied petroleum gas (LPG) mixtures,IX,,5
+66,IS 14899,Liquefied petroleum gas containers for automotive use,IX,,5
+67,IS 15100,Multifunction valve assembly for permanently fixed liquefied petroleum gas (LPG) containers for automotive use,IX,,5
+68,IS 7620(Pt1),Diagnostic Medical X-Ray Equipment Appendix - III,X,,5
+69,IS 14625,Plastic Feeding Bottles,XI,,6
+70,IS 10001,Constant speed compression ignition (diesel) engines for general purposes (up to 20 KW),XII,,6
+71,IS 1785(Part 1),Specification for plain hard-drawn steel wire for pre-stressed concrete; Part 1 Appendix - III Cold-drawn stress relieved wire.,XIII,,6
+72,IS 1785(Part 2),Specification for plain hard-drawn steel wire for pre-stressed concrete; Part 2 as drawn wire.,XIII,,7
+73,IS 6003,Specification for indented wire for pre-stressed concrete.,XIII,,7
+74,IS 6006,Specification for uncoated stress relieved strand for pre-stressed concrete.,XIII,,7
+75,IS 13620,Specification for fusion bonded epoxy coated reinforcing bars.,XIII,,7
+76,IS 14268,Specification for uncoated stress relieved low relaxation seven ply strand for pre-stressed concrete.,XIII,,7
+77,IS 277,Galvanized steel sheets (plain and corrugated).,XIV,,7
+78,IS 8329,"Centrifugally cast (Spun) Ductile Iron Pressure pipes for Water , Gas and Sewage",XV,,8
+79,IS 9523,"Ductile Iron Fittings for Pressure Pipes for Water, Gas and Sewage",XV,,8
+80,IS 15627,Automotive Vehicles – Pneumatic Tyres for two and three-wheeled motor Vehicles,XVI,,8
+81,IS 15633,Automotive Vehicles – Pneumatic Tyres for passenger car vehicles – Diagonal and radial ply,XVI,,8
+82,IS 15636,Automotive Vehicles - Pneumatic Tyres for commercial vehicles – Diagonal and radial ply,XVI,,8
+83,IS 13098,Automotive Vehicles - Tubes for Pneumatic Tyres,XVI,,8

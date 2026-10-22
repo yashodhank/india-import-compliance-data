@@ -123,6 +123,9 @@
   "data/itchs/2022/ch96.csv": "itchs-rows",
   "data/itchs/2022/ch97.csv": "itchs-rows",
   "data/itchs/2022/ch98.csv": "itchs-rows",
-  "data/measures/measures.csv": "measures"
+  "data/measures/measures.csv": "measures",
+  "data/hs-links/steel-qco-hs-columns.csv": "steel-qco-hs-columns",
+  "data/hs-links/appendix3-bis.csv": "appendix3-bis",
+  "data/hs-links/PROVENANCE.csv": "provenance"
  }
 }

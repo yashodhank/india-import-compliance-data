@@ -2,7 +2,7 @@
   "name": "india-import-compliance-data",
   "title": "India import compliance data",
   "description": "What approval applies to a product at import into India: ITC(HS) 2022 import policy and conditions, BIS, TEC and BEE compulsory lists, a QCO register with Gazette hashes. Not a trade-statistics dataset.",
-  "version": "v2026.10.24",
+  "version": "v2026.10.24.1",
   "homepage": "https://github.com/yashodhank/india-import-compliance-data",
   "keywords": [
     "India",
@@ -1093,6 +1093,236 @@
             "description": "",
             "constraints": {
               "required": true
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "hs-links-provenance",
+      "title": "Provenance of a published CSV",
+      "path": "data/hs-links/PROVENANCE.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "file",
+            "type": "string",
+            "description": "",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "source_url",
+            "type": "string",
+            "description": "",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "retrieved_on",
+            "type": "date",
+            "description": "",
+            "constraints": {
+              "required": true,
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            }
+          },
+          {
+            "name": "sha256",
+            "type": "string",
+            "description": "sha256 of the published CSV",
+            "constraints": {
+              "required": true,
+              "pattern": "^[0-9a-f]{64}$"
+            }
+          },
+          {
+            "name": "rows",
+            "type": "integer",
+            "description": "",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "source_rows",
+            "type": "integer",
+            "description": "Rows the source itself counts; equals rows"
+          },
+          {
+            "name": "page_date",
+            "type": "string",
+            "description": "\"Last updated\" date the page prints, if any"
+          },
+          {
+            "name": "parser",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "raw_file",
+            "type": "string",
+            "description": "Path of the archived raw copy"
+          },
+          {
+            "name": "raw_sha256",
+            "type": "string",
+            "description": "sha256 of the raw copy"
+          },
+          {
+            "name": "raw_bytes",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "raw_committed",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "fetch_method",
+            "type": "string",
+            "description": "direct, or alterlab when the origin refused the direct fetch; empty on rows written before this column existed"
+          },
+          {
+            "name": "fetch_tier",
+            "type": "string",
+            "description": "scraping tier used by the fallback; empty for a direct fetch"
+          },
+          {
+            "name": "fetch_cost_usd",
+            "type": "number",
+            "description": "cost of the fallback fetch in US dollars; empty for a direct fetch"
+          }
+        ],
+        "primaryKey": [
+          "file"
+        ]
+      }
+    },
+    {
+      "name": "hs-links-appendix3-bis",
+      "title": "DGFT Appendix III: IS numbers under mandatory BIS certification for import (no HS codes)",
+      "path": "data/hs-links/appendix3-bis.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "serial",
+            "type": "integer",
+            "description": "Serial in Appendix III",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "is_code",
+            "type": "string",
+            "description": "",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "description",
+            "type": "string",
+            "description": "",
+            "constraints": {}
+          },
+          {
+            "name": "section",
+            "type": "string",
+            "description": "",
+            "constraints": {}
+          },
+          {
+            "name": "notes",
+            "type": "string",
+            "description": "",
+            "constraints": {}
+          },
+          {
+            "name": "source_page",
+            "type": "integer",
+            "description": "",
+            "constraints": {}
+          }
+        ]
+      }
+    },
+    {
+      "name": "hs-links-steel-qco-hs-columns",
+      "title": "HS codes printed in the HS column of the three 2020 Steel QCO gazette PDFs",
+      "path": "data/hs-links/steel-qco-hs-columns.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "hs_code",
+            "type": "string",
+            "description": "8-digit code as printed",
+            "constraints": {
+              "required": true,
+              "pattern": "^\\d{8}$"
+            }
+          },
+          {
+            "name": "qco_slug",
+            "type": "string",
+            "description": "Key into data/qco/register.csv",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "so_number",
+            "type": "string",
+            "description": "S.O. number of the order the PDF carries",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "order_date",
+            "type": "date",
+            "description": "",
+            "constraints": {
+              "required": true,
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            }
+          },
+          {
+            "name": "pages",
+            "type": "string",
+            "description": "PDF pages where the code is printed, semicolon-separated",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "source_url",
+            "type": "string",
+            "description": "",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "raw_sha256",
+            "type": "string",
+            "description": "SHA-256 of the PDF",
+            "constraints": {
+              "required": true,
+              "pattern": "^[0-9a-f]{64}$"
             }
           }
         ]

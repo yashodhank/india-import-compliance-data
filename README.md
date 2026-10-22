@@ -38,7 +38,7 @@ The licence column is as stated by each project when this section was written; c
 | BEE star-label lists | `data/bee/mandatory.csv`, `voluntary.csv` | 19 + 23 | BEE |
 | QCO register (order, S.O. number, dates, IS codes, state, Gazette PDF hash) | `data/qco/register.csv`, `register.json`, `events.csv`, `products.csv` | 311 records | derived from the BIS lists and the Gazette |
 | HS to scheme candidates | `data/derived/hs-scheme-candidates.csv` | 402 | derived from the ITC(HS) condition text |
-| Measures: one row per (8-digit code, measure) | `data/measures/measures.csv`, `measures.json`, `BUILD-REPORT.json` | 15,996 | derived from the tables above |
+| Measures: one row per (8-digit code, measure) | `data/measures/measures.csv`, `measures.json`, `BUILD-REPORT.json` | 16,900 | derived from the tables above |
 
 Each data directory has a `PROVENANCE.csv`: source URL, retrieval date, row count, the source's own row count (the two must be equal or the run fails), SHA-256 of the published file and of the raw copy under `raw/`.
 
@@ -54,6 +54,8 @@ The HS to scheme file is **candidates only**: a keyword match on the official co
 - `bis_isi_qco`, `bis_upcoming_qco`, `bis_crs`, `bis_scheme_x`: a BIS measure is attached to a code **only** where the ITC(HS) text for that code (or the chapter condition it cites) names an IS number that a BIS list also carries. `legal_ref` is the S.O. number from the QCO register; `qco_slug` keys into `data/qco/register.csv`.
 - `other_condition`: a named standard that no BIS list carries (`BIS-STD`), and keyword **candidates** (`confidence=candidate`, `basis` starts with "candidate"). A candidate points to where a rule may apply; it is not a determination.
 - `document_code` is a short stable code for the certificate (`BIS-ISI`, `BIS-CRS`, `TEC-MTCTE`, `BEE-LABEL`, `DGFT-LIC`, `SIMS`, ...), defined in `docs/document-codes.md`. `status` is `in_force`, `upcoming` or `withdrawn`; a blank `valid_to` means open. `source_file` and `source_sha256` name the repository files a row came from.
+
+BIS measures also come from two further official inputs in `data/hs-links/`: the HS column printed in the three 2020 Steel QCO gazette PDFs (basis "QCO S.O. ... HS column, page N"), and DGFT Appendix III, which lists IS numbers without HS codes and is used as an additional basis ("Appendix III serial N") where the ITC(HS) text names the IS number.
 
 **What it does not do.** No official text held here ties the TEC MTCTE list, the BEE lists, the CRS list as a whole, or most QCOs to an HS code: those lists are by product name. They are therefore not joined to codes, and `data/measures/BUILD-REPORT.json` lists the QCO register records that are unmapped (`qco_unmapped_to_hs`). Absent from `measures.csv` means "not tied to this code by an official text we hold", not "does not apply".
 

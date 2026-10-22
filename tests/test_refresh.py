@@ -48,6 +48,7 @@ class RefreshTest(unittest.TestCase):
         os.makedirs(os.path.join(self.root, 'data', 'qco'))
         shutil.copy(os.path.join(REPO, 'data', 'qco', 'gazette-pdf-hashes.csv'), os.path.join(self.root, 'data', 'qco'))
         shutil.copytree(os.path.join(REPO, 'data', 'hs6'), os.path.join(self.root, 'data', 'hs6'))  # a static input, not rebuilt from raw/
+        shutil.copytree(os.path.join(REPO, 'data', 'hs-links'), os.path.join(self.root, 'data', 'hs-links'))  # static inputs imported once by pipeline.hs_links
         rf.run(self.root, '2026-10-22', offline=True)
         got = tree(self.root)
         self.assertEqual(sorted(want), sorted(got))

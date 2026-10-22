@@ -1,0 +1,69 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "steel-qco-hs-columns",
+ "title": "HS codes printed in the HS column of the three 2020 Steel QCO gazette PDFs",
+ "fields": [
+  {
+   "name": "hs_code",
+   "type": "string",
+   "description": "8-digit code as printed",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{8}$"
+   }
+  },
+  {
+   "name": "qco_slug",
+   "type": "string",
+   "description": "Key into data/qco/register.csv",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "so_number",
+   "type": "string",
+   "description": "S.O. number of the order the PDF carries",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "order_date",
+   "type": "date",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  },
+  {
+   "name": "pages",
+   "type": "string",
+   "description": "PDF pages where the code is printed, semicolon-separated",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "source_url",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "raw_sha256",
+   "type": "string",
+   "description": "SHA-256 of the PDF",
+   "constraints": {
+    "required": true,
+    "pattern": "^[0-9a-f]{64}$"
+   }
+  }
+ ],
+ "missingValues": [
+  ""
+ ]
+}
