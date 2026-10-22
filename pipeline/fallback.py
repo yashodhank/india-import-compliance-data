@@ -17,6 +17,8 @@ import urllib.request
 from pipeline import adapters as A
 
 Failure = A.Failure
+from pipeline.adapters import USER_AGENT  # the same agent string the direct fetches send
+
 ENDPOINT = 'https://alterlab.io/api/v1/scrape'
 KEY_ENV, MAX_ENV, DEFAULT_MAX_USD = 'ALTERLAB_API_KEY', 'ALTERLAB_MAX_USD', 0.25
 NOT_CONFIGURED = 'fallback fetcher: not configured'
@@ -67,8 +69,11 @@ def looks_js_only(body, url):
 
 
 def _post(payload, key, timeout):
+    # The API's edge answers 403 to the default urllib User-Agent (every fallback call from the runner on 2026-10-22 was
+    # refused unpaid); the project's own agent string is accepted.
     req = urllib.request.Request(ENDPOINT, data=json.dumps(payload).encode(), method='POST',
-                                 headers={'X-API-Key': key, 'Content-Type': 'application/json', 'Accept': 'application/json'})
+                                 headers={'X-API-Key': key, 'Content-Type': 'application/json', 'Accept': 'application/json',
+                                          'User-Agent': USER_AGENT})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:  # noqa: S310 (fixed https endpoint)
             return r.status, json.loads(r.read().decode('utf-8', 'replace') or '{}')
