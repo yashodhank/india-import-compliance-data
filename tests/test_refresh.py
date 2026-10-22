@@ -119,3 +119,42 @@ class OnlineChangeTest(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class StaleSourceTest(unittest.TestCase):
+    def test_an_unfetchable_source_keeps_its_last_good_file_and_is_reported_stale(self):
+        root = clone()
+        self.addCleanup(shutil.rmtree, root, True)
+        spec = next(x for x in rf.S.LISTS if x['out'] == 'data/bis/isi_qco.csv')
+        before = tree(root)
+
+        def fetch(url):
+            raise rf.Failure('HTTP 403 from %s' % url)
+        ctx = rf.Ctx(root, '2026-10-29', False, fetch, False)
+        summary = {'lists': {}}
+        prov = {}
+        rows = rf.run_list(ctx, spec, summary, prov)
+        self.assertEqual(len(rf.read_rows(root, spec['out'])), len(rows))
+        self.assertEqual('data/bis/isi_qco.csv', summary['stale'][0]['file'])
+        self.assertIn('HTTP 403', summary['stale'][0]['reason'])
+        self.assertFalse(rf.rd.changed(summary['lists'][spec['out']]))
+        self.assertEqual({}, ctx.stage.files)
+        self.assertEqual(before, tree(root))
+        entry = rf.changelog_entry(dict(summary, date='2026-10-29'))
+        self.assertIn('STALE since', entry)
+        self.assertNotIn('Re-verified; no list changed', entry)
+
+    def test_a_source_with_no_last_good_file_is_a_failure_and_contradictory_data_still_fails(self):
+        root = tempfile.mkdtemp(prefix='icd-')
+        self.addCleanup(shutil.rmtree, root, True)
+        spec = next(x for x in rf.S.LISTS if x['out'] == 'data/bis/isi_qco.csv')
+
+        def fetch(url):
+            raise rf.Failure('HTTP 403')
+        with self.assertRaises(rf.Failure):
+            rf.run_list(rf.Ctx(root, '2026-10-29', False, fetch, False), spec, {'lists': {}}, {})
+        fetched = lambda url: b'<html><body><table><tr><th>Sr No.</th></tr></table></body></html>'  # noqa: E731 (a page that parses to nothing known)
+        root2 = clone()
+        self.addCleanup(shutil.rmtree, root2, True)
+        with self.assertRaises(rf.Failure):
+            rf.run_list(rf.Ctx(root2, '2026-10-29', False, fetched, False), spec, {'lists': {}}, {})

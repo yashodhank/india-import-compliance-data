@@ -156,10 +156,26 @@ def prov_write(ctx, rel, prov):
     ctx.stage.put(rel, csv_bytes(PROV_COLS, [prov[k] for k in sorted(prov)]))
 
 
+def keep_stale(ctx, summary, source_id, out, err):
+    """A source that cannot be fetched (robots, a block that the paid fallback also failed, a dead host) keeps its last good file and is reported as
+    stale; the other sources go on. Only data that is fetched but contradictory or unparseable fails the run (nothing written). With no last good file
+    there is nothing to keep, so that is a failure too."""
+    current = read_rows(ctx.root, out)
+    if current is None or ctx.offline:
+        raise err
+    since = max(r['retrieved_on'] for r in current)
+    summary.setdefault('stale', []).append({'file': out, 'source': source_id, 'since': since, 'reason': str(err)[:300]})
+    summary['lists'][out] = dict(rd.list_diff(current, current), page_date='', source_rows=len(current), unchanged=True, stale=True)
+    return current
+
+
 def run_list(ctx, spec, summary, prov):
     out = spec['out']
     cols = A.COLS + spec.get('extra_cols', [])
-    body, date, raw_rel, archived = get_raw(ctx, spec['id'], spec['url'], spec['lang'], spec['stem'], spec['ext'])
+    try:
+        body, date, raw_rel, archived = get_raw(ctx, spec['id'], spec['url'], spec['lang'], spec['stem'], spec['ext'])
+    except Failure as e:
+        return keep_stale(ctx, summary, spec['id'], out, e)
     try:
         parsed = spec['parse'](body, spec['url'], date)
     except A.Failure as e:
@@ -194,8 +210,13 @@ def run_list(ctx, spec, summary, prov):
 
 def run_bee(ctx, summary, prov):
     b = S.BEE
-    m_body, m_date, m_rel, m_arch = get_raw(ctx, b['mandatory']['id'], b['mandatory']['url'], False, b['mandatory']['stem'], 'html')
-    v_body, v_date, v_rel, v_arch = get_raw(ctx, b['voluntary']['id'], b['voluntary']['url'], False, b['voluntary']['stem'], 'html')
+    try:
+        m_body, m_date, m_rel, m_arch = get_raw(ctx, b['mandatory']['id'], b['mandatory']['url'], False, b['mandatory']['stem'], 'html')
+        v_body, v_date, v_rel, v_arch = get_raw(ctx, b['voluntary']['id'], b['voluntary']['url'], False, b['voluntary']['stem'], 'html')
+    except Failure as e:  # both lists come from one parse: either page missing keeps both files
+        keep_stale(ctx, summary, b['mandatory']['id'], b['out_mandatory'], e)
+        keep_stale(ctx, summary, b['voluntary']['id'], b['out_voluntary'], e)
+        return
     date = max(m_date, v_date)
     try:
         parsed = b['parse'](m_body, v_body, b['mandatory']['url'], b['voluntary']['url'], date)
@@ -490,7 +511,7 @@ def changelog_entry(summary):
     lines = ['## %s' % summary['date'], '']
     lists = summary.get('lists') or {}
     moved = [f for f in sorted(lists) if rd.changed(lists[f])]
-    if not moved and not (summary.get('itchs') or {}).get('chapters_changed'):
+    if not moved and not (summary.get('itchs') or {}).get('chapters_changed') and not summary.get('stale'):
         lines.append('Re-verified; no list changed.')
     for f in moved:
         d = lists[f]
@@ -506,6 +527,8 @@ def changelog_entry(summary):
     if it.get('chapters_changed'):
         lines.append('- `data/itchs/2022`: %d chapters changed (%s); %d codes added, %d removed, %d changed.' % (
             len(it['chapters_changed']), ', '.join(it['chapters_changed'][:20]), it['added'], it['removed'], it['changed']))
+    for x in summary.get('stale') or []:
+        lines.append('- `%s`: STALE since %s, last good data kept: %s' % (x['file'], x['since'], x['reason']))
     fb = summary.get('fallback') or {}
     lines.append('Fallback fetches: %d, cost USD %.4f' % (fb.get('count', 0), fb.get('cost_usd', 0.0)))
     q = summary.get('qco') or {}

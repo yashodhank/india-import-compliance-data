@@ -76,6 +76,33 @@ jobs:
           python -m pipeline.assets dist
           gh release create "$TAG" --title "$TAG" --notes-file changelog-entry.md dist/*
 
+      - name: Report stale sources on the issue
+        if: success()
+        run: |
+          set -euo pipefail
+          body="$(python - <<'PY'
+          import json
+          r = json.load(open('refresh-report.json'))
+          for x in r.get('stale') or []:
+              print('source %s stale since %s: %s' % (x['file'], x['since'], x['reason']))
+          PY
+          )"
+          if [ -z "$body" ]; then exit 0; fi
+          body="${body}
+
+          The last good data was kept and the other sources were refreshed. Run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          num="$(gh issue list --label refresh-failure --state open --json number --jq '.[0].number // empty')"
+          if [ -n "$num" ]; then
+            gh issue comment "$num" --body "$body"
+          else
+            labels="$(gh label list --json name --jq '.[].name')"
+            case "$labels" in
+              *refresh-failure*) ;;
+              *) gh label create refresh-failure --color B60205 --description "weekly refresh failed" ;;
+            esac
+            gh issue create --title "Source stale in the weekly refresh" --label refresh-failure --body "$body"
+          fi
+
       - name: Open or update an issue on failure
         if: failure()
         run: |
