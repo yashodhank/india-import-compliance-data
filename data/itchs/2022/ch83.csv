@@ -1,0 +1,84 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+8301,4,83,"Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any of the foregoing articles, of base metal.",,,,,,2026-10-22
+83011000,8,83,Padlocks,Free,,,,,2026-10-22
+83012000,8,83,Locks of a kind used for motor vehicles,Free,,,,,2026-10-22
+83013000,8,83,Locks of a kind used for furniture,Free,,,,,2026-10-22
+830140,6,83,Other locks :,,,,,,2026-10-22
+83014010,8,83,Combination locks,Free,,,,,2026-10-22
+83014090,8,83,Other,Free,,,,,2026-10-22
+83015000,8,83,"Clasps and frames with clasps, incorporating locks",Free,,,,,2026-10-22
+83016000,8,83,Parts,Free,,,,,2026-10-22
+83017000,8,83,Keys presented separately,Free,,,,,2026-10-22
+8302,4,83,"Base metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like; base metal hat-racks, hat-pegs, brackets and similar fixtures; castors with mountings of base metal; automatic door closers of base metal.",,,,,,2026-10-22
+830210,6,83,Hinges,,,,,,2026-10-22
+83021010,8,83,Of steel,Free,"However, import of Cabinet Hinges having a CIF value of less than ₹ 280 per kilogram is 'Restricted'.",,14/2025-26,2025-05-26,2026-10-22
+83021020,8,83,Of brass,Free,,,,,2026-10-22
+83021090,8,83,Other,Free,"However, import of Cabinet Hinges having a CIF value of less than ₹ 280 per kilogram is 'Restricted'.",,14/2025-26,2025-05-26,2026-10-22
+83022000,8,83,Castors,Free,,,,,2026-10-22
+830230,6,83,"other mountings, fittings and similar articles suitable for motor vehicles",,,,,,2026-10-22
+83023010,8,83,Curve drive stakes,Free,,,,,2026-10-22
+83023090,8,83,Other,Free,,,,,2026-10-22
+830241,6,83,"Other mountings, fittings and similar articles : -- Suitable for buildings",,,,,,2026-10-22
+83024110,8,83,"Other mountings, fittings and similar articles: ----Fittings for doors and windows",Free,,,,,2026-10-22
+83024120,8,83,"Other mountings, fittings and similar articles: ----Tower bolts",Free,,,,,2026-10-22
+83024190,8,83,"Other mountings, fittings and similar articles: ----Other",Free,,,,,2026-10-22
+83024200,8,83,"Other mountings, fittings and similar articles : -- Other, suitable for furniture",Free,"However, import of Cabinet Hinges having a CIF value of less than ₹ 280 per kilogram is 'Restricted'.",,14/2025-26,2025-05-26,2026-10-22
+83024900,8,83,"Other mountings, fittings and similar articles : -- Other",Free,"However, import of Cabinet Hinges having a CIF value of less than ₹280 per kilogram is 'Restricted'.",,14/2025-26,2025-05-26,2026-10-22
+83025000,8,83,"Hat-racks, hat-pegs, brackets and similar fixtures",Free,,,,,2026-10-22
+83026000,8,83,Automatic door closers,Free,,,,,2026-10-22
+83030000,8,83,"Armoured or reinforced safes, strong-boxes and doors and safe deposit lockers for strong-rooms, cash or deed boxes and the like, of base metal.",Free,,,,,2026-10-22
+83040000,8,83,"Filing cabinets, card-index cabinets, paper trays, paper rests, pen trays, office-stamp stands and similar office or desk quipment, of base metal, other than office furniture of heading 94.03.",Free,,,,,2026-10-22
+8305,4,83,"Fittings for loose-leaf binders or files, letter clips, letter corners, paper clips, indexing tags and similar office articles, of base metal; staples in strips (for example, for offices, upholstery, packaging), of base metal.",,,,,,2026-10-22
+83051000,8,83,Fittings for loose-leaf binders or files,Free,,,,,2026-10-22
+83052000,8,83,Staples in strips,Free,,,,,2026-10-22
+830590,6,83,"Other, including parts",,,,,,2026-10-22
+83059010,8,83,Pins (other than those of heading 7317),Free,,,,,2026-10-22
+83059020,8,83,Clips,Free,,,,,2026-10-22
+83059090,8,83,Other,Free,,,,,2026-10-22
+8306,4,83,"Bells, gongs and the like, non-electric, of base metal; statuettes and other ornaments, of base metal; photograph, picture or similar frames, of base metal; mirrors of base metal.",,,,,,2026-10-22
+83061000,8,83,"Bells, gongs and the like",Free,,,,,2026-10-22
+830621,6,83,Statuettes and other ornaments : -- Plated with precious metal,,,,,,2026-10-22
+83062110,8,83,Statuettes,Free,,,,,2026-10-22
+83062120,8,83,Trophies,Free,,,,,2026-10-22
+83062190,8,83,Other,Free,,,,,2026-10-22
+830629,6,83,Statuettes and other ornaments : -- Other,,,,,,2026-10-22
+83062910,8,83,Statuettes,Free,,,,,2026-10-22
+83062920,8,83,Trophies,Free,,,,,2026-10-22
+83062990,8,83,Other,Free,,,,,2026-10-22
+83063000,8,83,"Photograph, picture or similar frames; mirrors",Free,,,,,2026-10-22
+8307,4,83,"Flexible tubing of base metal, with or without fittings.",,,,,,2026-10-22
+83071000,8,83,Of iron or steel,Free,,,,,2026-10-22
+83079000,8,83,Of other base metal,Free,,,,,2026-10-22
+8308,4,83,"Clasps, frames with clasps, buckles, buckle-clasps, hooks, eyes, eyelets and the like, of base metal, of a kind used for clothing or clothing accessories, footwear, jewellery, wrist-watches, books, awnings, leather goods, travel goods or saddlery or for other made up articles; tubular or bifurcated rivets, of base metal; beads and spangles, of base metal.",,,,,,2026-10-22
+830810,6,83,"Hooks, eyes and eyelets",,,,,,2026-10-22
+83081010,8,83,Hooks and eyes,Free,,,,,2026-10-22
+83081021,8,83,Eyelets: ----For footwear,Free,,,,,2026-10-22
+83081029,8,83,Eyelets: ----Other,Free,,,,,2026-10-22
+83082000,8,83,Tubular or bifurcated rivets,Free,,,,,2026-10-22
+830890,6,83,"Other, including parts",,,,,,2026-10-22
+83089011,8,83,Buckles: ----For footwear,Free,,,,,2026-10-22
+83089019,8,83,Buckles: ----Other,Free,,,,,2026-10-22
+83089020,8,83,Imitation zari spangles,Free,,,,,2026-10-22
+83089031,8,83,"Beads and spangles of base metal: ----For garments, made ups, knitwear, plastic and leather goods",Free,,,,,2026-10-22
+83089039,8,83,Beads and spangles of base metal: ----Other,Free,,,,,2026-10-22
+83089040,8,83,Beads and spangles of base metal: ----Fittings for travel requisites and leather goods other,Free,,,,,2026-10-22
+83089091,8,83,"For garments, made ups, knitwear, plastic and leather goods",Free,,,,,2026-10-22
+83089099,8,83,Other,Free,,,,,2026-10-22
+8309,4,83,"Stoppers, caps and lids (including crown corks, screw caps and pouring stoppers), capsules for bottles, threaded bungs, bung covers, seals and other packing accessories, of base metal.",,,,,,2026-10-22
+83091000,8,83,Crown corks,Free,,,,,2026-10-22
+830990,6,83,Other,,,,,,2026-10-22
+83099010,8,83,"Pilfer proof caps for packaging, all sorts, with or without washers or other fittings of cork, rubber, polyethylene or any other material",Free,,,,,2026-10-22
+83099020,8,83,"Aluminium caps, seals, capsules and closers",Free,,,,,2026-10-22
+83099030,8,83,Other seals,Free,,,,,2026-10-22
+83099090,8,83,Other,Free,,,,,2026-10-22
+8310,4,83,"Sign-plates, name-plates, address-plates and similar plates, numbers, letters and other symbols, of base metal, excluding those of heading 94.05.",,,,,,2026-10-22
+831000,6,83,"Sign-plates, name-plates, address-plates and similar plates, numbers, letters and other symbols, of base metal, excluding those of heading 9405:",,,,,,2026-10-22
+83100010,8,83,Enamel iron signboard,Free,,,,,2026-10-22
+83100090,8,83,Other,Free,,,,,2026-10-22
+8311,4,83,"Wire, rods, tubes, plates, electrodes and similar products, of base metal or of metal carbides, coated or cored with flux material, of a kind used for soldering, brazing, welding or deposition of metal or of metal carbides; wire and rods, of agglomerated base metal powder, used for metal spraying.",,,,,,2026-10-22
+83111000,8,83,"Coated electrodes of base metal, for electric arc-welding",Free,,,,,2026-10-22
+83112000,8,83,"Cored wire of base metal, for electric arc-welding",Free,,,,,2026-10-22
+831130,6,83,"Coated rods and cored wire, of base metal, for soldering, brazing or welding by flame",,,,,,2026-10-22
+83113010,8,83,Wire and rods of agglomerated base metal,Free,,,,,2026-10-22
+83113090,8,83,Other,Free,,,,,2026-10-22
+83119000,8,83,Other,Free,,,,,2026-10-22

@@ -1,0 +1,27 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+9201,4,92,"Pianos, including automatic pianos; harpsichords and other keyboard stringed instruments.",,,,,,2026-10-22
+92011000,8,92,Upright pianos,Free,,,,,2026-10-22
+92012000,8,92,Grand pianos,Free,,,,,2026-10-22
+92019000,8,92,Other,Free,,,,,2026-10-22
+9202,4,92,"Other string musical instruments (for example, guitars, violins, harps).",,,,,,2026-10-22
+92021000,8,92,Played with a bow,Free,,,,,2026-10-22
+92029000,8,92,Other,Free,,,,,2026-10-22
+9205,4,92,"Wind musical instruments (for example, keyboard pipe organs, accordions, clarinets, trumpets, bagpipes), other than fairground organs and mechanical street organs.",,,,,,2026-10-22
+92051000,8,92,Brass-wind instruments,Free,,,,,2026-10-22
+920590,6,92,Other,,,,,,2026-10-22
+92059010,8,92,Flutes,Free,,,,,2026-10-22
+92059020,8,92,Clarinets,Free,,,,,2026-10-22
+92059090,8,92,Other,Free,,,,,2026-10-22
+92060000,8,92,"Percussion musical instruments (for example, drums, xylophones, cymbols, castanets, maracas)",Free,,,,,2026-10-22
+9207,4,92,"Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions).",,,,,,2026-10-22
+92071000,8,92,"Keyboard instruments, other than accordions",Free,,,,,2026-10-22
+92079000,8,92,Other,Free,,,,,2026-10-22
+9208,4,92,"Musical boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other heading of this Chapter; decoy calls of all kinds; whistles, call horns and other mouthblown sound signalling instruments.",,,,,,2026-10-22
+92081000,8,92,Musical boxes,Free,,,,,2026-10-22
+92089000,8,92,Other,Free,,,,,2026-10-22
+9209,4,92,"Parts (for example, mechanisms for musical boxes) and accessories (for example, cards, discs and rolls for mechanical instruments) of musical instruments; metronomes, tuning forks and pitch pipes of all kinds.",,,,,,2026-10-22
+92093000,8,92,Musical instrument strings,Free,,,,,2026-10-22
+92099100,8,92,Other : -- Parts and accessories for pianos,Free,,,,,2026-10-22
+92099200,8,92,Other : -- Parts and accessories for the musical instruments of heading 92.02,Free,,,,,2026-10-22
+92099400,8,92,Other : -- Parts and accessories for the musical instruments of heading 92.07,Free,,,,,2026-10-22
+92099900,8,92,Other : -- Other,Free,,,,,2026-10-22

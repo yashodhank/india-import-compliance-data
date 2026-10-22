@@ -1,0 +1,85 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+2301,4,23,"Flours, meals and pellets, of meat or meat offal, of fish or of crustaceans, molluscs or other aquatic invertebrates, unfit for human consumption; greaves.",,,,,,2026-10-22
+230110,6,23,"Flours, meals and pellets, of meat or meat offal; greaves",,,,,,2026-10-22
+23011010,8,23,Meat meals and pellets (including tankage),Free,,,,,2026-10-22
+23011090,8,23,Other (including greaves),Free,,,,,2026-10-22
+230120,6,23,"Flours, meals and pellets, of fish or of crustaceans, molluscs or other aquatic invertebrates",,,,,,2026-10-22
+23012011,8,23,"Fish meal, unfit for human consumption:---- In powder form",Free,,,,,2026-10-22
+23012019,8,23,"Fish meal, unfit for human consumption:---- Other",Free,,,,,2026-10-22
+23012090,8,23,Other,Free,,,,,2026-10-22
+2302,4,23,"BRAN, SHARPS AND OTHER RESIDUES, WHETHER OR NOT IN THE FORM OF PELLETS, DERIVED FROM THE SIFTING, MILLING OR OTHER WORKING OF CEREALS OR OF LEGUMINOUS PLANTS",,,,,,2026-10-22
+230210,6,23,Of maize (corn),,,,,,2026-10-22
+23021010,8,23,Maize bran,Free,,,,,2026-10-22
+23021090,8,23,Other,Free,,,,,2026-10-22
+23023000,8,23,Of wheat,Free,,,,,2026-10-22
+23024000,8,23,Of other cereals,Free,,,,,2026-10-22
+23025000,8,23,Of leguminous plants,Free,,,,,2026-10-22
+2303,4,23,"RESIDUES OF STARCH MANUFACTURE AND SIMILAR RESIDUES, BEET-PULP, BAGASSE AND OTHER WASTE OF SUGAR MANUFACTURE, BREWING OR DISTILLING DREGS AND WASTE, WHETHER OR NOT IN THE FORM OF PELLETS",,,,,,2026-10-22
+23031000,8,23,Residues of starch manufacture and similar residues,Free,,,,,2026-10-22
+23032000,8,23,"Beet-pulp, bagasse and other waste of sugar manufacture",Free,,,,,2026-10-22
+23033000,8,23,Brewing or distilling dregs and waste,Free,,,,,2026-10-22
+2304,4,23,"Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of soyabean oil.",,,,,,2026-10-22
+230400,6,23,"Oil-cake and other solid residues whether or not ground or in the form of pellets, resulting from the extraction of soyabean oil:",,,,,,2026-10-22
+23040010,8,23,"Oil-cake and oil-cake meal of soyabean, expeller variety",Free,,,,,2026-10-22
+23040020,8,23,"Oil-cake of soyabean, solvent extracted (defatted) variety",Free,-,,"Notification No. 02/2015-2020 dated 02.05.2022 Relaxes import provisions under Notification No. 20/2015-20 dated 24.08.2021 to allow import of the remaining quantity of 5.50 Lakh MT upto 30.9.2022 or until further orders, whichever is earlier. Bill of lading of such import consignments to be on or before 30.09.2022 and ""Out of Charge"" of such consignments to be authorised by customs on or before 31.12.2022.",2022-05-02,2026-10-22
+23040030,8,23,"Meal of soyabean, solvent extracted (defatted)",Free,-,,"Notification No. 02/2015-2020 dated 02.05.2022 Relaxes import provisions under Notification No. 20/2015-20 dated 24.08.2021 to allow import of the remaining quantity of 5.50 Lakh MT upto 30.9.2022 or until further orders, whichever is earlier. Bill of lading of such import consignments to be on or before 30.09.2022 and ""Out of Charge"" of such consignments to be authorised by customs on or before 31.12.2022.",2022-05-02,2026-10-22
+23040090,8,23,Other,Free,,,,,2026-10-22
+2305,4,23,"Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of ground-nut oil.",,,,,,2026-10-22
+230500,6,23,"Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of ground-nut oil:",,,,,,2026-10-22
+23050010,8,23,"Oil-cake and oil-cake meal of ground-nut, expeller variety",Free,,,,,2026-10-22
+23050020,8,23,"Oil-cake and oil-cake meal of ground-nut, solvent extracted variety (defatted)",Free,,,,,2026-10-22
+23050090,8,23,Other,Free,,,,,2026-10-22
+2306,4,23,"OIL-CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF VEGETABLE OR MICROBIAL FATS OR OILS, OTHER THAN THOSE OF HEADING 2304 OR 2305",,,,,,2026-10-22
+230610,6,23,Of cotton seeds,,,,,,2026-10-22
+23061010,8,23,"Oil-cake and oil-cake meal, decorticated, expeller variety",Free,,,,,2026-10-22
+23061020,8,23,"Oil-cake and oil-cake meal, decorticated, solvent extracted (defatted) variety",Free,,,,,2026-10-22
+23061030,8,23,"Oil-cake and oil-cake meal, undecorticated, expeller variety",Free,,,,,2026-10-22
+23061040,8,23,"Oil-cake and oil-cake meal, undecorticated, solvent extracted (defatted) variety",Free,,,,,2026-10-22
+23061090,8,23,Other,Free,,,,,2026-10-22
+230620,6,23,Of linseed,,,,,,2026-10-22
+23062010,8,23,"Oil-cake and oil-cake meal, expeller variety",Free,,,,,2026-10-22
+23062020,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety",Free,,,,,2026-10-22
+23062090,8,23,Other,Free,,,,,2026-10-22
+230630,6,23,Of sunflower seeds,,,,,,2026-10-22
+23063010,8,23,"Oil-cake and oil-cake meal, expeller variety",Free,,,,,2026-10-22
+23063020,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety",Free,,,,,2026-10-22
+23063090,8,23,Other,Free,,,,,2026-10-22
+23064100,8,23,Of rape or colza seeds : -- Of low erucic acid rape or colza seeds,Free,,,,,2026-10-22
+23064900,8,23,Of rape or colza seeds : -- Other,Free,,,,,2026-10-22
+230650,6,23,Of coconut or copra,,,,,,2026-10-22
+23065010,8,23,"Oil-cake and oil-cake meal, expeller variety",Free,,,,,2026-10-22
+23065020,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety",Free,,,,,2026-10-22
+23065090,8,23,Other,Free,,,,,2026-10-22
+23066000,8,23,Of palm nuts or kernels,Free,,,,,2026-10-22
+230690,6,23,Other,,,,,,2026-10-22
+23069011,8,23,"Oil-cake and oil-cake meal, expeller variety: ---- Of mowra seeds",Free,,,,,2026-10-22
+23069012,8,23,"Oil-cake and oil-cake meal, expeller variety: ---- Of mustard seeds",Free,,,,,2026-10-22
+23069013,8,23,"Oil-cake and oil-cake meal, expeller variety: ---- Of niger seeds",Free,,,,,2026-10-22
+23069014,8,23,"Oil-cake and oil-cake meal, expeller variety: ---- Of seasamum seeds",Free,,,,,2026-10-22
+23069015,8,23,"Oil-cake and oil-cake meal, expeller variety: ---- Of mango kernel",Free,,,,,2026-10-22
+23069016,8,23,"Oil-cake and oil-cake meal, expeller variety: ---- Of sal (de-oiled)",Free,,,,,2026-10-22
+23069017,8,23,"Oil-cake and oil-cake meal, expeller variety: ---- Of castor seeds",Free,,,,,2026-10-22
+23069018,8,23,"Oil-cake and oil-cake meal, expeller variety: ---- Of neem seeds",Free,,,,,2026-10-22
+23069019,8,23,"Oil-cake and oil-cake meal, expeller variety: ---- Of other seeds",Free,,,,,2026-10-22
+23069021,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of mustard seeds",Free,,,,,2026-10-22
+23069022,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of niger seeds",Free,,,,,2026-10-22
+23069023,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of cardi seeds",Free,,,,,2026-10-22
+23069024,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of seasamum seeds",Free,,,,,2026-10-22
+23069025,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of mango kernel",Free,,,,,2026-10-22
+23069026,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of sal (de-oiled)",Free,,,,,2026-10-22
+23069027,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of castor seeds",Free,,,,,2026-10-22
+23069028,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of neem seeds",Free,,,,,2026-10-22
+23069029,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of other seeds",Free,,,,,2026-10-22
+23069030,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Residues babool seed extraction",Free,,,,,2026-10-22
+23069090,8,23,"Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Other",Free,,,,,2026-10-22
+23070000,8,23,Wine lees; Argol,Free,,,,,2026-10-22
+23080000,8,23,"Vegetable materials and vegetable waste, vegetable residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included",Free,"Import of acorns and horse chestnut is however, restricted for imports.",,,,2026-10-22
+2309,4,23,Preparations of a kind used in animal feeding.,,,,,,2026-10-22
+23091000,8,23,"Dog or cat food, put up for retail sale",Free,,,,,2026-10-22
+230990,6,23,Other,,,,,,2026-10-22
+23099010,8,23,Compounded animal feed,Free,,,,,2026-10-22
+23099020,8,23,Concentrates for compound animal feed,Free,,,,,2026-10-22
+23099031,8,23,Feeds for fish (prawn etc.): ---- Prawn and shrimps feed,Free,,,,,2026-10-22
+23099032,8,23,Feeds for fish (prawn etc.): ---- Fish feed in powdered form,Free,,,,,2026-10-22
+23099039,8,23,Feeds for fish (prawn etc.): ---- Other,Free,,,,,2026-10-22
+23099090,8,23,Other,Free,,,,,2026-10-22

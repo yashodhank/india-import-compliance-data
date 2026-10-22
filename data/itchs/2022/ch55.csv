@@ -1,0 +1,283 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+5501,4,55,Synthetic filament tow.,,,,,,2026-10-22
+55011100,8,55,Of nylon or other polyamides: - - Of aramids,Free,,,54/2015-2020,2022-02-09,2026-10-22
+55011900,8,55,Of nylon or other polyamides: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+55012000,8,55,Of polyesters,Free,,,,,2026-10-22
+55013000,8,55,Acrylic or modacrylic,Free,,,,,2026-10-22
+55014000,8,55,Of polypropylene,Free,,,,,2026-10-22
+550190,6,55,Other,,,,,,2026-10-22
+55019010,8,55,Of polypropylene,Free,,,,,2026-10-22
+55019090,8,55,Other,Free,,,,,2026-10-22
+5502,4,55,Artificial filament tow.,,,,,,2026-10-22
+550210,6,55,Of cellulose acetate,,,,,,2026-10-22
+55021010,8,55,Viscose rayon tow,Free,,,,,2026-10-22
+55021090,8,55,Other,Free,,,,,2026-10-22
+550290,6,55,Other,,,,,,2026-10-22
+55029010,8,55,Viscose rayon tow,Free,,,,,2026-10-22
+55029090,8,55,Other,Free,,,,,2026-10-22
+5503,4,55,"Synthetic staple fibres, not carded, combed or otherwise",,,,,,2026-10-22
+550311,6,55,Of aramids:,,,,,,2026-10-22
+55031110,8,55,Aramid Flame Retardant Fibre,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55031120,8,55,Para-aramid Fibre,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55031190,8,55,Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+550319,6,55,Other,,,,,,2026-10-22
+55031910,8,55,Nylon Staple Fibre,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55031920,8,55,Nylon Anti Static Staple Fibre,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55031930,8,55,Nylon 66 fibre conforming to IS 13464,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55031990,8,55,Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55032000,8,55,Of polyesters,Free,,,,,2026-10-22
+550330,6,55,Acrylic or modacrylic:,,,,,,2026-10-22
+55033010,8,55,"Pre Oxidised Fibre, conforming to IS 17308",Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55033090,8,55,Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55034000,8,55,Of polypropylene,Free,,,,,2026-10-22
+550390,6,55,Other,,,,,,2026-10-22
+55039010,8,55,Polyvinyl staple fibre,Free,,,,,2026-10-22
+55039020,8,55,Polyvinyl chloride staple fibre,Free,,,,,2026-10-22
+55039030,8,55,Ultra high molecular weight poly ethylene staple fibre conforming to ASTM F2848,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55039090,8,55,Other,Free,,,,,2026-10-22
+5504,4,55,"Artificial staple fibres, not carded, combed or otherwise processed for spinning.",,,,,,2026-10-22
+550410,6,55,Of viscose rayon,,,,,,2026-10-22
+55041011,8,55,Obtained from wood other than bamboo: ---- Flame retaradant Viscose Rayon fibre,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55041019,8,55,Obtained from wood other than bamboo: ---- Other,,,,,,2026-10-22
+55041021,8,55,Obtained from bamboo: ---- Flame retaradant Viscose Rayon fibre,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55041029,8,55,Obtained from bamboo: ---- Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55041090,8,55,Other,Free,,,,,2026-10-22
+550490,6,55,Other,,,,,,2026-10-22
+55049010,8,55,Acetate rayon staple fibres,Free,,,,,2026-10-22
+55049020,8,55,Polynosic staple fibre,Free,,,,,2026-10-22
+55049030,8,55,High wet modulus staple fibre,Free,,,,,2026-10-22
+55049090,8,55,Other,Free,,,,,2026-10-22
+5505,4,55,"Waste (including noils, yarn waste and garnetted stock) of man-made fibres.",,,,,,2026-10-22
+550510,6,55,Of synthetic fibres,,,,,,2026-10-22
+55051010,8,55,Of acrylic,Free,,,,,2026-10-22
+55051090,8,55,Other,Free,,,,,2026-10-22
+55052000,8,55,Of artificial fibres,Free,,,,,2026-10-22
+5506,4,55,"Synthetic staple fibres, carded, combed or otherwise processed for spinning.",,,,,,2026-10-22
+55061000,8,55,Of nylon or other polyamides,Free,,,,,2026-10-22
+55062000,8,55,Of polyesters,Free,,,,,2026-10-22
+55063000,8,55,Acrylic or modacrylic,Free,,,,,2026-10-22
+55064000,8,55,Of polypropylene,Free,,,,,2026-10-22
+550690,6,55,Other,,,,,,2026-10-22
+55069010,8,55,Polypropylene tops,Free,,,,,2026-10-22
+55069090,8,55,Other,Free,,,,,2026-10-22
+5507,4,55,"Artificial staple fibres, carded, combed or otherwise processed for spinning.",,,,,,2026-10-22
+550700,6,55,"Artificial staple fibres, carded, combed or otherwise processed for spinning :",,,,,,2026-10-22
+55070010,8,55,Acetate rayon tops,Free,,,,,2026-10-22
+55070020,8,55,Viscose tops,Free,,,,,2026-10-22
+55070030,8,55,Polynosic tops,Free,,,,,2026-10-22
+55070040,8,55,High wet modulus tops,Free,,,,,2026-10-22
+55070090,8,55,Other,Free,,,,,2026-10-22
+5508,4,55,"Sewing thread of man-made staple fibres, whether or not put up for retail sale.",,,,,,2026-10-22
+55081000,8,55,Of synthetic staple fibres,Free,,,,,2026-10-22
+55082000,8,55,Of artificial staple fibres,Free,,,,,2026-10-22
+5509,4,55,"Yarn (other than sewing thread) of synthetic staple fibres, not put up for retail sale.",,,,,,2026-10-22
+55091100,8,55,Containing 85 percent or more by weight of staple fibres of nylon or other polyamides : -- Single yarn,Free,,,,,2026-10-22
+55091200,8,55,Containing 85 percent or more by weight of staple fibres of nylon or other polyamides : -- Multiple (folded) or cabled yarn,Free,,,,,2026-10-22
+55092100,8,55,Containing 85 percent or more by weight of polyester staple fibre : -- Single yarn,Free,,,,,2026-10-22
+55092200,8,55,Containing 85 percent or more by weight of polyester staple fibre : -- Multiple (folded) or cabled yarn,Free,,,,,2026-10-22
+55093100,8,55,Containing 85 percent or more by weight of acrylic or modacrylic staple fibre -- Single yarn,Free,,,,,2026-10-22
+55093200,8,55,Containing 85 percent or more by weight of acrylic or modacrylic staple fibre -- Multiple (folded) or cabled yarn,Free,,,,,2026-10-22
+550941,6,55,"Other yarn, containing 85 percent or more by weight of synthetic staple fibre -- Single yarn",,,,,,2026-10-22
+55094110,8,55,Polypropylene spun yarn,Free,,,,,2026-10-22
+55094120,8,55,Polyvinyl acetate spun yarn,Free,,,,,2026-10-22
+55094130,8,55,Polyvinyl chloride spun yarn,Free,,,,,2026-10-22
+55094190,8,55,Other,Free,,,,,2026-10-22
+550942,6,55,"Other yarn, containing 85 percent or more by weight of synthetic staple fibre -- Multiple (folded) or cabled yarn",,,,,,2026-10-22
+55094210,8,55,Polypropylene spun yarn,Free,,,,,2026-10-22
+55094220,8,55,Poly Vinyl acetate (PVA) spun yarn,Free,,,,,2026-10-22
+55094230,8,55,Poly Vinyl Chloride (PVC) spun yarn,Free,,,,,2026-10-22
+55094290,8,55,Other,Free,,,,,2026-10-22
+55095100,8,55,"Other yarn, of polyester staple fibres : -- Mixed mainly or solely with artificial staple fibres",Free,,,,,2026-10-22
+55095200,8,55,"Other yarn, of polyester staple fibres : -- Mixed mainly or solely with wool or fine animal hair",Free,,,,,2026-10-22
+55095300,8,55,"Other yarn, of polyester staple fibres : -- Mixed mainly or solely with cotton",Free,,,,,2026-10-22
+55095900,8,55,"Other yarn, of polyester staple fibres : -- Other",Free,,,,,2026-10-22
+55096100,8,55,"Other yarn, of acrylic or modacrylic staple fibres : -- Mixed mainly or solely with wool or fine animal hair",Free,,,,,2026-10-22
+55096200,8,55,"Other yarn, of acrylic or modacrylic staple fibres : -- Mixed mainly or solely with cotton",Free,,,,,2026-10-22
+55096900,8,55,"Other yarn, of acrylic or modacrylic staple fibres : -- Other",Free,,,,,2026-10-22
+55099100,8,55,Other yarn : -- Mixed mainly or solely with wool or fine animal hair,Free,,,,,2026-10-22
+55099200,8,55,Other yarn : -- Mixed mainly or solely with cotton,Free,,,,,2026-10-22
+550999,6,55,Other:,,,,,,2026-10-22
+55099910,8,55,Yarn made of 100% inherent FR synthetic fibre,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55099990,8,55,Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+5510,4,55,"Yarn (other than sewing thread) of artificial staple fibres, not put up for retail sale.",,,,,,2026-10-22
+551011,6,55,Containing 85 percent or more by weight of artificial staple fibres : -- Single yarn,,,,,,2026-10-22
+55101110,8,55,Viscose rayon spun yarn,Free,,,,,2026-10-22
+55101120,8,55,Acetate rayon spun yarn,Free,,,,,2026-10-22
+55101190,8,55,Other,Free,,,,,2026-10-22
+551012,6,55,Containing 85 percent or more by weight of artificial staple fibres : -- Multiple (folded) or cabled yarn,,,,,,2026-10-22
+55101210,8,55,Viscose rayon spun yarn,Free,,,,,2026-10-22
+55101220,8,55,Acetate rayon spun yarn,Free,,,,,2026-10-22
+55101290,8,55,Other,Free,,,,,2026-10-22
+551020,6,55,"Other yarn, mixed mainly or solely with wool or fine animal hair",,,,,,2026-10-22
+55102010,8,55,Viscose rayon spun yarn,Free,,,,,2026-10-22
+55102020,8,55,Acetate rayon spun yarn,Free,,,,,2026-10-22
+55102090,8,55,Other,Free,,,,,2026-10-22
+551030,6,55,"Other yarn, mixed mainly or solely with cotton",,,,,,2026-10-22
+55103010,8,55,Viscose rayon spun yarn,Free,,,,,2026-10-22
+55103020,8,55,Acetate rayon spun yarn,Free,,,,,2026-10-22
+55103090,8,55,Other,Free,,,,,2026-10-22
+551090,6,55,Other yarn,,,,,,2026-10-22
+55109010,8,55,Viscose rayon spun yarn,Free,,,,,2026-10-22
+55109020,8,55,Acetate rayon spun yarn,Free,,,,,2026-10-22
+55109030,8,55,Yarn made of 100% inherent FR artificial fibre,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55109090,8,55,Other,Free,,,,,2026-10-22
+5511,4,55,"Yarn (other than sewing thread) of man-made staple fibres, put up for retail sale.",,,,,,2026-10-22
+55111000,8,55,"Of synthetic staple fibres, containing 85 percent or more by weight of such fibres",Free,,,,,2026-10-22
+55112000,8,55,"Of synthetic staple fibres, containing less than 85 percent by weight of such fibres",Free,,,,,2026-10-22
+551130,6,55,Of artificial staple fibres,,,,,,2026-10-22
+55113010,8,55,Containing more than 85percent by weight of staple fibre,Free,,,,,2026-10-22
+55113090,8,55,Other,Free,,,,,2026-10-22
+5512,4,55,"Woven fabrics of synthetic staple fibres, containing 85 percent or more by weight of synthetic staple fibres.",,,,,,2026-10-22
+551211,6,55,Containing 85 percent or more by weight of polyester staple fibres : -- Unbleached or bleached,,,,,,2026-10-22
+55121110,8,55,Unbleached,Free,,,,,2026-10-22
+55121120,8,55,Bleached,Free,,,,,2026-10-22
+551219,6,55,Containing 85 percent or more by weight of polyester staple fibres : -- Other,,,,,,2026-10-22
+55121910,8,55,Dyed,Free,,,,,2026-10-22
+55121920,8,55,Printed,Free,,,,,2026-10-22
+55121990,8,55,Other,Free,,,,,2026-10-22
+551221,6,55,Containing 85 percent or more by weight of acrylic or modacrylic staple fibre: -- Unbleached or bleached,,,,,,2026-10-22
+55122110,8,55,Unbleached,Free,,,,,2026-10-22
+55122120,8,55,Bleached,Free,,,,,2026-10-22
+551229,6,55,Containing 85 percent or more by weight of acrylic or modacrylic staple fibre: -- Other,,,,,,2026-10-22
+55122910,8,55,Dyed,Free,,,,,2026-10-22
+55122920,8,55,Printed,Free,,,,,2026-10-22
+55122990,8,55,Other,Free,,,,,2026-10-22
+551291,6,55,Other : -- Unbleached or bleached,,,,,,2026-10-22
+55129110,8,55,Unbleached,Free,,,,,2026-10-22
+55129120,8,55,Bleached,Free,,,,,2026-10-22
+551299,6,55,Other : -- Other,,,,,,2026-10-22
+55129910,8,55,Dyed,Free,,,,,2026-10-22
+55129920,8,55,Printed,Free,,,,,2026-10-22
+55129990,8,55,Other,Free,,,,,2026-10-22
+5513,4,55,"Woven fabrics of synthetic staple fibres, containing less than 85percent by weight of such fibres, mixed mainly or solely with cotton, of a weight not exceeding 170 g/m².",,,,,,2026-10-22
+551311,6,55,"Unbleached or bleached : -- Of polyester staple fibres, plain weave",,,,,,2026-10-22
+55131110,8,55,Unbleached,Free,,,,,2026-10-22
+55131120,8,55,Bleached,Free,,,,,2026-10-22
+551312,6,55,"Unbleached or bleached : -- 3-thread or 4-thread twill, including cross twill, of polyester staple fibres",,,,,,2026-10-22
+55131210,8,55,Unbleached,Free,,,,,2026-10-22
+55131220,8,55,Bleached,Free,,,,,2026-10-22
+551313,6,55,Unbleached or bleached : -- Other woven fabrics of polyester staple fibres,,,,,,2026-10-22
+55131310,8,55,Unbleached,Free,,,,,2026-10-22
+55131320,8,55,Bleached,Free,,,,,2026-10-22
+551319,6,55,Unbleached or bleached : -- Other woven fabrics,,,,,,2026-10-22
+55131910,8,55,Unbleached,Free,,,,,2026-10-22
+55131920,8,55,Bleached,Free,,,,,2026-10-22
+55132100,8,55,"Dyed : -- Of polyester staple fibres, plain weave",Free,,,,,2026-10-22
+55132300,8,55,Dyed : -- Other woven fabrics of polyester staple fibres,Free,,,,,2026-10-22
+55132900,8,55,Dyed : -- Other woven fabrics,Free,,,,,2026-10-22
+55133100,8,55,"Of yarns of different colours : -- Of polyester staple fibres, plain weave",Free,,,,,2026-10-22
+55133900,8,55,Of yarns of different colours : -- Other woven fabrics,Free,,,,,2026-10-22
+55134100,8,55,"Printed : -- Of polyester staple fibres, plain weave",Free,,,,,2026-10-22
+55134900,8,55,Printed : -- Other woven fabrics,Free,,,,,2026-10-22
+5514,4,55,"Woven fabrics of synthetic staple fibres, containing less than 85percent by weight of such fibres, mixed mainly or solely with cotton, of a weight exceeding 170 g/m².",,,,,,2026-10-22
+551411,6,55,"Unbleached or bleached : -- Of polyester staple fibres, plain weave",,,,,,2026-10-22
+55141110,8,55,Unbleached,Free,,,,,2026-10-22
+55141120,8,55,Bleached,Free,,,,,2026-10-22
+551412,6,55,"Unbleached or bleached : -- 3-thread or 4-thread twill, including cross twill, of polyester staple fibre",,,,,,2026-10-22
+55141210,8,55,Unbleached,Free,,,,,2026-10-22
+55141220,8,55,Bleached,Free,,,,,2026-10-22
+551419,6,55,Unbleached or bleached : -- Other woven fabrics,,,,,,2026-10-22
+55141910,8,55,Unbleached,Free,,,,,2026-10-22
+55141920,8,55,Bleached,Free,,,,,2026-10-22
+55142100,8,55,"Dyed : -- Of polyester staple fibres, plain weave",Free,,,,,2026-10-22
+55142200,8,55,"Dyed : -- 3-thread or 4-thread twill, including cross twill, of polyester staple fibre",Free,,,,,2026-10-22
+55142300,8,55,Dyed : -- Other woven fabrics of polyester staple fibres,Free,,,,,2026-10-22
+55142900,8,55,Dyed : -- Other woven fabrics,Free,,,,,2026-10-22
+551430,6,55,Of yarns of different colours,,,,,,2026-10-22
+55143011,8,55,"Of polyester staple fibres, plain weave",Free,,,,,2026-10-22
+55143012,8,55,"3-thread or 4-thread twill, including cross twill, of polyester staple fibres",Free,,,,,2026-10-22
+55143013,8,55,Other woven fabrics of polyester staple fibres,Free,,,,,2026-10-22
+55143019,8,55,Other woven fabrics,Free,,,,,2026-10-22
+55144100,8,55,"Printed : -- Of polyester staple fibres, plain weave",Free,,,,,2026-10-22
+55144200,8,55,"Printed : -- 3-thread or 4-thread twill, including cross twill, of polyester staple fibre",Free,,,,,2026-10-22
+55144300,8,55,Printed : -- Other woven fabrics of polyester staple fibres,Free,,,,,2026-10-22
+55144900,8,55,Printed : -- Other woven fabrics,Free,,,,,2026-10-22
+5515,4,55,Other woven fabrics of synthetic staple fibres.,,,,,,2026-10-22
+551511,6,55,Of polyester staple fibres : -- Mixed mainly or solely with viscose rayon staple fibres,,,,,,2026-10-22
+55151110,8,55,Unbleached,Free,,,,,2026-10-22
+55151120,8,55,Bleached,Free,,,,,2026-10-22
+55151130,8,55,Dyed,Free,,,,,2026-10-22
+55151140,8,55,Printed,Free,,,,,2026-10-22
+55151190,8,55,Other,Free,,,,,2026-10-22
+551512,6,55,Of polyester staple fibres : -- Mixed mainly or solely with man-made filaments,,,,,,2026-10-22
+55151210,8,55,Unbleached,Free,,,,,2026-10-22
+55151220,8,55,Bleached,Free,,,,,2026-10-22
+55151230,8,55,Dyed,Free,,,,,2026-10-22
+55151240,8,55,Printed,Free,,,,,2026-10-22
+55151290,8,55,Other,Free,,,,,2026-10-22
+551513,6,55,Of polyester staple fibres : -- Mixed mainly or solely with wool or fine animal hair,,,,,,2026-10-22
+55151310,8,55,Unbleached,Free,,,,,2026-10-22
+55151320,8,55,Bleached,Free,,,,,2026-10-22
+55151330,8,55,Dyed,Free,,,,,2026-10-22
+55151340,8,55,Printed,Free,,,,,2026-10-22
+55151390,8,55,Other,Free,,,,,2026-10-22
+551519,6,55,Of polyester staple fibres : -- Other,,,,,,2026-10-22
+55151910,8,55,Unbleached,Free,,,,,2026-10-22
+55151920,8,55,Bleached,Free,,,,,2026-10-22
+55151930,8,55,Dyed,Free,,,,,2026-10-22
+55151940,8,55,Printed,Free,,,,,2026-10-22
+55151990,8,55,Other,Free,,,,,2026-10-22
+551521,6,55,Of acrylic or modacrylic staple fibres : -- Mixed mainly or solely with man-made filaments,,,,,,2026-10-22
+55152110,8,55,Unbleached,Free,,,,,2026-10-22
+55152120,8,55,Bleached,Free,,,,,2026-10-22
+55152130,8,55,Dyed,Free,,,,,2026-10-22
+55152140,8,55,Printed,Free,,,,,2026-10-22
+55152190,8,55,Other,Free,,,,,2026-10-22
+551522,6,55,Of acrylic or modacrylic staple fibres : -- Mixed mainly or solely with wool or fine animal hair,,,,,,2026-10-22
+55152210,8,55,Unbleached,Free,,,,,2026-10-22
+55152220,8,55,Bleached,Free,,,,,2026-10-22
+55152230,8,55,Dyed,Free,,,,,2026-10-22
+55152240,8,55,Printed,Free,,,,,2026-10-22
+55152290,8,55,Other,Free,,,,,2026-10-22
+551529,6,55,Of acrylic or modacrylic staple fibres : -- Other,,,,,,2026-10-22
+55152910,8,55,Unbleached,Free,,,,,2026-10-22
+55152920,8,55,Bleached,Free,,,,,2026-10-22
+55152930,8,55,Dyed,Free,,,,,2026-10-22
+55152940,8,55,Printed,Free,,,,,2026-10-22
+55152990,8,55,Other,Free,,,,,2026-10-22
+551591,6,55,Other woven fabrics : -- Mixed mainly or solely with man-made filaments,,,,,,2026-10-22
+55159110,8,55,Unbleached,Free,,,,,2026-10-22
+55159120,8,55,Bleached,Free,,,,,2026-10-22
+55159130,8,55,Dyed,Free,,,,,2026-10-22
+55159140,8,55,Printed,Free,,,,,2026-10-22
+55159190,8,55,Other,Free,,,,,2026-10-22
+551599,6,55,Other woven fabrics : -- Other,,,,,,2026-10-22
+55159910,8,55,Unbleached,Free,,,,,2026-10-22
+55159920,8,55,Bleached,Free,,,,,2026-10-22
+55159930,8,55,Dyed,Free,,,,,2026-10-22
+55159940,8,55,Printed,Free,,,,,2026-10-22
+55159950,8,55,Fabrics made of 100% inherent FR synthetic fibre,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+55159990,8,55,Other,Free,,,,,2026-10-22
+5516,4,55,Woven fabrics of artificial staple fibres.,,,,,,2026-10-22
+551611,6,55,Containing 85 percent or more by weight of artificial staple fibres : -- Unbleached or bleached,,,,,,2026-10-22
+55161110,8,55,Unbleached,Free,,,,,2026-10-22
+55161120,8,55,Bleached,Free,,,,,2026-10-22
+55161200,8,55,Containing 85 percent or more by weight of artificial staple fibres : -- Dyed,Free,,,,,2026-10-22
+55161300,8,55,Containing 85 percent or more by weight of artificial staple fibres : -- Of yarns of different colours,Free,,,,,2026-10-22
+551614,6,55,Containing 85 percent or more by weight of artificial staple fibres : -- Printed,,,,,,2026-10-22
+55161410,8,55,Spun rayon printed shantung,Free,,,,,2026-10-22
+55161420,8,55,Spun rayon printed linen,Free,,,,,2026-10-22
+55161490,8,55,Other,Free,,,,,2026-10-22
+551621,6,55,"Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with man-made filaments : -- Unbleached or bleached",,,,,,2026-10-22
+55162110,8,55,Unbleached,Free,,,,,2026-10-22
+55162120,8,55,Bleached,Free,,,,,2026-10-22
+55162200,8,55,"Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with man-made filaments : -- Dyed",Free,,,,,2026-10-22
+55162300,8,55,"Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with man-made filaments : -- Of yarns of different colours",Free,,,,,2026-10-22
+551631,6,55,"Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair : -- Unbleached or bleached",,,,,,2026-10-22
+55163110,8,55,Unbleached,Free,,,,,2026-10-22
+55163120,8,55,Bleached,Free,,,,,2026-10-22
+55163200,8,55,"Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair : -- Dyed",Free,,,,,2026-10-22
+55163300,8,55,"Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair : -- Of yarns of different colours",Free,,,,,2026-10-22
+55163400,8,55,"Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair : -- Printed",Free,,,,,2026-10-22
+551641,6,55,"Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with cotton : -- Unbleached or bleached",,,,,,2026-10-22
+55164110,8,55,Unbleached,Free,,,,,2026-10-22
+55164120,8,55,Bleached,Free,,,,,2026-10-22
+55164200,8,55,"Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with cotton : -- Dyed",Free,,,,,2026-10-22
+55164300,8,55,"Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with cotton : -- Of yarns of different colours",Free,,,,,2026-10-22
+55164400,8,55,"Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with cotton : -- Printed",Free,,,,,2026-10-22
+551691,6,55,Other : -- Unbleached or bleached,,,,,,2026-10-22
+55169110,8,55,Unbleached,Free,,,,,2026-10-22
+55169120,8,55,Bleached,Free,,,,,2026-10-22
+55169200,8,55,Other : -- Dyed,Free,,,,,2026-10-22
+55169300,8,55,Other : -- Of yarns of different colours,Free,,,,,2026-10-22
+55169400,8,55,Other : -- Printed,Free,,,,,2026-10-22

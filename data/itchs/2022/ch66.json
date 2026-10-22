@@ -1,0 +1,153 @@
+{
+ "edition": "ITC(HS) 2022 Schedule 1 (Import Policy)",
+ "chapter": "66",
+ "chapter_title": "Umbrellas, Sun Umbrellas, Walking-Sticks, Seat-Sticks, Whips, Riding-Crops And Parts Thereof.",
+ "section": "XII",
+ "as_of": "2026-10-22",
+ "source": "https://www.dgft.gov.in/CP/webHP?requestType=ApplicationRH&screenId=90000802&actionVal=getChapterDetails",
+ "permission_ref": "DGFTCOMS-2026-24H4345L",
+ "rows": [
+  {
+   "hs_code": "6601",
+   "level": 4,
+   "chapter": "66",
+   "description": "Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas).",
+   "policy": "",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "66011000",
+   "level": 8,
+   "chapter": "66",
+   "description": "Garden or similar umbrellas",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "66019100",
+   "level": 8,
+   "chapter": "66",
+   "description": "Other : -- Having a telescopic shaft",
+   "policy": "Restricted",
+   "condition_text": "However, import is \"Free\" where the CIF value is Rs.100 and above per piece.",
+   "condition_ref": "",
+   "notification_no": "57/2025-26",
+   "notification_date": "2026-02-05",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "66019900",
+   "level": 8,
+   "chapter": "66",
+   "description": "Other : -- Other",
+   "policy": "Restricted",
+   "condition_text": "However, import is \"Free\" where the CIF value is Rs.100 and above per piece.",
+   "condition_ref": "",
+   "notification_no": "57/2025-26",
+   "notification_date": "2026-02-05",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "66020000",
+   "level": 8,
+   "chapter": "66",
+   "description": "Walking-sticks, seat-sticks, whips, riding-crops and the like.",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "6603",
+   "level": 4,
+   "chapter": "66",
+   "description": "Parts, trimmings and accessories of articles of heading 66.01 or 66.02.",
+   "policy": "",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "66032000",
+   "level": 8,
+   "chapter": "66",
+   "description": "Umbrella frames, including frames mounted on shafts (sticks)",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "660390",
+   "level": 6,
+   "chapter": "66",
+   "description": "Other",
+   "policy": "",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "66039010",
+   "level": 8,
+   "chapter": "66",
+   "description": "Umbrella ribs",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "66039090",
+   "level": 8,
+   "chapter": "66",
+   "description": "Other",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  }
+ ],
+ "chapter_conditions": [
+  {
+   "chapter": "66",
+   "note_type": "Main",
+   "serial_no": "1",
+   "section": "XII",
+   "text": "This Chapter does not cover: (a) measure walking-sticks or the like (heading 9017); (b) firearm-sticks, sword-sticks, loaded walking-sticks or the like (Chapter 93); or (c) goods of Chapter 95 (for example, toy umbrellas, toy sun umbrellas).",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "chapter": "66",
+   "note_type": "Main",
+   "serial_no": "2",
+   "section": "XII",
+   "text": "Heading 6603 does not cover parts, trimmings or accessories of textile material, or covers, tassels, thongs, umbrella cases or the like, of any material. Such goods presented with, but not fitted to, articles of heading 6601 or 6602 are to be classified separately and are not to be treated as forming part of those articles.",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  }
+ ]
+}

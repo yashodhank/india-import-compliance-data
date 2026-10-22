@@ -1,0 +1,132 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+3701,4,37,"Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitised, unexposed, whether or not in packs.",,,,,,2026-10-22
+370110,6,37,For X-ray,,,,,,2026-10-22
+37011010,8,37,Medical,Free,,,,,2026-10-22
+37011090,8,37,Other,Free,,,,,2026-10-22
+37012000,8,37,Instant print film,Free,,,,,2026-10-22
+37013000,8,37,"Other plates and film, with any side exceeding 255 mm",Free,,,,,2026-10-22
+370191,6,37,Other : -- For colour photography (polychrome),,,,,,2026-10-22
+37019110,8,37,Cinematographic film,Free,,,,,2026-10-22
+37019190,8,37,Other,Free,,,,,2026-10-22
+370199,6,37,Other : -- Other,,,,,,2026-10-22
+37019910,8,37,Cinematographic film,Free,,,,,2026-10-22
+37019990,8,37,Other,Free,,,,,2026-10-22
+3702,4,37,"Photographic film in rolls, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in rolls, sensitised, unexposed.",,,,,,2026-10-22
+37021000,8,37,For X-ray,Free,,,,,2026-10-22
+370231,6,37,"Other film, without perforations, of a width not exceeding 105 mm : -- For colour photography (polychrome)",,,,,,2026-10-22
+37023110,8,37,Cinematographic film,Free,,,,,2026-10-22
+37023190,8,37,Other,Free,,,,,2026-10-22
+370232,6,37,"Other film, without perforations, of a width not exceeding 105 mm : -- Other, with silver halide emulsion",,,,,,2026-10-22
+37023210,8,37,Cinematographic film,Free,,,,,2026-10-22
+37023290,8,37,Other,Free,,,,,2026-10-22
+370239,6,37,"Other film, without perforations, of a width not exceeding 105 mm : -- Other",,,,,,2026-10-22
+37023910,8,37,Cinematographic film,Free,,,,,2026-10-22
+37023990,8,37,Other,Free,,,,,2026-10-22
+370241,6,37,"Other film, without perforations, of a width exceeding 105 mm : -- Of a width exceeding 610 mm and of a length exceeding 200 m, for colour photography (polychrome)",,,,,,2026-10-22
+37024110,8,37,Cinematographic film,Free,,,,,2026-10-22
+37024190,8,37,Other,Free,,,,,2026-10-22
+370242,6,37,"Other film, without perforations, of a width exceeding 105 mm : -- Of a width exceeding 610 mm and of a length exceeding 200 m, other than for colour photography",,,,,,2026-10-22
+37024210,8,37,Photographic film of a width 620 mm in rolls,Free,,,,,2026-10-22
+37024220,8,37,Cinematographic film,Free,,,,,2026-10-22
+37024290,8,37,Other,Free,,,,,2026-10-22
+370243,6,37,"Other film, without perforations, of a width exceeding 105 mm : -- Of a width exceeding 610 mm and of a length not exceeding 200 m",,,,,,2026-10-22
+37024310,8,37,Photographic films (Black and White) of a width 620 mm,Free,,,,,2026-10-22
+37024320,8,37,Cinematographic film,Free,,,,,2026-10-22
+37024390,8,37,Other,Free,,,,,2026-10-22
+370244,6,37,"Other film, without perforations, of a width exceeding 105 mm : -- Of a width exceeding 105 mm but not exceeding 610 mm",,,,,,2026-10-22
+37024410,8,37,Photographic Films of a width 120 mm in rolls,Free,,,,,2026-10-22
+37024420,8,37,Cinematographic film,Free,,,,,2026-10-22
+37024490,8,37,Other,Free,,,,,2026-10-22
+370252,6,37,"Other film, for colour photography (polychrome) : -- Of a width not exceeding 16 mm",,,,,,2026-10-22
+37025210,8,37,Finished rolls of cinematographic positive,Free,,,,,2026-10-22
+37025220,8,37,Other cinematographic film,Free,,,,,2026-10-22
+37025290,8,37,Other,Free,,,,,2026-10-22
+37025300,8,37,"Other film, for colour photography (polychrome) : -- Of a width exceeding 16 mm but not exceeding 35 mm and of a length not exceeding 30 m, for slides",Free,,,,,2026-10-22
+370254,6,37,"Other film, for colour photography (polychrome) : -- Of a width exceeding 16 mm but not exceeding 35 mm and of a length not exceeding 30 m, other than for slides",,,,,,2026-10-22
+37025410,8,37,Finished rolls of cinematographic positive,Free,,,,,2026-10-22
+37025420,8,37,Other cinematographic film,Free,,,,,2026-10-22
+37025490,8,37,Other,Free,,,,,2026-10-22
+370255,6,37,"Other film, for colour photography (polychrome) : -- Of a width exceeding 16 mm but not exceeding 35 mm and of a length exceeding 30 m",,,,,,2026-10-22
+37025510,8,37,Finished rolls of cinematographic positive,Free,,,,,2026-10-22
+37025520,8,37,Other cinematographic film,Free,,,,,2026-10-22
+37025590,8,37,Other,Free,,,,,2026-10-22
+370256,6,37,"Other film, for colour photography (polychrome) : -- Of a width exceeding 35 mm",,,,,,2026-10-22
+37025610,8,37,Finished rolls of cinematographic positive,Free,,,,,2026-10-22
+37025620,8,37,Other cinematographic film,Free,,,,,2026-10-22
+37025690,8,37,Other,Free,,,,,2026-10-22
+370296,6,37,Other : -- Of a width not exceeding 35 mm and of a length not exceeding 30 m,,,,,,2026-10-22
+37029611,8,37,Not exceeding 16 mm,Free,,,,,2026-10-22
+37029619,8,37,Other,Free,,,,,2026-10-22
+370297,6,37,Other : -- Of a width not exceeding 35 mm and of a length exceeding 30 m,,,,,,2026-10-22
+37029711,8,37,Not exceeding 16 mm,Free,,,,,2026-10-22
+37029719,8,37,Other,Free,,,,,2026-10-22
+370298,6,37,Other : -- Of a width exceeding 35 mm,,,,,,2026-10-22
+37029810,8,37,Cinematographic film,Free,,,,,2026-10-22
+37029890,8,37,Other,Free,,,,,2026-10-22
+3703,4,37,"Photographic paper, paperboard and textiles, sensitised, unexposed",,,,,,2026-10-22
+370310,6,37,In rolls of a width exceeding 610 mm,,,,,,2026-10-22
+37031010,8,37,Photographic paper or paperboard,Free,,,,,2026-10-22
+37031020,8,37,Textiles,Free,,,,,2026-10-22
+370320,6,37,"Other, for colour photography (polychrome)",,,,,,2026-10-22
+37032010,8,37,Photographic paper or paperboard,Free,,,,,2026-10-22
+37032020,8,37,Textiles,Free,,,,,2026-10-22
+370390,6,37,Other,,,,,,2026-10-22
+37039010,8,37,Photographic paper or paperboard,Free,,,,,2026-10-22
+37039020,8,37,Textiles,Free,,,,,2026-10-22
+3704,4,37,"Photographic plates, film, paper, paperboard and textiles, exposed but not developed.",,,,,,2026-10-22
+370400,6,37,"Photographic plates, film, paper, paper board and textiles, exposed but not developed :",,,,,,2026-10-22
+37040010,8,37,"Photographic paper, or paperboard",Free,,,,,2026-10-22
+37040020,8,37,Cinematographic plates and film,Free,,,,,2026-10-22
+37040030,8,37,Sensitised Textiles,Free,,,,,2026-10-22
+37040090,8,37,Other,Free,,,,,2026-10-22
+3705,4,37,"PHOTOGRAPHIC PLATES AND FILM, EXPOSED AND DEVELOPED, OTHER THAN CINEMATOGRAPHIC FILM",,,,,,2026-10-22
+37050000,8,37,"Photographic plates and film, exposed and developed, other than cinematographic film.",Free,,,,,2026-10-22
+3706,4,37,"Cinematographic film, exposed and developed, whether or not incorporating sound track or consisting only of sound track.",,,,,,2026-10-22
+370610,6,37,Of a width of 35 mm or more,,,,,,2026-10-22
+37061011,8,37,"Made wholly in black and white and of a length not exceeding 4,000 m",Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37061012,8,37,"Made wholly in black and white and of a length exceeding 4,000 m",Free,Import permitted as per conditions Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37061013,8,37,"Made wholly or partly in colour and of a length not exceeding 4,000 m",Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37061014,8,37,"Made wholly or partly in colour and of a length exceeding 4,000 m",Free,Import permitted as per conditions Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37061015,8,37,Children's films certified by the Central Board of Film Certification to be Children's Film,Free,,,,,2026-10-22
+37061020,8,37,"Documentary Shorts, and Films certified as such by the Central Board of Film Certification",Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37061030,8,37,News Reels and clippings,Free,,,,,2026-10-22
+37061041,8,37,Advertisement Shorts and Films: ---- Made wholly in black and white,Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37061042,8,37,Advertisement Shorts and Films: ---- Made wholly or partly in colour,Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37061051,8,37,"Other Childrens Film: ---- Patch prints, including Logos intended exclusively for the entertainment of children.",Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37061052,8,37,Other Childrens Film: ---- Childrens film certified by the Central Board of Films Certification to be Childrens Film,Free,,,,,2026-10-22
+37061059,8,37,Other Childrens Film: ---- Other,Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37061061,8,37,Certified as predominantly educational by the Central Board of Film Certification,Free,,,,,2026-10-22
+37061062,8,37,"Patch prints, including logos intended exclusively for educational purposes.",Free,,,,,2026-10-22
+37061063,8,37,Teaching aids including film strips of educational nature,Free,,,,,2026-10-22
+37061069,8,37,Other,Free,Import permitted as per conditions Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37061070,8,37,Short films not elsewhere specified or included Other:,Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37061091,8,37,Audio-Visual news or Audio-Visual views materials including news clippings,Free,,,,,2026-10-22
+37061092,8,37,"Master Positives, exposed negatives, dupes and rush prints as are not cleared for Public exhibitions.",Free,Import permitted as per conditions of the Chapter.,,,,2026-10-22
+37061099,8,37,Other,Free,Import permitted as per conditions Policy Condition 1 of the Chapter.,1,,,2026-10-22
+370690,6,37,Other,,,,,,2026-10-22
+37069011,8,37,"Made wholly in black and white and of a length not exceeding 4,000 m",Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37069012,8,37,"Made wholly in black and white and of a length exceeding 4,000 m",Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37069013,8,37,"Made wholly or partly in colour and of a length not exceeding 4,000 m",Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37069014,8,37,"Made wholly or partly in colour and of a length exceeding 4,000 m",Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37069015,8,37,"Children's films certified by the Central Board of Film Certification to be ""Children's Film""",Free,,,,,2026-10-22
+37069020,8,37,"Documentary Shorts, and Films certified as such by the Central Board of Film Certification",Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37069030,8,37,News Reels and clippings,Free,,,,,2026-10-22
+37069041,8,37,Advertisement Shorts and Films: ---- Made wholly in black and white,Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37069042,8,37,Advertisement Shorts and Films: ---- Made wholly or partly in colour,Free,Import permitted as per conditions at Policy Condition of the Chapter.,,,,2026-10-22
+37069051,8,37,"Other Childrens Film: ---- Patch prints, including Logos intended exclusively for the entertainment of children.",Free,Import permitted as per conditions at Policy Condition 1 of the Chapter.,1,,,2026-10-22
+37069052,8,37,Other Childrens Film: ---- Childrens film certified by the Central Board of Films Certification to be Childrens Film,Free,,,,,2026-10-22
+37069059,8,37,Other Childrens Film: ---- Other,Free,,,,,2026-10-22
+37069061,8,37,"Educational Shorts, and Films: ---- Certified as predominantly educational by the Central Board of Film Certification",Free,,,,,2026-10-22
+37069062,8,37,"Educational Shorts, and Films: ---- Patch prints, including logos intended exclusively for educational purposes",Free,,,,,2026-10-22
+37069063,8,37,"Educational Shorts, and Films: ---- Teaching aids including film strips of educational nature",Free,,,,,2026-10-22
+37069064,8,37,"Educational Shorts, and Films: ---- Certified as predominantly educational, by Central Board of Film Certification, of width below 30 mm",Free,,,,,2026-10-22
+37069069,8,37,"Educational Shorts, and Films: ---- Other",Free,Import permitted as per conditions at Policy Condition 1 of Chapter 37.,1,,,2026-10-22
+37069070,8,37,"Educational Shorts, and Films: ---- Short film not elsewhere specified",Free,Import permitted as per conditions at Policy Condition 1 of Chapter 37.,1,,,2026-10-22
+37069091,8,37,Other: ---- Audio-Visual news or Audio-Visual views materials including news clippings.,Free,,,,,2026-10-22
+37069092,8,37,"Other: ---- Master Positives, exposed negatives, dupes and rush prints as are not cleared for Public exhibitions.",Free,Import permitted as per conditions at Policy Condition 1 of Chapter 37.,1,,,2026-10-22
+37069099,8,37,Other: ---- Other,Free,Import permitted as per conditions at Policy Condition 1 of Chapter 37.,1,,,2026-10-22
+3707,4,37,"Chemical preparations for photographic uses (other than varnishes, glues, adhesives and similar preparations); unmixed products for photographic uses, put up in measured portions or put up for retail sale in a form ready for use.",,,,,,2026-10-22
+37071000,8,37,Sensitisin,Free,,,,,2026-10-22
+370790,6,37,Other,,,,,,2026-10-22
+37079010,8,37,"Chemical products mixed or compounded for Photographic uses (for example, developers and fixers) whether or not in bulk",Free,,,,,2026-10-22
+37079090,8,37,Other,Free,,,,,2026-10-22

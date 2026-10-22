@@ -1,0 +1,54 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+4901,4,49,"Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets.",,,,,,2026-10-22
+490110,6,49,"In single sheets, whether or not folded",,,,,,2026-10-22
+49011010,8,49,Printed books,Free,,,,,2026-10-22
+49011020,8,49,"Pamphlets, booklets, brochures, leaflets and similar printed matter other",Free,,,,,2026-10-22
+49019100,8,49,"Other : -- Dictionaries and encyclopaedias, and serial instalments thereof",Free,,,,,2026-10-22
+49019900,8,49,Other : -- Other,Free,,,,,2026-10-22
+4902,4,49,"Newspapers, journals and periodicals, whether or not illustrated or containing advertising material.",,,,,,2026-10-22
+490210,6,49,Appearing at least four times a week,,,,,,2026-10-22
+49021010,8,49,Newspapers,Free,,,,,2026-10-22
+49021020,8,49,Journals and periodicals,Free,,,,,2026-10-22
+490290,6,49,Other,,,,,,2026-10-22
+49029010,8,49,Newspapers,Free,,,,,2026-10-22
+49029020,8,49,Journals and periodicals,Free,,,,,2026-10-22
+4903,4,49,"Childrens picture, drawing or colouring books.",,,,,,2026-10-22
+490300,6,49,"Children's picture, drawing or colouring books :",,,,,,2026-10-22
+49030010,8,49,Picture books,Free,,,,,2026-10-22
+49030020,8,49,Drawing or colouring books,Free,,,,,2026-10-22
+49040000,8,49,"Music, printed or in manuscript, whether or not bound or illustrated.",Free,,,,,2026-10-22
+4905,4,49,"Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed.",,,,,,2026-10-22
+49052000,8,49,In book form,Free,,,54/2015-2020,2022-02-09,2026-10-22
+490590,6,49,Other:,,,,,,2026-10-22
+49059010,8,49,"Geographical, hydrological, astronomical maps or charts",Free,,,54/2015-2020,2022-02-09,2026-10-22
+49059020,8,49,Globe,,,,,,2026-10-22
+49059090,8,49,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+49060000,8,49,"Plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, being originals drawn by hand; hand-written texts; photographic reproductions on sensitised paper and carbon copies of the foregoing.",Free,,,,,2026-10-22
+4907,4,49,"Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; banknotes; cheque forms; stock, share or bond certificates and similar documents of title.",,,,,,2026-10-22
+490700,6,49,"Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognized face value; stamp-impressed paper; bank notes; cheque forms; stock, share or bond certificates and similar documents of title :",,,,,,2026-10-22
+49070010,8,49,"Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognized face value",Restricted,,,,,2026-10-22
+49070020,8,49,Bank notes,Restricted,Import by banks and dealers authorised by RBI will not require a licence by DGFT. Other condition of RBI will apply.,,,,2026-10-22
+49070030,8,49,Documents of title conveying the right to use Information Technology software,Free,,,,,2026-10-22
+49070090,8,49,Other,Restricted,,,,,2026-10-22
+4908,4,49,Transfers (decalcomanias).,,,,,,2026-10-22
+49081000,8,49,"Transfers (decalcomanias), vitrifiable",Free,,,,,2026-10-22
+49089000,8,49,Other,Free,,,,,2026-10-22
+4909,4,49,"Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings.",,,,,,2026-10-22
+490900,6,49,"Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings :",,,,,,2026-10-22
+49090010,8,49,Greetings or Wedding cards,Free,,,,,2026-10-22
+49090090,8,49,Other,Free,,,,,2026-10-22
+4910,4,49,"Calendars of any kind, printed, including calendar blocks.",,,,,,2026-10-22
+491000,6,49,"Calendars of any kind, printed, including calendar blocks :",,,,,,2026-10-22
+49100010,8,49,Advertising calendar,Free,,,,,2026-10-22
+49100090,8,49,Other,Free,,,,,2026-10-22
+4911,4,49,"Other printed matter, including printed pictures and photographs.",,,,,,2026-10-22
+491110,6,49,"Trade advertising material, commercial catalogues and the like",,,,,,2026-10-22
+49111010,8,49,"Posters, printed",Free,,,,,2026-10-22
+49111020,8,49,Commercial catalogues,Free,,,,,2026-10-22
+49111030,8,49,Printed inlay cards,Free,,,,,2026-10-22
+49111090,8,49,Other,Free,,,,,2026-10-22
+49119100,8,49,"Other : -- Pictures, designs and photographs",Free,,,,,2026-10-22
+491199,6,49,Other : -- Other,,,,,,2026-10-22
+49119910,8,49,Hard copy (printed) of computer software,Free,,,,,2026-10-22
+49119920,8,49,"Plan and drawings for architectural engineering, industrial, commercial, topographical or similar purposes reproduced with the aid of computer or any other devices",Free,,,,,2026-10-22
+49119990,8,49,Other,Free,,,,,2026-10-22

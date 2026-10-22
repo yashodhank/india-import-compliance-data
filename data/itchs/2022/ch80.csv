@@ -1,0 +1,20 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+8001,4,80,Unwrought tin.,,,,,,2026-10-22
+800110,6,80,"Tin, not alloyed",,,,,,2026-10-22
+80011010,8,80,Blocks,Free,,,,,2026-10-22
+80011090,8,80,"Ingots, pigs, slabs and other primary forms of tin",Free,,,,,2026-10-22
+80012000,8,80,Tin alloys,Free,,,,,2026-10-22
+8002,4,80,Tin waste and scrap.,,,,,,2026-10-22
+800200,6,80,Tin waste and scrap :,,,,,,2026-10-22
+80020010,8,80,"Tin scrap, namely the following: Block tin covered by ISRI code word Ranch; High tin base babbit covered by ISRI code word Raves; Pewter covered by ISRI code word Ranks.",Free,,,,,2026-10-22
+80020090,8,80,Other,Restricted,,,,,2026-10-22
+8003,4,80,"Tin bars, rods, profiles and wire.",,,,,,2026-10-22
+800300,6,80,"Tin bars, rods, profiles and wire :",,,,,,2026-10-22
+80030010,8,80,Hollow bars,Free,,,,,2026-10-22
+80030020,8,80,"Bars,other than hollow bars and rods",Free,,,,,2026-10-22
+80030030,8,80,Profiles,Free,,,,,2026-10-22
+80030040,8,80,Wires,Free,,,,,2026-10-22
+8007,4,80,Other articles of tin.,,,,,,2026-10-22
+800700,6,80,Other articles of tin :,,,,,,2026-10-22
+80070010,8,80,Blanks,Free,,,,,2026-10-22
+80070090,8,80,Other,Free,,,,,2026-10-22

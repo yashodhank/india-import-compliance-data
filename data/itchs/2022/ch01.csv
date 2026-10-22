@@ -1,0 +1,60 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+0101,4,01,"Live horses, asses, mules and hinnies.",,,,,,2026-10-22
+01012100,8,01,Horses : -- Pure-bred breeding animals,Restricted,-,,,,2026-10-22
+010129,6,01,Horses : -- Other,,,,,,2026-10-22
+01012910,8,01,Horses for Polo,Restricted,,,,,2026-10-22
+01012990,8,01,Other,Restricted,,,,,2026-10-22
+010130,6,01,Asses,,,,,,2026-10-22
+01013010,8,01,Pure-bred breeding animals,Restricted,,,,,2026-10-22
+01013020,8,01,Livestock,Restricted,,,,,2026-10-22
+01013090,8,01,Other,Restricted,,,,,2026-10-22
+010190,6,01,Other,,,,,,2026-10-22
+01019030,8,01,Mules and hinnies as livestock,Restricted,-,,,,2026-10-22
+01019090,8,01,Other,Restricted,,,,,2026-10-22
+0102,4,01,Live bovine animals.,,,,,,2026-10-22
+010221,6,01,Cattle : -- Pure-bred breeding animals,,,,,,2026-10-22
+01022110,8,01,Bulls,Restricted,,,,,2026-10-22
+01022120,8,01,Cows,Restricted,,,,,2026-10-22
+010229,6,01,Cattle : -- Other,,,,,,2026-10-22
+01022910,8,01,Bulls,Restricted,,,,,2026-10-22
+01022990,8,01,"Other, including calves",Restricted,,,,,2026-10-22
+01023100,8,01,Buffalo : -- Pure-bred breeding animals,Restricted,,,,,2026-10-22
+01023900,8,01,Buffalo : -- Other,Restricted,,,,,2026-10-22
+010290,6,01,Other,,,,,,2026-10-22
+01029010,8,01,Pure-bred breeding animals,Restricted,,,,,2026-10-22
+01029090,8,01,Other,Restricted,,,,,2026-10-22
+0103,4,01,Live swine.,,,,,,2026-10-22
+01031000,8,01,Pure-bred breeding animals,Restricted,,,,,2026-10-22
+01039100,8,01,Other : -- Weighing less than 50 kg,Restricted,,,,,2026-10-22
+01039200,8,01,Other : -- Weighing 50 kg or more,Restricted,,,,,2026-10-22
+0104,4,01,Live sheep and goats.,,,,,,2026-10-22
+010410,6,01,Sheep,,,,,,2026-10-22
+01041010,8,01,Sheep including lamb for breeding purpose,Restricted,,,,,2026-10-22
+01041090,8,01,Other,Restricted,,,,,2026-10-22
+01042000,8,01,Goats,Restricted,,,,,2026-10-22
+0105,4,01,"Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls.",,,,,,2026-10-22
+01051100,8,01,Weighing not more than 185 g : -- Fowls of the species Gallus domesticus,Restricted,"Grandparent stock of poultry is, however, freely importable.",,,,2026-10-22
+01051200,8,01,Weighing not more than 185 g : -- Turkeys,Restricted,"Grandparent stock of poultry is, however, freely importable.",,,,2026-10-22
+01051300,8,01,Weighing not more than 185 g : -- Ducks,Restricted,"Grandparent stock of poultry is, however, freely importable.",,,,2026-10-22
+01051400,8,01,Weighing not more than 185 g : -- Geese,Restricted,"Grandparent stock of poultry is, however, freely importable.",,,,2026-10-22
+01051500,8,01,Weighing not more than 185 g : -- Guinea fowls,Restricted,"Grandparent stock of poultry is, however, freely importable.",,,,2026-10-22
+01059400,8,01,Other : -- Fowls of the species Gallus domesticus,Restricted,,,,,2026-10-22
+01059900,8,01,Other : -- Other,Restricted,,,,,2026-10-22
+0106,4,01,Other live animals.,,,,,,2026-10-22
+01061100,8,01,Mammals: -- Primates,Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+01061200,8,01,"Mammals: -- Whales, dolphins and porpoises (mammals of the order Cetacea); manatees and dugongs (mammals of the order Sirenia); seals, sea lions and walruses (mammals of the suborder Pinnipedia)",Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+01061300,8,01,Mammals: -- Camels and other camelids (Camelidae),Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+01061400,8,01,Mammals: -- Rabbits and hares,Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+01061900,8,01,Mammals: -- Other,Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+01062000,8,01,Reptiles (including snakes and turtles),Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+01063100,8,01,Birds: -- Birds of prey,Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+01063200,8,01,"Birds: -- Psittaciformes (including parrots, parakeets, macaws and cockatoos)",Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+01063300,8,01,Birds: -- Ostriches; emus (Dromaius novaehollandiae),Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+01063900,8,01,Birds: -- Other,Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+010641,6,01,Insects : -- Bees,,,,,,2026-10-22
+01064110,8,01,Pureline Stock,Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+01064190,8,01,Other,Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+010649,6,01,Insects : -- Other,,,,,,2026-10-22
+01064910,8,01,Pureline Stock,Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+01064990,8,01,Other,Restricted,Subject to Policy Condition 6 of this Chapter.,6,,,2026-10-22
+01069000,8,01,Other,Restricted,"i. Subject to Policy Condition 6 of this Chapter. ii. Import of Drosophila melanogaster is 'Free', subject to IBSC approval, as per the provisions of the Revised Simplified Procedures/ Guidelines on Import, Export and Exchange of GE organisms and products thereof for R & D purpose notified by the Department of Biotechnology vide OM No. BT/BS/17/635/2015-PID dated 17.01.2020.",6,57/2015-2020,2022-03-07,2026-10-22

@@ -1,0 +1,295 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+8701,4,87,Tractors (other than tractors of heading 87.09).,,,,,,2026-10-22
+87011000,8,87,Single axle tractors,Free,,,,,2026-10-22
+87012100,8,87,Road tractors for semi-trailers: - - With only compression-ignition internal combustion piston engine (diesel or semi-diesel),Free,,,54/2015-2020,2022-02-09,2026-10-22
+87012200,8,87,Road tractors for semi-trailers: - - With both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion,Free,,,54/2015-2020,2022-02-09,2026-10-22
+87012300,8,87,Road tractors for semi-trailers: - - With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion,Free,,,54/2015-2020,2022-02-09,2026-10-22
+87012400,8,87,Road tractors for semi-trailers: - - With only electric motor for propulsion,Free,,,54/2015-2020,2022-02-09,2026-10-22
+87012900,8,87,Road tractors for semi-trailers: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+870130,6,87,Track-laying tractors,,,,,,2026-10-22
+87013011,8,87,Garden tractors: ----Of engine capacity not exceeding 1800 cc,Free,,,,,2026-10-22
+87013019,8,87,Garden tractors: ----Other,Free,,,,,2026-10-22
+87013091,8,87,other ----Of engine capacity not exceeding 1800 cc,Free,,,,,2026-10-22
+87013099,8,87,other ----Other,Free,,,,,2026-10-22
+87019100,8,87,"Other, of an engine power : -- Not exceeding 18 kW",Free,,,,,2026-10-22
+87019200,8,87,"Other, of an engine power : -- Exceeding 18 kW but not exceeding 37 kW",Free,,,,,2026-10-22
+87019300,8,87,"Other, of an engine power : -- Exceeding 37 kW but not exceeding 75 kW",Free,,,,,2026-10-22
+87019400,8,87,"Other, of an engine power : -- Exceeding 75 kW but not exceeding 130 kW",Free,,,,,2026-10-22
+87019500,8,87,"Other, of an engine power : -- Exceeding 130 kW",Free,,,,,2026-10-22
+8702,4,87,"Motor vehicles for the transport of ten or more persons, including the driver.",,,,,,2026-10-22
+870210,6,87,With only compression-ignition internal combustion piston engine (diesel or semi-diesel),,,,,,2026-10-22
+87021011,8,87,"Integrated monocoque vehicle, air-conditioned",Free,,,,,2026-10-22
+87021012,8,87,"Integrated monocoque vehicle, non air-conditioned",Free,,,,,2026-10-22
+87021018,8,87,"Other, air-conditioned",Free,,,,,2026-10-22
+87021019,8,87,"Other, non air-conditioned",Free,,,,,2026-10-22
+87021021,8,87,"other ----Integrated monocoque vehicle, air-conditioned",Free,,,,,2026-10-22
+87021022,8,87,"other ----Integrated monocoque vehicle, non air-conditioned",Free,,,,,2026-10-22
+87021028,8,87,"other ----Other, air-conditioned",Free,,,,,2026-10-22
+87021029,8,87,"other ----Other, non air-conditioned",Free,,,,,2026-10-22
+870220,6,87,With both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion,,,,,,2026-10-22
+87022011,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, air-conditioned",Free,,,,,2026-10-22
+87022012,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, non air-conditioned",Free,,,,,2026-10-22
+87022018,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Other, air-conditioned",Free,,,,,2026-10-22
+87022019,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Other, non air-conditioned",Free,,,,,2026-10-22
+87022021,8,87,"other ----Integrated monocoque vehicle, air-conditioned",Free,,,,,2026-10-22
+87022022,8,87,"other ----Integrated monocoque vehicle, non air-conditioned",Free,,,,,2026-10-22
+87022028,8,87,"other ----Other, air-conditioned",Free,,,,,2026-10-22
+87022029,8,87,"other ----Other, non air-conditioned",Free,,,,,2026-10-22
+870230,6,87,With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion:,,,,,,2026-10-22
+87023011,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, air-conditioned",Free,,,,,2026-10-22
+87023012,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, non air-conditioned",Free,,,,,2026-10-22
+87023018,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Other, air-conditioned",Free,,,,,2026-10-22
+87023019,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Other, non air-conditioned",Free,,,,,2026-10-22
+87023021,8,87,"other ----Integrated monocoque vehicle, air-conditioned",Free,,,,,2026-10-22
+87023022,8,87,"other ----Integrated monocoque vehicle, non air-conditioned",Free,,,,,2026-10-22
+87023028,8,87,"other ----Other, air-conditioned",Free,,,,,2026-10-22
+87023029,8,87,"other ----Other, non air-conditioned",Free,,,,,2026-10-22
+870240,6,87,With only electric motor for propulsion,,,,,,2026-10-22
+87024011,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, air-conditioned",Free,,,,,2026-10-22
+87024012,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, non air-conditioned",Free,,,,,2026-10-22
+87024018,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Other, air-conditioned",Free,,,,,2026-10-22
+87024019,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Other, non air-conditioned",Free,,,,,2026-10-22
+87024021,8,87,"Other: ----Integrated monocoque vehicle, air-conditioned",Free,,,,,2026-10-22
+87024022,8,87,"Other: ----Integrated monocoque vehicle, non air-conditioned",Free,,,,,2026-10-22
+87024028,8,87,"Other: ----Other, air-conditioned",Free,,,,,2026-10-22
+87024029,8,87,"Other: ----Other, non air-conditioned",Free,,,,,2026-10-22
+870290,6,87,Other,,,,,,2026-10-22
+87029011,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, air-conditioned",Free,,,,,2026-10-22
+87029012,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, non air-conditioned",Free,,,,,2026-10-22
+87029018,8,87,"Vehicles for transport of not more than 13 persons, including the driver: ----Other, air-conditioned",Free,,,,,2026-10-22
+87029019,8,87,"Other, non air-conditioned other",Free,,,,,2026-10-22
+87029021,8,87,"Other: ----Integrated monocoque vehicle, air-conditioned",Free,,,,,2026-10-22
+87029022,8,87,"Other: ----Integrated monocoque vehicle, non air-conditioned",Free,,,,,2026-10-22
+87029028,8,87,"Other: ----Other, air-conditioned",Free,,,,,2026-10-22
+87029029,8,87,"Other: ----Other, non air-conditioned",Free,,,,,2026-10-22
+8703,4,87,"Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 87.02), including station wagons and racing cars.",,,,,,2026-10-22
+870310,6,87,Vehicles specially designed for travelling on snow; golf cars and similar vehicles,,,,,,2026-10-22
+87031010,8,87,Electrically operated,Free,,,,,2026-10-22
+87031090,8,87,Other,Free,,,,,2026-10-22
+870321,6,87,"Other vehicles, with only spark-ignition internal combustion reciprocating piston engine : -- Of a cylinder capacity not exceeding 1,000 cc",,,,,,2026-10-22
+87032110,8,87,"Vehicles principally designed for the transport of more than seven persons, including the driver",Free,,,,,2026-10-22
+87032120,8,87,Three-wheeled vehicles,Free,,,,,2026-10-22
+87032191,8,87,Other: ----Motor cars,Free,,,,,2026-10-22
+87032192,8,87,"Other: ----Specialised transport vehicles such as ambulances, prison vans and the like",Free,,,,,2026-10-22
+87032199,8,87,Other: ----Other,Free,,,,,2026-10-22
+870322,6,87,"Other vehicles, with only spark-ignition internal combustion reciprocating piston engine : -- Of a cylinder capacity exceeding 1,000 cc but not exceeding 1,500 cc",,,,,,2026-10-22
+87032210,8,87,"Vehicles principally designed for the transport of more than seven persons, including the driver",Free,,,,,2026-10-22
+87032220,8,87,"Specialised transport vehicles such as ambulances, prison vans and the like",Free,,,,,2026-10-22
+87032230,8,87,Three-wheeled vehicles,Free,,,,,2026-10-22
+87032291,8,87,Other: ----Motor cars,Free,,,,,2026-10-22
+87032299,8,87,Other: ----Other,Free,,,,,2026-10-22
+870323,6,87,"Other vehicles, with only spark-ignition internal combustion reciprocating piston engine : -- Of a cylinder capacity exceeding 1,500 cc but not exceeding 3,000 cc",,,,,,2026-10-22
+87032310,8,87,"Vehicles principally designed for the transport of more than seven persons, including the driver",Free,,,,,2026-10-22
+87032320,8,87,Three-wheeled vehicles,Free,,,,,2026-10-22
+87032391,8,87,Other: ----Motor cars,Free,,,,,2026-10-22
+87032392,8,87,"Other: ----Specialized transport vehicles such as ambulances, prison vans and the like",Free,,,,,2026-10-22
+87032399,8,87,Other: ----Other,Free,,,,,2026-10-22
+870324,6,87,"Other vehicles, with only spark-ignition internal combustion reciprocating piston engine : -- Of a cylinder capacity exceeding 3,000 cc",,,,,,2026-10-22
+87032410,8,87,"Vehicles principally designed for the transport of more than seven persons, including the driver",Free,,,,,2026-10-22
+87032420,8,87,Three-wheeled vehicles,Free,,,,,2026-10-22
+87032491,8,87,Other: ----Motor cars,Free,,,,,2026-10-22
+87032492,8,87,"Other: ----Specialised transport vehicles such as ambulances, prison vans and the like",Free,,,,,2026-10-22
+87032499,8,87,Other: ----Other,Free,,,,,2026-10-22
+870331,6,87,"Other vehicles, with only compression-ignition internal combustion piston engine (diesel or semi-diesel) : -- Of a cylinder capacity not exceeding 1,500 cc",,,,,,2026-10-22
+87033110,8,87,"Other: ----Vehicles principally designed for the transport of more than seven persons, including the driver",Free,,,,,2026-10-22
+87033191,8,87,Other: ----Motor cars,Free,,,,,2026-10-22
+87033192,8,87,"Other: ----Specialised transport vehicles such as ambulances, prison vans and the like",Free,,,,,2026-10-22
+87033199,8,87,Other,Free,,,,,2026-10-22
+870332,6,87,"Other vehicles, with only compression-ignition internal combustion piston engine (diesel or semi-diesel) : -- Of a cylinder capacity exceeding 1,500 cc but not exceeding 2,500 cc",,,,,,2026-10-22
+87033210,8,87,"Vehicles principally designed for the transport of more than seven persons, including the driver",Free,,,,,2026-10-22
+87033291,8,87,Motor cars,Free,,,,,2026-10-22
+87033292,8,87,"Specialised transport vehicles such as ambulances, prison vans and the like",Free,,,,,2026-10-22
+87033299,8,87,Other,Free,,,,,2026-10-22
+870333,6,87,"Other vehicles, with only compression-ignition internal combustion piston engine (diesel or semi-diesel) : -- Of a cylinder capacity exceeding 2,500 cc",,,,,,2026-10-22
+87033310,8,87,"Vehicles principally designed for the transport of more than seven persons, including the driver",Free,,,,,2026-10-22
+87033320,8,87,Three-wheeled vehicles other,Free,,,,,2026-10-22
+87033391,8,87,Other: ----Motor cars,Free,,,,,2026-10-22
+87033392,8,87,"Other: ----Specialised transport vehicles such as ambulances, prison vans and the like",Free,,,,,2026-10-22
+87033399,8,87,Other: ----Other,Free,,,,,2026-10-22
+870340,6,87,"Other vehicles, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion, other than those capable of being charged by plugging to external source of electric power:",,,,,,2026-10-22
+87034010,8,87,"Vehicles principally designed for transport of more than seven persons, including driver",Free,,,,,2026-10-22
+87034020,8,87,"Specialised transport vehicles such as ambulances, prison vans and the like",Free,,,,,2026-10-22
+87034030,8,87,Motor cars,Free,,,,,2026-10-22
+87034040,8,87,Three-wheeled vehicles,Free,,,,,2026-10-22
+87034090,8,87,Other,Free,,,,,2026-10-22
+870350,6,87,"Other vehicles, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion, other than those capable of being charged by plugging to external source of electric power",,,,,,2026-10-22
+87035010,8,87,"Vehicles principally designed for transport of more than seven persons, including driver",Free,,,,,2026-10-22
+87035020,8,87,"Specialised transport vehicles such as ambulances, prison vans and the like",Free,,,,,2026-10-22
+87035030,8,87,Motor cars,Free,,,,,2026-10-22
+87035040,8,87,Three-wheeled vehicles,Free,,,,,2026-10-22
+87035090,8,87,Other,Free,,,,,2026-10-22
+870360,6,87,"Other vehicles, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power:",,,,,,2026-10-22
+87036010,8,87,"Vehicles principally designed for transport of more than seven persons, including driver",Free,,,,,2026-10-22
+87036020,8,87,"Specialised transport vehicles such as ambulances, prison vans and the like",Free,,,,,2026-10-22
+87036030,8,87,Motor cars,Free,,,,,2026-10-22
+87036040,8,87,Three-wheeled vehicles,Free,,,,,2026-10-22
+87036090,8,87,Other,Free,,,,,2026-10-22
+870370,6,87,"Other vehicles, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power",,,,,,2026-10-22
+87037010,8,87,"Vehicles principally designed for transport of more than seven persons, including driver",Free,,,,,2026-10-22
+87037020,8,87,"Specialised transport vehicles such as ambulances, prison vans and the like",Free,,,,,2026-10-22
+87037030,8,87,Motor cars,Free,,,,,2026-10-22
+87037040,8,87,Three-wheeled vehicles,Free,,,,,2026-10-22
+87037090,8,87,Other,Free,,,,,2026-10-22
+870380,6,87,"Other vehicles, with only electric motor for propulsion",,,,,,2026-10-22
+87038010,8,87,"Vehicles principally designed for transport of more than seven persons, including driver",Free,,,,,2026-10-22
+87038020,8,87,"Specialised transport vehicles such as ambulances, prison vans and the like",Free,,,,,2026-10-22
+87038030,8,87,Motor cars,Free,,,,,2026-10-22
+87038040,8,87,Three-wheeled vehicles,Free,,,,,2026-10-22
+87038090,8,87,Other,Free,,,,,2026-10-22
+87039000,8,87,Other,Free,,,,,2026-10-22
+8704,4,87,Motor vehicles for the transport of goods.,,,,,,2026-10-22
+870410,6,87,Dumpers designed for off-highway use,,,,,,2026-10-22
+87041010,8,87,With net weight (excluding pay-load) exceeding 8 tonnes and maximum pay-load capacity not less than 10 tonnes,Free,,,,,2026-10-22
+87041090,8,87,Other,Free,.,,08/2023,2023-05-29,2026-10-22
+87042100,8,87,"Other, with only compression-ignition internal combustion piston engine (diesel or semi-diesel): - - g.v.w. not exceeding 5 tonnes",Free,,,54/2015-2020,2022-02-09,2026-10-22
+87042200,8,87,"Other, with only compression-ignition internal combustion piston engine (diesel or semi-diesel): - - g.v.w. exceeding 5 tonnes but not exceeding 20 tonnes",Free,,,54/2015-2020,2022-02-09,2026-10-22
+87042219,8,87,Lorries and trucks: ----Other,Free,,,,,2026-10-22
+87042300,8,87,"Other, with only compression-ignition internal combustion piston engine (diesel or semi-diesel): - - g.v.w. exceeding 20 tonnes",Free,,,54/2015-2020,2022-02-09,2026-10-22
+87043100,8,87,"Other, with only spark-ignition internal combustion piston engine - - g.v.w. not exceeding 5 tonnes",Free,,,54/2015-2020,2022-02-09,2026-10-22
+87043200,8,87,"Other, with only spark-ignition internal combustion piston engine - - g.v.w. exceeding 5 tonnes",Free,,,54/2015-2020,2022-02-09,2026-10-22
+87043219,8,87,Lorries and trucks: ----Other,Free,,,,,2026-10-22
+87044100,8,87,"Other, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion: - - g.v.w. not exceeding 5 tonnes",Free,,,54/2015-2020,2022-02-09,2026-10-22
+87044200,8,87,"Other, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion: - - g.v.w. exceeding 5 tonnes but not exceeding 20 tonnes",Free,,,54/2015-2020,2022-02-09,2026-10-22
+87044300,8,87,"Other, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion: - - g.v.w. exceeding 20 tonnes",Free,,,54/2015-2020,2022-02-09,2026-10-22
+87045100,8,87,"Other, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion: - - g.v.w. not exceeding 5 tonnes",Free,,,54/2015-2020,2022-02-09,2026-10-22
+87045200,8,87,"Other, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion: - - g.v.w. exceeding 5 tonnes",Free,,,54/2015-2020,2022-02-09,2026-10-22
+87046000,8,87,"Other, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion: - Other with only electric motor for propulsion",Free,,,54/2015-2020,2022-02-09,2026-10-22
+870490,6,87,Other,,,,,,2026-10-22
+87049011,8,87,Lorries and trucks: ----Refrigerated,Free,,,,,2026-10-22
+87049012,8,87,Lorries and trucks: ----Electrically operated,Free,,,,,2026-10-22
+87049019,8,87,Lorries and trucks: ----Other,Free,,,,,2026-10-22
+87049090,8,87,Lorries and trucks: ----Other,Free,,,,,2026-10-22
+8705,4,87,"Special purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries, fire fighting vehicles, concretemixer lorries, road sweeper lorries, spraying lorries, mobile workshops, mobile radiological units).",,,,,,2026-10-22
+87051000,8,87,Crane Lorries,Free,,,,,2026-10-22
+87052000,8,87,Mobile drilling derricks,Free,,,,,2026-10-22
+87053000,8,87,Fire fighting vehicles,Free,,,,,2026-10-22
+87054000,8,87,Concrete-mixer lorries,Free,,,,,2026-10-22
+870590,6,87,Other:,,,,,,2026-10-22
+87059010,8,87,Lorries (Trucks) fitted with bridging systems,Free,.,,40/2024-25,2024-11-26,2026-10-22
+87059090,8,87,Other,Free,.,,40/2024-25,2024-11-26,2026-10-22
+8706,4,87,"Chassis fitted with engines, for the motor vehicles of headings 87.01 to 87.05.",,,,,,2026-10-22
+870600,6,87,"Chassis fitted with engines, for the motor vehicles of headings 8701 to 8705:",,,,,,2026-10-22
+87060011,8,87,For the tractors of heading 8701: ----Of engine capacity not exceeding 1800 cc,Free,,,,,2026-10-22
+87060019,8,87,For the tractors of heading 8701: ----Other,Free,,,,,2026-10-22
+87060021,8,87,"for the vehicles of heading 8702: ----For transport of not more than thirteen persons, including the driver",Free,,,,,2026-10-22
+87060029,8,87,for the vehicles of heading 8702: ----Other,Free,,,,,2026-10-22
+87060031,8,87,for the vehicles of heading 8703: ----For three-wheeled vehicles,Free,,,,,2026-10-22
+87060039,8,87,for the vehicles of heading 8703: ----Other,Free,,,,,2026-10-22
+87060041,8,87,for the vehicles of heading 8704: ----For three-wheeled motor vehicle,Free,,,,,2026-10-22
+87060042,8,87,"for the vehicles of heading 8704: ----For vehicles, other than petrol driven",Free,,,,,2026-10-22
+87060043,8,87,for the vehicles of heading 8704: ----For dumpers covered in the heading 8704,Free,,,,,2026-10-22
+87060049,8,87,for the vehicles of heading 8704: ----Other,Free,,,,,2026-10-22
+87060050,8,87,For the motor vehicles of heading 8705,Free,,,,,2026-10-22
+8707,4,87,"Bodies (including cabs), for the motor vehicles of headings 87.01 to 87.05.",,,,,,2026-10-22
+87071000,8,87,For the vehicles of heading 87.03,Free,,,,,2026-10-22
+87079000,8,87,Other,Free,,,,,2026-10-22
+8708,4,87,Parts and accessories of the motor vehicles of headings 87.01 to 87.05.,,,,,,2026-10-22
+870810,6,87,Bumpers and parts thereof,,,,,,2026-10-22
+87081010,8,87,For tractors,Free,,,,,2026-10-22
+87081090,8,87,Other,Free,,,,,2026-10-22
+87082100,8,87,Other parts and accessories of bodies (including cabs): ----Safety seat belts,Free,,,,,2026-10-22
+87082200,8,87,"Front windscreens (windshields), rear windows and other windows specified in Sub-heading Note 1 to this Chapter",Free,,,54/2015-2020,2022-02-09,2026-10-22
+87082900,8,87,Other parts and accessories of bodies (including cabs): ----Other,Free,,,,,2026-10-22
+87083000,8,87,Brakes and servo-brakes; parts thereof,Free,,,,,2026-10-22
+87084000,8,87,Gear boxes and parts thereof,Free,,,,,2026-10-22
+87085000,8,87,"Drive-axles with differential, whether or not provided with other transmission components, non-driving axles; parts thereof",Free,,,,,2026-10-22
+87087000,8,87,Road wheels and parts and accessories thereof,Free,,,,,2026-10-22
+87088000,8,87,Suspension systems and parts thereof (including shock-absorbers),Free,,,,,2026-10-22
+870891,6,87,Other parts and accessories :-- Radiators and parts thereof,,,,,,2026-10-22
+87089100,8,87,Other parts and accessories : -- Radiators and parts thereof,Free,,,,,2026-10-22
+87089200,8,87,Other parts and accessories : -- Silencers (mufflers) and exhaust pipes; parts thereof thereof,Free,,,,,2026-10-22
+87089300,8,87,Other parts and accessories : -- Clutches and parts thereof,Free,,,,,2026-10-22
+87089400,8,87,"Other parts and accessories : -- Steering wheels, steering columns and steering boxes; parts",Free,,,,,2026-10-22
+87089500,8,87,Other parts and accessories : -- Safety airbags with inflater system; parts thereof,Free,,,,,2026-10-22
+87089900,8,87,Other parts and accessories : -- Other,Free,,,,,2026-10-22
+8709,4,87,"Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles.",,,,,,2026-10-22
+87091100,8,87,Vehicles : -- Electrical,Free,,,,,2026-10-22
+87091900,8,87,Vehicles : -- Other,Free,,,,,2026-10-22
+87099000,8,87,Parts,Free,,,,,2026-10-22
+87100000,8,87,"Tanks and other armoured fighting vehicles, motorised, whether or not fitted with weapons, and parts of such vehicles.",Restricted,,,,,2026-10-22
+8711,4,87,"Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars.",,,,,,2026-10-22
+87110000,8,87,"Vintage Motorcycles, parts and components thereof manufactured prior to 1.1.1940",,,,,,2026-10-22
+871110,6,87,With internal combustion piston engine of a cylinder capacity not exceeding 50 cc :,,,,,,2026-10-22
+87111010,8,87,Mopeds,Free,,,,,2026-10-22
+87111020,8,87,Motorised cycles,Free,,,,,2026-10-22
+87111090,8,87,Other,Free,,,,,2026-10-22
+871120,6,87,With internal combustion piston engine of a cylinder capacity exceeding 50 cc but not exceeding 250 cc :,,,,,,2026-10-22
+87112011,8,87,Scooters: ----Of cylinder capacity not exceeding 75 cc,Free,,,,,2026-10-22
+87112019,8,87,Scooters: ----Other,Free,,,,,2026-10-22
+87112021,8,87,Motor cycles: ----Of cylinder capacity not exceeding 75 cc,Free,,,,,2026-10-22
+87112029,8,87,Motor cycles: ----Other,Free,,,,,2026-10-22
+87112031,8,87,Mopeds: ----Of cylinder capacity not exceeding 75 cc,Free,,,,,2026-10-22
+87112039,8,87,Mopeds: ----Other,Free,,,,,2026-10-22
+87112091,8,87,Other: ----Of cylinder capacity not exceeding 75 cc,Free,,,,,2026-10-22
+87112099,8,87,Other: ----Other,Free,,,,,2026-10-22
+871130,6,87,With internal combustion piston engine of a cylinder capacity exceeding 250 cc but not exceeding 500 cc :,,,,,,2026-10-22
+87113010,8,87,Scooters,Free,,,,,2026-10-22
+87113020,8,87,Motor-cycles,Free,,,,,2026-10-22
+87113090,8,87,Other,Free,,,,,2026-10-22
+871140,6,87,With internal combustion piston engine of a cylinder capacity exceeding500 cc but not exceeding 800 cc :,,,,,,2026-10-22
+87114010,8,87,Motor-cycles,Free,,,,,2026-10-22
+87114090,8,87,Other,Free,,,,,2026-10-22
+87115000,8,87,With internal combustion piston engine of a cylinder capacity exceeding 800 cc,Free,,,,,2026-10-22
+871160,6,87,With electric motor for propulsion,,,,,,2026-10-22
+87116010,8,87,Motor cycles,Free,,,,,2026-10-22
+87116020,8,87,Scooters,Free,,,,,2026-10-22
+87116030,8,87,Mopeds,Free,,,,,2026-10-22
+87116080,8,87,E-bicycle or battery-operated pedal assisted vehicle,Free,.,,40/2024-25,2024-11-26,2026-10-22
+87116090,8,87,Others,Free,,,,,2026-10-22
+871190,6,87,Other,,,,,,2026-10-22
+87119010,8,87,Side-cars,Free,,,,,2026-10-22
+87119090,8,87,Other,Free,,,,,2026-10-22
+8712,4,87,"Bicycles and other cycles (including delivery tricycles), not motorised.",,,,,,2026-10-22
+871200,6,87,"Bicycles and other cycles (including delivery tricycles), not motorised :",,,,,,2026-10-22
+87120010,8,87,Bicycles,Free,,,,,2026-10-22
+87120090,8,87,Other,Free,,,,,2026-10-22
+8713,4,87,"Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled.",,,,,,2026-10-22
+871310,6,87,Not mechanically propelled,,,,,,2026-10-22
+87131010,8,87,Wheel chairs for invalid,Free,,,,,2026-10-22
+87131090,8,87,Other,Free,,,,,2026-10-22
+871390,6,87,Other :,,,,,,2026-10-22
+87139010,8,87,Wheel chairs for invalid,Free,,,,,2026-10-22
+87139090,8,87,Other,Free,,,,,2026-10-22
+8714,4,87,Parts and accessories of vehicles of headings 87.11 to 87.13.,,,,,,2026-10-22
+871410,6,87,Of motorcycles (including mopeds),,,,,,2026-10-22
+87141010,8,87,Saddles,Free,,,,,2026-10-22
+87141090,8,87,Other,Free,,,,,2026-10-22
+871420,6,87,Of carriages for disabled persons,,,,,,2026-10-22
+87142010,8,87,Mechanically propelled,Free,,,,,2026-10-22
+87142020,8,87,Non-mechanically propelled,Free,,,,,2026-10-22
+87142090,8,87,Other,Free,,,,,2026-10-22
+87149100,8,87,"Other : -- Frames and forks, and parts thereof",Free,,,,,2026-10-22
+871492,6,87,Other : -- Wheel rims and spokes,,,,,,2026-10-22
+87149210,8,87,Bicycle rims,Free,,,,,2026-10-22
+87149220,8,87,Bicycle spokes,Free,,,,,2026-10-22
+87149290,8,87,Other,Free,,,,,2026-10-22
+871493,6,87,"Other : -- Hubs, other than coaster braking hubs and hub brakes, and free-wheel sprocket-wheels",,,,,,2026-10-22
+87149310,8,87,Bicycle hubs,Free,,,,,2026-10-22
+87149320,8,87,Bicycle free-wheels,Free,,,,,2026-10-22
+87149390,8,87,Other,Free,,,,,2026-10-22
+87149400,8,87,"Other : -- Brakes, including coaster braking hubs and hub brakes, and parts thereof",Free,,,,,2026-10-22
+871495,6,87,Other : -- Saddles,,,,,,2026-10-22
+87149510,8,87,Bicycle saddles,Free,,,,,2026-10-22
+87149590,8,87,Other,Free,,,,,2026-10-22
+87149600,8,87,"Other : -- Pedals and crank-gear, and parts thereof",Free,,,,,2026-10-22
+871499,6,87,Other : -- Other,,,,,,2026-10-22
+87149910,8,87,Bicycle chains,Free,,,,,2026-10-22
+87149920,8,87,Bicycle wheels,Free,,,,,2026-10-22
+87149990,8,87,Other,Free,,,,,2026-10-22
+8715,4,87,Baby carriages and parts thereof.,,,,,,2026-10-22
+871500,6,87,Baby carriages and parts thereof :,,,,,,2026-10-22
+87150010,8,87,Baby carriages,Free,,,,,2026-10-22
+87150020,8,87,Parts,Free,,,,,2026-10-22
+8716,4,87,"Trailers and semi-trailers; other vehicles, not mechanically",,,,,,2026-10-22
+87161000,8,87,"Trailers and semi-trailers of the caravan type, for housing or camping",Free,,,,,2026-10-22
+87162000,8,87,Self-loading or self-unloading trailers and semi-trailers for agricultural purposes,Free,,,,,2026-10-22
+87163100,8,87,Other trailers and semi-trailers for the transport of goods : -- Tanker trailers and tanker semi-trailers,Free,,,,,2026-10-22
+87163900,8,87,Other trailers and semi-trailers for the transport of goods : -- Other,Free,,,,,2026-10-22
+87164000,8,87,Other trailers and semi-trailers,Free,,,,,2026-10-22
+871680,6,87,Other vehicles,,,,,,2026-10-22
+87168010,8,87,"Hand propelled vehicles (e.g. hand carts, rickshaws and the like)",Free,,,,,2026-10-22
+87168020,8,87,Animal drawn vehicles,Free,,,,,2026-10-22
+87168090,8,87,Other,Free,,,,,2026-10-22
+871690,6,87,Parts,,,,,,2026-10-22
+87169010,8,87,Parts and accessories of trailers,Free,,,,,2026-10-22
+87169090,8,87,Other,Free,,,,,2026-10-22

@@ -1,0 +1,91 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+2201,4,22,"Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavoured; ice and snow.",,,,,,2026-10-22
+220110,6,22,Mineral waters and aerated waters,,,,,,2026-10-22
+22011010,8,22,Mineral Water,Free,,,,,2026-10-22
+22011020,8,22,Aerated water,Free,,,,,2026-10-22
+220190,6,22,Other,,,,,,2026-10-22
+22019010,8,22,Ice and snow,Free,,,,,2026-10-22
+22019090,8,22,Other,Free,Packaged Drinking water (other than packaged natural mineral water ) must conform to IS 14543 Refer : https://bis.gov.in/qazwsx/cmd/Circular_14543_14082014.pdf,,,,2026-10-22
+2202,4,22,"WATERS, INCLUDING MINERAL WATERS AND AERATED WATERS, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED, AND OTHER NON-ALCOHOLIC BEVERAGES, NOT INCLUDING FRUIT, NUT OR VEGETABLE JUICES OF HEADING 2009",,,,,,2026-10-22
+220210,6,22,"Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured :",,,,,,2026-10-22
+22021010,8,22,Aerated waters,Free,,,,,2026-10-22
+22021020,8,22,Lemonade,Free,,,,,2026-10-22
+22021090,8,22,Other,Free,,,,,2026-10-22
+22029100,8,22,Other : -- Non-alcoholic beer,Free,,,,,2026-10-22
+220299,6,22,Other -- Other,,,,,,2026-10-22
+22029910,8,22,"Soya milk drinks, whether or not sweetened or flavoured",Free,,,,,2026-10-22
+22029921,8,22,--- Fruit pu l p or fru i t juice based dr i nks : ---- Cranberry products,Free,,,24/2026-27,2026-07-22,2026-10-22
+22029929,8,22,--- Fru i t pu l p or fr ui t j uice based drinks : ---- Other </span,Free,,,24/2026-27,2026-07-22,2026-10-22
+22029931,8,22,--- Beverages containing milk :---- Cranberry products,Free,,,24/2026-27,2026-07-22,2026-10-22
+22029939,8,22,--- Beverages containing milk : ---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+22029991,8,22,---Other : ---- Cranberry products,Free,,,24/2026-27,2026-07-22,2026-10-22
+22029999,8,22,--- Other : ---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+22030000,8,22,Beer made from malt.,Free,,,,,2026-10-22
+2204,4,22,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",,,,,,2026-10-22
+22041000,8,22,Sparkling wine,Free,,,,,2026-10-22
+220421,6,22,Other wine; grape must with fermentation prevented or arrested by the addition of alcohol : -- In containers holding 2 l or less,,,,,,2026-10-22
+22042110,8,22,Port and other red wines,Free,,,,,2026-10-22
+22042120,8,22,Sherry and other white wines,Free,,,,,2026-10-22
+22042190,8,22,Other,Free,,,,,2026-10-22
+220422,6,22,Other wine; grape must with fermentation prevented or arrested by the addition of alcohol : -- In containers holding more than 2 l but not more than 10 l,,,,,,2026-10-22
+22042210,8,22,Port and other red wines,Free,,,,,2026-10-22
+22042220,8,22,Sherry and other white wines,Free,,,,,2026-10-22
+22042290,8,22,Other,,,,,,2026-10-22
+220429,6,22,Other wine; grape must with fermentation prevented or arrested by the addition of alcohol : -- Other,,,,,,2026-10-22
+22042910,8,22,Port and other red wines,Free,,,,,2026-10-22
+22042920,8,22,Sherry and other white wines,Free,,,,,2026-10-22
+22042990,8,22,Other,Free,,,,,2026-10-22
+22043000,8,22,Other grape must,Free,,,,,2026-10-22
+2205,4,22,Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances.,,,,,,2026-10-22
+22051000,8,22,In containers holding 2 l or less,Free,,,,,2026-10-22
+22059000,8,22,Other,Free,,,,,2026-10-22
+22060000,8,22,"Other fermented beverages (for example, cider, perry, mead, sake); mixtures of fermented beverages and mixtures of fermented beverages and non-alcoholic beverages, not elsewhere specified or included",Free,,,,,2026-10-22
+2207,4,22,"Undenatured ethyl alcohol of an alcoholic strength by volume of 80 percent vol. or higher; ethyl alcohol and other spirits, denatured, of any strength.",,,,,,2026-10-22
+220710,6,22,Undenatured ethyl alcohol of an alcoholic strength by volume of 80% vol. or higher:,,,,,,2026-10-22
+22071011,8,22,Rectified spirit: ---- Concentrates of alcoholic beverages,Free,,,,,2026-10-22
+22071019,8,22,Rectified spirit: ---- Other,Free,,,,,2026-10-22
+22071090,8,22,Other,Free,,,,,2026-10-22
+22072000,8,22,"Ethyl alcohol and other spirits, denatured, of any strength",Restricted,,,06/2015-2020,2019-05-24,2026-10-22
+2208,4,22,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 percent vol.; spirits, liqueurs and other spirituous beverages.",,,,,,2026-10-22
+220820,6,22,Spirits obtained by distilling grape wine or grape marc,,,,,,2026-10-22
+22082011,8,22,In containers holding 2 l or less: ---- Brandy,Free,,,,,2026-10-22
+22082019,8,22,In containers holding 2 l or less: ---- Other,Free,,,,,2026-10-22
+22082091,8,22,Other: ---- Brandy,Free,,,,,2026-10-22
+22082099,8,22,Other: ---- Other,Free,,,,,2026-10-22
+220830,6,22,Whiskies,,,,,,2026-10-22
+22083011,8,22,In containers holding 2 l or less: ---- Bourbon whiskey,Free,,,,,2026-10-22
+22083012,8,22,In containers holding 2 l or less: ---- Scotch,Free,,,,,2026-10-22
+22083013,8,22,In containers holding 2 l or less: ---- Blended,Free,,,,,2026-10-22
+22083019,8,22,In containers holding 2 l or less: ---- Other,Free,,,,,2026-10-22
+22083091,8,22,Other: ---- Bourbon whiskey,Free,,,,,2026-10-22
+22083092,8,22,Other: ---- Scotch,Free,,,,,2026-10-22
+22083093,8,22,Other: ---- Blended,Free,,,,,2026-10-22
+22083099,8,22,Other: ---- Other,Free,,,,,2026-10-22
+220840,6,22,Rum and other spirits obtained by distilling fermented sugar-cane products.,,,,,,2026-10-22
+22084011,8,22,In containers holding 2 l or less: ---- Rum,Free,,,,,2026-10-22
+22084012,8,22,In containers holding 2 l or less: ---- Other,Free,,,,,2026-10-22
+22084091,8,22,Other: ---- Rum,Free,,,,,2026-10-22
+22084092,8,22,Other: ---- other,Free,,,,,2026-10-22
+220850,6,22,Gin and Geneva,,,,,,2026-10-22
+22085011,8,22,In containers holding 2 l or less: ---- Gin,Free,,,,,2026-10-22
+22085012,8,22,In containers holding 2 l or less: ---- Geneva,Free,,,,,2026-10-22
+22085091,8,22,Other: ---- Gin,Free,,,,,2026-10-22
+22085092,8,22,Other: ---- Geneva,Free,,,,,2026-10-22
+22086000,8,22,Vodka,Free,,,,,2026-10-22
+220870,6,22,Liqueurs and cordials,,,,,,2026-10-22
+22087011,8,22,In containers holding 2 l or less: ---- Liqueurs,Free,,,,,2026-10-22
+22087012,8,22,In containers holding 2 l or less: ---- Cordials,Free,,,,,2026-10-22
+22087091,8,22,Other: ---- Liqueurs,Free,,,,,2026-10-22
+22087092,8,22,Other: ---- Cordials,Free,,,,,2026-10-22
+220890,6,22,Other,,,,,,2026-10-22
+22089011,8,22,In containers holding 2 l or less: ---- Tequila,Free,,,,,2026-10-22
+22089012,8,22,In containers holding 2 l or less: ---- Indenatured ethyl alcohol,Free,,,,,2026-10-22
+22089019,8,22,In containers holding 2 l or less: ---- Other,Free,,,,,2026-10-22
+22089091,8,22,Other: ---- Tequila,Free,,,,,2026-10-22
+22089092,8,22,Other: ---- Indenatured ethyl alcohol,Free,,,,,2026-10-22
+22089099,8,22,Other: ---- Other,Free,,,,,2026-10-22
+2209,4,22,Vinegar and substitutes for vinegar obtained from acetic acid.,,,,,,2026-10-22
+220900,6,22,Vinegar and substitutes for vinegar obtained from acetic acid:,,,,,,2026-10-22
+22090010,8,22,Brewed vinegar,Free,,,,,2026-10-22
+22090020,8,22,Synthetic vinegar,Free,,,,,2026-10-22
+22090090,8,22,Other,Free,,,,,2026-10-22

@@ -1,0 +1,52 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+11010000,8,11,Wheat or meslin flour.,Free,,,,,2026-10-22
+1102,4,11,CEREAL FLOURS OTHER THAN THAT OF WHEAT OR MESLIN,,,,,,2026-10-22
+11022000,8,11,Maize (corn) flour,Free,,,,,2026-10-22
+110290,6,11,Other,,,,,,2026-10-22
+11029010,8,11,Rye flour,Free,,,,,2026-10-22
+11029021,8,11,Rice flour:---- Brown rice flour,Free,,,,,2026-10-22
+11029022,8,11,Rice flour:---- White rice flour,Free,,,,,2026-10-22
+11029029,8,11,Rice flour:---- Other,Free,,,,,2026-10-22
+11029090,8,11,Other,Free,,,,,2026-10-22
+1103,4,11,"Cereal groats, meal and pellets.",,,,,,2026-10-22
+110311,6,11,Groats and meal : -- Of wheat,,,,,,2026-10-22
+11031110,8,11,Groat,Free,,,,,2026-10-22
+11031120,8,11,Meal,Free,,,,,2026-10-22
+11031300,8,11,Groats and meal : -- Of maize (corn),Free,,,,,2026-10-22
+11031900,8,11,Groats and meal : -- Of other cereals,Free,,,,,2026-10-22
+11032000,8,11,Pellets,Free,,,,,2026-10-22
+1104,4,11,"Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), except rice of heading 10.06; germ of cereals, whole, rolled, flaked or ground.",,,,,,2026-10-22
+11041200,8,11,Rolled or flaked grains : -- Of oats,Free,,,,,2026-10-22
+11041900,8,11,Rolled or flaked grains : -- Of other cereals,Free,,,,,2026-10-22
+11042200,8,11,"Other worked grains (for example, hulled, pearled, sliced or kibbled) : -- Of oats",Free,,,,,2026-10-22
+11042300,8,11,"Other worked grains (for example, hulled, pearled, sliced or kibbled) : -- Of maize (corn)",Free,,,,,2026-10-22
+11042900,8,11,"Other worked grains (for example, hulled, pearled, sliced or kibbled) : -- Of other cereals",Free,,,,,2026-10-22
+11043000,8,11,"Germ of cereals, whole, rolled, flaked or ground",Free,,,,,2026-10-22
+1105,4,11,"Flour, meal, powder, flakes, granules and pellets of potatoes.",,,,,,2026-10-22
+11051000,8,11,"Flour, meal and powder",Free,,,,,2026-10-22
+11052000,8,11,"Flakes, granules and pellets",Free,,,,,2026-10-22
+1106,4,11,"Flour, meal and powder of the dried leguminous vegetables of heading 07.13, of sago or of roots or tubers of heading 07.14 or of the products of Chapter 8.",,,,,,2026-10-22
+110610,6,11,Of the dried leguminous vegetables of heading 0713,,,,,,2026-10-22
+11061010,8,11,Guar Meal,,,,,,2026-10-22
+110620,6,11,Of sago or of roots or tubers of heading 07.14,,,,,,2026-10-22
+11062010,8,11,Of sago,Restricted,,,,,2026-10-22
+11062020,8,11,Of manioc (cassava),Free,,,,,2026-10-22
+11062090,8,11,Of other roots and tubers,Restricted,,,,,2026-10-22
+110630,6,11,Of the products of Chapter 8,,,,,,2026-10-22
+11063010,8,11,Of tamarind,Free,,,,,2026-10-22
+11063020,8,11,Of singoda,Free,,,,,2026-10-22
+11063030,8,11,Mango flour,Free,,,,,2026-10-22
+11063090,8,11,Other,Free,,,,,2026-10-22
+1107,4,11,"Malt, whether or not roasted.",,,,,,2026-10-22
+11071000,8,11,Not roasted,Free,,,,,2026-10-22
+11072000,8,11,Roasted,Free,,,,,2026-10-22
+1108,4,11,Starches; inulin.,,,,,,2026-10-22
+11081100,8,11,Starches : -- Wheat starch,Free,,,,,2026-10-22
+11081200,8,11,Starches : -- Maize (corn) starch,Free,,,,,2026-10-22
+11081300,8,11,Starches : -- Potato starch,Free,,,,,2026-10-22
+11081400,8,11,Starches : -- Manioc (cassava) starch,Free,,,,,2026-10-22
+110819,6,11,Starches : -- Other,,,,,,2026-10-22
+11081910,8,11,Sago,Free,,,,,2026-10-22
+11081990,8,11,Other,Free,,,,,2026-10-22
+11082000,8,11,Inulin,Free,,,,,2026-10-22
+11090000,8,11,"Wheat gluten, whether or not dried",Free,,,,,2026-10-22

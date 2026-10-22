@@ -1,0 +1,88 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+9101,4,91,"Wrist-watches, pocket-watches and other watches, including stop-watches, with case of precious metal or of metal clad with precious metal.",,,,,,2026-10-22
+91011100,8,91,"Wrist-watches, electrically operated, whether or not incorporating a stop-watch facility : -- With mechanical display only",Free,,,,,2026-10-22
+91011900,8,91,"Wrist-watches, electrically operated, whether or not incorporating a stop-watch facility : -- Other",Free,,,,,2026-10-22
+91012100,8,91,"Other wrist-watches, whether or not incorporating a stop-watch facility : -- With automatic winding",Free,,,,,2026-10-22
+91012900,8,91,"Other wrist-watches, whether or not incorporating a stop-watch facility : -- Other",Free,,,,,2026-10-22
+910191,6,91,Other : -- Electrically operated,,,,,,2026-10-22
+91019110,8,91,Other: ----Pocket watches,Free,,,,,2026-10-22
+91019120,8,91,Other: ----Stop watches,Free,,,,,2026-10-22
+91019190,8,91,Other: ----Other,Free,,,,,2026-10-22
+910199,6,91,Other : -- Other,,,,,,2026-10-22
+91019910,8,91,Other: ----Pocket watches,Free,,,,,2026-10-22
+91019920,8,91,Other: ----Stop watches,Free,,,,,2026-10-22
+91019990,8,91,Other: ----Other,Free,,,,,2026-10-22
+9102,4,91,"Wrist-watches, pocket-watches and other watches, including stop-watches, other than those of heading 9101",,,,,,2026-10-22
+91021100,8,91,"Wrist-watches, electrically operated, whether or not incorporating a stop-watch facility : -- With mechanical display only",Free,,,,,2026-10-22
+91021200,8,91,"Wrist-watches, electrically operated, whether or not incorporating a stop-watch facility : -- With opto-electronic display only",Free,,,,,2026-10-22
+91021900,8,91,"Wrist-watches, electrically operated, whether or not incorporating a stop-watch facility : -- Other",Free,,,,,2026-10-22
+91022100,8,91,"Other wrist-watches, whether or not incorporating a stop-watch facility : -- With automatic winding",Free,,,,,2026-10-22
+91022900,8,91,"Other wrist-watches, whether or not incorporating a stop-watch facility : -- Other",Free,,,,,2026-10-22
+910291,6,91,Other : -- Electrically operated,,,,,,2026-10-22
+91029110,8,91,Other: ----Pocket watches,Free,,,,,2026-10-22
+91029120,8,91,Other: ----Stop watches,Free,,,,,2026-10-22
+91029190,8,91,Other: ----Other,Free,,,,,2026-10-22
+910299,6,91,Other : -- Other,,,,,,2026-10-22
+91029910,8,91,Other: ----Pocket watches,Free,,,,,2026-10-22
+91029920,8,91,Other: ----Stop watches,Free,,,,,2026-10-22
+91029990,8,91,Other: ----Other,Free,,,,,2026-10-22
+9103,4,91,"Clocks with watch movements, excluding clocks of heading 91.04.",,,,,,2026-10-22
+91031000,8,91,Electrically operated,Free,,,,,2026-10-22
+91039000,8,91,Other,Free,,,,,2026-10-22
+91040000,8,91,"Instrument panel clocks and clocks of a similar type for vehicles, aircraft, spacecraft or vessels.",Free,,,,,2026-10-22
+9105,4,91,OTHER CLOCKS,,,,,,2026-10-22
+91051100,8,91,Alarm clocks : -- Electrically operated,Free,IS 302-2:26:1994,,,,2026-10-22
+91051900,8,91,Alarm clocks : -- Other,Free,,,,,2026-10-22
+91052100,8,91,Wall clocks : -- Electrically operated,Free,IS 302-2:26:1994,,,,2026-10-22
+91052900,8,91,Wall clocks : -- Other,Free,,,,,2026-10-22
+91059100,8,91,Other : -- Electrically operated,Free,,,,,2026-10-22
+910599,6,91,Other : -- Other,,,,,,2026-10-22
+91059910,8,91,Other: ----Time pieces,Free,,,,,2026-10-22
+91059990,8,91,Other: ----Other,Free,,,,,2026-10-22
+9106,4,91,"Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with synchronous motor (for example, timeregisters, time-recorders).",,,,,,2026-10-22
+91061000,8,91,Time-registers; time-recorders,Free,,,,,2026-10-22
+91069000,8,91,Other,Free,,,,,2026-10-22
+91070000,8,91,Time switches with clock or watch movement or with synchronous motor.,Free,,,,,2026-10-22
+9108,4,91,"Watch movements, complete and assembled.",,,,,,2026-10-22
+91081100,8,91,Electrically operated : -- With mechanical display only or with a device to which a mechanical display can be incorporated,Free,,,,,2026-10-22
+91081200,8,91,Electrically operated : -- With opto-electronic display only,Free,,,,,2026-10-22
+91081900,8,91,Electrically operated : -- Other,Free,,,,,2026-10-22
+91082000,8,91,With automatic winding,Free,,,,,2026-10-22
+91089000,8,91,Other,Free,,,,,2026-10-22
+9109,4,91,"Clock movements, complete and assembled.",,,,,,2026-10-22
+910910,6,91,Electrically operated:,,,,,,2026-10-22
+91091090,8,91,Other,Free,,,,,2026-10-22
+91099000,8,91,Other,Free,,,,,2026-10-22
+9110,4,91,"Complete watch or clock movements, unassembled or partly assembled (movement sets); incomplete watch or clock movements, assembled; rough watch or clock movements.",,,,,,2026-10-22
+91101100,8,91,"Of watches : -- Complete movements, unassembled or partly assembled (movement sets)",Free,,,,,2026-10-22
+91101200,8,91,"Of watches : -- Incomplete movements, assembled",Free,,,,,2026-10-22
+91101900,8,91,Of watches : -- Rough movements,Free,,,,,2026-10-22
+91109000,8,91,Other,Free,,,,,2026-10-22
+9111,4,91,Watch cases and parts thereof.,,,,,,2026-10-22
+91111000,8,91,Cases of precious metal or of metal clad with precious metal,Free,,,,,2026-10-22
+91112000,8,91,"Cases of base metal, whether or not goldor silver-plated",Free,,,,,2026-10-22
+91118000,8,91,Other cases,Free,,,,,2026-10-22
+91119000,8,91,Parts,Free,,,,,2026-10-22
+9112,4,91,"Clock cases and cases of a similar type for other goods of this Chapter, and parts thereof.",,,,,,2026-10-22
+91122000,8,91,Cases,Free,,,,,2026-10-22
+91129000,8,91,Parts,Free,,,,,2026-10-22
+9113,4,91,"Watch straps, watch bands and watch bracelets, and parts thereof.",,,,,,2026-10-22
+91131000,8,91,Of precious metal or of metal clad with precious metal,Free,,,,,2026-10-22
+911320,6,91,"Of base metal, whether or not goldor silver-plated",,,,,,2026-10-22
+91132010,8,91,Parts,Free,,,,,2026-10-22
+91132090,8,91,Other,Free,,,,,2026-10-22
+911390,6,91,Other,,,,,,2026-10-22
+91139010,8,91,Parts,Free,,,,,2026-10-22
+91139090,8,91,Other,Free,,,,,2026-10-22
+9114,4,91,Other clock or watch parts.,,,,,,2026-10-22
+911430,6,91,Dials,,,,,,2026-10-22
+91143010,8,91,For watches,Free,,,,,2026-10-22
+91143020,8,91,For clocks,Free,,,,,2026-10-22
+911440,6,91,Plates and bridges,,,,,,2026-10-22
+91144010,8,91,For watches,Free,,,,,2026-10-22
+91144020,8,91,For clocks,Free,,,,,2026-10-22
+911490,6,91,Other,,,,,,2026-10-22
+91149030,8,91,Jewels,Free,,,,,2026-10-22
+91149040,8,91,"Springs, including hair-springs",Free,,,54/2015-2020,2022-02-09,2026-10-22
+91149091,8,91,Other: ----For watches,Free,,,,,2026-10-22
+91149092,8,91,Other: ----For clocks,Free,,,,,2026-10-22

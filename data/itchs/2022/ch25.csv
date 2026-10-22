@@ -1,0 +1,238 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+2501,4,25,"Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water.",,,,,,2026-10-22
+250100,6,25,"Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anticaking or free flowing agents;Sea water :",,,,,,2026-10-22
+25010010,8,25,Common Salt (including iodised salt),Free,,,,,2026-10-22
+25010020,8,25,Rock Salt,Free,,,,,2026-10-22
+25010090,8,25,Other,Free,,,,,2026-10-22
+25020000,8,25,UNROASTED IRON PYRITES,Free,,,,,2026-10-22
+2503,4,25,"SULPHUR OF ALL KINDS, OTHER THAN SUBLIMED SULPHUR, PRECIPITATED SULPHUR AND COLLODIAL SULPHUR",,,,,,2026-10-22
+250300,6,25,"Sulphur of all kinds, other than sublimed sulphur, precipitated sulphur and colloidal sulphur.",,,,,,2026-10-22
+25030010,8,25,Sulphur recovered as by-product in refining of crude oil,Free,,,,,2026-10-22
+25030090,8,25,Other,Free,,,,,2026-10-22
+2504,4,25,Natural graphite.,,,,,,2026-10-22
+250410,6,25,In powder or in flakes,,,,,,2026-10-22
+25041010,8,25,"Graphite, crystalline",Free,,,,,2026-10-22
+25041020,8,25,"Graphite, amorphous",Free,,,,,2026-10-22
+25041090,8,25,Other,Free,,,,,2026-10-22
+250490,6,25,Other,,,,,,2026-10-22
+25049010,8,25,"Graphite, micronised",Free,,,,,2026-10-22
+25049090,8,25,Other,Free,,,,,2026-10-22
+2505,4,25,"Natural sands of all kinds, whether or not coloured, other than metalbearing sands of Chapter 26.",,,,,,2026-10-22
+250510,6,25,Silica sands and quartz sands,,,,,,2026-10-22
+25051011,8,25,Silica Sands: ---- Processed (White),Free,"Subject to Plant Quarantine (Regulation of import into India) Order, 2003.",,,,2026-10-22
+25051012,8,25,Silica Sands: ---- Processed (Brown),Free,"Subject to Plant Quarantine (Regulation of import into India) Order, 2003.",,,,2026-10-22
+25051019,8,25,Silica Sands: ---- Other,Free,"Subject to Plant Quarantine (Regulation of import into India) Order, 2003.",,,,2026-10-22
+25051020,8,25,Silica Sands: --- Quartz sands,Free,"Subject to Plant Quarantine (Regulation of import into India) Order, 2003.",,,,2026-10-22
+25059000,8,25,Other,Free,"Subject to Plant Quarantine (Regulation of import into India) Order, 2003.",,,,2026-10-22
+2506,4,25,"Quartz (other than natural sands); quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.",,,,,,2026-10-22
+250610,6,25,Quartz,,,,,,2026-10-22
+25061010,8,25,In lumps,Free,,,,,2026-10-22
+25061020,8,25,In powder,Free,,,,,2026-10-22
+250620,6,25,Quartzite,,,,,,2026-10-22
+25062010,8,25,In lumps,Free,,,,,2026-10-22
+25062020,8,25,In powder,Free,,,,,2026-10-22
+25062090,8,25,Other,Free,,,,,2026-10-22
+2507,4,25,"KAOLIN AND OTHER KAOLINIC CLAYS, WHETHER OR NOT CALCINED",,,,,,2026-10-22
+250700,6,25,"Kaolin and other kaolinic clays, whether or not calcined",,,,,,2026-10-22
+25070010,8,25,Crude,Free,,,,,2026-10-22
+25070021,8,25,Other: ---- Pharmaceutical grade,Free,,,,,2026-10-22
+25070022,8,25,Other: ---- Ceramic grade,Free,,,,,2026-10-22
+25070029,8,25,Other: ---- Other,Free,,,,,2026-10-22
+2508,4,25,"Other clays (not including expanded clays of heading 68.06), andalusite, kyanite and sillimanite, whether or not calcined; mullite; chamotte or dinas earths.",,,,,,2026-10-22
+250810,6,25,Bentonite,,,,,,2026-10-22
+25081010,8,25,Crude,Free,,,,,2026-10-22
+25081090,8,25,Other (includes processed and ground),Free,,,,,2026-10-22
+250830,6,25,Fire-clay,,,,,,2026-10-22
+25083010,8,25,Non-plastic,Free,,,,,2026-10-22
+25083020,8,25,Semi-plastic,Free,,,,,2026-10-22
+25083030,8,25,Plastic,Free,,,,,2026-10-22
+25083090,8,25,Other,Free,,,,,2026-10-22
+250840,6,25,Other clays,,,,,,2026-10-22
+25084010,8,25,Ball Clay,Free,,,,,2026-10-22
+25084020,8,25,Earth Clay,Free,,,,,2026-10-22
+25084090,8,25,Other,Free,,,,,2026-10-22
+250850,6,25,"Andalusite, kyanite and sillimanite",,,,,,2026-10-22
+25085010,8,25,Andalusite,Free,,,,,2026-10-22
+25085021,8,25,"Kyanite ---- Crude,other than calcined",Free,,,,,2026-10-22
+25085022,8,25,"Kyanite ---- Processed, other than calcined (washed or ground or screened or beneficiated)",Free,,,,,2026-10-22
+25085023,8,25,Kyanite ---- Calcined,Free,,,,,2026-10-22
+25085031,8,25,Sillimanite ---- Lumps,Free,,,,,2026-10-22
+25085032,8,25,Sillimanite ---- Fines (including sand),Free,,,,,2026-10-22
+25085039,8,25,Sillimanite ---- Other,Free,,,,,2026-10-22
+25086000,8,25,Mullite,Free,,,,,2026-10-22
+25087000,8,25,Chamotte or dinas earths,Free,,,,,2026-10-22
+25090000,8,25,Chalk,Free,,,,,2026-10-22
+2510,4,25,"Natural calcium phosphates, natural aluminium calcium phosphates and phosphatic chalk.",,,,,,2026-10-22
+251010,6,25,Unground,,,,,,2026-10-22
+25101010,8,25,Natural calcium phosphate,Free,,,,,2026-10-22
+25101020,8,25,Natural aluminium calcium phosphate,Free,,,,,2026-10-22
+25101030,8,25,Natural calcium phosphate apatite,Free,,,,,2026-10-22
+25101090,8,25,Other,Free,,,,,2026-10-22
+251020,6,25,Ground,,,,,,2026-10-22
+25102010,8,25,Natural calcium phosphates,Free,,,,,2026-10-22
+25102020,8,25,Natural aluminium calcium phosphate,Free,,,,,2026-10-22
+25102030,8,25,Natural calcium phosphates apatite,Free,,,,,2026-10-22
+25102090,8,25,Other,Free,,,,,2026-10-22
+2511,4,25,"Natural barium sulphate (barytes); natural barium carbonate (witherite), whether or not calcined, other than barium oxide of heading 28.16.",,,,,,2026-10-22
+251110,6,25,Natural barium sulphate (barytes),,,,,,2026-10-22
+25111010,8,25,Lumps,Free,,,,,2026-10-22
+25111020,8,25,Powder,Free,,,,,2026-10-22
+25111090,8,25,Other,Free,,,,,2026-10-22
+25112000,8,25,Natural barium carbonate (witherite),Free,,,,,2026-10-22
+2512,4,25,"SILICEOUS FOSSIL MEALS (FOR EXAMPLE, KIESELGUHR, TRIPOLITE AND DIATOMITE) AND SIMILAR SILICEOUS EARTHS, WHETHER OR NOT CALCINED, OF AN APPARENT SPECIFIC GRAVITY OF 1 OR LESS",,,,,,2026-10-22
+251200,6,25,"Siliceous fossil meals (for example, kieselguhr, tripolite and diatomite) and similar siliceous earths, whether or not calcined, of an apparent specific gravity of 1 or less.",,,,,,2026-10-22
+25120010,8,25,Kieselguhr,Free,,,,,2026-10-22
+25120020,8,25,Tripolite,Free,,,,,2026-10-22
+25120030,8,25,Diatomite,Free,,,,,2026-10-22
+25120090,8,25,Other,Free,,,,,2026-10-22
+2513,4,25,"Pumice stone; emery; natural corundum, natural garnet and other natural abrasives, whether or not heat-treated.",,,,,,2026-10-22
+25131000,8,25,Pumice stone,Free,,,,,2026-10-22
+251320,6,25,"Emery, natural corundum, natural garnet and other natural abrasives",,,,,,2026-10-22
+25132010,8,25,Emery,Free,,,,,2026-10-22
+25132020,8,25,Natural Corundum,Free,,,,,2026-10-22
+25132030,8,25,Natural garnet,Free,,,,,2026-10-22
+25132090,8,25,Other,Free,,,,,2026-10-22
+25140000,8,25,"Slate, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",Restricted,,,,,2026-10-22
+2515,4,25,"Marble, travertine, ecaussine and other calcareous monumental or building stone of an apparent specific gravity of 2.5 or more, and alabaster, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.",,,,,,2026-10-22
+25151100,8,25,Marble and travertine : -- Crude or roughly trimmed,Restricted,Subject to Policy Condition 2,2,,,2026-10-22
+251512,6,25,"Marble and travertine : -- Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",,,,,,2026-10-22
+25151210,8,25,Blocks,Restricted,Subject to Policy Condition 2,2,,,2026-10-22
+25151220,8,25,Slabs,Restricted,Subject to Policy Condition 4,4,,,2026-10-22
+25151290,8,25,Other,Restricted,Subject to Policy Condition 2,2,,,2026-10-22
+251520,6,25,Ecaussine and other calcareous monumental or building stone;,,,,,,2026-10-22
+25152010,8,25,Alabaster,Free,,,,,2026-10-22
+25152090,8,25,Other,Restricted,,,,,2026-10-22
+2516,4,25,"Granite, porphyry, basalt, sandstone and other monumental or building stone, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.",,,,,,2026-10-22
+25161100,8,25,Granite : -- Crude or roughly trimmed,Restricted,,,,,2026-10-22
+25161200,8,25,"Granite : -- Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",Restricted,,,,,2026-10-22
+25162000,8,25,Sandstone,Restricted,,,,,2026-10-22
+251690,6,25,Other monumental or building stone,,,,,,2026-10-22
+25169010,8,25,Pakur stone,Restricted,,,,,2026-10-22
+25169020,8,25,Stone boulders,Restricted,,,,,2026-10-22
+25169090,8,25,Other,Restricted,,,,,2026-10-22
+2517,4,25,"Pebbles, gravel, broken or crushed stone, of a kind commonly used for concrete aggregates, for road metalling or for railway or other ballast, shingle and flint, whether or not heat-treated; macadam of slag, dross or similar industrial waste, whether or not incorporating the materials cited in the first part of the heading; tarred macadam; granules, chippings and powder, of stones of heading 25.15 or 25.16, whether or not heat-treated.",,,,,,2026-10-22
+251710,6,25,"Pebbles, gravel, broken or crushed stone, of a kind commonly used for concrete aggregates, for road metalling or for railway or other ballast, shingle and flint, whether or not heat-treated",,,,,,2026-10-22
+25171010,8,25,"Pakur stone, crushed or broken",Free,,,,,2026-10-22
+25171020,8,25,Flint,Free,,,,,2026-10-22
+25171090,8,25,Other,Free,,,,,2026-10-22
+25172000,8,25,"Macadam of slag, dross or similar industrial waste, whether or not incorporating the materials cited in subheading 2517.10",Free,,,,,2026-10-22
+25173000,8,25,Tarred macadam,Free,,,,,2026-10-22
+25174100,8,25,"Granules, chippings and powder, of stones of heading 25.15 or 25.16, whether or not heat-treated : -- Of marble",Restricted,,,,,2026-10-22
+25174900,8,25,"Granules, chippings and powder, of stones of heading 25.15 or 25.16, whether or not heat-treated : -- Other",Restricted,,,,,2026-10-22
+2518,4,25,"DOLOMITE, WHETHER OR NOT CALCINED OR SINTERED, INCLUDING DOLOMITE ROUGHLY TRIMMED OR MERELY CUT, BY SAWING OR OTHERWISE, INTO BLOCKS OR SLABS OF A RECTANGULAR (INCLUDING SQUARE) SHAPE;",,,,,,2026-10-22
+25181000,8,25,"Dolomite, not calcined or sintered",Free,,,,,2026-10-22
+25182000,8,25,Calcined or sintered dolomite,Free,,,,,2026-10-22
+2519,4,25,"Natural magnesium carbonate (magnesite); fused magnesia; dead-burned (sintered) magnesia, whether or not containing small quantities of other oxides added before sintering; other magnesium oxide, whether or not pure.",,,,,,2026-10-22
+25191000,8,25,Natural magnesium carbonate (magnesite),Free,,,,,2026-10-22
+251990,6,25,Other,,,,,,2026-10-22
+25199010,8,25,Fused magnesia (natural),Free,,,,,2026-10-22
+25199020,8,25,Dead-burnt (sintered) magnesia,Free,,,,,2026-10-22
+25199030,8,25,Magnesium calcined (other than dead-burnt) not elsewhere specified or included,Free,,,,,2026-10-22
+25199040,8,25,Magnesium oxide,Free,,,,,2026-10-22
+25199090,8,25,Other,Free,,,,,2026-10-22
+2520,4,25,"Gypsum; anhydrite; plasters (consisting of calcined gypsum or calcium sulphate) whether or not coloured, with or without small quantities of accelerators or retarders.",,,,,,2026-10-22
+252010,6,25,Gypsum; anhydrite,,,,,,2026-10-22
+25201010,8,25,Natural,Free,,,,,2026-10-22
+25201020,8,25,Marine,Free,,,,,2026-10-22
+25201090,8,25,Other,Free,,,,,2026-10-22
+252020,6,25,Plasters,,,,,,2026-10-22
+25202010,8,25,Calcined,Free,,,,,2026-10-22
+25202090,8,25,Other,Free,,,,,2026-10-22
+2521,4,25,"LIMESTONE FLUX; LIMESTONE AND OTHER CALCAREOUS STONES, OF A KIND USED FOR THE MANUFACTURE OF LIME OR CEMENT",,,,,,2026-10-22
+252100,6,25,"Limestone flux; limestone and other calcareous stone, of a kind used for the manufacture of lime or cement.",,,,,,2026-10-22
+25210010,8,25,"Limestone flux (L.D., below 1percent SiO2)",Free,,,,,2026-10-22
+25210090,8,25,Other,Free,,,,,2026-10-22
+2522,4,25,"Quicklime, slaked lime and hydraulic lime, other than calcium oxide and hydroxide of heading 28.25.",,,,,,2026-10-22
+25221000,8,25,Quicklime,Free,,,,,2026-10-22
+25222000,8,25,Slaked lime,Free,,,,,2026-10-22
+25223000,8,25,Hydraulic lime,Free,,,,,2026-10-22
+2523,4,25,"Portland cement, aluminous cement, slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers.",,,,,,2026-10-22
+25231000,8,25,Cement clinkers,Free,,,,,2026-10-22
+25232100,8,25,"Portland cement : -- White cement, whether or not artificially coloured",Free,White Portland cement must conform to IS 8042,,,,2026-10-22
+252329,6,25,Portland cement : -- Other,,,,,,2026-10-22
+25232910,8,25,"Ordinary portland cement, dry",Free,"53 Grade Portland cement must conform to IS 12269, 43 Grade ordinary Portland cement must conform to IS 8112 and 33 Grade Portland cement must conform to IS 269",,,,2026-10-22
+25232920,8,25,"Ordinary portland cement, coloured",Free,"53 Grade Portland cement must conform to IS 12269, Sulphate resisting Portland cement must conform to IS 12330, 43 Grade ordinary Portland cement must conform to IS 8112 and 33 Grade ordinary Portland cement to IS 269.",,,,2026-10-22
+25232930,8,25,Portland pozzolana Cement,Free,Portland Pozzolana cement- Part 1 fly ash based must conform to IS 1489 (Pt 1) and Portland Pozzolana cement- Part 2 Calcined clay based must conform to IS 1489 (Pt 2),,,,2026-10-22
+25232940,8,25,Portland slag cement,Free,Portland Slag cement must conform to IS 455,,,,2026-10-22
+25232990,8,25,Other,Free,"Masonry Cement must conform to IS 3466, Hydrophobic Portland cement must conform to IS 8043 and Rapid hardening Portland cement must conform to IS 8041",,,,2026-10-22
+25233000,8,25,Aluminous cement,Free,High aluminia cement for structural use must conform to IS 6452,,,,2026-10-22
+252390,6,25,Other hydraulic cements,,,,,,2026-10-22
+25239010,8,25,"Sagol, ashmoh",Free,,,,,2026-10-22
+25239020,8,25,High alumina refractory cement,Free,,,,,2026-10-22
+25239090,8,25,Other,Free,"Sulphate resisting Portland cement must conform to IS 12330, Masonry Cement must conform to IS 3466, Super sulphated cement must conform to IS 6909, Rapid hardening Portland cement must conform to IS 8041, Hydrophobic Portland cement must conform to IS 8043, Oil well cement must conform to IS 8229 and Low heat Portland cement must conform to IS 12600.",,,,2026-10-22
+2524,4,25,Asbestos.,,,,,,2026-10-22
+25241010,8,25,Crocidolite,Free,,,,,2026-10-22
+252490,6,25,Other,,,,,,2026-10-22
+25249011,8,25,In rock form: ---- Chrysotile,Free,,,,,2026-10-22
+25249012,8,25,In rock form: ---- Amphibole,Free,,,,,2026-10-22
+25249013,8,25,In rock form: ---- Crysolite,Free,,,,,2026-10-22
+25249014,8,25,In rock form: ---- Amosite,Restricted,Import subject to Policy Condition (1) of this Chapter,1,,,2026-10-22
+25249019,8,25,In rock form: ---- Other,Free,,,,,2026-10-22
+25249021,8,25,"Fibre raw, beaten or washed or graded to length: ---- Chrysolite",Free,,,,,2026-10-22
+25249022,8,25,"Fibre raw, beaten or washed or graded to length: ---- Amphibole",Free,,,,,2026-10-22
+25249023,8,25,"Fibre raw, beaten or washed or graded to length: ---- Crysolite",Free,,,,,2026-10-22
+25249024,8,25,"Fibre raw, beaten or washed or graded to length: ---- Amosite",Restricted,Import subject to Policy Condition (1) of this Chapter,1,,,2026-10-22
+25249029,8,25,"Fibre raw, beaten or washed or graded to length: ---- Other",Free,,,,,2026-10-22
+25249031,8,25,Flakes or powder: ---- Chrysotile,Free,,,,,2026-10-22
+25249032,8,25,Flakes or powder: ---- Amphibole,Free,,,,,2026-10-22
+25249033,8,25,Flakes or powder: ---- Crysolite,Free,,,,,2026-10-22
+25249034,8,25,Flakes or powder: ---- Amosite,Restricted,Import subject to Policy Condition (1) of this Chapter,1,,,2026-10-22
+25249039,8,25,Flakes or powder: ---- Other,Free,,,,,2026-10-22
+25249091,8,25,Other: ---- Waste,Free,,,,,2026-10-22
+25249099,8,25,Other: ---- Other,Free,,,,,2026-10-22
+2525,4,25,"Mica, including splittings; mica waste.",,,,,,2026-10-22
+252510,6,25,Crude mica and mica rifted into sheets or splittings,,,,,,2026-10-22
+25251010,8,25,Mica blocks,Free,,,,,2026-10-22
+25251020,8,25,Condensor films trimmed but not cut to shape,Free,,,,,2026-10-22
+25251030,8,25,"Mica splittings, book form",Free,,,,,2026-10-22
+25251040,8,25,"Mica splittings, loose",Free,,,,,2026-10-22
+25251090,8,25,Other,Free,,,,,2026-10-22
+252520,6,25,Mica powder,,,,,,2026-10-22
+25252010,8,25,"Mica flakes, 2.20 mesh",Free,,,,,2026-10-22
+25252020,8,25,"Mica powder, dry ground",Free,,,,,2026-10-22
+25252030,8,25,"Mica powder, micronised",Free,,,,,2026-10-22
+25252040,8,25,"Mica powder, wet ground",Free,,,,,2026-10-22
+25252050,8,25,"Mica powder, calcined",Free,,,,,2026-10-22
+25252090,8,25,Other,Free,,,,,2026-10-22
+252530,6,25,Mica waste,,,,,,2026-10-22
+25253010,8,25,Mica mine scrap and waste,Free,,,,,2026-10-22
+25253020,8,25,Mica factory scrap,Free,,,,,2026-10-22
+25253030,8,25,Mica cuttings book form,Free,,,,,2026-10-22
+25253090,8,25,Other,Free,,,,,2026-10-22
+2526,4,25,"Natural steatite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; talc.",,,,,,2026-10-22
+252610,6,25,"Not crushed, not powdered",,,,,,2026-10-22
+25261010,8,25,"Steatite (soap stone, etc.) block",Free,,,,,2026-10-22
+25261020,8,25,"Steatite (soap stone, etc.) lumps",Free,,,,,2026-10-22
+25261090,8,25,Other,Free,,,,,2026-10-22
+25262000,8,25,Crushed or powdered,Free,,,,,2026-10-22
+2528,4,25,"NATURAL BORATES AND CONCENTRATES THEREOF (WHETHER OR NOT CALCINED), BUT NOT INCLUDING B ORATES SEPA RATED F ROM N ATUR AL B RIN E; NATURAL BORIC ACID CONTAINING NOT MORE THAN 85% OF H3 BO3 CALCULATED ON THE DRY WEIGHT",,,,,,2026-10-22
+252800,6,25,"Natural borates and concentrates thereof (whether or not calcined), but not including borates separated from natural brine; natural boric acid containing not more than 85percent of H3BO3 calculated on the dry weight.",,,,,,2026-10-22
+25280010,8,25,Natural sodium borates and concentrates thereof (whether or not calcined),Free,,,,,2026-10-22
+25280020,8,25,Natural boric acid containing not more than 85percent of H3BO3 (calculated on the dry weight),Free,,,,,2026-10-22
+25280030,8,25,Natural calcium borates and concentrates thereof (whether or not calcined),Free,,,,,2026-10-22
+25280090,8,25,Other,Free,,,,,2026-10-22
+2529,4,25,"Feldspar; leucite, nepheline and nepheline syenite; fluorspar.",,,,,,2026-10-22
+252910,6,25,Feldspar,,,,,,2026-10-22
+25291010,8,25,Lumps,Free,,,,,2026-10-22
+25291020,8,25,Powder,Free,,,,,2026-10-22
+25292100,8,25,Fluorspar : -- Containing by weight 97 percent or less of calcium fluoride,Free,,,,,2026-10-22
+252922,6,25,Fluorspar : -- Containing by weight more than 97 percent of calcium fluoride,,,,,,2026-10-22
+25292210,8,25,-- Containing by weight more than 97% of calcium fluoride : --- Acid grade,Free,,,24/2026-27,2026-07-22,2026-10-22
+25292290,8,25,-- Containing by weight more than 97% of calcium fluoride : --- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+25293000,8,25,Leucite; nepheline and nepheline syenite,Free,,,,,2026-10-22
+2530,4,25,Mineral substances not elsewhere specified or included.,,,,,,2026-10-22
+253010,6,25,"Vermiculite, perlite and chlorites, unexpanded",,,,,,2026-10-22
+25301010,8,25,Vermiculite,Free,,,,,2026-10-22
+25301020,8,25,Perlite,Free,,,,,2026-10-22
+25301090,8,25,Others (including powder),Free,,,,,2026-10-22
+25302000,8,25,"Kieserite, epsomite (natural magnesium sulphates)",Free,,,,,2026-10-22
+253090,6,25,Other,,,,,,2026-10-22
+25309010,8,25,"Meerschaum (whether or not in polished pieces) and amber agglomerated; meerachaum and agglomerated amber in plates, rods, etc. not worked after moulding jet",Free,,,,,2026-10-22
+25309020,8,25,Natural arsenic sulphides (such as orpiment),Free,,,,,2026-10-22
+25309030,8,25,Calcite,Free,,,,,2026-10-22
+25309040,8,25,Ores and concentrates of rare earth metals,Free,,,,,2026-10-22
+25309050,8,25,Wollastonite,Free,,,,,2026-10-22
+25309060,8,25,"Earth colour ochre, crude",Free,,,,,2026-10-22
+25309070,8,25,Other processed earth colour ochre,Free,,,,,2026-10-22
+25309091,8,25,Other: ---- Strontium Sulphate (natural ore),Free,,,,,2026-10-22
+25309099,8,25,Other: ---- Other,Free,,,,,2026-10-22

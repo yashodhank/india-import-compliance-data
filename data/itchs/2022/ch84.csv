@@ -1,0 +1,1387 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+8401,4,84,"Nuclear reactors; fuel elements (cartridges), non-irradiated, for nuclear reactors; machinery and apparatus for isotopic separation.",,,,,,2026-10-22
+84011000,8,84,Nuclear reactors,Restricted,,,,,2026-10-22
+84012000,8,84,"Machinery and apparatus for isotopic separation, and parts thereof",Restricted,,,,,2026-10-22
+84013000,8,84,"Fuel elements (cartridges), non-irradiated",Restricted,Radio-active materials are permitted to be imported on the recommendation of Department of Atomic Energy.,,,,2026-10-22
+84014000,8,84,Parts of nuclear reactors,Restricted,,,,,2026-10-22
+8402,4,84,Steam or other vapour generating boilers (other than central heating hot water boilers capable also of producing low pressure steam); super-heated water boilers.,,,,,,2026-10-22
+84021100,8,84,Steam or other vapour generating boilers : -- Watertube boilers with a steam production exceeding 45 t per hour,Free,,,,,2026-10-22
+84021200,8,84,Steam or other vapour generating boilers : -- Watertube boilers with a steam production not exceeding 45 t per hour,Free,,,,,2026-10-22
+840219,6,84,"Steam or other vapour generating boilers : -- Other vapour generating boilers, including hybrid boilers",,,,,,2026-10-22
+84021910,8,84,Fire tube horizontal (lancashire) boilers,Free,,,,,2026-10-22
+84021920,8,84,Fire tube boilers vertical,Free,,,,,2026-10-22
+84021990,8,84,Other,Free,,,,,2026-10-22
+84022000,8,84,Super-heated water boilers,Free,,,,,2026-10-22
+840290,6,84,Parts,,,,,,2026-10-22
+84029010,8,84,Parts of fire tube boilers,Free,,,,,2026-10-22
+84029020,8,84,Parts of water tube boilers,Free,,,,,2026-10-22
+84029090,8,84,Other,Free,,,,,2026-10-22
+8403,4,84,Central heating boilers other than those of heading 84.02.,,,,,,2026-10-22
+84031000,8,84,Boilers,Free,,,,,2026-10-22
+84039000,8,84,Parts,Free,,,,,2026-10-22
+8404,4,84,"Auxiliary plant for use with boilers of heading 84.02 or 84.03 (for example, economisers, super-heaters, soot removers, gas recoverers); condensers for steam or other vapour power units.",,,,,,2026-10-22
+84041000,8,84,Auxiliary plants for use with boilers of heading 8402 or 8403,Free,,,,,2026-10-22
+84042000,8,84,Condensers for steam or other vapour power units,Free,,,,,2026-10-22
+840490,6,84,Parts,,,,,,2026-10-22
+84049000,8,84,Parts,Free,,,,,2026-10-22
+8405,4,84,"Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers.",,,,,,2026-10-22
+840510,6,84,"Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers",,,,,,2026-10-22
+84051010,8,84,Producer gas or water gas generators,Free,,,,,2026-10-22
+84051020,8,84,Acetylene gas generators,Free,,,,,2026-10-22
+84051090,8,84,Other,Free,,,,,2026-10-22
+84059000,8,84,Parts,Free,,,,,2026-10-22
+8406,4,84,Steam turbines and other vapour turbines.,,,,,,2026-10-22
+84061000,8,84,Turbines for marine propulsion,Free,,,,,2026-10-22
+84068100,8,84,Other turbines : -- Of an output exceeding 40 MW,Free,,,,,2026-10-22
+84068200,8,84,Other turbines : -- Of an output not exceeding 40 MW,Free,,,,,2026-10-22
+840690,6,84,Other turbines :- Parts,,,,,,2026-10-22
+84069000,8,84,Other turbines : - Parts,Free,,,,,2026-10-22
+8407,4,84,Spark-ignition reciprocating or rotary internal combustion piston engines.,,,,,,2026-10-22
+84071000,8,84,Aircraft engines,Free,"Import allowed freely except second hand/reconditioned parts, which can be imported without a licence subject to approval from DGCA.",,,,2026-10-22
+84072100,8,84,Marine propulsion engines -- Outboard motors,Free,,,,,2026-10-22
+84072900,8,84,Marine propulsion engines -- other,Free,,,,,2026-10-22
+840731,6,84,Reciprocating piston engines of a kind used for the propulsion of vehicles of Chapter 87 : -- Of a cylinder capacity not exceeding 50 cc,,,,,,2026-10-22
+84073110,8,84,For motor cycles,Free,,,,,2026-10-22
+84073190,8,84,Other,Free,,,,,2026-10-22
+840732,6,84,Reciprocating piston engines of a kind used for the propulsion of vehicles of Chapter 87 : -- Of a cylinder capacity exceeding 50 cc but not exceeding 250 cc,,,,,,2026-10-22
+84073210,8,84,For motor cycles,Free,,,,,2026-10-22
+84073290,8,84,Other,Free,,,,,2026-10-22
+840733,6,84,"Reciprocating piston engines of a kind used for the propulsion of vehicles of Chapter 87 : -- Of a cylinder capacity exceeding 250 cc but not exceeding 1,000 cc",,,,,,2026-10-22
+84073310,8,84,For motor cars,Free,,,,,2026-10-22
+84073320,8,84,For motor cycles,Free,,,,,2026-10-22
+84073390,8,84,Other,Free,,,,,2026-10-22
+840734,6,84,"Reciprocating piston engines of a kind used for the propulsion of vehicles of Chapter 87 : -- Of a cylinder capacity exceeding 1,000 cc",,,,,,2026-10-22
+84073410,8,84,For motor cars,Free,,,,,2026-10-22
+84073490,8,84,Other,Free,,,,,2026-10-22
+840790,6,84,Other engines,,,,,,2026-10-22
+84079010,8,84,Petrol engines,Free,,,,,2026-10-22
+84079020,8,84,Kerosene engines,Free,,,,,2026-10-22
+84079090,8,84,Other,Free,,,,,2026-10-22
+8408,4,84,Compression-ignition internal combustion piston engines (diesel or semi-diesel engines).,,,,,,2026-10-22
+840810,6,84,Marine propulsion engines,,,,,,2026-10-22
+84081010,8,84,Outboard engines,Free,,,,,2026-10-22
+84081091,8,84,Other: ----Of a cylinder capacity not exceeding 100 cc,Free,,,,,2026-10-22
+84081092,8,84,Other: ----Of a cylinder capacity exceeding 100 cc but not exceeding 250 cc,Free,,,,,2026-10-22
+84081093,8,84,Other: ----Of a cylinder capacity exceeding 250 cc,Free,,,,,2026-10-22
+840820,6,84,Engines of a kind used for the propulsion of vehicles of Chapter 87,,,,,,2026-10-22
+84082010,8,84,Of cylinder capacity not exceeding 250 cc,Free,,,,,2026-10-22
+84082020,8,84,Engines of cylinder capacity exceeding 250 cc,Free,,,,,2026-10-22
+840890,6,84,Other engines,,,,,,2026-10-22
+84089010,8,84,Stationary engines of cylinder capacity exceeding 50 cc,Free,Constant speed compression ignition (diesel) engines for general purposes (up to 19 kW) must conform to IS 10001,,,,2026-10-22
+84089090,8,84,Other,Free,,,,,2026-10-22
+8409,4,84,Parts suitable for use solely or principally with the engines of,,,,,,2026-10-22
+84091000,8,84,For aircraft engines,Free,,,,,2026-10-22
+840991,6,84,Other : -- Suitable for use solely or principally with spark-ignition internal combustion piston engines,,,,,,2026-10-22
+84099111,8,84,"Valves, inlet and exhaust, piston, piston rings, piston assemblies: ----Valve, inlet and exhaust",Free,,,,,2026-10-22
+84099112,8,84,"Valves, inlet and exhaust, piston, piston rings, piston assemblies: ----Pistons",Free,,,,,2026-10-22
+84099113,8,84,"Valves, inlet and exhaust, piston, piston rings, piston assemblies: ----Piston rings",Free,,,,,2026-10-22
+84099114,8,84,"Valves, inlet and exhaust, piston, piston rings, piston assemblies: ----Piston assemblies",Free,,,,,2026-10-22
+84099120,8,84,"Valves, inlet and exhaust, piston, piston rings, piston assemblies: ----Fuel injection equipment excluding injection pumps other",Free,,,,,2026-10-22
+84099191,8,84,Other: ----Of petrol engines for motor vehicles,Free,,,,,2026-10-22
+84099192,8,84,Other: ----Of other petrol engines,Free,,,,,2026-10-22
+84099193,8,84,Other: ----Of kerosene engines,Free,,,,,2026-10-22
+84099194,8,84,Other: ----Of gas engines,Free,,,,,2026-10-22
+84099199,8,84,Other: ----Other,Free,,,,,2026-10-22
+840999,6,84,Other : -- Other,,,,,,2026-10-22
+84099911,8,84,"Valves, inlet and exhaust, piston, piston rings, piston assemblies: ----Valve, inlet and exhaust",Free,,,,,2026-10-22
+84099912,8,84,"Valves, inlet and exhaust, piston, piston rings, piston assemblies: ----Pistons",Free,,,,,2026-10-22
+84099913,8,84,"Valves, inlet and exhaust, piston, piston rings, piston assemblies: ----Piston rings",Free,,,,,2026-10-22
+84099914,8,84,"Valves, inlet and exhaust, piston, piston rings, piston assemblies: ----Piston assemblies",Free,,,,,2026-10-22
+84099920,8,84,"Valves, inlet and exhaust, piston, piston rings, piston assemblies: ----Fuel nozzles",Free,,,,,2026-10-22
+84099930,8,84,"Valves, inlet and exhaust, piston, piston rings, piston assemblies: ----Fuel injection equipment excluding injection pumps Other parts of diesel engine:",Free,,,,,2026-10-22
+84099941,8,84,Other parts of diesel engine: ----Of diesel engines for motor vehicles,Free,,,,,2026-10-22
+84099942,8,84,Other parts of diesel engine: ----Of outboard engine,Free,,,,,2026-10-22
+84099949,8,84,Other parts of diesel engine: ----Other,Free,,,,,2026-10-22
+84099990,8,84,Other parts of diesel engine: ----Other,Free,,,,,2026-10-22
+8410,4,84,"Hydraulic turbines, water wheels, and regulators therefor.",,,,,,2026-10-22
+84101100,8,84,"Hydraulic turbines and water wheels : -- Of a power not exceeding 1,000 kW",Free,,,,,2026-10-22
+841012,6,84,"Hydraulic turbines and water wheels : -- Of a power exceeding 1,000 kW but not exceeding 10,000 kW",,,,,,2026-10-22
+84101210,8,84,Of power exceeding 1000 Kw but not exceeding 5000 Kw,Free,,,,,2026-10-22
+84101220,8,84,Of power exceeding 5000 Kw but not exceeding 10000 Kw,Free,,,,,2026-10-22
+841013,6,84,"Hydraulic turbines and water wheels : -- Of a power exceeding 10,000 kW",,,,,,2026-10-22
+84101310,8,84,Of power exceeding 10000 Kw but not exceeding 30000 Kw,Free,,,,,2026-10-22
+84101320,8,84,Of power exceeding 30000 Kw but not exceeding 80000 Kw,Free,,,,,2026-10-22
+84101390,8,84,Of power exceeding 80000 Kw,Free,,,,,2026-10-22
+84109000,8,84,"Parts, including regulators",Free,,,,,2026-10-22
+8411,4,84,"Turbo-jets, turbo-propellers and other gas turbines.",,,,,,2026-10-22
+84111100,8,84,Turbo-jets : -- Of a thrust not exceeding 25 kN,Free,,,,,2026-10-22
+84111200,8,84,Turbo-jets : -- Of a thrust exceeding 25 kN,Free,,,,,2026-10-22
+84112100,8,84,"Turbo-propellers : -- Of a power not exceeding 1,100 kW",Free,,,,,2026-10-22
+84112200,8,84,"Turbo-propellers : -- Of a power exceeding 1,100 kW",Free,,,,,2026-10-22
+84118100,8,84,"Other gas turbines : -- Of a power not exceeding 5,000 kW",Free,,,,,2026-10-22
+841182,6,84,"Other gas turbines : -- Of a power exceeding 5,000 kW",,,,,,2026-10-22
+84118210,8,84,"Of power exceeding 5000 Kw but not exceeding 15,000 Kw",Free,,,,,2026-10-22
+84118220,8,84,Of power exceeding 15000 but not exceeding 30000 Kw,Free,,,,,2026-10-22
+84118230,8,84,Of power exceeding 30000 but not exceeding 60000 Kw,Free,,,,,2026-10-22
+84118240,8,84,Of power exceeding 60000 but not exceeding 90000 Kw,Free,,,,,2026-10-22
+84118250,8,84,Of power exceeding 90000 but not exceeding 115000 Kw,Free,,,,,2026-10-22
+84118260,8,84,Of power exceeding 115000 Kw,Free,,,,,2026-10-22
+84119100,8,84,Parts : -- Of turbo-jets or turbo-propellers,Free,,,,,2026-10-22
+84119900,8,84,Parts : -- Other,Free,,,,,2026-10-22
+8412,4,84,Other engines and motors.,,,,,,2026-10-22
+84121000,8,84,Reaction engines other than turbo-jets,Free,,,,,2026-10-22
+84122100,8,84,Hydraulic power engines and motors : -- Linear acting (cylinders),Free,,,,,2026-10-22
+841229,6,84,Hydraulic power engines and motors : -- Other,,,,,,2026-10-22
+84122910,8,84,Hydrojet (hydraulic jet engines),Free,,,,,2026-10-22
+84122920,8,84,Hydraulic systems for use in goods of Chapter 89,Free,.,,40/2024-25,2024-11-26,2026-10-22
+84122990,8,84,Other,Free,,,,,2026-10-22
+84123100,8,84,Pneumatic power engines and motors : -- Linear acting (cylinders),Free,,,,,2026-10-22
+84123900,8,84,Pneumatic power engines and motors : -- Other,Free,,,,,2026-10-22
+841280,6,84,Other,,,,,,2026-10-22
+84128011,8,84,Steam or other vapour power: ----Stationary,Free,,,,,2026-10-22
+84128019,8,84,Steam or other vapour power: ----Other,Free,,,,,2026-10-22
+84128020,8,84,"Steam or other vapour power: ----Motors, spring operated excluding clock and watch movements",Free,,,,,2026-10-22
+84128030,8,84,Steam or other vapour power: ----Wind turbine or engine,Free,,,,,2026-10-22
+84128090,8,84,Steam or other vapour power: ----Other,Free,,,,,2026-10-22
+841290,6,84,Parts,,,,,,2026-10-22
+84129010,8,84,Of steam engines incorporating boilers,Free,,,,,2026-10-22
+84129020,8,84,Of other steam engines and other vapour power units not incorporating boilers,Free,,,,,2026-10-22
+84129030,8,84,Of hydraulic engines and motors,Free,,,,,2026-10-22
+84129090,8,84,Other,Free,,,,,2026-10-22
+8413,4,84,"Pumps for liquids, whether or not fitted with a measuring device; liquid elevators.",,,,,,2026-10-22
+841311,6,84,"Pumps fitted or designed to be fitted with a measuring device : -- Pumps for dispensing fuel or lubricants, of the type used in filling-stations or in garages",,,,,,2026-10-22
+84131110,8,84,Hand pumps,Free,,,,,2026-10-22
+84131191,8,84,other: ----Pumps for dispensing fuel,Free,,,,,2026-10-22
+84131199,8,84,other: ----Other,Free,,,,,2026-10-22
+841319,6,84,Pumps fitted or designed to be fitted with a measuring device : -- Other,,,,,,2026-10-22
+84131910,8,84,other: ----Hand pumps,Free,,,,,2026-10-22
+84131990,8,84,other ----Other,Free,,,,,2026-10-22
+84132000,8,84,"Hand pumps, other than those of subheading 8413.11 or 8413.19",Free,,,,,2026-10-22
+841330,6,84,"Fuel, lubricating or cooling medium pumps for internal combustion piston engines",,,,,,2026-10-22
+84133010,8,84,Injection pumps for diesel engines,Free,,,,,2026-10-22
+84133020,8,84,Oil pump,Free,,,,,2026-10-22
+84133030,8,84,Water pump,Free,,,,,2026-10-22
+84133090,8,84,Other,Free,,,,,2026-10-22
+84134000,8,84,Concrete pumps,Free,,,,,2026-10-22
+841350,6,84,Other reciprocating positive displacement pumps,,,,,,2026-10-22
+84135010,8,84,Metering and dosing pumps,Free,,,,,2026-10-22
+84135021,8,84,Primarily designed for handling water: ----Deep tube well turbine pump,Free,,,,,2026-10-22
+84135029,8,84,Primarily designed for handling water: ----Other,Free,,,,,2026-10-22
+84135090,8,84,Primarily designed for handling water: ----Other,Free,,,,,2026-10-22
+841360,6,84,Other rotary positive displacement pumps,,,,,,2026-10-22
+84136010,8,84,Gear type pumps,Free,,,,,2026-10-22
+84136020,8,84,Screw type pumps,Free,,,,,2026-10-22
+84136090,8,84,Other,Free,,,,,2026-10-22
+841370,6,84,Other centrifugal pumps,,,,,,2026-10-22
+84137010,8,84,Primarily designed to handle water,Free,,,,,2026-10-22
+84137091,8,84,other ----Single and multistage chemical process pumps,Free,,,,,2026-10-22
+84137092,8,84,other ----Horizontal split casing pumps,Free,,,,,2026-10-22
+84137093,8,84,other ----Horizontal self priming pumps,Free,,,,,2026-10-22
+84137094,8,84,other ----Vertical turbine driven pumps,Free,,,,,2026-10-22
+84137095,8,84,other ----Boiler feed pumps,Free,,,,,2026-10-22
+84137096,8,84,other ----Slurry pumps,Free,,,,,2026-10-22
+84137097,8,84,other ----Dredger pumps,Free,,,,,2026-10-22
+84137099,8,84,other ----Other,Free,,,,,2026-10-22
+841381,6,84,Other pumps; liquid elevators : -- Pumps,,,,,,2026-10-22
+84138110,8,84,Gas pumps,Free,,,,,2026-10-22
+84138120,8,84,Hydraulic ram,Free,,,,,2026-10-22
+84138130,8,84,Axial flow and mixed flow vertical pump designed primarily for handling water,Free,,,,,2026-10-22
+84138190,8,84,Other,Free,,,,,2026-10-22
+84138200,8,84,Other pumps; liquid elevators : -- Liquid elevators,Free,,,,,2026-10-22
+841391,6,84,Parts : -- Of pumps,,,,,,2026-10-22
+84139110,8,84,Of reciprocating pumps,Free,,,,,2026-10-22
+84139120,8,84,Of centrifugal pumps,Free,,,,,2026-10-22
+84139130,8,84,Of deep well turbine pumps and of other rotary pumps,Free,,,,,2026-10-22
+84139140,8,84,Of hand pump for handling water,Free,,,,,2026-10-22
+84139190,8,84,Other,Free,,,,,2026-10-22
+84139200,8,84,Parts : -- Of liquid elevators,Free,,,,,2026-10-22
+8414,4,84,"AIR OR VACUUM PUMPS, AIR OR OTHER GAS COMPRESSORS AND FANS; VENTILATING OR RECYCLING HOODS INCORPORATING A FAN, WHETHER OR NOT FITTED WITH FILTERS; GAS-TIGHT BIOLOGICAL SAFETY CABINETS, WHETHER OR NOT FITTED WITH FILTERS",,,,,,2026-10-22
+841410,6,84,Vacuum pumps :,,,,,,2026-10-22
+84141010,8,84,with maximum flow-rate greater than 5 m³/h (under standard temperature (273 K (0 °C)) and pressure (101.3 kPa) conditions),Free,.,,08/2023,2023-05-29,2026-10-22
+84141090,8,84,Other,Free,.,,08/2023,2023-05-29,2026-10-22
+841420,6,84,Hand- or foot-operated air pumps,,,,,,2026-10-22
+84142010,8,84,Bicycle pumps,Free,,,,,2026-10-22
+84142020,8,84,Other Hand pumps,Free,,,,,2026-10-22
+84142090,8,84,Other,Free,,,,,2026-10-22
+84143000,8,84,Compressors of a kind used in refrigerating equipment,Free,,,,,2026-10-22
+841440,6,84,Air compressors mounted on a wheeled chassis for towing,,,,,,2026-10-22
+84144010,8,84,Reciprocating air compressors,Free,,,,,2026-10-22
+84144020,8,84,Centrifugal air compressors,Free,,,,,2026-10-22
+84144030,8,84,Screw air compressors,Free,,,,,2026-10-22
+84144090,8,84,Other:,Free,,,,,2026-10-22
+841451,6,84,"Fans : -- Table, floor, wall, window, ceiling or roof fans, with a self- contained electric motor of an output not exceeding 125 W",,,,,,2026-10-22
+84145110,8,84,Table fans,Free,,,,,2026-10-22
+84145120,8,84,Ceiling fans,Free,,,,,2026-10-22
+84145130,8,84,Pedestal fans,Free,,,,,2026-10-22
+84145140,8,84,Railway carriage fans,Free,,,,,2026-10-22
+84145150,8,84,Wall Fans,Free,,,48/2015-20,2020-12-22,2026-10-22
+84145190,8,84,Other,Free,,,,,2026-10-22
+841459,6,84,Fans : -- Other,,,,,,2026-10-22
+84145910,8,84,Air circulator,Free,,,,,2026-10-22
+84145920,8,84,"Blowers, portable",Free,,,,,2026-10-22
+84145930,8,84,Industrial fans and blowers,Free,,,,,2026-10-22
+84145990,8,84,Other,Free,,,,,2026-10-22
+84146000,8,84,Hoods having a maximum horizontal side not exceeding 120 cm,Free,,,,,2026-10-22
+84147000,8,84,Gas-tight biological safety cabinets,Free,,,54/2015-2020,2022-02-09,2026-10-22
+841480,6,84,Other,,,,,,2026-10-22
+84148011,8,84,Gas compressors: ----Of a kind used in air-conditioning equipment,Free,,,,,2026-10-22
+84148019,8,84,Gas compressors: ----Other,Free,,,,,2026-10-22
+84148020,8,84,Gas compressors: ----Free-piston generators for gas turbine,Free,,,,,2026-10-22
+84148030,8,84,Gas compressors: ----Turbo charger,Free,,,,,2026-10-22
+84148090,8,84,Gas compressors: ----Other,Free,,,,,2026-10-22
+841490,6,84,Parts,,,,,,2026-10-22
+84149011,8,84,Of air or Vacuum pumps and compressors: ----Of Gas compressors of a kind used in refrigerating and air conditioning appliances and machinery,Free,,,,,2026-10-22
+84149012,8,84,Of air or Vacuum pumps and compressors: ----Of bicycle pumps,Free,,,,,2026-10-22
+84149019,8,84,Of air or Vacuum pumps and compressors: ----Other,Free,,,,,2026-10-22
+84149020,8,84,Of air or Vacuum pumps and compressors: ----Of free piston generators,Free,,,,,2026-10-22
+84149030,8,84,Of air or Vacuum pumps and compressors: ----Of electric fans,Free,,,,,2026-10-22
+84149040,8,84,"Of air or Vacuum pumps and compressors: ----Of Industrial fan, blowers",Free,,,,,2026-10-22
+84149090,8,84,Of air or Vacuum pumps and compressors: ----Other,Free,,,,,2026-10-22
+8415,4,84,"Air conditioning machines, comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated.",,,,,,2026-10-22
+841510,6,84,"Of a kind designed to be fixed to a window, wall, ceiling or floor, self-contained or split-system",,,,,,2026-10-22
+84151010,8,84,Split system,Prohibited,Only import of Air Conditioners with refrigerants is 'Prohibited'.,,41/2015-2020,2020-10-15,2026-10-22
+84151090,8,84,Other,Prohibited,Only import of Air Conditioners with refrigerants is 'Prohibited'.,,41/2015-2020,2020-10-15,2026-10-22
+841520,6,84,"Of a kind used for persons, in motor vehicles",,,,,,2026-10-22
+84152010,8,84,For buses,Free,,,,,2026-10-22
+84152090,8,84,Other other,Free,,,,,2026-10-22
+841581,6,84,Other : -- Incorporating a refrigerating unit and a valve for reversal of the cooling/heat cycle (reversible heat pumps),,,,,,2026-10-22
+84158110,8,84,Split air-conditioner two tones and above,Free,,,,,2026-10-22
+84158190,8,84,Other,Free,,,,,2026-10-22
+841582,6,84,"Other : -- Other, incorporating a refrigerating unit",,,,,,2026-10-22
+84158210,8,84,Split air-conditioner two tones and above,Free,,,,,2026-10-22
+84158290,8,84,Other,Free,,,,,2026-10-22
+841583,6,84,Other : -- Not incorporating a refrigerating unit,,,,,,2026-10-22
+84158310,8,84,Split air-conditioner two tones and above,Free,,,,,2026-10-22
+84158390,8,84,Other,Free,,,,,2026-10-22
+841590,6,84,"--- Bars and rods, other than those obtained simply by sintering, profiles, plates, sheets, strip and foil",,,,,,2026-10-22
+84159010,8,84,-Parts,Free,,,24/2026-27,2026-07-22,2026-10-22
+84159090,8,84,-Parts :,Free,,,24/2026-27,2026-07-22,2026-10-22
+8416,4,84,"Furnace burners for liquid fuel, for pulverised solid fuel or for gas; mechanical stokers, including their mechanical grates, mechanical ash dischargers and similar appliances.",,,,,,2026-10-22
+84161000,8,84,Furnace burners for liquid fuel,Free,,,,,2026-10-22
+84162000,8,84,"Other furnace burners, including combination burners",Free,,,,,2026-10-22
+84163000,8,84,"Mechanical stokers, mechanical grates, mechanical ash dischargers and similar appliances",Free,,,,,2026-10-22
+84169000,8,84,Parts,Free,,,,,2026-10-22
+8417,4,84,"Industrial or laboratory furnaces and ovens, including incinerators, non-electric.",,,,,,2026-10-22
+84171000,8,84,"Furnaces and ovens for the roasting, melting or other heat-treatment of ores, pyrites or of metals",Free,,,,,2026-10-22
+84172000,8,84,"Bakery ovens, including biscuit ovens",Free,,,,,2026-10-22
+841780,6,84,Other,,,,,,2026-10-22
+84178010,8,84,For cement industry,Free,,,,,2026-10-22
+84178090,8,84,Other,Free,,,,,2026-10-22
+84179000,8,84,Parts,Free,,,,,2026-10-22
+8418,4,84,"Refrigerators, freezers and other refrigerating or freezing conditioning machines of heading 84.15.",,,,,,2026-10-22
+841810,6,84,"Combined refrigerator-freezers, fitted with separate external doors or drawers, or combinations thereof :",,,,,,2026-10-22
+84181010,8,84,Commercial type,Free,,,,,2026-10-22
+84181090,8,84,Other,Free,,,,,2026-10-22
+84182100,8,84,"Refrigerators, household type : -- Compression-type",Free,,,,,2026-10-22
+84182900,8,84,"Refrigerators, household type : -- Other",Free,,,,,2026-10-22
+841830,6,84,"Freezers of the chest type, not exceeding 800 l capacity",,,,,,2026-10-22
+84183010,8,84,Electrical commercial type,Free,,,,,2026-10-22
+84183090,8,84,Other,Free,,,,,2026-10-22
+841840,6,84,"Freezers of the upright type, not exceeding 900 l capacity",,,,,,2026-10-22
+84184010,8,84,Electrical,Free,,,,,2026-10-22
+84184090,8,84,Other,Free,,,,,2026-10-22
+84185000,8,84,"Other furniture (chests, cabinets, display counters, show-cases and the like) for storage and display, incorporating refrigerating or freezing equipment",Free,,,,,2026-10-22
+84186100,8,84,Other refrigerating or freezing equipment; heat pumps : -- Heat pumps other than air conditioning machines of heading 84.15,Free,,,,,2026-10-22
+841869,6,84,Other refrigerating or freezing equipment; heat pumps : -- Other,,,,,,2026-10-22
+84186910,8,84,Ice making machinery,Free,,,,,2026-10-22
+84186920,8,84,Water cooler,Free,,,,,2026-10-22
+84186930,8,84,"Vending machine, other than automatic vending machine",Free,,,,,2026-10-22
+84186940,8,84,Refrigeration equipment or devices specially used in leather industries for manufacturing of leather articles,Free,,,,,2026-10-22
+84186950,8,84,"Refrigerated farm tanks, industrial ice cream freezer",Free,,,,,2026-10-22
+84186990,8,84,Other,Free,,,,,2026-10-22
+84189100,8,84,Parts : -- Furniture designed to receive refrigerating or freezing equipment,Free,,,,,2026-10-22
+84189900,8,84,Parts : -- Other,Free,,,,,2026-10-22
+8419,4,84,"Machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 85.14), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilising, pasteurising, steaming, drying, evaporating, vaporising, condensing or cooling, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, non-electric.",,,,,,2026-10-22
+841911,6,84,"Instantaneous or storage water heaters, non-electric : -- Instantaneous gas water heaters",,,,,,2026-10-22
+84191110,8,84,Domestic type,Free,,,,,2026-10-22
+84191190,8,84,Other,Free,,,,,2026-10-22
+84191200,8,84,Solar water heaters,Free,,,54/2015-2020,2022-02-09,2026-10-22
+841919,6,84,"Instantaneous or storage water heaters, non-electric : -- Other",,,,,,2026-10-22
+84191910,8,84,Domestic type,Free,,,,,2026-10-22
+84191920,8,84,Other,Free,,,,,2026-10-22
+841920,6,84,"Medical, surgical or laboratory sterilisers",,,,,,2026-10-22
+84192010,8,84,Auto claves,Free,,,,,2026-10-22
+84192090,8,84,Other,Free,,,,,2026-10-22
+84193300,8,84,"Lyophilisation apparatus, freeze drying units and spray dryers",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84193400,8,84,"Other, for agricultural products",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84193500,8,84,"Other, for wood, paper pulp, paper or paperboard",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84193900,8,84,Dryers : -- Other,Free,,,,,2026-10-22
+841940,6,84,Distilling or rectifying plant,,,,,,2026-10-22
+84194010,8,84,For Petroleum refining,Free,,,,,2026-10-22
+84194020,8,84,Other distilling equipment,Free,,,,,2026-10-22
+84194090,8,84,Other,Free,,,,,2026-10-22
+841950,6,84,Heat exchange units,,,,,,2026-10-22
+84195011,8,84,"with a heat transfer surface area of greater than 0.15 m², and less than 20 m² :----Shell and tube type",Free,.,,08/2023,2023-05-29,2026-10-22
+84195012,8,84,"with a heat transfer surface area of greater than 0.15 m², and less than 20 m² :----Plate type",Free,.,,08/2023,2023-05-29,2026-10-22
+84195013,8,84,"with a heat transfer surface area of greater than 0.15 m², and less than 20 m² :----Spiral type",Free,.,,08/2023,2023-05-29,2026-10-22
+84195019,8,84,"with a heat transfer surface area of greater than 0.15 m², and less than 20 m² :----Other",Free,.,,08/2023,2023-05-29,2026-10-22
+84195091,8,84,Other :----Shell and tube type,Free,-,,08/2023,2023-05-29,2026-10-22
+84195092,8,84,Other :----Plate type,Free,.,,08/2023,2023-05-29,2026-10-22
+84195092,8,84,Other :----Plate type,Free,.,,08/2023,2023-05-29,2026-10-22
+84195093,8,84,Other :----Spiral type,Free,.,,08/2023,2023-05-29,2026-10-22
+84195099,8,84,Other :----Other,Free,.,,08/2023,2023-05-29,2026-10-22
+84196000,8,84,Machinery for liquefying air or other gases,Free,,,,,2026-10-22
+841981,6,84,"Other machinery, plant and equipment : -- For making hot drinks or for cooking or heating food",,,,,,2026-10-22
+84198110,8,84,Friers,Free,,,,,2026-10-22
+84198120,8,84,Other kitchen machines,Free,,,,,2026-10-22
+84198190,8,84,Other,Free,,,,,2026-10-22
+841989,6,84,"Other machinery, plant and equipment : -- Other",,,,,,2026-10-22
+84198911,8,84,"Pressure vessels, reactors, columns or towers or chemical storage tanks :----Pressure vessels",Free,.,,08/2023,2023-05-29,2026-10-22
+84198912,8,84,"Pressure vessels, reactors, columns or towers or chemical storage tanks :----Reactors with total internal (geometric) volume greater than 0.1 m³ (100 l) and less than 20 m³ (20000 l)",Free,.,,08/2023,2023-05-29,2026-10-22
+84198913,8,84,"Pressure vessels, reactors, columns or towers or chemical storage tanks :----Other reactors",Free,.,,08/2023,2023-05-29,2026-10-22
+84198914,8,84,"Pressure vessels, reactors, columns or towers or chemical storage tanks :----Distillation or absorption columns of internal diameter greater than 0.1 m",Free,.,,08/2023,2023-05-29,2026-10-22
+84198914,8,84,"Pressure vessels, reactors, columns or towers or chemical storage tanks :----Distillation or absorption columns of internal diameter greater than 0.1 m",Free,.,,08/2023,2023-05-29,2026-10-22
+84198915,8,84,"Pressure vessels, reactors, columns or towers or chemical storage tanks :----Other distillation or absorption columns",Free,.,,08/2023,2023-05-29,2026-10-22
+84198916,8,84,"Pressure vessels, reactors, columns or towers or chemical storage tanks :----Chemical storage tanks with a total internal (geometric) volume greater than 0.1 m³ (100 l)",Free,.,,08/2023,2023-05-29,2026-10-22
+84198916,8,84,"Pressure vessels, reactors, columns or towers or chemical storage tanks :----Chemical storage tanks with a total internal (geometric) volume greater than 0.1 m³ (100 l)",Free,.,,08/2023,2023-05-29,2026-10-22
+84198917,8,84,"Pressure vessels, reactors, columns or towers or chemical storage tanks :----Other chemical storage tanks",Free,.,,08/2023,2023-05-29,2026-10-22
+84198919,8,84,"Pressure vessels, reactors, columns or towers or chemical storage tanks :----Other",Free,.,,08/2023,2023-05-29,2026-10-22
+84198920,8,84,Glass lined equipment,Free,,,,,2026-10-22
+84198930,8,84,"Auto claves other than for cooking or heating food, not elsewhere specified or included",Free,,,,,2026-10-22
+84198940,8,84,Cooling towers and similar plants for direct cooling (without a separating wall) by means of recirculated water,Free,,,,,2026-10-22
+84198950,8,84,Pasteurizers,Free,,,,,2026-10-22
+84198960,8,84,"Plant growth chambers and rooms and tissue culture chambers and rooms having temperature, humidity or light control",Free,,,,,2026-10-22
+84198970,8,84,Apparatus for rapid heating of semi-conductor devices; apparatus for chemical or physical vapour deposition on semi-conductor wafers; apparatus for chemical vapour deposition on LCD substratus,Free,,,,,2026-10-22
+84198980,8,84,Vaccum-vapour plant for deposition of metals,Free,,,,,2026-10-22
+84198990,8,84,Other,Free,,,,,2026-10-22
+841990,6,84,Parts,,,,,,2026-10-22
+84199010,8,84,Parts of instantaneous or storage water heaters (domestic type),Free,,,,,2026-10-22
+84199090,8,84,Other,Free,,,,,2026-10-22
+8420,4,84,"Calendering or other rolling machines, other than for metals or glass, and cylinders therefor.",,,,,,2026-10-22
+84201000,8,84,Calendering or other rolling machines,Free,,,,,2026-10-22
+84209100,8,84,Parts : -- Cylinders,Free,,,,,2026-10-22
+84209900,8,84,Parts : -- Other,Free,,,,,2026-10-22
+8421,4,84,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus, for liquids or gases.",,,,,,2026-10-22
+84211100,8,84,"Centrifuges, including centrifugal dryers : -- Cream separators",Free,,,,,2026-10-22
+84211200,8,84,"Centrifuges, including centrifugal dryers : -- Clothes-dryers",Free,,,,,2026-10-22
+842119,6,84,"Centrifuges, including centrifugal dryers : -- Other",,,,,,2026-10-22
+84211910,8,84,Bowl centrifuges,Free,,,,,2026-10-22
+84211920,8,84,Basket centrifuges,Free,,,,,2026-10-22
+84211930,8,84,Continuous automatic centrifuges,Free,,,,,2026-10-22
+84211940,8,84,Self cleaning centrifuges,Free,,,,,2026-10-22
+84211950,8,84,Decanter centrifuges horizontal bowl,Free,,,,,2026-10-22
+84211960,8,84,Screw conveyor centrifuges,Free,,,,,2026-10-22
+84211991,8,84,other ----For chemical industries,Free,,,,,2026-10-22
+84211999,8,84,other ----Other,Free,,,,,2026-10-22
+842121,6,84,Filtering or purifying machinery and apparatus for liquids : -- For filtering or purifying water,,,,,,2026-10-22
+84212110,8,84,Ion exchanger plant or apparatus,Free,,,,,2026-10-22
+84212120,8,84,Household type filters,Free,,,,,2026-10-22
+84212190,8,84,Other,Free,,,,,2026-10-22
+84212200,8,84,Filtering or purifying machinery and apparatus for liquids : -- For filtering or purifying beverages other than water,Free,,,,,2026-10-22
+84212300,8,84,Filtering or purifying machinery and apparatus for liquids : -- Oil or petrol-filters for internal combustion engines,Free,,,,,2026-10-22
+84212900,8,84,Filtering or purifying machinery and apparatus for liquids : -- Other,Free,,,,,2026-10-22
+84213100,8,84,Filtering or purifying machinery and apparatus for gases : -- Intake air filters for internal combustion engines,Free,,,,,2026-10-22
+84213200,8,84,"Catalytic converters or particulate filters, whether or not combined, for purifying or filtering exhaust gases from internal combustion engines",Free,,,54/2015-2020,2022-02-09,2026-10-22
+842139,6,84,Filtering or purifying machinery and apparatus for gases : -- Other,,,,,,2026-10-22
+84213910,8,84,"Air separators to be employed in the processing, smelting or refining of minerals, ores or metals; air strippers",Free,,,,,2026-10-22
+84213920,8,84,Air purifiers or cleaners,Free,,,,,2026-10-22
+84213990,8,84,Other,Free,,,,,2026-10-22
+84219100,8,84,"Parts : -- Of centrifuges, including centrifugal dryers",Free,,,,,2026-10-22
+842199,6,84,Parts : -- Other,,,,,,2026-10-22
+84219910,8,84,-Parts : -- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+84219990,8,84,--Other :,Free,,,24/2026-27,2026-07-22,2026-10-22
+8422,4,84,"Dish washing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery (including heat-shrink wrapping machinery); machinery for aerating beverages.",,,,,,2026-10-22
+84221100,8,84,Dish washing machines : -- Of the household type,Free,,,,,2026-10-22
+84221900,8,84,Dish washing machines : -- Other,Free,,,,,2026-10-22
+84222000,8,84,Machinery for cleaning or drying bottles or other containers,Free,,,,,2026-10-22
+84223000,8,84,"Machinery for filling, closing, sealing, or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; machinery for aerating beverages",Free,,,,,2026-10-22
+84224000,8,84,Other packing or wrapping machinery (including heat-shrink wrapping machinery),Free,,,,,2026-10-22
+842290,6,84,Parts,,,,,,2026-10-22
+84229010,8,84,Of machinery for cleaning or drying bottles or other containers,Free,,,,,2026-10-22
+84229020,8,84,Of dish washing machines of household type,Free,,,,,2026-10-22
+84229090,8,84,Of other machinery,Free,,,,,2026-10-22
+8423,4,84,"Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight operated counting or checking machines; weighing machine weights of all kinds.",,,,,,2026-10-22
+84231000,8,84,"Personal weighing machines, including baby scales; household scales",Free,,,,,2026-10-22
+84232000,8,84,Scales for continuous weighing of goods on conveyors,Free,,,,,2026-10-22
+84233000,8,84,"Constant weight scales and scales for discharging a predetermined weight of material into a bag or container, including hopper scales",Free,,,,,2026-10-22
+842381,6,84,Other weighing machinery : -- Having a maximum weighing capacity not exceeding 30 kg,,,,,,2026-10-22
+84238110,8,84,Beam scale,Free,,,,,2026-10-22
+84238190,8,84,Other,Free,,,,,2026-10-22
+842382,6,84,"Other weighing machinery : -- Having a maximum weighing capacity exceeding 30 kg but not exceeding 5,000 kg",,,,,,2026-10-22
+84238210,8,84,Beams scale,Free,,,,,2026-10-22
+84238290,8,84,Other,Free,,,,,2026-10-22
+84238900,8,84,Other weighing machinery : -- Other,Free,,,,,2026-10-22
+842390,6,84,Weighing machine weights of all kinds; parts of weighing machinery,,,,,,2026-10-22
+84239010,8,84,Weighing machine weight of all kinds,Free,,,,,2026-10-22
+84239020,8,84,Parts of weighing machinery,Free,,,,,2026-10-22
+8424,4,84,"Mechanical appliances (whether or not hand-operated) for projecting, dispersing or spraying liquids or powders; fire extinguishers, whether or not charged; spray guns and similar appliances; steam or sand blasting machines and similar jet projecting machines.",,,,,,2026-10-22
+84241000,8,84,"Fire extinguishers, whether or not charged",Free,,,,,2026-10-22
+84242000,8,84,Spray guns and similar appliances,Free,,,,,2026-10-22
+84243000,8,84,Steam or sand blasting machines and similar jet projecting machines,Free,,,,,2026-10-22
+84244100,8,84,Agricultural or horticultural sprayers : -- Portable sprayers,Free,,,,,2026-10-22
+84244900,8,84,Agricultural or horticultural sprayers : -- Other,Free,,,,,2026-10-22
+84248200,8,84,Other appliances : -- Agricultural or horticultural,Free,,,,,2026-10-22
+842489,6,84,Other appliances : -- Other,,,,,,2026-10-22
+84248910,8,84,Painting equipment including electrostatic phosphating and powder coating equipment,Free,,,,,2026-10-22
+84248920,8,84,Industrial bellows,Free,,,,,2026-10-22
+84248990,8,84,Other,Free,,,,,2026-10-22
+84249000,8,84,Parts,Free,,,,,2026-10-22
+8425,4,84,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks.,,,,,,2026-10-22
+842511,6,84,Pulley tackle and hoists other than skip hoists or hoists of a kind used for raising vehicles : -- Powered by electric motor,,,,,,2026-10-22
+84251110,8,84,Hoisting machine,Free,,,,,2026-10-22
+84251120,8,84,Pulley tackle,Free,,,,,2026-10-22
+842519,6,84,Pulley tackle and hoists other than skip hoists or hoists of a kind used for raising vehicles : -- Other,,,,,,2026-10-22
+84251910,8,84,Hoisting machine,Free,,,,,2026-10-22
+84251920,8,84,Pulley tackle,Free,,,,,2026-10-22
+84253100,8,84,Winches; capstans : -- Powered by electric motor,Free,,,,,2026-10-22
+84253900,8,84,Winches; capstans : -- Other,Free,,,,,2026-10-22
+84254100,8,84,Jacks; hoists of a kind used for raising vehicles : -- Built-in jacking systems of a type used in garages,Free,,,,,2026-10-22
+84254200,8,84,"Jacks; hoists of a kind used for raising vehicles : -- Other jacks and hoists, hydraulic",Free,,,,,2026-10-22
+84254900,8,84,Jacks; hoists of a kind used for raising vehicles : -- Other,Free,,,,,2026-10-22
+8426,4,84,"Ships derricks; cranes, including cable cranes; mobile lifting frames, straddle carriers and works trucks fitted with a crane.",,,,,,2026-10-22
+84261100,8,84,"Overhead travelling cranes, transporter cranes, gantry cranes, bridge cranes, mobile lifting frames and straddle carriers : -- Overhead travelling cranes on fixed support",Free,,,,,2026-10-22
+84261200,8,84,"Overhead travelling cranes, transporter cranes, gantry cranes, bridge cranes, mobile lifting frames and straddle carriers : -- Mobile lifting frames on tyres and straddle carriers",Free,,,,,2026-10-22
+84261900,8,84,"Overhead travelling cranes, transporter cranes, gantry cranes, bridge cranes, mobile lifting frames and straddle carriers : -- Other",Free,,,,,2026-10-22
+84262000,8,84,Tower cranes,Free,,,,,2026-10-22
+84263000,8,84,Portal or pedestal jib cranes,Free,,,,,2026-10-22
+84264100,8,84,"Other machinery, self-propelled : -- On tyres",Free,,,,,2026-10-22
+84264900,8,84,"Other machinery, self-propelled : -- Other",Free,,,,,2026-10-22
+84269100,8,84,Other machinery : -- Designed for mounting on road vehicles,Free,,,,,2026-10-22
+842699,6,84,Other machinery : -- Other,,,,,,2026-10-22
+84269910,8,84,Ropeway and telephers,Free,,,,,2026-10-22
+84269990,8,84,Other,Free,,,,,2026-10-22
+8427,4,84,Fork-lift trucks; other works trucks fitted with lifting or handling equipment.,,,,,,2026-10-22
+84271000,8,84,Self-propelled trucks powered by an electric motor,Free,,,,,2026-10-22
+84272000,8,84,Other self-propelled trucks,Free,,,,,2026-10-22
+84279000,8,84,Other trucks,Free,,,,,2026-10-22
+8428,4,84,"Other lifting, handling, loading or unloading machinery (for example, lifts, escalators, conveyors, teleferics).",,,,,,2026-10-22
+842810,6,84,Lifts and skip hoists,,,,,,2026-10-22
+84281011,8,84,Lifts: ----Lifts of a kind used in buildings,Free,,,,,2026-10-22
+84281019,8,84,Lifts: ----Other,Free,,,,,2026-10-22
+84281020,8,84,Lifts: ----Skip hoists,Free,,,,,2026-10-22
+842820,6,84,Pneumatic elevators and conveyors,,,,,,2026-10-22
+84282011,8,84,Conveyors: ----Belt conveyors,Free,,,,,2026-10-22
+84282019,8,84,Conveyors: ----Other,Free,,,,,2026-10-22
+84282020,8,84,Conveyors: ----Pneumatic Elevators,Free,,,,,2026-10-22
+84283100,8,84,"Other continuous-action elevators and conveyors, for goods or materials : -- Specially designed for underground use",Free,,,,,2026-10-22
+84283200,8,84,"Other continuous-action elevators and conveyors, for goods or materials : -- Other, bucket type",Free,,,,,2026-10-22
+84283300,8,84,"Other continuous-action elevators and conveyors, for goods or materials : -- Other, belt type",Free,,,,,2026-10-22
+84283900,8,84,"Other continuous-action elevators and conveyors, for goods or materials : -- Other",Free,,,,,2026-10-22
+84284000,8,84,Escalators and moving walkways,Free,,,,,2026-10-22
+84286000,8,84,"Teleferics, chair-lifts, ski-draglines; traction mechanisms for funiculars",Free,,,,,2026-10-22
+84287000,8,84,Industrial robots,Free,,,54/2015-2020,2022-02-09,2026-10-22
+842890,6,84,Other machinery,,,,,,2026-10-22
+84289010,8,84,For coal handling,Free,,,,,2026-10-22
+84289020,8,84,For ash handling,Free,,,,,2026-10-22
+84289090,8,84,Other,Free,,,,,2026-10-22
+8429,4,84,"Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers.",,,,,,2026-10-22
+842911,6,84,Bulldozers and angledozers : -- Track laying,,,,,,2026-10-22
+84291110,8,84,Angel dozers,Free,,,,,2026-10-22
+84291120,8,84,Bulldozers,Free,,,,,2026-10-22
+842919,6,84,Bulldozers and angledozers : -- Other,,,,,,2026-10-22
+84291910,8,84,Angeldozers,Free,,,,,2026-10-22
+84291920,8,84,Bulldozers,Free,,,,,2026-10-22
+84292000,8,84,Graders and levellers,Free,,,,,2026-10-22
+84293000,8,84,Scrapers,Free,,,,,2026-10-22
+842940,6,84,Tamping machines and road rollers,,,,,,2026-10-22
+84294010,8,84,Road rollers upto 5 tons capacity,Free,,,,,2026-10-22
+84294020,8,84,Road rollers above 5 tons capacity,Free,,,,,2026-10-22
+84294030,8,84,Tamping machines,Free,,,,,2026-10-22
+84295100,8,84,"Mechanical shovels, excavators and shovel loaders : -- Front-end shovel loaders",Free,,,,,2026-10-22
+84295200,8,84,"Mechanical shovels, excavators and shovel loaders : -- Machinery with a 360 degrees revolving superstructure",Free,,,,,2026-10-22
+84295900,8,84,"Mechanical shovels, excavators and shovel loaders : -- Other",Free,,,,,2026-10-22
+8430,4,84,"Other moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals or ores; pile-drivers and pile-extractors; snow-ploughs and snowblowers.",,,,,,2026-10-22
+843010,6,84,Pile-drivers and pile-extractors,,,,,,2026-10-22
+84301010,8,84,Pile-drivers,Free,,,,,2026-10-22
+84301020,8,84,Pile-extractors,Free,,,,,2026-10-22
+84302000,8,84,Snow-ploughs and snow-blowers,Free,,,,,2026-10-22
+843031,6,84,Coal or rock cutters and tunnelling machinery : -- Self-propelled,,,,,,2026-10-22
+84303110,8,84,Coal cutters,Free,,,,,2026-10-22
+84303120,8,84,Tunneling machinery,Free,,,,,2026-10-22
+84303190,8,84,Other,Free,,,,,2026-10-22
+84303900,8,84,Coal or rock cutters and tunnelling machinery : -- Other,Free,,,,,2026-10-22
+843041,6,84,Other boring or sinking machinery : -- Self-propelled,,,,,,2026-10-22
+84304110,8,84,Tube well drilling and core drilling machinery,Free,,,,,2026-10-22
+84304120,8,84,Petroleum and gas well drilling machinery,Free,,,,,2026-10-22
+84304130,8,84,Rock drilling machinery,Free,,,,,2026-10-22
+84304190,8,84,Other,Free,,,,,2026-10-22
+84304900,8,84,Other boring or sinking machinery : -- Other,Free,,,,,2026-10-22
+843050,6,84,"Other machinery, self-propelled",,,,,,2026-10-22
+84305010,8,84,Mining machinery (excluding coal mining),Free,,,,,2026-10-22
+84305090,8,84,Other,Free,,,,,2026-10-22
+84306100,8,84,"Other machinery, not self-propelled : -- Tamping or compacting machinery",Free,,,,,2026-10-22
+843069,6,84,Other :,,,,,,2026-10-22
+84306910,8,84,Mine plough machinery,Free,.,,40/2024-25,2024-11-26,2026-10-22
+84306990,8,84,Other,Free,.,,40/2024-25,2024-11-26,2026-10-22
+8431,4,84,Parts suitable for use solely or principally with the machinery of headings 84.25 to 84.30.,,,,,,2026-10-22
+843110,6,84,Of machinery of heading 84.25,,,,,,2026-10-22
+84311010,8,84,"Of pulley tackle hoists, other than skip hoists, winches or capstans",Free,,,,,2026-10-22
+84311090,8,84,Other,Free,,,,,2026-10-22
+843120,6,84,Of machinery of heading 84.27,,,,,,2026-10-22
+84312010,8,84,Of fork lift trucks,Free,,,,,2026-10-22
+84312090,8,84,Other,Free,,,,,2026-10-22
+84313100,8,84,"Of machinery of heading 84.28 : -- Of lifts, skip hoists or escalators",Free,,,,,2026-10-22
+843139,6,84,Of machinery of heading 84.28 : -- Other,,,,,,2026-10-22
+84313910,8,84,"Of elevators, conveyors and moving equipments",Free,,,,,2026-10-22
+84313990,8,84,Other,Free,,,,,2026-10-22
+84314100,8,84,"Of machinery of heading 84.26, 84.29 or 84.30 : -- Buckets, shovels, grabs and grips",Free,,,,,2026-10-22
+84314200,8,84,"Of machinery of heading 84.26, 84.29 or 84.30 : -- Bulldozer or angledozer blades",Free,,,,,2026-10-22
+843143,6,84,"Of machinery of heading 84.26, 84.29 or 84.30 : -- Parts for boring or sinking machinery of subheading 8430.41 or 8430.49",,,,,,2026-10-22
+84314310,8,84,"Of boring or sinking machinery, self-propelled",Free,,,,,2026-10-22
+84314390,8,84,Other,Free,,,,,2026-10-22
+843149,6,84,"Of machinery of heading 84.26, 84.29 or 84.30 : -- Other",,,,,,2026-10-22
+84314910,8,84,"Of road rollers, mechanically propelled",Free,,,,,2026-10-22
+84314920,8,84,Of ships derricks and cranes,Free,,,,,2026-10-22
+84314930,8,84,"Of other excavating, levelling, tamping or excavating machinery for earth, mineral or ores",Free,,,,,2026-10-22
+84314940,8,84,"Of pile driver, snow plough, not self-propelled",Free,,,,,2026-10-22
+84314990,8,84,Other,Free,,,,,2026-10-22
+8432,4,84,"Agricultural, horticultural or forestry machinery for soil preparation or cultivation; lawn or sports-ground rollers.",,,,,,2026-10-22
+843210,6,84,Ploughs,,,,,,2026-10-22
+84321010,8,84,Disc ploughs,Free,,,,,2026-10-22
+84321020,8,84,Other tractor ploughs,Free,,,,,2026-10-22
+84321090,8,84,Other,Free,,,,,2026-10-22
+84322100,8,84,"Harrows, scarifiers, cultivators, weeders and hoes : -- Disc harrows",Free,,,,,2026-10-22
+843229,6,84,"Harrows, scarifiers, cultivators, weeders and hoes : -- Other",,,,,,2026-10-22
+84322910,8,84,Rotary hoes,Free,,,,,2026-10-22
+84322990,8,84,Other,Free,,,,,2026-10-22
+84323100,8,84,"Seeders, planters and transplanters : -- No-till direct seeders, planters and transplanters",Free,,,,,2026-10-22
+84323900,8,84,"Seeders, planters and transplanters : -- Other",Free,,,,,2026-10-22
+84324100,8,84,Manure spreaders and fertiliser distributors : -- Manure spreaders,Free,,,,,2026-10-22
+84324200,8,84,Manure spreaders and fertiliser distributors : -- Fertiliser distributors,Free,,,,,2026-10-22
+843280,6,84,Other machinery,,,,,,2026-10-22
+84328010,8,84,Lawn or sports-ground rollers,Free,,,,,2026-10-22
+84328020,8,84,Rotary tiller,Restricted,Subject to Policy Condition 3 of this Chapter,3,19/2015-2020,2020-07-15,2026-10-22
+84328090,8,84,Other,,,,,,2026-10-22
+843290,6,84,Parts,,,,,,2026-10-22
+84329010,8,84,"Parts of agricultural machinery falling within headings. 8432 10, 8432 21, 8432 29, 8432 30 and 8432 40",Free,,,,,2026-10-22
+84329090,8,84,Other,Restricted,Subject to Policy Condition 3 of this Chapter,3,19/2015-2020,2020-07-15,2026-10-22
+8433,4,84,"Harvesting or threshing machinery, including straw or fodder balers; grass or hay mowers; machines for cleaning, sorting or grading eggs, fruit or other agricultural produce, other than machinery of heading 84.37.",,,,,,2026-10-22
+843311,6,84,"Mowers for lawns, parks or sports-grounds : -- Powered, with the cutting device rotating in a horizontal plane",,,,,,2026-10-22
+84331110,8,84,Powered with 3 HP or more,Free,,,,,2026-10-22
+84331190,8,84,Other,Free,,,,,2026-10-22
+843319,6,84,"Mowers for lawns, parks or sports-grounds : -- Other",,,,,,2026-10-22
+84331910,8,84,"Non- powered mowers, having width of 75 cm or more",Free,,,,,2026-10-22
+84331990,8,84,Other,Free,,,,,2026-10-22
+84332000,8,84,"Other mowers, including cutter bars for tractor mounting",Free,,,,,2026-10-22
+84333000,8,84,Other haymaking machinery,Free,,,,,2026-10-22
+84334000,8,84,"Straw or fodder balers, including pick-up balers",Free,,,,,2026-10-22
+84335100,8,84,Other harvesting machinery; threshing machinery : -- Combine harvester-threshers,Free,,,,,2026-10-22
+84335200,8,84,Other harvesting machinery; threshing machinery : -- Other threshing machinery,Free,,,,,2026-10-22
+84335300,8,84,Other harvesting machinery; threshing machinery : -- Root or tuber harvesting machines,Free,,,,,2026-10-22
+84335900,8,84,Other harvesting machinery; threshing machinery : -- Other,Free,,,,,2026-10-22
+843360,6,84,"Machines for cleaning, sorting or grading eggs, fruit or other agricultural produce",,,,,,2026-10-22
+84336010,8,84,Machines for cleaning,Free,,,,,2026-10-22
+84336020,8,84,Machine for sorting or grading,Free,,,,,2026-10-22
+84339000,8,84,Parts,Free,,,,,2026-10-22
+8434,4,84,Milking machines and dairy machinery.,,,,,,2026-10-22
+84341000,8,84,Milking machines,Free,,,,,2026-10-22
+84342000,8,84,Dairy machinery,Free,,,,,2026-10-22
+843490,6,84,Parts,,,,,,2026-10-22
+84349010,8,84,Of milking machinery,Free,,,,,2026-10-22
+84349020,8,84,Of dairy machinery,Free,,,,,2026-10-22
+8435,4,84,"Presses, crushers and similar machinery used in the manufacture of wine, cider, fruit juices or similar beverages.",,,,,,2026-10-22
+84351000,8,84,Machinery,Free,,,,,2026-10-22
+84359000,8,84,Parts,Free,,,,,2026-10-22
+8436,4,84,"Other agricultural, horticultural, forestry, poultry-keeping or bee-keeping machinery, including germination plant fitted with mechanical or thermal equipment; poultry incubators and brooders.",,,,,,2026-10-22
+84361000,8,84,Machinery for preparing animal feeding stuffs,Free,,,,,2026-10-22
+84362100,8,84,Poultry-keeping machinery; poultry incubators and brooders : -- Poultry incubators and brooders,Free,,,,,2026-10-22
+84362900,8,84,Poultry-keeping machinery; poultry incubators and brooders : -- Other,Free,,,,,2026-10-22
+843680,6,84,Other machinery,,,,,,2026-10-22
+84368010,8,84,Germination plant fitted with mechanical and thermal equipment,Free,,,,,2026-10-22
+84368090,8,84,Other,Free,,,,,2026-10-22
+84369100,8,84,Parts : -- Of poultry-keeping machinery or poultry incubators and brooders,Free,,,,,2026-10-22
+84369900,8,84,Parts : -- Other,Free,,,,,2026-10-22
+8437,4,84,"Machines for cleaning, sorting or grading seed, grain or dried leguminous vegetables; machinery used in the milling industry or for the working of cereals or dried leguminous vegetables, other than farm-type machinery.",,,,,,2026-10-22
+84371000,8,84,"Machines for cleaning, sorting or grading seed, grain or dried",Free,,,,,2026-10-22
+843780,6,84,Other machinery,,,,,,2026-10-22
+84378010,8,84,Flour mill machinery,Free,,,,,2026-10-22
+84378020,8,84,Rice mill machinery,Free,,,,,2026-10-22
+84378090,8,84,Other,Free,,,,,2026-10-22
+843790,6,84,Parts,,,,,,2026-10-22
+84379010,8,84,Of flour mill machinery,Free,,,,,2026-10-22
+84379020,8,84,Of rice mill machinery,Free,,,,,2026-10-22
+84379090,8,84,Other,Free,,,,,2026-10-22
+8438,4,84,"MACHINERY, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER, FOR THE INDUSTRIAL PREPARATION OR MANUFACTURE OF FOOD OR DRINK, OTHER THAN MACHINERY FOR THE EXTRACTION OR PREPARATION OF ANIMAL OR FIXED VEGETABLE OR MICROBIAL FATS OR OILS",,,,,,2026-10-22
+843810,6,84,"Bakery machinery and machinery for the manufacture of macaroni, spaghetti or similar products",,,,,,2026-10-22
+84381010,8,84,Bakery machinery,Free,,,,,2026-10-22
+84381020,8,84,Machinery for manufacture of macaroni or spaghetti or similar products,Free,,,,,2026-10-22
+84382000,8,84,"Machinery for the manufacture of confectionery, cocoa or chocolate",Free,,,,,2026-10-22
+843830,6,84,Machinery for sugar manufacture,,,,,,2026-10-22
+84383010,8,84,Sugar cane crushers,Free,,,,,2026-10-22
+84383090,8,84,Other,Free,,,,,2026-10-22
+84384000,8,84,Brewery machinery,Free,,,,,2026-10-22
+84385000,8,84,Machinery for the preparation of meat or poultry,Free,,,,,2026-10-22
+84386000,8,84,"Machinery for the preparation of fruits, nuts or vegetables",Free,,,,,2026-10-22
+843880,6,84,Other machinery,,,,,,2026-10-22
+84388010,8,84,Auxiliary equipment for extrusion cooking plant,Free,,,,,2026-10-22
+84388020,8,84,For production of soya milk or other soya products (other than soya oil),Free,,,,,2026-10-22
+84388030,8,84,Diffusing machines (diffusers),Free,,,,,2026-10-22
+84388040,8,84,Tea leaf rolling or cutting machine,Free,,,,,2026-10-22
+84388090,8,84,Other,Free,,,,,2026-10-22
+843890,6,84,Parts,,,,,,2026-10-22
+84389010,8,84,Of sugar manufacturing machinery,Free,,,,,2026-10-22
+84389090,8,84,Of other machinery,Free,,,,,2026-10-22
+8439,4,84,Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard.,,,,,,2026-10-22
+84391000,8,84,Machinery for making pulp of fibrous cellulosic material,Free,,,,,2026-10-22
+84392000,8,84,Machinery for making paper or paperboard,Free,,,,,2026-10-22
+843930,6,84,Machinery for finishing paper or paperboard,,,,,,2026-10-22
+84393010,8,84,Paper laminating machine,Free,,,,,2026-10-22
+84393090,8,84,Other,Free,,,,,2026-10-22
+84399100,8,84,Parts : -- Of machinery for making pulp of fibrous cellulosic material,Free,,,,,2026-10-22
+84399900,8,84,Parts : -- Other,Free,,,,,2026-10-22
+8440,4,84,"Book-binding machinery, including book-sewing machines.",,,,,,2026-10-22
+844010,6,84,Machinery,,,,,,2026-10-22
+84401010,8,84,"Wire stitching machinery, single headed",Free,,,,,2026-10-22
+84401090,8,84,Other,Free,,,,,2026-10-22
+84409000,8,84,Parts,Free,,,,,2026-10-22
+8441,4,84,"Other machinery for making up paper pulp, paper or paperboard, including cutting machines of all kinds.",,,,,,2026-10-22
+844110,6,84,Cutting machines,,,,,,2026-10-22
+84411010,8,84,"Paper cutting machines, excluding machines with devices such as automatic programme cutting or three knife trimmers",Free,,,,,2026-10-22
+84411090,8,84,Other,Free,,,,,2026-10-22
+84412000,8,84,"Machines for making bags, sacks or envelopes",Free,,,,,2026-10-22
+84413000,8,84,"Machines for making cartons, boxes, cases, tubes, drums or similar containers, other than by moulding",Free,,,,,2026-10-22
+84414000,8,84,"Machines for moulding articles in paper pulp, paper or paperboard",Free,,,,,2026-10-22
+84418000,8,84,Other machinery,Free,,,,,2026-10-22
+84419000,8,84,Parts,Free,,,,,2026-10-22
+8442,4,84,"Machinery, apparatus and equipment (other than the machines of headings 84.56 to 84.65) for preparing or making plates, cylinders or other printing components; plates, cylinders and other printing components; plates, cylinders and lithographic stones, prepared for printing purposes (for example, planed, grained or polished).",,,,,,2026-10-22
+844230,6,84,"Machinery, apparatus and equipment",,,,,,2026-10-22
+84423010,8,84,Brass rules,Free,,,,,2026-10-22
+84423020,8,84,Chases,Free,,,,,2026-10-22
+84423090,8,84,Other,Free,,,,,2026-10-22
+84424000,8,84,"Parts of the foregoing machinery, apparatus or equipment",Free,,,,,2026-10-22
+844250,6,84,"Plates, cylinders and other printing components; plates, cylinders and lithographic stones, prepared for printing purposes (for example, planed, grained or polished)",,,,,,2026-10-22
+84425010,8,84,Plates and cylinders,Free,,,,,2026-10-22
+84425020,8,84,Lithographic plates,Free,,,,,2026-10-22
+84425031,8,84,"Plate, cylinder and lithographic stones prepared for printing purposes: ----Plate and cylinder for textile printing machine",Free,,,,,2026-10-22
+84425039,8,84,"Plate, cylinder and lithographic stones prepared for printing purposes: ----Other",Free,,,,,2026-10-22
+84425040,8,84,"Plate, cylinder and lithographic stones prepared for printing purposes: ----Highly polished copper sheets for making blocks",Free,,,,,2026-10-22
+84425050,8,84,"Plate, cylinder and lithographic stones prepared for printing purposes: ----Highly polished zinc sheets for making process blocks",Free,,,,,2026-10-22
+84425090,8,84,"Plate, cylinder and lithographic stones prepared for printing purposes: ----Other",Free,,,,,2026-10-22
+8443,4,84,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof.",,,,,,2026-10-22
+84431100,8,84,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 : -- Offset printing machinery, reel-fed",Free,,,,,2026-10-22
+84431200,8,84,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 : -- Offset printing machinery, sheet-fed, office type (using sheets with one side not exceeding 22 cm and the other side not exceeding 36 cm in the unfolded state)",Free,,,,,2026-10-22
+84431300,8,84,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 : -- Other offset printing machinery",Free,,,,,2026-10-22
+84431400,8,84,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 : -- Letterpress printing machinery, reel fed, excluding flexographic printing",Free,,,,,2026-10-22
+84431500,8,84,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 : -- Letterpress printing machinery, other than reel fed, excluding flexographic printing",Free,,,,,2026-10-22
+84431600,8,84,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 : -- Flexographic printing machinery",Free,,,,,2026-10-22
+84431700,8,84,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 : -- Gravure printing machinery",Free,,,,,2026-10-22
+844319,6,84,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 : -- Other",,,,,,2026-10-22
+84431910,8,84,Flat bed printing presses,Free,,,,,2026-10-22
+84431920,8,84,Platen printing presses,Free,,,,,2026-10-22
+84431930,8,84,Proof presses,Free,,,,,2026-10-22
+84431941,8,84,Machinery for printing repetitive word or design or colour: ----On cotton textile,Free,,,,,2026-10-22
+84431949,8,84,Machinery for printing repetitive word or design or colour: ----Other,Free,,,,,2026-10-22
+84431990,8,84,Other,Free,,,,,2026-10-22
+84433100,8,84,"Other printers, copying machines and facsimile machines, whether or not combined : -- Machines which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data processing machine or to a network",Free,,,,,2026-10-22
+844332,6,84,"Other printers, copying machines and facsimile machines, whether or not combined : -- Other, capable of connecting to an automatic data processing machine or to a network",,,,,,2026-10-22
+84433210,8,84,Line printer,Free,IS 13252:2003,,,,2026-10-22
+84433220,8,84,Dot matrix printer,Free,IS 13252:2003,,,,2026-10-22
+84433230,8,84,Letter quality daisy wheel printer,Free,IS 13252:2003,,,,2026-10-22
+84433240,8,84,Laser jet printer,Free,IS 13252:2003,,,,2026-10-22
+84433250,8,84,Ink jet printer,Free,IS 13252:2003,,,,2026-10-22
+84433260,8,84,Facsimile machine,Free,,,,,2026-10-22
+84433290,8,84,Other,Free,,,,,2026-10-22
+84433910,8,84,Ink-jet printing machine,Free,,,,,2026-10-22
+84433920,8,84,Electrostatic photocopying apparatus operated by reproducing the original image directly onto the copy (direct process),Free,,,,,2026-10-22
+84433930,8,84,Electrostatic photocopying apparatus operated by reproducing the original image via and intermediate onto the copy (indirect process),Free,,,,,2026-10-22
+84433940,8,84,Other photocopying apparatus incorporating an optical system,Free,,,,,2026-10-22
+84433950,8,84,Other photocopying apparatus of contact type,Free,,,,,2026-10-22
+84433960,8,84,Thermo-copying apparatus,Free,,,,,2026-10-22
+84433970,8,84,Facsimile machine not capable of getting connected to automatic data processing machine,Free,,,,,2026-10-22
+84433990,8,84,Other,Free,,,,,2026-10-22
+84439100,8,84,Parts and accessories : -- Parts and accessories of printing machinery used for printing by heading 84.42,Free,,,,,2026-10-22
+844399,6,84,Other,,,,,,2026-10-22
+84439910,8,84,Automatic documents feeders of copying machines,Free,,,,,2026-10-22
+84439920,8,84,Paper feeders of copying machines,Free,,,,,2026-10-22
+84439930,8,84,Sorters of copying machines,Free,,,,,2026-10-22
+84439940,8,84,Other parts of copying machines,Free,,,,,2026-10-22
+84439951,8,84,"Cartridges or toners, with print head assembly",Free,,,,,2026-10-22
+84439952,8,84,"Cartridges or toners, without print head assembly",Free,,,,,2026-10-22
+84439959,8,84,"Parts and accessories of goods of sub-heading 8443 31, 8443 32: ----Other",Free,,,,,2026-10-22
+84439960,8,84,"Parts and accessories of goods of sub-heading 8443 31, 8443 32: ----Parts and accessories of goods of sub-heading 8443 39",Free,,,,,2026-10-22
+84439990,8,84,"Parts and accessories of goods of sub-heading 8443 31, 8443 32: ----Other",Free,,,,,2026-10-22
+8444,4,84,"Machines for extruding, drawing, texturing or cutting manmade textile materials.",,,,,,2026-10-22
+844400,6,84,"Machines for extruding, drawing, texturing or cutting man-made textile materials :",,,,,,2026-10-22
+84440010,8,84,Machines for extruding man-made textile materials,Free,,,,,2026-10-22
+84440090,8,84,Other,Free,,,,,2026-10-22
+8445,4,84,"Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery for producing textile yarns; textile reeling or winding (including weft-winding) machines and machines for preparing textile yarns for use on the machines of heading 84.46 or 84.47.",,,,,,2026-10-22
+844511,6,84,Machines for preparing textile fibres : -- Carding machines,,,,,,2026-10-22
+84451110,8,84,Cotton carding machines,Free,,,,,2026-10-22
+84451190,8,84,Other,Free,,,,,2026-10-22
+844512,6,84,Machines for preparing textile fibres : -- Combing machines,,,,,,2026-10-22
+84451210,8,84,Cotton combing machines,Free,,,,,2026-10-22
+84451290,8,84,Other,Free,,,,,2026-10-22
+84451300,8,84,Machines for preparing textile fibres : -- Drawing or roving machines,Free,,,,,2026-10-22
+844519,6,84,Machines for preparing textile fibres : -- Other,,,,,,2026-10-22
+84451910,8,84,Cotton processing machines (including cotton ginning machine),Free,,,,,2026-10-22
+84451920,8,84,Jute fibre processing machines,Free,,,,,2026-10-22
+84451930,8,84,Regenerated fibres and synthetic fibres processing machines,Free,,,,,2026-10-22
+84451940,8,84,Silk processing machines,Free,,,,,2026-10-22
+84451950,8,84,Wool processing machines,Free,,,,,2026-10-22
+84451960,8,84,Blowroom machines,Free,,,,,2026-10-22
+84451990,8,84,Other,Free,,,,,2026-10-22
+844520,6,84,Textile spinning machines,,,,,,2026-10-22
+84452011,8,84,Cotton spinning machines: ----Drawing frames,Free,,,,,2026-10-22
+84452012,8,84,Cotton spinning machines: ----Intermediate frames,Free,,,,,2026-10-22
+84452013,8,84,Cotton spinning machines: ----Ring frames,Free,,,,,2026-10-22
+84452014,8,84,Cotton spinning machines: ----Roving frames,Free,,,,,2026-10-22
+84452019,8,84,Cotton spinning machines: ----Other,Free,,,,,2026-10-22
+84452020,8,84,Cotton spinning machines: ----Jute fibres spinning machines,Free,,,,,2026-10-22
+84452030,8,84,Cotton spinning machines: ----Regenerated fibres and synthetic fibres spinning machines,Free,,,,,2026-10-22
+84452040,8,84,Cotton spinning machines: ----Silk fibres spinning machines,Free,,,,,2026-10-22
+84452050,8,84,Cotton spinning machines: ----Wool spinning machines,Free,,,,,2026-10-22
+84452090,8,84,Cotton spinning machines: ----Other,Free,,,,,2026-10-22
+844530,6,84,Textile doubling or twisting machines,,,,,,2026-10-22
+84453011,8,84,Doubling frames,Free,,,,,2026-10-22
+84453019,8,84,Other,Free,,,,,2026-10-22
+84453020,8,84,Jute fibre doubling or twisting machines,Free,,,,,2026-10-22
+84453030,8,84,Regenerated fibre and synthetic fibre yarn doubling or twisting machines,Free,,,,,2026-10-22
+84453040,8,84,Silk fibre doubling or twisting machines,Free,,,,,2026-10-22
+84453050,8,84,Wool fibre doubling or twisting machines,Free,,,,,2026-10-22
+84453090,8,84,Other fibre doubling or twisting machines,Free,,,,,2026-10-22
+844540,6,84,Textile winding (including weft-winding) or reeling machines,,,,,,2026-10-22
+84454010,8,84,"Cotton fibre winding (including weft-winding) or reeling machines, automatic or otherwise",Free,,,,,2026-10-22
+84454020,8,84,Jute fibre reeling (including weft-winding) machines,Free,,,,,2026-10-22
+84454030,8,84,Regenerated fibres yarn and synthetic fibres yarn reeling (including weft-winding) machines,Free,,,,,2026-10-22
+84454040,8,84,Silk fibre reeling (including weft-winding) machines,Free,,,,,2026-10-22
+84454050,8,84,Wool fibre reeling (including weft-winding) machines,Free,,,,,2026-10-22
+84454090,8,84,Other,Free,,,,,2026-10-22
+84459000,8,84,Other,Free,,,,,2026-10-22
+8446,4,84,Weaving machines (looms).,,,,,,2026-10-22
+844610,6,84,For weaving fabrics of a width not exceeding 30 cm,,,,,,2026-10-22
+84461011,8,84,"Cotton weaving machines: ----Automatic, powerloom",Free,,,,,2026-10-22
+84461012,8,84,"Cotton weaving machines: ----Plain, powerloom",Free,,,,,2026-10-22
+84461019,8,84,Cotton weaving machines: ----Other,Free,,,,,2026-10-22
+84461090,8,84,Cotton weaving machines: ----Other,Free,,,,,2026-10-22
+844621,6,84,"For weaving fabrics of a width exceeding 30 cm, shuttle type : -- Power looms",,,,,,2026-10-22
+84462110,8,84,"Cotton weaving machines, automatic",Free,,,,,2026-10-22
+84462190,8,84,Other,Free,,,,,2026-10-22
+844629,6,84,"For weaving fabrics of a width exceeding 30 cm, shuttle type : -- Other",,,,,,2026-10-22
+84462910,8,84,Cotton weaving machines,Free,,,,,2026-10-22
+84462990,8,84,Other,Free,,,,,2026-10-22
+844630,6,84,"For weaving fabrics of a width exceeding 30 cm, shuttleless type",,,,,,2026-10-22
+84463011,8,84,"Cotton weaving machines: ----Automatic, powerloom",Free,,,,,2026-10-22
+84463012,8,84,"Cotton weaving machines: ----Plain, powerloom",Free,,,,,2026-10-22
+84463019,8,84,Cotton weaving machines: ----Other,Free,,,,,2026-10-22
+84463090,8,84,Cotton weaving machines: ----Other,Free,,,,,2026-10-22
+8447,4,84,"Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting.",,,,,,2026-10-22
+844711,6,84,Circular knitting machines : -- With cylinder diameter not exceeding 165 mm,,,,,,2026-10-22
+84471111,8,84,Wool knitting machines: ----Hand knitting machines,Free,,,,,2026-10-22
+84471119,8,84,Wool knitting machines: ----Other,Free,,,,,2026-10-22
+84471120,8,84,Wool knitting machines: ----Cotton hosiery machines,Free,,,,,2026-10-22
+84471190,8,84,Wool knitting machines: ----Other,Free,,,,,2026-10-22
+844712,6,84,Circular knitting machines : -- With cylinder diameter exceeding 165 mm,,,,,,2026-10-22
+84471211,8,84,Wool knitting machines: ----Hand knitting machines,Free,,,,,2026-10-22
+84471219,8,84,Wool knitting machines: ----Other,Free,,,,,2026-10-22
+84471220,8,84,Wool knitting machines: ----Cotton hosiery machines,Free,,,,,2026-10-22
+84471290,8,84,Wool knitting machines: ----Other,Free,,,,,2026-10-22
+844720,6,84,Flat knitting machines; stitch-bonding machines,,,,,,2026-10-22
+84472010,8,84,Hand knitting machines for wool,Free,,,,,2026-10-22
+84472020,8,84,Other knitting machines for wool,Free,,,,,2026-10-22
+84472030,8,84,Cotton hosiery machines,Free,,,,,2026-10-22
+84472090,8,84,Other,Free,,,,,2026-10-22
+844790,6,84,Other,,,,,,2026-10-22
+84479010,8,84,Machines for making of tulle and lace,Free,,,,,2026-10-22
+84479020,8,84,Machines for making embroidery,Free,,,,,2026-10-22
+84479030,8,84,Other,Free,,,,,2026-10-22
+8448,4,84,"Auxiliary machinery for use with machines of heading 84.44, 84.45, 84.46 or 84.47 (for example, dobbies, Jacquards, automatic stop motions, shuttle changing mechanisms); parts and accessories suitable for use solely or principally with the machines of this heading or of heading 84.44, 84.45, 84.46 or 84.47 (for example, spindles and spindle flyers, card clothing, combs, extruding nipples, shuttles, healds and heald-frames, hosiery needles).",,,,,,2026-10-22
+844811,6,84,"Auxiliary machinery for machines of heading 84.44, 84.45, 84.46 or 84.47 : -- Dobbies and Jacquards; card reducing, copying, punching or assembling machines for use therewith",,,,,,2026-10-22
+84481110,8,84,Jacquards and harness liner cards for cotton textile machinery,Free,,,,,2026-10-22
+84481190,8,84,Other,Free,,,,,2026-10-22
+84481900,8,84,"Auxiliary machinery for machines of heading 84.44, 84.45, 84.46 or 84.47 : -- Other",Free,,,,,2026-10-22
+84482000,8,84,Parts and accessories of machines of heading 84.44 or of their auxiliary machinery,Free,,,,,2026-10-22
+84483100,8,84,Parts and accessories of machines of heading 84.45 or of their auxiliary machinery : -- Card clothing,Free,,,,,2026-10-22
+844832,6,84,"Parts and accessories of machines of heading 84.45 or of their auxiliary machinery : -- Of machines for preparing textile fibres, other than card clothing",,,,,,2026-10-22
+84483210,8,84,For cotton processing machines,Free,,,,,2026-10-22
+84483220,8,84,For jute processing machines,Free,,,,,2026-10-22
+84483230,8,84,For silk and manmade (regenerated and synthetic fibres processing machines),Free,,,,,2026-10-22
+84483240,8,84,For wool processing machines,Free,,,,,2026-10-22
+84483290,8,84,Other,Free,,,,,2026-10-22
+844833,6,84,"Parts and accessories of machines of heading 84.45 or of their auxiliary machinery : --Spindles, spindle flyers, spinning rings and ring travellers",,,,,,2026-10-22
+84483310,8,84,For cotton spinning machines,Free,,,,,2026-10-22
+84483320,8,84,For jute spinning machines,Free,,,,,2026-10-22
+84483330,8,84,For silk and man-made (regenerated and synthetic) fibre spinning machines,Free,,,,,2026-10-22
+84483340,8,84,For wool spinning machines,Free,,,,,2026-10-22
+84483390,8,84,For other textile fibre spinning machines,Free,,,,,2026-10-22
+844839,6,84,Parts and accessories of machines of heading 84.45 or of their auxiliary machinery : --Other,,,,,,2026-10-22
+84483910,8,84,Combs for cotton textile machinery,Free,,,,,2026-10-22
+84483920,8,84,Gills for gill boxes,Free,,,,,2026-10-22
+84483990,8,84,Other,Free,,,,,2026-10-22
+844842,6,84,"Parts and accessories of weaving machines (looms) or of their auxiliary machinery : -- Reeds for looms, healds and heald-frames",,,,,,2026-10-22
+84484210,8,84,Healds (excluding wire healds) for cotton machinery and reeds for cotton machinery,Free,,,,,2026-10-22
+84484220,8,84,"Healds, wire",Free,,,,,2026-10-22
+84484290,8,84,Other,Free,,,,,2026-10-22
+844849,6,84,Parts and accessories of weaving machines (looms) or of their auxiliary machinery : -- Other,,,,,,2026-10-22
+84484910,8,84,Parts of cotton weaving machinery,Free,,,,,2026-10-22
+84484920,8,84,Parts of jute weaving machinery,Free,,,,,2026-10-22
+84484930,8,84,Parts of silk and man-made fibres weaving machinery,Free,,,,,2026-10-22
+84484940,8,84,Parts of wool weaving machinery,Free,,,,,2026-10-22
+84484950,8,84,Parts of other textile weaving machinery,Free,,,,,2026-10-22
+84484990,8,84,Other,Free,,,,,2026-10-22
+844851,6,84,"Parts and accessories of machines of heading 84.47 or of their auxiliary machinery : -- Sinkers, needles and other articles used in forming stitches",,,,,,2026-10-22
+84485110,8,84,Of cotton hosiery machine,Free,,,,,2026-10-22
+84485120,8,84,Of wool knitting machines,Free,,,,,2026-10-22
+84485130,8,84,"Of machines for tulle, lace",Free,,,,,2026-10-22
+84485190,8,84,Other,Free,,,,,2026-10-22
+84485900,8,84,Parts and accessories of machines of heading 84.47 or of their auxiliary machinery : -- Other,Free,,,,,2026-10-22
+8449,4,84,"Machinery for the manufacture or finishing of felt or nonwovens in the piece or in shapes, including machinery for making felt hats; blocks for making hats.",,,,,,2026-10-22
+844900,6,84,"Machinery for the manufacture or finishing of felt or nonwovens in the piece or in shapes, including machinery for making felt hats; blocks for making hats :",,,,,,2026-10-22
+84490010,8,84,Machinery for manufacture or finishing of felt in piece or in shapes (including felt hat-making machines and hat making blocks),Free,,,,,2026-10-22
+84490090,8,84,Other,Free,,,,,2026-10-22
+8450,4,84,"Household or laundry-type washing machines, including machines which both wash and dry.",,,,,,2026-10-22
+84501100,8,84,"Machines, each of a dry linen capacity not exceeding 10 kg : -- Fully-automatic machines",Free,,,,,2026-10-22
+84501200,8,84,"Machines, each of a dry linen capacity not exceeding 10 kg : -- Other machines, with built-in centrifugal drier",Free,,,,,2026-10-22
+84501900,8,84,"Machines, each of a dry linen capacity not exceeding 10 kg : -- Other",Free,,,,,2026-10-22
+84502000,8,84,"Machines, each of a dry linen capacity exceeding 10 kg",Free,,,,,2026-10-22
+845090,6,84,Parts,,,,,,2026-10-22
+84509010,8,84,Parts of household type machines,Free,,,,,2026-10-22
+84509090,8,84,Other,Free,,,,,2026-10-22
+8451,4,84,"Machinery (other than machines of heading 84.50) for washing, cleaning, wringing, drying, ironing, pressing (including fusing presses), bleaching, dyeing, dressing, finishing, coating or impregnating textile yarns, fabrics or made up textile articles and machines for applying the paste to the base fabric or other support used in the manufacture of floor coverings such as linoleum; machines for reeling, unreeling, folding, cutting or pinking textile fabrics.",,,,,,2026-10-22
+845110,6,84,Dry-cleaning machines,,,,,,2026-10-22
+84511010,8,84,Dry cleaning machines for cotton textile,Free,,,,,2026-10-22
+84511090,8,84,Other,Free,,,,,2026-10-22
+84512100,8,84,Drying machines : -- Each of a dry linen capacity not exceeding 10 kg,Free,,,,,2026-10-22
+84512900,8,84,Drying machines : -- Other,Free,,,,,2026-10-22
+845130,6,84,Ironing machines and presses (including fusing presses),,,,,,2026-10-22
+84513010,8,84,Hand ironing press,Free,,,,,2026-10-22
+84513090,8,84,Other,Free,,,,,2026-10-22
+845140,6,84,"Washing, bleaching or dyeing machines",,,,,,2026-10-22
+84514011,8,84,Bleaching machine: ----For cotton textile,Free,,,,,2026-10-22
+84514019,8,84,Bleaching machine: ----Other,Free,,,,,2026-10-22
+84514021,8,84,Dyeing machines: ----For cotton textile,Free,,,,,2026-10-22
+84514029,8,84,Dyeing machines: ----For other textile,Free,,,,,2026-10-22
+84514091,8,84,Other: ----For washing and cleaning for woolen textile,Free,,,,,2026-10-22
+84514099,8,84,Other: ----Other,Free,,,,,2026-10-22
+84515000,8,84,"Machines for reeling, unreeling, folding, cutting or pinking textile fabrics",Free,,,,,2026-10-22
+845180,6,84,Other machinery,,,,,,2026-10-22
+84518011,8,84,Sizing and dressing machines: ----For cotton textile,Free,,,,,2026-10-22
+84518019,8,84,Sizing and dressing machines: ----Other,Free,,,,,2026-10-22
+84518021,8,84,Finishing machines: ----For coating or impregnating yarn or fabrics,Free,,,,,2026-10-22
+84518022,8,84,Finishing machines: ----Other finishing processes for cotton textile,Free,,,,,2026-10-22
+84518029,8,84,Finishing machines: ----Other,Free,,,,,2026-10-22
+84518090,8,84,Finishing machines: ----Other,Free,,,,,2026-10-22
+84519000,8,84,Parts,Free,,,,,2026-10-22
+8452,4,84,"Sewing machines, other than book-sewing machines of heading 84.40; furniture, bases and covers specially designed for sewing machines; sewing machine needles.",,,,,,2026-10-22
+845210,6,84,Sewing machines of the household type,,,,,,2026-10-22
+84521011,8,84,"Complete, with stand or table: ----With electronic controls or electric motors",Free,,,,,2026-10-22
+84521012,8,84,"Complete, with stand or table: ----Hand operated",Free,,,,,2026-10-22
+84521019,8,84,"Complete, with stand or table: ----Other",Free,,,,,2026-10-22
+84521021,8,84,Without stand or table (heads): ----With electronic controls or electric motors,Free,,,,,2026-10-22
+84521022,8,84,Without stand or table (heads): ----Hand operated,Free,,,,,2026-10-22
+84521029,8,84,Without stand or table (heads): ----Other,Free,,,,,2026-10-22
+845221,6,84,Other sewing machines : -- Automatic units,,,,,,2026-10-22
+84522110,8,84,Industrial sewing machines having a motor of 12.50 watts capacity and above and having a speed of 1500 stitches per minute or more,Free,,,,,2026-10-22
+84522120,8,84,Other with electronic control or electric motors,Free,,,,,2026-10-22
+84522190,8,84,Other,Free,,,,,2026-10-22
+84522900,8,84,Other sewing machines : -- Other,Free,,,,,2026-10-22
+845230,6,84,Sewing machine needles,,,,,,2026-10-22
+84523010,8,84,for household type sewing machines,Free,,,,,2026-10-22
+84523090,8,84,Other,Free,,,,,2026-10-22
+845290,6,84,"Furniture, bases and covers for sewing machines and parts thereof; other parts of sewing machines",,,,,,2026-10-22
+84529011,8,84,"Furniture, bases and covers for sewing machines and parts thereof: ----Furniture, bases and covers",Free,,,,,2026-10-22
+84529019,8,84,"Furniture, bases and covers for sewing machines and parts thereof: ----Parts of furniture, bases and cover for sewing machines other parts of sewing machines:",Free,,,,,2026-10-22
+84529091,8,84,Other parts of sewing machines: ----Of household sewing machines,Free,,,,,2026-10-22
+84529099,8,84,Other parts of sewing machines: ----Other,Free,,,,,2026-10-22
+8453,4,84,"Machinery for preparing, tanning or working hides, skins or leather or for making or repairing footwear or other articles of hides, skins or leather, other than sewing machines.",,,,,,2026-10-22
+84531000,8,84,"Machinery for preparing, tanning or working hides, skins or leather",Free,,,,,2026-10-22
+84532000,8,84,Machinery for making or repairing footwear,Free,,,,,2026-10-22
+84538000,8,84,Other machinery,Free,,,,,2026-10-22
+845390,6,84,Parts,,,,,,2026-10-22
+84539010,8,84,Of boot and shoe manufacturing machinery,Free,,,,,2026-10-22
+84539090,8,84,Other,Free,,,,,2026-10-22
+8454,4,84,"Converters, ladles, ingot moulds and casting machines, of a kind used in metallurgy or in metal foundries.",,,,,,2026-10-22
+84541000,8,84,Converters,Free,,,,,2026-10-22
+845420,6,84,Ingot moulds and ladles,,,,,,2026-10-22
+84542010,8,84,Ladles,Free,,,,,2026-10-22
+84542020,8,84,Ingot moulds,Free,,,,,2026-10-22
+845430,6,84,Casting machines,,,,,,2026-10-22
+84543010,8,84,Die-casting machines,Free,,,,,2026-10-22
+84543020,8,84,Continuous casting machines,Free,,,,,2026-10-22
+84543090,8,84,Other,Free,,,,,2026-10-22
+84549000,8,84,Parts,Free,,,,,2026-10-22
+8455,4,84,Metal-rolling mills and rolls therefor.,,,,,,2026-10-22
+84551000,8,84,Tube mills,Free,,,,,2026-10-22
+845521,6,84,Other rolling mills : -- Hot or combination hot and cold,,,,,,2026-10-22
+84552110,8,84,Hot,Free,,,,,2026-10-22
+84552120,8,84,Combination of hot and cold,Free,,,,,2026-10-22
+84552200,8,84,Other rolling mills : -- Cold,Free,,,,,2026-10-22
+84553000,8,84,Rolls for rolling mills,Free,,,,,2026-10-22
+84559000,8,84,Other parts,Free,,,,,2026-10-22
+8456,4,84,"Machine-tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, lectrodischarge, electro-chemical, electron beam, ionic-beam or plasma arc processes; water-jet cutting machines.",,,,,,2026-10-22
+84561100,8,84,Operated by laser or other light or photon beam processes : -- Operated by laser,Free,,,,,2026-10-22
+84561200,8,84,Operated by laser or other light or photon beam processes : -- Operated by other light or photon beam processes,Free,,,,,2026-10-22
+84562000,8,84,Operated by ultrasonic processes,Free,,,,,2026-10-22
+84563000,8,84,Operated by electro-discharge processes,Free,,,,,2026-10-22
+84564000,8,84,Operated by plasma arc processes,Free,,,,,2026-10-22
+84565000,8,84,Water-jet cutting machines,Free,,,,,2026-10-22
+845690,6,84,Other,,,,,,2026-10-22
+84569010,8,84,For dry-etching patterns on Semi-conductor materials,Free,,,,,2026-10-22
+84569020,8,84,Electro-chemical machines,Free,,,,,2026-10-22
+84569090,8,84,Other,Free,,,,,2026-10-22
+8457,4,84,"Machining centres, unit construction machines (single station) and multi-station transfer machines, for working metal.",,,,,,2026-10-22
+845710,6,84,Machining centres,,,,,,2026-10-22
+84571010,8,84,Horizontal,Free,,,,,2026-10-22
+84571020,8,84,Vertical,Free,,,,,2026-10-22
+845720,6,84,Unit construction machines (single station),,,,,,2026-10-22
+84572010,8,84,Unit head boring,Free,,,,,2026-10-22
+84572020,8,84,Unit head drilling,Free,,,,,2026-10-22
+84572090,8,84,Other,Free,,,,,2026-10-22
+845730,6,84,Multi-station transfer machines,,,,,,2026-10-22
+84573010,8,84,Rotary type,Free,,,,,2026-10-22
+84573020,8,84,In-line type,Free,,,,,2026-10-22
+84573090,8,84,Other,Free,,,,,2026-10-22
+8458,4,84,Lathes (including turning centres) for removing metal.,,,,,,2026-10-22
+84581100,8,84,Horizontal lathes : -- Numerically controlled,Free,,,,,2026-10-22
+845819,6,84,Horizontal lathes : -- Other,,,,,,2026-10-22
+84581911,8,84,"Automatic, single spindle: ----Horizontal bar, Swiss type",Free,,,,,2026-10-22
+84581912,8,84,"Automatic, single spindle: ----Base sliding head type",Free,,,,,2026-10-22
+84581913,8,84,"Automatic, single spindle: ----Horizontal chucking",Free,,,,,2026-10-22
+84581919,8,84,"Automatic, single spindle: ----Other",Free,,,,,2026-10-22
+84581990,8,84,"Automatic, single spindle: ----Other",Free,,,,,2026-10-22
+84589100,8,84,Other lathes : -- Numerically controlled,Free,,,,,2026-10-22
+845899,6,84,Other lathes : -- Other,,,,,,2026-10-22
+84589910,8,84,"Automatic, multi-spindle bar",Free,,,,,2026-10-22
+84589920,8,84,"Automatic, multi-spindle chucking",Free,,,,,2026-10-22
+84589931,8,84,"Capstans, turrets, capstan and turret combination, coping, multi tool and production lathes: ----Capstans lathes",Free,,,,,2026-10-22
+84589932,8,84,"Capstans, turrets, capstan and turret combination, coping, multi tool and production lathes: ----Turrets lathes",Free,,,,,2026-10-22
+84589933,8,84,"Capstans, turrets, capstan and turret combination, coping, multi tool and production lathes: ----Capstan and turret combination lathes",Free,,,,,2026-10-22
+84589934,8,84,"Capstans, turrets, capstan and turret combination, coping, multi tool and production lathes: ----Copying lathes",Free,,,,,2026-10-22
+84589935,8,84,"Capstans, turrets, capstan and turret combination, coping, multi tool and production lathes: ----Multi-tool and production lathes",Free,,,,,2026-10-22
+84589941,8,84,"Crankshaft, relieving, wheel and axle lathes: ----Crankshaft lathes",Free,,,,,2026-10-22
+84589942,8,84,"Crankshaft, relieving, wheel and axle lathes: ----Relieving lathes",Free,,,,,2026-10-22
+84589943,8,84,"Crankshaft, relieving, wheel and axle lathes: ----Wheel and axle lathes",Free,,,,,2026-10-22
+84589951,8,84,Centre lathes: ----Tool-room type,Free,,,,,2026-10-22
+84589959,8,84,Centre lathes: ----Other,Free,,,,,2026-10-22
+84589990,8,84,Centre lathes: ----Other,Free,,,,,2026-10-22
+8459,4,84,"Machine-tools (including way-type unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes (including turning centres) of heading 84.58.",,,,,,2026-10-22
+84591000,8,84,Way-type unit head machines,Free,,,,,2026-10-22
+84592100,8,84,Other drilling machines : -- Numerically controlled,Free,,,,,2026-10-22
+845929,6,84,Other drilling machines : -- Other,,,,,,2026-10-22
+84592910,8,84,Bench and pillar,Free,,,,,2026-10-22
+84592920,8,84,"Pillar or columns, multi-spindle",Free,,,,,2026-10-22
+84592930,8,84,Radial,Free,,,,,2026-10-22
+84592940,8,84,Deep hole,Free,,,,,2026-10-22
+84592950,8,84,Multi head drilling machines,Free,,,,,2026-10-22
+84592990,8,84,Other,Free,,,,,2026-10-22
+84593100,8,84,Other boring-milling machines : -- Numerically controlled,Free,,,,,2026-10-22
+845939,6,84,Other boring-milling machines : -- Other,,,,,,2026-10-22
+84593910,8,84,Vertical turning or boring,Free,,,,,2026-10-22
+84593990,8,84,Other,Free,,,,,2026-10-22
+845941,6,84,Other boring machines : -- Numerically controlled,,,,,,2026-10-22
+84594110,8,84,"Jig boring machines, horizontal",Free,,,,,2026-10-22
+84594120,8,84,"Fine boring machines, horizontal",Free,,,,,2026-10-22
+84594130,8,84,"Fine boring machines, vertical",Free,,,,,2026-10-22
+84594190,8,84,Other,Free,,,,,2026-10-22
+845949,6,84,Other boring machines : -- Other,,,,,,2026-10-22
+84594910,8,84,"Jig boring machines, horizontal",Free,,,,,2026-10-22
+84594920,8,84,"Fine boring machines, horizontal",Free,,,,,2026-10-22
+84594930,8,84,"Fine boring machines, vertical",Free,,,,,2026-10-22
+84594990,8,84,Other,Free,,,,,2026-10-22
+845951,6,84,"Milling machines, knee-type : -- Numerically controlled",,,,,,2026-10-22
+84595110,8,84,Horizontal,Free,,,,,2026-10-22
+84595120,8,84,Vertical,Free,,,,,2026-10-22
+84595130,8,84,Universal,Free,,,,,2026-10-22
+84595190,8,84,Other,Free,,,,,2026-10-22
+845959,6,84,"Milling machines, knee-type : -- Other",,,,,,2026-10-22
+84595910,8,84,Horizontal,Free,,,,,2026-10-22
+84595920,8,84,Vertical,Free,,,,,2026-10-22
+84595930,8,84,Universal,Free,,,,,2026-10-22
+84595940,8,84,Ram type,Free,,,,,2026-10-22
+84595950,8,84,Die-sinking or pantograph,Free,,,,,2026-10-22
+84595990,8,84,Other,Free,,,,,2026-10-22
+845961,6,84,Other milling machines : -- Numerically controlled,,,,,,2026-10-22
+84596110,8,84,Piano milling,Free,,,,,2026-10-22
+84596190,8,84,Other,Free,,,,,2026-10-22
+845969,6,84,Other milling machines : -- Other,,,,,,2026-10-22
+84596910,8,84,"Bed type, horizontal",Free,,,,,2026-10-22
+84596920,8,84,"Bed type, vertical",Free,,,,,2026-10-22
+84596930,8,84,"Piano milling, single column",Free,,,,,2026-10-22
+84596940,8,84,"Piano milling, double column",Free,,,,,2026-10-22
+84596990,8,84,Other,Free,,,,,2026-10-22
+845970,6,84,Other threading or tapping machines,,,,,,2026-10-22
+84597010,8,84,Threading machines,Free,,,,,2026-10-22
+84597020,8,84,Tapping machines,Free,,,,,2026-10-22
+8460,4,84,"Machine-tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products, other than gear cutting, gear grinding or gear finishing machines of heading 84.61.",,,,,,2026-10-22
+84601200,8,84,Flat-surface grinding machines : -- Numerically controlled,Free,,,,,2026-10-22
+84601900,8,84,Flat-surface grinding machines : -- Other,Free,,,,,2026-10-22
+84602200,8,84,"Other grinding machines : -- Centreless grinding machines, numerically controlled",Free,,,,,2026-10-22
+84602300,8,84,"Other grinding machines : -- Other cylindrical grinding machines, numerically controlled",Free,,,,,2026-10-22
+84602400,8,84,"Other grinding machines : -- Other, numerically controlled",Free,,,,,2026-10-22
+846029,6,84,Other grinding machines : -- Other,,,,,,2026-10-22
+84602910,8,84,Cylindrical grinders,Free,,,,,2026-10-22
+84602920,8,84,Internal grinders,Free,,,,,2026-10-22
+84602930,8,84,Centreless grinders,Free,,,,,2026-10-22
+84602940,8,84,Profile grinders,Free,,,,,2026-10-22
+84602990,8,84,Other,Free,,,,,2026-10-22
+84603100,8,84,Sharpening (tool or cutter grinding) machines : -- Numerically controlled,Free,,,,,2026-10-22
+846039,6,84,Sharpening (tool or cutter grinding) machines : -- Other,,,,,,2026-10-22
+84603910,8,84,"Grinder, tool or cutter",Free,,,,,2026-10-22
+84603990,8,84,Other,Free,,,,,2026-10-22
+846040,6,84,Honing or lapping machines,,,,,,2026-10-22
+84604011,8,84,"Honing machines: ----Vertical, single spindle",Free,,,,,2026-10-22
+84604012,8,84,"Honing machines: ----Vertical, multi-spindle",Free,,,,,2026-10-22
+84604013,8,84,Honing machines: ----Horizontal,Free,,,,,2026-10-22
+84604019,8,84,Honing machines: ----Other,Free,,,,,2026-10-22
+84604020,8,84,Honing machines: ----Lapping machines,Free,,,,,2026-10-22
+846090,6,84,Other,,,,,,2026-10-22
+84609010,8,84,Polishing and buffing machines,Free,,,,,2026-10-22
+84609090,8,84,Other,Free,,,,,2026-10-22
+8461,4,84,"Machine-tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cutting-off and other machine-tools working by removing metal or cermets, not elsewhere specified or included.",,,,,,2026-10-22
+846120,6,84,Shaping or slotting machines,,,,,,2026-10-22
+84612011,8,84,Shaping machines: ----Die and punch shaping machines,Free,,,,,2026-10-22
+84612019,8,84,Shaping machines: ----Other,Free,,,,,2026-10-22
+84612020,8,84,Slotting machines,Free,,,,,2026-10-22
+846130,6,84,Broaching machines,,,,,,2026-10-22
+84613010,8,84,Vertical,Free,,,,,2026-10-22
+84613020,8,84,Horizontal,Free,,,,,2026-10-22
+84613090,8,84,Other,Free,,,,,2026-10-22
+846140,6,84,"Gear cutting, gear grinding or gear finishing machines",,,,,,2026-10-22
+84614011,8,84,Gear cutting machines: ----Bevel gear cutting,Free,,,,,2026-10-22
+84614012,8,84,Gear cutting machines: ----Gear cutting spiral bevel and / or hypoid,Free,,,,,2026-10-22
+84614013,8,84,Gear cutting machines: ----Gear slotter or planar formed cutter type,Free,,,,,2026-10-22
+84614014,8,84,Gear cutting machines: ----Gear milling formed disc cutter type,Free,,,,,2026-10-22
+84614019,8,84,Gear cutting machines: ----Other,Free,,,,,2026-10-22
+84614021,8,84,gear grinding or gear finishing machines: ----Single or double wheel disc type gear grinder,Free,,,,,2026-10-22
+84614022,8,84,gear grinding or gear finishing machines: ----Formed wheel gear grinder,Free,,,,,2026-10-22
+84614023,8,84,gear grinding or gear finishing machines: ----Gear shaver,Free,,,,,2026-10-22
+84614024,8,84,"gear grinding or gear finishing machines: ----Gear tooth, rounding, chamfering or burring",Free,,,,,2026-10-22
+84614025,8,84,"gear grinding or gear finishing machines: ----Gear shaper, spur and helical",Free,,,,,2026-10-22
+84614026,8,84,"gear grinding or gear finishing machines: ----Gear hobber, spur and helical",Free,,,,,2026-10-22
+84614029,8,84,gear grinding or gear finishing machines: ----Other,Free,,,,,2026-10-22
+846150,6,84,Sawing or cutting-off machines,,,,,,2026-10-22
+84615011,8,84,"Sawing machines: ----Band saw, horizontal",Free,,,,,2026-10-22
+84615012,8,84,"Sawing machines: ----Band saw, vertical",Free,,,,,2026-10-22
+84615013,8,84,"Sawing machines: ----Circular saw, cold",Free,,,,,2026-10-22
+84615014,8,84,"Sawing machines: ----Circular saw, hot",Free,,,,,2026-10-22
+84615015,8,84,Sawing machines: ----Hack saw,Free,,,,,2026-10-22
+84615019,8,84,Sawing machines: ----Other,Free,,,,,2026-10-22
+84615021,8,84,Cutting-off machines: ----Abrasive wheel cutting-off machines,Free,,,,,2026-10-22
+84615029,8,84,Cutting-off machines: ----Other,Free,,,,,2026-10-22
+84619000,8,84,Other,Free,,,,,2026-10-22
+8462,4,84,"MACHINE-TOOLS (INCLUDING PRESSES) FOR WORKING METAL BY FORGING, HAMMERING OR DIE FORGING (EXCLUDING ROLLING MILLS); MACHINE-TOOLS (INCLUDING PRESSES, SLITTING LINES AND CUT-TOLENGTH LINES) FOR WORKING METAL BY BENDING, FOLDING, STRAIGHTENING, FLATTENING, SHEARING, PUNCHING, NOTCHING OR NIBBLING (EXCLUDING DRAW-BENCHES); PRESSES FOR WORKING METAL OR METAL CARBIDES, NOT SPECIFIED ABOVE",,,,,,2026-10-22
+84621100,8,84,"Hot forming machines for forging, die forging (including presses) and hot hammers: - - Closed die forging machines",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84621900,8,84,"Hot forming machines for forging, die forging (including presses) and hot hammers: - - Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84622200,8,84,"Bending, folding, straightening or flattening machines (including press brakes) for flat products: - - Profile forming machines",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84622300,8,84,"Bending, folding, straightening or flattening machines (including press brakes) for flat products: - - Numerically controlled press brakes",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84622400,8,84,"Bending, folding, straightening or flattening machines (including press brakes) for flat products: - - Numerically controlled panel benders",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84622500,8,84,"Bending, folding, straightening or flattening machines (including press brakes) for flat products: - - Numerically controlled roll forming machines",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84622600,8,84,"Bending, folding, straightening or flattening machines (including press brakes) for flat products: - - Other numerically controlled bending, folding, straightening or flattening machines",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84622900,8,84,"Bending, folding, straightening or flattening machines (including press brakes) for flat products: - - Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84623200,8,84,"Slitting lines, cut-to-length lines and other shearing machines (excluding presses) for flat products, other than combined punching and shearing machines: - - Slitting lines and cut-to-length lines",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84623300,8,84,"Slitting lines, cut-to-length lines and other shearing machines (excluding presses) for flat products, other than combined punching and shearing machines: - - Numerically controlled shearing machines",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84623900,8,84,"Slitting lines, cut-to-length lines and other shearing machines (excluding presses) for flat products, other than combined punching and shearing machines: - - Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84624200,8,84,"Punching, notching or nibbling machines (excluding presses) for flat products including combined punching and shearing machines: - - Numerically controlled",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84624900,8,84,"Punching, notching or nibbling machines (excluding presses) for flat products including combined punching and shearing machines: - - Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84625100,8,84,"Machines for working tube, pipe, hollow section and bar (excluding presses): - - Numerically controlled",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84625900,8,84,"Machines for working tube, pipe, hollow section and bar (excluding presses): - - Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84626100,8,84,Cold metal working presses: - - Hydraulic presses,Free,,,54/2015-2020,2022-02-09,2026-10-22
+84626200,8,84,Cold metal working presses: - - Mechanical presses,Free,,,54/2015-2020,2022-02-09,2026-10-22
+84626300,8,84,Cold metal working presses: - - Servo-presses,Free,,,54/2015-2020,2022-02-09,2026-10-22
+84626900,8,84,Cold metal working presses: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+84629000,8,84,Cold metal working presses: - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+8463,4,84,"Other machine-tools for working metal or cermets, without removing material.",,,,,,2026-10-22
+846310,6,84,"Draw-benches for bars, tubes, profiles, wire or the like",,,,,,2026-10-22
+84631010,8,84,Wire and metal ribbon drawing machines,Free,,,,,2026-10-22
+84631020,8,84,Other wire making machines,Free,,,,,2026-10-22
+84631030,8,84,Tube drawing machines,Free,,,,,2026-10-22
+84631090,8,84,Other,Free,,,,,2026-10-22
+84632000,8,84,Thread rolling machines,Free,,,,,2026-10-22
+846330,6,84,Machines for working wire,,,,,,2026-10-22
+84633010,8,84,Wire grill or knitting machine,Free,,,,,2026-10-22
+84633020,8,84,Spring coiling,Free,,,,,2026-10-22
+84633030,8,84,Chain making,Free,,,,,2026-10-22
+84633040,8,84,Nail-making machine,Free,,,,,2026-10-22
+846390,6,84,Other,,,,,,2026-10-22
+84639010,8,84,Riveting machines (excluding portable hand),Free,,,,,2026-10-22
+84639020,8,84,Strip profiling,Free,,,,,2026-10-22
+84639030,8,84,Seaming machine for example for cans,Free,,,,,2026-10-22
+84639090,8,84,Other,Free,,,,,2026-10-22
+8464,4,84,"Machine-tools for working stone, ceramics, concrete, asbestoscement or like mineral materials or for cold working glass.",,,,,,2026-10-22
+846410,6,84,Sawing machines,,,,,,2026-10-22
+84641010,8,84,Granite cutting machines or equipment,Free,,,,,2026-10-22
+84641090,8,84,Other,Free,,,,,2026-10-22
+84642000,8,84,Grinding or polishing machines,Free,,,,,2026-10-22
+84649000,8,84,Other,Free,,,,,2026-10-22
+8465,4,84,"Machine-tools (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard rubber, hard plastics or similar hard materials.",,,,,,2026-10-22
+84651000,8,84,Machines which can carry out different types of machining operations without tool change between such operations,Free,,,,,2026-10-22
+84652000,8,84,Machining centres,Free,,,,,2026-10-22
+84659100,8,84,Other : -- Sawing machines,Free,,,,,2026-10-22
+84659200,8,84,"Other : -- Planing, milling or moulding (by cutting) machines",Free,,,,,2026-10-22
+84659300,8,84,"Other : -- Grinding, sanding or polishing machines",Free,,,,,2026-10-22
+84659400,8,84,Other : -- Bending or assembling machines,Free,,,,,2026-10-22
+84659500,8,84,Other : -- Drilling or morticing machines,Free,,,,,2026-10-22
+84659600,8,84,"Other : -- Splitting, slicing or paring machines",Free,,,,,2026-10-22
+846599,6,84,Other : -- Other,,,,,,2026-10-22
+84659910,8,84,Lathes,Free,,,,,2026-10-22
+84659990,8,84,Other,Free,,,,,2026-10-22
+8466,4,84,"Parts and accessories suitable for use solely or principally with the machines of headings 84.56 to 84.65, including work or tool holders, self-opening dieheads, dividing heads and other special attachments for the machines; tool holders for any type of tool for working in the hand.",,,,,,2026-10-22
+846610,6,84,Tool holders and self-opening dieheads,,,,,,2026-10-22
+84661010,8,84,Tool holders,Free,,,,,2026-10-22
+84661020,8,84,Self-opening dieheads,Free,,,,,2026-10-22
+84662000,8,84,Work holders,Free,,,,,2026-10-22
+846630,6,84,Dividing heads and other special attachments for machines,,,,,,2026-10-22
+84663010,8,84,Chucks,Free,,,,,2026-10-22
+84663020,8,84,Jigs and fixtures,Free,,,,,2026-10-22
+84663090,8,84,Other,Free,,,,,2026-10-22
+84669100,8,84,Other : -- For machines of heading 84.64,Free,,,,,2026-10-22
+84669200,8,84,Other : -- For machines of heading 84.65,Free,,,,,2026-10-22
+846693,6,84,Other : -- For machines of headings 84.56 to 84.61,,,,,,2026-10-22
+84669310,8,84,"Parts and accessories of machine tools, for working metals",Free,,,,,2026-10-22
+84669390,8,84,Other,Free,,,,,2026-10-22
+84669400,8,84,Other : -- For machines of heading 84.62 or 84.63,Free,,,,,2026-10-22
+8467,4,84,"Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor.",,,,,,2026-10-22
+846711,6,84,Pneumatic : -- Rotary type (including combined rotary-percussion),,,,,,2026-10-22
+84671110,8,84,Drills,Free,,,,,2026-10-22
+84671120,8,84,Hammers,Free,,,,,2026-10-22
+84671190,8,84,Others,Free,,,,,2026-10-22
+84671900,8,84,Pneumatic : -- Other,Free,,,,,2026-10-22
+84672100,8,84,With self-contained electric motor : -- Drills of all kinds,Free,,,,,2026-10-22
+84672200,8,84,With self-contained electric motor : -- Saws,Free,,,,,2026-10-22
+84672900,8,84,With self-contained electric motor : -- Other,Free,,,,,2026-10-22
+84678100,8,84,Other tools : -- Chain saws,Free,,,,,2026-10-22
+846789,6,84,Other tools : -- Other,,,,,,2026-10-22
+84678910,8,84,"Compressed air grease guns, lubricators and similar appliances",Free,,,,,2026-10-22
+84678920,8,84,Vibrators,Free,,,,,2026-10-22
+84678990,8,84,Other,Free,,,,,2026-10-22
+84679100,8,84,Parts : -- Of chain saws,Free,,,,,2026-10-22
+84679200,8,84,Parts : -- Of pneumatic tools,Free,,,,,2026-10-22
+84679900,8,84,Parts : -- Other,Free,,,,,2026-10-22
+8468,4,84,"Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting, other than those of heading 85.15; gas-operated surface tempering machines and appliances.",,,,,,2026-10-22
+84681000,8,84,Hand-held blow pipes,Free,,,,,2026-10-22
+846820,6,84,Other gas-operated machinery and apparatus,,,,,,2026-10-22
+84682010,8,84,Welding or cutting machines,Free,,,,,2026-10-22
+84682090,8,84,Other,Free,,,,,2026-10-22
+84688000,8,84,Other machinery and apparatus,Free,,,,,2026-10-22
+84689000,8,84,Parts,Free,,,,,2026-10-22
+8470,4,84,"Calculating machines and pocket-size data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculating device; cash registers.",,,,,,2026-10-22
+84701000,8,84,"Electronic calculators capable of operation without an external source of electric power and pocket-size data recording, reproducing and displaying machines with calculating functions",Free,,,,,2026-10-22
+84702100,8,84,Other electronic calculating machines : -- Incorporating a printing device,Free,,,,,2026-10-22
+84702900,8,84,Other electronic calculating machines : -- Other,Free,,,,,2026-10-22
+84703000,8,84,Other calculating machines,Free,,,,,2026-10-22
+847050,6,84,Cash registers,,,,,,2026-10-22
+84705010,8,84,Electrically operated,Free,,,,,2026-10-22
+84705020,8,84,Manually operated,Free,,,,,2026-10-22
+847090,6,84,Other,,,,,,2026-10-22
+84709010,8,84,Electrically operated,Free,,,,,2026-10-22
+84709020,8,84,Manually operated,Free,,,,,2026-10-22
+8471,4,84,"Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included.",,,,,,2026-10-22
+847130,6,84,"Portable automatic data processing machines, weighing not more than 10 kg, consisting of at least a central processing unit, a keyboard and a display",,,,,,2026-10-22
+84713010,8,84,Personal computer,Restricted,Subject to Policy condition no.4 of the Chapter,4,23/2023,2023-08-03,2026-10-22
+84713090,8,84,Other,Restricted,Subject to Policy condition no.4 of the Chapter,4,23/2023,2023-08-03,2026-10-22
+847141,6,84,"Other automatic data processing machines : -- Comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined",,,,,,2026-10-22
+84714110,8,84,Micro computer,Restricted,i) IS 13252:2010 ii) Subject to Policy condition no.4 of the Chapter,4,23/2023,2023-08-03,2026-10-22
+84714120,8,84,Large or main frame computer,Restricted,i) IS 13252:2010 ii) Subject to Policy condition no.4 of the Chapter,4,23/2023,2023-08-03,2026-10-22
+84714190,8,84,Other,Restricted,i) IS 13252:2010 ii) Subject to Policy condition no.4 of the Chapter,4,23/2023,2023-08-03,2026-10-22
+84714900,8,84,"Other automatic data processing machines : -- Other, presented in the form of systems",Restricted,i) IS 13252:2010 ii) Subject to Policy condition no.4 of the Chapter,4,23/2023,2023-08-03,2026-10-22
+84715000,8,84,"Processing units other than those of subheading 8471.41 or 8471.49, whether or not containing in the same housing one or two of the following types of unit : storage units, input units, output units",Restricted,i) IS 13252:2010 ii) Subject to Policy condition no.4 of the Chapter,4,23/2023,2023-08-03,2026-10-22
+847160,6,84,"Input or output units, whether or not containing storage units in the same housing",,,,,,2026-10-22
+84716010,8,84,Combined input or out put units,Free,IS 13252:2010,,,,2026-10-22
+84716024,8,84,Printer: ----Graphic printer,Free,IS 13252:2003,,,,2026-10-22
+84716025,8,84,Printer: ----Plotter,Free,IS 13252:2003,,,,2026-10-22
+84716029,8,84,Printer: ----Other,Free,,,,,2026-10-22
+84716040,8,84,Printer: ----Keyboard,Free,IS 13252:2010,,,,2026-10-22
+84716050,8,84,Printer: ----Scanners,Free,IS 13252:2010,,,,2026-10-22
+84716060,8,84,Printer: ----Mouse,Free,,,,,2026-10-22
+84716090,8,84,Printer: ----Other,Free,,,,,2026-10-22
+847170,6,84,Storage units,,,,,,2026-10-22
+84717010,8,84,Floppy disc drives,Free,,,,,2026-10-22
+84717020,8,84,Hard disc drives,Free,IS 13252:2010,,,,2026-10-22
+84717030,8,84,Removable or exchangeable disc drives,Free,IS 13252:2010,,,,2026-10-22
+84717040,8,84,Magnetic tape drives,Free,,,,,2026-10-22
+84717050,8,84,Cartridge tape drive,Free,,,,,2026-10-22
+84717060,8,84,CD-ROM drive,Free,IS 13252:2010,,,,2026-10-22
+84717070,8,84,Digital video disc drive,Free,,,,,2026-10-22
+84717090,8,84,Other,Free,,,,,2026-10-22
+84718000,8,84,Other units of automatic data processing machines,Free,IS 13252:2010,,,,2026-10-22
+84719000,8,84,Other,Free,IS 13252:2010,,,,2026-10-22
+8472,4,84,"Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting or wrapping machines, pencil-sharpening machines, perforating or stapling machines).",,,,,,2026-10-22
+84721000,8,84,Duplicating machines,Free,,,,,2026-10-22
+84723000,8,84,"Machines for sorting or folding mail or for inserting mail in envelopes or bands, machines for opening, closing or sealing mail and machines for affixing or cancelling postage stamps",Free,,,,,2026-10-22
+847290,6,84,Other,,,,,,2026-10-22
+84729010,8,84,Stapling machines (staplers),Free,,,,,2026-10-22
+84729020,8,84,Digital duplicator,Free,,,,,2026-10-22
+84729030,8,84,Automatic Teller Machines,Free,,,,,2026-10-22
+84729040,8,84,"Coin sorting machines, coin-counting or wrapping machines",Free,,,,,2026-10-22
+84729091,8,84,Other: ----Word-processing machines,Free,,,,,2026-10-22
+84729092,8,84,Other: ----Automatic typewriters,Free,,,,,2026-10-22
+84729093,8,84,"Other: ----Braille typewriters, electric",Free,,,,,2026-10-22
+84729094,8,84,"Other: ----Braille typewriters, non-electric",Free,,,,,2026-10-22
+84729095,8,84,"Other: ----Other typewriters, electric or non-electric",Free,,,,,2026-10-22
+84729099,8,84,Other: ----Other,Free,,,,,2026-10-22
+8473,4,84,"Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 84.70 to 84.72.",,,,,,2026-10-22
+84732100,8,84,"Parts and accessories of the machines of heading 84.70 : -- Of the electronic calculating machines of subheading 8470.10,",Free,,,,,2026-10-22
+84732900,8,84,Parts and accessories of the machines of heading 84.70 : -- Other,Free,,,,,2026-10-22
+847330,6,84,Parts and accessories of the machines of heading 84.71,,,,,,2026-10-22
+84733010,8,84,Microprocessors,Free,,,,,2026-10-22
+84733020,8,84,Motherboards,Free,,,,,2026-10-22
+84733030,8,84,Other mounted printed circuit boards,Free,,,,,2026-10-22
+84733040,8,84,Head stack,Free,,,,,2026-10-22
+84733091,8,84,Other: ----Network access controllers,Free,,,,,2026-10-22
+84733092,8,84,Other: ----Graphic and intelligence based Script Technology (GIST) cards for multilingual computers,Free,,,,,2026-10-22
+84733099,8,84,Other: ----Other,Free,,,,,2026-10-22
+847340,6,84,Parts and accessories of the machines of heading 84.72,,,,,,2026-10-22
+84734010,8,84,"Parts of duplicating, hectograph or stencil machines",Free,,,,,2026-10-22
+84734090,8,84,Other,Free,,,,,2026-10-22
+84735000,8,84,Parts and accessories equally suitable for use with the machines of two or more of the headings 84.70 to 84.72,Free,,,,,2026-10-22
+8474,4,84,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid (including powder or paste) form; machinery for agglomerating, shaping or moulding solid mineral fuels, ceramic paste, unhardened cements, plastering materials or other mineral products in powder or paste form; machines for forming foundry moulds of sand.",,,,,,2026-10-22
+847410,6,84,"Sorting, screening, separating or washing machines",,,,,,2026-10-22
+84741010,8,84,For coal,Free,,,,,2026-10-22
+84741090,8,84,Other,Free,,,,,2026-10-22
+847420,6,84,Crushing or grinding machines,,,,,,2026-10-22
+84742010,8,84,For stone and mineral,Free,,,,,2026-10-22
+84742020,8,84,For coal,Free,,,,,2026-10-22
+84742090,8,84,Other,Free,,,,,2026-10-22
+847431,6,84,Mixing or kneading machines : -- Concrete or mortar mixers,,,,,,2026-10-22
+84743110,8,84,Concrete mixers,Free,,,,,2026-10-22
+84743120,8,84,Mortar mixers,Free,,,,,2026-10-22
+84743200,8,84,Mixing or kneading machines : -- Machines for mixing mineral substances with bitumen,Free,,,,,2026-10-22
+84743900,8,84,Mixing or kneading machines : -- Other,Free,,,,,2026-10-22
+847480,6,84,Other machinery,,,,,,2026-10-22
+84748010,8,84,Brick and tile making machinery,Free,,,,,2026-10-22
+84748020,8,84,Ceramic and clay making machinery,Free,,,,,2026-10-22
+84748030,8,84,Machinery for forming foundry moulds of sand,Free,,,,,2026-10-22
+84748090,8,84,Other,Free,,,,,2026-10-22
+84749000,8,84,Parts,Free,,,,,2026-10-22
+8475,4,84,"Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or glassware.",,,,,,2026-10-22
+84751000,8,84,"Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes",Free,,,,,2026-10-22
+84752100,8,84,Machines for manufacturing or hot working glass or glassware : -- Machines for making optical fibres and preforms thereof,Free,,,,,2026-10-22
+84752900,8,84,Machines for manufacturing or hot working glass or glassware : -- Other,Free,,,,,2026-10-22
+84759000,8,84,Parts,Free,,,,,2026-10-22
+8476,4,84,"Automatic goods-vending machines (for example, postage stamp, cigarette, food or beverage machines), including moneychanging machines.",,,,,,2026-10-22
+847621,6,84,Automatic beverage-vending machines : -- Incorporating heating or refrigerating devices,,,,,,2026-10-22
+84762110,8,84,Incorporating refrigerating devices,Free,,,,,2026-10-22
+84762120,8,84,Incorporating heating devices,Free,,,,,2026-10-22
+84762900,8,84,Automatic beverage-vending machines : -- Other,Free,,,,,2026-10-22
+847681,6,84,Other machines : -- Incorporating heating or refrigerating devices,,,,,,2026-10-22
+84768110,8,84,Incorporating refrigerating devices,Free,,,,,2026-10-22
+84768120,8,84,Incorporating heating devices,Free,,,,,2026-10-22
+847689,6,84,Other machines : -- Other,,,,,,2026-10-22
+84768910,8,84,Money changing machines,Free,,,,,2026-10-22
+84768920,8,84,Postage stamps vending machines,Free,,,,,2026-10-22
+84768930,8,84,Cigarette vending machines,Free,,,,,2026-10-22
+84768990,8,84,Other,Free,,,,,2026-10-22
+847690,6,84,Parts,,,,,,2026-10-22
+84769010,8,84,Of machines of sub-heading 847621,Free,,,,,2026-10-22
+84769090,8,84,Other,Free,,,,,2026-10-22
+8477,4,84,"Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this Chapter.",,,,,,2026-10-22
+84771000,8,84,Injection-moulding machines,Free,,,,,2026-10-22
+84772000,8,84,Extruders,Free,,,,,2026-10-22
+84773000,8,84,Blow moulding machines,Free,,,,,2026-10-22
+84774000,8,84,Vacuum moulding machines and other thermoforming machines,Free,,,,,2026-10-22
+84775100,8,84,Other machinery for moulding or otherwise forming : -- For moulding or retreading pneumatic tyres or for moulding or otherwise forming inner tubes,Free,,,,,2026-10-22
+84775900,8,84,Other machinery for moulding or otherwise forming : -- Other,Free,,,,,2026-10-22
+847780,6,84,Other machinery,,,,,,2026-10-22
+84778010,8,84,Machinery for making rubber goods,Free,,,,,2026-10-22
+84778090,8,84,Other,Free,,,,,2026-10-22
+84779000,8,84,Parts,Free,,,,,2026-10-22
+8478,4,84,"Machinery for preparing or making up tobacco, not specified or included elsewhere in this Chapter.",,,,,,2026-10-22
+847810,6,84,Machinery,,,,,,2026-10-22
+84781010,8,84,Cigar making machinery,Free,,,,,2026-10-22
+84781020,8,84,Cigarette making machinery,Free,,,,,2026-10-22
+84781090,8,84,Other,Free,,,,,2026-10-22
+84789000,8,84,Parts,Free,,,,,2026-10-22
+8479,4,84,"Machines and mechanical appliances having individual functions, not specified or included elsewhere in this Chapter.",,,,,,2026-10-22
+84791000,8,84,"Machinery for public works, building or the like",Free,,,,,2026-10-22
+847920,6,84,Machinery for the extraction or preparation of animal or fixed vegetable or microbial fats or oils,,,,,,2026-10-22
+84792010,8,84,Oil seed crushing or grinding machinery including purifying tanks,Free,,,,,2026-10-22
+84792090,8,84,Other,Free,,,,,2026-10-22
+84793000,8,84,Presses for the manufacture of particle board or fibre building board of wood or other ligneous materials and other machinery for treating wood or cork,Free,,,,,2026-10-22
+84794000,8,84,Rope or cable-making machines,Free,,,,,2026-10-22
+84795000,8,84,"Industrial robots, not elsewhere specified or included",Free,,,,,2026-10-22
+84796000,8,84,Evaporative air coolers,Free,,,,,2026-10-22
+84797100,8,84,Passenger boarding bridges : -- Of a kind used in airports,Free,,,,,2026-10-22
+84797900,8,84,Passenger boarding bridges : -- Other,Free,,,,,2026-10-22
+84798100,8,84,"Other machines and mechanical appliances : -- For treating metal, including electric wire coil-winders",Free,,,,,2026-10-22
+84798200,8,84,"Other machines and mechanical appliances : -- Mixing, kneading, crushing, grinding, screening, sifting, homogenising, emulsifying or stirring machines",Free,,,,,2026-10-22
+84798300,8,84,Cold metal working presses: - - Cold isostatic presses,Free,,,54/2015-2020,2022-02-09,2026-10-22
+847989,6,84,Other machines and mechanical appliances : -- Other,,,,,,2026-10-22
+84798910,8,84,Soap cutting or moulding machinery,Free,,,,,2026-10-22
+84798920,8,84,Air humidifiers or dehumidifiers (other than those falling under heading 8415 or 8424),Free,,,,,2026-10-22
+84798930,8,84,Mechanical shifting machines,Free,,,,,2026-10-22
+84798940,8,84,Ultrasonic Transducers,Free,,,,,2026-10-22
+84798950,8,84,Car washing machines and related appliances,Free,,,,,2026-10-22
+84798960,8,84,Coke oven plants,Free,,,,,2026-10-22
+84798970,8,84,Machinery for the manufacture of chemical and pharmaceuticals goods,Free,,,,,2026-10-22
+84798980,8,84,Machinery for use in goods of Chapter 88 or 89,Free,.,,40/2024-25,2024-11-26,2026-10-22
+84798992,8,84,Other: ----Briquetting plant and machinery intended for manufacture of briquettes from agricultural and municipal waste,Free,,,,,2026-10-22
+84798999,8,84,Other: ----Other,Free,,,,,2026-10-22
+847990,6,84,Parts,,,,,,2026-10-22
+84799010,8,84,"Of machines for public works, building or the like",Free,,,,,2026-10-22
+84799020,8,84,Of machines for the extraction of animal or fruit and vegetable fats or oil,Free,,,,,2026-10-22
+84799030,8,84,Of machines and mechanical appliances for treating wood,Free,,,,,2026-10-22
+84799040,8,84,Of machinery used for manufacture of chemicals and pharmaceuticals,Free,,,,,2026-10-22
+84799090,8,84,Other,Free,,,,,2026-10-22
+8480,4,84,"Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics.",,,,,,2026-10-22
+84801000,8,84,Moulding boxes for metal foundry,Free,,,,,2026-10-22
+84802000,8,84,Mould bases,Free,,,,,2026-10-22
+84803000,8,84,Moulding patterns,Free,,,,,2026-10-22
+84804100,8,84,Moulds for metal or metal carbides : -- Injection or compression types,Free,,,,,2026-10-22
+84804900,8,84,Moulds for metal or metal carbides : -- Other,Free,,,,,2026-10-22
+84805000,8,84,Moulds for glass,Free,,,,,2026-10-22
+84806000,8,84,Moulds for mineral materials,Free,,,,,2026-10-22
+84807100,8,84,Moulds for rubber or plastics : -- Injection or compression types,Free,,,,,2026-10-22
+84807900,8,84,Moulds for rubber or plastics : -- Other,Free,,,,,2026-10-22
+8481,4,84,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves.",,,,,,2026-10-22
+84811000,8,84,Pressure-reducing valves,Free,"Multifunction valve assembly for permanently fixed liquefied petroleum gas (LPG) containers for automotive use must conform to IS 15100, Valve fittings for use with liquefied petroleum gas cylinder up to and including 5 litre water capacity must conform to IS 8776 and of more than 5 litre water capacity Part 2, Valve fittings for newly manufactured LPG cylinders must conform to IS 8737",,,,2026-10-22
+84812000,8,84,Valves for oleohydraulic or pneumatic transmissions,Free,,,,,2026-10-22
+84813000,8,84,Check (nonreturn) valves,Free,,,,,2026-10-22
+84814000,8,84,Safety or relief valves,Free,,,,,2026-10-22
+848180,6,84,Other appliances,,,,,,2026-10-22
+84818010,8,84,"Taps, cocks and similar appliances of iron or steel",Free,,,,,2026-10-22
+84818020,8,84,"Taps, cocks and similar appliances of non-ferrous metal",Free,Low pressure regulators for use with liquefied petroleum gas (LPG) mixtures must conform to IS 9798,,,,2026-10-22
+84818030,8,84,"Industrial valves (excluding pressure-reducing valves, and thermostatically controlled valves)",Free,"Valve fittings for compressed gas cylinder excluding liquefied petroleum gas cylinders must conform to IS 3224, Valve fittings for gas cylinder valves for use with breathing apparatus must conform to IS 7302 and Yoke type valve connections for small medical gas cylinders must conform to IS 3745",,,,2026-10-22
+84818041,8,84,Inner tube valves: ----For Bicycles,Free,,,,,2026-10-22
+84818049,8,84,Inner tube valves: ----Other,Free,,,,,2026-10-22
+84818050,8,84,Inner tube valves: ----Expansion valves and solenoid valves for refrigerating and air conditioning appliances and machinery,Free,,,,,2026-10-22
+84818090,8,84,Inner tube valves: ----Other,Free,,,,,2026-10-22
+848190,6,84,Parts,,,,,,2026-10-22
+84819010,8,84,Bicycles valves,Free,,,,,2026-10-22
+84819090,8,84,Other,Free,,,,,2026-10-22
+8482,4,84,Ball or roller bearings.,,,,,,2026-10-22
+848210,6,84,Ball bearings,,,,,,2026-10-22
+84821011,8,84,Not exceeding 50mm of bore diameter,Free,,,,,2026-10-22
+84821012,8,84,Adapter ball bearings (radial type): ----Of bore diameter exceeding 50 mm but not exceeding 100 mm,Free,,,,,2026-10-22
+84821013,8,84,Adapter ball bearings (radial type): ----Of bore diameter exceeding 100 mm,Free,,,,,2026-10-22
+84821020,8,84,Adapter ball bearings (radial type): ----Other ball bearing (radial type) of bore diameter not exceeding 50mm,Free,,,,,2026-10-22
+84821030,8,84,Adapter ball bearings (radial type): ----Other ball bearing (radial type) of bore diameter exceeding 50mm but not exceeding 100 mm,Free,,,,,2026-10-22
+84821040,8,84,Adapter ball bearings (radial type): ----Of bore diameter exceeding 100mm,Free,,,,,2026-10-22
+84821051,8,84,Thrust ball bearings: ----Of bore diameter not exceeding 50mm,Free,,,,,2026-10-22
+84821052,8,84,Thrust ball bearings: ----Of bore diameter exceeding 50 mm but not exceeding 100 mm,Free,,,,,2026-10-22
+84821053,8,84,Thrust ball bearings: ----Of bore diameter exceeding 100 mm,Free,,,,,2026-10-22
+84821090,8,84,Thrust ball bearings: ----Other,Free,,,,,2026-10-22
+848220,6,84,"Tapered roller bearings, including cone and Tapered roller assemblies",,,,,,2026-10-22
+84822011,8,84,Tapered roller bearings (radial type): ----Of bore diameter not exceeding 50 mm,Free,,,,,2026-10-22
+84822012,8,84,Tapered roller bearings (radial type): ----Of bore diameter exceeding 50 mm but not exceeding 100 mm,Free,,,,,2026-10-22
+84822013,8,84,Tapered roller bearings (radial type): ----Of bore diameter exceeding 100 mm,Free,,,,,2026-10-22
+84822090,8,84,Tapered roller bearings (radial type): ----Other,Free,,,,,2026-10-22
+84823000,8,84,Spherical roller bearings,Free,,,,,2026-10-22
+84824000,8,84,"Needle roller bearings, including cage and needle roller assemblies",Free,,,,,2026-10-22
+84825000,8,84,"- Other cylindrical roller bearings, including cage and roller assemblies",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84828000,8,84,"Other, including combined ball/roller bearings",Free,,,,,2026-10-22
+848291,6,84,"Parts : -- Balls, needles and rollers",,,,,,2026-10-22
+84829111,8,84,Balls: ----Of nickel alloys,Free,,,,,2026-10-22
+84829112,8,84,Balls: ----Of tungsten carbide,Free,,,,,2026-10-22
+84829113,8,84,Balls: ----Of special stainless steel,Free,,,,,2026-10-22
+84829114,8,84,Balls: ----Of high speed steel,Free,,,,,2026-10-22
+84829119,8,84,Balls: ----Other,Free,,,,,2026-10-22
+84829120,8,84,Balls: ----Needles,Free,,,,,2026-10-22
+84829130,8,84,Balls: ----Rollers,Free,,,,,2026-10-22
+84829900,8,84,Parts : -- Other,Free,,,,,2026-10-22
+8483,4,84,"Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints).",,,,,,2026-10-22
+848310,6,84,Transmission shafts (including cam shafts and crank shafts) and cranks,,,,,,2026-10-22
+84831010,8,84,Crank shafts for sewing machines,Free,,,,,2026-10-22
+84831091,8,84,Other: ----Crank shaft for engine of heading 8407,Free,,,,,2026-10-22
+84831092,8,84,Other: ----Crank shaft for engine of heading 8408,Free,,,,,2026-10-22
+84831099,8,84,Other: ----Other,Free,,,,,2026-10-22
+84832000,8,84,"Bearing housings, incorporating ball or roller bearings",Free,,,,,2026-10-22
+84833000,8,84,"Bearing housings, not incorporating ball or roller bearings; plain shaft bearings",Free,Subject to Policy conditions 05 of chapter,5,40/2025-26,2025-10-10,2026-10-22
+84834000,8,84,"Gears and gearing, other than toothed wheels, chain sprockets and other transmission elements presented separately; ball or roller screws; gear boxes and other speed changers, including torque converters",Free,Subject to Policy conditions 01 of chapter,1,40/2025-26,2025-10-10,2026-10-22
+848350,6,84,"Flywheels and pulleys, including pulley blocks",,,,,,2026-10-22
+84835010,8,84,"Pulleys, power transmission",Free,,,,,2026-10-22
+84835090,8,84,Other,Free,,,,,2026-10-22
+848360,6,84,Clutches and shaft couplings (including universal joints),,,,,,2026-10-22
+84836010,8,84,Flexible coupling,Free,,,,,2026-10-22
+84836020,8,84,Fluid coupling,Free,,,,,2026-10-22
+84836090,8,84,Other,Free,,,,,2026-10-22
+84839000,8,84,"Toothed wheels, chain sprockets and other transmission elements presented separately; parts",Free,,,,,2026-10-22
+8484,4,84,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals.",,,,,,2026-10-22
+848410,6,84,Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal,,,,,,2026-10-22
+84841010,8,84,Asbestos metallic packings and gaskets (excluding gaskets of asbestos board reinforced with metal gauze or wire),Free,,,,,2026-10-22
+84841090,8,84,Other,Free,,,,,2026-10-22
+84842000,8,84,Mechanical seals,Free,,,,,2026-10-22
+84849000,8,84,Other,Free,,,,,2026-10-22
+8485,4,84,MACHINES FOR ADDITIVE MANUFACTURING,,,,,,2026-10-22
+84851000,8,84,By metal deposit,Free,,,54/2015-2020,2022-02-09,2026-10-22
+84852000,8,84,By plastics or rubber deposit,Free,,,54/2015-2020,2022-02-09,2026-10-22
+84853000,8,84,"By plaster, cement, ceramics or glass deposit",Free,,,54/2015-2020,2022-02-09,2026-10-22
+84858000,8,84,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+84859000,8,84,Parts,Free,,,54/2015-2020,2022-02-09,2026-10-22
+8486,4,84,"MACHINES AND APPARATUS OF A KIND USED SOLELY SEMICONDUCTOR BOULES OR WAFERS, SEMICONDUCTOR DEVICES, ELECTRONIC INTEGRATED CIRCUITS OR FLAT PANEL DISPLAYS; MACHINES AND APPARATUS SPECIFIED IN NOTE 11(C) TO THIS CHAPTER; PARTS AND ACCESSORIES",,,,,,2026-10-22
+84861000,8,84,Machines and apparatus for the manufacture of boules or wafers,Free,,,,,2026-10-22
+84862000,8,84,Machines and apparatus for the manufacture of semiconductor devices or of electronic integrated circuits,Free,,,,,2026-10-22
+84863000,8,84,Machines and apparatus for the manufacture of flat panel displays,Free,,,,,2026-10-22
+84864000,8,84,Machines and apparatus specified in Note 11(c) to this Chapter,Free,,,,,2026-10-22
+84869000,8,84,Parts and accessories,Free,,,,,2026-10-22
+8487,4,84,"Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this Chapter.",,,,,,2026-10-22
+84871000,8,84,Ships or boats propellers and blades therefor,Free,,,,,2026-10-22
+84879000,8,84,Other,Free,,,,,2026-10-22

@@ -1,0 +1,56 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+2101,4,21,"EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONS WITH A BASIS OF THESE PRODUCTS OR WITH A BASIS OF COFFEE, TEA OR MATE; ROASTED CHICORY AND OTHER ROASTED COFFEE SUBSTITUTES, AND EXTRACTS, ESSENCES AND CONCENTRATES THEREOF",,,,,,2026-10-22
+210111,6,21,"Extracts, essences and concentrates, of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee : -- Extracts, essences and concentrates",,,,,,2026-10-22
+21011110,8,21,"Instant coffee, flavoured",Free,,,,,2026-10-22
+21011120,8,21,"Instant coffee, not flavoured",Free,,,,,2026-10-22
+21011130,8,21,Coffee aroma,Free,,,,,2026-10-22
+21011190,8,21,Other,Free,,,,,2026-10-22
+21011200,8,21,"Extracts, essences and concentrates, of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee : -- Preparations with a basis of extracts, essences or concentrates or with a basis of coffee",Free,,,,,2026-10-22
+210120,6,21,"Extracts, essences and concentrates, of tea or mate, and preparations with a basis of these extracts, essences or concentrates or with a basis of tea or mate :",,,,,,2026-10-22
+21012010,8,21,Instant tea,Free,,,,,2026-10-22
+21012020,8,21,Quick brewing black tea,Free,,,,,2026-10-22
+21012030,8,21,Tea aroma,Free,,,,,2026-10-22
+21012090,8,21,Other,Free,,,,,2026-10-22
+210130,6,21,"Roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof",,,,,,2026-10-22
+21013010,8,21,Roasted chicory,Free,,,,,2026-10-22
+21013020,8,21,Roasted coffee substitutes,Free,,,,,2026-10-22
+21013090,8,21,Other,Free,,,,,2026-10-22
+2102,4,21,"Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading 30.02); prepared baking powders.",,,,,,2026-10-22
+210210,6,21,Active yeasts,,,,,,2026-10-22
+21021010,8,21,Culture yeast,Free,,,,,2026-10-22
+21021020,8,21,Bakers yeast,Free,,,,,2026-10-22
+21021090,8,21,Other,Free,,,,,2026-10-22
+21022000,8,21,"Inactive yeasts; other single-cell micro-organisms, dead",Free,,,,,2026-10-22
+21023000,8,21,Prepared baking powders,Free,,,,,2026-10-22
+2103,4,21,Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard.,,,,,,2026-10-22
+21031000,8,21,Soya sauce,Free,,,,,2026-10-22
+21032000,8,21,Tomato ketchup and other tomato sauces,Free,,,,,2026-10-22
+21033000,8,21,Mustard flour and meal and prepared mustard,Free,,,,,2026-10-22
+210390,6,21,Other,,,,,,2026-10-22
+21039010,8,21,Curry paste,Free,,,,,2026-10-22
+21039020,8,21,Chilli sauce,Free,,,,,2026-10-22
+21039030,8,21,Majonnaise and salad dressings,Free,,,,,2026-10-22
+21039040,8,21,"Mixed, condiments and mixed seasoning",Free,,,,,2026-10-22
+21039090,8,21,Other,Free,,,,,2026-10-22
+2104,4,21,Soups and broths and preparations therefor; homogenised composite food preparations.,,,,,,2026-10-22
+210410,6,21,Soups and broths and preparations therefor,,,,,,2026-10-22
+21041010,8,21,Dried,Free,,,,,2026-10-22
+21041090,8,21,Other,Free,,,,,2026-10-22
+21042000,8,21,Homogenised composite food preparations,Free,,,,,2026-10-22
+21050000,8,21,"Ice-cream and other edible ice, whether or not containing cocoa",Free,,,,,2026-10-22
+2106,4,21,Food preparations not elsewhere specified or included.,,,,,,2026-10-22
+21061000,8,21,Protein concentrates and textured protein substances,Free,,,,,2026-10-22
+210690,6,21,Other,,,,,,2026-10-22
+21069011,8,21,Soft drink concentrates :---- Sharbat,Free,,,,,2026-10-22
+21069019,8,21,Soft drink concentrates :----Other,Free,,,,,2026-10-22
+21069020,8,21,Pan masala,Free,,,,,2026-10-22
+21069030,8,21,Betel nut product known as Supari,Prohibited,"a) However, import is Free if CIF value is Rs. 351/- or above per Kilogram. b) MIP conditions, however, will not be applicable for imports by 100% Export Oriented Units (EOUs) and units in the SEZ subject to the condition that no DTA sale is allowed.",,57/2015-2020,2023-02-14,2026-10-22
+21069040,8,21,"Sugar-syrups containing added flavouring or colouring matter, not elsewhere specified or included; lactose syrup; glucose syrup and malto dextrine syrup",Free,,,,,2026-10-22
+21069051,8,21,"--- Compound preparations for making beverages :---- Compound alcoholic preparations of a kind used for the manufacture of beverages, of an alcoholic strength by volume exceeding 0.5% vol., determined at 20 °C",Free,,,24/2026-27,2026-07-22,2026-10-22
+21069059,8,21,--- Compound preparations for making beverages :---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+21069060,8,21,Food flavouring material,Free,,,,,2026-10-22
+21069070,8,21,Churna for pan,Free,,,,,2026-10-22
+21069080,8,21,Custard powder,Free,,,,,2026-10-22
+21069091,8,21,Other: ---- Diabetic foods,Free,,,,,2026-10-22
+21069092,8,21,Other: ---- Sterilized or pasteurized millstone,Free,,,,,2026-10-22
+21069099,8,21,Other: ---- Other,Free,,,,,2026-10-22

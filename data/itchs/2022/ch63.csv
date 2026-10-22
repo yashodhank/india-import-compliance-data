@@ -1,0 +1,146 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+6301,4,63,Blankets and travelling rugs,,,,,,2026-10-22
+63011000,8,63,Electric blankets,Free,,,,,2026-10-22
+63012000,8,63,"Blankets (other than electric blankets) and travelling rugs, of wool or of fine animal hair",Free,,,,,2026-10-22
+63013000,8,63,"Blankets (other than electric blankets) and travelling rugs, of cotton",Free,,,,,2026-10-22
+63014000,8,63,"Blankets (other than electric blankets) and travelling rugs, of synthetic fibres",Free,,,,,2026-10-22
+630190,6,63,Other blankets and travelling rugs,,,,,,2026-10-22
+63019010,8,63,Jute blankets including blankets of blended jute,Free,,,,,2026-10-22
+63019090,8,63,Other,Free,,,,,2026-10-22
+6302,4,63,"Bed linen, table linen, toilet linen and kitchen linen.",,,,,,2026-10-22
+630210,6,63,"Bed linen, knitted or crocheted",,,,,,2026-10-22
+63021010,8,63,Of cotton,Free,,,,,2026-10-22
+63021090,8,63,Other,Free,,,,,2026-10-22
+630221,6,63,"Other bed linen, printed :--Of cotton",,,,,,2026-10-22
+63022110,8,63,Handloom,Free,,,,,2026-10-22
+63022190,8,63,Other,Free,,,,,2026-10-22
+63022200,8,63,"Other bed linen, printed : -- Of man-made fibres",Free,,,,,2026-10-22
+63022900,8,63,"Other bed linen, printed : -- Of other textile materials",Free,,,,,2026-10-22
+63023100,8,63,Other bed linen : -- Of cotton,Free,,,,,2026-10-22
+63023200,8,63,Other bed linen : -- Of man-made fibres,Free,,,,,2026-10-22
+63023900,8,63,Other bed linen : -- Of other textile materials,Free,,,,,2026-10-22
+630240,6,63,"Table linen, knitted or crocheted",,,,,,2026-10-22
+63024010,8,63,Of silk,Free,,,,,2026-10-22
+63024020,8,63,Of wool or fine animal hair,Free,,,,,2026-10-22
+63024030,8,63,Of cotton,Free,,,,,2026-10-22
+63024040,8,63,Of man-made fibres,Free,,,,,2026-10-22
+63024090,8,63,Other,Free,,,,,2026-10-22
+630251,6,63,Other table linen:--Of cotton,,,,,,2026-10-22
+63025110,8,63,Other table linen: ---- Handloom,Free,,,,,2026-10-22
+63025300,8,63,Other table linen : -- Of man-made fibres,Free,,,,,2026-10-22
+63025900,8,63,Other table linen : -- Of other textile materials,Free,,,,,2026-10-22
+630260,6,63,"Toilet linen and kitchen linen, of terry towelling or similar terry fabrics, of cotton",,,,,,2026-10-22
+63026010,8,63,Handloom,Free,,,,,2026-10-22
+63026090,8,63,Other,Free,,,,,2026-10-22
+630291,6,63,Other :-- Of cotton,,,,,,2026-10-22
+63029110,8,63,Other: ---- Handloom,Free,,,,,2026-10-22
+63029190,8,63,Other,Free,,,,,2026-10-22
+63029300,8,63,Other : -- Of man-made fibres,Free,,,,,2026-10-22
+63029900,8,63,Other : -- Of other textile materials,Free,,,,,2026-10-22
+6303,4,63,Curtains (including drapes) and interior blinds; curtain or bed valances.,,,,,,2026-10-22
+63031200,8,63,Knitted or crocheted : -- Of synthetic fibres,Free,,,,,2026-10-22
+63031900,8,63,Knitted or crocheted : -- Of other textile materials,Free,,,,,2026-10-22
+63039100,8,63,Other : -- Of cotton,Free,,,,,2026-10-22
+63039200,8,63,Other : -- Of synthetic fibres,Free,,,,,2026-10-22
+630399,6,63,Other : -- Of other textile materials,,,,,,2026-10-22
+63039910,8,63,Silk shower curtains,Free,,,,,2026-10-22
+63039990,8,63,Other,Free,,,,,2026-10-22
+6304,4,63,"Other furnishing articles, excluding those of heading 94.04.",,,,,,2026-10-22
+63041100,8,63,Bedspreads : -- Knitted or crocheted,Free,,,,,2026-10-22
+630419,6,63,Bedspreads : -- Other,,,,,,2026-10-22
+63041910,8,63,"Bedsheets and bed covers, of cotton",Free,,,,,2026-10-22
+63041920,8,63,Bedspreads of silk,Free,,,,,2026-10-22
+63041930,8,63,Bedsheets and bed covers of man-made fibres,Free,,,,,2026-10-22
+63041940,8,63,"Bedsheets and Bed Covers of cotton, Handloom",Free,,,,,2026-10-22
+63041990,8,63,Other,Free,,,,,2026-10-22
+63042000,8,63,"Bed nets, specified in Sub- heading Note 1 to this Chapter",Free,,,,,2026-10-22
+630491,6,63,Other : -- Knitted or crocheted,,,,,,2026-10-22
+63049110,8,63,Silk belt,Free,,,,,2026-10-22
+63049120,8,63,Woollen cushion cover,Free,,,,,2026-10-22
+63049190,8,63,Other,Free,,,,,2026-10-22
+630492,6,63,"Other : -- Not knitted or crocheted, of cotton",,,,,,2026-10-22
+63049211,8,63,Counterpanes ---- Of Handloom,Free,,,,,2026-10-22
+63049221,8,63,Napkins ---- Of Handloom,Free,,,,,2026-10-22
+63049229,8,63,Napkins ---- Other,Free,,,,,2026-10-22
+63049231,8,63,Pillow cases and pillow slips ---- Of Handloom,Free,,,,,2026-10-22
+63049239,8,63,Pillow cases and pillow slips ---- Other,Free,,,,,2026-10-22
+63049241,8,63,Table cloth and Table Covers ---- of Handloom,Free,,,,,2026-10-22
+63049249,8,63,Table cloth and Table Covers ---- Others,Free,,,,,2026-10-22
+63049250,8,63,Terry towel,Free,,,,,2026-10-22
+63049260,8,63,"Towels, other than terry towel",Free,,,,,2026-10-22
+63049270,8,63,Mosquito nets,Free,,,,,2026-10-22
+63049281,8,63,Cushion covers ---- Of Handloom,Free,,,,,2026-10-22
+63049289,8,63,Cushion covers ---- Others,Free,,,,,2026-10-22
+63049291,8,63,Other furnishing articles ---- Of Handloom,Free,,,,,2026-10-22
+63049299,8,63,Other furnishing articles ---- Others,Free,,,,,2026-10-22
+63049300,8,63,"Other : -- Not knitted or crocheted, of synthetic fibres",Free,,,,,2026-10-22
+630499,6,63,"Other : -- Not knitted or crocheted, of other textile materials",,,,,,2026-10-22
+63049910,8,63,Silk cushion covers,Free,,,,,2026-10-22
+63049991,8,63,"of silk, Handloom",Free,,,,,2026-10-22
+63049992,8,63,"of wool, Handloom",Free,,,,,2026-10-22
+63049999,8,63,Other,Free,,,,,2026-10-22
+6305,4,63,"Sacks and bags, of a kind used for the packing of goods.",,,,,,2026-10-22
+630510,6,63,Of jute or of other textile bast fibres of heading 53.03,,,,,,2026-10-22
+63051010,8,63,Jute bagging for raw cotton,Free,,,,,2026-10-22
+63051020,8,63,Jute corn (grains) sacks,Free,,,,,2026-10-22
+63051030,8,63,Jute hessian bags,Free,,,,,2026-10-22
+63051040,8,63,Jute sacking bags,Free,,,,,2026-10-22
+63051050,8,63,Jute wool sacks,Free,,,,,2026-10-22
+63051060,8,63,Plastic coated or paper cum polythene lined jute bags and sacks,Free,,,,,2026-10-22
+63051070,8,63,Paper laminated hessian jute,Free,,,,,2026-10-22
+63051080,8,63,Jute soil savers,Free,,,,,2026-10-22
+63051090,8,63,Other,Free,,,,,2026-10-22
+63052000,8,63,Of cotton,Free,,,,,2026-10-22
+630532,6,63,--- Of man-made textile materials : -- Flexible intermediate bulk containers,,,,,,2026-10-22
+63053200,8,63,Of man-made textile materials : -- Flexible intermediate bulk containers,Free,,,,,2026-10-22
+63053300,8,63,"Of man-made textile materials : -- Other, of polyethylene or polypropylene strip or the like",Free,,,,,2026-10-22
+63053900,8,63,Of man-made textile materials : -- Other,Free,,,,,2026-10-22
+63059000,8,63,Of other textile materials,Free,,,,,2026-10-22
+6306,4,63,"TARPAULINS, AWNINGS ANDSUNBLINDS; TENTS (INCLUDING TEMPORARY CANOPIES AND SIMILAR ARTICLES); SAILS FOR BOATS, SAILBOARDS OR LANDCRAFT; CAMPING GOODS",,,,,,2026-10-22
+63061200,8,63,"Tarpaulins, awnings and sunblinds : -- Of synthetic fibres",Free,,,,,2026-10-22
+630619,6,63,"Tarpaulins, awnings and sunblinds : -- Of other textile materials",,,,,,2026-10-22
+63061910,8,63,Jute tarpaulins (including DW tarpaulin),Free,,,,,2026-10-22
+63061920,8,63,Blinds or awnings of coir,Free,,,,,2026-10-22
+63061930,8,63,Venetian or Austrian blinds,Free,,,,,2026-10-22
+63061990,8,63,Other,Free,,,,,2026-10-22
+63062200,8,63,Tents (including temporary canopies and similar articles): -- Of synthetic fibres,Free,,,,,2026-10-22
+630629,6,63,Tents (including temporary canopies and similar articles): -- Of other textile materials,,,,,,2026-10-22
+63062910,8,63,Of jute,Free,,,,,2026-10-22
+63062990,8,63,Other,Free,,,,,2026-10-22
+63063000,8,63,Sails,Free,,,,,2026-10-22
+63064000,8,63,Pneumatic Mattresses,Free,,,,,2026-10-22
+630690,6,63,Other,,,,,,2026-10-22
+63069010,8,63,Of cotton,Free,,,,,2026-10-22
+63069090,8,63,Of other textile materials,Free,,,,,2026-10-22
+6307,4,63,"Other made up articles, including dress patterns.",,,,,,2026-10-22
+630710,6,63,"Floor-cloths, dish-cloths, dusters and similar cleaning cloths",,,,,,2026-10-22
+63071010,8,63,Of cotton,Free,,,,,2026-10-22
+63071020,8,63,Of man-made fibres,Free,,,,,2026-10-22
+63071030,8,63,"of Cotton, Handloom",Free,,,,,2026-10-22
+63071090,8,63,Other,Free,,,,,2026-10-22
+630720,6,63,Life-jackets and life-belts,,,,,,2026-10-22
+63072010,8,63,Of cotton,Free,,,,,2026-10-22
+63072090,8,63,Other,Free,,,,,2026-10-22
+630790,6,63,Other,,,,,,2026-10-22
+63079011,8,63,Dress materials hand printed: ---- Of cotton,Free,,,,,2026-10-22
+63079012,8,63,Dress materials hand printed: ---- Of silk,Free,,,,,2026-10-22
+63079013,8,63,Dress materials hand printed: ---- Of man-made fibres,Free,,,,,2026-10-22
+63079019,8,63,Dress materials hand printed: ---- Other,Free,,,,,2026-10-22
+63079020,8,63,Dress materials hand printed: ---- Made up articles of cotton,Free,,,,,2026-10-22
+63079091,8,63,"Textile face masks, without a replaceable filter or mechanical parts, including surgical mask and",Free,-,,20/2015-2020,2022-07-07,2026-10-22
+63079092,8,63,Armour for ballistic protection,Free,.,,40/2024-25,2024-11-26,2026-10-22
+63079099,8,63,Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+63080000,8,63,"Sets consisting of woven fabric and yarn, whether or not with accessories, for making up into rugs, tapestries, embroidered table cloths or serviettes, or similar textile articles, put up in packings for retail sale.",Free,,,,,2026-10-22
+63090000,8,63,Worn clothing and other worn articles.,Restricted,,,,,2026-10-22
+6310,4,63,"Used or new rags, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials.",,,,,,2026-10-22
+631010,6,63,Sorted,,,,,,2026-10-22
+63101010,8,63,Woolen rags,Restricted,,,,,2026-10-22
+63101020,8,63,Cotton rags,Restricted,Permitted for import in completely mutilated form without a licence subject to the condition that mutilation must conform to the requirement specified by Customs Public Notice or Trade Notice.,,,,2026-10-22
+63101030,8,63,Gunny cuttings,Restricted,,,,,2026-10-22
+63101090,8,63,Other,Restricted,,,,,2026-10-22
+631090,6,63,Other:,,,,,,2026-10-22
+63109010,8,63,Other: ---- Woolen rags,Restricted,Permitted for import in completely mutilated form without a licence subject to the condition that mutilation must conform to the requirement specified by Customs Public Notice or Trade Notice.,,,,2026-10-22
+63109020,8,63,Other: ---- Cotton rags,Restricted,,,,,2026-10-22
+63109030,8,63,Other: ---- Gunny cuttings,Free,,,,,2026-10-22
+63109040,8,63,Other: ---- Synthetic rags,Restricted,Permitted for import in completely mutilated form without a licence subject to the condition that mutilation must conform to the requirement specified by Customs Public Notice or Trade Notice.,,,,2026-10-22
+63109090,8,63,Other: ---- Other,Restricted,,,,,2026-10-22

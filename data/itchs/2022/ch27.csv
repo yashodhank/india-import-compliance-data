@@ -1,0 +1,150 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+2701,4,27,"COAL; BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL",,,,,,2026-10-22
+27011100,8,27,"Coal, whether or not pulverized, but not agglomerated: -- Anthracite Coal",Free,Policy condition no. 7 of chapter 27 Subject to compulsory registration under Coal Import Monitoring System,7,49/2015-2020,2020-01-22,2026-10-22
+270112,6,27,Bituminous coal :,,,,,,2026-10-22
+27011210,8,27,Coking coal,Free,Free subject to compulsory registration under Coal Import Monitoring System (CIMS) as per Policy Condition 7 of this Chapter.,7,08/2023,2023-05-29,2026-10-22
+27011290,8,27,Other,Free,Free subject to compulsory registration under Coal Import Monitoring System (CIMS) as per Policy Condition 7 of this Chapter.,7,08/2023,2023-05-29,2026-10-22
+270119,6,27,"Coal, whether or not pulverised, but not agglomerated : -- Other coal",,,,,,2026-10-22
+27011910,8,27,Coking coal,Free,Policy Condition 7 of Chapter-27 Subject to compulsory registration under Coal Import Monitoring System,7,49/2015-2020,2020-01-22,2026-10-22
+27011920,8,27,Steam coal,Free,Policy Condition 7 of Chapter-27 Subject to compulsory registration under Coal Import Monitoring System,7,49/2015-2020,2020-01-22,2026-10-22
+27011990,8,27,Other,Free,Policy Condition 7 of Chapter-27 Subject to compulsory registration under Coal Import Monitoring System,7,49/2015-2020,2020-01-22,2026-10-22
+270120,6,27,"Briquettes, ovoids and similar solid fuels manufactured from coal",,,,,,2026-10-22
+27012010,8,27,Anthracite agglomerated,Free,,,,,2026-10-22
+27012090,8,27,Other,Free,,,,,2026-10-22
+2702,4,27,"Lignite, whether or not agglomerated, excluding jet.",,,,,,2026-10-22
+27021000,8,27,"Lignite, whether or not pulverised, but not agglomerated",Free,,,,,2026-10-22
+27022000,8,27,Agglomerated lignite,Free,,,,,2026-10-22
+2703,4,27,"PEAT (INCLUDING PEAT LITTER), WHETHER OR NOT AGGLOMERATED",,,,,,2026-10-22
+270300,6,27,"Peat (including peat litter), whether or not agglomerated.",,,,,,2026-10-22
+27030010,8,27,"Peat whether or not compressed into bales, but not agglomerated",Free,,,,,2026-10-22
+27030090,8,27,Other,Free,,,,,2026-10-22
+2704,4,27,"Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon.",,,,,,2026-10-22
+270400,6,27,"Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon :",,,,,,2026-10-22
+27040010,8,27,Retort carbon (gas carbon),Free,,,,,2026-10-22
+27040020,8,27,Coke and semi-coke of lignite or of peat,Free,-,,54/2025-26,2026-01-03,2026-10-22
+27040030,8,27,Hard coke of coal,Free,-,,54/2025-26,2026-01-03,2026-10-22
+27040040,8,27,Soft coke of coal,Free,-,,54/2025-26,2026-01-03,2026-10-22
+27040090,8,27,Other,Free,-,,54/2025-26,2026-01-03,2026-10-22
+27050000,8,27,"Coal gas, water gas, producer gas and similar gases, other than petroleum gases and other gaseous hydrocarbons",Free,,,,,2026-10-22
+2706,4,27,"Tar distilled from coal, from lignite or from peat, and other mineral tars, whether or not dehydrated or partially distilled, including reconstituted tars.",,,,,,2026-10-22
+270600,6,27,"Tar distilled from coal, from lignite or from peat and other mineral tars, whether or not dehydrated or partially distilled, including reconstituted tars :",,,,,,2026-10-22
+27060010,8,27,Coal tar,Free,,,,,2026-10-22
+27060090,8,27,Other,Free,,,,,2026-10-22
+2707,4,27,Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents.,,,,,,2026-10-22
+27071000,8,27,Benzol (benzene),Free,,,,,2026-10-22
+27072000,8,27,Toluol (toluene),Free,,,,,2026-10-22
+27073000,8,27,Xylol (xylenes),Free,,,,,2026-10-22
+27074000,8,27,Naphthalene,Free,,,,,2026-10-22
+27075000,8,27,Other aromatic hydrocarbon mixtures of which 65 percent or more by volume (including losses) distils at 250 °C by the ISO 3405 method (equivalent to the ASTM D 86 method,Free,,,,,2026-10-22
+27079100,8,27,Other : -- Creosote oils,Free,,,,,2026-10-22
+27079900,8,27,Other : -- Other,Free,,,,,2026-10-22
+2708,4,27,"Pitch and pitch coke, obtained from coal tar or from other mineral tars.",,,,,,2026-10-22
+270810,6,27,Pitch,,,,,,2026-10-22
+27081010,8,27,Obtained by blending with creosote oil or other coal tar distillates,Free,,,,,2026-10-22
+27081090,8,27,Other,Free,,,,,2026-10-22
+27082000,8,27,Pitch coke,Free,,,,,2026-10-22
+2709,4,27,"PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, CRUDE",,,,,,2026-10-22
+270900,6,27,"PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, CRUDE",,,,,,2026-10-22
+27090010,8,27,PETROLEUM CRUDE,,,,,,2026-10-22
+27090090,8,27,OTHER,,,,,,2026-10-22
+2710,4,27,"Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 percent or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils.",,,,,,2026-10-22
+271012,6,27,"Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70 percent or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, other than those containing biodiesel and other than waste oils : --Light oils and preparations",,,,,,2026-10-22
+27101221,8,27,Naphtha ---- Light naphtha,Free,,,51/2015-2020,2020-03-18,2026-10-22
+27101222,8,27,Naphtha ---- Heavy naphtha,Free,,,51/2015-2020,2020-03-18,2026-10-22
+27101229,8,27,Naphtha ---- Full range naphtha,Free,,,51/2015-2020,2020-03-18,2026-10-22
+27101231,8,27,"Solvent 60/80, solvent 50/120 and solvent 145/205 (petroleum hydrocarbon solvents) as specified under standard IS 1745: ---- Solvent 60/80",STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101232,8,27,"Solvent 60/80, solvent 50/120 and solvent 145/205 (petroleum hydrocarbon solvents) as specified under standard IS 1745: ---- Solvent 50/120",STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101239,8,27,"Solvent 60/80, solvent 50/120 AND solvent 145/205 (petroleum hydrocarbon solvents) AS specified under standard IS 1745: ---- Solvent 145/205",STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101241,8,27,"Motor gasoline conforming to standard IS 2796,IS 17021, IS 17586 or IS 17076: ----Motor gasoline conforming to standard IS 2796",STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101242,8,27,"Motor gasoline conforming to standard IS 2796,IS 17021, IS 17586 or IS 17076: ----E 20 fuel conforming to standard IS 17021",STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101243,8,27,"Motor gasoline conforming to standard IS 2796,IS 17021, IS 17586 orIS 17076: ---- E 12 fuel conforming to standard IS 17586",STE (State Trading Enterprise),-,,20/2015-20,2022-07-07,2026-10-22
+27101244,8,27,"Motor gasoline conforming to standard IS 2796,IS 17021, IS 17586 orIS 17076: ---- E 15 fuel conforming to standard IS 17586",STE (State Trading Enterprise),-,,20/2015-20,2022-07-07,2026-10-22
+27101249,8,27,"Motor gasoline conforming to standard IS 2796,IS 17021, IS 17586 or IS 17076: ----M15 fuel conforming to standard IS 17076",STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101250,8,27,Aviation gasoline conforming to standard IS 1604,STE (State Trading Enterprise),For STEs : Import as per Policy Condition (5) of Chapter 27. For Flying Clubs : Policy Condition (5) will not be applicable. Import would be subject to actual user condition and they will be responsible for safety norms of the item for the industry. Import by Flying Clubs is Free.,5,51/2015-2020,2020-03-18,2026-10-22
+27101290,8,27,Other,STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+271019,6,27,"Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70 percent or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, other than those containing biodiesel and other than waste oils : -- Other",,,,,,2026-10-22
+27101920,8,27,Solvent 125/240 (petroleum hydrocarbon solvent) as specified under standard IS 1745,STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101931,8,27,Kerosene intermediate and oils obtained from kerosene intermediate: ---- Kerosene intermediate,STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101932,8,27,Kerosene intermediate and oils obtained from kerosene intermediate: ---- Kerosene conforming to standard IS 1459,STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101933,8,27,Blended Aviation turbine fuel,STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,40/2024-25,2024-11-26,2026-10-22
+27101939,8,27,"Kerosene intermediate and oils obtained from kerosene intermediate: ---- Aviation turbine fuels, kerosene type conforming to standard IS 1571",STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101941,8,27,Gas oil and oils obtained from gas oil: ---- Gas oil,STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101942,8,27,Gas oil and oils obtained from gas oil: ---- Vacuum gas oil,STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101943,8,27,Gas oil and oils obtained from gas oil: ---- Light diesel oil conforming to standard IS 15770,STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101944,8,27,"Gas oil and oils obtained from gas oil: ---- Automotive diesel fuel, not containing biodiesel, conforming to standard IS 1460",STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101949,8,27,Gas oil and oils obtained from gas oil: ---- High flash high speed diesel fuel conforming to standard IS 16861,STE (State Trading Enterprise),Import as per Policy Condition (5) of Chapter 27.,5,,,2026-10-22
+27101951,8,27,Fuel oils conforming to standard IS 1593: ---- Grade LV,Free,,,,,2026-10-22
+27101952,8,27,Fuel oils conforming to standard IS 1593: ---- Grade MV1,Free,,,,,2026-10-22
+27101953,8,27,Fuel oils conforming to standard IS 1593: ---- Grade MV2,Free,,,,,2026-10-22
+27101959,8,27,Fuel oils conforming to standard IS 1593: ---- Grade HV,Free,,,,,2026-10-22
+27101961,8,27,Fuels (Class F) or marine fuels conforming to standard IS 16731: ---- Distillate oil,Free,,,,,2026-10-22
+27101969,8,27,Fuels (Class F) or marine fuels conforming to standard IS 16731: ---- Residual oil,Free,,,,,2026-10-22
+27101971,8,27,Base oil and lubricating oil: ---- Base oil,Free,,,,,2026-10-22
+27101972,8,27,Base oil and lubricating oil: ---- Engine oil (internal combustion engine crankcase oils) conforming to standard IS 13656,Free,,,,,2026-10-22
+27101973,8,27,Base oil and lubricating oil: ---- Engine oil conforming to standard IS 14234,Free,,,,,2026-10-22
+27101974,8,27,Base oil and lubricating oil: ---- Automotive gear oil conforming to standard IS 1118,Free,,,,,2026-10-22
+27101975,8,27,Base oil and lubricating oil: ---- Industrial gear oil conforming to standard IS 8406,Free,,,,,2026-10-22
+27101976,8,27,Base oil and lubricating oil: ---- General purpose machinery and spindle oils conforming to standard IS 493,Free,,,,,2026-10-22
+27101977,8,27,Base oil and lubricating oil: ---- Turbine lubricating oil conforming to standard IS 1012,Free,,,,,2026-10-22
+27101978,8,27,"Base oil and lubricating oil: ---- Other lubricating oil, conforming to any other BIS standard",Free,,,,,2026-10-22
+27101979,8,27,"Base oil and lubricating oil: ---- Other lubricating oil, not conforming to any BIS standard",Free,,,,,2026-10-22
+27101981,8,27,"Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Cutting oil conforming to standard IS 1115",Free,,,,,2026-10-22
+27101982,8,27,"Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Cutting oil (neat) conforming to standard IS 3065",Free,,,,,2026-10-22
+27101983,8,27,"Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Hydraulic oil conforming to standard IS 3098 or IS 11656",Free,,,,,2026-10-22
+27101984,8,27,"Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Industrial white oil conforming to standard IS 1083",Free,,,,,2026-10-22
+27101985,8,27,"Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Insulating oil for transformer and circuit-breaker (transformer and circuit-breaker oils) conforming to standard IS 335 or IS 12463",Free,,,,,2026-10-22
+27101986,8,27,"Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Mineral oil for cosmetic industry conforming to standard IS 7299",Free,,,,,2026-10-22
+27101987,8,27,"Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ----Jute batching oil conforming to standard IS 1758",Free,,,,,2026-10-22
+27101988,8,27,"Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Other cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry, transformer oil conforming to any other BIS standard",Free,,,,,2026-10-22
+27101989,8,27,"Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: --- Other cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry, transformer oil, not conforming to any BIS standard",Free,,,,,2026-10-22
+27101990,8,27,Other,Free,,,,,2026-10-22
+271020,6,27,"Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, containing biodiesel, other than waste oils:",,,,,,2026-10-22
+27102010,8,27,"Automotive diesel fuel, containing biodiesel, conforming to standard IS 1460",Restricted,Import is allowed only for non - fuel purposes subject to Actual User (AU) condition.,,,,2026-10-22
+27102020,8,27,Diesel fuel blend (B6 to B20) conforming to standard IS 16531,Restricted,Import is allowed only for non - fuel purposes subject to Actual User (AU) condition.,,,,2026-10-22
+27102090,8,27,Other,Restricted,Import is allowed only for non - fuel purposes subject to Actual User (AU) condition.,,,,2026-10-22
+27109110,8,27,--- Containing polychlorinated biphenyls (PCBs) at a concentration level of 50 mg/kg or more,Restricted,Import subject to Policy Condition (3) of this Chapter,3,44/2025-26,2025-10-15,2026-10-22
+27109120,8,27,"Other, containing polychlorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs), whether or not also containing polychlorinated biphenyls (PCBs) at a concentration level of less than 50 mg/kg",Restricted,Import subject to Policy Condition (3) of this Chapter,3,44/2025-26,2025-10-15,2026-10-22
+27109190,8,27,Other,Restricted,Import subject to Policy Condition (3) of this Chapter,3,44/2025-26,2025-10-15,2026-10-22
+27109900,8,27,Waste oils : -- Other,Restricted,,,,,2026-10-22
+2711,4,27,Petroleum gases and other gaseous hydrocarbons.,,,,,,2026-10-22
+27111100,8,27,Liquefied : -- Natural gas,Free,,,,,2026-10-22
+27111200,8,27,Liquefied : -- Propane,Free,,,,,2026-10-22
+27111300,8,27,Liquefied : -- Butanes,Free,,,,,2026-10-22
+27111400,8,27,"Liquefied : -- Ethylene, propylene, butylene and butadiene",Free,,,,,2026-10-22
+271119,6,27,Liquefied : -- Other,,,,,,2026-10-22
+27111910,8,27,LPG (for non-automotive purposes) conforming to standard IS 4576,Free,,,,,2026-10-22
+27111920,8,27,LPG (for automotive purposes) conforming to standard IS 14861,Free,,,,,2026-10-22
+27111990,8,27,Other,Free,,,,,2026-10-22
+27112100,8,27,In gaseous state : -- Natural gas,Free,,,,,2026-10-22
+27112900,8,27,In gaseous state : -- Other,Free,,,,,2026-10-22
+2712,4,27,"Petroleum jelly; paraffin wax, micro-crystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured.",,,,,,2026-10-22
+271210,6,27,Petroleum jelly,,,,,,2026-10-22
+27121010,8,27,Crude,Free,,,,,2026-10-22
+27121090,8,27,Other,Free,,,,,2026-10-22
+271290,6,27,Other,,,,,,2026-10-22
+27129010,8,27,Micro-CrystallinePetroleum wax,Free,,,,,2026-10-22
+27129020,8,27,Lignite wax,Free,,,,,2026-10-22
+27129030,8,27,Slack wax,Free,,,,,2026-10-22
+27129040,8,27,Parafin wax containing by weight 0.75% or more of oil,,,,,,2026-10-22
+27129090,8,27,Other,Free,,,,,2026-10-22
+2713,4,27,"Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals.",,,,,,2026-10-22
+271311,6,27,Petroleum coke : -- Not calcined,,,,,,2026-10-22
+27131110,8,27,Raw petroleum coke for anode making in aluminium industry conforming to standard IS 17049,Prohibited,As per policy condition No. 6 of chapter 27.,6,,,2026-10-22
+27131190,8,27,Other,Prohibited,As per policy condition No. 6 of chapter 27.,6,,,2026-10-22
+271312,6,27,Petroleum coke : -- Calcined,,,,,,2026-10-22
+27131210,8,27,Calcined petroleum coke for anode making in aluminum industry conforming to standard IS 17049,Prohibited,As per policy condition No. 6 of chapter 27.,6,,,2026-10-22
+27131290,8,27,Other,Prohibited,As per policy condition No. 6 of chapter 27.,6,,,2026-10-22
+27132000,8,27,Petroleum bitumen,Free,,,,,2026-10-22
+27139000,8,27,other residues of petroleum oils or of oils obtained from bituminous minerals,Free,,,,,2026-10-22
+2714,4,27,"Bitumen and asphalt, natural; bituminous or oil shale and tar sands; asphaltites and asphaltic rocks.",,,,,,2026-10-22
+27141000,8,27,Bituminous or oil shale and tar sands,Free,,,,,2026-10-22
+271490,6,27,Other,,,,,,2026-10-22
+27149010,8,27,"Asphalt, natural",Free,,,,,2026-10-22
+27149020,8,27,"Bitumen, natural",Free,,,,,2026-10-22
+27149030,8,27,Gilsonete,Free,,,,,2026-10-22
+27149090,8,27,Other,Free,,,,,2026-10-22
+2715,4,27,"Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs).",,,,,,2026-10-22
+271500,6,27,"Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut backs) :",,,,,,2026-10-22
+27150010,8,27,"Cut back, bituminous or asphalt",Free,,,,,2026-10-22
+27150090,8,27,Other,Free,,,,,2026-10-22
+27160000,8,27,Electrical Energy,Free,,,,,2026-10-22

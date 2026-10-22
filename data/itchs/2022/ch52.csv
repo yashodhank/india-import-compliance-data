@@ -1,0 +1,524 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+5201,4,52,"Cotton, not carded or combed.",,,,,,2026-10-22
+520100,6,52,"Cotton, not carded or combed :",,,,,,2026-10-22
+52010011,8,52,Indian cotton: ---- Bengal deshi,Free,,,,,2026-10-22
+52010012,8,52,"Indian cotton: ---- Indian cotton of staple lengths 20.5 mm (25/32"") and below (e. g. oomras, yellow picking, Assam comillas)",Free,,,,,2026-10-22
+52010013,8,52,"Indian cotton: ---- Indian cotton of staple length exceeding 20.5mm (26/32"") but not exceeding 24.5mm (30/32"")",Free,,,,,2026-10-22
+52010014,8,52,"Indian cotton: ---- Indian cotton of staple length over 24.5 mm (31/32"") to 28 mm",Free,,,,,2026-10-22
+52010015,8,52,"Indian cotton: ---- Indian cotton of staple length 28.5 mm (14/32"") and above but below 34.5 mm",Free,,,,,2026-10-22
+52010019,8,52,"Indian cotton: ---- Indian cotton of all staple length 34.5 mm and above (112/32"")",Free,,,,,2026-10-22
+52010021,8,52,Other: ---- Of staple length not exceeding 20.0 mm,Free,.,,08/2023,2023-05-29,2026-10-22
+52010022,8,52,Other: ---- Of staple length exceeding 20.0 mm but not exceeding 24.5 mm,Free,.,,08/2023,2023-05-29,2026-10-22
+52010023,8,52,Other: ---- Of staple length exceeding 24.5 mm but not. exceeding 27.0 mm,Free,.,,08/2023,2023-05-29,2026-10-22
+52010024,8,52,Other : ---- Of staple length exceeding 27.0 mm but not exceeding 32.0 mm,Free,.,,08/2023,2023-05-29,2026-10-22
+52010025,8,52,Other : ---- Of staple length exceeding 32.0 mm,Free,.,,08/2023,2023-05-29,2026-10-22
+5202,4,52,"Terry towelling and similar woven terry fabrics, other than narrow fabrics of heading 58.06; tufted textile fabrics, other than products of heading 57.03.",,,,,,2026-10-22
+52021000,8,52,Yarn waste (including thread waste),Free,,,,,2026-10-22
+52029100,8,52,Other : -- Garnetted stock,Free,,,,,2026-10-22
+52029900,8,52,Other : -- Other,Free,,,,,2026-10-22
+5203,4,52,"Cotton, carded or combed",,,,,,2026-10-22
+52030000,8,52,"Gauze, other than narrow fabrics of heading 58.06.",Free,,,,,2026-10-22
+5204,4,52,"Tulles and other net fabrics, not including woven, knitted or crocheted fabrics; lace in the piece, in strips or in motifs, other than fabrics of headings 60.02 to 60.06.",,,,,,2026-10-22
+520411,6,52,Not put up for retail sale : -- Containing 85 percent or more by weight of cotton,,,,,,2026-10-22
+52041110,8,52,"Cotton thread, sewing, containing any synthetic staple fibre",Free,,,,,2026-10-22
+52041120,8,52,"Cotton thread, darning",Free,,,,,2026-10-22
+52041130,8,52,Embroidery cotton thread,Free,,,,,2026-10-22
+52041140,8,52,Cotton sewing thread not containing any synthetic staple fibre,Free,,,,,2026-10-22
+52041190,8,52,Other,Free,,,,,2026-10-22
+52041900,8,52,Not put up for retail sale : -- Other,Free,,,,,2026-10-22
+520420,6,52,Put up for retail sale,,,,,,2026-10-22
+52042010,8,52,"Cotton thread, sewing, containing any synthetic staple fibre",Free,,,,,2026-10-22
+52042020,8,52,"Cotton thread, darning",Free,,,,,2026-10-22
+52042030,8,52,Embroidery cotton thread,Free,,,,,2026-10-22
+52042040,8,52,"Cotton sewing thread, not containing any synthetic staple fibre",Free,,,,,2026-10-22
+52042090,8,52,Other,Free,,,,,2026-10-22
+5205,4,52,"Cotton yarn (other than sewing thread), containing 85 percent or more by weight of cotton, not put up for retail sale.",,,,,,2026-10-22
+520511,6,52,"Single yarn, of uncombed fibres : -- Measuring 714.29 decitex or more (not exceeding 14 metric number)",,,,,,2026-10-22
+52051110,8,52,Grey,Free,,,,,2026-10-22
+52051120,8,52,Bleached,Free,,,,,2026-10-22
+52051130,8,52,Dyed,Free,,,,,2026-10-22
+52051190,8,52,Other,Free,,,,,2026-10-22
+520512,6,52,"Single yarn, of uncombed fibres : --Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number)",,,,,,2026-10-22
+52051210,8,52,Grey,Free,,,,,2026-10-22
+52051220,8,52,Bleached,Free,,,,,2026-10-22
+52051230,8,52,Dyed,Free,,,,,2026-10-22
+52051290,8,52,Other,Free,,,,,2026-10-22
+520513,6,52,"Single yarn, of uncombed fibres : -- Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number)",,,,,,2026-10-22
+52051310,8,52,Grey,Free,,,,,2026-10-22
+52051320,8,52,Bleached,Free,,,,,2026-10-22
+52051330,8,52,Dyed,Free,,,,,2026-10-22
+52051390,8,52,Other,Free,,,,,2026-10-22
+520514,6,52,"Single yarn, of uncombed fibres : --Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number)",,,,,,2026-10-22
+52051410,8,52,Grey,Free,,,,,2026-10-22
+52051420,8,52,Bleached,Free,,,,,2026-10-22
+52051430,8,52,Dyed,Free,,,,,2026-10-22
+52051490,8,52,Other,Free,,,,,2026-10-22
+520515,6,52,"Single yarn, of uncombed fibres : -- Measuring less than 125 decitex (exceeding 80 metric number)",,,,,,2026-10-22
+52051510,8,52,Grey,Free,,,,,2026-10-22
+52051520,8,52,Bleached,Free,,,,,2026-10-22
+52051530,8,52,Dyed,Free,,,,,2026-10-22
+52051590,8,52,Other,Free,,,,,2026-10-22
+520521,6,52,"Single yarn, of combed fibres : -- Measuring 714.29 decitex or more (not exceeding 14 metric number)",,,,,,2026-10-22
+52052110,8,52,Grey,Free,,,,,2026-10-22
+52052120,8,52,Bleached,Free,,,,,2026-10-22
+52052130,8,52,Dyed,Free,,,,,2026-10-22
+52052190,8,52,Other,Free,,,,,2026-10-22
+520522,6,52,"Single yarn, of combed fibres : -- Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number)",,,,,,2026-10-22
+52052210,8,52,Grey,Free,,,,,2026-10-22
+52052220,8,52,Bleached,Free,,,,,2026-10-22
+52052290,8,52,Other,Free,,,,,2026-10-22
+520523,6,52,"Single yarn, of combed fibres : -- Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number)",,,,,,2026-10-22
+52052310,8,52,Grey,Free,,,,,2026-10-22
+52052320,8,52,Bleached,Free,,,,,2026-10-22
+52052390,8,52,Other,Free,,,,,2026-10-22
+520524,6,52,"Single yarn, of combed fibres : -- Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number)",,,,,,2026-10-22
+52052410,8,52,Grey,Free,,,,,2026-10-22
+52052420,8,52,Bleached,Free,,,,,2026-10-22
+52052490,8,52,Other,Free,,,,,2026-10-22
+520526,6,52,"Single yarn, of combed fibres : -- Measuring less than 125 decitex but not less than 106.38 decitex (exceeding 80 metric number but not exceeding 94 metric number)",,,,,,2026-10-22
+52052610,8,52,Dyed,Free,,,,,2026-10-22
+52052620,8,52,Bleached,Free,,,,,2026-10-22
+52052690,8,52,Other,Free,,,,,2026-10-22
+520527,6,52,"Single yarn, of combed fibres : -- Measuring less than 106.38 decitex but not less than 83.33 decitex (exceeding 94 metric number but not exceeding 120 metric number)",,,,,,2026-10-22
+52052710,8,52,Dyed,Free,,,,,2026-10-22
+52052720,8,52,Bleached,Free,,,,,2026-10-22
+52052790,8,52,Other,Free,,,,,2026-10-22
+520528,6,52,"Single yarn, of combed fibres : -- Measuring less than 83.33 decitex (exceeding 120 metric number)",,,,,,2026-10-22
+52052810,8,52,Dyed,Free,,,,,2026-10-22
+52052820,8,52,Bleached,Free,,,,,2026-10-22
+52052890,8,52,"Other Multiple (folded) or cabled yarn, of uncombed fibres:",Free,,,,,2026-10-22
+520531,6,52,"Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number per single yarn)",,,,,,2026-10-22
+52053110,8,52,Grey,Free,,,,,2026-10-22
+52053120,8,52,Bleached,Free,,,,,2026-10-22
+52053130,8,52,Dyed,Free,,,,,2026-10-22
+52053190,8,52,Other,Free,,,,,2026-10-22
+520532,6,52,"Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number per single yarn)",,,,,,2026-10-22
+52053210,8,52,Grey,Free,,,,,2026-10-22
+52053220,8,52,Bleached,Free,,,,,2026-10-22
+52053290,8,52,Other,Free,,,,,2026-10-22
+520533,6,52,"Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number per single yarn)",,,,,,2026-10-22
+52053310,8,52,Grey,Free,,,,,2026-10-22
+52053320,8,52,Bleached,Free,,,,,2026-10-22
+52053330,8,52,Dyed,Free,,,,,2026-10-22
+52053390,8,52,Other,Free,,,,,2026-10-22
+520534,6,52,"Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number per single yarn)",,,,,,2026-10-22
+52053410,8,52,Grey,Free,,,,,2026-10-22
+52053420,8,52,Bleached,Free,,,,,2026-10-22
+52053430,8,52,Dyed,Free,,,,,2026-10-22
+52053490,8,52,Other,Free,,,,,2026-10-22
+520535,6,52,"Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 125 decitex (exceeding 80 metric number per single yarn)",,,,,,2026-10-22
+52053510,8,52,Grey,Free,,,,,2026-10-22
+52053590,8,52,Other,Free,,,,,2026-10-22
+520541,6,52,"Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number per single yarn)",,,,,,2026-10-22
+52054110,8,52,Grey,Free,,,,,2026-10-22
+52054120,8,52,Bleached,Free,,,,,2026-10-22
+52054130,8,52,Dyed,Free,,,,,2026-10-22
+52054190,8,52,Other,Free,,,,,2026-10-22
+520542,6,52,"Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number per single yarn)",,,,,,2026-10-22
+52054210,8,52,Grey,Free,,,,,2026-10-22
+52054290,8,52,Other,Free,,,,,2026-10-22
+520543,6,52,"Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number per single yarn)",,,,,,2026-10-22
+52054310,8,52,Grey,Free,,,,,2026-10-22
+52054320,8,52,Bleached,Free,,,,,2026-10-22
+52054390,8,52,Other,Free,,,,,2026-10-22
+520544,6,52,"Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number per single yarn)",,,,,,2026-10-22
+52054410,8,52,Grey,Free,,,,,2026-10-22
+52054420,8,52,Bleached,Free,,,,,2026-10-22
+52054490,8,52,Other,Free,,,,,2026-10-22
+520546,6,52,"Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 125 decitex but not less than 106.38 decitex (exceeding 80 metric number but not exceeding 94 metric number per single yarn)",,,,,,2026-10-22
+52054610,8,52,Grey,Free,,,,,2026-10-22
+52054620,8,52,Bleached,Free,,,,,2026-10-22
+52054630,8,52,Dyed,Free,,,,,2026-10-22
+52054690,8,52,Other,Free,,,,,2026-10-22
+520547,6,52,"Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 106.38 decitex but not less than 83.33 decitex (exceeding 94 metric number but not exceeding 120 metric number per single yarn)",,,,,,2026-10-22
+52054710,8,52,Grey,Free,,,,,2026-10-22
+52054720,8,52,Bleached,Free,,,,,2026-10-22
+52054730,8,52,Dyed,Free,,,,,2026-10-22
+52054790,8,52,Other,Free,,,,,2026-10-22
+520548,6,52,"Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 83.33 decitex (exceeding 120 metric number per single yarn)",,,,,,2026-10-22
+52054810,8,52,Grey,Free,,,,,2026-10-22
+52054820,8,52,Bleached,Free,,,,,2026-10-22
+52054830,8,52,Dyed,Free,,,,,2026-10-22
+52054890,8,52,Other,Free,,,,,2026-10-22
+5206,4,52,"Cotton yarn (other than sewing thread), containing less than 85percentby weight of cotton, not put up for retail sale.",,,,,,2026-10-22
+52061100,8,52,"Single yarn, of uncombed fibres : --Measuring 714.29 decitex or more (not exceeding 14 metric number)",Free,,,,,2026-10-22
+52061200,8,52,"Single yarn, of uncombed fibres : -- Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number)",Free,,,,,2026-10-22
+52061300,8,52,"Single yarn, of uncombed fibres : -- Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number)",Free,,,,,2026-10-22
+52061400,8,52,"Single yarn, of uncombed fibres : -- Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number)",Free,,,,,2026-10-22
+52061500,8,52,"Single yarn, of uncombed fibres : -- Measuring less than 125 decitex (exceeding 80 metric number)",Free,,,,,2026-10-22
+52062100,8,52,"Single yarn, of combed fibres : -- Measuring 714.29 decitex or more (not exceeding 14 metric number)",Free,,,,,2026-10-22
+52062200,8,52,"Single yarn, of combed fibres : -- Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number)",Free,,,,,2026-10-22
+52062300,8,52,"Single yarn, of combed fibres : -- Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number)",Free,,,,,2026-10-22
+52062400,8,52,"Single yarn, of combed fibres : -- Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number)",Free,,,,,2026-10-22
+52062500,8,52,"Single yarn, of combed fibres : -- Measuring less than 125 decitex (exceeding 80 metric number)",Free,,,,,2026-10-22
+52063100,8,52,"Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number per single yarn)",Free,,,,,2026-10-22
+52063200,8,52,"Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number per single yarn)",Free,,,,,2026-10-22
+52063300,8,52,"Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number per single yarn)",Free,,,,,2026-10-22
+52063400,8,52,"Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number per single yarn)",Free,,,,,2026-10-22
+52063500,8,52,"Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 125 decitex (exceeding 80 metric number per single yarn)",Free,,,,,2026-10-22
+52064100,8,52,"Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number per single yarn)",Free,,,,,2026-10-22
+52064200,8,52,"Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 714.29 decitex but not less han 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number per single yarn)",Free,,,,,2026-10-22
+52064300,8,52,"Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number per single yarn)",Free,,,,,2026-10-22
+52064400,8,52,"Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number per single yarn)",Free,,,,,2026-10-22
+52064500,8,52,"Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 125 decitex (exceeding 80 metric number per single yarn)",Free,,,,,2026-10-22
+5207,4,52,Cotton yarn (other than sewing thread) put up for retail sale.,,,,,,2026-10-22
+52071000,8,52,Containing 85percent or more by weight of cotton,Free,,,,,2026-10-22
+52079000,8,52,Other,Free,,,,,2026-10-22
+5208,4,52,"Woven fabrics of cotton, containing 85percent or more by weight of cotton, weighing not more than 200 g/m2.",,,,,,2026-10-22
+520811,6,52,"Unbleached : -- Plain weave, weighing not more than 100 g/m2",,,,,,2026-10-22
+52081110,8,52,Dhoti,Free,,,,,2026-10-22
+52081120,8,52,Saree,Free,,,,,2026-10-22
+52081130,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52081140,8,52,Casement,Free,,,,,2026-10-22
+52081190,8,52,Other,Free,,,,,2026-10-22
+520812,6,52,"Unbleached : -- Plain weave, weighing more than 100 g/m2",,,,,,2026-10-22
+52081210,8,52,Dhoti,Free,,,,,2026-10-22
+52081220,8,52,Saree,Free,,,,,2026-10-22
+52081230,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52081240,8,52,Casement,Free,,,,,2026-10-22
+52081250,8,52,"Sheeting (takia, leopard fabrics, other than furnishing fabrics)",Free,,,,,2026-10-22
+52081260,8,52,Voils,Free,,,,,2026-10-22
+52081290,8,52,Other,Free,,,,,2026-10-22
+520813,6,52,"Unbleached : -- 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52081310,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52081320,8,52,Dobby fabrics,Free,,,,,2026-10-22
+52081390,8,52,Other,Free,,,,,2026-10-22
+520819,6,52,Unbleached : -- Other fabrics,,,,,,2026-10-22
+52081910,8,52,"Dedsuti, dosuti fabrics",Free,,,,,2026-10-22
+52081990,8,52,Other,Free,,,,,2026-10-22
+520821,6,52,"Bleached : -- Plain weave, weighing not more than 100 g/m2",,,,,,2026-10-22
+52082110,8,52,Dhoti,Free,,,,,2026-10-22
+52082120,8,52,Saree,Free,,,,,2026-10-22
+52082130,8,52,Casement,Free,,,,,2026-10-22
+52082140,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52082150,8,52,Cambrics (including madapollam and jaconet),Free,,,,,2026-10-22
+52082160,8,52,Mulls (including limbric and willaya),Free,,,,,2026-10-22
+52082170,8,52,"Muslin (including lawn, mulmul and organdi)",Free,,,,,2026-10-22
+52082180,8,52,Voils (excluding leno fabrics),Free,,,,,2026-10-22
+52082190,8,52,Other,Free,,,,,2026-10-22
+520822,6,52,"Bleached : -- Plain weave, weighing more than 100 g/m2",,,,,,2026-10-22
+52082210,8,52,Dhoti,Free,,,,,2026-10-22
+52082220,8,52,Saree,Free,,,,,2026-10-22
+52082230,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52082240,8,52,Casement,Free,,,,,2026-10-22
+52082250,8,52,Cambrics (including madapollam and jaconet),Free,,,,,2026-10-22
+52082260,8,52,Long cloth (including calico),Free,,,,,2026-10-22
+52082270,8,52,Sheeting (takia and the like),Free,,,,,2026-10-22
+52082280,8,52,Voils (excluding leno fabrics),Free,,,,,2026-10-22
+52082290,8,52,Other,Free,,,,,2026-10-22
+520823,6,52,"Bleached : -- 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52082310,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52082320,8,52,"Parmatta fabrics (including ilesia, pocketing, Italian twill)",Free,,,,,2026-10-22
+52082330,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52082390,8,52,Other,Free,,,,,2026-10-22
+520829,6,52,Bleached : -- Other fabrics,,,,,,2026-10-22
+52082910,8,52,"Dhoti and saree, zari bordered",Free,,,,,2026-10-22
+52082920,8,52,"Dedsuti, Dosuti fabrics, ceretonnes and osamburge",Free,,,,,2026-10-22
+52082990,8,52,Other,Free,,,,,2026-10-22
+520831,6,52,"Dyed : -- Plain weave, weighing not more than 100 g/m2",,,,,,2026-10-22
+52083110,8,52,Lungi,Free,,,,,2026-10-22
+52083121,8,52,"Sarees, of Handloom",Free,,,,,2026-10-22
+52083129,8,52,Other,Free,,,,,2026-10-22
+52083130,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52083140,8,52,Casement,Free,,,,,2026-10-22
+52083150,8,52,Cambrics (including madapollam and jaconet),Free,,,,,2026-10-22
+52083160,8,52,Mull (including limbric and willaya),Free,,,,,2026-10-22
+52083170,8,52,Muslin (including lawn mulmul and organdy) of carded or combed yarn,Free,,,,,2026-10-22
+52083180,8,52,Voils( excluding leno fabrics),Free,,,,,2026-10-22
+52083190,8,52,Other,Free,,,,,2026-10-22
+520832,6,52,"Dyed : -- Plain weave, weighing more than 100 g/m2",,,,,,2026-10-22
+52083210,8,52,Lungi,Free,,,,,2026-10-22
+52083220,8,52,Saree,Free,,,,,2026-10-22
+52083230,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52083240,8,52,Casement,Free,,,,,2026-10-22
+52083250,8,52,"Bedticking, domestic",Free,,,,,2026-10-22
+52083260,8,52,"Cambrics (including madapollam and jaconet), Longcloth (including calico) and voils (excluding leno fabrics)",Free,,,,,2026-10-22
+52083270,8,52,Coating (including suiting),Free,,,,,2026-10-22
+52083280,8,52,Furnishing fabrics (excluding pile and chenille fabrics),Free,,,,,2026-10-22
+52083290,8,52,Other,Free,,,,,2026-10-22
+520833,6,52,"Dyed : -- 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52083310,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52083320,8,52,Coating (including suiting),Free,,,,,2026-10-22
+52083330,8,52,Shirting (including mazri),Free,,,,,2026-10-22
+52083390,8,52,Other,Free,,,,,2026-10-22
+520839,6,52,Dyed : -- Other fabrics,,,,,,2026-10-22
+52083910,8,52,Zari bordered sarees,Free,,,,,2026-10-22
+52083990,8,52,Other,Free,,,,,2026-10-22
+520841,6,52,"Of yarns of different colours : -- Plain weave, weighing not more than 100 g/m2",,,,,,2026-10-22
+52084110,8,52,Bleeding Madras,Free,,,,,2026-10-22
+52084121,8,52,"Sarees, of Handloom",Free,,,,,2026-10-22
+52084129,8,52,Other,Free,,,,,2026-10-22
+52084130,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52084140,8,52,"Bed ticking, domestic",Free,,,,,2026-10-22
+52084150,8,52,Furnishing fabrics (excluding pile and chenille fabrics),Free,,,,,2026-10-22
+52084190,8,52,Other,Free,,,,,2026-10-22
+520842,6,52,"Of yarns of different colours : -- Plain weave, weighing more than 100 g/m2",,,,,,2026-10-22
+52084210,8,52,Bleeding Madras,Free,,,,,2026-10-22
+52084220,8,52,Saree,Free,,,,,2026-10-22
+52084230,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52084240,8,52,Casement,Free,,,,,2026-10-22
+52084250,8,52,"Bed ticking, domestic",Free,,,,,2026-10-22
+52084260,8,52,"Furnishing fabrics, other than pile and chenille fabrics",Free,,,,,2026-10-22
+52084290,8,52,Other,Free,,,,,2026-10-22
+520843,6,52,"Of yarns of different colours : -- 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52084310,8,52,Bleading Madras,Free,,,,,2026-10-22
+52084320,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52084330,8,52,"Bedticking, damask",Free,,,,,2026-10-22
+52084340,8,52,Flannelette,Free,,,,,2026-10-22
+52084390,8,52,Other,Free,,,,,2026-10-22
+520849,6,52,Of yarns of different colours : -- Other fabrics,,,,,,2026-10-22
+52084910,8,52,Zari bordered sarees,Free,,,,,2026-10-22
+52084921,8,52,"Real Madras handkerchiefs, of Handloom",Free,,,,,2026-10-22
+52084929,8,52,Other,Free,,,,,2026-10-22
+52084990,8,52,Other,Free,,,,,2026-10-22
+520851,6,52,"Printed : -- Plain weave, weighing not more than 100 g/m2",,,,,,2026-10-22
+52085110,8,52,Lungi,Free,,,,,2026-10-22
+52085120,8,52,Saree,Free,,,,,2026-10-22
+52085130,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52085140,8,52,Casement,Free,,,,,2026-10-22
+52085150,8,52,Cambrics (including madapollam and jaconet),Free,,,,,2026-10-22
+52085160,8,52,Mull (including limbric and willaya),Free,,,,,2026-10-22
+52085170,8,52,Muslin (including lawn mulmul and organdi) of carded or combed yarn,Free,,,,,2026-10-22
+52085180,8,52,Voils (excluding leno fabrics),Free,,,,,2026-10-22
+52085190,8,52,Other,Free,,,,,2026-10-22
+520852,6,52,"Printed : -- Plain weave, weighing more than 100 g/m2",,,,,,2026-10-22
+52085210,8,52,Lungi,Free,,,,,2026-10-22
+52085220,8,52,Saree,Free,,,,,2026-10-22
+52085230,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52085240,8,52,Casement,Free,,,,,2026-10-22
+52085250,8,52,Cambrics (including madapollam and jaconet),Free,,,,,2026-10-22
+52085260,8,52,Mull (including limbric and willaya),Free,,,,,2026-10-22
+52085270,8,52,Muslin (including lawn mulmul and organdi) of carded or combed yarn,Free,,,,,2026-10-22
+52085280,8,52,Voils (excluding leno fabrics),Free,,,,,2026-10-22
+52085290,8,52,Other,Free,,,,,2026-10-22
+520859,6,52,Printed : -- Other fabrics,,,,,,2026-10-22
+52085910,8,52,Zari bordered sarees,Free,,,,,2026-10-22
+52085920,8,52,"Zari bordered sarees, of Handloom",Free,,,,,2026-10-22
+52085990,8,52,Other,Free,,,,,2026-10-22
+5209,4,52,"Woven fabrics of cotton, containing 85percent or more by weight of cotton, weighing more than 200 g/m2.",,,,,,2026-10-22
+520911,6,52,Unbleached : -- Plain weave,,,,,,2026-10-22
+52091111,8,52,Handloom: ---- Dhoti,Free,,,,,2026-10-22
+52091112,8,52,Handloom: ---- Saree,Free,,,,,2026-10-22
+52091113,8,52,Handloom: ---- Casement,Free,,,,,2026-10-22
+52091114,8,52,"Handloom: ---- Sheeting (takia, leopardcloth and other than furnishing)",Free,,,,,2026-10-22
+52091119,8,52,Handloom: ---- Other,Free,,,,,2026-10-22
+52091190,8,52,Handloom: ---- Other,Free,,,,,2026-10-22
+520912,6,52,"Unbleached : -- 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52091210,8,52,Saree,Free,,,,,2026-10-22
+52091220,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52091230,8,52,Furnishing fabrics (excluding pile and chenille fabrics),Free,,,,,2026-10-22
+52091240,8,52,Seersucker,Free,,,,,2026-10-22
+52091250,8,52,"Canvas, including duck - carded or combed yarn",Free,,,,,2026-10-22
+52091260,8,52,Flannelette,Free,,,,,2026-10-22
+52091270,8,52,"Shetting (takia, leopart cloth)",Free,,,,,2026-10-22
+52091290,8,52,Other,Free,,,,,2026-10-22
+52091900,8,52,Unbleached : -- Other fabrics,Free,,,,,2026-10-22
+520921,6,52,Bleached : -- Plain weave,,,,,,2026-10-22
+52092110,8,52,Saree,Free,,,,,2026-10-22
+52092120,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52092130,8,52,Furnishing fabrics (excluding pile and chinille fabrics),Free,,,,,2026-10-22
+52092140,8,52,Seersucker,Free,,,,,2026-10-22
+52092150,8,52,Canvas (including duck) of carded or combed yarn,Free,,,,,2026-10-22
+52092160,8,52,Dhoti,Free,,,,,2026-10-22
+52092170,8,52,Flannellete,Free,,,,,2026-10-22
+52092180,8,52,"Sheeting (takia, leopart cloth)",Free,,,,,2026-10-22
+52092190,8,52,Other,Free,,,,,2026-10-22
+520922,6,52,"Bleached : -- 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52092210,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52092220,8,52,Furnishing fabrics (excluding pile and chenille fabrics),Free,,,,,2026-10-22
+52092230,8,52,Drill,Free,,,,,2026-10-22
+52092290,8,52,Other,Free,,,,,2026-10-22
+520929,6,52,Bleached : -- Other fabrics,,,,,,2026-10-22
+52092910,8,52,"Dhoti and saree, zari bordered",Free,,,,,2026-10-22
+52092920,8,52,"Dedsuti, dosuti fabrics, ceretonnes and osamburge",Free,,,,,2026-10-22
+52092990,8,52,Other,Free,,,,,2026-10-22
+520931,6,52,Dyed : -- Plain weave,,,,,,2026-10-22
+52093110,8,52,Lungi,Free,,,,,2026-10-22
+52093120,8,52,Saree,Free,,,,,2026-10-22
+52093130,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52093140,8,52,Furnishing fabrics (excluding pile and chenille fabrics),Free,,,,,2026-10-22
+52093150,8,52,Seersucker,Free,,,,,2026-10-22
+52093160,8,52,"Bedticking, domestic (other than hand dyed)",Free,,,,,2026-10-22
+52093170,8,52,"Canvas (including duck), of carded or combed yarn",Free,,,,,2026-10-22
+52093180,8,52,Flannellete,Free,,,,,2026-10-22
+52093190,8,52,Other,Free,,,,,2026-10-22
+520932,6,52,"Dyed : -- 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52093210,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52093220,8,52,Furnishing fabrics (excluding pile and chenille fabrics),Free,,,,,2026-10-22
+52093230,8,52,Drill,Free,,,,,2026-10-22
+52093290,8,52,Other,Free,,,,,2026-10-22
+520939,6,52,Dyed : -- Other fabrics,,,,,,2026-10-22
+52093910,8,52,Zari bordered sarees,Free,,,,,2026-10-22
+52093990,8,52,Other,Free,,,,,2026-10-22
+520941,6,52,Of yarns of different colours : -- Plain weave,,,,,,2026-10-22
+52094110,8,52,Bleeding Madras,Free,,,,,2026-10-22
+52094120,8,52,Saree,Free,,,,,2026-10-22
+52094130,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52094140,8,52,Furnishing fabrics (excluding pile and chenille fabrics),Free,,,,,2026-10-22
+52094150,8,52,Seersucker,Free,,,,,2026-10-22
+52094160,8,52,"Bedticking, domestic (other than hand dyed)",Free,,,,,2026-10-22
+52094170,8,52,Flannelette,Free,,,,,2026-10-22
+52094190,8,52,Other,Free,,,,,2026-10-22
+52094200,8,52,Of yarns of different colours : -- Denim,Free,,,,,2026-10-22
+520943,6,52,"Of yarns of different colours : -- Other fabrics of 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52094310,8,52,Bleeding Madras,Free,,,,,2026-10-22
+52094320,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52094330,8,52,Furnishing fabrics (excluding pile and chenille fabrics),Free,,,,,2026-10-22
+52094340,8,52,Coating (including suiting),Free,,,,,2026-10-22
+52094390,8,52,Other,Free,,,,,2026-10-22
+520949,6,52,Of yarns of different colours : -- Other fabrics,,,,,,2026-10-22
+52094910,8,52,Zari bordered sari,Free,,,,,2026-10-22
+52094990,8,52,Other,Free,,,,,2026-10-22
+520951,6,52,Printed : -- Plain weave,,,,,,2026-10-22
+52095111,8,52,Lungi of Handloom,Free,,,,,2026-10-22
+52095120,8,52,Saree,Free,,,,,2026-10-22
+52095130,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52095140,8,52,Furnishing fabrics (excluding pile and chenille fabrics),Free,,,,,2026-10-22
+52095150,8,52,Seersucker,Free,,,,,2026-10-22
+52095160,8,52,"Bedticking, domestic",Free,,,,,2026-10-22
+52095170,8,52,Flannelette,Free,,,,,2026-10-22
+52095190,8,52,Other,Free,,,,,2026-10-22
+520952,6,52,"Printed : -- 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52095210,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52095220,8,52,Furnishing fabrics (excluding pile and chenille fabrics),Free,,,,,2026-10-22
+52095290,8,52,Other,Free,,,,,2026-10-22
+520959,6,52,Printed : -- Other fabrics,,,,,,2026-10-22
+52095910,8,52,Zari bordered saree,Free,,,,,2026-10-22
+52095990,8,52,Other,Free,,,,,2026-10-22
+5210,4,52,"Woven fabrics of cotton, containing less than 85percent by weight of cotton, mixed mainly or solely with man-made fibres, weighing not more than 200 g/m2.",,,,,,2026-10-22
+521011,6,52,Unbleached : -- Plain weave,,,,,,2026-10-22
+52101110,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52101120,8,52,Saree,Free,,,,,2026-10-22
+52101190,8,52,Other,Free,,,,,2026-10-22
+52101900,8,52,Unbleached : -- Other fabrics,Free,,,,,2026-10-22
+521021,6,52,Bleached : -- Plain weave,,,,,,2026-10-22
+52102110,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52102120,8,52,Poplin and broad fabrics,Free,,,,,2026-10-22
+52102130,8,52,Saree,Free,,,,,2026-10-22
+52102140,8,52,Shirting (including mazri),Free,,,,,2026-10-22
+52102150,8,52,Voils,Free,,,,,2026-10-22
+52102190,8,52,Other,Free,,,,,2026-10-22
+521029,6,52,Bleached : -- Other fabrics,,,,,,2026-10-22
+52102910,8,52,"Dhoti and saree, zari bordered",Free,,,,,2026-10-22
+52102920,8,52,"Dedsuti, dosuti, ceretonnes and osamburge",Free,,,,,2026-10-22
+52102990,8,52,Other,Free,,,,,2026-10-22
+521031,6,52,Dyed : -- Plain weave,,,,,,2026-10-22
+52103110,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52103120,8,52,Coating (including suitings),Free,,,,,2026-10-22
+52103130,8,52,Furnishing fabrics (excluding pile and chenille fabrics),Free,,,,,2026-10-22
+52103140,8,52,Poplin and broad fabrics,Free,,,,,2026-10-22
+52103150,8,52,Saree,Free,,,,,2026-10-22
+52103160,8,52,Voils,Free,,,,,2026-10-22
+52103190,8,52,Other,Free,,,,,2026-10-22
+521032,6,52,"Dyed : -- 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52103210,8,52,Crepe fabrics including crepe checks,Free,,,,,2026-10-22
+52103220,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52103230,8,52,"Bedticking, damask",Free,,,,,2026-10-22
+52103290,8,52,Other,Free,,,,,2026-10-22
+521039,6,52,Dyed : -- Other fabrics,,,,,,2026-10-22
+52103910,8,52,Zari bordered sarees,Free,,,,,2026-10-22
+52103990,8,52,Other,Free,,,,,2026-10-22
+521041,6,52,Of yarns of different colours : -- Plain weave,,,,,,2026-10-22
+52104110,8,52,Bleeding Madras,Free,,,,,2026-10-22
+52104120,8,52,Crepe fabrics (excluding crepe checks),Free,,,,,2026-10-22
+52104130,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52104140,8,52,Suitings,Free,,,,,2026-10-22
+52104150,8,52,Poplin and broad fabrics,Free,,,,,2026-10-22
+52104160,8,52,Saree,Free,,,,,2026-10-22
+52104170,8,52,Voils,Free,,,,,2026-10-22
+52104190,8,52,Other,Free,,,,,2026-10-22
+521049,6,52,Of yarns of different colours : -- Other fabrics,,,,,,2026-10-22
+52104910,8,52,Zari bordered saree,Free,,,,,2026-10-22
+52104990,8,52,Other,Free,,,,,2026-10-22
+521051,6,52,Printed : -- Plain weave,,,,,,2026-10-22
+52105110,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52105120,8,52,Casement,Free,,,,,2026-10-22
+52105130,8,52,Saree,Free,,,,,2026-10-22
+52105140,8,52,Poplin and broad fabrics,Free,,,,,2026-10-22
+52105150,8,52,Voils,Free,,,,,2026-10-22
+52105190,8,52,Other,Free,,,,,2026-10-22
+521059,6,52,Printed : -- Other fabrics,,,,,,2026-10-22
+52105910,8,52,Zari bordered saree,Free,,,,,2026-10-22
+52105990,8,52,Other,Free,,,,,2026-10-22
+5211,4,52,"Woven fabrics of cotton, containing less than 85percent by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200 g/m2.",,,,,,2026-10-22
+521111,6,52,Unbleached : -- Plain weave,,,,,,2026-10-22
+52111110,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52111120,8,52,Saree,Free,,,,,2026-10-22
+52111190,8,52,Other,Free,,,,,2026-10-22
+521112,6,52,"Unbleached : -- 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52111210,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52111220,8,52,"Twill, not elsewhere specified (including gaberdine)",Free,,,,,2026-10-22
+52111230,8,52,Damask,Free,,,,,2026-10-22
+52111290,8,52,Other,Free,,,,,2026-10-22
+52111900,8,52,Unbleached : -- Other fabrics,Free,,,,,2026-10-22
+521120,6,52,Bleached,,,,,,2026-10-22
+52112010,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52112020,8,52,Canvas (including duck) of carded or combed yarn,Free,,,,,2026-10-22
+52112030,8,52,Flannelette,Free,,,,,2026-10-22
+52112040,8,52,Saree,Free,,,,,2026-10-22
+52112050,8,52,Crepe fabric including Crepe checks,Free,,,,,2026-10-22
+52112060,8,52,Twill fabrics,Free,,,,,2026-10-22
+52112091,8,52,Zari bordered sari,Free,,,,,2026-10-22
+52112092,8,52,"Dedsuti, Dosuti, ceretonnes and osamburge",Free,,,,,2026-10-22
+52112099,8,52,Other,Free,,,,,2026-10-22
+521131,6,52,Dyed : -- Plain weave,,,,,,2026-10-22
+52113110,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52113120,8,52,Canvas (including duck) of carded or combed yarn,Free,,,,,2026-10-22
+52113130,8,52,Coating (including suitings),Free,,,,,2026-10-22
+52113140,8,52,Flannellette,Free,,,,,2026-10-22
+52113150,8,52,Saree,Free,,,,,2026-10-22
+52113190,8,52,Other,Free,,,,,2026-10-22
+521132,6,52,"Dyed : -- 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52113210,8,52,Crepe fabrics including crepe checks,Free,,,,,2026-10-22
+52113220,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52113230,8,52,"Twill, not elsewhere specified (including gaberdine)",Free,,,,,2026-10-22
+52113240,8,52,Trousers or pant fabrics (excluding jeans and crepe),Free,,,,,2026-10-22
+52113290,8,52,Other,Free,,,,,2026-10-22
+521139,6,52,Dyed : -- Other fabrics,,,,,,2026-10-22
+52113910,8,52,Zari bordered sarees,Free,,,,,2026-10-22
+52113990,8,52,Other,Free,,,,,2026-10-22
+521141,6,52,Of yarns of different colours : -- Plain weave,,,,,,2026-10-22
+52114110,8,52,Bleeding Madras,Free,,,,,2026-10-22
+52114120,8,52,Check shirting (excluding crepe checks),Free,,,,,2026-10-22
+52114130,8,52,Shirting,Free,,,,,2026-10-22
+52114140,8,52,Suitings,Free,,,,,2026-10-22
+52114150,8,52,Flannelette,Free,,,,,2026-10-22
+52114160,8,52,Saree,Free,,,,,2026-10-22
+52114170,8,52,Parachute fabrics,Free,,,,,2026-10-22
+52114190,8,52,Other,Free,,,,,2026-10-22
+52114200,8,52,Of yarns of different colours : -- Denim,Free,,,,,2026-10-22
+521143,6,52,"Of yarns of different colours : -- Other fabrics of 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52114310,8,52,Bleeding Madras,Free,,,,,2026-10-22
+52114320,8,52,Crepe fabrics,Free,,,,,2026-10-22
+52114330,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52114340,8,52,Suitings,Free,,,,,2026-10-22
+52114390,8,52,Other,Free,,,,,2026-10-22
+521149,6,52,Of yarns of different colours : -- Other fabrics,,,,,,2026-10-22
+52114910,8,52,Zari bordered sarees,Free,,,,,2026-10-22
+52114990,8,52,Other,Free,,,,,2026-10-22
+521151,6,52,Printed : -- Plain weave,,,,,,2026-10-22
+52115110,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52115120,8,52,Furnishing fabrics (excluding pile and chenille fabrics),Free,,,,,2026-10-22
+52115130,8,52,Flannelette,Free,,,,,2026-10-22
+52115140,8,52,Long cloth (chintz),Free,,,,,2026-10-22
+52115150,8,52,Saree,Free,,,,,2026-10-22
+52115190,8,52,Other,Free,,,,,2026-10-22
+521152,6,52,"Printed : -- 3-thread or 4-thread twill, including cross twill",,,,,,2026-10-22
+52115210,8,52,Crepe fabrics including crepe checks,Free,,,,,2026-10-22
+52115220,8,52,Shirting fabrics,Free,,,,,2026-10-22
+52115230,8,52,"Twill, not elsewhere specified (including gaberdine)",Free,,,,,2026-10-22
+52115290,8,52,Other,Free,,,,,2026-10-22
+521159,6,52,Printed : -- Other fabrics,,,,,,2026-10-22
+52115910,8,52,Zari bordered saree,Free,,,,,2026-10-22
+52115990,8,52,Other,Free,,,,,2026-10-22
+5212,4,52,Other woven fabrics of cotton.,,,,,,2026-10-22
+52121100,8,52,Weighing not more than 200 g/m2 : -- Unbleached,Free,,,,,2026-10-22
+52121200,8,52,Weighing not more than 200 g/m2 : -- Bleached,Free,,,,,2026-10-22
+52121300,8,52,Weighing not more than 200 g/m2 : -- Dyed,Free,,,,,2026-10-22
+52121400,8,52,Weighing not more than 200 g/m2 : -- Of yarns of different colours,Free,,,,,2026-10-22
+52121500,8,52,Printed,Free,,,,,2026-10-22
+52122100,8,52,Weighing more than 200 g/m2 : -- Unbleached,Free,,,,,2026-10-22
+52122200,8,52,Weighing more than 200 g/m2 : -- Bleached,Free,,,,,2026-10-22
+52122300,8,52,Weighing more than 200 g/m2 : -- Dyed,Free,,,,,2026-10-22
+52122400,8,52,Weighing more than 200 g/m2 : -- Of yarns of different colours,Free,,,,,2026-10-22
+52122500,8,52,Weighing more than 200 g/m2 : -- Printed,Free,,,,,2026-10-22

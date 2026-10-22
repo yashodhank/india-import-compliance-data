@@ -1,0 +1,31 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+4301,4,43,"Raw furskins (including heads, tails, paws and other pieces or cuttings, suitable for furriers use), other than raw hides and skins of heading 41.01, 41.02 or 41.03.",,,,,,2026-10-22
+43011000,8,43,"Of mink, whole, with or without head, tail or paws",Free,"Imports are subject to Wildlife (Protection)Act, 1972 and CITES besides Policy condition No. 3 of the Chapter",3,55/2015-2020,2021-01-07,2026-10-22
+43013000,8,43,"Of lamb, the following : Astrakhan, Broadtail, Caracul, Persian and similar lamb, Indian, Chinese, Mongolian or Tibetan lamb, whole, with or without head, tail or paws",Free,"Imports are subject to Wild Life (Protection) act, 1972 (as amended from time to time) and CITES.",,,,2026-10-22
+43016000,8,43,"Of fox, whole, with or without head, tail or paws",Free,"Imports are subject to Wildlife (Protection)Act, 1972 and CITES besides Policy condition No. 3 of the Chapter",3,55/2015-2020,2021-01-07,2026-10-22
+43018000,8,43,"Other furskins, whole, with or without head, tail or paws",Free,"Imports are subject to Wildlife (Protection)Act, 1972 and CITES besides Policy condition No. 3 of the Chapter",3,55/2015-2020,2021-01-07,2026-10-22
+43019000,8,43,"Heads, tails, paws and other pieces or cuttings, suitable for furriers use",Free,"Imports are subject to Wild Life (Protection) act, 1972 (as amended from time to time) and CITES.",,,,2026-10-22
+4302,4,43,"Tanned or dressed furskins (including heads, tails, paws and other pieces or cuttings), unassembled, or assembled (without the addition of other materials) other than those of heading 43.03.",,,,,,2026-10-22
+43021100,8,43,"Whole skins, with or without head, tail or paws, not assembled : -- Of mink",Free,"Imports are subject to Wildlife (Protection) Act, 1972 and CITES besides Policy condition No. 3 of the Chapter",3,55/2015-2020,2021-01-07,2026-10-22
+430219,6,43,"Whole skins, with or without head, tail or paws, not assembled : -- Other",,,,,,2026-10-22
+43021910,8,43,"Calf skins, with hair on, tanned or dressed",Free,,,,,2026-10-22
+43021920,8,43,"Hides or skins of other bovine and equine animals with hair on, tanned or dressed",Free,,,,,2026-10-22
+43021930,8,43,"Goat (Common) and kid skins with hair on, tanned or dressed",Free,,,,,2026-10-22
+43021940,8,43,Tiger-Cat skins,Prohibited,0,,,,2026-10-22
+43021990,8,43,"Hides and skins of other animals with hair on, tanned or dressed",Free,"Imports are subject to Wild Life (Protection) act, 1972 (as amended from time to time) and CITES.",,,,2026-10-22
+43022000,8,43,"Heads, tails, paws and other pieces or cuttings, not assembled",Free,"Imports are subject to Wild Life (Protection) act, 1972 (as amended from time to time) and CITES.",,,,2026-10-22
+43023000,8,43,"Whole skins and pieces or cuttings thereof, assembled",Free,"Imports are subject to Wild Life (Protection) act, 1972 (as amended from time to time) and CITES.",,,,2026-10-22
+4303,4,43,"Articles of apparel, clothing accessories and other articles of furskin.",,,,,,2026-10-22
+430310,6,43,Articles of apparel and clothing accessories,,,,,,2026-10-22
+43031010,8,43,"Articles of apparel and clothing accessories: ---- Of wild animals covered under the Wild Life (Protection) Act,1972",Prohibited,,,,,2026-10-22
+43031020,8,43,"Articles of apparel and clothing accessories: ---- Of animals covered under Convention on International Trade of Endangered Species (CITES), Other than those of Tariff item 43031010",Free,Subject to the provisions of CITES.,,,,2026-10-22
+43031090,8,43,Articles of apparel and clothing accessories: ---- Other,Free,,,,,2026-10-22
+430390,6,43,Other,,,,,,2026-10-22
+43039010,8,43,"Of wild animals covered under the Wild Life (Protection) Act,1972",Prohibited,,,,,2026-10-22
+43039020,8,43,"Of animals covered under Convention on International Trade of Endangered Species (CITES), other than those of item 4303 90 10",Free,Subject to provisions of CITES,,,,2026-10-22
+43039090,8,43,Other,Free,,,,,2026-10-22
+4304,4,43,Artificial fur and articles thereof.,,,,,,2026-10-22
+430400,6,43,Artificial fur and articles thereof:,,,,,,2026-10-22
+43040011,8,43,"Artificial fur as trimmings and embellishments for garments, made ups, knitwear, plastic and leather goods",Free,,,,,2026-10-22
+43040019,8,43,Other,Free,,,,,2026-10-22
+43040020,8,43,Articles of artificial fur,Free,,,,,2026-10-22

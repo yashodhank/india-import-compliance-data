@@ -1,0 +1,31 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+47010000,8,47,Mechanical wood pulp.,Free,,,,,2026-10-22
+470200,6,47,"Chemical wood pulp, dissolving grades.",,,,,,2026-10-22
+47020010,8,47,--- Rayon grade wood pulp,Free,,,24/2026-27,2026-07-22,2026-10-22
+47020090,8,47,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+4703,4,47,"Chemical wood pulp, soda or sulphate, other than dissolving grades.",,,,,,2026-10-22
+47030000,8,47,"Chemical wood pulp, soda or sulphate, other than dissolving grades",,,,,,2026-10-22
+47031100,8,47,Unbleached : -- Coniferous,Free,,,,,2026-10-22
+47031900,8,47,Unbleached : -- Non-coniferous,Free,,,,,2026-10-22
+47032100,8,47,Semi-bleached or bleached : -- Coniferous,Free,,,,,2026-10-22
+47032900,8,47,Semi-bleached or bleached : -- Non-coniferous,Free,,,,,2026-10-22
+4704,4,47,"Chemical wood pulp, sulphite, other than dissolving grades.",,,,,,2026-10-22
+47040000,8,47,"Chemical wood pulp, sulphite, other than dissolving grade",,,,,,2026-10-22
+47041100,8,47,Unbleached : -- Coniferous,Free,,,,,2026-10-22
+47041900,8,47,Unbleached : -- Non-coniferous,Free,,,,,2026-10-22
+47042100,8,47,Semi-bleached or bleached : -- Coniferous,Free,,,,,2026-10-22
+47042900,8,47,Semi-bleached or bleached : -- Non-coniferous,Free,,,,,2026-10-22
+47050000,8,47,Wood pulp obtained by a combination of mechanical and chemical pulping processes.,Free,,,,,2026-10-22
+4706,4,47,Pulps of fibres derived from recovered (waste and scrap) paper or paperboard or of other fibrous cellulosic material.,,,,,,2026-10-22
+47061000,8,47,Cotton linters pulp,Free,,,,,2026-10-22
+47062000,8,47,Pulps of fibres derived from recovered (waste and scrap) paper or,Free,,,,,2026-10-22
+47063000,8,47,"other, of bamboo",Free,,,,,2026-10-22
+47069100,8,47,Other : -- Mechanical,Free,,,,,2026-10-22
+47069200,8,47,Other : -- Chemical,Free,,,,,2026-10-22
+47069300,8,47,Other : -- Obtained by a combination of mechanical and chemical processes,Free,,,,,2026-10-22
+4707,4,47,Recovered (waste and scrap) paper or paperboard.,,,,,,2026-10-22
+47070000,8,47,Waste paper,,,,,,2026-10-22
+47071000,8,47,Unbleached kraft paper or paperboard or corrugated paper or paperboard,Free,,,,,2026-10-22
+47072000,8,47,"Other paper or paperboard made mainly of bleached chemical pulp, not coloured in the mass",Free,,,,,2026-10-22
+47073000,8,47,"Paper or paperboard made mainly of mechanical pulp (for example, newspapers, journals and similar printed matter)",Free,,,,,2026-10-22
+47079000,8,47,"Other, including unsorted waste and scrap",Free,,,,,2026-10-22

@@ -1,0 +1,133 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+7601,4,76,Unwrought aluminium.,,,,,,2026-10-22
+760110,6,76,"Aluminium, not alloyed",,,,,,2026-10-22
+76011010,8,76,Ingots,Free,,,,,2026-10-22
+76011020,8,76,Billets,Free,,,,,2026-10-22
+76011030,8,76,Wire bars,Free,,,,,2026-10-22
+76011040,8,76,Wire rods,Free,,,,,2026-10-22
+76011090,8,76,Other,Free,,,,,2026-10-22
+760120,6,76,Aluminium alloys,,,,,,2026-10-22
+76012010,8,76,Ingots,Free,,,,,2026-10-22
+76012020,8,76,Billets,Free,,,,,2026-10-22
+76012030,8,76,Wire bars,Free,,,,,2026-10-22
+76012040,8,76,Wire rods,Free,,,,,2026-10-22
+76012090,8,76,Other,Free,,,,,2026-10-22
+7602,4,76,Aluminium waste and scrap.,,,,,,2026-10-22
+760200,6,76,Aluminium waste and scrap :,,,,,,2026-10-22
+76020010,8,76,"Aluminium scrap, namely the following: Clean aluminium lithographic sheets covered by ISRI code word Tablet; New, Clean aluminium lithographic sheets covered by ISRI code word Tabloid; Mixed low copper aluminium clippings and solids covered by ISRI code word Taboo; Clean mixed old alloy sheet aluminium covered by ISRI code word Taint/Tabor; New aluminium can stock covered by ISRI code word Take; Old can stock covered by ISRI code word Talc; Shredded aluminium used beverages can (U) scrap covered by ISRI code word Talcred; Densified aluminium used beverages can (UBC) scrap covered by ISRI code word Taldack; Baled aluminium used beverage can (UBC) scrap covered by ISRI code word Taldon; Briquetted aluminium used beverage can (UBC) scrap covered by ISRI code word Taldork; Painted siding covered by ISRI code word Tale; Coated scrap covered by ISRI code word Talent; Aluminium scrap radiators covered by ISRI code word Talk; E.C. aluminium nodules covered by ISRI code word Tall; New pure aluminium wire and cable covered by ISRI code word Talon; New mixed aluminium wire and cable covered by ISRI code word Tann; Old pure aluminium wire and cable covered by ISRI code word Taste; Old mixed aluminium wire and cable covered by ISRI code word Tassel; Aluminium pistons covered by ISRI code word Tarry; Segregated aluminium borings and turnings covered by ISRI code word Teens; Mixed aluminium castings covered by ISRI code word Telic; Mixed aluminium castings covered by ISRI code word Tense; Wrecked airplane sheet aluminium covered by ISRI code word Tepid; New aluminium foil covered by ISRI code word Terse; New aluminium foil covered by ISRI code word Tetra; Old aluminium foil covered by ISRI code word Tesla; Aluminium grindings covered by ISRI code word Thigh; Segregated new aluminium alloy clippings and solids covered by ISRI code word Tooth; Mixed new aluminium alloy clippings and solids covered by ISRI code word Tough; Segregated new aluminium castings, forgings and extrusions covered by ISRI code word Tread; Aluminium auto castings covered by ISRI code word Trump; Insulated aluminium wire scrap covered by ISRI code word Twang; Aluminium airplane castings covered by ISRI code word Twist; Fragmentizer aluminium scrap (from automobile shredder)covered by ISRI code word Twitch; Aluminium auto or truck wheels covered by ISRI code word Troma; Fragmentizer aluminium scrap from automobile shredders covered by ISRI code word Tweak; Burnt fragmentizer aluminium scrap from automobile shredders covered by ISRI code word Twire; Shredded non-ferrous scrap (predominantly aluminium) covered by ISRI code word Zorba; New production aluminium extrusions covered by ISRI code word Tata; All aluminium radiators from automobiles covered by ISRI code word Tally; Aluminium extrusions 10/10 covered by ISRI codeword Toto; Aluminium extrusions dealer grade covered by the word Tutu.",Free,,,,,2026-10-22
+76020090,8,76,Other waste and scrap,Restricted,,,,,2026-10-22
+7603,4,76,Aluminium powders and flakes.,,,,,,2026-10-22
+760310,6,76,Powders of non-lamellar structure,,,,,,2026-10-22
+76031010,8,76,Aluminium powder for thermit process,Free,,,,,2026-10-22
+76031090,8,76,Other,Free,,,,,2026-10-22
+76032000,8,76,Powders of lamellar structure; flakes,Free,,,,,2026-10-22
+7604,4,76,"Aluminium bars, rods and profiles.",,,,,,2026-10-22
+760410,6,76,"Of aluminium, not alloyed",,,,,,2026-10-22
+76041010,8,76,Wire rods,Free,,,,,2026-10-22
+76041020,8,76,"Bars and rods,other than wire rods",Free,,,,,2026-10-22
+76041031,8,76,Profiles: ----Hollow,Free,,,,,2026-10-22
+76041039,8,76,Profiles: ----Other,Free,,,,,2026-10-22
+76042100,8,76,Of aluminium alloys : -- Hollow profiles,Free,,,,,2026-10-22
+760429,6,76,Of aluminium alloys : -- Other,,,,,,2026-10-22
+76042910,8,76,Hard drawn bare aluminium conductors steel re-inforced (A.C.S.R.),Free,,,,,2026-10-22
+76042920,8,76,Wire rods,Free,,,,,2026-10-22
+76042930,8,76,"Bars and rods, other than wire rods",Free,,,,,2026-10-22
+76042990,8,76,Other,Free,,,,,2026-10-22
+7605,4,76,Aluminium wire.,,,,,,2026-10-22
+76051100,8,76,"Of aluminium, not alloyed : -- Of which the maximum cross-sectional dimension exceeds 7 mm",Free,,,,,2026-10-22
+760519,6,76,"Of aluminium, not alloyed : -- Other",,,,,,2026-10-22
+76051910,8,76,Of which the maximum cross-sectional dimension exceeds 6 mm but does not exceed 7 mm,Free,,,,,2026-10-22
+76051991,8,76,Other: ----Hard drawn bare-solid,Free,,,,,2026-10-22
+76051999,8,76,Other: ----Other,Free,,,,,2026-10-22
+76052100,8,76,Of aluminium alloys : -- Of which the maximum cross-sectional dimension exceeds 7 mm,Free,,,,,2026-10-22
+760529,6,76,Of aluminium alloys : -- Other,,,,,,2026-10-22
+76052910,8,76,Of which the maximum cross-sectional dimension exceeds 6 mm but does not exceed 7 mm,Free,,,,,2026-10-22
+76052990,8,76,Other,Free,,,,,2026-10-22
+7606,4,76,"Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm.",,,,,,2026-10-22
+760611,6,76,"Rectangular (including square) : -- Of aluminium, not alloyed",,,,,,2026-10-22
+76061110,8,76,Electrolytic plates or sheets,Free,,,,,2026-10-22
+76061190,8,76,Other,Free,,,,,2026-10-22
+76061200,8,76,Rectangular (including square) : -- Of aluminium alloys,Free,,,,,2026-10-22
+760691,6,76,"Other : -- Of aluminium, not alloyed",,,,,,2026-10-22
+76069110,8,76,Circles,Free,,,,,2026-10-22
+76069120,8,76,Electrolytic plates or sheets,Free,,,,,2026-10-22
+76069190,8,76,Other,Free,,,,,2026-10-22
+760692,6,76,Other : -- Of aluminium alloys,,,,,,2026-10-22
+76069210,8,76,Circles,Free,,,,,2026-10-22
+76069290,8,76,Other,Free,,,,,2026-10-22
+7607,4,76,"Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.2 mm.",,,,,,2026-10-22
+760711,6,76,Not backed : -- Rolled but not further worked,,,,,,2026-10-22
+76071110,8,76,Ordinarily used for tea chest lining,Free,,,,,2026-10-22
+76071190,8,76,Other,Free,,,,,2026-10-22
+760719,6,76,Not backed : -- Other,,,,,,2026-10-22
+76071910,8,76,Ordinarily used for tea chest lining,Free,,,,,2026-10-22
+76071991,8,76,Other: ----Plain,Free,,,,,2026-10-22
+76071992,8,76,Other: ----Embossed,Free,,,,,2026-10-22
+76071993,8,76,Other: ----Perforated or cut-to-shape,Free,,,,,2026-10-22
+76071994,8,76,Other: ----Coated,Free,,,,,2026-10-22
+76071995,8,76,Other: ----Printed,Free,,,,,2026-10-22
+76071999,8,76,Other: ----Other,Free,,,,,2026-10-22
+760720,6,76,Backed,,,,,,2026-10-22
+76072010,8,76,Ordinarily used for tea chest lining,Free,,,,,2026-10-22
+76072090,8,76,Other,Free,,,,,2026-10-22
+7608,4,76,Aluminium tubes and pipes.,,,,,,2026-10-22
+76081000,8,76,"Of aluminium, not alloyed",Free,,,,,2026-10-22
+76082000,8,76,Of aluminium alloys,Free,,,,,2026-10-22
+76090000,8,76,"Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves).",Free,Goods in this heading capable of being used as consumer goods are not allowed to be imported freely. They will be treated as restricted consumer goods.,,,,2026-10-22
+7610,4,76,"Aluminium structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridge-sections, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, balustrades, pillars and columns); aluminium plates, rods, profiles, tubes and the like, prepared for use in structures.",,,,,,2026-10-22
+76101000,8,76,"Doors, windows and their frames and thresholds for doors",Free,,,,,2026-10-22
+761090,6,76,Other,,,,,,2026-10-22
+76109010,8,76,Structures,Free,,,,,2026-10-22
+76109021,8,76,"Parts of structures, not elsewhere specified :---- Portable bridge",Free,.,,40/2024-25,2024-11-26,2026-10-22
+76109029,8,76,"Parts of structures, not elsewhere specified :---- Other",Free,.,,40/2024-25,2024-11-26,2026-10-22
+76109030,8,76,"Aluminium plates, rods, profiles, tubes and the like prepared for use in structure",Free,,,,,2026-10-22
+76109090,8,76,Other,Free,,,,,2026-10-22
+76110000,8,76,"Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment.",Free,,,,,2026-10-22
+7612,4,76,"Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment.",,,,,,2026-10-22
+761210,6,76,Collapsible tubular containers,,,,,,2026-10-22
+76121010,8,76,Plain,Free,,,,,2026-10-22
+76121020,8,76,Lacquered,Free,,,,,2026-10-22
+76121030,8,76,Printed,Free,,,,,2026-10-22
+761290,6,76,Other,,,,,,2026-10-22
+76129010,8,76,Plain,Free,,,,,2026-10-22
+76129020,8,76,Lacquered,Free,,,,,2026-10-22
+76129030,8,76,Printed,Free,,,,,2026-10-22
+76129090,8,76,Other,Free,,,,,2026-10-22
+7613,4,76,Aluminium containers for compressed or liquefied gas.,,,,,,2026-10-22
+761300,6,76,Aluminium containers for compressed or liquefied gas :,,,,,,2026-10-22
+76130011,8,76,Low Pressure Cylinders: ----Plain,Free,,,,,2026-10-22
+76130012,8,76,Low Pressure Cylinders: ----Lacquered,Free,,,,,2026-10-22
+76130013,8,76,Low Pressure Cylinders: ----Printed,Free,,,,,2026-10-22
+76130019,8,76,Low Pressure Cylinders: ----Other,Free,,,,,2026-10-22
+76130021,8,76,High Pressure Cylinders: ----Plain,Free,,,,,2026-10-22
+76130022,8,76,High Pressure Cylinders: ----Lacquered,Free,,,,,2026-10-22
+76130023,8,76,High Pressure Cylinders: ----Printed,Free,,,,,2026-10-22
+76130029,8,76,High Pressure Cylinders: ----Other,Free,,,,,2026-10-22
+76130091,8,76,Other: ----Plain,Free,,,,,2026-10-22
+76130092,8,76,Other: ----Lacquered,Free,,,,,2026-10-22
+76130093,8,76,Other: ----Printed,Free,,,,,2026-10-22
+76130099,8,76,Other: ----Other,Free,,,,,2026-10-22
+7614,4,76,"Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated.",,,,,,2026-10-22
+76141000,8,76,With steel core,Free,,,,,2026-10-22
+76149000,8,76,Other,Free,,,,,2026-10-22
+7615,4,76,"Table, kitchen or other household articles and parts thereof, of aluminium; pot scourers and scouring or polishing pads, gloves and the like, of aluminium; sanitary ware and parts thereof, of aluminium.",,,,,,2026-10-22
+761510,6,76,"Table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",,,,,,2026-10-22
+76151011,8,76,"Pressure cookers, Solar collectors ----Pressure cookers",Free,,,,,2026-10-22
+76151012,8,76,"Pressure cookers, Solar collectors ----Solar collectors",Free,,,,,2026-10-22
+76151021,8,76,Utensils: ----Non-stick,Free,,,,,2026-10-22
+76151029,8,76,Utensils: ----Other,Free,,,,,2026-10-22
+76151030,8,76,"Utensils: ----Other Table, kitchen or other household articles",Free,,,,,2026-10-22
+76151040,8,76,"Utensils: ----Pot scourers and scouring or polishing pads, gloves and the like",Free,,,,,2026-10-22
+76151090,8,76,Utensils: ----Parts,Free,,,,,2026-10-22
+761520,6,76,Sanitary ware and parts thereof,,,,,,2026-10-22
+76152010,8,76,Sanitary ware of aluminium and aluminium alloys for indoor use,Free,,,,,2026-10-22
+76152020,8,76,Parts,Free,,,,,2026-10-22
+76152090,8,76,Other,Free,,,,,2026-10-22
+7616,4,76,Other articles of aluminium.,,,,,,2026-10-22
+76161000,8,76,"Nails, tacks, staples (other than those of heading 83.05), screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers and similar articles",Free,,,,,2026-10-22
+76169100,8,76,"Other : -- Cloth, grill, netting and fencing, of aluminium wire",Free,,,,,2026-10-22
+761699,6,76,Other : -- Other,,,,,,2026-10-22
+76169910,8,76,Expanded metal of aluminium and aluminium alloys,Free,,,,,2026-10-22
+76169920,8,76,Chains,Free,,,,,2026-10-22
+76169930,8,76,Bobbins,Free,,,,,2026-10-22
+76169990,8,76,Other,Free,,,,,2026-10-22

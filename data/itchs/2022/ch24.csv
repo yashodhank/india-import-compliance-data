@@ -1,0 +1,64 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+2401,4,24,Unmanufactured tobacco; tobacco refuse.,,,,,,2026-10-22
+240110,6,24,"Tobacco, not stemmed/stripped",,,,,,2026-10-22
+24011010,8,24,Flue cured virginia tobacco,Free,,,,,2026-10-22
+24011020,8,24,Sun cured country (natu) tobacco,Free,,,,,2026-10-22
+24011030,8,24,Sun cured virginia tobacco,Free,,,,,2026-10-22
+24011040,8,24,Burley tobacco,Free,,,,,2026-10-22
+24011050,8,24,"Tobacco for manufacture of biris, not stemmed",Free,,,,,2026-10-22
+24011060,8,24,Tobacco for manufacture of chewing tobacco,Free,,,,,2026-10-22
+24011070,8,24,Tobacco for manufacture of cigar and cheroot,Free,,,,,2026-10-22
+24011080,8,24,Tobacco for manufacture of hookah tobacco,Free,,,,,2026-10-22
+24011090,8,24,Other,Free,,,,,2026-10-22
+240120,6,24,"Tobacco, partly or wholly stemmed/stripped",,,,,,2026-10-22
+24012010,8,24,Flue cured virginia tobacco,Free,,,,,2026-10-22
+24012020,8,24,Sun cured country (natu) tobacco,Free,,,,,2026-10-22
+24012030,8,24,Sun cured virginia tobacco,Free,,,,,2026-10-22
+24012040,8,24,Burley tobacco,Free,,,,,2026-10-22
+24012050,8,24,Tobacco for manufacture of biris,Free,,,,,2026-10-22
+24012060,8,24,Tobacco for manufacture of chewing tobacco,Free,,,,,2026-10-22
+24012070,8,24,Tobacco for manufacture of cigar and cheroot,Free,,,,,2026-10-22
+24012080,8,24,Tobacco for manufacture of hookah tobacco,Free,,,,,2026-10-22
+24012090,8,24,Other,Free,,,,,2026-10-22
+24013000,8,24,Tobacco refuse,Free,,,,,2026-10-22
+2402,4,24,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",,,,,,2026-10-22
+240210,6,24,"Cigars, cheroots and cigarillos, containing tobacco",,,,,,2026-10-22
+24021010,8,24,Cigar and cheroots,Free,,,,,2026-10-22
+24021020,8,24,Cigarillos,Free,,,,,2026-10-22
+240220,6,24,Cigarettes containing tobacco,,,,,,2026-10-22
+24022010,8,24,"Other than filter cigarettes, of length not exceeding 65 millimetres",Free,,,,,2026-10-22
+24022020,8,24,"Other than filter cigarettes, of length exceeding 65 millimetres but not exceeding 70 millimetres",Free,,,,,2026-10-22
+24022030,8,24,"Filter cigarettes of length (including the length of the filter, the length of filter being 11 millimetres or its actual length, whichever is more) not exceeding 65 millimetres",Free,,,,,2026-10-22
+24022040,8,24,"Filter cigarettes of length (including the length of the filter, the length of filter being 11 millimetres or its actual length, whichever is more) exceeding 65 millimetres not exceeding 70 millimetres",Free,,,,,2026-10-22
+24022050,8,24,"Filter cigarettes of length (including the length of the filter, the length of filter being 11 millimetres or its actual length, whichever is more) exceeding 75 millimetres but not exceeding 85 millimetres",Free,,,,,2026-10-22
+24022090,8,24,Other,Free,,,,,2026-10-22
+240290,6,24,Other,,,,,,2026-10-22
+24029010,8,24,Cigarettes of tobacco substitutes,Free,,,,,2026-10-22
+24029020,8,24,Cigarillos of tobacco substitutes,Free,,,,,2026-10-22
+24029090,8,24,Other,Free,,,,,2026-10-22
+2403,4,24,Other manufactured tobacco and manufactured tobacco substitutes; homogenised or reconstituted tobacco; tobacco extracts and essences.,,,,,,2026-10-22
+240311,6,24,"Smoking tobacco, whether or not containing tobacco substitutes in any proporation -- Water pipe tobacco specified in Subheading Note 1 to this chapter",,,,,,2026-10-22
+24031110,8,24,Hookah or gudaku tobacco,Free,,,,,2026-10-22
+24031190,8,24,Other,Free,,,,,2026-10-22
+240319,6,24,"Smoking tobacco, whether or not containing tobacco substitutes in any proporation -- Other",,,,,,2026-10-22
+24031910,8,24,Smoking mixtures for pipes and cigarettes,Free,,,,,2026-10-22
+24031921,8,24,"Biris:---- Other than paper rolled biris, manufactured without the aid of machine",Free,,,,,2026-10-22
+24031929,8,24,Biris:---- Other,Free,,,,,2026-10-22
+24031990,8,24,Other,Free,,,,,2026-10-22
+24039100,8,24,Other : -- Homogenised or reconstituted tobacco,Free,,,,,2026-10-22
+240399,6,24,Other : -- Other,,,,,,2026-10-22
+24039910,8,24,Chewing tobacco,Free,,,,,2026-10-22
+24039920,8,24,Preparations containing chewing tobacco,Free,,,,,2026-10-22
+24039930,8,24,Jarda scented tobacco,Free,,,,,2026-10-22
+24039940,8,24,Snuff,Free,,,,,2026-10-22
+24039950,8,24,Preparations containing snuff,Free,,,,,2026-10-22
+24039960,8,24,Tobacco extracts and essence,Free,,,,,2026-10-22
+24039970,8,24,Cut-tobacco,Free,,,,,2026-10-22
+24039990,8,24,Other,Free,,,,,2026-10-22
+2404,4,24,"PRODUCTS CONTAINING TOBACCO, RECONSTITUTED TOBACCO, NICOTINE, OR TOBACCO OR NICOTINE SUBSTITUTES, INTENDED FOR INHALATION WITHOUT COMBUSTION; OTHER NICOTINE CONTAINING PRODUCTS INTENDED FOR THE INTAKE OF NICOTINE INTO THE HUMAN BODY",,,,,,2026-10-22
+24041100,8,24,Products intended for inhalation without combustion:-- Containing tobacco or reconstituted tobacco,Prohibited,"Import of electronic cigarettes (e-cigarettes) or any parts or components therof such as refill pods, atomisers, cartridges etc, including all forms of Electronic Nicotine Delivery Systems, Heat Not Burn Products, e-Hookah and the like devices by whatever name and shape, size or form it may have, but does not include any products licensed under the Drugs and Cosmetics Act, 1940 is Prohibited in accordance with the Prohibition of Electronic Cigarettes' (Production, Manufacture, Import, Exports, Transport, Sale, Distribution, Storage and Advertisement) Act, 2019",,54/2015-2020,2022-02-09,2026-10-22
+24041200,8,24,"Products intended for inhalation without combustion:-- Other, containing nicotine",Prohibited,"Import of electronic cigarettes (e-cigarettes) or any parts or components thereof such as refill pods, atomisers, cartridges etc, including all forms of Electronic Nicotine Delivery Systems, Heat Not Burn Products, e-Hookah and the like devices by whatever name and shape, size or form it may have, but does not include any products licensed under the Drugs and Cosmetics Act, 1940 is Prohibited in accordance with the Prohibition of Electronic Cigarettes' (Production, Manufacture, Import, Exports, Transport, Sale, Distribution, Storage and Advertisement) Act, 2019",,54/2015-2020,2022-02-09,2026-10-22
+24041900,8,24,Products intended for inhalation without combustion:-- Other,Prohibited,"Import of electronic cigarettes (e-cigarettes) or any parts or components thereof such as refill pods, atomisers, cartridges etc, including all forms of Electronic Nicotine Delivery Systems, Heat Not Burn Products, e-Hookah and the like devices by whatever name and shape, size or form it may have, but does not include any products licensed under the Drugs and Cosmetics Act, 1940 is Prohibited in accordance with the Prohibition of Electronic Cigarettes' (Production, Manufacture, Import, Exports, Transport, Sale, Distribution, Storage and Advertisement) Act, 2019",,54/2015-2020,2022-02-09,2026-10-22
+24049100,8,24,Other:- - For oral application,Free,,,54/2015-2020,2022-02-09,2026-10-22
+24049200,8,24,Other:- - For transdermal application,Free,,,54/2015-2020,2022-02-09,2026-10-22
+24049900,8,24,Other:- - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22

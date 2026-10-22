@@ -1,0 +1,317 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+4401,4,44,"Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms.",,,,,,2026-10-22
+44011000,8,44,Coniferous,,,,,,2026-10-22
+440111,6,44,"Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms : -- Coniferous",,,,,,2026-10-22
+44011110,8,44,In logs,Free,,,,,2026-10-22
+44011190,8,44,Other,Free,,,,,2026-10-22
+440112,6,44,"Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms : -- Non-coniferous",,,,,,2026-10-22
+44011210,8,44,In logs,Free,,,,,2026-10-22
+44011290,8,44,Other,Free,,,,,2026-10-22
+44012100,8,44,Wood in chips or particles : -- Coniferous,Free,,,,,2026-10-22
+44012200,8,44,Wood in chips or particles:-- Non-coniferous,Free,,,,,2026-10-22
+44013100,8,44,"Sawdust and wood waste and scrap, agglomerated in logs, briquettes, pellets or similar forms : -- Wood pellets",Free,,,,,2026-10-22
+44013200,8,44,Wood briquettes,Free,Free,,54/2015-2020,2022-02-09,2026-10-22
+44013900,8,44,"Sawdust and wood waste and scrap, agglomerated in logs, briquettes, pellets or similar forms : -- Other",Free,,,,,2026-10-22
+44014100,8,44,"Sawdust and wood waste and scrap, not agglomerated: - - Sawdust",Free,,,54/2015-2020,2022-02-09,2026-10-22
+44014900,8,44,"Sawdust and wood waste and scrap, not agglomerated:",Free,,,54/2015-2020,2022-02-09,2026-10-22
+4402,4,44,"Wood charcoal (including shell or nut charcoal), whether or not agglomerated.",,,,,,2026-10-22
+44021000,8,44,Of bamboo,Free,,,,,2026-10-22
+440220,6,44,Of shell or nut:,,,,,,2026-10-22
+44022010,8,44,Of coconut shell,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44022090,8,44,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+4403,4,44,"Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared.",,,,,,2026-10-22
+44031100,8,44,"Treated with paint, stains, creosote or other preservatives : -- Coniferous",Free,,,,,2026-10-22
+44031200,8,44,"Treated with paint, stains, creosote or other preservatives : -- Non-coniferous",Free,,,,,2026-10-22
+440321,6,44,"Other, coniferous : - - Of pine (Pinus spp.), of which the smallest cross-sectional dimension is 15 cm or more:",,,,,,2026-10-22
+44032110,8,44,Saw logs and veneer logs,Free,,,,,2026-10-22
+44032120,8,44,"Poles, pilings and posts",Free,,,,,2026-10-22
+44032190,8,44,Other,Free,,,,,2026-10-22
+440322,6,44,"Other, coniferous : -- Of pine (Pinus spp.), other",,,,,,2026-10-22
+44032210,8,44,Saw logs and veneer logs,Free,,,,,2026-10-22
+44032220,8,44,"Poles, pilings and posts",Free,,,,,2026-10-22
+44032290,8,44,Other,Free,,,,,2026-10-22
+440323,6,44,"Of fir (Abies spp.) and spruce (Picea spp.), of which the smallest cross- sectional dimension is 15 cm or more:",,,,,,2026-10-22
+44032310,8,44,Saw logs and veneer logs,Free,,,,,2026-10-22
+44032320,8,44,"Poles, pilings and posts",Free,,,,,2026-10-22
+44032390,8,44,Other,Free,,,,,2026-10-22
+440324,6,44,"Other, coniferous : -- Of fir (Abies spp.) and spruce (Picea spp.), other",,,,,,2026-10-22
+44032410,8,44,Saw logs and veneer logs,Free,,,,,2026-10-22
+44032420,8,44,"Poles, pilings and posts",Free,,,,,2026-10-22
+44032490,8,44,Other,Free,,,,,2026-10-22
+440325,6,44,"Other, of which the smallest cross-sectional dimension is 15 cm or more:",,,,,,2026-10-22
+44032510,8,44,Saw logs and veneer logs,Free,,,,,2026-10-22
+44032520,8,44,"Poles, pilings and posts",Free,,,,,2026-10-22
+44032590,8,44,Other,Free,,,,,2026-10-22
+440326,6,44,"Other, coniferous : -- Other",,,,,,2026-10-22
+44032610,8,44,Saw logs and veneer logs,Free,,,,,2026-10-22
+44032620,8,44,"Poles, pilings and posts",Free,,,,,2026-10-22
+44032690,8,44,Other,Free,,,,,2026-10-22
+44034100,8,44,"Other, of tropical wood : -- Dark Red Meranti, Light Red Meranti and Meranti Bakau",Free,,,,,2026-10-22
+44034200,8,44,Teak,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44034900,8,44,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44039100,8,44,Other : -- Of oak (Quercus spp.),Free,,,,,2026-10-22
+44039300,8,44,"Other:- - Of beech (Fagus spp.), of which the smallest cross-sectional dimension is 15 cm or more",Free,,,,,2026-10-22
+44039400,8,44,"Other : -- Of beech (Fagus spp.), other",Free,,,,,2026-10-22
+44039500,8,44,"Other:--Of birch (Betula spp.), of which the smallest cross-sectional dimension is 15 cm or more",Free,,,,,2026-10-22
+44039600,8,44,"Other : -- Of birch (Betula spp.), other",Free,,,,,2026-10-22
+44039700,8,44,Other : -- Of poplar and aspen (Populus spp.),Free,,,,,2026-10-22
+44039800,8,44,Other : -- Of eucalyptus (Eucalyptus spp.),Free,,,,,2026-10-22
+440399,6,44,Other : -- Other,,,,,,2026-10-22
+44039911,8,44,Andaman Padauk (Pterocarous dalbaergiodes),Free,,,,,2026-10-22
+44039912,8,44,Bonsum (Phoebe goalparensis),Free,,,,,2026-10-22
+44039913,8,44,Gurgan (Dipterocarpus alatus),Free,,,,,2026-10-22
+44039914,8,44,Khair (Acacia Catechu),Free,,,,,2026-10-22
+44039915,8,44,Lampati (Duabanga grandiflora),Free,,,,,2026-10-22
+44039916,8,44,Laurel (Terminalia alata),Free,,,,,2026-10-22
+44039917,8,44,Paliwood (Palaquium Elliplicum),Free,,,,,2026-10-22
+44039918,8,44,Red Sanders (Pterocar pus Sautatinus),Prohibited,,,17/2015-2020,2017-08-01,2026-10-22
+44039919,8,44,Rose Wood (Dalbergea Latifolio),Free,,,,,2026-10-22
+44039921,8,44,"Sal (Chorea robusta, Sandalwood (Santalum album), Semul (Bombax ceiba), Walnut wood (Juglans binata), Anjam (Hardwickiabinata), Sisso (Dalbergia sisso) and White cedar (Dysozylum spp.) and the like: ---- Sal (Chorea robusta)",Free,,,,,2026-10-22
+44039922,8,44,"Sal (Chorea robusta, Sandalwood (Santalum album), Semul (Bombax ceiba), Walnut wood (Juglans binata), Anjam (Hardwickiabinata), Sisso (Dalbergia sisso) and White cedar (Dysozylum spp.) and the like: ---- Sandal wood (Santalum albur)",Restricted,Import subject to Policy Condition 2 of Chapter 44.,2,,,2026-10-22
+44039923,8,44,"Sal (Chorea robusta, Sandalwood (Santalum album), Semul (Bombax ceiba), Walnut wood (Juglans binata), Anjam (Hardwickiabinata), Sisso (Dalbergia sisso) and White cedar (Dysozylum spp.) and the like: ---- Semul (Bombax ceiba)",Free,,,,,2026-10-22
+44039924,8,44,"Sal (Chorea robusta, Sandalwood (Santalum album), Semul (Bombax ceiba), Walnut wood (Juglans binata), Anjam (Hardwickiabinata), Sisso (Dalbergia sisso) and White cedar (Dysozylum spp.) and the like: ---- Walnut wood (Juglans binata)",Free,,,,,2026-10-22
+44039925,8,44,"Sal (Chorea robusta, Sandalwood (Santalum album), Semul (Bombax ceiba), Walnut wood (Juglans binata), Anjam (Hardwickiabinata), Sisso (Dalbergia sisso) and White cedar (Dysozylum spp.) and the like: ---- Anjam (Hardwickia binata)",Free,,,,,2026-10-22
+44039927,8,44,"Sal (Chorea robusta, Sandalwood (Santalum album), Semul (Bombax ceiba), Walnut wood (Juglans binata), Anjam (Hardwickiabinata), Sisso (Dalbergia sisso) and White cedar (Dysozylum spp.) and the like: ---- Sissoo (Dalbergia sisso)",Free,,,,,2026-10-22
+44039928,8,44,"Sal (Chorea robusta, Sandalwood (Santalum album), Semul (Bombax ceiba), Walnut wood (Juglans binata), Anjam (Hardwickiabinata), Sisso (Dalbergia sisso) and White cedar (Dysozylum spp.) and the like: ---- White cedar [Dysozylum malabaricum]",Free,,,,,2026-10-22
+44039990,8,44,"Sal (Chorea robusta, Sandalwood (Santalum album), Semul (Bombax ceiba), Walnut wood (Juglans binata), Anjam (Hardwickiabinata), Sisso (Dalbergia sisso) and White cedar (Dysozylum spp.) and the like: ---- Other",Free,,,,,2026-10-22
+4404,4,44,"Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walking-sticks, umbrellas, tool handles or the like; chipwood and the like.",,,,,,2026-10-22
+44041000,8,44,Coniferous,Free,,,,,2026-10-22
+440420,6,44,Non-coniferous,,,,,,2026-10-22
+44042010,8,44,"Wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walking sticks, tool handles, split poles, piles, pickets, stakes and the like",Free,,,,,2026-10-22
+44042020,8,44,Drawn Wood,Free,,,,,2026-10-22
+44042090,8,44,Other,Free,,,,,2026-10-22
+44050000,8,44,Wood wool; wood flour.,Free,,,,,2026-10-22
+4406,4,44,Railway or tramway sleepers (cross-ties) of wood.,,,,,,2026-10-22
+44061100,8,44,Not impregnated : -- Coniferous,Free,,,,,2026-10-22
+44061200,8,44,Not impregnated : -- Non-coniferous,Free,,,,,2026-10-22
+44069100,8,44,Other : -- Coniferous,Free,,,,,2026-10-22
+44069200,8,44,Other : -- Non-coniferous,Free,,,,,2026-10-22
+4407,4,44,"Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm.",,,,,,2026-10-22
+44071100,8,44,Coniferous : -- Of pine (Pinus spp),Free,,,,,2026-10-22
+44071200,8,44,Coniferous : -- Of fir (Abies spp) and spruce Picea spp),Free,,,,,2026-10-22
+44071300,8,44,"Of S-P-F (spruce (Picea spp.), pine (Pinus spp.) and fir (Abies spp.))",Free,,,54/2015-2020,2022-02-09,2026-10-22
+44071400,8,44,Of Hem-fir (Western hemlock (Tsugaheterophylla) and fir (Abies spp.)),Free,,,54/2015-2020,2022-02-09,2026-10-22
+440719,6,44,Coniferous : -- Other,,,,,,2026-10-22
+44071910,8,44,Douglas fir (Pseudotsuga menziesii),Free,,,,,2026-10-22
+44071990,8,44,Other,Free,,,,,2026-10-22
+44072100,8,44,Of tropical wood : -- Mahogany (Swietenia spp),Free,,,,,2026-10-22
+44072200,8,44,"Of tropical wood : -- Virola, Imbuia and Balsa",Free,,,,,2026-10-22
+44072300,8,44,Teak,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44072500,8,44,"Of tropical wood : -- Dark Red Meranti, Light Red Meranti and Meranti Bakau",Free,,,,,2026-10-22
+44072600,8,44,"Of tropical wood : -- White Lauan, White Meranti, White Seraya, Yellow Meranti and Alan",Free,,,,,2026-10-22
+44072700,8,44,Of tropical wood : -- Sapelli,Free,,,,,2026-10-22
+44072800,8,44,Of tropical wood : -- Iroko,Free,,,,,2026-10-22
+44072900,8,44,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44079100,8,44,Other : -- Of oak (Quercus spp.),Free,,,,,2026-10-22
+44079200,8,44,Other : -- Of beech (Fagus spp.),Free,,,,,2026-10-22
+44079300,8,44,Other : -- Of maple (Acer spp.),Free,,,,,2026-10-22
+44079400,8,44,Other : -- Of cherry (Prunus spp),Free,,,,,2026-10-22
+44079500,8,44,Other : -- Of ash (Fraxinus spp.),Free,,,,,2026-10-22
+44079600,8,44,Other : -- Of birch (Betula spp.),Free,,,,,2026-10-22
+44079700,8,44,Other : -- Of poplar and aspen (Populus spp.),Free,,,,,2026-10-22
+440799,6,44,Other : -- Other,,,,,,2026-10-22
+44079920,8,44,Willow,Free,,,,,2026-10-22
+44079990,8,44,Other,Free,,,,,2026-10-22
+4408,4,44,"Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness not exceeding 6 mm.",,,,,,2026-10-22
+440810,6,44,Coniferous,,,,,,2026-10-22
+44081010,8,44,Sheets for plywood,Free,,,,,2026-10-22
+44081020,8,44,Oak wood veneer,Free,,,,,2026-10-22
+44081030,8,44,"Veneer sheets, for match boxes and match splints",Free,,,,,2026-10-22
+44081090,8,44,Other,Free,,,,,2026-10-22
+440831,6,44,"Of tropical wood : -- Dark Red Meranti, Light Red Meranti and Meranti Bakau",,,,,,2026-10-22
+44083110,8,44,Sheets for plywood,Free,,,,,2026-10-22
+44083120,8,44,Veneer sheets (of Rose Wood),Free,,,,,2026-10-22
+44083130,8,44,"Veneer sheets, for match boxes and match splints",Free,,,,,2026-10-22
+44083190,8,44,Other,Free,,,,,2026-10-22
+440839,6,44,Of tropical wood : -- Other,,,,,,2026-10-22
+44083910,8,44,Sheets for plywoods,Free,,,,,2026-10-22
+44083920,8,44,Veneer sheets (of rose wood),Free,,,,,2026-10-22
+44083930,8,44,"Veneer sheets, for match boxes and match splints",Free,,,,,2026-10-22
+44083990,8,44,Other,Free,,,,,2026-10-22
+440890,6,44,Other,,,,,,2026-10-22
+44089010,8,44,Sheets for plywoods,Free,,,,,2026-10-22
+44089020,8,44,"Veneer sheets, for match boxes and match splints",Free,,,,,2026-10-22
+44089090,8,44,Other,Free,,,,,2026-10-22
+4409,4,44,"Wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, V-jointed, beaded, moulded, rounded or the like) along any of its edges, ends or faces, whether or not planed, sanded or end-jointed.",,,,,,2026-10-22
+44090000,8,44,"Wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, v-jointed, beaded, moulded, rounded or the like) along any of its edges or faces, whether or not planed, sanded or end-jointed",,,,,,2026-10-22
+440910,6,44,Coniferous,,,,,,2026-10-22
+44091010,8,44,"Planned, Tongued, grooved, Rebated, Chamfered, V-jointed, and the like but not further moulded",Free,,,,,2026-10-22
+44091020,8,44,"Beadings, and mouldings (including moulded, skirting and other moulded boards)",Free,,,,,2026-10-22
+44091090,8,44,Other,Free,,,,,2026-10-22
+44092100,8,44,Non-coniferous : -- Of bamboo,Free,,,,,2026-10-22
+44092200,8,44,Non-coniferous : -- Of tropical wood,Free,,,,,2026-10-22
+440929,6,44,Non-coniferous : -- Other,,,,,,2026-10-22
+44092910,8,44,"Planed, tongued, grooved, rebated, chamfered, V-jointed, and the like but not further moulded",Free,,,,,2026-10-22
+44092920,8,44,Beadings and Mouldings (including moulded skirting and other moulded boards),Free,,,,,2026-10-22
+44092990,8,44,Other,Free,,,,,2026-10-22
+4410,4,44,"Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances.",,,,,,2026-10-22
+441011,6,44,Of wood : -- Particle board,,,,,,2026-10-22
+44101110,8,44,Plain particle boards,Free,,,,,2026-10-22
+44101120,8,44,Insulation board and hard board,Free,,,,,2026-10-22
+44101130,8,44,"Veneered particle board, not having decorative veneers on any face",Free,,,,,2026-10-22
+44101190,8,44,Others,Free,,,,,2026-10-22
+441012,6,44,Of wood : -- Oriented strand board (OSB),,,,,,2026-10-22
+44101210,8,44,Unworked or not further worked than sanded,Free,,,,,2026-10-22
+44101290,8,44,Other,Free,,,,,2026-10-22
+44101900,8,44,Of wood : -- Other,Free,,,,,2026-10-22
+441090,6,44,Other,,,,,,2026-10-22
+44109010,8,44,Plain particle board,Free,,,,,2026-10-22
+44109020,8,44,Insulation board and hard board,Free,,,,,2026-10-22
+44109030,8,44,"Veneered particle board, not having decorative veneers on any face",Free,,,,,2026-10-22
+44109040,8,44,of Coir,Free,,,,,2026-10-22
+44109050,8,44,of jute fibre,Free,,,,,2026-10-22
+44109090,8,44,Other,Free,,,,,2026-10-22
+4411,4,44,"Fibreboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances.",,,,,,2026-10-22
+44111200,8,44,Medium density fibreboard (MDF) : -- Of a thickness not exceeding 5 mm,Free,,,,,2026-10-22
+44111300,8,44,Medium density fibreboard (MDF) : -- Of a thickness exceeding 5 mm but not exceeding 9 mm,Free,,,,,2026-10-22
+44111400,8,44,Medium density fibreboard (MDF) : -- Of a thickness exceeding 9 mm,Free,,,,,2026-10-22
+441192,6,44,Other : -- Of a density exceeding 08 g/cm³,,,,,,2026-10-22
+44119211,8,44,Not mechanically worked or surface covered: ---- Hard board,Free,,,,,2026-10-22
+44119219,8,44,Not mechanically worked or surface covered: ---- Other,Free,,,,,2026-10-22
+44119221,8,44,Other: ---- Hardboard,Free,,,,,2026-10-22
+44119229,8,44,Other: ---- Other,Free,,,,,2026-10-22
+441193,6,44,Other : -- Of a density exceeding 05 g/cm³ but not exceeding 08 g/cm³,,,,,,2026-10-22
+44119311,8,44,Not mechanically worked or surface covered: ---- Insulation Board,Free,,,,,2026-10-22
+44119319,8,44,Not mechanically worked or surface covered: ---- Other,Free,,,,,2026-10-22
+44119321,8,44,Other: ---- Insulation board,Free,,,,,2026-10-22
+44119329,8,44,Other: ---- Other,Free,,,,,2026-10-22
+441194,6,44,Other : -- Of a density not exceeding 05 g/cm³,,,,,,2026-10-22
+44119411,8,44,Insulation board,Free,,,,,2026-10-22
+44119419,8,44,Other,Free,,,,,2026-10-22
+44119421,8,44,Other: ---- Insulation board,Free,,,,,2026-10-22
+44119422,8,44,Other: ---- Of Coir,Free,,,,,2026-10-22
+44119423,8,44,of jute fibre,Free,,,,,2026-10-22
+44119429,8,44,Other: ---- Other,Free,,,,,2026-10-22
+4412,4,44,"Plywood, veneered panels and similar laminated wood.",,,,,,2026-10-22
+44121000,8,44,Of bamboo,Free,,,,,2026-10-22
+441231,6,44,"Other plywood, consisting solely of sheets of wood (other than bamboo), each ply not exceeding 6 mm thickness : -- With at least one outer ply of tropical wood",,,,,,2026-10-22
+44123110,8,44,Decorative plywood,Free,,,,,2026-10-22
+44123120,8,44,"Tea chest panels or shooks, packed in sets",Free,,,,,2026-10-22
+44123130,8,44,Other tea chest panels,Free,,,,,2026-10-22
+44123140,8,44,Marine and aircraft plywood,Free,,,,,2026-10-22
+44123150,8,44,Cuttings and trimmings of plywood of width not exceeding 5 cm,Free,,,,,2026-10-22
+44123190,8,44,Other,Free,,,,,2026-10-22
+441233,6,44,"Other plywood, consisting solely of sheets of wood (other than bamboo), each ply not exceeding 6 mm thickness : -- Other, with at least one outer ply of non-coniferous wood of the species alder (Alnus spp.), ash (Fraxinus spp.), beech (Fagus spp.), birch (Betula spp.), cherry (Prunus spp.), chestnut (Castanea spp.), elm (Ulmus spp.), eucalyptus (Eucalyptus spp.), hickory (Carya spp.), horse chestnut (Aesculus spp.), lime (Tilia spp.), maple (Acer spp.), oak (Quercus spp.), plane tree (Platanus spp.), poplar and aspen (Populus spp.), robinia (Robinia spp.), tulipwood (Liriodendron spp.) or walnut (Juglans spp.)",,,,,,2026-10-22
+44123310,8,44,Decorative plywood,Free,,,,,2026-10-22
+44123320,8,44,"Tea chest panels, shooks whether or not packed in sets",Free,,,,,2026-10-22
+44123330,8,44,Marine and aircraft plywood,Free,,,,,2026-10-22
+44123340,8,44,Cutting and trimmings of plywood of width not exceeding 5 cm,Free,,,,,2026-10-22
+44123390,8,44,Other,Free,,,,,2026-10-22
+441234,6,44,"Other, with at least one outer ply of non-coniferous wood not specified under subheading 441233 -- Other, with at least one outer ply of non-coniferous wood not specified under subheading 4412.33",,,,,,2026-10-22
+44123410,8,44,Decorative plywood,Free,,,,,2026-10-22
+44123420,8,44,"Tea chest panels, shooks whether or not packed in sets",Free,,,,,2026-10-22
+44123430,8,44,Marine and aircraft plywood,Free,,,,,2026-10-22
+44123440,8,44,Cutting and trimmings of plywood of width not exceeding 5 cm,Free,,,,,2026-10-22
+44123490,8,44,Other,Free,,,,,2026-10-22
+441239,6,44,"Other, with at least one outer ply of non-coniferous wood not specified under subheading 441233 -- Other, with both outer plies of coniferous wood",,,,,,2026-10-22
+44123910,8,44,Decorative plywood,Free,,,,,2026-10-22
+44123920,8,44,"Tea chest panels, shooks whether or not packed in sets",Free,,,,,2026-10-22
+44123930,8,44,Marine and aircraft plywood,Free,,,,,2026-10-22
+44123940,8,44,Cutting and trimmings of plywood of width not exceeding 5 cm,Free,,,,,2026-10-22
+44123990,8,44,Other,Free,,,,,2026-10-22
+44124100,8,44,With at least one outer ply of tropical wood,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44124200,8,44,"Other, with at least one outer ply of non-coniferous wood",Free,,,54/2015-2020,2022-02-09,2026-10-22
+44124900,8,44,"Other, With both outer plies Of coniferous Wood",Free,,,54/2015-2020,2022-02-09,2026-10-22
+44125100,8,44,"Blockboard, laminboard and battenboard: - - With at least one outer ply of tropical wood",Free,,,54/2015-2020,2022-02-09,2026-10-22
+44125200,8,44,"Blockboard, laminboard and battenboard: - - Other, with at least one outer ply of non-coniferous wood",Free,,,54/2015-2020,2022-02-09,2026-10-22
+44125900,8,44,"Blockboard, laminboard and battenboard: - - Other, with both outer plies of coniferous wood",Free,,,54/2015-2020,2022-02-09,2026-10-22
+441291,6,44,Other: - - With at least one outer ply of tropical wood:,,,,,,2026-10-22
+44129110,8,44,Other: - - - Decorative plywood,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44129120,8,44,"Other: - - - Tea chest panel or shooks, packed in sets",Free,,,54/2015-2020,2022-02-09,2026-10-22
+44129130,8,44,Other: - - - Marine and aircraft plywood,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44129140,8,44,Other: - - - Cuttings and trimmings of plywood of which not exceeding 5cm,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44129190,8,44,Other: - - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+441292,6,44,"Other: - - Other, with at least one outer ply of non-coniferous wood:",,,,,,2026-10-22
+44129210,8,44,Other: - - - Decorative plywood,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44129220,8,44,"Other: - - - Tea chest panel or shooks, packed in sets",Free,,,54/2015-2020,2022-02-09,2026-10-22
+44129230,8,44,Other: - - - Marine and aircraft plywood,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44129240,8,44,Other: - - - Cuttings and trimmings of plywood of which not exceeding 5cm,Free,,,54/2015-2020,2022-02-09,2026-10-22
+441299,6,44,"Other:- - Other, with both outer plies of coniferous wood:",,,,,,2026-10-22
+44129910,8,44,Decorative plywood,Free,,,,,2026-10-22
+44129920,8,44,"Tea chest panel or shooks, packed in sets",Free,,,,,2026-10-22
+44129930,8,44,Marine and Aircraft plywood,Free,,,,,2026-10-22
+44129940,8,44,Cuttings and trimmings of plywood of width not exceeding 5cm,Free,,,,,2026-10-22
+44129990,8,44,Other,Free,,,,,2026-10-22
+44130000,8,44,"Densified wood, in blocks, plates, strips or profile shapes.",Free,,,,,2026-10-22
+4414,4,44,"Wooden frames for paintings, photographs, mirrors or similar objects.",,,,,,2026-10-22
+44141000,8,44,Of tropical wood,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44149000,8,44,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+4415,4,44,"Packing cases, boxes, crates, drums and similar packings, of wood; cable-drums of wood; pallets, box pallets and other load boards, of wood; pallet collars of wood.",,,,,,2026-10-22
+44150000,8,44,"Packing cases, boxes, crates, drums and similar packings, of wood ; cable-drums of wood ; pallets, box pallets and other load boards, of wood; pallet collars of wood",,,,,,2026-10-22
+44151000,8,44,"Cases, boxes, crates, drums and similar packings; cable-drums",Free,,,,,2026-10-22
+44152000,8,44,"Pallets, box pallets and other load boards; pallet collars",Free,,,,,2026-10-22
+4416,4,44,"Casks, barrels, vats, tubs and other coopers products and parts thereof, of wood, including staves.",,,,,,2026-10-22
+441600,6,44,"Casks, barrels, vats, tubs and other coopers' products and parts thereof, of wood, including staves:",,,,,,2026-10-22
+44160010,8,44,"Casks, barrels, vats and tubs",Free,,,,,2026-10-22
+44160020,8,44,Other coopers products,Free,,,,,2026-10-22
+44160091,8,44,Parts (of wood): ---- Riven or sawn staves of wood not further prepared,Free,,,,,2026-10-22
+44160099,8,44,Parts (of wood): ---- Other,Free,,,,,2026-10-22
+44170000,8,44,"Tools, tool bodies, tool handles, broom or brush bodies and handles, of wood; boot or shoe lasts and trees, of wood.",Free,,,,,2026-10-22
+4418,4,44,"Builders joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes.",,,,,,2026-10-22
+44181100,8,44,"Windows, French-windows and their frames: - - Of tropical wood",Free,,,54/2015-2020,2022-02-09,2026-10-22
+44181900,8,44,"Windows, French-windows and their frames: - - Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+441821,6,44,Doors and their frames and thresholds: - - Of tropical wood:,,,,,,2026-10-22
+44182110,8,44,Doors and their frames and thresholds: - - - Flush doors,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44182120,8,44,Doors and their frames and thresholds: - - - Frames and thresholds of flush doors,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44182190,8,44,Doors and their frames and thresholds: - - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+441829,6,44,Other:,,,,,,2026-10-22
+44182910,8,44,Doors and their frames and thresholds: - - - Flush doors,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44182920,8,44,Doors and their frames and thresholds: - - - Frames and thresholds of flush doors,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44182990,8,44,Doors and their frames and thresholds: - - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44183000,8,44,Doors and their frames and thresholds: - Posts and beams other than products of sub-headings 4418 81 to 4418 89,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44184000,8,44,Shuttering for concrete constructional work,Free,,,,,2026-10-22
+44185000,8,44,Shingles and shakes,Free,,,,,2026-10-22
+44187300,8,44,Assembled flooring panels : -- Of bamboo or with at least the top layer (wear layer) of bamboo,Free,,,,,2026-10-22
+44187400,8,44,"Assembled flooring panels : -- Other, for mosaic floors",Free,,,,,2026-10-22
+44187500,8,44,"Assembled flooring panels : -- Other, multilayer",Free,,,,,2026-10-22
+44187900,8,44,Assembled flooring panels : -- Other,Free,,,,,2026-10-22
+44188100,8,44,Engineered structural timber products: - - Glue-laminated timber (glulam),Free,,,54/2015-2020,2022-02-09,2026-10-22
+44188200,8,44,Engineered structural timber products: - - Cross-laminated timber (CLT or X-lam),Free,,,54/2015-2020,2022-02-09,2026-10-22
+44188300,8,44,Engineered structural timber products: - - I beams,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44188900,8,44,Engineered structural timber products: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44189100,8,44,Other : -- Of bamboo,Free,,,,,2026-10-22
+44189200,8,44,Engineered structural timber products: - - Cellular wood panels,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44189900,8,44,Other : -- Other,Free,,,,,2026-10-22
+4419,4,44,"Tableware and kitchenware, of wood.",,,,,,2026-10-22
+44190000,8,44,"Tableware and kitchenware, of wood",,,,,,2026-10-22
+44191100,8,44,"Of bamboo : -- Bread boards, chopping boards and similar boards",Free,,,,,2026-10-22
+44191200,8,44,Of bamboo : -- Chopsticks,Free,,,,,2026-10-22
+44191900,8,44,Of bamboo : -- Other,Free,,,,,2026-10-22
+44192000,8,44,of tropical wood,Free,,,54/2015-2020,2022-02-09,2026-10-22
+441990,6,44,Other,,,,,,2026-10-22
+44199010,8,44,"Bread boards, chopping boards and similar boards",Free,,,,,2026-10-22
+44199020,8,44,Chopsticks,Free,,,,,2026-10-22
+44199090,8,44,Other,Free,,,,,2026-10-22
+4420,4,44,"Wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling in Chapter 94.",,,,,,2026-10-22
+44200000,8,44,"Wood marequetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling in chapter 94",,,,,,2026-10-22
+44201100,8,44,Statuettes and other ornaments: - - Of tropical wood,Free,,,54/2015-2020,2022-02-09,2026-10-22
+44201900,8,44,Statuettes and other ornaments: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+442090,6,44,Other,,,,,,2026-10-22
+44209010,8,44,Wood marquetry and inlaid wood,Free,,,,,2026-10-22
+44209090,8,44,Other,Free,,,,,2026-10-22
+4421,4,44,Other articles of wood.,,,,,,2026-10-22
+44211000,8,44,Clothes hangers,Free,,,,,2026-10-22
+44212000,8,44,Coffins,Free,,,54/2015-2020,2022-02-09,2026-10-22
+442191,6,44,Other : -- Of bamboo,,,,,,2026-10-22
+44219111,8,44,"Spools, cops, bobbins, sewing thread reels and the like, of turned wood: ---- For cotton machinery",Free,,,,,2026-10-22
+44219119,8,44,"Spools, cops, bobbins, sewing thread reels and the like, of turned wood: ---- Other",Free,,,,,2026-10-22
+44219120,8,44,"Spools, cops, bobbins, sewing thread reels and the like, of turned wood: ---- Wood paving Blocks",Free,,,,,2026-10-22
+44219130,8,44,"Spools, cops, bobbins, sewing thread reels and the like, of turned wood: ---- Match splints",Free,,,,,2026-10-22
+44219140,8,44,"Spools, cops, bobbins, sewing thread reels and the like, of turned wood: ---- Pencil slats",Free,,,,,2026-10-22
+44219150,8,44,"Spools, cops, bobbins, sewing thread reels and the like, of turned wood: ---- Parts of wood, namely oars, paddles and rudders for ships, boats and other similarfloating structures",Free,,,,,2026-10-22
+44219160,8,44,"Spools, cops, bobbins, sewing thread reels and the like, of turned wood: ---- Parts of domestic decorative articles used as tableware and kitchenware",Free,,,,,2026-10-22
+44219170,8,44,"Spools, cops, bobbins, sewing thread reels and the like, of turned wood: ---- Articles of densified wood not included or specified elsewhere",Free,,,,,2026-10-22
+44219190,8,44,"Spools, cops, bobbins, sewing thread reels and the like, of turned wood: ---- Other",Free,,,,,2026-10-22
+442199,6,44,Other : -- Other,,,,,,2026-10-22
+44219911,8,44,"Spools, cops, bobbins, sewing thread reels and the like of turned wood: ---- For cotton machinery",Free,,,,,2026-10-22
+44219912,8,44,"Spools, cops, bobbins, sewing thread reels and the like of turned wood: ---- For jute machinery",Free,,,,,2026-10-22
+44219913,8,44,"Spools, cops, bobbins, sewing thread reels and the like of turned wood: ---- For silk regenerated and synthetic fibre machinery",Free,,,,,2026-10-22
+44219914,8,44,"Spools, cops, bobbins, sewing thread reels and the like of turned wood: ---- For other machinery",Free,,,,,2026-10-22
+44219919,8,44,"Spools, cops, bobbins, sewing thread reels and the like of turned wood: ---- Other",Free,,,,,2026-10-22
+44219920,8,44,"Spools, cops, bobbins, sewing thread reels and the like of turned wood: ---- Wood paving Blocks",Free,,,,,2026-10-22
+44219930,8,44,"Spools, cops, bobbins, sewing thread reels and the like of turned wood: ---- Match splints",Free,,,,,2026-10-22
+44219940,8,44,"Spools, cops, bobbins, sewing thread reels and the like of turned wood: ---- Pencil slats",Free,,,,,2026-10-22
+44219950,8,44,"Spools, cops, bobbins, sewing thread reels and the like of turned wood: ---- Parts of wood, namely oars, paddles and rudders for ships, boats and other similar floating structures",Free,,,,,2026-10-22
+44219960,8,44,"Spools, cops, bobbins, sewing thread reels and the like of turned wood: ---- Parts of domestic decorative articles used as tableware and kitchenware",Free,,,,,2026-10-22
+44219970,8,44,"Spools, cops, bobbins, sewing thread reels and the like of turned wood: ---- Articles of densified wood not included or specified elsewhere",Free,,,,,2026-10-22
+44219990,8,44,"Spools, cops, bobbins, sewing thread reels and the like of turned wood: ---- Other",Free,,,,,2026-10-22

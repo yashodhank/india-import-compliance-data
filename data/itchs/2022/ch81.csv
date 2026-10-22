@@ -1,0 +1,109 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+8101,4,81,"Tungsten (wolfram) and articles thereof, including waste and scrap.",,,,,,2026-10-22
+81011000,8,81,Powders,Free,,,,,2026-10-22
+81019400,8,81,"Other : -- Unwrought tungsten, including bars and rods obtained simply by sintering",Free,,,,,2026-10-22
+81019600,8,81,Other : -- Wire,Free,,,,,2026-10-22
+81019700,8,81,Other : -- Waste and scrap,Restricted,,,,,2026-10-22
+810199,6,81,Other : -- Other,,,,,,2026-10-22
+81019910,8,81,Tungsten filament,Free,,,,,2026-10-22
+81019920,8,81,"---Non-galvanised pipes, other :----Clad, plated or coated",Free,,,24/2026-27,2026-07-22,2026-10-22
+81019990,8,81,Other,Free,,,,,2026-10-22
+8102,4,81,"Molybdenum and articles thereof, including waste and scrap.",,,,,,2026-10-22
+81021000,8,81,Powders,Free,,,,,2026-10-22
+81029400,8,81,"Other : -- Unwrought molybdenum, including bars and rods obtained simply by sintering",Free,,,,,2026-10-22
+810295,6,81,"Other : -- bars and rods, other than those obtained simply by sintering, profiles, plates, sheets, strip and foil",,,,,,2026-10-22
+81029510,8,81,Hollow bars,Free,,,,,2026-10-22
+81029590,8,81,Other,Free,,,,,2026-10-22
+81029600,8,81,Other : -- Wire,Free,,,,,2026-10-22
+81029700,8,81,Other : -- Waste and scrap,Restricted,,,,,2026-10-22
+81029900,8,81,Other : -- Other,Free,,,,,2026-10-22
+8103,4,81,"Tantalum and articles thereof, including waste and scrap.",,,,,,2026-10-22
+810320,6,81,"Unwrought tantalum, including bars and rods obtained simply by sintering; powders",,,,,,2026-10-22
+81032010,8,81,Hollow bars,Free,,,,,2026-10-22
+81032090,8,81,Other,Free,,,,,2026-10-22
+81033000,8,81,Waste and scrap,Restricted,,,,,2026-10-22
+81039100,8,81,Crucibles,Free,,,54/2015-2020,2022-02-09,2026-10-22
+81039900,8,81,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+8104,4,81,"Magnesium and articles thereof, including waste and scrap.",,,,,,2026-10-22
+81041100,8,81,Unwrought magnesium : -- Containing at least 99.8 percent by weight of magnesium,Free,,,,,2026-10-22
+81041900,8,81,Unwrought magnesium : -- Other,Free,,,,,2026-10-22
+810420,6,81,Waste and scrap,,,,,,2026-10-22
+81042010,8,81,"Magnesium scrap, namely the following: Magnesium clips covered by ISRI code word Wafer; Magnesium scrap covered by ISRI code word Walnut; Magnesium engraver plates covered by ISRI code word Wine; Magnesium dock boards covered by ISIR code word Wood; Magnesium turnings covered by ISRI code word World.",Free,,,,,2026-10-22
+81042090,8,81,Other,Restricted,,,,,2026-10-22
+810430,6,81,"Raspings, turnings and granules, graded according to size; powders",,,,,,2026-10-22
+81043010,8,81,"Raspings, turnings and granules graded according to size",Free,,,,,2026-10-22
+81043020,8,81,Powders,Free,,,,,2026-10-22
+810490,6,81,Other,,,,,,2026-10-22
+81049010,8,81,"Other magnesium and magnesium base alloys, wrought",Free,,,,,2026-10-22
+81049020,8,81,Flakes,Free,,,,,2026-10-22
+81049030,8,81,Wire,Free,,,,,2026-10-22
+81049090,8,81,Other,Free,,,,,2026-10-22
+8105,4,81,"Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap.",,,,,,2026-10-22
+810520,6,81,Cobalt mattes and other intermediate products of cobalt metallurgy; unwrought cobalt; powders,,,,,,2026-10-22
+81052010,8,81,Cobalt mattes and other intermediate products of cobalt metallurgy,Free,,,,,2026-10-22
+81052020,8,81,Cobalt unwrought,Free,,,,,2026-10-22
+81052030,8,81,Powders,Free,,,,,2026-10-22
+81053000,8,81,Waste and scrap,Restricted,,,,,2026-10-22
+81059000,8,81,Other,Free,,,,,2026-10-22
+8106,4,81,"Bismuth and articles thereof, including waste and scrap.",,,,,,2026-10-22
+810610,6,81,"Containing more than 99.99 % of bismuth, by weight:",,,,,,2026-10-22
+81061010,8,81,"Bismuth, unwrought",Free,,,54/2015-2020,2022-02-09,2026-10-22
+81061020,8,81,Article of bismuth,Free,,,54/2015-2020,2022-02-09,2026-10-22
+81061090,8,81,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+810690,6,81,Other:,,,,,,2026-10-22
+81069010,8,81,Waste and scrap of bismuth and bismuth alloys,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+81069090,8,81,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+8108,4,81,"Titanium and articles thereof, including waste and scrap.",,,,,,2026-10-22
+81082000,8,81,Unwrought titanium; powders,Free,"Import of Titanium powder is , however, Restricted.",,,,2026-10-22
+81083000,8,81,Waste and scrap,Restricted,,,,,2026-10-22
+810890,6,81,Other,,,,,,2026-10-22
+81089010,8,81,"Titanium, wrought",Free,,,,,2026-10-22
+81089090,8,81,Other,Free,,,,,2026-10-22
+81092100,8,81,Unwrought zirconium; powders: - - Containing less than 1 part hafnium to 500 parts zirconium by weight,Free,"Import of Zirconium powder is, however, Restricted.",,54/2015-2020,2022-02-09,2026-10-22
+81092900,8,81,Unwrought zirconium; powders: - - Other,Free,"Import of Zirconium powder is, however, Restricted.",,54/2015-2020,2022-02-09,2026-10-22
+81093100,8,81,Waste and scrap: - - Containing less than 1 part hafnium to 500 parts zirconium by weight,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+81093900,8,81,Waste and scrap: - - Other,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+81099100,8,81,Other: - - Containing less than 1 part hafnium to 500 parts zirconium by weight,Free,,,54/2015-2020,2022-02-09,2026-10-22
+81099900,8,81,Other: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+8110,4,81,"Antimony and articles thereof, including waste and scrap.",,,,,,2026-10-22
+81101000,8,81,Unwrought antimony; powders,Free,"Import of Antimony powder is, however, Restricted.",,,,2026-10-22
+81102000,8,81,Waste and scrap,Restricted,,,,,2026-10-22
+81109000,8,81,Other,Free,,,,,2026-10-22
+8111,4,81,"Manganese and articles thereof, including waste and scrap.",,,,,,2026-10-22
+811100,6,81,"Manganese and articlesthereof, including waste and scrap",,,,,,2026-10-22
+81110010,8,81,Unwrought manganese and manganese base alloys,Free,,,,,2026-10-22
+81110020,8,81,Waste and scrap of manganese base alloys,Restricted,,,,,2026-10-22
+81110030,8,81,Wrought manganese,Free,,,,,2026-10-22
+81110090,8,81,Other,Free,,,,,2026-10-22
+8112,4,81,"BERYLLIUM, CHROMIUM, HAFNIUM, RHENIUM, THALLIUM, CADMIUM, GERMANIUM, VANADIUM, GALLIUM, INDIUM AND NIOBIUM (COLUMBIUM AND) AND ARTICLES OF THESE METALS, INCLUDING WASTE AND SCRAP;",,,,,,2026-10-22
+81121200,8,81,Beryllium : -- Unwrought; powders,Free,"Import of Beryllium powder is, however, Restricted.",,,,2026-10-22
+81121300,8,81,Beryllium : -- Waste and scrap,Restricted,,,,,2026-10-22
+81121900,8,81,Beryllium : -- Other,Free,,,,,2026-10-22
+81122100,8,81,Chromium : -- Unwrought; powders,Free,"Import of Chromium powder is, however, Restricted.",,,,2026-10-22
+81122200,8,81,Chromium : -- Waste and scrap,Restricted,,,,,2026-10-22
+81122900,8,81,Chromium : -- Other,Free,,,,,2026-10-22
+811231,6,81,Hafnium: - - Unwrought; waste and scrap; powders:,,,,,,2026-10-22
+81123110,8,81,Hafnium: - - - Unwrought,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+81123120,8,81,Hafnium: - - - Waste and scrap,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+81123130,8,81,Hafnium: - - - Powders,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+81123900,8,81,Hafnium: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+811241,6,81,Rhenium: - - Unwrought; waste and scrap; powders:,,,,,,2026-10-22
+81124110,8,81,Rhenium: - - - Unwrought,Restricted,,,2015-2020,2022-02-09,2026-10-22
+81124120,8,81,Rhenium: - - - Waste and scrap,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+81124130,8,81,Rhenium: - - - Powders,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+81124900,8,81,Rhenium: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+81125100,8,81,Thallium : -- Unwrought; powders,Free,"Import of Thallium powder is, however, Restricted.",,,,2026-10-22
+81125200,8,81,Thallium : -- Waste and scrap,Restricted,,,,,2026-10-22
+81125900,8,81,Thallium : -- Other,Free,,,,,2026-10-22
+81126100,8,81,Cadmium: - - Waste and scrap,Restricted,Import of Cadmium powder is however restricted.,,54/2015-2020,2022-02-09,2026-10-22
+81126910,8,81,"Cadmium, unwrought; Powders",Free,"Import of Cadmium Powder is, however, restricted.",,20/2015-2020,2022-07-07,2026-10-22
+81126920,8,81,"Cadmium, wrought",Free,-,,20/2015-2020,2022-07-07,2026-10-22
+81126990,8,81,Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+81129200,8,81,Other : -- Unwrought; waste and scrap; powders,Restricted,,,,,2026-10-22
+81129900,8,81,Other : -- Other,Free,,,,,2026-10-22
+8113,4,81,"Cermets and articles thereof, including waste and scrap.",,,,,,2026-10-22
+811300,6,81,"Cermets and articles thereof, including waste and scrap :",,,,,,2026-10-22
+81130010,8,81,Unwrought cermets,Free,,,,,2026-10-22
+81130020,8,81,Waste and scrap of cermets,Restricted,,,,,2026-10-22
+81130030,8,81,Articles of cermets,Free,,,,,2026-10-22
+81130090,8,81,Other,Free,,,,,2026-10-22

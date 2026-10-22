@@ -1,0 +1,33 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+7901,4,79,Unwrought zinc.,,,,,,2026-10-22
+79011100,8,79,"Zinc, not alloyed : -- Containing by weight 99.99 percent or more of zinc",Free,,,,,2026-10-22
+79011200,8,79,"Zinc, not alloyed : -- Containing by weight less than 99.99 percent of zinc",Free,,,,,2026-10-22
+790120,6,79,Zinc alloys,,,,,,2026-10-22
+79012010,8,79,Mozak or alloys of zinc and aluminium containing not less than 94percent by weight of zinc,Free,,,,,2026-10-22
+79012090,8,79,Other,Free,,,,,2026-10-22
+7902,4,79,Zinc waste and scrap,,,,,,2026-10-22
+790200,6,79,Zinc waste and scrap :,,,,,,2026-10-22
+79020010,8,79,"Zinc scrap, namely the following: Old zinc die cast scrap covered by ISRI Code word Saves; New zinc die cast scrap covered by ISRI Code word Scabs; New plated zinc die cast scrap covered by ISRI Code word Scope; Zinc die cast automotive grills covered by ISRI Code word Scoot; Old scrap zinc covered by ISRI Code word Score; New zinc clippings covered by ISRI Code word Screen; Crushed clean sorted fragmentizers die cast scrap, as produced from automobile fragmentizers covered by ISRI Code word Scribe; Unsorted zinc die cast scrap produced from automobile fragmentizers containing about 55percent zinc-bearing scrap covered by ISRI code word Scroll",Free,,,,,2026-10-22
+79020090,8,79,Other,Restricted,Imports as per Policy Condition 1 below.,1,,,2026-10-22
+7903,4,79,"Zinc dust, powders and flakes.",,,,,,2026-10-22
+79031000,8,79,Zinc dust,Free,,,,,2026-10-22
+79039000,8,79,Other,Free,,,,,2026-10-22
+7904,4,79,"Zinc bars, rods, profiles and wire.",,,,,,2026-10-22
+790400,6,79,"Zinc bars, rods, profiles and wire :",,,,,,2026-10-22
+79040011,8,79,Bars and rods: ----Hollow bars,Free,,,,,2026-10-22
+79040012,8,79,"Bars and rods: ----Rods, including wire rods",Free,,,,,2026-10-22
+79040019,8,79,Bars and rods: ----Other,Free,,,,,2026-10-22
+79040021,8,79,Profiles: ----Hollow,Free,,,,,2026-10-22
+79040022,8,79,"Profiles: ----Angles, shapes and sections",Free,,,,,2026-10-22
+79040029,8,79,Profiles: ----Other,Free,,,,,2026-10-22
+79040030,8,79,Profiles: ----Wire,Free,,,,,2026-10-22
+7905,4,79,"Zinc plates, sheets, strip and foil.",,,,,,2026-10-22
+790500,6,79,"Zinc plates, sheets, strip and foil :",,,,,,2026-10-22
+79050010,8,79,Calots,Free,,,,,2026-10-22
+79050020,8,79,Plates,Free,,,,,2026-10-22
+79050030,8,79,"Sheets, strip and circles",Free,,,,,2026-10-22
+79050040,8,79,Foil,Free,,,,,2026-10-22
+7907,4,79,Other articles of zinc.,,,,,,2026-10-22
+790700,6,79,Other articles of zinc :,,,,,,2026-10-22
+79070010,8,79,Sanitary fixtures,Free,,,,,2026-10-22
+79070090,8,79,Other,Free,,,,,2026-10-22

@@ -1,0 +1,43 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+8801,4,88,"Balloons and dirigibles; gliders, hang gliders and other nonpowered aircraft.",,,,,,2026-10-22
+880100,6,88,"Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft:",,,,,,2026-10-22
+88010011,8,88,Gliders and hang gliders,,,,,,2026-10-22
+88010020,8,88,Balloons,Restricted,"Goods classified as sports goods or equipment shall, however, be allowed to be imported freely.",,,,2026-10-22
+88010090,8,88,Other,Restricted,"Goods classified as sports goods or equipment shall, however, be allowed to be imported freely.",,,,2026-10-22
+8802,4,88,"OTHER AIRCRAFT, EXCEPT UNMANNED AIRCRAFT OF HEADING 88.06 (FOR EXAMPLE, HELICOPTERS, AEROPLANES), SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES",,,,,,2026-10-22
+88021100,8,88,"Helicopters : -- Of an unladen weight not exceeding 2,000 kg",Restricted,,,,,2026-10-22
+88021200,8,88,"Helicopters : -- Of an unladen weight exceeding 2,000 kg",Restricted,,,,,2026-10-22
+88022000,8,88,"Aeroplanes and other aircraft, of an unladen weight not exceeding 2,000 kg",Restricted,,,,,2026-10-22
+88023000,8,88,"Aeroplanes and other aircraft, of an unladen weight exceeding 2,000 kg but not exceeding 15,000 kg",Restricted,,,,,2026-10-22
+88024000,8,88,"Aeroplanes and other aircraft, of an unladen weight exceeding 15,000 kg",Restricted,,,,,2026-10-22
+88026000,8,88,Spacecraft (including satellites) and suborbital and spacecraft launch vehicles,Restricted,,,,,2026-10-22
+8804,4,88,Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto.,,,,,,2026-10-22
+880400,6,88,Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto :,,,,,,2026-10-22
+88040010,8,88,Parachutes (including dirigible parachutes and paragliders) and parts and accessories thereof,Free,,,,,2026-10-22
+88040020,8,88,Rotochutes; parts and accessories thereof,Free,,,,,2026-10-22
+8805,4,88,Aircraft launching gear; deck-arrestor or similar gear; ground flying trainers; parts of the foregoing articles.,,,,,,2026-10-22
+880510,6,88,Aircraft launching gear and parts thereof; deck-arrestor or similar gear and parts thereof,,,,,,2026-10-22
+88051010,8,88,Aircraft launching gear,Free,,,,,2026-10-22
+88051020,8,88,Deck arrestor or similar gear,Free,,,,,2026-10-22
+88051030,8,88,Part of aircraft launching gear and deck arrestor or similar gear,Free,,,,,2026-10-22
+88052100,8,88,Ground flying trainers and parts thereof : -- Air combat simulators and parts thereof,Free,,,,,2026-10-22
+88052900,8,88,Ground flying trainers and parts thereof : -- Other,Free,,,,,2026-10-22
+8806,4,88,UNMANNED AIRCRAFT,,,,,,2026-10-22
+88061000,8,88,Designed for the carriage of passengers,Prohibited,Subject to Policy Condition No.03 of Chapter-88,3,54/2015-2020,2022-02-09,2026-10-22
+88062100,8,88,"Other, for remote-controlled flight only: - - With maximum take-off weight not more than 250 g",Prohibited,Subject to Policy Condition No.03 of Chapter-88,3,54/2015-2020,2022-02-09,2026-10-22
+88062200,8,88,"Other, for remote-controlled flight only: - - With maximum take-off weight more than 250 g but not more than 7 kg",Prohibited,Subject to Policy Condition No. 03 of Chapter 88,3,54/2015-2020,2022-02-09,2026-10-22
+88062300,8,88,"Other, for remote-controlled flight only: - - With maximum take-off weight more than 7 kg but not more than 25 kg",Prohibited,Subject to Policy Condition No.03 of Chapter88,3,54/2015-2020,2022-02-09,2026-10-22
+88062400,8,88,"Other, for remote-controlled flight only: - - With maximum take-off weight more than 25 kg but not more than 150 kg",Prohibited,Subject to Policy Condition No.03 of Chapter-88,3,54/2015-2020,2022-02-09,2026-10-22
+88062900,8,88,"Other, for remote-controlled flight only: - - Other",Prohibited,Subject to Policy Condition No.03 of Chapter-88,3,54/2015-2020,2022-02-09,2026-10-22
+88069100,8,88,Other: - - With maximum take-off weight not more than 250 g,Prohibited,Subject to Policy Condition No.03 of Chapter-88,3,54/2015-2020,2022-02-09,2026-10-22
+88069200,8,88,Other: - - With maximum take-off weight more than 250 g but not more than 7 kg,Prohibited,Subject to Policy Condition No.03 of Chapter-88,3,54/2015-2020,2022-02-09,2026-10-22
+88069300,8,88,Other: - - With maximum take-off weight more than 7 kg but not more than 25 kg,Prohibited,Subject to Policy Condition No.03 of Chapter-88,3,54/2015-2020,2022-02-09,2026-10-22
+88069400,8,88,Other: - - With maximum take-off weight more than 25 kg but not more than 150 kg,Prohibited,Subject to Policy Condition No.03 of Chapter-88,3,54/2015-2020,2022-02-09,2026-10-22
+88069900,8,88,Other: - - Other,Prohibited,Subject to Policy Condition No.03 of Chapter-88,3,54/2015-2020,2022-02-09,2026-10-22
+8807,4,88,"PARTS OF GOODS OF HEADING 8801, 8802 OR 8806",,,,,,2026-10-22
+88071000,8,88,Propellers and rotors and parts thereof,Free,Reconditioned/ second hand parts of goods of heading 8801 and 8802 are also free,,54/2015-2020,2022-02-09,2026-10-22
+88072000,8,88,Under-carriages and parts thereof,Free,,,54/2015-2020,2022-02-09,2026-10-22
+880730,6,88,"Other parts of aeroplanes, helicopters or unmanned aircraft :",,,,,,2026-10-22
+88073010,8,88,"Of aeroplanes, helicopters",Free,Reconditioned/ second hand parts of goods of heading 8801 and 8802 are also free,,40/2024-25,2024-11-26,2026-10-22
+88073020,8,88,Of unmanned aircraft,Free,Reconditioned/ second hand parts of goods of heading 8801 and 8802 are also free,,40/2024-25,2024-11-26,2026-10-22
+88079000,8,88,Other,Free,Reconditioned/ second hand parts of goods of heading 8801 and 8802 are also free,,54/2015-2020,2022-02-09,2026-10-22

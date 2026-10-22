@@ -1,0 +1,93 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+9401,4,94,"Seats (other than those of heading 9402), whether or not convertible into beds, and parts thereof.",,,,,,2026-10-22
+94011000,8,94,Seats of a kind used for aircraft,Free,,,,,2026-10-22
+94012000,8,94,Seats of a kind used for motor vehicles,Free,,,,,2026-10-22
+94013100,8,94,Swivel seats and variable height adjustment:--Of wood,Free,,,54/2015-2020,2022-02-09,2026-10-22
+94013900,8,94,Swivel seats and variable height adjustment:--Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+94014100,8,94,"Seats other than garden seats or camping equipment, convertible into beds: - - Of wood",Free,,,54/2015-2020,2022-02-09,2026-10-22
+94014900,8,94,"Seats other than garden seats or camping equipment, convertible into beds: - - Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+94015200,8,94,"Seats of cane, osier, bamboo or similar materials : -- Of bamboo",Free,,,,,2026-10-22
+94015300,8,94,"Seats of cane, osier, bamboo or similar materials : -- Of rattan",Free,,,,,2026-10-22
+94015900,8,94,"Seats of cane, osier, bamboo or similar materials : -- Other",Free,,,,,2026-10-22
+94016100,8,94,"Other seats, with wooden frames : -- Upholstered",Free,,,,,2026-10-22
+94016900,8,94,"Other seats, with wooden frames : -- Other",Free,,,,,2026-10-22
+94017100,8,94,"Other seats, with metal frames : -- Upholstered",Free,,,,,2026-10-22
+94017900,8,94,"Other seats, with metal frames : -- Other",Free,,,,,2026-10-22
+94018000,8,94,Other seats,Free,,,,,2026-10-22
+94019100,8,94,Parts: - - Of wood,Free,,,54/2015-2020,2022-02-09,2026-10-22
+94019900,8,94,Parts: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+9402,4,94,"Medical, surgical, dental or veterinary furniture (for example, operating tables, examination tables, hospital beds with mechanical fittings, dentists chairs); barbers chairs and similar chairs, having rotating as well as both reclining and elevating movements; parts of the foregoing articles.",,,,,,2026-10-22
+940210,6,94,"Dentists, barbers or similar chairs and parts thereof",,,,,,2026-10-22
+94021010,8,94,Dentists chairs and parts thereof,Free,,,,,2026-10-22
+94021090,8,94,Other,Free,,,,,2026-10-22
+940290,6,94,Other,,,,,,2026-10-22
+94029010,8,94,Hospital beds with mechanical fittings,Free,,,,,2026-10-22
+94029020,8,94,Parts,Free,,,,,2026-10-22
+94029090,8,94,Other,Free,,,,,2026-10-22
+9403,4,94,Other furniture and parts thereof.,,,,,,2026-10-22
+940310,6,94,Metal furniture of a kind used in offices,,,,,,2026-10-22
+94031010,8,94,Of Steel,Free,,,,,2026-10-22
+94031090,8,94,Other,Free,,,,,2026-10-22
+940320,6,94,Other metal furniture,,,,,,2026-10-22
+94032010,8,94,Of Steel,Free,,,,,2026-10-22
+94032090,8,94,Other,Free,,,,,2026-10-22
+940330,6,94,Wooden furniture of a kind used in offices,,,,,,2026-10-22
+94033010,8,94,Cabinetware,Free,,,,,2026-10-22
+94033090,8,94,Other,Free,,,,,2026-10-22
+94034000,8,94,Wooden furniture of a kind used in the kitchen,Free,,,,,2026-10-22
+940350,6,94,Wooden furniture of a kind used in the bedroom,,,,,,2026-10-22
+94035010,8,94,Bed stead,Free,,,,,2026-10-22
+94035090,8,94,Other,Free,,,,,2026-10-22
+94036000,8,94,Other wooden furniture,Free,,,,,2026-10-22
+94037000,8,94,Furniture of plastics,Free,,,,,2026-10-22
+94038200,8,94,"Furniture of other materials, including cane, osier, bamboo or similar materials : -- Of bamboo",Free,,,,,2026-10-22
+94038300,8,94,"Furniture of other materials, including cane, osier, bamboo or similar materials : -- Of rattan",Free,,,,,2026-10-22
+94038900,8,94,"Furniture of other materials, including cane, osier, bamboo or similar materials : -- Other",Free,,,,,2026-10-22
+94039100,8,94,Parts: - - Of wood,Free,,,54/20152020,2022-02-09,2026-10-22
+94039900,8,94,Parts: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+9404,4,94,"Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered.",,,,,,2026-10-22
+94041000,8,94,Mattress supports,Free,,,,,2026-10-22
+940421,6,94,"Mattresses : -- Of cellular rubber or plastics, whether or not covered",,,,,,2026-10-22
+94042110,8,94,Mattresses: ----Of Rubber,Free,,,,,2026-10-22
+94042190,8,94,Mattresses: ----Of Plastic,Free,,,,,2026-10-22
+940429,6,94,Mattresses : -- Of other materials,,,,,,2026-10-22
+94042910,8,94,Spring interior,Free,,,,,2026-10-22
+94042920,8,94,of rubberized coir with or without combination or other materials whether or not with metallic springs.,Free,,,,,2026-10-22
+94042990,8,94,Other,Free,"Mattresses - of Rubberised coir with or without combination of other materials, whether or not with metallic springs would be covered under this entry.",,,,2026-10-22
+940430,6,94,Sleeping bags,,,,,,2026-10-22
+94043010,8,94,Filled with feathers or down,Free,,,,,2026-10-22
+94043090,8,94,Other,Free,,,,,2026-10-22
+940440,6,94,"Quilts, bedspreads, eiderdowns and duvets (comforters):",,,,,,2026-10-22
+94044010,8,94,Quilts,Free,,,54/2015-2020,2022-02-09,2026-10-22
+94044020,8,94,Bedspreads,Free,,,54/2015-2020,2022-02-09,2026-10-22
+94044030,8,94,Eiderdowns,Free,,,54/2015-2020,2022-02-09,2026-10-22
+94044040,8,94,Duvets (comforters),Free,,,54/2015-2020,2022-02-09,2026-10-22
+94049000,8,94,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+9405,4,94,"LUMINAIRES AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPECIFIED OR INCLUDED",,,,,,2026-10-22
+94051100,8,94,"Chandeliers and other electric ceiling or wall lighting fittings, excluding those of a kind used for lighting public open spaces or thoroughfares: - - Designed for use solely with light-emitting diode (LED) light sources",Free,,,54/2015-2020,2022-02-09,2026-10-22
+94051900,8,94,"Chandeliers and other electric ceiling or wall lighting fittings, excluding those of a kind used for lighting public open spaces or thoroughfares: - - Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+94052100,8,94,"Electric table, desk, bedside or floor-standing luminaires: - - Designed for use solely with light-emitting diode (LED) light sources",Free,,,54/2015-2020,2022-02-09,2026-10-22
+94052900,8,94,"Electric table, desk, bedside or floor-standing luminaires: - - Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+94053100,8,94,Lighting strings of a kind used for Christmas trees: - - Designed for use solely with light-emitting diode (LED) light sources,Free,,,54/2015-2020,2022-02-09,2026-10-22
+94053900,8,94,Lighting strings of a kind used for Christmas trees: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+94054100,8,94,"Other electric luminaires and lighting fittings: - - Photovoltaic, designed for use solely with light-emitting diode (LED) light sources",Free,,,54/2015-2020,2022-02-09,2026-10-22
+94054200,8,94,"Other electric luminaires and lighting fittings: - - Other, designed for use solely with light-emitting diode (LED) light sources",Free,,,54/2015-2020,2022-02-09,2026-10-22
+94054900,8,94,Other electric luminaires and lighting fittings: -- Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+94055000,8,94,Non-electrical luminaires and lighting fittings,Free,,,54/2015-2020,2022-02-09,2026-10-22
+94056100,8,94,"-Illuminated signs, illuminated name-plates and the like:-- Designed for use solely with light-emitting diode (LED) light sources",Free,,,54/2015-2020,2022-02-09,2026-10-22
+94056900,8,94,"Illuminated signs, illuminated name-plates and the like:-- Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+94059100,8,94,Parts : -- Of glass,Free,,,,,2026-10-22
+94059200,8,94,Parts : -- Of plastics,Free,,,,,2026-10-22
+94059900,8,94,Parts : -- Other,Free,,,,,2026-10-22
+9406,4,94,Prefabricated buildings.,,,,,,2026-10-22
+940610,6,94,Of wood,,,,,,2026-10-22
+94061010,8,94,Green-houses,Free,,,,,2026-10-22
+94061020,8,94,For cold storage,Free,,,,,2026-10-22
+94061030,8,94,Silos for storing ensilage,Free,,,,,2026-10-22
+94061090,8,94,Other,Free,,,,,2026-10-22
+94062000,8,94,"Modular building units, of steel",Free,,,54/2015-2020,2022-02-09,2026-10-22
+940690,6,94,Other,,,,,,2026-10-22
+94069010,8,94,Green-houses,Free,,,,,2026-10-22
+94069020,8,94,For cold storage,Free,,,,,2026-10-22
+94069030,8,94,Silos for storing ensilage,Free,,,,,2026-10-22
+94069090,8,94,Other,Free,,,,,2026-10-22

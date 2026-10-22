@@ -1,0 +1,58 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+6001,4,60,"Pile fabrics, including ""long pile"" fabrics and terry fabrics, knitted or crocheted.",,,,,,2026-10-22
+600110,6,60,Long pile fabrics,,,,,,2026-10-22
+60011010,8,60,Of cotton,Free,,,,,2026-10-22
+60011020,8,60,Of man-made fibres,Free,,,,,2026-10-22
+60011090,8,60,Of other textile materials,Free,,,,,2026-10-22
+60012100,8,60,Looped pile fabrics -- of cotton,Free,,,,,2026-10-22
+60012200,8,60,Looped pile fabrics -- Of man-made fibres,Free,,,,,2026-10-22
+60012900,8,60,Looped pile fabrics -- Of other textile materials,Free,,,,,2026-10-22
+60019100,8,60,Other : -- Of cotton,Free,,,,,2026-10-22
+60019200,8,60,Other : -- Of man-made fibres,Restricted,"However, import is ‘Free’ if CIF value is 3.5 US Dollar and above per Kilogram.",,05/2025-26,2025-04-23,2026-10-22
+600199,6,60,Other : -- Of other textile materials,,,,,,2026-10-22
+60019910,8,60,Of wool or fine animal hair,Free,,,,,2026-10-22
+60019990,8,60,Other,Free,,,,,2026-10-22
+6002,4,60,"Knitted or crocheted fabrics of a width not exceeding 30 cm, containing by weight 5 percent or more of elastomeric yarn or rubber thread, other than those of heading 60.01.",,,,,,2026-10-22
+60024000,8,60,Containing by weight 5 percent or more of elastomeric yarn but not containing rubber thread,Free,,,,,2026-10-22
+60029000,8,60,Other,Free,,,,,2026-10-22
+6003,4,60,"Knitted or crocheted fabrics of a width not exceeding 30 cm, other than those of heading 60.01 or 60.02.",,,,,,2026-10-22
+60031000,8,60,Of wool or fine animal hair,Free,,,,,2026-10-22
+60032000,8,60,Of cotton,Free,,,,,2026-10-22
+60033000,8,60,Of synthetic fibres,Free,,,,,2026-10-22
+60034000,8,60,Of artificial fibres,Free,,,,,2026-10-22
+60039000,8,60,Other,Free,,,,,2026-10-22
+6004,4,60,"KNITTED OR CROCHETED FABRICS OF A WIDTH EXCEEDING 30 CM, CONTAINING BY WEIGHT 5% OR MORE OF ELASTOMERIC YARN OR RUBBER THREAD, OTHER THAN THOSE OF HEADING 6001",,,,,,2026-10-22
+60041000,8,60,"Knitted or crocheted fabrics of a width exceeding 30 cm, containing by weight 5 percent or more of elastomeric yarn orrubber thread, other than those of heading 60.01.",Restricted,"1. Import is “Restricted” till 31.03.2025. 2. However, import is ‘Free’ if CIF value is 3.5 US Dollar and above per Kilogram. 3. MIP condition, however, shall not be applicable for imports by Advance Authorisation holders, EOUs and units in the SEZ. 4. The AA holders, EOUs and SEZ units shall not be allowed to sell the imported inputs into Domestic Tariff Area (DTA).",,49/2024-25,2025-01-04,2026-10-22
+60049000,8,60,Other,Restricted,"1. Import is “Restricted” till 31.03.2025. 2. However, import is ‘Free’ if CIF value is 3.5 US Dollar and above per Kilogram. 3. MIP condition, however, shall not be applicable for imports by Advance Authorisation holders, EOUs and units in the SEZ. 4. The AA holders, EOUs and SEZ units shall not be allowed to sell the imported inputs into Domestic Tariff Area (DTA).",,49/2024-25,2025-01-04,2026-10-22
+6005,4,60,"Warp knit fabrics (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04.",,,,,,2026-10-22
+60052100,8,60,Of cotton : -- Unbleached or bleached,Free,,,,,2026-10-22
+60052200,8,60,Of cotton : -- Dyed,Free,,,,,2026-10-22
+60052300,8,60,Of cotton : -- Of yarns of different colours,Free,,,,,2026-10-22
+60052400,8,60,Of cotton : -- Printed,Free,,,,,2026-10-22
+60053500,8,60,Of synthetic fibres : -- Fabrics specified in Subheading Note 1 to this Chapter,Free,,,,,2026-10-22
+60053600,8,60,"Of synthetic fibres : -- Other, unbleached or bleached",Restricted,"Import is 'Free' if CIF value is 3.5 US Dollar and above per Kilogram. However, Import of fabrics falling within the 28 to 48 grams per square meter (GSM) range is exempted from the above Minimum Import Price (MIP) condition",,46/2025-26,2025-10-21,2026-10-22
+600537,6,60,"Of synthetic fibres : -- Other, dyed:",,,,,,2026-10-22
+60053710,8,60,"Shade Nets, conforming to IS 16008",Free,-,,20/2015-2020,2022-07-07,2026-10-22
+60053790,8,60,Other,Restricted,"However, import is ‘Free’ if CIF value is 3.5 US Dollar and above per Kilogram.",,05/2025-26,2025-04-23,2026-10-22
+60053800,8,60,"Of synthetic fibres : -- Other, of yarns of different colours",Free,,,,,2026-10-22
+60053900,8,60,"Of synthetic fibres : -- Other, printed",Restricted,"However, import is ‘Free’ if CIF value is 3.5 US Dollar and above per Kilogram.",,05/2025-26,2025-04-23,2026-10-22
+60054100,8,60,Of artificial fibres : -- Unbleached or bleached,Free,,,,,2026-10-22
+60054200,8,60,Of artificial fibres : -- Dyed,Free,,,,,2026-10-22
+60054300,8,60,Of artificial fibres : -- Of yarns of different colours,Free,,,,,2026-10-22
+60054400,8,60,Of artificial fibres : -- Printed,Free,,,,,2026-10-22
+60059000,8,60,Other,Free,,,,,2026-10-22
+6006,4,60,Other knitted or crocheted fabrics.,,,,,,2026-10-22
+60061000,8,60,Of wool or fine animal hair,Free,,,,,2026-10-22
+60062100,8,60,Of cotton : -- Unbleached or bleached,Free,,,,,2026-10-22
+60062200,8,60,Of cotton : -- Dyed,Restricted,"1. Import is “Restricted” till 31.03.2025. 2. However, import is ‘Free’ if CIF value is 3.5 US Dollar and above per Kilogram. 3. MIP condition, however, shall not be applicable for imports by Advance Authorisation holders, EOUs and units in the SEZ. 4. The AA holders, EOUs and SEZ units shall not be allowed to sell the imported inputs into Domestic Tariff Area (DTA).",,49/2024-25,2025-01-04,2026-10-22
+60062300,8,60,Of cotton : -- Of yarns of different colours,Free,,,,,2026-10-22
+60062400,8,60,Of cotton : -- Printed,Free,,,,,2026-10-22
+60063100,8,60,Of synthetic fibres : -- Unbleached or bleached,Restricted,"1. Import is “Restricted” till 31.03.2025. 2. However, import is ‘Free’ if CIF value is 3.5 US Dollar and above per Kilogram. 3. MIP condition, however, shall not be applicable for imports by Advance Authorisation holders, EOUs and units in the SEZ. 4. The AA holders, EOUs and SEZ units shall not be allowed to sell the imported inputs into Domestic Tariff Area (DTA).",,49/2024-25,2025-01-04,2026-10-22
+60063200,8,60,Of synthetic fibres : -- Dyed,Restricted,"1. Import is “Restricted” till 31.03.2025. 2. However, import is ‘Free’ if CIF value is 3.5 US Dollar and above per Kilogram. 3. MIP condition, however, shall not be applicable for imports by Advance Authorisation holders, EOUs and units in the SEZ. 4. The AA holders, EOUs and SEZ units shall not be allowed to sell the imported inputs into Domestic Tariff Area (DTA).",,49/2024-25,2025-01-04,2026-10-22
+60063300,8,60,Of synthetic fibres : -- Of yarns of different colours,Restricted,"1. Import is “Restricted” till 31.03.2025. 2. However, import is ‘Free’ if CIF value is 3.5 US Dollar and above per Kilogram. 3. MIP condition, however, shall not be applicable for imports by Advance Authorisation holders, EOUs and units in the SEZ. 4. The AA holders, EOUs and SEZ units shall not be allowed to sell the imported inputs into Domestic Tariff Area (DTA).",,49/2024-25,2025-01-04,2026-10-22
+60063400,8,60,Of synthetic fibres : -- Printed,Restricted,"1. Import is “Restricted” till 31.03.2025. 2. However, import is ‘Free’ if CIF value is 3.5 US Dollar and above per Kilogram. 3. MIP condition, however, shall not be applicable for imports by Advance Authorisation holders, EOUs and units in the SEZ. 4. The AA holders, EOUs and SEZ units shall not be allowed to sell the imported inputs into Domestic Tariff Area (DTA).",,49/2024-25,2025-01-04,2026-10-22
+60064100,8,60,Of artificial fibres : --Unbleached or bleached,Free,,,,,2026-10-22
+60064200,8,60,Of artificial fibres : -- Dyed,Restricted,"1. Import is “Restricted” till 31.03.2025. 2. However, import is ‘Free’ if CIF value is 3.5 US Dollar and above per Kilogram. 3. MIP condition, however, shall not be applicable for imports by Advance Authorisation holders, EOUs and units in the SEZ. 4. The AA holders, EOUs and SEZ units shall not be allowed to sell the imported inputs into Domestic Tariff Area (DTA).",,49/2024-25,2025-01-04,2026-10-22
+60064300,8,60,Of artificial fibres : -- Of yarns of different colours,Free,,,,,2026-10-22
+60064400,8,60,Of artificial fibres : -- Printed,Free,,,,,2026-10-22
+60069000,8,60,Other,Restricted,"1. Import is “Restricted” till 31.03.2025. 2. However, import is ‘Free’ if CIF value is 3.5 US Dollar and above per Kilogram. 3. MIP condition, however, shall not be applicable for imports by Advance Authorisation holders, EOUs and units in the SEZ. 4. The AA holders, EOUs and SEZ units shall not be allowed to sell the imported inputs into Domestic Tariff Area (DTA).",,49/2024-25,2025-01-04,2026-10-22

@@ -1,0 +1,536 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+3901,4,39,"Polymers of ethylene, in primary forms.",,,,,,2026-10-22
+390110,6,39,"Polymers of ethylene, in primary forms. - Polyethylene having a specific gravity of less than 0.94",,,,,,2026-10-22
+39011010,8,39,"Linear low density polyethylene (LLDPE), in which ethylene monomer unit contributes 95 percent or more by weight of the total polymer content",Free,,,,,2026-10-22
+39011020,8,39,Low density polyethylene (LDPE),Free,,,,,2026-10-22
+39011090,8,39,Other,Free,,,,,2026-10-22
+39012000,8,39,Polyethylene having a specific gravity of 0.94 or more,Free,,,,,2026-10-22
+39013000,8,39,Ethylene-vinyl acetate copolymers,Free,,,,,2026-10-22
+390140,6,39,"Ethylene-alpha-olefin copolymers, having a specific gravity less than 0.94",,,,,,2026-10-22
+39014010,8,39,"Linear low density polyethylene (LLDPE), in which ethylene monomer unit contributes less than 95 percent by weight of the total polymer content",Free,,,,,2026-10-22
+39014090,8,39,Other,Free,,,,,2026-10-22
+39019000,8,39,Other,Free,,,38/2015-2020,2020-01-01,2026-10-22
+3902,4,39,"Polymers of propylene or of other olefins, in primary forms.",,,,,,2026-10-22
+39021000,8,39,Polypropylene,Free,,,,,2026-10-22
+390220,6,39,Poly iso butylene,,,,,,2026-10-22
+39022000,8,39,Poly iso butylenes,Free,,,,,2026-10-22
+39023000,8,39,Propylene copolymers,Free,,,,,2026-10-22
+39029000,8,39,Other,Free,,,,,2026-10-22
+3903,4,39,"Polymers of styrene, in primary forms.",,,,,,2026-10-22
+39031100,8,39,Polystyrene : -- Expansible,Free,,,,,2026-10-22
+390319,6,39,Polystyrene : -- Other,,,,,,2026-10-22
+39031910,8,39,Moulding Powder,Free,,,,,2026-10-22
+39031990,8,39,Other,Free,,,,,2026-10-22
+39032000,8,39,Styrene-acrylonitrile (SAN) copolymers,Free,,,,,2026-10-22
+39033000,8,39,Acrylonitrile-butadine-styrene (ABS) copolymers,Free,,,,,2026-10-22
+39039010,8,39,"Other: ---- Copolymers, solely of styrene with allyl alcohol, of any acetyl value of 175 or more",Free,,,,,2026-10-22
+39039020,8,39,"Other: ---- Brominated polystyrene, containing by weight 58percent or more but not more than 71percent of bromine, in one of the forms mentioned in Note 6(b) to this Chapter",Free,,,,,2026-10-22
+39039090,8,39,Other: ---- Other,Free,,,,,2026-10-22
+3904,4,39,"Polymers of vinyl chloride or of other halogenated olefins, primary forms.",,,,,,2026-10-22
+390410,6,39,"Poly(vinyl chloride), not mixed with any other substances",,,,,,2026-10-22
+39041010,8,39,"Poly (vinyl chloride), not mixed with any other substances: ---- Binders for pigments",Free,,,,,2026-10-22
+39041020,8,39,Suspension grade PVC resin,Free,,,,,2026-10-22
+39041090,8,39,"Poly (vinyl chloride), not mixed with any other substances: ---- Other",Free,,,,,2026-10-22
+390421,6,39,Other poly(vinyl chloride) : -- Non-plasticised,,,,,,2026-10-22
+39042110,8,39,Poly (vinyl chloride) resins,Free,,,,,2026-10-22
+39042190,8,39,Other,Free,,,,,2026-10-22
+39042200,8,39,"Other poly (vinyl chloride), mixed with other substances:--- Plasticised",,,,,,2026-10-22
+390430,6,39,Vinyl chloride-vinyl acetate copolymers,,,,,,2026-10-22
+39043010,8,39,Poly (vinyl derivatives),Free,,,,,2026-10-22
+39043090,8,39,Other,Free,,,,,2026-10-22
+39044000,8,39,Other vinyl chloride copolymers,Free,,,,,2026-10-22
+390450,6,39,Vinylidene chloride polymers,,,,,,2026-10-22
+39045010,8,39,"Vinylidene chloride polymers: ---- Copolymer of vinylidene chloride with acrylonitrite, in the form of expansible beads of a diameter of 4 micrometers or more but not more than 20 micrometers",Free,,,,,2026-10-22
+39045090,8,39,Vinylidene chloride polymers: ---- Other,Free,,,,,2026-10-22
+39046100,8,39,Fluoro-polymers : -- Polytetrafluoroethylene,Free,,,,,2026-10-22
+39046910,8,39,"Other: ---- Poly (vinyl fluoride), in one of the forms mentioned in Note 6(b) to this Chapter",Free,,,,,2026-10-22
+39046990,8,39,Other: ---- Other,Free,,,,,2026-10-22
+390490,6,39,Other,,,,,,2026-10-22
+39049010,8,39,Chlorinated poly vinyl chloride (CPVC) resin,Free,,,,,2026-10-22
+39049090,8,39,Other,Free,,,,,2026-10-22
+3905,4,39,"POLYMERS OF VINYL ACETATE OR OF OTHERVINYL ESTERS, IN PRIMARY FORMS; OTHER VINYL POLYMERS IN PRIMARY FORMS",,,,,,2026-10-22
+390512,6,39,Poly (vinyl acetate) :--In aqueous dispersion:,,,,,,2026-10-22
+39051210,8,39,"Poly(vinyl acetate) (PVA), moulding material",Free,,,,,2026-10-22
+39051220,8,39,Poly(vinyl acetate) resins,Free,,,,,2026-10-22
+39051290,8,39,Other,Free,,,,,2026-10-22
+390519,6,39,Poly (vinyl acetate) :-- Other :,,,,,,2026-10-22
+39051910,8,39,Poly(vinyl acetate) (PVA) moulding material,Free,,,,,2026-10-22
+39051920,8,39,Poly(vinyl acetate) and resins,Free,,,,,2026-10-22
+39051990,8,39,Other,Free,,,,,2026-10-22
+39052100,8,39,Vinyl acetate copolymers: ---- In aqueous dispersion,Free,,,,,2026-10-22
+39052900,8,39,Vinyl acetate copolymers: ---- Other,Free,,,,,2026-10-22
+39053000,8,39,"Vinyl acetate copolymers: ---- Poly(vinyl alcohol), whether or not containing unhydrolysed acetate groups",Free,,,,,2026-10-22
+39059100,8,39,Other : -- Copolymers,Free,,,,,2026-10-22
+390599,6,39,Other : -- Other,,,,,,2026-10-22
+39059910,8,39,Poly(vinyl pirolidone) (p alcohol),Free,,,,,2026-10-22
+39059990,8,39,Other,Free,,,,,2026-10-22
+3906,4,39,Acrylic polymers in primary forms.,,,,,,2026-10-22
+39061010,8,39,Polymethyl methacrylate: ---- Binders for pigments or inks,Free,,,,,2026-10-22
+39061090,8,39,Polymethyl methacrylate: ---- Other,Free,,,,,2026-10-22
+390690,6,39,Other,,,,,,2026-10-22
+39069040,8,39,Polymethyl methacrylate: ---- Poly (acrylic acid),Free,,,,,2026-10-22
+39069050,8,39,Polymethyl methacrylate: ---- Polyacrylonitrile (PAN),Free,,,,,2026-10-22
+39069060,8,39,Polymethyl methacrylate: ---- Copolymers of acrylonitrile,Free,,,,,2026-10-22
+39069070,8,39,Polymethyl methacrylate: ---- Sodium polyacrylate,Free,,,,,2026-10-22
+39069090,8,39,Polymethyl methacrylate: ---- Other,Free,,,,,2026-10-22
+3907,4,39,"Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms.",,,,,,2026-10-22
+39071000,8,39,Polyacetals,Free,,,,,2026-10-22
+39072100,8,39,Other polyethers: - - Bis(polyoxyethylene) methylphosphonate,Free,"Import of pre-blended polyol containing Group VI substances, including HCFC141b, is not permitted as per Ozone Depleting Substances (Regulation and Control) Amendment Rules, 2014.",,54/2015-2020,2022-02-09,2026-10-22
+390729,6,39,Other polyethers: - - Other:,,,,,,2026-10-22
+39072910,8,39,Other polyethers: - - - Poly(ether alcohols),Free,"Import of pre-blended polyol containing Group VI substances, including HCFC141b, is not permitted as per Ozone Depleting Substances (Regulation and Control) Amendment Rules, 2014.",,54/2015-2020,2022-02-09,2026-10-22
+39072990,8,39,Other polyethers: - - - Other,Free,"Import of pre-blended polyol containing Group VI substances, including HCFC141b, is not permitted as per Ozone Depleting Substances (Regulation and Control) Amendment Rules, 2014.",,54/2015-2020,2022-02-09,2026-10-22
+390730,6,39,Epoxide resins,,,,,,2026-10-22
+39073010,8,39,Epoxy resins,Free,,,,,2026-10-22
+39073090,8,39,Other,Free,,,,,2026-10-22
+39074000,8,39,Polycarbonates,Free,,,,,2026-10-22
+39075000,8,39,Alkyd resins,Free,,,,,2026-10-22
+390761,6,39,Poly(ethylene terephthalate) : -- Having a viscosity number of 78 ml/g or higher,,,,,,2026-10-22
+39076110,8,39,PET flake (chip),Prohibited,Policy condition No. 2,2,32/2015-2020,2022-09-14,2026-10-22
+39076190,8,39,Other primary form,Free,,,,,2026-10-22
+390769,6,39,Poly(ethylene terephthalate) : -- Other,,,,,,2026-10-22
+39076930,8,39,PET flake (chip),Prohibited,Policy Condition No. 2,2,32/2015-2020,2022-09-14,2026-10-22
+39076990,8,39,Other primary form,Free,,,,,2026-10-22
+39077000,8,39,Poly(lactic acid),Free,,,,,2026-10-22
+390791,6,39,Other polyesters : -- Unsaturated,,,,,,2026-10-22
+39079110,8,39,Maleic resins,Free,,,,,2026-10-22
+39079120,8,39,Polyester or contract resins,Free,,,,,2026-10-22
+39079130,8,39,Fumeric resins,Free,,,,,2026-10-22
+39079140,8,39,Diallyl phthalate resins,Free,,,,,2026-10-22
+39079150,8,39,Poly (butylene terepthalate),Free,,,,,2026-10-22
+39079190,8,39,Other,Free,,,,,2026-10-22
+39079900,8,39,Other polyesters : -- Other,Free,,,,,2026-10-22
+3908,4,39,Polyamides in primary forms.,,,,,,2026-10-22
+390810,6,39,"Polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12",,,,,,2026-10-22
+39081011,8,39,Flake (chip),Free,,,,,2026-10-22
+39081019,8,39,Other primary form,Free,,,,,2026-10-22
+39081021,8,39,Flake (chip),Free,,,,,2026-10-22
+39081029,8,39,Other primary form,Free,,,,,2026-10-22
+39081031,8,39,Flake (chip),Free,,,,,2026-10-22
+39081039,8,39,Other primary form,Free,,,,,2026-10-22
+39081041,8,39,Flake(chip),Free,,,,,2026-10-22
+39081049,8,39,Other primary form,Free,,,,,2026-10-22
+39081051,8,39,Flake (chip),Free,,,,,2026-10-22
+39081059,8,39,Other primary form,Free,,,,,2026-10-22
+39081061,8,39,Flake (chip),Free,,,,,2026-10-22
+39081069,8,39,Other primary form,Free,,,,,2026-10-22
+39081071,8,39,Flake (chip),Free,,,,,2026-10-22
+39081079,8,39,Other primary form,Free,,,,,2026-10-22
+39089000,8,39,Other,Free,,,,,2026-10-22
+3909,4,39,"Amino-resins, phenolic resins and polyurethanes, in primary forms.",,,,,,2026-10-22
+390910,6,39,Urea resins; thiourea resins,,,,,,2026-10-22
+39091010,8,39,Urea formaldehyde moulding powder,Free,,,,,2026-10-22
+39091090,8,39,Other,Free,,,,,2026-10-22
+39092010,8,39,Melamine formaldehyde resins,Free,,,,,2026-10-22
+39092090,8,39,Other,Free,,,,,2026-10-22
+39093100,8,39,"Other amino-resins : -- Poly(methylene phenyl isocyanate) (crude MDI, polymeric MDI)",Free,,,,,2026-10-22
+390939,6,39,Other amino-resins : -- Other,,,,,,2026-10-22
+39093910,8,39,Poly(phenylene oxide),Free,,,,,2026-10-22
+39093990,8,39,Other,Free,,,,,2026-10-22
+390940,6,39,Phenolic resins,,,,,,2026-10-22
+39094010,8,39,Cresol formaldehyde oxide,Free,,,,,2026-10-22
+39094020,8,39,Phenol formaldehyde resins,Free,,,,,2026-10-22
+39094030,8,39,Alkyl Phenol formaldehyde resins,Free,,,,,2026-10-22
+39094040,8,39,Ketonic resins,Free,,,,,2026-10-22
+39094050,8,39,Phenoxi resins,Free,,,,,2026-10-22
+39094060,8,39,Terpene phenolic resins,Free,,,,,2026-10-22
+39094090,8,39,Other,Free,,,,,2026-10-22
+39095000,8,39,Polyurethanes,Free,,,,,2026-10-22
+3910,4,39,Silicones in primary forms.,,,,,,2026-10-22
+391000,6,39,Silicones in primary forms,,,,,,2026-10-22
+39100010,8,39,Silicone resins,Free,,,,,2026-10-22
+39100020,8,39,Silicone oil,Free,,,,,2026-10-22
+39100090,8,39,Other,Free,,,,,2026-10-22
+3911,4,39,"Petroleum resins, coumarone-indene resins, polyterpenes, polysulphides, polysulphones and other products specified in Note 3 to this Chapter, not elsewhere specified or included, in primary forms.",,,,,,2026-10-22
+391110,6,39,"petroleum resins, coumarone, indene or coumarone-indene resins and polyterpenes",,,,,,2026-10-22
+39111010,8,39,Coumarone-indene resins,Free,,,,,2026-10-22
+39111090,8,39,Other,Free,,,,,2026-10-22
+39112000,8,39,"Poly (1,3-phenylene methylphosphonate)",Free,,,54/2015-2020,2022-02-09,2026-10-22
+391190,6,39,Other,,,,,,2026-10-22
+39119010,8,39,Polysulphones,Free,,,,,2026-10-22
+39119090,8,39,Other,Free,,,,,2026-10-22
+3912,4,39,"Cellulose and its chemical derivatives, not elsewhere specified or included, in primary forms.",,,,,,2026-10-22
+391211,6,39,Cellulose acetates : -- Non-plasticised,,,,,,2026-10-22
+39121110,8,39,Cellulose acetate flakes,Free,,,,,2026-10-22
+39121120,8,39,Cellulose acetate moulding powder,Free,,,,,2026-10-22
+39121130,8,39,Cellulose acetobutyrate moulding powder,Free,,,,,2026-10-22
+39121140,8,39,"Cellulose nitrate, dynamic grade",Free,,,,,2026-10-22
+39121190,8,39,Other,Free,,,,,2026-10-22
+391212,6,39,Cellulose acetates : -- Plasticised,,,,,,2026-10-22
+39121210,8,39,Cellulose acetate flakes,Free,,,,,2026-10-22
+39121220,8,39,Cellulose acetate moulding powder,Free,,,,,2026-10-22
+39121230,8,39,Cellulose acetobutyrate moulding powder,Free,,,,,2026-10-22
+39121290,8,39,Other,Free,,,,,2026-10-22
+391220,6,39,Cellulose nitrates (including collodions),,,,,,2026-10-22
+39122011,8,39,Non-plasticised: ---- Moulding powders,Free,,,,,2026-10-22
+39122019,8,39,Non-plasticised: ---- Other,Free,,,,,2026-10-22
+39122021,8,39,Plasticised: ---- Moulding powders,Free,,,,,2026-10-22
+39122029,8,39,Plasticised: ---- Other,Free,,,,,2026-10-22
+39123100,8,39,Cellulose ethers : -- Carboxymethylcellulose and its salts,Free,,,,,2026-10-22
+391239,6,39,Cellulose ethers : -- Other,,,,,,2026-10-22
+39123911,8,39,Ethylcellulose,Free,,,,,2026-10-22
+39123912,8,39,Methylcellulose,Free,,,,,2026-10-22
+39123919,8,39,Other cellulose ethers,Free,,,,,2026-10-22
+39123921,8,39,Plasticised: ---- Ethyl cellulose,Free,,,,,2026-10-22
+39123922,8,39,Plasticised: ---- Methyl cellulose,Free,,,,,2026-10-22
+39123929,8,39,Plasticised: ---- Other cellulose ether,Free,,,,,2026-10-22
+391290,6,39,Other,,,,,,2026-10-22
+39129010,8,39,Cellulose Propionate and aceto propionate non plasticized,Free,,,,,2026-10-22
+39129020,8,39,Viscose sponge,Free,,,,,2026-10-22
+39129090,8,39,Other,Free,,,,,2026-10-22
+3913,4,39,"Natural polymers (for example, alginic acid) and modified natural polymers (for example, hardened proteins, chemical derivatives of natural rubber), not elsewhere specified or included, in primary forms.",,,,,,2026-10-22
+391310,6,39,"Alginic acid, its salts and esters",,,,,,2026-10-22
+39131010,8,39,Sodium Alginate,Free,,,,,2026-10-22
+39131090,8,39,Other,Free,,,,,2026-10-22
+391390,6,39,Other,,,,,,2026-10-22
+39139011,8,39,Chlorinated Rubber,Free,,,,,2026-10-22
+39139019,8,39,Other,Free,,,,,2026-10-22
+39139020,8,39,"Hardened proteins (such as hardened casein, gelatin",Free,,,,,2026-10-22
+39139030,8,39,Dextran,Free,,,,,2026-10-22
+39139090,8,39,Other,Free,,,,,2026-10-22
+3914,4,39,"Ion-exchangers based on polymers of headings 39.01 to 39.13, in primary forms.",,,,,,2026-10-22
+391400,6,39,"Ion exchangers based on polymers of headings 3901 to 3913, in primary forms:",,,,,,2026-10-22
+39140010,8,39,"Ion-exchangers of the condensation, polycondensation or polyaddition type",Free,,,,,2026-10-22
+39140020,8,39,Ion-exchangers of polymerisation or co-polymerisation type,Free,,,,,2026-10-22
+39140090,8,39,Other,Free,,,,,2026-10-22
+3915,4,39,"Waste, parings and scrap, of plastics.",,,,,,2026-10-22
+39151000,8,39,Of polymers of ethylene,Restricted,,,,,2026-10-22
+39152000,8,39,Of polymers of styrene,Restricted,,,,,2026-10-22
+391530,6,39,Of polymers of vinyl chloride,,,,,,2026-10-22
+39153010,8,39,Of copolymers of vinyl chloride,Restricted,,,,,2026-10-22
+39153090,8,39,Other,Restricted,,,,,2026-10-22
+391590,6,39,Of other plastics,,,,,,2026-10-22
+39159010,8,39,Of polypropylene,Restricted,,,,,2026-10-22
+39159021,8,39,Of polymers of vinyl acetate: ---- Of copolymers of vinyl acetate,Restricted,,,,,2026-10-22
+39159029,8,39,Of polymers of vinyl acetate: ---- Other,Restricted,,,,,2026-10-22
+39159030,8,39,Of polymers of vinyl acetate: ---- Of acrylic polymers and methlyacrylic copolymers,Restricted,,,,,2026-10-22
+39159041,8,39,"Of alkyds, polyesters and epoxide resins: ---- Of alkyds and polyesters",Restricted,,,,,2026-10-22
+39159042,8,39,"Of alkyds, polyesters and epoxide resins: ---- Of PET Bottles",Prohibited,-,,DGFT Notification No. 26/2015-2020 & MoEF&CC OM File No. 23/66/2019-HSMD dated 15.03.2022,2019-10-24,2026-10-22
+39159049,8,39,"Of alkyds, polyesters and epoxide resins: ---- Of epoxide resins",Restricted,,,,,2026-10-22
+39159050,8,39,"Of alkyds, polyesters and epoxide resins: ---- Of polyamides",Restricted,,,,,2026-10-22
+39159061,8,39,Of Amino resins and phenolic resins and polyurethanes: ---- Of phenoplast,Restricted,,,,,2026-10-22
+39159062,8,39,Of Amino resins and phenolic resins and polyurethanes: ---- Of aminoplast,Restricted,,,,,2026-10-22
+39159063,8,39,Of Amino resins and phenolic resins and polyurethanes: ---- Of polyurethanes,Restricted,,,,,2026-10-22
+39159071,8,39,Of cellulose and its chemical derivatives: ---- Of regenerated cellulose,Restricted,,,,,2026-10-22
+39159072,8,39,Of cellulose and its chemical derivatives: ---- Cellulose plastic waste such as cellulose nitrates film scrap non-plasticised,Restricted,,,,,2026-10-22
+39159073,8,39,Of cellulose and its chemical derivatives: ---- Cellulose plastic waste such as cellulose nitrates plasticized,Restricted,,,,,2026-10-22
+39159074,8,39,Of cellulose and its chemical derivatives: ---- Cellulose plastic waste such as cellulose acetate film scrap non-plasticised,Restricted,,,,,2026-10-22
+39159075,8,39,Of cellulose and its chemical derivatives: ---- Cellulose plastic waste such as cellulose acetate film scrap plasticized,Restricted,,,,,2026-10-22
+39159079,8,39,Of cellulose and its chemical derivatives: ---- Other,Restricted,.,,08/2023,2023-05-29,2026-10-22
+39159090,8,39,Of cellulose and its chemical derivatives: ---- Other,Restricted,,,,,2026-10-22
+3916,4,39,"Monofilament of which any cross-sectional dimension exceeds 1 mm, rods, sticks and profile shapes, whether or not surface- worked but not otherwise worked, of plastics.",,,,,,2026-10-22
+391610,6,39,Of polymers of ethylene,,,,,,2026-10-22
+39161010,8,39,Rods of polyethylene,Free,,,,,2026-10-22
+39161020,8,39,Canes,Free,,,,,2026-10-22
+39161090,8,39,Other,Free,,,,,2026-10-22
+391620,6,39,Of polymers of vinyl chloride,,,,,,2026-10-22
+39162011,8,39,Canes,Free,,,,,2026-10-22
+39162019,8,39,Other,Free,,,,,2026-10-22
+39162091,8,39,Other: ---- Canes,Free,,,,,2026-10-22
+39162099,8,39,Other: ---- Other,Free,,,,,2026-10-22
+391690,6,39,Of other plastics,,,,,,2026-10-22
+39169010,8,39,Canes,Free,,,,,2026-10-22
+39169021,8,39,Of phenoplast,Free,,,,,2026-10-22
+39169022,8,39,Of aminoplast,Free,,,,,2026-10-22
+39169023,8,39,Of alkyds and polyesters,Free,,,,,2026-10-22
+39169024,8,39,Of polyamides,Free,,,,,2026-10-22
+39169025,8,39,Of polyurethanes,Free,,,,,2026-10-22
+39169026,8,39,Of epoxide-resins (including waste and scrap),Free,,,,,2026-10-22
+39169027,8,39,Of Polypropylene,Free,,,,,2026-10-22
+39169028,8,39,Of acrylicmethacrylic and acrylomethcrylic polymers,Free,,,,,2026-10-22
+39169031,8,39,Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of polymerisation and copolymerisation products of polystyrene,Free,,,,,2026-10-22
+39169032,8,39,Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of polymethyl methacrylate,Prohibited,,,13/2015-2020,2019-08-28,2026-10-22
+39169040,8,39,Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of regenerated cellulose,Free,,,,,2026-10-22
+39169050,8,39,"Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of cellulose nitrate and celluloid, whether or not plasticized",Free,,,,,2026-10-22
+39169060,8,39,Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of vulcanized fibre,Free,,,,,2026-10-22
+39169070,8,39,"Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of cellulose acetate and acetate butyrate, whether or not plasticized",Free,,,,,2026-10-22
+39169080,8,39,Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of vinyl plastic,Free,,,,,2026-10-22
+39169090,8,39,Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of other polymerisation and copolymerisation products,Free,,,,,2026-10-22
+3917,4,39,"Tubes, pipes and hoses, and fittings therefor (for example, joints, elbows, flanges), of plastics.",,,,,,2026-10-22
+39171010,8,39,Artificial guts (sausage casings) of hardened protein or of cellulosic materials: ---- Of hardened protein,Free,,,,,2026-10-22
+39171020,8,39,Artificial guts (sausage casings) of hardened protein or of cellulosic materials: ---- Of cellulosic materials,Free,,,,,2026-10-22
+391721,6,39,"Tubes, pipes and hoses, rigid : -- Of polymers of ethylene",,,,,,2026-10-22
+39172110,8,39,Tubes of polyethylene,Free,,,,,2026-10-22
+39172190,8,39,Other,Free,,,,,2026-10-22
+39172200,8,39,"Tubes, pipes and hoses, rigid : -- Of polymers of propylene",Free,,,,,2026-10-22
+391723,6,39,"Tubes, pipes and hoses, rigid : -- Of polymers of vinyl chloride",,,,,,2026-10-22
+39172310,8,39,Seamless tubes,Free,,,,,2026-10-22
+39172390,8,39,Other,Free,,,,,2026-10-22
+391729,6,39,"Tubes, pipes and hoses, rigid : -- Of other plastics",,,,,,2026-10-22
+39172910,8,39,Seamless tubes of copolymers of vinyl acetate and vinyl chloride,Free,,,,,2026-10-22
+39172920,8,39,Seamless tubes of polymers and copolymers of polystyrene,Free,,,,,2026-10-22
+39172930,8,39,"Tubes of cellulose nitrate and celluloid, whether or not plasticized",Free,,,,,2026-10-22
+39172940,8,39,Tubes of cellulose acetate or acetate butyrate,Free,,,,,2026-10-22
+39172950,8,39,Tubes of vinyl plastics,Free,,,,,2026-10-22
+39172990,8,39,Other,Free,,,,,2026-10-22
+39173100,8,39,"Other tubes, pipes and hoses : -- Flexible tubes, pipes and hoses, having a minimum burst pressure of 27.6 Mpa",Free,,,,,2026-10-22
+39173210,8,39,"Other, not reinforced or otherwise combined with other materials, without fittings: ---- Of condensation or rearrangement polymerisation products, whether or not chemically modified",Free,,,,,2026-10-22
+39173220,8,39,"Other, not reinforced or otherwise combined with other materials, without fittings: ---- Of addition polymerisation products",Free,,,,,2026-10-22
+39173290,8,39,"Other, not reinforced or otherwise combined with other materials, without fittings: ---- Other",Free,,,,,2026-10-22
+39173300,8,39,"Other tubes, pipes and hoses : -- Other, not reinforced or otherwise combined with other materials, with fittings",Free,,,,,2026-10-22
+391739,6,39,"Other tubes, pipes and hoses : -- Other",,,,,,2026-10-22
+39173910,8,39,"Of condensation or rearrangement polymerisation products, whether or not chemically modified",Free,,,,,2026-10-22
+39173920,8,39,Of addition polymerisation products,Free,,,,,2026-10-22
+39173990,8,39,Other,Free,,,,,2026-10-22
+39174000,8,39,Fittings,Free,,,,,2026-10-22
+3918,4,39,"Floor coverings of plastics, whether or not self-adhesive, in rollsor in the form of tiles; wall or ceiling coverings of plastics, as defined in Note 9 to this Chapter.",,,,,,2026-10-22
+391810,6,39,Of polymers of vinyl chloride,,,,,,2026-10-22
+39181010,8,39,"Wall or ceiling coverings combined with knitted or woven fabrics, nonwovens or felts",Free,,,,,2026-10-22
+39181090,8,39,Other,Free,,,,,2026-10-22
+391890,6,39,Of other plastics,,,,,,2026-10-22
+39189010,8,39,Floor coverings of linoxyne,Free,,,,,2026-10-22
+39189020,8,39,"Wall or ceiling coverings combined with knitted or woven fabrics, nonwovens or felts",Free,,,,,2026-10-22
+39189090,8,39,Other,Free,,,,,2026-10-22
+3919,4,39,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls.",,,,,,2026-10-22
+39191000,8,39,In rolls of a width not exceeding 20 cm,Free,,,,,2026-10-22
+391990,6,39,Other,,,,,,2026-10-22
+39199010,8,39,"Plastic stickers, whether or not printed, embossed, and or impregnated.",Free,,,,,2026-10-22
+39199020,8,39,Cellulose adhesive tape,Free,,,,,2026-10-22
+39199090,8,39,Other,Free,,,,,2026-10-22
+3920,4,39,"Other plates, sheets, film, foil and strip, of plastics, non-cellular and not reinforced, laminated, supported or similarly combined with other materials.",,,,,,2026-10-22
+392010,6,39,Of polymers of ethylene,,,,,,2026-10-22
+39201011,8,39,"Sheets of polyethylene: ---- Rigid, plain",Free,,,,,2026-10-22
+39201012,8,39,"Sheets of polyethylene: ---- Flexible, plain",Free,,,,,2026-10-22
+39201013,8,39,"Sheets of polyethylene: ---- Geomembrane, confirming to IS 16352",Free,-,,20/2015-2020,2022-07-07,2026-10-22
+39201019,8,39,Sheets of polyethylene: ---- Other,Free,,,,,2026-10-22
+39201091,8,39,"Other: ---- Rigid, plain",Free,,,,,2026-10-22
+39201092,8,39,"Other: ---- Flexible, plain",Free,,,,,2026-10-22
+39201093,8,39,Armour for ballistic protection,Free,.,,40/2024-25,2024-11-26,2026-10-22
+39201099,8,39,Other: ---- Other,Free,,,,,2026-10-22
+392020,6,39,Of polymers of propylene,,,,,,2026-10-22
+39202010,8,39,"Rigid, plain",Free,,,,,2026-10-22
+39202020,8,39,"Flexible, plain",Free,,,,,2026-10-22
+39202090,8,39,Other,Free,,,,,2026-10-22
+392030,6,39,Of polymers of styrene,,,,,,2026-10-22
+39203010,8,39,"Rigid, plain",Free,,,,,2026-10-22
+39203020,8,39,"Flexible, plain",Free,,,,,2026-10-22
+39203090,8,39,Other,Free,,,,,2026-10-22
+39204300,8,39,Of polymers of vinyl chloride : -- Containing by weight not less than 6 percent of plasticisers,Free,,,,,2026-10-22
+39204900,8,39,Of polymers of vinyl chloride : -- Other,Free,,,,,2026-10-22
+392051,6,39,Of acrylic polymers : -- Of poly(methyl methacrylate),,,,,,2026-10-22
+39205111,8,39,"Sheets : ---- Rigid, plain",Free,,,,,2026-10-22
+39205112,8,39,"Sheets : ---- Flexible, plain",Free,,,,,2026-10-22
+39205119,8,39,Sheets : ---- Other,Free,,,,,2026-10-22
+39205191,8,39,"Other: ---- Rigid, plain",Free,,,,,2026-10-22
+39205192,8,39,"Other: ---- Flexible, plain",Free,,,,,2026-10-22
+39205199,8,39,Other: ---- Other,Free,,,,,2026-10-22
+392059,6,39,Of acrylic polymers : -- Other,,,,,,2026-10-22
+39205911,8,39,"Polyacrylate Sheets: ---- Rigid, plain",Free,,,,,2026-10-22
+39205912,8,39,"Polyacrylate Sheets: ---- Flexible, plain",Free,,,,,2026-10-22
+39205919,8,39,Polyacrylate Sheets: ---- Other,Free,,,,,2026-10-22
+39205991,8,39,"Other: ---- Rigid, plain",Free,,,,,2026-10-22
+39205992,8,39,"Other: ---- Flexible, plain",Free,,,,,2026-10-22
+39205999,8,39,Other: ---- Other,Free,,,,,2026-10-22
+392061,6,39,"Of polycarbonates, alkyd resins, polyallyl esters or other polyester : -- Of polycarbonates",,,,,,2026-10-22
+39206110,8,39,"Rigid, plain",Free,,,,,2026-10-22
+39206120,8,39,"Flexible, plain",Free,,,,,2026-10-22
+39206190,8,39,Other,Free,,,,,2026-10-22
+392062,6,39,"Of polycarbonates, alkyd resins, polyallyl esters or other polyester : -- Of poly(ethylene terephthalate)",,,,,,2026-10-22
+39206210,8,39,"Rigid, plain",Free,,,,,2026-10-22
+39206220,8,39,"Flexible, plain",Free,,,,,2026-10-22
+39206290,8,39,Other,Free,,,,,2026-10-22
+392063,6,39,"Of polycarbonates, alkyd resins, polyallyl esters or other polyester : -- Of unsaturated polyesters",,,,,,2026-10-22
+39206310,8,39,"Rigid, plain",Free,,,,,2026-10-22
+39206320,8,39,"Flexible, plain",Free,,,,,2026-10-22
+39206390,8,39,Other,Free,,,,,2026-10-22
+392069,6,39,"Of polycarbonates, alkyd resins, polyallyl esters or other polyester : -- Of other polyesters",,,,,,2026-10-22
+39206911,8,39,"Packaging film: ---- Rigid, plain",Free,,,,,2026-10-22
+39206912,8,39,"Packaging film: ---- Flexible, plain",Free,,,,,2026-10-22
+39206919,8,39,Packaging film: ---- Other,Free,,,,,2026-10-22
+39206921,8,39,"Sun and/or dust control film: ---- Rigid, plain",Free,,,,,2026-10-22
+39206922,8,39,"Sun and/or dust control film: ---- Flexible, plain",Free,,,,,2026-10-22
+39206929,8,39,Sun and/or dust control film: ---- Other,Free,,,,,2026-10-22
+39206931,8,39,"Other film: ---- Rigid, plain",Free,,,,,2026-10-22
+39206932,8,39,"Other film: ---- Flexible, plain",Free,,,,,2026-10-22
+39206939,8,39,Other film: ---- Other,Free,,,,,2026-10-22
+39206991,8,39,"Other: ---- Rigid, plain",Free,,,,,2026-10-22
+39206992,8,39,"Other: ---- Flexible, plain",Free,,,,,2026-10-22
+39206999,8,39,Other: ---- Other,Free,,,,,2026-10-22
+392071,6,39,Of cellulose or its chemical derivatives : -- Of regenerated cellulose,,,,,,2026-10-22
+39207111,8,39,Cello phane transparent: ---- Film,Free,,,,,2026-10-22
+39207119,8,39,Cello phane transparent: ---- Other,Free,,,,,2026-10-22
+39207121,8,39,"Sheets of cellulose nitrate and celluloid, whether or not plasticized ---- Plain",Free,,,,,2026-10-22
+39207129,8,39,"Sheets of cellulose nitrate and celluloid, whether or not plasticized ---- Other",Free,,,,,2026-10-22
+39207191,8,39,"Other: ---- Rigid, plain",Free,,,,,2026-10-22
+39207192,8,39,"Other: ---- Flexible, Plain",Free,,,,,2026-10-22
+39207199,8,39,Other: ---- Other,Free,,,,,2026-10-22
+392073,6,39,Of cellulose or its chemical derivatives : -- Of cellulose acetate,,,,,,2026-10-22
+39207311,8,39,"Sheet of cellulose acetate, non-plasticized: ---- Rigid, plain",Free,,,,,2026-10-22
+39207312,8,39,"Sheet of cellulose acetate, non-plasticized: ---- Flexible, plain",Free,,,,,2026-10-22
+39207319,8,39,"Sheet of cellulose acetate, non-plasticized: ---- Other",Free,,,,,2026-10-22
+39207321,8,39,"Sheets of cellulose acetate (plasticized) : ---- Rigid, plain",Free,,,,,2026-10-22
+39207322,8,39,"Sheets of cellulose acetate (plasticized) : ---- Flexible, plain",Free,,,,,2026-10-22
+39207329,8,39,Sheets of cellulose acetate (plasticized) : ---- Other,Free,,,,,2026-10-22
+39207391,8,39,"Other: ---- Rigid, plain",Free,,,,,2026-10-22
+39207392,8,39,"Other: ---- Flexible, plain",Free,,,,,2026-10-22
+39207399,8,39,Other: ---- Other,Free,,,,,2026-10-22
+392079,6,39,Of cellulose or its chemical derivatives : -- Of other cellulose derivatives,,,,,,2026-10-22
+39207911,8,39,"Sheets of cellulose nitrate and celluloid, whether or not plasticized: ---- Rigid, plain",Free,,,,,2026-10-22
+39207912,8,39,"Sheets of cellulose nitrate and celluloid, whether or not plasticized: ---- Flexible, plain",Free,,,,,2026-10-22
+39207919,8,39,"Sheets of cellulose nitrate and celluloid, whether or not plasticized: ---- Other",Free,,,,,2026-10-22
+39207991,8,39,"Other: ---- Rigid , plain",Free,,,,,2026-10-22
+39207992,8,39,"Other: ---- Flexible, plain",Free,,,,,2026-10-22
+39207999,8,39,Other: ---- Other,Free,,,,,2026-10-22
+392091,6,39,Of other plastics : -- Of poly(vinyl butyral),,,,,,2026-10-22
+39209110,8,39,"Of poly (vinyl butyral): ---- Rigid, plain",Free,,,,,2026-10-22
+39209120,8,39,"Of poly (vinyl butyral): ---- Flexible, plain",Free,,,,,2026-10-22
+39209190,8,39,Of poly (vinyl butyral): ---- Other,Free,,,,,2026-10-22
+392092,6,39,Of other plastics : -- Of polyamides,,,,,,2026-10-22
+39209211,8,39,"Poly (amide fluoride) film: ---- Rigid, plain",Free,,,,,2026-10-22
+39209212,8,39,"Poly (amide fluoride) film: ---- Flexible, plain",Free,,,,,2026-10-22
+39209219,8,39,Poly (amide fluoride) film: ---- Other,Free,,,,,2026-10-22
+39209291,8,39,"Other: ---- Rigid, plain",Free,,,,,2026-10-22
+39209292,8,39,"Other: ---- Flexible, plain",Free,,,,,2026-10-22
+39209299,8,39,Other: ---- Other,Free,,,,,2026-10-22
+392093,6,39,Of other plastics : -- Of amino-resins,,,,,,2026-10-22
+39209310,8,39,"Rigid, plain",Free,,,,,2026-10-22
+39209320,8,39,"Flexible, plain",Free,,,,,2026-10-22
+39209390,8,39,Other,Free,,,,,2026-10-22
+392094,6,39,Of other plastics : -- Of phenolic resins,,,,,,2026-10-22
+39209410,8,39,"Rigid, plain",Free,,,,,2026-10-22
+39209420,8,39,"Flexible, plain",Free,,,,,2026-10-22
+39209490,8,39,Other,Free,,,,,2026-10-22
+392099,6,39,Of other plastics : -- Of other plastics,,,,,,2026-10-22
+39209911,8,39,"Plates, sheets, film, foil and strip of poly(vinyl acetate): ---- Rigid, plain",Free,,,,,2026-10-22
+39209912,8,39,"Plates, sheets, film, foil and strip of poly(vinyl acetate): ---- Flexible, plain",Free,,,,,2026-10-22
+39209919,8,39,"Plates, sheets, film, foil and strip of poly(vinyl acetate): ---- Other",Free,,,,,2026-10-22
+39209921,8,39,"Film, sheets, strip of vinyl plastics: ---- Rigid, plain",Free,,,,,2026-10-22
+39209922,8,39,"Film, sheets, strip of vinyl plastics: ---- Flexible, plain",Free,,,,,2026-10-22
+39209929,8,39,"Film, sheets, strip of vinyl plastics: ---- Other",Free,,,,,2026-10-22
+39209931,8,39,"Plates, sheets, strip, film or foil of copolymers of vinyl chloride and vinyl acetate: ---- Rigid, plain",Free,,,,,2026-10-22
+39209932,8,39,"Plates, sheets, strip, film or foil of copolymers of vinyl chloride and vinyl acetate: ---- Flexible, plain",Free,,,,,2026-10-22
+39209939,8,39,"Plates, sheets, strip, film or foil of copolymers of vinyl chloride and vinyl acetate: ---- Other",Free,,,,,2026-10-22
+39209941,8,39,"Sheet of Poly (tetrafluoro-ethylene) (PTFE): ---- Rigid, plain",Free,,,,,2026-10-22
+39209942,8,39,"Sheet of Poly (tetrafluoro-ethylene) (PTFE): ---- Flexible, plain",Free,,,,,2026-10-22
+39209949,8,39,Sheet of Poly (tetrafluoro-ethylene) (PTFE): ---- Other,Free,,,,,2026-10-22
+39209951,8,39,"Retro reflective sheeting: ---- Rigid, plain",Free,,,,,2026-10-22
+39209952,8,39,"Retro reflective sheeting: ---- Flexible, plain",Free,,,,,2026-10-22
+39209959,8,39,Retro reflective sheeting: ---- Other,Free,,,,,2026-10-22
+39209960,8,39,Retro reflective sheeting: ---- Clicking boards for leather machinery,Free,,,,,2026-10-22
+39209991,8,39,"Other: ---- Rigid, plain",Free,,,,,2026-10-22
+39209992,8,39,"Other: ---- Flexible, plain",Free,,,,,2026-10-22
+39209999,8,39,Other: ---- Other,Free,,,,,2026-10-22
+3921,4,39,"Other plates, sheets, film, foil and strip, of plastics.",,,,,,2026-10-22
+39211100,8,39,Cellular : -- Of polymers of styrene,Free,,,,,2026-10-22
+39211200,8,39,Cellular : -- Of polymers of vinyl chloride,Free,,,,,2026-10-22
+392113,6,39,Cellular : -- Of polyurethanes,,,,,,2026-10-22
+39211310,8,39,Flexible,Free,,,,,2026-10-22
+39211390,8,39,Other,Free,,,,,2026-10-22
+39211400,8,39,Cellular : -- Of regenerated cellulose,Free,,,,,2026-10-22
+39211900,8,39,Cellular : -- Of other plastics,Free,,,,,2026-10-22
+392190,6,39,Other,,,,,,2026-10-22
+39219010,8,39,Thermocol,Free,,,,,2026-10-22
+39219021,8,39,"Of polymers of vinyl chloride : ---- Rigid, lacquered",Free,,,,,2026-10-22
+39219022,8,39,"Of polymers of vinyl chloride : ---- Flexible, lacquered",Free,,,,,2026-10-22
+39219023,8,39,"Of polymers of vinyl chloride : ---- Rigid, metallised",Free,,,,,2026-10-22
+39219024,8,39,"Of polymers of vinyl chloride : ---- Flexible, metallised",Free,,,,,2026-10-22
+39219025,8,39,"Of polymers of vinyl chloride : ---- Rigid, laminated",Free,,,,,2026-10-22
+39219026,8,39,"Of polymers of vinyl chloride : ---- Flexible, laminated",Free,,,,,2026-10-22
+39219027,8,39,Architectural membrane,Free,.,,40/2024-25,2024-11-26,2026-10-22
+39219029,8,39,Of polymers of vinyl chloride : ---- Other,Free,,,,,2026-10-22
+39219031,8,39,"Of regenerated cellulose : ---- Rigid, lacquered",Free,,,,,2026-10-22
+39219032,8,39,"Of regenerated cellulose : ---- Flexible, lacquered",Free,,,,,2026-10-22
+39219033,8,39,"Of regenerated cellulose : ---- Rigid, metallised",Free,,,,,2026-10-22
+39219034,8,39,"Of regenerated cellulose : ---- Flexible, metallised",Free,,,,,2026-10-22
+39219035,8,39,"Of regenerated cellulose : ---- Rigid, laminated",Free,,,,,2026-10-22
+39219036,8,39,"Of regenerated cellulose : ---- Flexible, laminated",Free,,,,,2026-10-22
+39219039,8,39,Of regenerated cellulose : ---- Other,Free,,,,,2026-10-22
+39219091,8,39,"Other: ---- Rigid, lacquered",Free,,,,,2026-10-22
+39219092,8,39,"Other: ---- Flexible, lacquered",Free,,,,,2026-10-22
+39219093,8,39,"Other: ---- Rigid, metallised",Free,,,,,2026-10-22
+39219094,8,39,"Other: ---- Flexible, metallised",Free,,,,,2026-10-22
+39219095,8,39,"Other: ---- Rigid, laminated",Free,,,,,2026-10-22
+39219096,8,39,"Other: ---- Flexible, laminated",Free,,,,,2026-10-22
+39219099,8,39,Other: ---- Other,Free,,,,,2026-10-22
+3922,4,39,"Baths, shower-baths, sinks, wash-basins, bidets, lavatory pans, seats and covers, flushing cisterns and similar sanitary ware, of plastics.",,,,,,2026-10-22
+39221000,8,39,"Baths, shower-baths, sinks and wash basins",Free,,,,,2026-10-22
+39222000,8,39,Lavatory seats and covers,Free,,,,,2026-10-22
+39229000,8,39,Other,Free,,,,,2026-10-22
+3923,4,39,"Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics.",,,,,,2026-10-22
+392310,6,39,"Boxes, cases, crates and similar articles",,,,,,2026-10-22
+39231010,8,39,"Plastic containers for audio or video cassettes, cassette tapes, floppy disk and similar articles",Free,,,,,2026-10-22
+39231020,8,39,"Watch-box, jewellery box and similar containers of plastics",Free,,,,,2026-10-22
+39231030,8,39,Insulated ware,Free,,,,,2026-10-22
+39231040,8,39,Packing for accommodating connectors,Free,,,,,2026-10-22
+39231090,8,39,Other,Free,,,,,2026-10-22
+39232100,8,39,Sacks and bags (including cones) : -- Of polymers of ethylene,Free,,,,,2026-10-22
+392329,6,39,Sacks and bags (including cones) : -- Of other plastics,,,,,,2026-10-22
+39232910,8,39,Of poly (vinyl chloride),Free,,,,,2026-10-22
+39232991,8,39,--- Other : ---- Biodegradable,Free,,,24/2026-27,2026-07-22,2026-10-22
+39232999,8,39,--- Other :---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+392330,6,39,"Carboys, bottles, flasks and similar articles",,,,,,2026-10-22
+39233010,8,39,Insulated ware,Free,,,,,2026-10-22
+39233090,8,39,Other,Free,,,,,2026-10-22
+39234000,8,39,"Spools, cops, bobbins and similar supports",Free,,,,,2026-10-22
+392350,6,39,"Stoppers, lids, caps and other closures",,,,,,2026-10-22
+39235010,8,39,Caps and closures for bottles,Free,,,,,2026-10-22
+39235090,8,39,Other,Free,,,,,2026-10-22
+392390,6,39,Other,,,,,,2026-10-22
+39239010,8,39,Insulated ware,Free,,,,,2026-10-22
+39239020,8,39,Aseptic bags,Free,,,,,2026-10-22
+39239090,8,39,Other,Free,,,,,2026-10-22
+3924,4,39,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics.",,,,,,2026-10-22
+392410,6,39,Tableware and kitchenware,,,,,,2026-10-22
+39241010,8,39,Insulated ware,Free,,,,,2026-10-22
+39241090,8,39,Other,Free,,,,,2026-10-22
+392490,6,39,Other,,,,,,2026-10-22
+39249010,8,39,Toilet articles,Free,,,,,2026-10-22
+39249020,8,39,Insulated ware,Free,,,,,2026-10-22
+39249090,8,39,Other,Free,,,,,2026-10-22
+3925,4,39,"Builders ware of plastics, not elsewhere specified or included.",,,,,,2026-10-22
+39251000,8,39,"Reservoirs, tanks, vats and similar containers, of a capacity exceeding 300 l",Free,,,,,2026-10-22
+39252000,8,39,"Doors, windows and their frames and thresholds for doors",Free,,,,,2026-10-22
+39253000,8,39,"Shutters, blinds (including Venetian blinds) and similar articles and parts thereof",Free,,,,,2026-10-22
+392590,6,39,Other,,,,,,2026-10-22
+39259010,8,39,Of polyurethane,Free,,,,,2026-10-22
+39259090,8,39,Other,Free,,,,,2026-10-22
+3926,4,39,Other articles of plastics and articles of other materials of headings 39.01 to 39.14.,,,,,,2026-10-22
+392610,6,39,Office or school supplies,,,,,,2026-10-22
+39261011,8,39,Of polyurethane foam,Free,,,,,2026-10-22
+39261019,8,39,Other,Free,,,,,2026-10-22
+39261091,8,39,Other: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39261099,8,39,Other: ---- Other,Free,,,,,2026-10-22
+392620,6,39,"Articles of apparel and clothing accessories (including gloves, mittens and mitts)",,,,,,2026-10-22
+39262011,8,39,Gloves: ---- Disposable,Free,,,,,2026-10-22
+39262019,8,39,Gloves: ---- Non-disposable,Free,,,,,2026-10-22
+39262021,8,39,Approns: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39262029,8,39,Approns: ---- Other,Free,,,,,2026-10-22
+39262031,8,39,Plastic stickers for garments: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39262039,8,39,Plastic stickers for garments: ---- Other,Free,,,,,2026-10-22
+39262041,8,39,"Collar stays, patties, butterfly, shoulder-pads and other stays: ---- Of polyurethane foam",Free,,,,,2026-10-22
+39262049,8,39,"Collar stays, patties, butterfly, shoulder-pads and other stays: ---- Other",Free,,,,,2026-10-22
+39262091,8,39,Other: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39262099,8,39,Other: ---- Other,Free,,,,,2026-10-22
+392630,6,39,"Fittings for furniture, coachwork or the like",,,,,,2026-10-22
+39263010,8,39,Of polyurethane foam,Free,,,,,2026-10-22
+39263090,8,39,Other,Free,,,,,2026-10-22
+392640,6,39,Statuettes and other ornamental articles,,,,,,2026-10-22
+39264011,8,39,Bangles: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39264019,8,39,Bangles: ---- Other,Free,,,,,2026-10-22
+39264021,8,39,Beads: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39264029,8,39,Beads: ---- Other,Free,,,,,2026-10-22
+39264031,8,39,Statuettes: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39264039,8,39,Statuettes: ---- Other,Free,,,,,2026-10-22
+39264041,8,39,Table and other household articles (including hotel and restaurant) for decoration: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39264049,8,39,Table and other household articles (including hotel and restaurant) for decoration: ---- Other,Free,,,,,2026-10-22
+39264051,8,39,Decorative sheets: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39264059,8,39,Decorative sheets: ---- Other,Free,,,,,2026-10-22
+39264060,8,39,Decorative sheets: ---- Sequine,Free,,,,,2026-10-22
+39264091,8,39,Other: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39264099,8,39,Other: ---- Other,Free,,,,,2026-10-22
+392690,6,39,Other,,,,,,2026-10-22
+39269010,8,39,PVC belt conveyor,Free,,,,,2026-10-22
+39269021,8,39,"Couplers, packing rings, O rings and the like: ---- Of polyurethane foam",Free,,,,,2026-10-22
+39269029,8,39,"Couplers, packing rings, O rings and the like: ---- Other",Free,,,,,2026-10-22
+39269031,8,39,"Lasts, with or without steel hinges ; EVA and grape sheets for soles and heels; welts: ---- Of polyurethane foam",Free,,,,,2026-10-22
+39269039,8,39,"Lasts, with or without steel hinges ; EVA and grape sheets for soles and heels; welts: ---- Other",Free,,,,,2026-10-22
+39269041,8,39,"Rings, buckles, tacks, washers and other decorative fittings made of plastic used as trimmings and embellishments for leather products ; patterns for leather foot wear, leather garments and leather goods: ---- Of polyurethane foam",Free,,,,,2026-10-22
+39269049,8,39,"Rings, buckles, tacks, washers and other decorative fittings made of plastic used as trimmings and embellishments for leather products ; patterns for leather foot wear, leather garments and leather goods: ---- Other",Free,,,,,2026-10-22
+39269051,8,39,Retroreflective sheeting of other than of heading 3920: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39269059,8,39,Retroreflective sheeting of other than of heading 3920: ---- Other,Free,,,,,2026-10-22
+39269061,8,39,Hangers: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39269069,8,39,Hangers: ---- Other,Free,,,,,2026-10-22
+39269071,8,39,"Plastic or nylon tipped hammers ; Insulating liner of nylon , HDPE: ---- Of polyurethane foam",Free,,,,,2026-10-22
+39269079,8,39,"Plastic or nylon tipped hammers ; Insulating liner of nylon , HDPE: ---- Other",Free,,,,,2026-10-22
+39269080,8,39,"Plastic or nylon tipped hammers ; Insulating liner of nylon , HDPE: ---- Polypropylene articles, not elsewhere specified or included",Free,,,,,2026-10-22
+39269091,8,39,Other: ---- Of polyurethane foam,Free,,,,,2026-10-22
+39269099,8,39,Other: ---- Other,Free,,,,,2026-10-22

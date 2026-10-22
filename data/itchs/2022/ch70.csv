@@ -1,0 +1,153 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+7001,4,70,"CULLET AND OTHER WASTE AND SCRAP OF GLASS, EXCLUDING GLASS FROM CATHODE RAY TUBES OR OTHER ACTIVATED GLASS OF HEADING 8549; GLASS IN THE MASS",,,,,,2026-10-22
+700100,6,70,"Cullet and other waste and scrap of glass, excluding glass from cathode ray tubes or other activated glass of heading 8549; glass in the mass",,,,,,2026-10-22
+70010010,8,70,Cullet and other waste and scrap of glass,Free,,,,,2026-10-22
+70010020,8,70,Enamel glass in the mass,Free,,,,,2026-10-22
+70010090,8,70,Other,Free,,,,,2026-10-22
+7002,4,70,"Glass in balls (other than microspheres of heading 70.18), rods or tubes, unworked.",,,,,,2026-10-22
+70021000,8,70,Balls,Free,,,,,2026-10-22
+700220,6,70,Rods,,,,,,2026-10-22
+70022010,8,70,Enamel glass rods,Free,,,,,2026-10-22
+70022090,8,70,Other,Free,,,,,2026-10-22
+70023100,8,70,Tubes : -- Of fused quartz or other fused silica,Free,,,,,2026-10-22
+70023200,8,70,Tubes : -- Of other glass having a linear coefficient of expansion not exceeding 5 x 10-6 per Kelvin within a temperature range of 0 °C to 300 °C,Free,,,,,2026-10-22
+70023900,8,70,Tubes : -- Other,Free,,,,,2026-10-22
+7003,4,70,"Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked.",,,,,,2026-10-22
+700312,6,70,"Non-wired sheets : -- Coloured throughout the mass (body tinted), opacified, flashed or having an absorbent, reflecting or non-reflecting layer",,,,,,2026-10-22
+70031210,8,70,Tinted,Free,,,,,2026-10-22
+70031290,8,70,Other,Free,,,,,2026-10-22
+700319,6,70,Non-wired sheets : -- Other,,,,,,2026-10-22
+70031910,8,70,Tinted,Free,,,,,2026-10-22
+70031990,8,70,Other,Free,,,,,2026-10-22
+700320,6,70,Wired sheets,,,,,,2026-10-22
+70032010,8,70,Tinted,Free,,,,,2026-10-22
+70032090,8,70,Other,Free,,,,,2026-10-22
+700330,6,70,Profiles,,,,,,2026-10-22
+70033010,8,70,Tinted,Free,,,,,2026-10-22
+70033090,8,70,Other,Free,,,,,2026-10-22
+7004,4,70,"Drawn glass and blown glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked.",,,,,,2026-10-22
+700420,6,70,"Glass, coloured throughout the mass (body tinted), opacified, flashed or having an absorbent, reflecting or non-reflecting layer",,,,,,2026-10-22
+70042011,8,70,Tinted,Free,,,,,2026-10-22
+70042019,8,70,Other,Free,,,,,2026-10-22
+70042091,8,70,Other: ----Tinted,Free,,,,,2026-10-22
+70042099,8,70,Other: ----Other,Free,,,,,2026-10-22
+700490,6,70,Other glass,,,,,,2026-10-22
+70049011,8,70,Window glass (sheet glass): ----Tinted,Free,,,,,2026-10-22
+70049019,8,70,Window glass (sheet glass): ----Other,Free,,,,,2026-10-22
+70049091,8,70,Other: ----Tinted,Free,,,,,2026-10-22
+70049099,8,70,Other: ----Other,Free,,,,,2026-10-22
+7005,4,70,"Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked.",,,,,,2026-10-22
+700510,6,70,"Non-wired glass, having an absorbent, reflecting or non-reflecting layer",,,,,,2026-10-22
+70051010,8,70,Tinted,Free,,,,,2026-10-22
+70051090,8,70,Other,Restricted,"However, import is ""Free"" where the CIF value is ₹34,000 and above per MT.",,29/2026-27,2026-08-18,2026-10-22
+700521,6,70,"Other non-wired glass : -- Coloured throughout the mass (body tinted), opacified, flashed or merely surface ground",,,,,,2026-10-22
+70052110,8,70,Tinted,Free,,,,,2026-10-22
+70052190,8,70,Other,Free,,,,,2026-10-22
+700529,6,70,Other non-wired glass : -- Other,,,,,,2026-10-22
+70052910,8,70,Tinted,Free,,,,,2026-10-22
+70052990,8,70,Other,Restricted,"However, import is ""Free"" where the CIF value is ₹34,000 and above per MT.",,29/2026-27,2026-08-18,2026-10-22
+700530,6,70,Wired glass,,,,,,2026-10-22
+70053010,8,70,Tinted,Free,,,,,2026-10-22
+70053090,8,70,Other,Free,,,,,2026-10-22
+7007,4,70,"Safety glass, consisting of toughened (tempered) or laminated glass.",,,,,,2026-10-22
+70071100,8,70,"Toughened (tempered) safety glass : -- Of size and shape suitable for incorporation in vehicles, aircraft, spacecraft or vessels",Free,,,,,2026-10-22
+70071900,8,70,Toughened (tempered) safety glass : -- Other,Free,Subject to Policy conditions 01 of chapter,1,40/2025-26,2025-10-10,2026-10-22
+700721,6,70,"Laminated safety glass : -- Of size and shape suitable for incorporation in vehicles, aircraft, spacecraft or vessels",,,,,,2026-10-22
+70072110,8,70,Bullet proof glass,Free,,,,,2026-10-22
+70072190,8,70,Other,Free,,,,,2026-10-22
+70072900,8,70,Laminated safety glass : -- Other,Free,,,,,2026-10-22
+7008,4,70,Multiple-walled insulating units of glass.,,,,,,2026-10-22
+700800,6,70,Multiple-walled insulating units of glass :,,,,,,2026-10-22
+70080010,8,70,"Glazed glass, double walled",Free,,,,,2026-10-22
+70080020,8,70,"Glazed glass, multiple walled",Free,,,,,2026-10-22
+70080090,8,70,Other,Free,,,,,2026-10-22
+7009,4,70,"Glass mirrors, whether or not framed, including rear-view mirrors.",,,,,,2026-10-22
+700910,6,70,Rear-view mirrors for vehicles,,,,,,2026-10-22
+70091010,8,70,Prismatic rear-view mirror for vehicles,Free,,,,,2026-10-22
+70091090,8,70,Other,Free,,,,,2026-10-22
+70099100,8,70,Other : -- Unframed,Free,,,,,2026-10-22
+70099200,8,70,other -- Framed,Free,,,,,2026-10-22
+7010,4,70,"Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass.",,,,,,2026-10-22
+70101000,8,70,Ampoules,Free,,,,,2026-10-22
+70102000,8,70,"Stoppers, lids and other closures",Free,,,,,2026-10-22
+70109000,8,70,Other,Free,,,,,2026-10-22
+7011,4,70,"GLASS ENVELOPES (INCLUDING BULBS AND TUBES), OPEN, AND GLASS PARTS THEREOF, WITHOUT FITTINGS, FOR ELECTRIC LAMPS AND LIGHT SOURCES, CATHODERAY TUBES OR THE LIKE",,,,,,2026-10-22
+701110,6,70,For electric lighting,,,,,,2026-10-22
+70111010,8,70,Glass envelopes for fluorescent lamps,Free,,,,,2026-10-22
+70111020,8,70,Glass envelopes for filament lamps,Free,,,,,2026-10-22
+70111090,8,70,Other,Free,,,,,2026-10-22
+70112000,8,70,For cathode-ray tubes,Free,,,,,2026-10-22
+701190,6,70,Other,,,,,,2026-10-22
+70119010,8,70,Glass envelopes for electronic valves,Free,,,,,2026-10-22
+70119090,8,70,Other,Free,,,,,2026-10-22
+7013,4,70,"Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 70.10 or 70.18).",,,,,,2026-10-22
+70131000,8,70,Of glass-ceramics,Free,,,,,2026-10-22
+70132200,8,70,"Stemware drinking glasses, other than of glass-ceramics : -- Of lead crystal",Free,,,,,2026-10-22
+70132800,8,70,"Stemware drinking glasses, other than of glass-ceramics : -- Other",Free,,,,,2026-10-22
+70133300,8,70,"Other drinking glasses, other than of glass ceramics : -- Of lead crystal",Free,,,,,2026-10-22
+70133700,8,70,"Other drinking glasses, other than of glass ceramics : -- Other",Free,,,,,2026-10-22
+70134100,8,70,"Glassware of a kind used for table (other than drinking glasses) or kitchen purposes, other than of glass-ceramics : -- Of lead crystal",Free,,,,,2026-10-22
+70134200,8,70,"Glassware of a kind used for table (other than drinking glasses) or kitchen purposes, other than of glass-ceramics : -- Of glass having a linear coefficient of expansion not exceeding 5 x 10-6 per Kelvin within a temperature range of 0 °C to 300 °C",Free,,,,,2026-10-22
+70134900,8,70,"Glassware of a kind used for table (other than drinking glasses) or kitchen purposes, other than of glass-ceramics : -- Other",Free,,,,,2026-10-22
+70139100,8,70,Other glassware : -- Of lead crystal,Free,,,,,2026-10-22
+70139900,8,70,Other glassware : -- Other,Free,,,,,2026-10-22
+7014,4,70,"Signalling glassware and optical elements of glass (other than those of heading 70.15), not optically worked.",,,,,,2026-10-22
+701400,6,70,"Signalling glassware and optical elements of glass (other than those of heading 7015), not optically worked :",,,,,,2026-10-22
+70140010,8,70,Signalling glassware,Free,,,,,2026-10-22
+70140020,8,70,Optical elements,Free,,,,,2026-10-22
+7015,4,70,"Clock or watch glasses and similar glasses, glasses for noncorrective or corrective spectacles, curved, bent, hollowed or the like, not optically worked; hollow glass spheres and their segments, for the manufacture of such glasses.",,,,,,2026-10-22
+701510,6,70,Glasses for corrective spectacles,,,,,,2026-10-22
+70151010,8,70,Ophthalmic rough blanks,Free,,,,,2026-10-22
+70151020,8,70,Flint button,Free,,,,,2026-10-22
+70151090,8,70,Other,Free,,,,,2026-10-22
+701590,6,70,Other,,,,,,2026-10-22
+70159010,8,70,"Clock and watch glasses and similar glasses, curved, bent, hollowed and the like, glass spheres and segments of spheres for the manufacture of such glasses",Free,,,,,2026-10-22
+70159020,8,70,Glass for sun glasses,Free,,,,,2026-10-22
+70159090,8,70,Other,Free,,,,,2026-10-22
+7016,4,70,"Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaics or similar decorative purposes; leaded lights and the like; multicellular or foam glass in blocks, panels, plates, shells or similar forms.",,,,,,2026-10-22
+70161000,8,70,"Glass cubes and other Glass smallwares, whether or not on a backing, for mosaics or similar decorative purposes",Free,,,,,2026-10-22
+70169000,8,70,Other,Free,,,,,2026-10-22
+7017,4,70,"Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated.",,,,,,2026-10-22
+70171000,8,70,Of fused quartz or other fused silica,Free,,,,,2026-10-22
+70172000,8,70,Of other glass having a linear coefficient of expansion not exceeding 5 x 10-6 per Kelvin within a temperature range of 0 C to 300 C,Free,,,,,2026-10-22
+701790,6,70,Other,,,,,,2026-10-22
+70179010,8,70,Graduated or calibrated laboratory glassware,Free,,,,,2026-10-22
+70179020,8,70,Pharmaceutical glassware,Free,,,,,2026-10-22
+70179030,8,70,Hygienic glassware,Free,,,,,2026-10-22
+70179090,8,70,Other,Free,,,,,2026-10-22
+7018,4,70,"Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares, and articles thereof other than imitation jewellery; glass eyes other than prosthetic articles; statuettes and other ornaments of lamp-worked glass, other than imitation jewellery; glass microspheres not exceeding 1 mm in diameter.",,,,,,2026-10-22
+701810,6,70,"Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares",,,,,,2026-10-22
+70181010,8,70,Bangles,Free,,,,,2026-10-22
+70181020,8,70,Beads,Free,,,,,2026-10-22
+70181090,8,70,Other,Free,,,,,2026-10-22
+70182000,8,70,Glass microspheres not exceeding 1 mm in diameter,Free,,,,,2026-10-22
+701890,6,70,Other,,,,,,2026-10-22
+70189010,8,70,Glass Statues,Free,,,,,2026-10-22
+70189090,8,70,Other,Free,,,,,2026-10-22
+7019,4,70,"GLASS FIBRES (INCLUDING GLASS WOOL) AND ARTICLES THEREOF (FOR EXAMPLE, YARN, ROVINGS, WOVEN FABRICS)",,,,,,2026-10-22
+70191100,8,70,"Slivers, rovings, yarn and chopped strands : -- Chopped strands, of a length of not more than 50 mm",Free,,,,,2026-10-22
+70191200,8,70,"Slivers, rovings, yarn and chopped strands : -- Rovings",Free,,,,,2026-10-22
+70191300,8,70,"Slivers, rovings, yarn and chopped strands and mats thereof: - - Other yarn, slivers",Free,,,54/2015-2020,2022-02-09,2026-10-22
+70191400,8,70,"Slivers, rovings, yarn and chopped strands and mats thereof: - - Mechanically bonded mats",Free,,,54/2015-2020,2022-02-09,2026-10-22
+70191500,8,70,"Slivers, rovings, yarn and chopped strands and mats thereof: - - Chemically bonded mats",Free,,,54/2015-2020,2022-02-09,2026-10-22
+70191900,8,70,"Slivers, rovings, yarn and chopped strands and mats thereof: -- Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+70196100,8,70,Mechanically bonded fabrics: - - Closed woven fabrics of rovings,Free,,,54/2015-2020,2022-02-09,2026-10-22
+70196200,8,70,Mechanically bonded fabrics: - - Other closed fabrics of rovings,Free,,,54/2015-2020,2022-02-09,2026-10-22
+70196300,8,70,"Mechanically bonded fabrics: - - Closed woven fabrics, plain weave, of yarns, not coated or laminated",Free,,,54/2015-2020,2022-02-09,2026-10-22
+70196400,8,70,"Mechanically bonded fabrics: - - Closed woven fabrics, plain weave, of yarns, coated or laminated",Free,,,54/2015-2020,2022-02-09,2026-10-22
+70196500,8,70,Mechanically bonded fabrics: - - Open woven fabrics of a width not exceeding 30 cm,Free,,,54/2015-2020,2022-02-09,2026-10-22
+70196600,8,70,Mechanically bonded fabrics: - - Open woven fabrics of a width exceeding 30 cm,Free,,,54/2015-2020,2022-02-09,2026-10-22
+70196900,8,70,Mechanically bonded fabrics: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+70197100,8,70,Chemically bonded fabrics: - - Veils (thin sheets),Free,,,54/2015-2020,2022-02-09,2026-10-22
+70197200,8,70,Chemically bonded fabrics: - - Other closed fabrics,Free,,,54/2015-2020,2022-02-09,2026-10-22
+70197300,8,70,Chemically bonded fabrics: - - Other open fabrics,Free,,,54/2015-2020,2022-02-09,2026-10-22
+70198000,8,70,Chemically bonded fabrics: - Glass wool and articles of glass wool,Free,,,54/2015-2020,2022-02-09,2026-10-22
+70199000,8,70,Chemically bonded fabrics: - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+7020,4,70,Other articles of glass.,,,,,,2026-10-22
+702000,6,70,Other articles of glass:,,,,,,2026-10-22
+70200011,8,70,"Glass shells, glass globes and glass founts: ----Globes for lamps and lanterns",Free,,,,,2026-10-22
+70200012,8,70,"Glass shells, glass globes and glass founts: ----Founts for kerosene wick lamps",Free,,,,,2026-10-22
+70200019,8,70,"Glass shells, glass globes and glass founts: ----Other",Free,,,,,2026-10-22
+70200021,8,70,Glass chimneys: ----For lamps and lanterns,Free,,,,,2026-10-22
+70200029,8,70,Glass chimneys: ----Other,Free,,,,,2026-10-22
+70200090,8,70,Glass chimneys: ----Other,Free,,,,,2026-10-22

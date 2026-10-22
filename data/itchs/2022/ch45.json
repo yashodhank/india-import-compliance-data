@@ -1,0 +1,203 @@
+{
+ "edition": "ITC(HS) 2022 Schedule 1 (Import Policy)",
+ "chapter": "45",
+ "chapter_title": "Cork And Articles Of Cork.",
+ "section": "IX",
+ "as_of": "2026-10-22",
+ "source": "https://www.dgft.gov.in/CP/webHP?requestType=ApplicationRH&screenId=90000802&actionVal=getChapterDetails",
+ "permission_ref": "DGFTCOMS-2026-24H4345L",
+ "rows": [
+  {
+   "hs_code": "4501",
+   "level": 4,
+   "chapter": "45",
+   "description": "Natural cork, raw or simply prepared; waste cork; crushed,",
+   "policy": "",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "45011000",
+   "level": 8,
+   "chapter": "45",
+   "description": "Natural cork, raw or simply prepared",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "45019000",
+   "level": 8,
+   "chapter": "45",
+   "description": "Other",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "45020000",
+   "level": 8,
+   "chapter": "45",
+   "description": "Natural cork, debacked or roughly squared, or in rectangular (including square) blocks, plates, sheets or strip (including sharpedged blanks for corks or stoppers).",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "4503",
+   "level": 4,
+   "chapter": "45",
+   "description": "Articles of natural cork.",
+   "policy": "",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "45031000",
+   "level": 8,
+   "chapter": "45",
+   "description": "Corks and stoppers",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "450390",
+   "level": 6,
+   "chapter": "45",
+   "description": "Other",
+   "policy": "",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "45039010",
+   "level": 8,
+   "chapter": "45",
+   "description": "Shuttlecock cork bottom",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "45039090",
+   "level": 8,
+   "chapter": "45",
+   "description": "Other",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "4504",
+   "level": 4,
+   "chapter": "45",
+   "description": "Agglomerated cork (with or without a binding substance) and",
+   "policy": "",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "450410",
+   "level": 6,
+   "chapter": "45",
+   "description": "Blocks, plates, sheets and strip; tiles of any shape; solid cylinders, including discs",
+   "policy": "",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "45041010",
+   "level": 8,
+   "chapter": "45",
+   "description": "Sheets",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "45041020",
+   "level": 8,
+   "chapter": "45",
+   "description": "Slabs",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "45041090",
+   "level": 8,
+   "chapter": "45",
+   "description": "Other",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  },
+  {
+   "hs_code": "45049000",
+   "level": 8,
+   "chapter": "45",
+   "description": "other",
+   "policy": "Free",
+   "condition_text": "",
+   "condition_ref": "",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  }
+ ],
+ "chapter_conditions": [
+  {
+   "chapter": "45",
+   "note_type": "Main",
+   "serial_no": "1",
+   "section": "IX",
+   "text": "This Chapter does not cover : (a) footwear or parts of footwear of Chapter 64; (b) headgear or parts of headgear of Chapter 65; or (c) articles of Chapter 95 (for example, toys, games, sports requisites).",
+   "notification_no": "",
+   "notification_date": "",
+   "as_of": "2026-10-22"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+7801,4,78,Unwrought lead.,,,,,,2026-10-22
+78011000,8,78,Refined lead,Free,,,,,2026-10-22
+78019100,8,78,Other : -- Containing by weight antimony as the principal other element,Free,,,,,2026-10-22
+780199,6,78,Other : -- Other,,,,,,2026-10-22
+78019910,8,78,Pig lead,Free,,,,,2026-10-22
+78019920,8,78,Unrefined lead,Free,,,,,2026-10-22
+78019930,8,78,Unrefined lead alloys,Free,,,,,2026-10-22
+78019990,8,78,Other,Free,,,,,2026-10-22
+7802,4,78,Lead waste and scrap,,,,,,2026-10-22
+780200,6,78,Lead waste and scrap:,,,,,,2026-10-22
+78020010,8,78,"Lead scrap, namely the following: Scrap lead-soft covered by ISRI code word Racks; Mixed hard or soft scrap lead covered by ISRI code word Radio; Lead covered copper cable covered by ISRI code word Relay; Wheel weights covered by ISRI code word Ropes; Mixed common babbit covered by ISRI code word Roses; Scrap wet whole intact lead batteries consisting of SLI (starting, lighting and ignition), automotive, truck, 8-D and commercial golf cart and marine type batteries covered by ISRI code word Rink; Scrap industrial intact lead cells consisting of plates enclosed by some form of complete plastic case covered by ISRI code word Rono; Scrap whole Intact Industrial Lead Batteries Consisting of bus, diesel, locomotive, telephone or steel cased batteries covered by ISRI code word Roper",Free,,,,,2026-10-22
+78020090,8,78,Other,Restricted,,,,,2026-10-22
+7804,4,78,"Lead plates, sheets, strip and foil; lead powders and flakes.",,,,,,2026-10-22
+780411,6,78,"Plates, sheets, strip and foil : -- Sheets, strip and foil of a thickness (excluding any backing) not exceeding 0.2 mm",,,,,,2026-10-22
+78041110,8,78,Sheets and strip,Free,,,,,2026-10-22
+78041120,8,78,Foil,Free,,,,,2026-10-22
+780419,6,78,"Plates, sheets, strip and foil : -- Other",,,,,,2026-10-22
+78041910,8,78,Plates,Free,,,,,2026-10-22
+78041990,8,78,Other,Free,,,,,2026-10-22
+78042000,8,78,Powders and flakes,Free,,,,,2026-10-22
+7806,4,78,Other articles of lead.,,,,,,2026-10-22
+780600,6,78,Other articles of lead,,,,,,2026-10-22
+78060010,8,78,Sanitary fixtures,Free,,,,,2026-10-22
+78060020,8,78,Indian lead seals,Free,,,,,2026-10-22
+78060030,8,78,Blanks,Free,,,,,2026-10-22
+78060090,8,78,Other,Free,,,,,2026-10-22

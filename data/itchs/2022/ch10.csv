@@ -1,0 +1,77 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+1001,4,10,Wheat and meslin.,,,,,,2026-10-22
+10011100,8,10,Durum wheat : -- Seed,Restricted,Import subject to Policy Condition (2) below.,2,,,2026-10-22
+10011900,8,10,Durum wheat : -- Other,STE (State Trading Enterprise),Import allowed through FCI subject to Para 2.21 of FTP and Import subject to Policy Condition (4) of this Chapter.,4,08/2023,2023-05-29,2026-10-22
+10019100,8,10,Other : -- Seed,Restricted,Import subject to Policy Condition (2) below.,2,,,2026-10-22
+100199,6,10,Other : -- Other,,,,,,2026-10-22
+10019910,8,10,Wheat,STE (State Trading Enterprise),Import allowed through FCI subject to Para 2.21 of FTP and Import subject to Policy Condition (4) of this Chapter.,4,08/2023,2023-05-29,2026-10-22
+10019920,8,10,Meslin,Free,,,,,2026-10-22
+1002,4,10,Rye.,,,,,,2026-10-22
+10021000,8,10,Seed,Restricted,Import subject to Policy Condition (2) below.,2,,,2026-10-22
+10029000,8,10,Other,Free,,,,,2026-10-22
+1003,4,10,Barley.,,,,,,2026-10-22
+10031000,8,10,Seed,Restricted,Import subject to Policy Condition (2) below.,2,,,2026-10-22
+10039000,8,10,Other,Free,,,,,2026-10-22
+1004,4,10,Oats.,,,,,,2026-10-22
+10041000,8,10,Seed,Restricted,Import subject to Policy Condition (2) below.,2,,,2026-10-22
+10049000,8,10,Other,Free,,,,,2026-10-22
+1005,4,10,Maize (corn).,,,,,,2026-10-22
+10051000,8,10,Seed,Restricted,Import subject Policy Condition (2) below.,2,,,2026-10-22
+100590,6,10,Other,,,,,,2026-10-22
+10059011,8,10,Dent corn (Zea mays var. indenta):----Yellow,Free,,,,,2026-10-22
+10059019,8,10,Dent corn (Zea mays var. indenta):----Other,Free,,,,,2026-10-22
+10059020,8,10,Flint corn (Zea mays var. indurata),Free,,,,,2026-10-22
+10059030,8,10,Popcorn (Zea mays var. everta),Free,"Import is subject to Policy Circular No. 27/2015-2020 dated 26th July, 2019.",,,,2026-10-22
+10059090,8,10,Other,Free,,,,,2026-10-22
+1006,4,10,Rice.,,,,,,2026-10-22
+100610,6,10,Rice in the husk (paddy or rough),,,,,,2026-10-22
+10061010,8,10,Of seed quality,Restricted,Import subject to Policy Condition (2) below.,2,,,2026-10-22
+10061090,8,10,Other,STE (State Trading Enterprise),Import allowed through FCI subject to Para 2.21 of FTP.,,08/2023,2023-05-29,2026-10-22
+10062000,8,10,Husked (brown) rice,Free,,,,,2026-10-22
+100630,6,10,"Semi-milled or wholly milled rice, whether or not polished or glazed",,,,,,2026-10-22
+10063011,8,10,"--- Parboiled: ---- Rice, GI recognised",State Trading Enterprise,-,,44/2025-26,2025-10-15,2026-10-22
+10063012,8,10,--- Parboiled: ---- Basmati rice,State Trading Enterprise,-,,44/2025-26,2025-10-15,2026-10-22
+10063019,8,10,--- Parboiled: ---- Other,State Trading Enterprise,-,,44/2025-26,2025-10-15,2026-10-22
+10063020,8,10,Basmati rice,,,,,,2026-10-22
+10063091,8,10,"--- Other: ---- Rice, GI recognised",State Trading Enterprise,-,,44/2025-26,2025-10-15,2026-10-22
+10063092,8,10,--- Other: ---- Basmati rice,State Trading Enterprise,-,,44/2025-26,2025-10-15,2026-10-22
+10063099,8,10,--- Other: ---- Other,State Trading Enterprise,-,,44/2025-26,2025-10-15,2026-10-22
+10064000,8,10,Broken rice,STE (State Trading Enterprise),,,,,2026-10-22
+1007,4,10,Grain sorghum.,,,,,,2026-10-22
+10071000,8,10,Seed,Restricted,Import subject to Policy Condition (2) of the Chapter,2,,,2026-10-22
+10079000,8,10,Other,Free,,,,,2026-10-22
+1008,4,10,"Buckwheat, millet and canary seeds; other cereals.",,,,,,2026-10-22
+100810,6,10,Buckwheat,,,,,,2026-10-22
+10081010,8,10,Of seed quality,Restricted,Import subject to Policy Condition (2) of the Chapter,2,,,2026-10-22
+10081090,8,10,Other Millet:,Free,,,,,2026-10-22
+100821,6,10,Millet : -- Seed,,,,,,2026-10-22
+10082110,8,10,Jawar,Restricted,Import subject to Policy Condition (2) of the Chapter,2,,,2026-10-22
+10082120,8,10,Bajra,Restricted,Import subject to Policy Condition (2) of the Chapter,2,,,2026-10-22
+10082130,8,10,Ragi,Restricted,Import subject to Policy Condition (2) of the Chapter,2,,,2026-10-22
+10082140,8,10,Barnyard (Echinochloa esculenta (L.),Restricted,Import subject to Policy Condition (2) of the Chapter,2,08/2023,2023-05-29,2026-10-22
+10082150,8,10,Proso (Panicum miliaceum (L.)),Restricted,Import subject to Policy Condition (2) of the Chapter,2,08/2023,2023-05-29,2026-10-22
+10082160,8,10,Foxtail (Setariaitalica (L.)),Restricted,Import subject to Policy Condition (2) of the Chapter,2,08/2023,2023-05-29,2026-10-22
+10082170,8,10,Kodo (Paspalum scrobiculatum (L.)),Restricted,Import subject to Policy Condition (2) of the Chapter,2,08/2023,2023-05-29,2026-10-22
+10082180,8,10,Little (Panicum sumatrense (L.)),Restricted,Import subject to Policy Condition (2) of the Chapter,2,08/2023,2023-05-29,2026-10-22
+10082191,8,10,Other:----Amaranth (Amaranthus (L.)),Restricted,Import subject to Policy Condition (2) of the Chapter,2,08/2023,2023-05-29,2026-10-22
+10082199,8,10,Other:----Other,Restricted,Import subject to Policy Condition (2) of the Chapter,2,08/2023,2023-05-29,2026-10-22
+100829,6,10,Millet : -- Other,,,,,,2026-10-22
+10082910,8,10,Jawar,Free,,,,,2026-10-22
+10082920,8,10,Bajra,Free,,,,,2026-10-22
+10082930,8,10,Ragi,Free,,,,,2026-10-22
+10082940,8,10,Barnyard (Echinochloa esculenta (L.)),Free,.,,08/2023,2023-05-29,2026-10-22
+10082950,8,10,Proso (Panicum miliaceum (L.)),Free,.,,08/2023,2023-05-29,2026-10-22
+10082960,8,10,Foxtail (Setariaitalica (L.)),Free,.,,08/2023,2023-05-29,2026-10-22
+10082970,8,10,Kodo (Paspalum scrobiculatum (L.)),Free,.,,08/2023,2023-05-29,2026-10-22
+10082980,8,10,Little (Panicum sumatrense (L.)),Free,.,,08/2023,2023-05-29,2026-10-22
+10082991,8,10,Other:----Amaranth (Amaranthus (L.)),Free,.,,08/2023,2023-05-29,2026-10-22
+10082999,8,10,Other:----Other,Free,.,,08/2023,2023-05-29,2026-10-22
+100830,6,10,Canary seeds,,,,,,2026-10-22
+10083010,8,10,Of seed quality,Restricted,Import subject to Policy Condition (2) of the Chapter,2,,,2026-10-22
+10083090,8,10,Other,Free,,,,,2026-10-22
+10084000,8,10,Fonio (Digitaria spp),Free,,,,,2026-10-22
+10085000,8,10,Quinoa (Chenopodium quinoa),Free,,,,,2026-10-22
+10086000,8,10,Triticale,Free,,,,,2026-10-22
+100890,6,10,Other cereals,,,,,,2026-10-22
+10089010,8,10,Of seed quality,Restricted,Import subject to Policy Condition (2) of the Chapter,2,,,2026-10-22
+10089090,8,10,Other,Free,,,,,2026-10-22

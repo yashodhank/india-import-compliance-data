@@ -1,0 +1,379 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+3201,4,32,"Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives.",,,,,,2026-10-22
+32011000,8,32,Quebracho extract,Free,,,,,2026-10-22
+32012000,8,32,Wattle extract,Free,,,,,2026-10-22
+320190,6,32,Other,,,,,,2026-10-22
+32019010,8,32,Gambier extracts,Free,,,,,2026-10-22
+32019020,8,32,Myrobalan fruit extract,Free,,,,,2026-10-22
+32019030,8,32,"Gallotannic acid (tannin, digallic acid)",Free,,,,,2026-10-22
+32019090,8,32,Other,Free,,,,,2026-10-22
+3202,4,32,"Synthetic organic tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pretanning.",,,,,,2026-10-22
+32021000,8,32,Synthetic organic tanning substances,Free,,,,,2026-10-22
+320290,6,32,Other,,,,,,2026-10-22
+32029010,8,32,Inorganic tanning substances,Free,,,,,2026-10-22
+32029020,8,32,"Tanning preparations, whether or not containing natural tanning substances",Free,,,,,2026-10-22
+32029030,8,32,Enzymatic preparations for pre-tanning,Free,,,,,2026-10-22
+32029090,8,32,Other,Free,,,,,2026-10-22
+3203,4,32,"Colouring matter of vegetable or animal origin (including dyeing extracts but excluding animal black), whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on colouring matter of vegetable or animal origin.",,,,,,2026-10-22
+320300,6,32,"Colouring matter of vegetable or animal origin (including dyeing extracts but excluding animal black), whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on colouring matter of vegetable or animal origin :",,,,,,2026-10-22
+32030010,8,32,Cutch (Catechu) extracts,Free,,,,,2026-10-22
+32030020,8,32,Food colours other than synthetic,Free,,,,,2026-10-22
+32030030,8,32,Lac-dye,Free,,,,,2026-10-22
+32030040,8,32,Natural indigo,Free,,,,,2026-10-22
+32030090,8,32,Other,Free,,,,,2026-10-22
+3204,4,32,"Synthetic organic colouring matter, whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on synthetic organic colouring matter; synthetic organic products of a kind used as fluorescent brightening agents or as luminophores, whether or not chemically defined.",,,,,,2026-10-22
+320411,6,32,Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Disperse dyes and preparations based thereon,,,,,,2026-10-22
+32041111,8,32,Disperse yellow 13 (Duranol Brill yellow 6 G),Free,,,,,2026-10-22
+32041119,8,32,Other,Free,,,,,2026-10-22
+32041121,8,32,Disperse Orange: ---- Disperse orange 11 (Duranol orange G),Free,,,,,2026-10-22
+32041129,8,32,Disperse Orange: ---- Other,Free,,,,,2026-10-22
+32041131,8,32,Disperse Red: ---- Disperse Red 3 (Serisol Fast Pink B),Free,,,,,2026-10-22
+32041132,8,32,Disperse Red: ---- Disperse Red 4 (Celliton Fast Pink RF),Free,,,,,2026-10-22
+32041133,8,32,Disperse Red: ---- Disperse Red 9 (Duranol Red GN),Free,,,,,2026-10-22
+32041139,8,32,Disperse Red: ---- Other,Free,,,,,2026-10-22
+32041141,8,32,Disperse Violet: ---- Disperse Violet 1 (Duranol violet 2R),Free,,,,,2026-10-22
+32041142,8,32,Disperse Violet: ---- Disperse violet 4 (Duranol Brill Violet B),Free,,,,,2026-10-22
+32041143,8,32,Disperse Violet: ---- Disperse violet 8 (Duranol Brill violet BR),Free,,,,,2026-10-22
+32041149,8,32,Disperse Violet: ---- Other,Free,,,,,2026-10-22
+32041151,8,32,Disperse Blue: ---- Disperse Blue 1 (Duranol Brill Blue CB),Free,,,,,2026-10-22
+32041152,8,32,Disperse Blue: ---- Disperse Blue 3 (Duranol Brill Blue BBN),Free,,,,,2026-10-22
+32041153,8,32,Disperse Blue: ---- Disperse Blue 5 (Celliton Fast Blue FFB),Free,,,,,2026-10-22
+32041154,8,32,Disperse Blue: ---- Disperse Blue 6 (Celliton Fast Blue FFG),Free,,,,,2026-10-22
+32041155,8,32,Disperse Blue: ---- Disperse Blue 14 (Duranol Brill Blue G),Free,,,,,2026-10-22
+32041156,8,32,Disperse Blue: ---- Disperse Blue 24 (Duranol Blue 2G),Free,,,,,2026-10-22
+32041159,8,32,Disperse Blue: ---- Other,Free,,,,,2026-10-22
+32041191,8,32,Other: ---- Disperse Greens,Free,,,,,2026-10-22
+32041192,8,32,Other: ---- Disperse Browns,Free,,,,,2026-10-22
+32041193,8,32,Other: ---- Disperse Blacks,Free,,,,,2026-10-22
+32041194,8,32,Other: ---- Disperse Brown mixtures,Free,,,,,2026-10-22
+32041195,8,32,Other: ---- Disperse Grey mixtures,Free,,,,,2026-10-22
+32041196,8,32,Other: ---- Disperse Black mixtures,Free,,,,,2026-10-22
+32041199,8,32,Other: ---- Other,Free,,,,,2026-10-22
+320412,6,32,"Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Acid dyes, whether or not premetallised, and preparations based thereon; mordant dyes and preparations based thereon",,,,,,2026-10-22
+32041211,8,32,Azo dyes: ---- Acid yellows,Free,,,,,2026-10-22
+32041212,8,32,Azo dyes: ---- Acid Oranges,Free,,,,,2026-10-22
+32041213,8,32,Azo dyes: ---- Acid Red,Free,,,,,2026-10-22
+32041214,8,32,Azo dyes: ---- Acid Violets,Free,,,,,2026-10-22
+32041215,8,32,Azo dyes: ---- Acid Blues,Free,,,,,2026-10-22
+32041216,8,32,Azo dyes: ---- Acid Greens,Free,,,,,2026-10-22
+32041217,8,32,Azo dyes: ---- Acid Brown,Free,,,,,2026-10-22
+32041218,8,32,Azo dyes: ---- Acid Blacks,Free,,,,,2026-10-22
+32041219,8,32,Azo dyes: ---- Other,Free,,,,,2026-10-22
+32041221,8,32,Acid Greens (non-azo): ---- Acid Green 17 (Solacet Fast Green 2G),Free,,,,,2026-10-22
+32041222,8,32,Acid Greens (non-azo): ---- Acid Green 27 (Carbolan Green G),Free,,,,,2026-10-22
+32041223,8,32,Acid Greens (non-azo): ---- Acid Green 28 (Carbolan Brill Green 5G),Free,,,,,2026-10-22
+32041224,8,32,Acid Greens (non-azo): ---- Acid Green 38 (Alizarine Cyanine Green 3G),Free,,,,,2026-10-22
+32041225,8,32,Acid Greens (non-azo): ---- Acid Green 44 (Alizarine Cyanine Green GWA),Free,,,,,2026-10-22
+32041229,8,32,Acid Greens (non-azo): ---- Other,Free,,,,,2026-10-22
+32041231,8,32,Acid Black (non-azo): ---- Acid Black 2 (nigrosine),Free,,,,,2026-10-22
+32041232,8,32,Acid Black (non-azo): ---- Acid Black 48 (Coomasie Fast Grey 3G),Free,,,,,2026-10-22
+32041239,8,32,Acid Black (non-azo): ---- Other,Free,,,,,2026-10-22
+32041241,8,32,"Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 2 (Alizarine Brill Blue PFN)",Free,,,,,2026-10-22
+32041242,8,32,"Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 14 (Solacet Fast Blue 4 G1)",Free,,,,,2026-10-22
+32041243,8,32,"Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 23 (Alizarine Light Blue 4 G1)",Free,,,,,2026-10-22
+32041244,8,32,"Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 25 (Solway Ultra Blue B)",Free,,,,,2026-10-22
+32041245,8,32,"Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 45 (Solway Blue RN)",Free,,,,,2026-10-22
+32041246,8,32,"Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 51 (Alizarine sky blue FFB",Free,,,,,2026-10-22
+32041247,8,32,"Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 52 (Alizarine Light - 5GL)",Free,,,,,2026-10-22
+32041248,8,32,"Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 78 (Solway Sky Blue B)",Free,,,,,2026-10-22
+32041251,8,32,"Acid Blues 93, 112, 127, 138, 140 and others (non-azo): ---- Acid Blue 93 (Ink Blue)",Free,,,,,2026-10-22
+32041252,8,32,"Acid Blues 93, 112, 127, 138, 140 and others (non-azo): ---- Acid Blue 112 (Coomasie Ultra sky SE)",Free,,,,,2026-10-22
+32041253,8,32,"Acid Blues 93, 112, 127, 138, 140 and others (non-azo): ---- Acid Blue 127 (Brill Alizarine Milling Blue G)",Free,,,,,2026-10-22
+32041254,8,32,"Acid Blues 93, 112, 127, 138, 140 and others (non-azo): ---- Acid Blue 138 (Carbolan Blue B)",Free,,,,,2026-10-22
+32041255,8,32,"Acid Blues 93, 112, 127, 138, 140 and others (non-azo): ---- Acid Blue 140 (Carbolan Brill Blue 2R)",Free,,,,,2026-10-22
+32041259,8,32,"Acid Blues 93, 112, 127, 138, 140 and others (non-azo): ---- Other",Free,,,,,2026-10-22
+32041261,8,32,Mordant dyes: ---- Yellows,Free,,,,,2026-10-22
+32041262,8,32,Mordant dyes: ---- Oranges,Free,,,,,2026-10-22
+32041263,8,32,Mordant dyes: ---- Violets,Free,,,,,2026-10-22
+32041264,8,32,Mordant dyes: ---- Blues,Free,,,,,2026-10-22
+32041265,8,32,Mordant dyes: ---- Greens,Free,,,,,2026-10-22
+32041266,8,32,Mordant dyes: ---- Browns,Free,,,,,2026-10-22
+32041267,8,32,Mordant dyes: ---- Blacks,Free,,,,,2026-10-22
+32041268,8,32,Mordant dyes: ---- Red II (Alizarine Red),Free,,,,,2026-10-22
+32041269,8,32,Mordant dyes: ---- Other,Free,,,,,2026-10-22
+32041291,8,32,Other non-azo acid dyes: ---- Acid yellows,Free,,,,,2026-10-22
+32041292,8,32,Other non-azo acid dyes: ---- Acid Oranges,Free,,,,,2026-10-22
+32041293,8,32,Other non-azo acid dyes: ---- Acid Red,Free,,,,,2026-10-22
+32041294,8,32,Other non-azo acid dyes: ---- Acid Violets,Free,,,,,2026-10-22
+32041295,8,32,Other non-azo acid dyes: ---- Acid Browns,Free,,,,,2026-10-22
+32041299,8,32,Other non-azo acid dyes: ---- Other,Free,,,,,2026-10-22
+320413,6,32,Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Basic dyes and preparations based thereon,,,,,,2026-10-22
+32041310,8,32,Basic azo dyes,Free,,,,,2026-10-22
+32041321,8,32,Basic yellow (non-azo): ---- Yellow 2 (Auramine O),Free,,,,,2026-10-22
+32041329,8,32,Basic yellow (non-azo): ---- Other,Free,,,,,2026-10-22
+32041331,8,32,Basic Red (non-azo): ---- Red 1 (Rhodamine 6 G),Free,,,,,2026-10-22
+32041339,8,32,Basic Red (non-azo): ---- Other,Free,,,,,2026-10-22
+32041341,8,32,Basic Violet (non-azo): ---- Violet 1 (methyl Violet),Free,,,,,2026-10-22
+32041342,8,32,Basic Violet (non-azo): ---- Violet 10 (Rhodamine B),Free,,,,,2026-10-22
+32041343,8,32,Basic Violet (non-azo): ---- Violet 14 (magenta),Free,,,,,2026-10-22
+32041349,8,32,Basic Violet (non-azo): ---- Other,Free,,,,,2026-10-22
+32041351,8,32,Basic Blue (non-azo): ---- Blue 9 (methylene Blue),Free,,,,,2026-10-22
+32041352,8,32,Basic Blue (non-azo): ---- Blue 16 (Victoria Blue B),Free,,,,,2026-10-22
+32041359,8,32,Basic Blue (non-azo): ---- Other,Free,,,,,2026-10-22
+32041361,8,32,Basic Green (non-azo): ---- Green 4 (Malachite green),Free,,,,,2026-10-22
+32041369,8,32,Basic Green (non-azo): ---- Other,Free,,,,,2026-10-22
+32041391,8,32,Other non-azo basic dyes: ---- Basic Oranges,Free,,,,,2026-10-22
+32041392,8,32,Other non-azo basic dyes: ---- Basic Browns,Free,,,,,2026-10-22
+32041393,8,32,Other non-azo basic dyes: ---- Basic Black,Free,,,,,2026-10-22
+32041399,8,32,Other non-azo basic dyes: ---- Other,Free,,,,,2026-10-22
+320414,6,32,Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Direct dyes and preparations based thereon,,,,,,2026-10-22
+32041411,8,32,Other non-azo basic dyes: ---- Yellow 12 (Chrysophenine G),Free,,,,,2026-10-22
+32041419,8,32,Other non-azo basic dyes: ---- Other,Free,,,,,2026-10-22
+32041421,8,32,Direct Red (azo): ---- Congo Red,Free,,,,,2026-10-22
+32041429,8,32,Direct Red (azo): ---- Other,Free,,,,,2026-10-22
+32041431,8,32,Direct Blue (azo): ---- Blue 1 (Sky Blue FF),Free,,,,,2026-10-22
+32041439,8,32,Direct Blue (azo): ---- Other,Free,,,,,2026-10-22
+32041440,8,32,Direct Oranges (azo),Free,,,,,2026-10-22
+32041450,8,32,Direct Greens (azo),Free,,,,,2026-10-22
+32041460,8,32,Direct Browns (azo),Free,,,,,2026-10-22
+32041470,8,32,Direct Blacks (azo),Free,,,,,2026-10-22
+32041481,8,32,Direct Dyes (non-azo): ---- Yellows,Free,,,,,2026-10-22
+32041482,8,32,Direct Dyes (non-azo): ---- Oranges,Free,,,,,2026-10-22
+32041483,8,32,Direct Dyes (non-azo): ---- Reds,Free,,,,,2026-10-22
+32041484,8,32,Direct Dyes (non-azo): ---- Violets,Free,,,,,2026-10-22
+32041485,8,32,Direct Dyes (non-azo): ---- Blues,Free,,,,,2026-10-22
+32041486,8,32,Direct Dyes (non-azo): ---- Greens,Free,,,,,2026-10-22
+32041487,8,32,Direct Dyes (non-azo): ---- Browns,Free,,,,,2026-10-22
+32041488,8,32,Direct Dyes (non-azo): ---- Blacks,Free,,,,,2026-10-22
+32041489,8,32,Direct Dyes (non-azo): ---- Other,Free,,,,,2026-10-22
+32041490,8,32,Direct Dyes (non-azo): ---- Other,Free,,,,,2026-10-22
+320415,6,32,Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Vat dyes (including those usable in that state as pigments) and preparations based thereon,,,,,,2026-10-22
+32041511,8,32,Vat yellow: ---- Vat yellow 2 (GC),Free,,,,,2026-10-22
+32041512,8,32,Vat yellow: ---- Vat Yellow 4 (Indathrene Golden yellow GK),Free,,,,,2026-10-22
+32041519,8,32,Vat yellow: ---- Other,Free,,,,,2026-10-22
+32041521,8,32,Vat Orange: ---- Vat Oranges 3 (Brill orange RK),Free,,,,,2026-10-22
+32041522,8,32,Vat Orange: ---- Vat Oranges 15 (Golden Orange 3G),Free,,,,,2026-10-22
+32041529,8,32,Vat Orange: ---- Other,Free,,,,,2026-10-22
+32041531,8,32,Vat Red: ---- Vat Red (Brill Pink),Free,,,,,2026-10-22
+32041539,8,32,Vat Red: ---- Other,Free,,,,,2026-10-22
+32041541,8,32,Vat Violet: ---- Vat Violet 1 (Brill Violet 2R),Free,,,,,2026-10-22
+32041542,8,32,Vat Violet: ---- Vat Violet 3 (Magenta B),Free,,,,,2026-10-22
+32041549,8,32,Vat Violet: ---- Other,Free,,,,,2026-10-22
+32041551,8,32,Vat Blue: ---- Vat Blue 1 (Synthetic Indigo),Free,,,,,2026-10-22
+32041552,8,32,Vat Blue: ---- Vat Blue 4,Free,,,,,2026-10-22
+32041553,8,32,Vat Blue: ---- Vat Blue 5 (Blue 2B),Free,,,,,2026-10-22
+32041554,8,32,Vat Blue: ---- Vat Blue 6 (Blue BC),Free,,,,,2026-10-22
+32041555,8,32,Vat Blue: ---- Vat Blue 20 (Dark Blue 30),Free,,,,,2026-10-22
+32041556,8,32,Vat Blue: ---- Vat Blue 29 (Indanthrene Brill Blue 4G),Free,,,,,2026-10-22
+32041557,8,32,Vat Blue: ---- Vat Blue 43 (Carbazole Blue),Free,,,,,2026-10-22
+32041558,8,32,Vat Blue: ---- Reduced Vat Blues,Free,,,,,2026-10-22
+32041559,8,32,Vat Blue: ---- Other,Free,,,,,2026-10-22
+32041561,8,32,Vat Green: ---- Vat Green 1 (Indanthrene Brill Green BFFB),Free,,,,,2026-10-22
+32041562,8,32,Vat Green: ---- Vat Green 2 (Indanthrene Brill Green GG),Free,,,,,2026-10-22
+32041563,8,32,Vat Green: ---- Vat Green 4 (Indanthrene Brill Green 3B),Free,,,,,2026-10-22
+32041564,8,32,Vat Green: ---- Vat Green 9 (Black BB),Free,,,,,2026-10-22
+32041569,8,32,Vat Green: ---- Other,Free,,,,,2026-10-22
+32041571,8,32,Vat Brown: ---- Vat Brown 1 (Brown BR),Free,,,,,2026-10-22
+32041572,8,32,Vat Brown: ---- Vat Brown 3 (Brown RGR),Free,,,,,2026-10-22
+32041573,8,32,"Vat Brown: ---- Vat Brown 5 (Brown RRD,G)",Free,,,,,2026-10-22
+32041579,8,32,Vat Brown: ---- Other,Free,,,,,2026-10-22
+32041581,8,32,Vat Black: ---- Vat Black 9 (Black RB),Free,,,,,2026-10-22
+32041582,8,32,Vat Black: ---- Vat Black 25 (Olive T),Free,,,,,2026-10-22
+32041583,8,32,Vat Black: ---- Vat Black 27 (Olive R),Free,,,,,2026-10-22
+32041584,8,32,Vat Black: ---- Vat Black 29 (Grey BG),Free,,,,,2026-10-22
+32041589,8,32,Vat Black: ---- Other,Free,,,,,2026-10-22
+32041591,8,32,Other : ---- Solubilised Vat yellows,Free,,,,,2026-10-22
+32041592,8,32,Other : ---- Solubilised Vat Oranges,Free,,,,,2026-10-22
+32041593,8,32,Other : ---- Solubilised Vat reds,Free,,,,,2026-10-22
+32041594,8,32,Other : ---- Solubilised Vat violets,Free,,,,,2026-10-22
+32041595,8,32,Other : ---- Solubilised Vat blues,Free,,,,,2026-10-22
+32041596,8,32,Other : ---- Solubilised Vat greens,Free,,,,,2026-10-22
+32041597,8,32,Other : ---- Solubilised Vat blacks,Free,,,,,2026-10-22
+32041599,8,32,Other : ---- Other,Free,,,,,2026-10-22
+320416,6,32,Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Reactive dyes and preparations based thereon,,,,,,2026-10-22
+32041610,8,32,Yellows,Free,,,,,2026-10-22
+32041620,8,32,Oranges,Free,,,,,2026-10-22
+32041630,8,32,Reds,Free,,,,,2026-10-22
+32041640,8,32,Violets,Free,,,,,2026-10-22
+32041650,8,32,Blues,Free,,,,,2026-10-22
+32041660,8,32,Greens,Free,,,,,2026-10-22
+32041670,8,32,Browns,Free,,,,,2026-10-22
+32041680,8,32,Blacks,Free,,,,,2026-10-22
+32041690,8,32,Other,Free,,,,,2026-10-22
+320417,6,32,Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Pigments and preparations based thereon,,,,,,2026-10-22
+32041711,8,32,Pigment Yellow: ---- Yellow 1 (Hansa Yellow),Free,,,,,2026-10-22
+32041719,8,32,Pigment Yellow: ---- Other,Free,,,,,2026-10-22
+32041720,8,32,Pigment Yellow: ---- Pigment Oranges,Free,,,,,2026-10-22
+32041731,8,32,Pigment Red: ---- Toluidine Red,Free,,,,,2026-10-22
+32041739,8,32,Pigment Red: ---- Other,Free,,,,,2026-10-22
+32041740,8,32,Pigment Violets,Free,,,,,2026-10-22
+32041751,8,32,Pigment Blues: ---- Blue 15 (Pathalocyanine Blue),Free,,,,,2026-10-22
+32041759,8,32,Pigment Blues: ---- Other,Free,,,,,2026-10-22
+32041761,8,32,Pigment Greens: ---- Green 7 (Pathalovyanine Green),Free,,,,,2026-10-22
+32041769,8,32,Pigment Greens: ---- Other,Free,,,,,2026-10-22
+32041770,8,32,Pigment Browns,Free,,,,,2026-10-22
+32041780,8,32,Pigment Blacks,Free,,,,,2026-10-22
+32041790,8,32,Other,Free,,,,,2026-10-22
+32041800,8,32,Carotenoid colouring matters and Preparations based thereon,Free,,,54/2015-2020,2022-02-09,2026-10-22
+320419,6,32,"Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Other, including mixtures of colouring matter of two or more of the subheadings 3204.11 to 3204.19",,,,,,2026-10-22
+32041911,8,32,"Azoic Coupling Components 2,4,5,7,8,13: ---- Azoic Coupling Component 2 (Naphthol AS)",Free,,,,,2026-10-22
+32041912,8,32,"Azoic Coupling Components 2,4,5,7,8,13: ---- Azoic Coupling Component 4 (Naphthol As-BO)",Free,,,,,2026-10-22
+32041913,8,32,"Azoic Coupling Components 2,4,5,7,8,13: ---- Azoic Coupling Component 5 (Naphthol ASG)",Free,,,,,2026-10-22
+32041914,8,32,"Azoic Coupling Components 2,4,5,7,8,13: ---- Azoic Coupling Component 7 (Naphthol ASSW)",Free,,,,,2026-10-22
+32041915,8,32,"Azoic Coupling Components 2,4,5,7,8,13: ---- Azoic Coupling Component 8 (Naphthol ASTR)",Free,,,,,2026-10-22
+32041916,8,32,"Azoic Coupling Components 2,4,5,7,8,13: ---- Azoic Coupling Component 13 (Naphthol ASSG)",Free,,,,,2026-10-22
+32041921,8,32,"Azoic Coupling Components 14,15,17,18,20 and others: ---- Azoic Coupling Component 14 (Naphthol ASPH)",Free,,,,,2026-10-22
+32041922,8,32,"Azoic Coupling Components 14,15,17,18,20 and others: ---- Azoic Coupling Component 15 (Naphthol ASLB)",Free,,,,,2026-10-22
+32041923,8,32,"Azoic Coupling Components 14,15,17,18,20 and others: ---- Azoic Coupling Component 17 (Naphthol ASBS)",Free,,,,,2026-10-22
+32041924,8,32,"Azoic Coupling Components 14,15,17,18,20 and others: ---- Azoic Coupling Component 18 (Naphthol ASD)",Free,,,,,2026-10-22
+32041925,8,32,"Azoic Coupling Components 14,15,17,18,20 and others: ---- Azoic Coupling Component 20 (Naphthol ASOL)",Free,,,,,2026-10-22
+32041929,8,32,"Azoic Coupling Components 14,15,17,18,20 and others: ---- Other",Free,,,,,2026-10-22
+32041931,8,32,"Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 1 (Fast Bordeaux GP Base)",Free,,,,,2026-10-22
+32041932,8,32,"Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 2 (Fast Orange G/GC Base)",Free,,,,,2026-10-22
+32041933,8,32,"Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 3 (Fast scarlet GGIGGS Base)",Free,,,,,2026-10-22
+32041934,8,32,"Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 4 (Fast Garment GBC Base)",Free,,,,,2026-10-22
+32041935,8,32,"Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 5 (Fast Red B Base)",Free,,,,,2026-10-22
+32041936,8,32,"Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 6 (Fast Orange GR Base)",Free,,,,,2026-10-22
+32041937,8,32,"Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 10 (Fast Red R Base)",Free,,,,,2026-10-22
+32041938,8,32,"Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 11 (Fast Red TR Base)",Free,,,,,2026-10-22
+32041941,8,32,"Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 12 (Fast Scarlet G Base)",Free,,,,,2026-10-22
+32041942,8,32,"Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 13 (Fast scarlet R Base)",Free,,,,,2026-10-22
+32041943,8,32,"Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 20 (Fast Blue BB Base)",Free,,,,,2026-10-22
+32041944,8,32,"Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 24 (Fast Blue RR Base)",Free,,,,,2026-10-22
+32041945,8,32,"Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 32 (Fast Red KB Base)",Free,,,,,2026-10-22
+32041946,8,32,"Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 41 (Fast Violet B Base)",Free,,,,,2026-10-22
+32041947,8,32,"Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 48 (Fast Blue B Base)",Free,,,,,2026-10-22
+32041949,8,32,"Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Other",Free,,,,,2026-10-22
+32041951,8,32,Azoic colours: ---- Yellows,Free,,,,,2026-10-22
+32041952,8,32,Azoic colours: ---- Oranges,Free,,,,,2026-10-22
+32041953,8,32,Azoic colours: ---- Reds,Free,,,,,2026-10-22
+32041954,8,32,Azoic colours: ---- Violets,Free,,,,,2026-10-22
+32041955,8,32,Azoic colours: ---- Blues,Free,,,,,2026-10-22
+32041956,8,32,Azoic colours: ---- Greens,Free,,,,,2026-10-22
+32041957,8,32,Azoic colours: ---- Browns,Free,,,,,2026-10-22
+32041958,8,32,Azoic colours: ---- Blacks,Free,,,,,2026-10-22
+32041959,8,32,Azoic colours: ---- Other,Free,,,,,2026-10-22
+32041961,8,32,Sulphur based colouring matters: ---- Yellows,Free,,,,,2026-10-22
+32041962,8,32,Sulphur based colouring matters: ---- Oranges,Free,,,,,2026-10-22
+32041963,8,32,Sulphur based colouring matters: ---- Reds,Free,,,,,2026-10-22
+32041964,8,32,Sulphur based colouring matters: ---- Blues,Free,,,,,2026-10-22
+32041965,8,32,Sulphur based colouring matters: ---- Greens,Free,,,,,2026-10-22
+32041966,8,32,Sulphur based colouring matters: ---- Browns,Free,,,,,2026-10-22
+32041967,8,32,Sulphur based colouring matters: ---- Blacks,Free,,,,,2026-10-22
+32041969,8,32,Sulphur based colouring matters: ---- Other,Free,,,,,2026-10-22
+32041971,8,32,Solvent based colouring matters: ---- Yellows,Free,,,,,2026-10-22
+32041972,8,32,Solvent based colouring matters: ---- Oranges,Free,,,,,2026-10-22
+32041973,8,32,Solvent based colouring matters: ---- Reds,Free,,,,,2026-10-22
+32041974,8,32,Solvent based colouring matters: ---- Violets,Free,,,,,2026-10-22
+32041975,8,32,Solvent based colouring matters: ---- Blues,Free,,,,,2026-10-22
+32041976,8,32,Solvent based colouring matters: ---- Greens,Free,,,,,2026-10-22
+32041977,8,32,Solvent based colouring matters: ---- Browns,Free,,,,,2026-10-22
+32041978,8,32,Solvent based colouring matters: ---- Blacks,Free,,,,,2026-10-22
+32041979,8,32,Solvent based colouring matters: ---- Other,Free,,,,,2026-10-22
+32041981,8,32,Food colouring matters: ---- Yellow 3 (sunset yellow),Free,,,,,2026-10-22
+32041982,8,32,Food colouring matters: ---- Yellow 4 (Tartrazine),Free,,,,,2026-10-22
+32041983,8,32,Food colouring matters: ---- Reds 5 to 8 (Poncean),Free,,,,,2026-10-22
+32041984,8,32,Food colouring matters: ---- Red 9 (Amaranth),Free,,,,,2026-10-22
+32041985,8,32,Food colouring matters: ---- Oranges,Free,,,,,2026-10-22
+32041986,8,32,Food colouring matters: ---- Violets,Free,,,,,2026-10-22
+32041987,8,32,Food colouring matters: ---- Greens,Free,,,,,2026-10-22
+32041988,8,32,Food colouring matters: ---- Browns,Free,,,,,2026-10-22
+32041989,8,32,Food colouring matters: ---- Other,Free,,,,,2026-10-22
+32041990,8,32,Food colouring matters: ---- Other,Free,,,,,2026-10-22
+320420,6,32,Synthetic organic products of a kind used as fluorescent brightening agents,,,,,,2026-10-22
+32042010,8,32,Optical whitening agents,Free,,,,,2026-10-22
+32042090,8,32,Other,Free,,,,,2026-10-22
+32049000,8,32,Other,Free,,,,,2026-10-22
+32050000,8,32,Colour lakes; preparations as specified in Note 3 to this Chapter based on colour lakes,Free,,,,,2026-10-22
+3206,4,32,"Other colouring matter; preparations as specified in Note 3 to this Chapter, other than those of heading 32.03, 32.04 or 32.05; inorganic products of a kind used as luminophores, whether or not chemically defined",,,,,,2026-10-22
+320611,6,32,Pigments and preparations based on titanium dioxide : -- Containing 80 percent or more by weight of titanium dioxide calculated on the dry matter,,,,,,2026-10-22
+32061110,8,32,"Pearlsent pigment (Titanium dioxide, coated micananeous and lustres pearl pigment)",Free,,,,,2026-10-22
+32061190,8,32,Other,Free,,,,,2026-10-22
+32061900,8,32,Pigments and preparations based on titanium dioxide : -- Other,Free,,,,,2026-10-22
+32062000,8,32,Pigments and preparations based on chromium compounds,Free,,,,,2026-10-22
+32064100,8,32,Other colouring matter and other preparations : -- Ultramarine and preparations based thereon,Free,,,,,2026-10-22
+32064200,8,32,Other colouring matter and other preparations : -- Lithopone and other pigments and preparations based on zinc sulphide,Free,,,,,2026-10-22
+320649,6,32,Other,,,,,,2026-10-22
+32064910,8,32,Red oxide,Free,,,,,2026-10-22
+32064920,8,32,Persian red,Free,,,,,2026-10-22
+32064930,8,32,Yellow ochre,Free,,,,,2026-10-22
+32064940,8,32,Bronze powder,Free,,,,,2026-10-22
+32064990,8,32,Other,Free,,,,,2026-10-22
+32065000,8,32,Inorganic products of a kind used as luminophores,Free,,,,,2026-10-22
+3207,4,32,"Prepared pigments, prepared opacifiers and prepared colours, vitrifiable enamels and glazes, engobes (slips), liquid lustres and similar preparations, of a kind used in the ceramic, enamelling or glass industry; glass frit and other glass, in the form of powder, granules or flakes.",,,,,,2026-10-22
+320710,6,32,"Prepared pigments, prepared opacifiers, prepared colours and similar preparations",,,,,,2026-10-22
+32071010,8,32,"Prepared organic dye-stuff pigments, dry",Free,,,,,2026-10-22
+32071020,8,32,"Prepared organic dye-stuff pigments, paste",Free,,,,,2026-10-22
+32071030,8,32,Prepared inorganic pigments,Free,,,,,2026-10-22
+32071040,8,32,Prepared opacifiers prepared colours and similar preparations,Free,,,,,2026-10-22
+32071090,8,32,Other,Free,,,,,2026-10-22
+320720,6,32,"Vitrifiable enamels and glazes, engobes (slips) and similar preparations",,,,,,2026-10-22
+32072010,8,32,Vitrifiable enamels and glazes,Free,,,,,2026-10-22
+32072020,8,32,Engobes (slips) and similar preparations,Free,,,,,2026-10-22
+32073000,8,32,Liquid lustres and similar preparations,Free,,,,,2026-10-22
+32074000,8,32,"Glass frit and other glass, in the form of powder, granules or flakes",Free,,,,,2026-10-22
+3208,4,32,Paints and varnishes (including enamels and lacquers) based on dispersed or dissolved in a non-aqueous medium; solutions as defined in Note 4 to this Chapter.,,,,,,2026-10-22
+320810,6,32,Based on polyesters,,,,,,2026-10-22
+32081010,8,32,Enamels,Free,,,,,2026-10-22
+32081020,8,32,Lacquers,Free,,,,,2026-10-22
+32081030,8,32,Varnishes,Free,,,,,2026-10-22
+32081090,8,32,Other,Free,,,,,2026-10-22
+320820,6,32,Based on acrylic or vinyl polymers,,,,,,2026-10-22
+32082010,8,32,Enamels,Free,,,,,2026-10-22
+32082020,8,32,Lacquers,Free,,,,,2026-10-22
+32082030,8,32,Varnishes,Free,,,,,2026-10-22
+32082090,8,32,Other,Free,,,,,2026-10-22
+320890,6,32,Other,,,,,,2026-10-22
+32089011,8,32,Nitrocellulose lacquers,Free,,,,,2026-10-22
+32089019,8,32,Other,Free,,,,,2026-10-22
+32089021,8,32,"Enamels: ---- Synthetic enamel, ultra white paints",Free,,,,,2026-10-22
+32089022,8,32,"Enamels: ---- Synthetic enamel, other colours",Free,,,,,2026-10-22
+32089029,8,32,Enamels: ---- Other,Free,,,,,2026-10-22
+32089030,8,32,Enamels: ---- Lacquers,Free,,,,,2026-10-22
+32089041,8,32,Varnishes: ---- Insulating varnish,Free,,,,,2026-10-22
+32089049,8,32,Varnishes: ---- Other,Free,,,,,2026-10-22
+32089050,8,32,Varnishes: ---- Slip agents,Free,,,,,2026-10-22
+32089090,8,32,Varnishes: ---- Other,Free,,,,,2026-10-22
+3209,4,32,"Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium.",,,,,,2026-10-22
+320910,6,32,Based on acrylic or vinyl polymers,,,,,,2026-10-22
+32091010,8,32,Acrylic emulsion,Free,,,,,2026-10-22
+32091090,8,32,Other,Free,,,,,2026-10-22
+320990,6,32,Other,,,,,,2026-10-22
+32099010,8,32,Dispersion paints,Free,,,,,2026-10-22
+32099020,8,32,Emulsion paints not elsewhere specified or included,Free,,,,,2026-10-22
+32099090,8,32,Other,Free,,,,,2026-10-22
+3210,4,32,"Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather.",,,,,,2026-10-22
+321000,6,32,"Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather : Distempers :",,,,,,2026-10-22
+32100011,8,32,"Distempers: ---- Dry distemper, including cement based water paints",Free,,,,,2026-10-22
+32100012,8,32,Distempers: ---- Oil bound distemper,Free,,,,,2026-10-22
+32100019,8,32,Distempers: ---- Other,Free,,,,,2026-10-22
+32100020,8,32,Distempers: ---- Prepared water pigments of a kind used for finishing leather,Free,,,,,2026-10-22
+32100030,8,32,Distempers: ---- Metallic powder or flakes prepared as paints,Free,,,,,2026-10-22
+32100040,8,32,Distempers: ---- Poly Tetra Fluoro Ethylene (PTFE) or Silicon resin based coating materials,Free,,,,,2026-10-22
+32100090,8,32,Distempers: ---- Other,Free,,,,,2026-10-22
+32110000,8,32,Prepared driers.,Free,,,,,2026-10-22
+3212,4,32,"Pigments (including metallic powders and flakes) dispersed in non-aqueous media, in liquid or paste form, of a kind used in the manufacture of paints (including enamels); stamping foils; dyes and other colouring matter put up in forms or packings for retail sale.",,,,,,2026-10-22
+32121000,8,32,Stamping foils,Free,,,,,2026-10-22
+321290,6,32,Other,,,,,,2026-10-22
+32129010,8,32,"Pigments in linseed oil, white spirit, spirit of turpentine, varnish and other paints or enamel media not elsewhere specified or included",Free,,,,,2026-10-22
+32129020,8,32,Dyes and other colouring matter put up in forms or packings for retail sale,Free,,,,,2026-10-22
+32129030,8,32,Aluminium paste,Free,,,,,2026-10-22
+32129090,8,32,Other,Free,,,,,2026-10-22
+3213,4,32,"Artists, students or signboard painters colours, modifying tints, amusement colours and the like, in tablets, tubes, jars, bottles, pans or in similar forms or packings.",,,,,,2026-10-22
+32131000,8,32,Colours in sets,Free,,,,,2026-10-22
+32139000,8,32,Other,Free,,,,,2026-10-22
+3214,4,32,"Glaziers putty, grafting putty, resin cements, caulking compounds and other mastics; painters fillings; non-refractory surfacing preparations for façades, indoor walls, floors, ceilings or the like.",,,,,,2026-10-22
+32141000,8,32,"Glaziers putty, grafting putty, resin cements, caulking compounds and other mastics; painters fillings",Free,,,,,2026-10-22
+321490,6,32,Other,,,,,,2026-10-22
+32149010,8,32,Non-refractory surfacing preparations,Free,,,,,2026-10-22
+32149020,8,32,Resin cement,Free,,,,,2026-10-22
+32149090,8,32,Other,Free,,,,,2026-10-22
+3215,4,32,"Printing ink, writing or drawing ink and other inks, whether or not concentrated or solid.",,,,,,2026-10-22
+321511,6,32,Printing ink : -- Black,,,,,,2026-10-22
+32151110,8,32,Lithographic ink and jelly,Free,,,,,2026-10-22
+32151120,8,32,Newspaper ink,Free,,,,,2026-10-22
+32151130,8,32,Rotary ink,Free,,,,,2026-10-22
+32151140,8,32,Screen printing ink,Free,,,,,2026-10-22
+32151190,8,32,Other,Free,,,,,2026-10-22
+321519,6,32,Printing ink : -- Other,,,,,,2026-10-22
+32151910,8,32,Lithographic ink and jelly,Free,,,,,2026-10-22
+32151920,8,32,Newspaper ink,Free,,,,,2026-10-22
+32151930,8,32,Rotary ink,Free,,,,,2026-10-22
+32151940,8,32,Screen printing ink,Free,,,,,2026-10-22
+32151990,8,32,Other,Free,,,,,2026-10-22
+321590,6,32,Other,,,,,,2026-10-22
+32159010,8,32,Fountain pen ink,Free,,,,,2026-10-22
+32159020,8,32,Ball pen ink,Free,,,,,2026-10-22
+32159030,8,32,Indelible ink,Free,,,,,2026-10-22
+32159040,8,32,Drawing ink,Free,,,,,2026-10-22
+32159090,8,32,Other,Free,,,,,2026-10-22

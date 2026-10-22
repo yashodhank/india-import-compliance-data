@@ -1,0 +1,73 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+3401,4,34,"Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent.",,,,,,2026-10-22
+340111,6,34,"Soap and organic surface-active products and preparations, in the form of bars, cakes, moulded pieces or shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent : -- For toilet use (including medicated products)",,,,,,2026-10-22
+34011110,8,34,Medicated toilet soaps,Free,,,,,2026-10-22
+34011120,8,34,Shaving soaps other than shaving cream,Free,,,,,2026-10-22
+34011190,8,34,Other,Free,,,,,2026-10-22
+340119,6,34,"Soap and organic surface-active products and preparations, in the form of bars, cakes, moulded pieces or shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent : -- Other",,,,,,2026-10-22
+34011911,8,34,Industrial soap,Free,,,,,2026-10-22
+34011919,8,34,Other,Free,,,,,2026-10-22
+34011920,8,34,"Flakes, chips and powder",Free,,,,,2026-10-22
+34011930,8,34,Tablets and cakes,Free,,,,,2026-10-22
+34011941,8,34,Household and laundry soaps not elsewhere specified or included: ---- Household soaps,Free,,,,,2026-10-22
+34011942,8,34,Household and laundry soaps not elsewhere specified or included: ---- Laundry soaps,Free,,,,,2026-10-22
+34011990,8,34,Household and laundry soaps not elsewhere specified or included: ---- Other,Free,,,,,2026-10-22
+34012000,8,34,Soap in other forms,Free,,,,,2026-10-22
+340130,6,34,"Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap",,,,,,2026-10-22
+34013011,8,34,Medicated toilet soaps,Free,,,,,2026-10-22
+34013012,8,34,For toilet use (including medicated products): ---- Shaving cream and shaving gel,Free,,,,,2026-10-22
+34013019,8,34,For toilet use (including medicated products): ---- Other,Free,,,,,2026-10-22
+34013090,8,34,Other,Free,,,,,2026-10-22
+3402,4,34,"Organic surface-active agents (other than soap); surface-active preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap, other than those of heading 34.01.",,,,,,2026-10-22
+34023100,8,34,"Anionic organic surface-active agents, whether or not put up for retail sale: -- Linear alkylbenzene sulphonic acids and their salts",Free,,,54/2015-2020,2022-02-09,2026-10-22
+34023900,8,34,"Anionic organic surface-active agents, whether or not put up for retail sale:--Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+34024100,8,34,"Other organic surface-active agents, whether or not put up for retail sale:-- Cationic",Free,,,54/2015-2020,2022-02-09,2026-10-22
+34024200,8,34,"Other organic surface-active agents, whether or not put up for retail sale:-- Non-ionic",Free,,,54/2015-2020,2022-02-09,2026-10-22
+34024900,8,34,"Other organic surface-active agents, whether or not put up for retail sale:-- Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+34025000,8,34,"Other organic surface active agents, whether or not put up for retail sale: - Preparations put up for retail sale",Free,,,54/2015-2020,2022-02-09,2026-10-22
+340290,6,34,Other,,,,,,2026-10-22
+34029011,8,34,"Synthetic detergents: ---- Washing preparations (including auxiliary washing preparations) and cleaning preparations, having a basis of soap or other organic surface active agents",Free,,,,,2026-10-22
+34029012,8,34,Synthetic detergents: ---- Cleaning or degreasing preparations not having a basis of soap or other organic surface active agents,Free,,,,,2026-10-22
+34029019,8,34,Synthetic detergents: ---- Other,Free,,,,,2026-10-22
+34029020,8,34,Synthetic detergents: ---- Sulphonated or sulphated or oxidised or chlorinated castor oil; Sulphonated or sulphated or oxidised or chlorinated fish oil; Sulphonated or sulphated or oxidised or chlorinated sperm oil; Sulphonated or sulphated or oxidised or chlorinated neats foot oil,Free,,,,,2026-10-22
+34029030,8,34,Synthetic detergents: ---- Penetrators,Free,,,,,2026-10-22
+34029041,8,34,"Wetting agents: ---- Washing preparations (including auxiliary washing preparations) and cleaning preparations, having a basis of soap or other organic surface active agents",Free,,,,,2026-10-22
+34029042,8,34,Wetting agents: ---- Cleaning or degreasing preparations not having a basis of soap or other organic surface active agents,Free,,,,,2026-10-22
+34029049,8,34,Wetting agents: ---- Other,Free,,,,,2026-10-22
+34029051,8,34,"Washing preparations whether or not containing soaps: ---- Washing preparations (including auxiliary washing preparations) and cleaning preparations, having a basis of soap or other organic surface active agents",Free,,,,,2026-10-22
+34029052,8,34,Washing preparations whether or not containing soaps: ---- Cleaning or degreasing preparations not having a basis of soap or other organic surface active agents,Free,,,,,2026-10-22
+34029059,8,34,Washing preparations whether or not containing soaps: ---- Other,Free,,,,,2026-10-22
+34029091,8,34,"Other: ---- Washing preparations (including auxiliary washing preparations) and cleaning preparations, having a basis of soap or other organic surface active agents",Free,,,,,2026-10-22
+34029092,8,34,Other: ---- Cleaning or degreasing preparations not having a basis of soap or other organic surface active agents,Free,,,,,2026-10-22
+34029099,8,34,Other: ---- Other,Free,,,,,2026-10-22
+3403,4,34,"Lubricating preparations (including cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould release preparations, based on lubricants) and preparations of a kind used for the oil or grease treatment of textile materials, leather, furskins or other materials, but excluding preparations containing, as basic constituents, 70 percent or more by weight of petroleum oils or of oils obtained from bituminous minerals.",,,,,,2026-10-22
+34031100,8,34,"Containing petroleum oils or oils obtained from bituminous minerals : -- Preparations for the treatment of textile materials, leather, furskins or other materials",Free,,,,,2026-10-22
+34031900,8,34,Containing petroleum oils or oils obtained from bituminous minerals : -- Other,Free,,,,,2026-10-22
+34039100,8,34,"Other : -- preparations for the treatment of textile materials, leather, furskins or other materials",Free,,,,,2026-10-22
+34039900,8,34,Other : -- Other,Free,,,,,2026-10-22
+3404,4,34,Artificial waxes and prepared waxes.,,,,,,2026-10-22
+34042000,8,34,Of poly(oxyethylene) (polyethylene glycol),Free,,,,,2026-10-22
+340490,6,34,Other,,,,,,2026-10-22
+34049010,8,34,"Sealing wax (including bottle sealing wax) in sticks, cakes or similar forms",Free,,,,,2026-10-22
+34049020,8,34,Polyethylene wax,Free,,,,,2026-10-22
+34049031,8,34,"Artificial waxes (including water soluble waxes) prepared waxes, not emulsified or containing solvents: ---- Poly Brominated Biphenyls",Restricted,Imports subject to conditions at Policy Condition (1) below.,1,,,2026-10-22
+34049032,8,34,"Artificial waxes (including water soluble waxes) prepared waxes, not emulsified or containing solvents: ---- Poly Chlorinated Biphenyls",Restricted,Imports subject to conditions at Policy Condition (1) below.,1,,,2026-10-22
+34049033,8,34,"Artificial waxes (including water soluble waxes) prepared waxes, not emulsified or containing solvents: ---- Poly Chlorinated Terphenyls",Restricted,Imports subject to conditions at Policy Condition (1) below.,1,,,2026-10-22
+34049039,8,34,"Artificial waxes (including water soluble waxes) prepared waxes, not emulsified or containing solvents: ---- Other",Free,,,,,2026-10-22
+34049090,8,34,"Artificial waxes (including water soluble waxes) prepared waxes, not emulsified or containing solvents: ---- Other",Free,,,,,2026-10-22
+3405,4,34,"Polishes and creams, for footwear, furniture, floors, coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the form of paper, wadding, felt, nonwovens, cellular plastics or cellular rubber, impregnated, coated or covered with such preparations), excluding waxes of heading 34.04.",,,,,,2026-10-22
+34051000,8,34,"Polishes, creams and similar preparations for footwear or leather",Free,,,,,2026-10-22
+34052000,8,34,"Polishes, creams and similar preparations for the maintenance of wooden furniture, floors or other woodwork",Free,,,,,2026-10-22
+34053000,8,34,"Polishes and similar preparations for coachwork, other than metal polishes",Free,,,,,2026-10-22
+34054000,8,34,Scouring pastes and powders and other scouring preparations,Free,,,,,2026-10-22
+340590,6,34,Other,,,,,,2026-10-22
+34059010,8,34,Polishes and compositions for application to metal including diamond polishing powder or paste,Free,,,,,2026-10-22
+34059090,8,34,Other,Free,,,,,2026-10-22
+3406,4,34,"Candles, tapers and the like.",,,,,,2026-10-22
+340600,6,34,"Candles, tapers and the like:",,,,,,2026-10-22
+34060010,8,34,Candles,Free,,,,,2026-10-22
+34060090,8,34,Other,Free,,,,,2026-10-22
+3407,4,34,"Modelling pastes, including those put up for childrens amusement; preparations known as dental wax or as dental impression compounds, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms; other preparations for use in dentistry, with a basis of plaster (of calcined gypsum or calcium sulphate).",,,,,,2026-10-22
+340700,6,34,"Modelling pastes, including those put up for children s amusement; preparations known as dental wax or as dental impression compounds, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms; other preparations for use in dentistry, with a basis of plaster (of calcined gypsum or calcium sulphate):",,,,,,2026-10-22
+34070010,8,34,"Modelling pastes, including those put up for childrens amusement",Free,,,,,2026-10-22
+34070090,8,34,Other,Free,,,,,2026-10-22

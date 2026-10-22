@@ -1,0 +1,72 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+0401,4,04,"Milk and cream, not concentrated nor containing added sugar or other sweetening matter.",,,,,,2026-10-22
+04011000,8,04,"Of a fat content, by weight, not exceeding 1 percent",Free,,,,,2026-10-22
+04012000,8,04,"Of a fat content, by weight, exceeding 1 percent but not exceeding 6 percent",Free,,,,,2026-10-22
+04014000,8,04,"Of a fat content, by weight, exceeding 6 percent but not exceeding 10percent",Free,,,,,2026-10-22
+04015000,8,04,"Of a fat content, by weight, exceeding 10 percent",Free,,,,,2026-10-22
+0402,4,04,"Milk and cream, concentrated or containing added sugar or other sweetening matter.",,,,,,2026-10-22
+040210,6,04,"In powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5 percent",,,,,,2026-10-22
+04021010,8,04,Skimmed Milk,Free,"Skimmed milk powder, standard grade must conform to IS 13334 (Part 1) and extra grade must conform to IS 13334 (Part 2)",,,,2026-10-22
+04021020,8,04,Milk food for babies,Free,,,,,2026-10-22
+04021090,8,04,Other,Free,,,,,2026-10-22
+04022100,8,04,"In powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 percent : -- Not containing added sugar or other sweetening matter",Free,Milk Powder must conform to IS 1165 and Partly skimmed milk powder must conform to IS 14542,,,,2026-10-22
+040229,6,04,"In powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 percent : -- Other",,,,,,2026-10-22
+04022910,8,04,Whole milk,Free,,,,,2026-10-22
+04022920,8,04,Milk for babies,Free,,,,,2026-10-22
+04022990,8,04,Other Other:,Free,,,,,2026-10-22
+040291,6,04,Other : -- Not containing added sugar or other sweetening matter,,,,,,2026-10-22
+04029110,8,04,Condensed milk,Free,"Condensed Milk, partly condensed milk and skimmed condensed milk must conform to IS 1166",,,,2026-10-22
+04029190,8,04,Other,Free,,,,,2026-10-22
+040299,6,04,Other : -- Other,,,,,,2026-10-22
+04029910,8,04,Whole Milk,Free,,,,,2026-10-22
+04029920,8,04,Condensed Milk,Free,"Condensed Milk, partly condensed milk and skimmed condensed milk must conform to IS 1166",,,,2026-10-22
+04029990,8,04,Other,Free,,,,,2026-10-22
+0403,4,04,"YOGURT; BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED OR CONTAINING ADDED FRUIT, NUTS OR COCOA",,,,,,2026-10-22
+04032000,8,04,Yogurt,Free,,,54/2015-2020,2022-02-09,2026-10-22
+040390,6,04,Other :,,,,,,2026-10-22
+04039010,8,04,Butter milk,Free,,,,,2026-10-22
+04039090,8,04,Other,Free,,,,,2026-10-22
+0404,4,04,"Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included.",,,,,,2026-10-22
+040410,6,04,"Whey and modified whey, whether or not concentrated or containing added sugar or other sweetening matter",,,,,,2026-10-22
+04041010,8,04,"Whey, concentrated, evaporated or condensed, liquid or semi-solid",Free,,,,,2026-10-22
+04041020,8,04,"Whey, dry, blocks and powdered",Free,,,,,2026-10-22
+04041090,8,04,Other,Free,,,,,2026-10-22
+04049000,8,04,Other,Free,,,,,2026-10-22
+0405,4,04,Butter and other fats and oils derived from milk; dairy spreads.,,,,,,2026-10-22
+04051000,8,04,Butter,Free,,,,,2026-10-22
+04052000,8,04,Dairy spreads,Free,,,,,2026-10-22
+040590,6,04,Other,,,,,,2026-10-22
+04059010,8,04,Butter Oil,Free,,,,,2026-10-22
+04059020,8,04,Ghee,Free,,,,,2026-10-22
+04059090,8,04,Other,Free,,,,,2026-10-22
+0406,4,04,Cheese and curd.,,,,,,2026-10-22
+040610,6,04,"Fresh (unripened or uncured) cheese, including whey cheese, and curd :",,,,,,2026-10-22
+04061010,8,04,Mozzarella cheese,Free,.,,08/2023,2023-05-29,2026-10-22
+04061090,8,04,Other,Free,.,,08/2023,2023-05-29,2026-10-22
+04062000,8,04,"Grated or powdered cheese, of all kinds",Free,,,,,2026-10-22
+04063000,8,04,"Processed cheese, not grated or powdered",Free,,,,,2026-10-22
+04064000,8,04,Blue-veined cheese and other cheese containing veins produced by Penicillium roqueforti,Free,,,,,2026-10-22
+04069000,8,04,Other cheese,Free,,,,,2026-10-22
+0407,4,04,"Birds eggs, in shell, fresh, preserved or cooked.",,,,,,2026-10-22
+04071100,8,04,Fertilised eggs for incubation : -- Of fowls of the species Gallus domesticus,Restricted,,,,,2026-10-22
+040719,6,04,Fertilised eggs for incubation : -- Other,,,,,,2026-10-22
+04071910,8,04,Of ducks,Restricted,,,,,2026-10-22
+04071990,8,04,Other,Restricted,,,,,2026-10-22
+04072100,8,04,Other fresh eggs : -- Of fowls of the species Gallus domesticus,Restricted,,,,,2026-10-22
+04072900,8,04,Other fresh eggs : -- Other,Restricted,,,,,2026-10-22
+04079000,8,04,Others,Restricted,,,,,2026-10-22
+0408,4,04,"Birds eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter.",,,,,,2026-10-22
+04081100,8,04,Egg yolks : -- Dried,Free,,,,,2026-10-22
+04081900,8,04,Egg yolks : -- Other,Free,,,,,2026-10-22
+04089100,8,04,Other : -- Dried,Free,,,,,2026-10-22
+04089900,8,04,Other -- Other,Free,,,,,2026-10-22
+04090000,8,04,Natural Honey,Free,,,,,2026-10-22
+0410,4,04,"INSECTS AND OTHER EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED",,,,,,2026-10-22
+041010,6,04,Insects:,,,,,,2026-10-22
+04101010,8,04,"Fresh, chilled or frozen",Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+04101020,8,04,"Salted, in brine, dried or smoked",Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+04101090,8,04,Other,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+041090,6,04,Other:,,,,,,2026-10-22
+04109010,8,04,Of wild animals,Prohibited,,,54/2015-2020,2022-02-09,2026-10-22
+04109020,8,04,Turtle eggs and Salanganes nests (birds nests),Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+04109090,8,04,Other,Restricted,,,54/2015-2020,2022-02-09,2026-10-22

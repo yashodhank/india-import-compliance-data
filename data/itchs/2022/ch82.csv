@@ -1,0 +1,134 @@
+hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+8201,4,82,"Hand tools, the following : spades, shovels, mattocks, picks, hoes, forks and rakes; axes, bill hooks and similar hewing tools; secateurs and pruners of any kind; scythes, sickles, hay knives, hedge shears, timber wedges and other tools of a kind used in agriculture, horticulture or forestry.",,,,,,2026-10-22
+82011000,8,82,Spades and shovels,Free,,,,,2026-10-22
+82013000,8,82,"Mattocks, picks, hoes and rakes",Free,,,,,2026-10-22
+82014000,8,82,"Axes, bill hooks and similar hewing tools",Free,,,,,2026-10-22
+82015000,8,82,Secateurs and similar one-handed pruners and shears (including poultry shears),Free,,,,,2026-10-22
+82016000,8,82,"Hedge shears, two-handed pruning shears and similar two-handed shears",Free,,,,,2026-10-22
+82019000,8,82,"Other hand tools of a kind used in agriculture, horticulture or forestry",Free,,,,,2026-10-22
+8202,4,82,"Hand saws; blades for saws of all kinds (including slitting,",,,,,,2026-10-22
+820210,6,82,Hand saws,,,,,,2026-10-22
+82021010,8,82,Metal working hand saws,Free,,,,,2026-10-22
+82021020,8,82,Wood working and similar hand saws,Free,,,,,2026-10-22
+82021090,8,82,Other,Free,,,,,2026-10-22
+82022000,8,82,Band saw blades,Free,,,,,2026-10-22
+82023100,8,82,Circular saw blades (including slitting or slotting saw blades) : -- With working part of steel,Free,,,,,2026-10-22
+82023900,8,82,"Circular saw blades (including slitting or slotting saw blades) : -- Other, including parts",Free,,,,,2026-10-22
+82024000,8,82,Chain saw blades,Free,,,,,2026-10-22
+820291,6,82,"Other saw blades : -- Straight saw blades, for working metal",,,,,,2026-10-22
+82029110,8,82,Other saw blades: ----Machine operated,Free,,,,,2026-10-22
+82029120,8,82,Other saw blades: ----Hand operated,Free,,,,,2026-10-22
+820299,6,82,Other saw blades : -- Other,,,,,,2026-10-22
+82029910,8,82,Hacksaw frames,Free,,,,,2026-10-22
+82029990,8,82,Other,Free,,,,,2026-10-22
+8203,4,82,"Files, rasps, pliers (including cutting pliers), pincers, tweezers, metal cutting shears, pipe-cutters, bolt croppers, perforating punches and similar hand tools.",,,,,,2026-10-22
+82031000,8,82,"Files, rasps and similar tools",Free,,,,,2026-10-22
+82032000,8,82,"Pliers (including cutting pliers), pincers, tweezers and similar tools",Free,,,,,2026-10-22
+82033000,8,82,Metal cutting shears and similar tools,Free,,,,,2026-10-22
+820340,6,82,"Pipe-cutters, bolt croppers, perforating punches and similar tools",,,,,,2026-10-22
+82034010,8,82,Perforating punches and pipe cutters,Free,,,,,2026-10-22
+82034090,8,82,Other,Free,,,,,2026-10-22
+8204,4,82,"Hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches); interchangeable spanner sockets, with or without handles.",,,,,,2026-10-22
+820411,6,82,Hand-operated spanners and wrenches : -- Non-adjustable,,,,,,2026-10-22
+82041110,8,82,Spanners,Free,,,,,2026-10-22
+82041120,8,82,Wrenches,Free,,,,,2026-10-22
+820412,6,82,Hand-operated spanners and wrenches : -- Adjustable,,,,,,2026-10-22
+82041210,8,82,Spanners,Free,,,,,2026-10-22
+82041220,8,82,Wrenches,Free,,,,,2026-10-22
+82042000,8,82,"Interchangeable spanner sockets, with or without handles",Free,,,,,2026-10-22
+8205,4,82,"Hand tools (including glaziers diamonds), not elsewhere specified or included; blow lamps; vices, clamps and the like, other than accessories for and parts of, machine-tools or waterjet cutting machines; anvils; portable forges; hand or pedaloperated grinding wheels with frameworks.",,,,,,2026-10-22
+82051000,8,82,"Drilling, threading or tapping tools",Free,,,,,2026-10-22
+82052000,8,82,Hammers and sledge hammers,Free,,,,,2026-10-22
+82053000,8,82,"Planes, chisels, gouges and similar cutting tools for working wood",Free,,,,,2026-10-22
+82054000,8,82,Screwdrivers,Free,,,,,2026-10-22
+820551,6,82,Other hand tools (including glaziers diamonds) : -- Household tools,,,,,,2026-10-22
+82055110,8,82,Other hand tools (including glaziers diamonds): ----Can or cork opener,Free,,,,,2026-10-22
+82055190,8,82,Other hand tools (including glaziers diamonds): ----Other,Free,,,,,2026-10-22
+820559,6,82,Other hand tools (including glaziers diamonds) : -- Other,,,,,,2026-10-22
+82055910,8,82,Grease guns (excluding compressed air type),Free,,,,,2026-10-22
+82055920,8,82,Metal working hand tools,Free,,,,,2026-10-22
+82055930,8,82,"Hand tools for specified uses, such as watch making tools, goldsmith tools",Free,,,,,2026-10-22
+82055940,8,82,Forks other than those of heading 8201 and 8215,Free,,,,,2026-10-22
+82055990,8,82,Other,Free,,,,,2026-10-22
+82056000,8,82,Blow lamps,Free,,,,,2026-10-22
+82057000,8,82,"Vices, clamps and the like",Free,,,,,2026-10-22
+820590,6,82,"Other, including sets of articles of two or more of subheadings of this heading",,,,,,2026-10-22
+82059010,8,82,Anvils and portable forges,Free,,,,,2026-10-22
+82059020,8,82,"Grinding wheels with frame, hand or pedal-operated",Free,,,,,2026-10-22
+82059030,8,82,Sets of articles of two or more of the foregoing sub-headings,Free,,,,,2026-10-22
+82059090,8,82,Other,Free,,,,,2026-10-22
+8206,4,82,"Tools of two or more of the headings 82.02 to 82.05, put up in sets for retail sale.",,,,,,2026-10-22
+820600,6,82,"Tools of two or more of the headings 8202 to 8205, put up in sets for retail sale :",,,,,,2026-10-22
+82060010,8,82,Garage tools in sets,Free,,,,,2026-10-22
+82060090,8,82,Other,Free,,,,,2026-10-22
+8207,4,82,"Interchangeable tools for hand tools, whether or not poweroperated, or for machine-tools (for example, for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screw driving), including dies for drawing or extruding metal, and rock drilling or earth boring tools.",,,,,,2026-10-22
+82071300,8,82,Rock drilling or earth boring tools : -- With working part of cermets,Free,,,,,2026-10-22
+82071900,8,82,"Rock drilling or earth boring tools : -- Other, including parts",Free,,,,,2026-10-22
+82072000,8,82,Dies for drawing or extruding metal,Free,,,,,2026-10-22
+82073000,8,82,"Tools for pressing, stamping or punching",Free,,,,,2026-10-22
+820740,6,82,Tools for tapping or threading,,,,,,2026-10-22
+82074010,8,82,Chasers,Free,,,,,2026-10-22
+82074090,8,82,Other,Free,,,,,2026-10-22
+82075000,8,82,"Tools for drilling, other than for rock drilling",Free,,,,,2026-10-22
+820760,6,82,Tools for boring or broaching,,,,,,2026-10-22
+82076010,8,82,Reamers,Free,,,,,2026-10-22
+82076090,8,82,Other,Free,,,,,2026-10-22
+820770,6,82,Tools for milling,,,,,,2026-10-22
+82077010,8,82,Cutters,Free,,,,,2026-10-22
+82077090,8,82,Other,Free,,,,,2026-10-22
+82078000,8,82,Tools for turning,Free,,,,,2026-10-22
+820790,6,82,Other interchangeable tools,,,,,,2026-10-22
+82079010,8,82,For Metal working hand tools,Free,,,,,2026-10-22
+82079020,8,82,For Wood working hand tools,Free,,,,,2026-10-22
+82079030,8,82,Lathe tools and tool belts,Free,,,,,2026-10-22
+82079090,8,82,Other,Free,,,,,2026-10-22
+8208,4,82,"Knives and cutting blades, for machines or for mechanical appliances.",,,,,,2026-10-22
+82081000,8,82,For metal working,Free,,,,,2026-10-22
+82082000,8,82,For wood working,Free,,,,,2026-10-22
+82083000,8,82,For kitchen appliances or for machines used by the food industry,Free,,,,,2026-10-22
+82084000,8,82,"For agricultural, horticultural or forestry machines",Free,,,,,2026-10-22
+820890,6,82,Other,,,,,,2026-10-22
+82089010,8,82,Knives and cutting blades for paper cutting machines,Free,,,,,2026-10-22
+82089020,8,82,Bell skiving knives,Free,,,,,2026-10-22
+82089030,8,82,Band knives for splitting machine,Free,,,,,2026-10-22
+82089040,8,82,Cutting and clicking dies,Free,,,,,2026-10-22
+82089090,8,82,Other,Free,,,,,2026-10-22
+8209,4,82,"Plates, sticks, tips and the like for tools, unmounted, of cermets.",,,,,,2026-10-22
+820900,6,82,"Plates, sticks, tips and the like fortools, unmounted, of cermets:",,,,,,2026-10-22
+82090010,8,82,Tungsten carbide tips,Free,,,,,2026-10-22
+82090090,8,82,Other,Free,,,,,2026-10-22
+82100000,8,82,"Hand-operated mechanical appliances, weighing 10 kg or less, used in the preparation, conditioning or serving of food or drink.",Free,,,,,2026-10-22
+8211,4,82,"Knives with cutting blades, serrated or not (including pruning knives), other than knives of heading 82.08, and blades therefor.",,,,,,2026-10-22
+82111000,8,82,Sets of assorted articles,Free,,,,,2026-10-22
+82119100,8,82,Other : -- Table knives having fixed blades,Free,,,,,2026-10-22
+82119200,8,82,Other : -- Other knives having fixed blades,Free,,,,,2026-10-22
+821193,6,82,Other:-- Knives having other than fixed blades:,,,,,,2026-10-22
+82119310,8,82,Other : -- Knives having other than fixed blades,Free,,,,,2026-10-22
+82119390,8,82,Other,Free,,,,,2026-10-22
+82119400,8,82,Other : -- Blades,Free,,,,,2026-10-22
+82119500,8,82,Other : -- Handles of base metal,Free,,,,,2026-10-22
+8212,4,82,Razors and razor blades (including razor blade blanks in strips).,,,,,,2026-10-22
+821210,6,82,Razors,,,,,,2026-10-22
+82121010,8,82,Twin type shaving,Free,,,,,2026-10-22
+82121090,8,82,Other,Free,,,,,2026-10-22
+821220,6,82,"Safety razor blades, including razor blade blanks in strips",,,,,,2026-10-22
+82122011,8,82,Disposable catridge blade,Free,,,,,2026-10-22
+82122019,8,82,Other,Free,,,,,2026-10-22
+82122020,8,82,"Safety razor blade blanks, in strips",Free,,,,,2026-10-22
+82129000,8,82,Other parts,Free,,,,,2026-10-22
+82130000,8,82,"Scissors, tailors shears and similar shears, and blades therefor.",Free,,,,,2026-10-22
+8214,4,82,"Other articles of cutlery (for example, hair clippers, butchers or kitchen cleavers, choppers and mincing knives, paper knives); manicure or pedicure sets and instruments (including nail files).",,,,,,2026-10-22
+821410,6,82,"Paper knives, letter openers, erasing knives, pencil sharpeners and blades therefor",,,,,,2026-10-22
+82141010,8,82,"Paper knives, letter openers, erasing knives, pencil sharpeners",Free,,,,,2026-10-22
+82141090,8,82,Blades,Free,,,,,2026-10-22
+821420,6,82,Manicure or pedicure sets and instruments (including nail files),,,,,,2026-10-22
+82142010,8,82,Nail cutters,Free,,,,,2026-10-22
+82142090,8,82,Other,Free,,,,,2026-10-22
+821490,6,82,Other,,,,,,2026-10-22
+82149010,8,82,Handles of cutlery of base metal,Free,,,,,2026-10-22
+82149090,8,82,Other,Free,,,,,2026-10-22
+8215,4,82,"Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butterknives, sugar tongs and similar kitchen or tableware.",,,,,,2026-10-22
+82151000,8,82,Sets of assorted articles containing at least one article plated with,Free,,,,,2026-10-22
+82152000,8,82,Other sets of assorted articles,Free,,,,,2026-10-22
+82159100,8,82,Other : -- Plated with precious metal,Free,,,,,2026-10-22
+82159900,8,82,Other : -- Other,Free,,,,,2026-10-22
