@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "9701",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "97",
    "description": "PAINTINGS, DRAWINGS AND PASTELS, EXECUTED ENTIRELY BY HAND, OTHER THAN DRAWINGS OF HEADING 4906 AND OTHER THAN HAND-PAINTED OR HANDDECORATED MANUFACTURED ARTICLES; COLLAGES, MOSAICS AND SIMILAR DECORATIVE PLAQUES",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "97012100",
+   "hs6": "970121",
+   "hs6_description": "Paintings, drawings and pastels; executed entirely by hand, other than drawings of heading no. 4906, of an age exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Of an age exceeding 100 years: - - Paintings, drawings and pastels",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "97012200",
+   "hs6": "970122",
+   "hs6_description": "Mosaics; executed entirely by hand, other than drawings of heading no. 4906, of an age exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Of an age exceeding 100 years: - - Mosaics",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "97012900",
+   "hs6": "970129",
+   "hs6_description": "Artwork; other than paintings, drawings, pastels mosaics, executed entirely by hand, other than drawings of heading no. 4906, of an age exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Of an age exceeding 100 years: - - Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "97019100",
+   "hs6": "970191",
+   "hs6_description": "Paintings, drawings and pastels; executed entirely by hand, other than drawings of heading no. 4906, of an age not exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Other: - - Paintings, drawings and pastels",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "97019200",
+   "hs6": "970192",
+   "hs6_description": "Mosaics; executed entirely by hand, other than drawings of heading no. 4906, of an age not exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Other: - - Mosaics",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "97019900",
+   "hs6": "970199",
+   "hs6_description": "Artwork; other than paintings, drawings, pastels mosaics, executed entirely by hand, other than drawings of heading no. 4906, of an age not exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Other: - - Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "9702",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "97",
    "description": "ORIGINAL ENGRAVINGS, PRINTS AND LITHOGRAPHS",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "97021000",
+   "hs6": "970210",
+   "hs6_description": "Engravings, prints and lithographs; original of an age exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Paintings, drawings and pastels",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "97029000",
+   "hs6": "970290",
+   "hs6_description": "Engravings, prints and lithographs; original of an age not exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Paintings, drawings and pastels",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "9703",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "97",
    "description": "Original sculptures and statuary, in any material.",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "970310",
+   "hs6": "970310",
+   "hs6_description": "Sculptures and statuary; original, in any material, of an age exceeding 100 years",
    "level": 6,
    "chapter": "97",
    "description": "Of an age exceeding 100 years:",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "97031010",
+   "hs6": "970310",
+   "hs6_description": "Sculptures and statuary; original, in any material, of an age exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Of metal",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "97031020",
+   "hs6": "970310",
+   "hs6_description": "Sculptures and statuary; original, in any material, of an age exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Of stone",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "97031090",
+   "hs6": "970310",
+   "hs6_description": "Sculptures and statuary; original, in any material, of an age exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "970390",
+   "hs6": "970390",
+   "hs6_description": "Sculptures and statuary; original, in any material, of an age not exceeding 100 years",
    "level": 6,
    "chapter": "97",
    "description": "Other:",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "97039010",
+   "hs6": "970390",
+   "hs6_description": "Sculptures and statuary; original, in any material, of an age not exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Of metal",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "97039020",
+   "hs6": "970390",
+   "hs6_description": "Sculptures and statuary; original, in any material, of an age not exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Of stone",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "97039090",
+   "hs6": "970390",
+   "hs6_description": "Sculptures and statuary; original, in any material, of an age not exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "9704",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "97",
    "description": "Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 49.07.",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "970400",
+   "hs6": "970400",
+   "hs6_description": "Stamps, postage or revenue; stamp-postmarks, first-day covers, postal stationery (stamped paper) and like, used or unused, other than those of heading 4907",
    "level": 6,
    "chapter": "97",
    "description": "Postage or revenue stamps, stamp-post marks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 4907 :",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "97040010",
+   "hs6": "970400",
+   "hs6_description": "Stamps, postage or revenue; stamp-postmarks, first-day covers, postal stationery (stamped paper) and like, used or unused, other than those of heading 4907",
    "level": 8,
    "chapter": "97",
    "description": "Used postal stamp",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "97040020",
+   "hs6": "970400",
+   "hs6_description": "Stamps, postage or revenue; stamp-postmarks, first-day covers, postal stationery (stamped paper) and like, used or unused, other than those of heading 4907",
    "level": 8,
    "chapter": "97",
    "description": "Used or unused first-day covers for philatelists",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "97040090",
+   "hs6": "970400",
+   "hs6_description": "Stamps, postage or revenue; stamp-postmarks, first-day covers, postal stationery (stamped paper) and like, used or unused, other than those of heading 4907",
    "level": 8,
    "chapter": "97",
    "description": "Other",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "9705",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "97",
    "description": "COLLECTIONS AND COLLECTORS PIECES OF ARCHAEOLOGICAL, ETHNOGRAPHIC, HISTORICAL, ZOOLOGICAL, BOTANICAL, MINERALOGICAL, ANATOMICAL, PALEONTOLOGICAL, OR NUMISMATIC INTEREST",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "97050090",
+   "hs6": "970500",
+   "hs6_description": "",
    "level": 8,
    "chapter": "97",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "97051000",
+   "hs6": "970510",
+   "hs6_description": "Collections and collectors' pieces; of archaeological, ethnographic or historical interest",
    "level": 8,
    "chapter": "97",
    "description": "Collections and collectors' pieces of archaeological, ethnographic or historical interest",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "97052100",
+   "hs6": "970521",
+   "hs6_description": "Collections and collectors' pieces; of zoological, botanical, mineralogical, anatomical or palaeontological interest, human specimens and parts thereof",
    "level": 8,
    "chapter": "97",
    "description": "Human specimens and parts thereof",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "97052200",
+   "hs6": "970522",
+   "hs6_description": "Collections and collectors' pieces; of zoological, botanical, mineralogical, anatomical or palaeontological interest, extinct or endangered species and parts thereof",
    "level": 8,
    "chapter": "97",
    "description": "Extinct or endangered species and parts thereof",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "97052900",
+   "hs6": "970529",
+   "hs6_description": "Collections and collectors' pieces; of zoological, botanical, mineralogical, anatomical or palaeontological interest, other than human species, extinct or endangered species and parts thereof",
    "level": 8,
    "chapter": "97",
    "description": "Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "97053100",
+   "hs6": "970531",
+   "hs6_description": "Collections and collectors' pieces; of numismatic interest, of an age exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Collections and collectors' pieces of numismatic interest: - - Of an age exceeding 100 years",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "97053900",
+   "hs6": "970539",
+   "hs6_description": "Collections and collectors' pieces; of numismatic interest, of an age not exceeding 100 years",
    "level": 8,
    "chapter": "97",
    "description": "Collections and collectors' pieces of numismatic interest: - - Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "9706",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "97",
    "description": "ANTIQUES OF AN AGE EXCEEDING 100 YEARS",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "97061000",
+   "hs6": "970610",
+   "hs6_description": "Antiques; of an age exceeding 250 years",
    "level": 8,
    "chapter": "97",
    "description": "Of an age exceeding 250 years",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "97069000",
+   "hs6": "970690",
+   "hs6_description": "Antiques; of an age exceeding 100 years but not exceeding 250 years",
    "level": 8,
    "chapter": "97",
    "description": "Other",

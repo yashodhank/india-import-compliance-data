@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "8601",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "86",
    "description": "Rail locomotives powered from an external source of electricity or by electric accumulators.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "86011000",
+   "hs6": "860110",
+   "hs6_description": "Rail locomotives; powered from an external source of electricity",
    "level": 8,
    "chapter": "86",
    "description": "Powered from an external source of electricity",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "86012000",
+   "hs6": "860120",
+   "hs6_description": "Rail locomotives; powered by electric accumulators",
    "level": 8,
    "chapter": "86",
    "description": "Powered by electric accumulators",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "8602",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "86",
    "description": "Other rail locomotives; locomotive tenders.",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "86021000",
+   "hs6": "860210",
+   "hs6_description": "Rail locomotives; diesel-electric powered",
    "level": 8,
    "chapter": "86",
    "description": "Diesel-electric locomotives",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "860290",
+   "hs6": "860290",
+   "hs6_description": "Rail locomotives and locomotive tenders; other than diesel-electric powered",
    "level": 6,
    "chapter": "86",
    "description": "Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "86029010",
+   "hs6": "860290",
+   "hs6_description": "Rail locomotives and locomotive tenders; other than diesel-electric powered",
    "level": 8,
    "chapter": "86",
    "description": "Steam locomotives and tenders thereof",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "86029090",
+   "hs6": "860290",
+   "hs6_description": "Rail locomotives and locomotive tenders; other than diesel-electric powered",
    "level": 8,
    "chapter": "86",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "8603",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "86",
    "description": "Self-propelled railway or tramway coaches, vans and trucks, other than those of heading 86.04.",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "86031000",
+   "hs6": "860310",
+   "hs6_description": "Railway or tramway coaches, vans and trucks; self-propelled, powered from an external source of electricity (excluding those of heading no. 8604)",
    "level": 8,
    "chapter": "86",
    "description": "Powered from an external source of electricity",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "86039000",
+   "hs6": "860390",
+   "hs6_description": "Railway or tramway coaches, vans and trucks; self-propelled, powered other than from an external source of electricity (excluding those of heading no. 8604)",
    "level": 8,
    "chapter": "86",
    "description": "Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "86040000",
+   "hs6": "860400",
+   "hs6_description": "Railway or tramway maintenance or service vehicles; whether or not self-propelled (e.g. workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles)",
    "level": 8,
    "chapter": "86",
    "description": "Railway or tramway maintenance or service vehicles, whether or not self-propelled (for example, workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles).",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "86050000",
+   "hs6": "860500",
+   "hs6_description": "Railway or tramway coaches; passenger coaches, luggage vans, post office coaches and other special purpose railway or tramway coaches, not self-propelled (excluding those of heading no. 8604)",
    "level": 8,
    "chapter": "86",
    "description": "Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not self-propelled (excluding those of heading 86.04).",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "8606",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "86",
    "description": "Railway or tramway goods vans and wagons, not self-propelled.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "86061010",
+   "hs6": "860610",
+   "hs6_description": "Railway or tramway goods vans and wagons; tank wagons and the like, not self-propelled",
    "level": 8,
    "chapter": "86",
    "description": "Four wheeler tank wagons of pay-load exceeding 23 tonnes",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "86061020",
+   "hs6": "860610",
+   "hs6_description": "Railway or tramway goods vans and wagons; tank wagons and the like, not self-propelled",
    "level": 8,
    "chapter": "86",
    "description": "Eight wheeler tank wagons of pay-load not exceeding 60 tonnes",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "86061090",
+   "hs6": "860610",
+   "hs6_description": "Railway or tramway goods vans and wagons; tank wagons and the like, not self-propelled",
    "level": 8,
    "chapter": "86",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "86063000",
+   "hs6": "860630",
+   "hs6_description": "Railway or tramway goods vans and wagons; self-discharging, not self-propelled, excluding those of item no. 8606.10",
    "level": 8,
    "chapter": "86",
    "description": "Self-discharging vans and wagons, other than those of subheading 8606.10",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "860691",
+   "hs6": "860691",
+   "hs6_description": "Railway or tramway goods vans and wagons; covered and closed, not self-propelled",
    "level": 6,
    "chapter": "86",
    "description": "Other : -- Covered and closed",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "86069110",
+   "hs6": "860691",
+   "hs6_description": "Railway or tramway goods vans and wagons; covered and closed, not self-propelled",
    "level": 8,
    "chapter": "86",
    "description": "Meter guage eight wheeler covered wagons of pay-load not exceeding 38 tonnes",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "86069120",
+   "hs6": "860691",
+   "hs6_description": "Railway or tramway goods vans and wagons; covered and closed, not self-propelled",
    "level": 8,
    "chapter": "86",
    "description": "Broad guage eight wheeler covered wagons of pay-load not exceeding 60 tonnes",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "86069190",
+   "hs6": "860691",
+   "hs6_description": "Railway or tramway goods vans and wagons; covered and closed, not self-propelled",
    "level": 8,
    "chapter": "86",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "860692",
+   "hs6": "860692",
+   "hs6_description": "Railway or tramway goods vans and wagons; open, with non-removable sides of a height exceeding 60cm, not self-propelled",
    "level": 6,
    "chapter": "86",
    "description": "Other : -- Open, with non-removable sides of a height exceeding 60 cm",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "86069210",
+   "hs6": "860692",
+   "hs6_description": "Railway or tramway goods vans and wagons; open, with non-removable sides of a height exceeding 60cm, not self-propelled",
    "level": 8,
    "chapter": "86",
    "description": "Bogie eight wheeler wagons of pay-load not exceeding 60 tonnes",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "86069220",
+   "hs6": "860692",
+   "hs6_description": "Railway or tramway goods vans and wagons; open, with non-removable sides of a height exceeding 60cm, not self-propelled",
    "level": 8,
    "chapter": "86",
    "description": "Broad guage bogie eight wheeler wagons of pay-load exceeding 60 tonnes but not exceeding 67 tonnes",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "86069290",
+   "hs6": "860692",
+   "hs6_description": "Railway or tramway goods vans and wagons; open, with non-removable sides of a height exceeding 60cm, not self-propelled",
    "level": 8,
    "chapter": "86",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "86069900",
+   "hs6": "860699",
+   "hs6_description": "Railway or tramway goods vans and wagons; n.e.c. in heading no. 8606, not self-propelled",
    "level": 8,
    "chapter": "86",
    "description": "Other : -- Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "8607",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "86",
    "description": "Parts of railway or tramway locomotives or rolling-stock.",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "86071100",
+   "hs6": "860711",
+   "hs6_description": "Railway or tramway locomotives or rolling stock; parts, driving bogies and bissel-bogies",
    "level": 8,
    "chapter": "86",
    "description": "Bogies, bissel-bogies, axles and wheels, and parts thereof : -- Driving bogies and bissel-bogies",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "86071200",
+   "hs6": "860712",
+   "hs6_description": "Railway or tramway locomotives or rolling stock; parts, bogies and bissel-bogies (excluding driving bogies and bissel-bogies)",
    "level": 8,
    "chapter": "86",
    "description": "Bogies, bissel-bogies, axles and wheels, and parts thereof : -- Other bogies and bissel-bogies",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "860719",
+   "hs6": "860719",
+   "hs6_description": "Railway or tramway locomotives or rolling stock; parts, axles and wheels, and parts thereof",
    "level": 6,
    "chapter": "86",
    "description": "Bogies, bissel-bogies, axles and wheels, and parts thereof : -- Other, including parts",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "86071910",
+   "hs6": "860719",
+   "hs6_description": "Railway or tramway locomotives or rolling stock; parts, axles and wheels, and parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Axles, wheels for coaches, van and wagons (rolling-stock)",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "86071920",
+   "hs6": "860719",
+   "hs6_description": "Railway or tramway locomotives or rolling stock; parts, axles and wheels, and parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Axles and wheels for locomotives",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "86071930",
+   "hs6": "860719",
+   "hs6_description": "Railway or tramway locomotives or rolling stock; parts, axles and wheels, and parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Axle boxes (lubricating or grease box)",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "86071990",
+   "hs6": "860719",
+   "hs6_description": "Railway or tramway locomotives or rolling stock; parts, axles and wheels, and parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Other parts of axles and wheels",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "86072100",
+   "hs6": "860721",
+   "hs6_description": "Railway or tramway locomotives or rolling stock; parts, air brakes and parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Brakes and parts thereof : -- Air brakes and parts thereof",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "86072900",
+   "hs6": "860729",
+   "hs6_description": "Railway or tramway locomotives or rolling stock; parts, brakes (other than air brakes) and parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Brakes and parts thereof : -- Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "860730",
+   "hs6": "860730",
+   "hs6_description": "Railway or tramway locomotives or rolling stock; parts, hooks and other coupling devices, buffers and parts thereof",
    "level": 6,
    "chapter": "86",
    "description": "Hooks and other coupling devices, buffers, and parts thereof",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "86073010",
+   "hs6": "860730",
+   "hs6_description": "Railway or tramway locomotives or rolling stock; parts, hooks and other coupling devices, buffers and parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Buffers and coupling devices",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "86073090",
+   "hs6": "860730",
+   "hs6_description": "Railway or tramway locomotives or rolling stock; parts, hooks and other coupling devices, buffers and parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "86079100",
+   "hs6": "860791",
+   "hs6_description": "Railway or tramway locomotives; parts n.e.c. in heading no. 8607",
    "level": 8,
    "chapter": "86",
    "description": "Other : -- Of locomotives",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "860799",
+   "hs6": "860799",
+   "hs6_description": "Railway or tramway rolling stock; parts n.e.c. in heading no. 8607",
    "level": 6,
    "chapter": "86",
    "description": "Other : -- Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "86079910",
+   "hs6": "860799",
+   "hs6_description": "Railway or tramway rolling stock; parts n.e.c. in heading no. 8607",
    "level": 8,
    "chapter": "86",
    "description": "Parts of coach work of railway running stock",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "86079920",
+   "hs6": "860799",
+   "hs6_description": "Railway or tramway rolling stock; parts n.e.c. in heading no. 8607",
    "level": 8,
    "chapter": "86",
    "description": "Parts of tramway, locomotives and running stock",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "86079930",
+   "hs6": "860799",
+   "hs6_description": "Railway or tramway rolling stock; parts n.e.c. in heading no. 8607",
    "level": 8,
    "chapter": "86",
    "description": "Hydraulic shock absorbers for railway bogies",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "86079990",
+   "hs6": "860799",
+   "hs6_description": "Railway or tramway rolling stock; parts n.e.c. in heading no. 8607",
    "level": 8,
    "chapter": "86",
    "description": "Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "8608",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "86",
    "description": "Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts of the foregoing.",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "860800",
+   "hs6": "860800",
+   "hs6_description": "Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",
    "level": 6,
    "chapter": "86",
    "description": "Railway or tramway track fixtures and fittings; mechanical (including electo-mechanical) signalling, safety or traffic control equipment for railway, tramways, roads, inland waterways, parking facilities, port installation or air-fields; parts of the foregoing :",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "86080010",
+   "hs6": "860800",
+   "hs6_description": "Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Railway and tramway track fixtures and fittings",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "86080020",
+   "hs6": "860800",
+   "hs6_description": "Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Mechanical equipment, not electrically powered for signalling to, or controlling, road rail or other vehicles, ships or aircraft",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "86080030",
+   "hs6": "860800",
+   "hs6_description": "Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Other traffic control equipment for railways",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "86080040",
+   "hs6": "860800",
+   "hs6_description": "Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Other traffic control equipment for roads or inland waterways and including automatic traffic control equipment for use at ports and airports",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "86080090",
+   "hs6": "860800",
+   "hs6_description": "Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",
    "level": 8,
    "chapter": "86",
    "description": "Other",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "860900",
+   "hs6": "860900",
+   "hs6_description": "Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport",
    "level": 6,
    "chapter": "86",
    "description": "Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport.",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "86090000",
+   "hs6": "860900",
+   "hs6_description": "Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport",
    "level": 8,
    "chapter": "86",
    "description": "Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport.",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "86090010",
+   "hs6": "860900",
+   "hs6_description": "Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport",
    "level": 8,
    "chapter": "86",
    "description": "CONTAINERS (INCLUDING CONTAINERS FOR THE TRANSPORT OF FLUIDS) SPECIALLY DESIGNED AND EQUIPPED FOR CARRIAGE BY ONE OR MORE MODES OF TRANSPORT",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "86090010",
+   "hs6": "860900",
+   "hs6_description": "Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport",
    "level": 8,
    "chapter": "86",
    "description": "CONTAINERS (INCLUDING CONTAINERS FOR THE TRANSPORT OF FLUIDS) SPECIALLY DESIGNED AND EQUIPPED FOR CARRIAGE BY ONE OR MORE MODES OF TRANSPORT",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "86090090",
+   "hs6": "860900",
+   "hs6_description": "Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport",
    "level": 8,
    "chapter": "86",
    "description": "---Refrigerated containers",

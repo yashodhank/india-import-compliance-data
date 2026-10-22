@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "9401",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "94",
    "description": "Seats (other than those of heading 9402), whether or not convertible into beds, and parts thereof.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "94011000",
+   "hs6": "940110",
+   "hs6_description": "Seats; of a kind used for aircraft",
    "level": 8,
    "chapter": "94",
    "description": "Seats of a kind used for aircraft",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "94012000",
+   "hs6": "940120",
+   "hs6_description": "Seats; of a kind used for motor vehicles",
    "level": 8,
    "chapter": "94",
    "description": "Seats of a kind used for motor vehicles",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "94013100",
+   "hs6": "940131",
+   "hs6_description": "Seats; swivel with variable height adjustment of wood, excluding medical, surgical, dental, veterinary or barber furniture",
    "level": 8,
    "chapter": "94",
    "description": "Swivel seats and variable height adjustment:--Of wood",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "94013900",
+   "hs6": "940139",
+   "hs6_description": "Seats; swivel with variable height adjustment of other than wood, excluding medical, surgical, dental, veterinary or barber furniture",
    "level": 8,
    "chapter": "94",
    "description": "Swivel seats and variable height adjustment:--Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "94014100",
+   "hs6": "940141",
+   "hs6_description": "Seats; convertible into beds of wood, other than garden seats or camping equipment",
    "level": 8,
    "chapter": "94",
    "description": "Seats other than garden seats or camping equipment, convertible into beds: - - Of wood",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "94014900",
+   "hs6": "940149",
+   "hs6_description": "Seats; convertible into beds of other than wood, other than garden seats or camping equipment",
    "level": 8,
    "chapter": "94",
    "description": "Seats other than garden seats or camping equipment, convertible into beds: - - Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "94015200",
+   "hs6": "940152",
+   "hs6_description": "Seats; of bamboo",
    "level": 8,
    "chapter": "94",
    "description": "Seats of cane, osier, bamboo or similar materials : -- Of bamboo",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "94015300",
+   "hs6": "940153",
+   "hs6_description": "Seats; of rattan",
    "level": 8,
    "chapter": "94",
    "description": "Seats of cane, osier, bamboo or similar materials : -- Of rattan",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "94015900",
+   "hs6": "940159",
+   "hs6_description": "Seats; of cane, osier or similar materials, other than bamboo or rattan",
    "level": 8,
    "chapter": "94",
    "description": "Seats of cane, osier, bamboo or similar materials : -- Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "94016100",
+   "hs6": "940161",
+   "hs6_description": "Seats; with wooden frames, upholstered, (excluding medical, surgical, dental, veterinary or barber furniture)",
    "level": 8,
    "chapter": "94",
    "description": "Other seats, with wooden frames : -- Upholstered",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "94016900",
+   "hs6": "940169",
+   "hs6_description": "Seats; with wooden frames, not upholstered, (excluding medical, surgical, dental, veterinary or barber furniture)",
    "level": 8,
    "chapter": "94",
    "description": "Other seats, with wooden frames : -- Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "94017100",
+   "hs6": "940171",
+   "hs6_description": "Seats; with metal frames, upholstered, (excluding medical, surgical, dental, veterinary or barber furniture)",
    "level": 8,
    "chapter": "94",
    "description": "Other seats, with metal frames : -- Upholstered",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "94017900",
+   "hs6": "940179",
+   "hs6_description": "Seats; with metal frames, not upholstered, (excluding medical, surgical, dental, veterinary or barber furniture)",
    "level": 8,
    "chapter": "94",
    "description": "Other seats, with metal frames : -- Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "94018000",
+   "hs6": "940180",
+   "hs6_description": "Seats; n.e.c. in heading no. 9401, (excluding medical, surgical, dental, veterinary or barber furniture)",
    "level": 8,
    "chapter": "94",
    "description": "Other seats",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "94019100",
+   "hs6": "940191",
+   "hs6_description": "Seats; parts, of wood, (other than for use in the assembly of motor vehicles as determined by the minister, other than automotive)",
    "level": 8,
    "chapter": "94",
    "description": "Parts: - - Of wood",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "94019900",
+   "hs6": "940199",
+   "hs6_description": "Seats; parts, (of other than wood) for use in the assembly of motor vehicles as determined by the minister",
    "level": 8,
    "chapter": "94",
    "description": "Parts: - - Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "9402",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "94",
    "description": "Medical, surgical, dental or veterinary furniture (for example, operating tables, examination tables, hospital beds with mechanical fittings, dentists chairs); barbers chairs and similar chairs, having rotating as well as both reclining and elevating movements; parts of the foregoing articles.",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "940210",
+   "hs6": "940210",
+   "hs6_description": "Chairs; dentists', barbers' or similar chairs having rotating as well as both reclining and elevating movements, and parts thereof",
    "level": 6,
    "chapter": "94",
    "description": "Dentists, barbers or similar chairs and parts thereof",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "94021010",
+   "hs6": "940210",
+   "hs6_description": "Chairs; dentists', barbers' or similar chairs having rotating as well as both reclining and elevating movements, and parts thereof",
    "level": 8,
    "chapter": "94",
    "description": "Dentists chairs and parts thereof",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "94021090",
+   "hs6": "940210",
+   "hs6_description": "Chairs; dentists', barbers' or similar chairs having rotating as well as both reclining and elevating movements, and parts thereof",
    "level": 8,
    "chapter": "94",
    "description": "Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "940290",
+   "hs6": "940290",
+   "hs6_description": "Furniture; for medical, surgical, veterinary use (e.g. operating tables, examination tables, hospital beds with mechanical fittings) and parts thereof",
    "level": 6,
    "chapter": "94",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "94029010",
+   "hs6": "940290",
+   "hs6_description": "Furniture; for medical, surgical, veterinary use (e.g. operating tables, examination tables, hospital beds with mechanical fittings) and parts thereof",
    "level": 8,
    "chapter": "94",
    "description": "Hospital beds with mechanical fittings",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "94029020",
+   "hs6": "940290",
+   "hs6_description": "Furniture; for medical, surgical, veterinary use (e.g. operating tables, examination tables, hospital beds with mechanical fittings) and parts thereof",
    "level": 8,
    "chapter": "94",
    "description": "Parts",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "94029090",
+   "hs6": "940290",
+   "hs6_description": "Furniture; for medical, surgical, veterinary use (e.g. operating tables, examination tables, hospital beds with mechanical fittings) and parts thereof",
    "level": 8,
    "chapter": "94",
    "description": "Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "9403",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "94",
    "description": "Other furniture and parts thereof.",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "940310",
+   "hs6": "940310",
+   "hs6_description": "Furniture; metal, for office use",
    "level": 6,
    "chapter": "94",
    "description": "Metal furniture of a kind used in offices",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "94031010",
+   "hs6": "940310",
+   "hs6_description": "Furniture; metal, for office use",
    "level": 8,
    "chapter": "94",
    "description": "Of Steel",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "94031090",
+   "hs6": "940310",
+   "hs6_description": "Furniture; metal, for office use",
    "level": 8,
    "chapter": "94",
    "description": "Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "940320",
+   "hs6": "940320",
+   "hs6_description": "Furniture; metal, other than for office use",
    "level": 6,
    "chapter": "94",
    "description": "Other metal furniture",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "94032010",
+   "hs6": "940320",
+   "hs6_description": "Furniture; metal, other than for office use",
    "level": 8,
    "chapter": "94",
    "description": "Of Steel",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "94032090",
+   "hs6": "940320",
+   "hs6_description": "Furniture; metal, other than for office use",
    "level": 8,
    "chapter": "94",
    "description": "Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "940330",
+   "hs6": "940330",
+   "hs6_description": "Furniture; wooden, for office use",
    "level": 6,
    "chapter": "94",
    "description": "Wooden furniture of a kind used in offices",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "94033010",
+   "hs6": "940330",
+   "hs6_description": "Furniture; wooden, for office use",
    "level": 8,
    "chapter": "94",
    "description": "Cabinetware",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "94033090",
+   "hs6": "940330",
+   "hs6_description": "Furniture; wooden, for office use",
    "level": 8,
    "chapter": "94",
    "description": "Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "94034000",
+   "hs6": "940340",
+   "hs6_description": "Furniture; wooden, for kitchen use",
    "level": 8,
    "chapter": "94",
    "description": "Wooden furniture of a kind used in the kitchen",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "940350",
+   "hs6": "940350",
+   "hs6_description": "Furniture; wooden, for bedroom use",
    "level": 6,
    "chapter": "94",
    "description": "Wooden furniture of a kind used in the bedroom",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "94035010",
+   "hs6": "940350",
+   "hs6_description": "Furniture; wooden, for bedroom use",
    "level": 8,
    "chapter": "94",
    "description": "Bed stead",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "94035090",
+   "hs6": "940350",
+   "hs6_description": "Furniture; wooden, for bedroom use",
    "level": 8,
    "chapter": "94",
    "description": "Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "94036000",
+   "hs6": "940360",
+   "hs6_description": "Furniture; wooden, other than for office, kitchen or bedroom use",
    "level": 8,
    "chapter": "94",
    "description": "Other wooden furniture",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "94037000",
+   "hs6": "940370",
+   "hs6_description": "Furniture; plastic",
    "level": 8,
    "chapter": "94",
    "description": "Furniture of plastics",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "94038200",
+   "hs6": "940382",
+   "hs6_description": "Furniture; of bamboo",
    "level": 8,
    "chapter": "94",
    "description": "Furniture of other materials, including cane, osier, bamboo or similar materials : -- Of bamboo",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "94038300",
+   "hs6": "940383",
+   "hs6_description": "Furniture; of rattan",
    "level": 8,
    "chapter": "94",
    "description": "Furniture of other materials, including cane, osier, bamboo or similar materials : -- Of rattan",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "94038900",
+   "hs6": "940389",
+   "hs6_description": "Furniture; of cane, osier, or similar materials (other than bamboo or rattan)",
    "level": 8,
    "chapter": "94",
    "description": "Furniture of other materials, including cane, osier, bamboo or similar materials : -- Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "94039100",
+   "hs6": "940391",
+   "hs6_description": "Furniture; parts, of wood",
    "level": 8,
    "chapter": "94",
    "description": "Parts: - - Of wood",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "94039900",
+   "hs6": "940399",
+   "hs6_description": "Furniture; parts, of other than wood",
    "level": 8,
    "chapter": "94",
    "description": "Parts: - - Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "9404",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "94",
    "description": "Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered.",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "94041000",
+   "hs6": "940410",
+   "hs6_description": "Mattress supports",
    "level": 8,
    "chapter": "94",
    "description": "Mattress supports",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "940421",
+   "hs6": "940421",
+   "hs6_description": "Mattresses; of cellular rubber or plastics, whether or not covered",
    "level": 6,
    "chapter": "94",
    "description": "Mattresses : -- Of cellular rubber or plastics, whether or not covered",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "94042110",
+   "hs6": "940421",
+   "hs6_description": "Mattresses; of cellular rubber or plastics, whether or not covered",
    "level": 8,
    "chapter": "94",
    "description": "Mattresses: ----Of Rubber",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "94042190",
+   "hs6": "940421",
+   "hs6_description": "Mattresses; of cellular rubber or plastics, whether or not covered",
    "level": 8,
    "chapter": "94",
    "description": "Mattresses: ----Of Plastic",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "940429",
+   "hs6": "940429",
+   "hs6_description": "Mattresses; of other materials, not cellular rubber or plastics",
    "level": 6,
    "chapter": "94",
    "description": "Mattresses : -- Of other materials",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "94042910",
+   "hs6": "940429",
+   "hs6_description": "Mattresses; of other materials, not cellular rubber or plastics",
    "level": 8,
    "chapter": "94",
    "description": "Spring interior",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "94042920",
+   "hs6": "940429",
+   "hs6_description": "Mattresses; of other materials, not cellular rubber or plastics",
    "level": 8,
    "chapter": "94",
    "description": "of rubberized coir with or without combination or other materials whether or not with metallic springs.",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "94042990",
+   "hs6": "940429",
+   "hs6_description": "Mattresses; of other materials, not cellular rubber or plastics",
    "level": 8,
    "chapter": "94",
    "description": "Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "940430",
+   "hs6": "940430",
+   "hs6_description": "Sleeping bags",
    "level": 6,
    "chapter": "94",
    "description": "Sleeping bags",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "94043010",
+   "hs6": "940430",
+   "hs6_description": "Sleeping bags",
    "level": 8,
    "chapter": "94",
    "description": "Filled with feathers or down",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "94043090",
+   "hs6": "940430",
+   "hs6_description": "Sleeping bags",
    "level": 8,
    "chapter": "94",
    "description": "Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "940440",
+   "hs6": "940440",
+   "hs6_description": "Quilts, bedspreads, eiderdowns and duvets (comforters)",
    "level": 6,
    "chapter": "94",
    "description": "Quilts, bedspreads, eiderdowns and duvets (comforters):",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "94044010",
+   "hs6": "940440",
+   "hs6_description": "Quilts, bedspreads, eiderdowns and duvets (comforters)",
    "level": 8,
    "chapter": "94",
    "description": "Quilts",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "94044020",
+   "hs6": "940440",
+   "hs6_description": "Quilts, bedspreads, eiderdowns and duvets (comforters)",
    "level": 8,
    "chapter": "94",
    "description": "Bedspreads",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "94044030",
+   "hs6": "940440",
+   "hs6_description": "Quilts, bedspreads, eiderdowns and duvets (comforters)",
    "level": 8,
    "chapter": "94",
    "description": "Eiderdowns",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "94044040",
+   "hs6": "940440",
+   "hs6_description": "Quilts, bedspreads, eiderdowns and duvets (comforters)",
    "level": 8,
    "chapter": "94",
    "description": "Duvets (comforters)",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "94049000",
+   "hs6": "940490",
+   "hs6_description": "Bedding and similar furnishing articles; n.e.c. in heading no. 9404 (e.g. quilts, eiderdowns, cushions, pouffes and pillows)",
    "level": 8,
    "chapter": "94",
    "description": "Other",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "9405",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "94",
    "description": "LUMINAIRES AND LIGHTING FITTINGS INCLUDING SEARCHLIGHTS AND SPOTLIGHTS AND PARTS THEREOF, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE, HAVING A PERMANENTLY FIXED LIGHT SOURCE, AND PARTS THEREOF NOT ELSEWHERE SPECIFIED OR INCLUDED",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "94051100",
+   "hs6": "940511",
+   "hs6_description": "Luminaires and light fittings; chandeliers and electric ceiling or wall light fittings; (excluding those used for lighting public open spaces or thoroughfares), for use solely with light-emitting diode (LED) light sources",
    "level": 8,
    "chapter": "94",
    "description": "Chandeliers and other electric ceiling or wall lighting fittings, excluding those of a kind used for lighting public open spaces or thoroughfares: - - Designed for use solely with light-emitting diode (LED) light sources",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "94051900",
+   "hs6": "940519",
+   "hs6_description": "Chandeliers and electric ceiling or wall light fittings; (excluding those used for lighting public open spaces or thoroughfares), for use other than with light-emitting diode (LED) light sources",
    "level": 8,
    "chapter": "94",
    "description": "Chandeliers and other electric ceiling or wall lighting fittings, excluding those of a kind used for lighting public open spaces or thoroughfares: - - Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "94052100",
+   "hs6": "940521",
+   "hs6_description": "Luminaires and light fittings; electric, table, desk, bedside or floor-standing, for use solely with light-emitting diode (LED) light sources",
    "level": 8,
    "chapter": "94",
    "description": "Electric table, desk, bedside or floor-standing luminaires: - - Designed for use solely with light-emitting diode (LED) light sources",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "94052900",
+   "hs6": "940529",
+   "hs6_description": "Luminaires and light fittings; electric, table, desk, bedside or floor-standing, for other than use solely with light-emitting diode (LED) light sources",
    "level": 8,
    "chapter": "94",
    "description": "Electric table, desk, bedside or floor-standing luminaires: - - Other",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "94053100",
+   "hs6": "940531",
+   "hs6_description": "Luminaires and light fittings; electric, lighting strings of a kind used for Christmas trees, for use solely with light-emitting diode (LED) light sources",
    "level": 8,
    "chapter": "94",
    "description": "Lighting strings of a kind used for Christmas trees: - - Designed for use solely with light-emitting diode (LED) light sources",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "94053900",
+   "hs6": "940539",
+   "hs6_description": "Luminaires and light fittings; electric, lighting strings of a kind used for Christmas trees, for other than use solely with light-emitting diode (LED) light sources",
    "level": 8,
    "chapter": "94",
    "description": "Lighting strings of a kind used for Christmas trees: - - Other",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "94054100",
+   "hs6": "940541",
+   "hs6_description": "Luminaires and light fittings; electric, photovoltaic, designed for use solely with light-emitting diode (LED) light sources",
    "level": 8,
    "chapter": "94",
    "description": "Other electric luminaires and lighting fittings: - - Photovoltaic, designed for use solely with light-emitting diode (LED) light sources",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "94054200",
+   "hs6": "940542",
+   "hs6_description": "Luminaires and light fittings; electric, designed for use solely with light-emitting diode (LED) light sources",
    "level": 8,
    "chapter": "94",
    "description": "Other electric luminaires and lighting fittings: - - Other, designed for use solely with light-emitting diode (LED) light sources",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "94054900",
+   "hs6": "940549",
+   "hs6_description": "Luminaires and light fittings; electric, designed for other than use solely with light-emitting diode (LED) light sources",
    "level": 8,
    "chapter": "94",
    "description": "Other electric luminaires and lighting fittings: -- Other",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "94055000",
+   "hs6": "940550",
+   "hs6_description": "Luminaires and light fittings; non-electric",
    "level": 8,
    "chapter": "94",
    "description": "Non-electrical luminaires and lighting fittings",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "94056100",
+   "hs6": "940561",
+   "hs6_description": "Luminaires; illuminated signs, illuminated name-plates and the like, designed for use solely with light-emitting diode (LED) light sources",
    "level": 8,
    "chapter": "94",
    "description": "-Illuminated signs, illuminated name-plates and the like:-- Designed for use solely with light-emitting diode (LED) light sources",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "94056900",
+   "hs6": "940569",
+   "hs6_description": "Luminaires; illuminated signs, illuminated name-plates and the like, designed for other than use solely with light-emitting diode (LED) light sources",
    "level": 8,
    "chapter": "94",
    "description": "Illuminated signs, illuminated name-plates and the like:-- Other",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "94059100",
+   "hs6": "940591",
+   "hs6_description": "Lamps and light fittings; parts thereof, of glass",
    "level": 8,
    "chapter": "94",
    "description": "Parts : -- Of glass",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "94059200",
+   "hs6": "940592",
+   "hs6_description": "Lamps and light fittings; parts thereof, of plastics",
    "level": 8,
    "chapter": "94",
    "description": "Parts : -- Of plastics",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "94059900",
+   "hs6": "940599",
+   "hs6_description": "Lamps and light fittings; parts thereof, of materials other than glass or plastics",
    "level": 8,
    "chapter": "94",
    "description": "Parts : -- Other",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "9406",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "94",
    "description": "Prefabricated buildings.",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "940610",
+   "hs6": "940610",
+   "hs6_description": "Buildings; prefabricated, of wood",
    "level": 6,
    "chapter": "94",
    "description": "Of wood",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "94061010",
+   "hs6": "940610",
+   "hs6_description": "Buildings; prefabricated, of wood",
    "level": 8,
    "chapter": "94",
    "description": "Green-houses",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "94061020",
+   "hs6": "940610",
+   "hs6_description": "Buildings; prefabricated, of wood",
    "level": 8,
    "chapter": "94",
    "description": "For cold storage",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "94061030",
+   "hs6": "940610",
+   "hs6_description": "Buildings; prefabricated, of wood",
    "level": 8,
    "chapter": "94",
    "description": "Silos for storing ensilage",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "94061090",
+   "hs6": "940610",
+   "hs6_description": "Buildings; prefabricated, of wood",
    "level": 8,
    "chapter": "94",
    "description": "Other",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "94062000",
+   "hs6": "940620",
+   "hs6_description": "Buildings; modular building units, of steel",
    "level": 8,
    "chapter": "94",
    "description": "Modular building units, of steel",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "940690",
+   "hs6": "940690",
+   "hs6_description": "Buildings; prefabricated, not of wood",
    "level": 6,
    "chapter": "94",
    "description": "Other",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "94069010",
+   "hs6": "940690",
+   "hs6_description": "Buildings; prefabricated, not of wood",
    "level": 8,
    "chapter": "94",
    "description": "Green-houses",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "94069020",
+   "hs6": "940690",
+   "hs6_description": "Buildings; prefabricated, not of wood",
    "level": 8,
    "chapter": "94",
    "description": "For cold storage",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "94069030",
+   "hs6": "940690",
+   "hs6_description": "Buildings; prefabricated, not of wood",
    "level": 8,
    "chapter": "94",
    "description": "Silos for storing ensilage",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "94069090",
+   "hs6": "940690",
+   "hs6_description": "Buildings; prefabricated, not of wood",
    "level": 8,
    "chapter": "94",
    "description": "Other",

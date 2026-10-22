@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "7401",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "COPPER MATTES; CEMENT COPPER (PRECIPITATED COPPER)",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "740100",
+   "hs6": "740100",
+   "hs6_description": "Copper mattes; cement copper (precipitated copper)",
    "level": 6,
    "chapter": "74",
    "description": "Copper mattes; cement copper (precipitated copper).",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "74010010",
+   "hs6": "740100",
+   "hs6_description": "Copper mattes; cement copper (precipitated copper)",
    "level": 8,
    "chapter": "74",
    "description": "Copper mattes",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "74010090",
+   "hs6": "740100",
+   "hs6_description": "Copper mattes; cement copper (precipitated copper)",
    "level": 8,
    "chapter": "74",
    "description": "Cement copper (precipitated copper)",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "7402",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Unrefined copper; copper anodes for electrolytic refining.",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "740200",
+   "hs6": "740200",
+   "hs6_description": "Copper; unrefined, copper anodes for electrolytic refining",
    "level": 6,
    "chapter": "74",
    "description": "Unrefined copper; copper anodes for electrolytic refining :",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "74020010",
+   "hs6": "740200",
+   "hs6_description": "Copper; unrefined, copper anodes for electrolytic refining",
    "level": 8,
    "chapter": "74",
    "description": "Blister copper",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "74020090",
+   "hs6": "740200",
+   "hs6_description": "Copper; unrefined, copper anodes for electrolytic refining",
    "level": 8,
    "chapter": "74",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "7403",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Refined copper and copper alloys, unwrought.",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "74031100",
+   "hs6": "740311",
+   "hs6_description": "Copper; refined, unwrought, cathodes and sections of cathodes",
    "level": 8,
    "chapter": "74",
    "description": "Refined copper : -- Cathodes and sections of cathodes",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "74031200",
+   "hs6": "740312",
+   "hs6_description": "Copper; refined, unwrought, wire-bars",
    "level": 8,
    "chapter": "74",
    "description": "Refined copper : -- Wire-bars",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "74031300",
+   "hs6": "740313",
+   "hs6_description": "Copper; refined, unwrought, billets",
    "level": 8,
    "chapter": "74",
    "description": "Refined copper : -- Billets",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "74031900",
+   "hs6": "740319",
+   "hs6_description": "Copper; refined, unwrought, n.e.c. in item no. 7403.1",
    "level": 8,
    "chapter": "74",
    "description": "Refined copper : -- Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "74032100",
+   "hs6": "740321",
+   "hs6_description": "Copper; copper-zinc base alloys (brass) unwrought",
    "level": 8,
    "chapter": "74",
    "description": "Copper alloys : -- Copper-zinc base alloys (brass)",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "740322",
+   "hs6": "740322",
+   "hs6_description": "Copper; copper-tin base alloys (bronze) unwrought",
    "level": 6,
    "chapter": "74",
    "description": "Copper alloys : -- Copper-tin base alloys (bronze)",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "74032210",
+   "hs6": "740322",
+   "hs6_description": "Copper; copper-tin base alloys (bronze) unwrought",
    "level": 8,
    "chapter": "74",
    "description": "Phosphor bronze",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "74032290",
+   "hs6": "740322",
+   "hs6_description": "Copper; copper-tin base alloys (bronze) unwrought",
    "level": 8,
    "chapter": "74",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "74032900",
+   "hs6": "740329",
+   "hs6_description": "Copper; copper alloys n.e.c. in heading no. 7403 (other than master alloys of heading no. 7405)",
    "level": 8,
    "chapter": "74",
    "description": "Copper alloys : -- Other copper alloys (other than master alloys of heading 74.05)",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "7404",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Copper waste and scrap.",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "740400",
+   "hs6": "740400",
+   "hs6_description": "Copper; waste and scrap",
    "level": 6,
    "chapter": "74",
    "description": "Copper waste and scrap:",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "74040011",
+   "hs6": "740400",
+   "hs6_description": "Copper; waste and scrap",
    "level": 8,
    "chapter": "74",
    "description": "Of copper: ----Empty or discharged cartridges of all bores and sizes",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "74040012",
+   "hs6": "740400",
+   "hs6_description": "Copper; waste and scrap",
    "level": 8,
    "chapter": "74",
    "description": "Of copper: ----Copper scrap, namely the following: Copper wire scrap covered by ISRI code words Barley, Berry and Birch; Heavy copper scrap covered by ISRI code word Candy; Unalloyed copper scrap covered by ISRI code word Cliff; Copper wire nodules scrap covered by ISRI code words Clove, Cobra and Cocoa; Light copper scrap covered by ISRI code word Dream; Muntz metal tubes covered by ISRI code word Palms; Miscellaneous copper-containing skimmings, grindings, ashes, irony brass and copper, residues and slags covered by ISRI code word Drove; Copper wire scrap with various types of insulation covered by ISRI code word Druid",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "74040019",
+   "hs6": "740400",
+   "hs6_description": "Copper; waste and scrap",
    "level": 8,
    "chapter": "74",
    "description": "Of copper: ----Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "74040021",
+   "hs6": "740400",
+   "hs6_description": "Copper; waste and scrap",
    "level": 8,
    "chapter": "74",
    "description": "Of copper alloys: ----Empty or discharged cartridges of all bores and sizes, including the following: clean fired 70/30 brass shells free of bullets, iron and any other foreign material covered by ISRI code word Lake; clean muffled (popped) 70/30 brass shells free of bullets, iron and any other foreign material covered by ISRI code word Lamb",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "74040022",
+   "hs6": "740400",
+   "hs6_description": "Copper; waste and scrap",
    "level": 8,
    "chapter": "74",
    "description": "Of copper alloys: ----Brass scrap, namely the following: Refinery brass scrap covered by ISRI code word Drink; Composition of Red brass scrap covered by ISRI code word Ebony; Red brass composition turnings scrap covered by ISRI code word Enerv; Genuine babbit-lined brass bushings scrap covered by ISRI code word Elder; Machinery or hard brass solids scrap covered by ISRI code word Engel; Machinery or hand brass solids scrap covered by ISRI code word Erin; Cocks and faucets scrap covered by ISRI code word Grape; Yellow brass scrap covered by ISRI code word Honey; Yellow brass castings covered by ISRI code word Ivory; New brass clippings covered by ISRI code word Label; Yellow brass primer covered by ISRI code word Lark; Brass pipe covered by ISRI code word Melon; Yellow brass rod turnings covered by ISRI code word Night; New yellow brass rod ends covered by ISRI code word Noble; Yellow brass turnings covered by ISRI code word Nomad; Mixed unsweated auto radiators covered by ISRI code word Ocean; Admiralty brass condenser tubes covered by ISRI code word Pales; Aluminum brass condenser tubes covered by ISRI code word Pallu.",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "74040024",
+   "hs6": "740400",
+   "hs6_description": "Copper; waste and scrap",
    "level": 8,
    "chapter": "74",
    "description": "Bronze scrap, including the following: manganese bronze solids covered ISRI code word Parch; High lead bronze solids and borings covered by ISRI code word Elias",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "74040025",
+   "hs6": "740400",
+   "hs6_description": "Copper; waste and scrap",
    "level": 8,
    "chapter": "74",
    "description": "Of copper alloys: ----Copper nickel scrap, including the following: new cupro nickel clips and solids covered by ISRI code word Dandy; cupro nickel solids covered by ISRI code word Daunt; soldered cupro-nickel solids covered by ISRI code word Delta; cupro nickel spinnings, turnings, borings covered by ISRI code word Decoy;",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "74040029",
+   "hs6": "740400",
+   "hs6_description": "Copper; waste and scrap",
    "level": 8,
    "chapter": "74",
    "description": "Of copper alloys: ----Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "74050000",
+   "hs6": "740500",
+   "hs6_description": "Copper; master alloys of copper",
    "level": 8,
    "chapter": "74",
    "description": "Master alloys of copper.",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "7406",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Copper powders and flakes.",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "74061000",
+   "hs6": "740610",
+   "hs6_description": "Copper; powders of non-lamellar structure",
    "level": 8,
    "chapter": "74",
    "description": "Powders of non-lamellar structure",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "74062000",
+   "hs6": "740620",
+   "hs6_description": "Copper; powders of lamellar structure, flakes",
    "level": 8,
    "chapter": "74",
    "description": "Powders of lamellar structure; flakes",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "7407",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Copper bars, rods and profiles.",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "740710",
+   "hs6": "740710",
+   "hs6_description": "Copper; bars, rods and profiles, of refined copper",
    "level": 6,
    "chapter": "74",
    "description": "Of refined copper",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "74071010",
+   "hs6": "740710",
+   "hs6_description": "Copper; bars, rods and profiles, of refined copper",
    "level": 8,
    "chapter": "74",
    "description": "Electrolytic copper rods or black copper rods",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "74071020",
+   "hs6": "740710",
+   "hs6_description": "Copper; bars, rods and profiles, of refined copper",
    "level": 8,
    "chapter": "74",
    "description": "Other copper rods",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "74071030",
+   "hs6": "740710",
+   "hs6_description": "Copper; bars, rods and profiles, of refined copper",
    "level": 8,
    "chapter": "74",
    "description": "Copper bars (excluding hollow bars)",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "74071040",
+   "hs6": "740710",
+   "hs6_description": "Copper; bars, rods and profiles, of refined copper",
    "level": 8,
    "chapter": "74",
    "description": "Hollow bars of copper",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "74071051",
+   "hs6": "740710",
+   "hs6_description": "Copper; bars, rods and profiles, of refined copper",
    "level": 8,
    "chapter": "74",
    "description": "Profiles: ----Hollow profiles",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "74071059",
+   "hs6": "740710",
+   "hs6_description": "Copper; bars, rods and profiles, of refined copper",
    "level": 8,
    "chapter": "74",
    "description": "Profiles: ----Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "74071090",
+   "hs6": "740710",
+   "hs6_description": "Copper; bars, rods and profiles, of refined copper",
    "level": 8,
    "chapter": "74",
    "description": "Profiles: ----Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "740721",
+   "hs6": "740721",
+   "hs6_description": "Copper; bars, rods and profiles, of copper-zinc base alloys (brass)",
    "level": 6,
    "chapter": "74",
    "description": "Of copper alloys : -- Of copper-zinc base alloys (brass)",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "74072110",
+   "hs6": "740721",
+   "hs6_description": "Copper; bars, rods and profiles, of copper-zinc base alloys (brass)",
    "level": 8,
    "chapter": "74",
    "description": "Bars",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "74072120",
+   "hs6": "740721",
+   "hs6_description": "Copper; bars, rods and profiles, of copper-zinc base alloys (brass)",
    "level": 8,
    "chapter": "74",
    "description": "Rods",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "74072130",
+   "hs6": "740721",
+   "hs6_description": "Copper; bars, rods and profiles, of copper-zinc base alloys (brass)",
    "level": 8,
    "chapter": "74",
    "description": "Hollow bars",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "74072190",
+   "hs6": "740721",
+   "hs6_description": "Copper; bars, rods and profiles, of copper-zinc base alloys (brass)",
    "level": 8,
    "chapter": "74",
    "description": "Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "740729",
+   "hs6": "740729",
+   "hs6_description": "Copper; bars, rods and profiles, of copper alloys (other than copper-zinc base alloys)",
    "level": 6,
    "chapter": "74",
    "description": "Of copper alloys : -- Other",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "74072910",
+   "hs6": "740729",
+   "hs6_description": "Copper; bars, rods and profiles, of copper alloys (other than copper-zinc base alloys)",
    "level": 8,
    "chapter": "74",
    "description": "Rods of bronze and similar alloys",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "74072921",
+   "hs6": "740729",
+   "hs6_description": "Copper; bars, rods and profiles, of copper alloys (other than copper-zinc base alloys)",
    "level": 8,
    "chapter": "74",
    "description": "Profiles: ----Hollow",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "74072929",
+   "hs6": "740729",
+   "hs6_description": "Copper; bars, rods and profiles, of copper alloys (other than copper-zinc base alloys)",
    "level": 8,
    "chapter": "74",
    "description": "Profiles: ----Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "74072990",
+   "hs6": "740729",
+   "hs6_description": "Copper; bars, rods and profiles, of copper alloys (other than copper-zinc base alloys)",
    "level": 8,
    "chapter": "74",
    "description": "Profiles: ----Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "7408",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Copper wire.",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "740811",
+   "hs6": "740811",
+   "hs6_description": "Copper; wire, of refined copper, of which the maximum cross-sectional dimension exceeds 6mm",
    "level": 6,
    "chapter": "74",
    "description": "Of refined copper : -- Of which the maximum cross-sectional dimension exceeds 6 mm",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "74081110",
+   "hs6": "740811",
+   "hs6_description": "Copper; wire, of refined copper, of which the maximum cross-sectional dimension exceeds 6mm",
    "level": 8,
    "chapter": "74",
    "description": "Copper weld wire",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "74081190",
+   "hs6": "740811",
+   "hs6_description": "Copper; wire, of refined copper, of which the maximum cross-sectional dimension exceeds 6mm",
    "level": 8,
    "chapter": "74",
    "description": "Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "740819",
+   "hs6": "740819",
+   "hs6_description": "Copper; wire, of refined copper, of which the maximum cross-sectional dimension is 6mm or less",
    "level": 6,
    "chapter": "74",
    "description": "Of refined copper : -- Other",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "74081910",
+   "hs6": "740819",
+   "hs6_description": "Copper; wire, of refined copper, of which the maximum cross-sectional dimension is 6mm or less",
    "level": 8,
    "chapter": "74",
    "description": "Copper weld wire",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "74081920",
+   "hs6": "740819",
+   "hs6_description": "Copper; wire, of refined copper, of which the maximum cross-sectional dimension is 6mm or less",
    "level": 8,
    "chapter": "74",
    "description": "Welding wire",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "74081990",
+   "hs6": "740819",
+   "hs6_description": "Copper; wire, of refined copper, of which the maximum cross-sectional dimension is 6mm or less",
    "level": 8,
    "chapter": "74",
    "description": "Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "740821",
+   "hs6": "740821",
+   "hs6_description": "Copper; wire, of copper-zinc base alloys (brass)",
    "level": 6,
    "chapter": "74",
    "description": "Of copper alloys : -- Of copper-zinc base alloys (brass)",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "74082110",
+   "hs6": "740821",
+   "hs6_description": "Copper; wire, of copper-zinc base alloys (brass)",
    "level": 8,
    "chapter": "74",
    "description": "Of copper alloys: ----Of which the maximum cross-sectional dimension exceeds 6 mm",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "74082190",
+   "hs6": "740821",
+   "hs6_description": "Copper; wire, of copper-zinc base alloys (brass)",
    "level": 8,
    "chapter": "74",
    "description": "Of copper alloys: ----Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "740822",
+   "hs6": "740822",
+   "hs6_description": "Copper; wire, of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
    "level": 6,
    "chapter": "74",
    "description": "Of copper alloys : -- Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "74082210",
+   "hs6": "740822",
+   "hs6_description": "Copper; wire, of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
    "level": 8,
    "chapter": "74",
    "description": "Silver plated flattened wire of copper (lametta)",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "74082220",
+   "hs6": "740822",
+   "hs6_description": "Copper; wire, of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
    "level": 8,
    "chapter": "74",
    "description": "Of which the maximum cross-sectional dimension exceeds 6 mm",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "74082290",
+   "hs6": "740822",
+   "hs6_description": "Copper; wire, of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
    "level": 8,
    "chapter": "74",
    "description": "Other",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "740829",
+   "hs6": "740829",
+   "hs6_description": "Copper; wire, of copper alloys (other than copper-zinc base alloys, copper-nickel base alloys or copper-nickel-zinc base alloys)",
    "level": 6,
    "chapter": "74",
    "description": "Of copper alloys : -- Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "74082910",
+   "hs6": "740829",
+   "hs6_description": "Copper; wire, of copper alloys (other than copper-zinc base alloys, copper-nickel base alloys or copper-nickel-zinc base alloys)",
    "level": 8,
    "chapter": "74",
    "description": "Wire of bronze and similar alloys",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "74082990",
+   "hs6": "740829",
+   "hs6_description": "Copper; wire, of copper alloys (other than copper-zinc base alloys, copper-nickel base alloys or copper-nickel-zinc base alloys)",
    "level": 8,
    "chapter": "74",
    "description": "Other",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "7409",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Copper plates, sheets and strip, of a thickness exceeding 0.15 mm.",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "74091100",
+   "hs6": "740911",
+   "hs6_description": "Copper; strip, of a thickness exceeding 0.15mm, of refined copper, in coils",
    "level": 8,
    "chapter": "74",
    "description": "Of refined copper : -- In coils",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "74091900",
+   "hs6": "740919",
+   "hs6_description": "Copper; plates and sheets, of a thickness exceeding 0.15mm, of refined copper, not in coils",
    "level": 8,
    "chapter": "74",
    "description": "Of refined copper : -- Other",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "74092100",
+   "hs6": "740921",
+   "hs6_description": "Copper; strip, of a thickness exceeding 0.15mm, of copper-zinc base alloys (brass), in coils",
    "level": 8,
    "chapter": "74",
    "description": "Of copper-zinc base alloys (brass) : -- In coils",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "74092900",
+   "hs6": "740929",
+   "hs6_description": "Copper; plates and sheets, of a thickness exceeding 0.15mm, of copper-zinc base alloys (brass), not in coils",
    "level": 8,
    "chapter": "74",
    "description": "Of copper-zinc base alloys (brass) : -- Other",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "74093100",
+   "hs6": "740931",
+   "hs6_description": "Copper; strip, of a thickness exceeding 0.15mm, of copper-tin base alloys (bronze), in coils",
    "level": 8,
    "chapter": "74",
    "description": "Of copper-tin base alloys (bronze) : -- In coils",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "74093900",
+   "hs6": "740939",
+   "hs6_description": "Copper; plates and sheets, of a thickness exceeding 0.15mm, of copper-tin base alloys, not in coils",
    "level": 8,
    "chapter": "74",
    "description": "Of copper-tin base alloys (bronze) : -- Other",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "74094000",
+   "hs6": "740940",
+   "hs6_description": "Copper; plates, sheets and strip, of a thickness exceeding 0.15mm, of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
    "level": 8,
    "chapter": "74",
    "description": "Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "74099000",
+   "hs6": "740990",
+   "hs6_description": "Copper; plates, sheets and strip, of a thickness exceeding 0.15mm, of copper alloys (other than copper-zinc base alloys, copper-tin base alloys, copper-nickel base alloys or copper-nickel-zinc base alloys)",
    "level": 8,
    "chapter": "74",
    "description": "Of other copper alloys",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "7410",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Copper foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.15 mm.",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "74101100",
+   "hs6": "741011",
+   "hs6_description": "Copper; foil, not backed, of a thickness not exceeding 0.15mm, of refined copper",
    "level": 8,
    "chapter": "74",
    "description": "Not backed : -- Of refined copper",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "74101200",
+   "hs6": "741012",
+   "hs6_description": "Copper; foil, not backed, of a thickness not exceeding 0.15mm, of copper alloys",
    "level": 8,
    "chapter": "74",
    "description": "Not backed : -- Of copper alloys",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "74102100",
+   "hs6": "741021",
+   "hs6_description": "Copper; foil, backed with paper, paperboard, plastics or similar backing material, of a thickness (excluding any backing) not exceeding 0.15mm, of refined copper",
    "level": 8,
    "chapter": "74",
    "description": "Backed : -- Of refined copper",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "74102200",
+   "hs6": "741022",
+   "hs6_description": "Copper; foil, backed with paper, paperboard, plastics or similar backing material, of a thickness (excluding any backing) not exceeding 0.15mm, of copper alloys",
    "level": 8,
    "chapter": "74",
    "description": "Backed : -- Of copper alloys",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "7411",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Copper tubes and pipes.",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "74111000",
+   "hs6": "741110",
+   "hs6_description": "Copper; tubes and pipes, of refined copper",
    "level": 8,
    "chapter": "74",
    "description": "Of refined copper",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "74112100",
+   "hs6": "741121",
+   "hs6_description": "Copper; tubes and pipes, of copper-zinc base alloys (brass)",
    "level": 8,
    "chapter": "74",
    "description": "Of copper alloys : -- Of copper-zinc base alloys (brass)",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "74112200",
+   "hs6": "741122",
+   "hs6_description": "Copper; tubes and pipes, of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
    "level": 8,
    "chapter": "74",
    "description": "Of copper alloys : -- Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "74112900",
+   "hs6": "741129",
+   "hs6_description": "Copper; tubes and pipes, of copper alloys (other than copper-zinc, copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel-silver))",
    "level": 8,
    "chapter": "74",
    "description": "Of copper alloys : -- Other",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "7412",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Copper tube or pipe fittings (for example, couplings, elbows, sleeves).",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "74121000",
+   "hs6": "741210",
+   "hs6_description": "Copper; tube or pipe fittings (e.g. couplings, elbows, sleeves) of refined copper",
    "level": 8,
    "chapter": "74",
    "description": "Of refined copper",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "741220",
+   "hs6": "741220",
+   "hs6_description": "Copper; tube or pipe fittings (e.g. couplings, elbows, sleeves) of copper alloys",
    "level": 6,
    "chapter": "74",
    "description": "Of copper alloys",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "74122011",
+   "hs6": "741220",
+   "hs6_description": "Copper; tube or pipe fittings (e.g. couplings, elbows, sleeves) of copper alloys",
    "level": 8,
    "chapter": "74",
    "description": "Brass: ----Tube-well strainer",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "74122012",
+   "hs6": "741220",
+   "hs6_description": "Copper; tube or pipe fittings (e.g. couplings, elbows, sleeves) of copper alloys",
    "level": 8,
    "chapter": "74",
    "description": "Brass: ----Hose connectors",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "74122019",
+   "hs6": "741220",
+   "hs6_description": "Copper; tube or pipe fittings (e.g. couplings, elbows, sleeves) of copper alloys",
    "level": 8,
    "chapter": "74",
    "description": "Brass: ----Other",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "74122090",
+   "hs6": "741220",
+   "hs6_description": "Copper; tube or pipe fittings (e.g. couplings, elbows, sleeves) of copper alloys",
    "level": 8,
    "chapter": "74",
    "description": "Brass: ----Fittings of bronze and similar alloys of copper",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "74130000",
+   "hs6": "741300",
+   "hs6_description": "Copper; stranded wire, cables, plaited bands and the like, not electrically insulated",
    "level": 8,
    "chapter": "74",
    "description": "Stranded wire, cables, plaited bands and the like, of copper, not electrically insulated.",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "7415",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Nails, tacks, drawing pins, staples (other than those of heading 83.05) and similar articles, of copper or of iron or steel with heads of copper; screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of copper.",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "74151000",
+   "hs6": "741510",
+   "hs6_description": "Copper; nails and tacks, drawing pins, staples and similar articles of copper, or of iron or steel with copper heads",
    "level": 8,
    "chapter": "74",
    "description": "Nails and tacks, drawing pins, staples and similar articles",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "74152100",
+   "hs6": "741521",
+   "hs6_description": "Copper; washers, (including spring washers), not threaded",
    "level": 8,
    "chapter": "74",
    "description": "Other articles, not threaded : -- Washers (including spring washers)",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "74152900",
+   "hs6": "741529",
+   "hs6_description": "Copper; rivets, cotters, cotter-pins and similar articles, not threaded",
    "level": 8,
    "chapter": "74",
    "description": "Other articles, not threaded : -- Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "741533",
+   "hs6": "741533",
+   "hs6_description": "Copper; screws, bolts and nuts, threaded",
    "level": 6,
    "chapter": "74",
    "description": "Other threaded articles : -- Screws; bolts and nuts",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "74153310",
+   "hs6": "741533",
+   "hs6_description": "Copper; screws, bolts and nuts, threaded",
    "level": 8,
    "chapter": "74",
    "description": "Screws for wood",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "74153390",
+   "hs6": "741533",
+   "hs6_description": "Copper; screws, bolts and nuts, threaded",
    "level": 8,
    "chapter": "74",
    "description": "Other",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "741539",
+   "hs6": "741539",
+   "hs6_description": "Copper; articles n.e.c. in heading no. 7415",
    "level": 6,
    "chapter": "74",
    "description": "Other threaded articles : -- Other",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "74153910",
+   "hs6": "741539",
+   "hs6_description": "Copper; articles n.e.c. in heading no. 7415",
    "level": 8,
    "chapter": "74",
    "description": "Rivets (excluding tubular or bifurcated)",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "74153990",
+   "hs6": "741539",
+   "hs6_description": "Copper; articles n.e.c. in heading no. 7415",
    "level": 8,
    "chapter": "74",
    "description": "Other",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "7418",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Table, kitchen or other household articles and parts thereof, of copper; pot scourers and scouring or polishing pads, gloves and the like, of copper; sanitary ware and parts thereof, of copper.",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "741810",
+   "hs6": "741810",
+   "hs6_description": "Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 6,
    "chapter": "74",
    "description": "Table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like.",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "74181010",
+   "hs6": "741810",
+   "hs6_description": "Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "74",
    "description": "Pot scourers and scouring or polishing pads, gloves and the like Utensils:",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "74181021",
+   "hs6": "741810",
+   "hs6_description": "Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "74",
    "description": "Utensils: ----Of brass",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "74181022",
+   "hs6": "741810",
+   "hs6_description": "Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "74",
    "description": "Utensils: ----Of copper",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "74181023",
+   "hs6": "741810",
+   "hs6_description": "Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "74",
    "description": "Utensils: ----Of other copper alloys",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "74181024",
+   "hs6": "741810",
+   "hs6_description": "Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "74",
    "description": "Utensils: ----E.P.N.S. ware",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "74181031",
+   "hs6": "741810",
+   "hs6_description": "Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "74",
    "description": "Other: ----Of E.P.N.S.",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "74181039",
+   "hs6": "741810",
+   "hs6_description": "Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "74",
    "description": "Other: ----Other",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "74181090",
+   "hs6": "741810",
+   "hs6_description": "Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "74",
    "description": "Other: ----Parts",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "741820",
+   "hs6": "741820",
+   "hs6_description": "Copper; sanitary ware and parts thereof",
    "level": 6,
    "chapter": "74",
    "description": "Sanitary ware and parts thereof",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "74182010",
+   "hs6": "741820",
+   "hs6_description": "Copper; sanitary ware and parts thereof",
    "level": 8,
    "chapter": "74",
    "description": "Sanitary ware",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "74182020",
+   "hs6": "741820",
+   "hs6_description": "Copper; sanitary ware and parts thereof",
    "level": 8,
    "chapter": "74",
    "description": "Parts of sanitary ware",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "7419",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "74",
    "description": "Other articles of copper.",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "74192000",
+   "hs6": "741920",
+   "hs6_description": "Copper; cast, moulded, stamped or forged, but not further worked",
    "level": 8,
    "chapter": "74",
    "description": "Cast, moulded, stamped or forged, but not further worked",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "741980",
+   "hs6": "741980",
+   "hs6_description": "Copper; articles thereof n.e.c. in chapter 74",
    "level": 6,
    "chapter": "74",
    "description": "Other:",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "74198010",
+   "hs6": "741980",
+   "hs6_description": "Copper; articles thereof n.e.c. in chapter 74",
    "level": 8,
    "chapter": "74",
    "description": "Reservoirs, tanks, vats and similar containers",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "74198020",
+   "hs6": "741980",
+   "hs6_description": "Copper; articles thereof n.e.c. in chapter 74",
    "level": 8,
    "chapter": "74",
    "description": "Articles of copper alloys electro-plated with nickel-silver",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "74198030",
+   "hs6": "741980",
+   "hs6_description": "Copper; articles thereof n.e.c. in chapter 74",
    "level": 8,
    "chapter": "74",
    "description": "Articles of brass",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "74198040",
+   "hs6": "741980",
+   "hs6_description": "Copper; articles thereof n.e.c. in chapter 74",
    "level": 8,
    "chapter": "74",
    "description": "Copper worked articles",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "74198050",
+   "hs6": "741980",
+   "hs6_description": "Copper; articles thereof n.e.c. in chapter 74",
    "level": 8,
    "chapter": "74",
    "description": "Copper chain",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "74198090",
+   "hs6": "741980",
+   "hs6_description": "Copper; articles thereof n.e.c. in chapter 74",
    "level": 8,
    "chapter": "74",
    "description": "Other articles of copper",

@@ -1,104 +1,104 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-2601,4,26,"Iron ores and concentrates, including roasted iron pyrites.",,,,,,2026-10-22
-260111,6,26,"Iron ores and concentrates, other than roasted iron pyrites : -- Non-agglomerated",,,,,,2026-10-22
-26011111,8,26,60percent Fe or more but below 62percent Fe,Free,,,,,2026-10-22
-26011112,8,26,62percent Fe or more but below 65percent Fe,Free,,,,,2026-10-22
-26011119,8,26,65percent Fe and above,Free,,,,,2026-10-22
-26011121,8,26,"Iron ore lumps (below 60percent Fe, including black iron ore containing up to 10percent Mn) ---- Iron ore lumps below 55percent Fe",Free,,,,,2026-10-22
-26011122,8,26,"Iron ore lumps (below 60percent Fe, including black iron ore containing up to 10percent Mn) ---- Iron ore lumps 55percent Fe or more but below 58 percent Fe",Free,,,,,2026-10-22
-26011129,8,26,"Iron ore lumps (below 60percent Fe, including black iron ore containing up to 10percent Mn) ---- 58 percent Fe or more but below 60 percent Fe",Free,,,,,2026-10-22
-26011131,8,26,Iron ore fines (62percent Fe or more) --- - 62percent Fe or more but below 65percent Fe,Free,,,,,2026-10-22
-26011139,8,26,Iron ore fines (62percent Fe or more) --- - 65percent Fe and above,Free,,,,,2026-10-22
-26011141,8,26,Iron ore Fines (below 62percent Fe) ---- below 55percent Fe,Free,,,,,2026-10-22
-26011142,8,26,Iron ore Fines (below 62percent Fe) ---- 55percent Fe or more but below 58percent Fe,Free,,,,,2026-10-22
-26011143,8,26,Iron ore Fines (below 62percent Fe) ---- 58percent Fe or more but below 60percent Fe,Free,,,,,2026-10-22
-26011149,8,26,Iron ore Fines (below 62percent Fe) ---- 60percent Fe or more but below 62percent Fe,Free,,,,,2026-10-22
-26011150,8,26,Iron ore concentrates,Free,,,,,2026-10-22
-26011190,8,26,Others,Free,,,,,2026-10-22
-260112,6,26,"Iron ores and concentrates, other than roasted iron pyrites : -- Agglomerated",,,,,,2026-10-22
-26011210,8,26,Iron ore pellets,Free,,,,,2026-10-22
-26011290,8,26,Other,Free,,,,,2026-10-22
-26012000,8,26,Roasted iron pyrites,Free,,,,,2026-10-22
-2602,4,26,"MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT",,,,,,2026-10-22
-260200,6,26,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20percentor more, calculated on the dry weight.",,,,,,2026-10-22
-26020010,8,26,Manganese ore (46percent or more),Free,,,,,2026-10-22
-26020020,8,26,Manganese ore (44percent or more but below 46percent),Free,,,,,2026-10-22
-26020030,8,26,Manganese ore (40percent or more but below 44percent),Free,,,,,2026-10-22
-26020040,8,26,Manganese ore (35percent or more but below 40percent),Free,,,,,2026-10-22
-26020050,8,26,Manganese ore (30percent or more but below 35percent),Free,,,,,2026-10-22
-26020060,8,26,Ferruginous (10percent or more but below 30percent),Free,,,,,2026-10-22
-26020070,8,26,"Manganese ore sinters, agglomerated",Free,,,,,2026-10-22
-26020090,8,26,Other,Free,,,,,2026-10-22
-26030000,8,26,Copper ores and concentrates,Free,,,,,2026-10-22
-26040000,8,26,Nickel ores and concentrates,Free,,,,,2026-10-22
-26050000,8,26,Cobalt ores and concentrates,Free,,,,,2026-10-22
-2606,4,26,Aluminium ores and concentrates.,,,,,,2026-10-22
-260600,6,26,Aluminium ores and concentrates :,,,,,,2026-10-22
-26060010,8,26,"Bauxite (natural), not calcined",Free,,,,,2026-10-22
-26060020,8,26,"Bauxite (natural), calcined",Free,,,,,2026-10-22
-26060090,8,26,Other aluminium ores and concentrates,Free,,,,,2026-10-22
-26070000,8,26,Lead ores and concentrates,Free,,,,,2026-10-22
-26080000,8,26,Zinc ores and concentrates,Free,,,,,2026-10-22
-26090000,8,26,Tin ores and concentrates.,Free,,,,,2026-10-22
-2610,4,26,CHROMIUM ORES AND CONCENTRATES,,,,,,2026-10-22
-261000,6,26,Chromium ores and concentrates.,,,,,,2026-10-22
-26100010,8,26,"Chrome ore lumps, containing 47percent Cr2O3 and above",Free,,,,,2026-10-22
-26100020,8,26,"Chrome ore lumps, containing 40percent or more but less than 47percent Cr2O3",Free,,,,,2026-10-22
-26100030,8,26,Chrome ore lumps below 40percent Cr2O3,Free,,,,,2026-10-22
-26100040,8,26,Chrome ore friable and concentrates fixes containing 47percent Cr2O3 and above,Free,,,,,2026-10-22
-26100090,8,26,Other,Free,,,,,2026-10-22
-26110000,8,26,Tungsten ores and concentrates,Free,,,,,2026-10-22
-2612,4,26,Uranium or thorium ores and concentrates.,,,,,,2026-10-22
-26121000,8,26,Uranium ores and concentrates,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-26122000,8,26,Thorium ores and concentrates,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time ) and Rules thereunder.",,,,2026-10-22
-2613,4,26,Molybdenum ores and concentrates.,,,,,,2026-10-22
-26131000,8,26,Roasted,Free,,,,,2026-10-22
-26139000,8,26,Other,Free,,,,,2026-10-22
-2614,4,26,Titanium ores and concentrates.,,,,,,2026-10-22
-261400,6,26,Titanium ores and concentrates :,,,,,,2026-10-22
-26140010,8,26,"Ilmenite, unprocessed",Free,,,,,2026-10-22
-26140020,8,26,"Ilmenite, upgraded (beneficiated ilmenite including ilmenite ground)",Free,,,,,2026-10-22
-26140031,8,26,Rutile: ---- Rare earth oxides including rutile sand,Free,,,,,2026-10-22
-26140039,8,26,Rutile: ----Other,Free,,,,,2026-10-22
-26140090,8,26,Other,Free,,,,,2026-10-22
-2615,4,26,"Niobium, tantalum, vanadium or zirconium ores and concentrates.",,,,,,2026-10-22
-261510,6,26,Zirconium ores and concentrates,,,,,,2026-10-22
-26151010,8,26,--- Hafnium,Free,,,24/2026-27,2026-07-22,2026-10-22
-26151090,8,26,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-261590,6,26,Other,,,,,,2026-10-22
-26159010,8,26,Vanadium ores and concentrates,Free,,,,,2026-10-22
-26159020,8,26,Niobium tantalum ores and concentrates,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-2616,4,26,Precious metal ores and concentrates.,,,,,,2026-10-22
-26161000,8,26,Silver ores and concentrates,Free,,,,,2026-10-22
-261690,6,26,Other,,,,,,2026-10-22
-26169010,8,26,Gold ores and concentrates,Free,,,,,2026-10-22
-26169090,8,26,Other,Free,,,,,2026-10-22
-2617,4,26,Other ores and concentrates.,,,,,,2026-10-22
-26171000,8,26,Antimony ores and concentrates,Free,,,,,2026-10-22
-26179000,8,26,Other,Free,,,,,2026-10-22
-26180000,8,26,Granulated slag (slag sand) from the manufacture of iron or steel,Free,,,,,2026-10-22
-2619,4,26,"Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel.",,,,,,2026-10-22
-261900,6,26,"Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel :",,,,,,2026-10-22
-26190010,8,26,Converted slag (scull) of blast furnace,Restricted,,,,,2026-10-22
-26190090,8,26,Other,Restricted,,,,,2026-10-22
-2620,4,26,"Slag, ash and residues (other than from the manufacture of iron or steel) containing metals, arsenic or their compounds.",,,,,,2026-10-22
-26201100,8,26,Containing mainly zinc : -- Hard zinc spelter,Restricted,,,,,2026-10-22
-262019,6,26,Containing mainly zinc : -- Other,,,,,,2026-10-22
-26201910,8,26,Zinc dross,Free,"Imoort is permitted to the actual user or the trade on behalf of the actual users authorised by SPCB on one time basis and subject to verification of the documents by the Custom Authority as specified in Schedule VIII of the Hazardous and Other wastes (Management and Transboundry Movement) Rules, 2016",,51/2015-2020,2020-03-18,2026-10-22
-26201990,8,26,Other,Restricted,Import of zinc ash and zinc skimmings permitted as per Policy Condition of Chapter 26.,,,,2026-10-22
-26202100,8,26,Containing mainly lead : -- Leaded gasoline sludges and leaded anti-knock compound sludges,Restricted,,,,,2026-10-22
-262029,6,26,Containing mainly lead : -- Other,,,,,,2026-10-22
-26202910,8,26,Lead dross,Restricted,,,,,2026-10-22
-26202990,8,26,Other,Restricted,,,,,2026-10-22
-262030,6,26,Containing mainly copper,,,,,,2026-10-22
-26203010,8,26,Brass dross,Restricted,Import of ashes and residue containing mainly copper is permitted as per Policy Condition 3 below.,3,,,2026-10-22
-26203090,8,26,Other,Restricted,Import of ashes and residue containing mainly copper is permitted as per Policy Condition 3 of this Chapter.,3,,,2026-10-22
-262040,6,26,Containing mainly aluminium,,,,,,2026-10-22
-26204010,8,26,Aluminum dross,Restricted,,,,,2026-10-22
-26204090,8,26,Other,Restricted,,,,,2026-10-22
-26206000,8,26,"Containing arsenic, mercury, thallium or their mixtures, of a kind used for the extraction of arsenic or those metals or for the manufacture of their chemical compounds",Restricted,,,,,2026-10-22
-26209100,8,26,"Other : -- Containing antimony, beryllium, cadmium, chromium or their mixtures",Restricted,,,,,2026-10-22
-26209900,8,26,Other : --Other,Restricted,"Import of spent cleaned metal catalyst containing nickel is permitted without a licence to units registered with Ministry of Environment and Forest, Government of India.",,,,2026-10-22
-2621,4,26,"Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste.",,,,,,2026-10-22
-26211000,8,26,Ash and residues from the incineration of municipal waste,Restricted,,,,,2026-10-22
-26219000,8,26,Other,Restricted,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+2601,,,4,26,"Iron ores and concentrates, including roasted iron pyrites.",,,,,,2026-10-22
+260111,260111,Iron ores and concentrates; non-agglomerated,6,26,"Iron ores and concentrates, other than roasted iron pyrites : -- Non-agglomerated",,,,,,2026-10-22
+26011111,260111,Iron ores and concentrates; non-agglomerated,8,26,60percent Fe or more but below 62percent Fe,Free,,,,,2026-10-22
+26011112,260111,Iron ores and concentrates; non-agglomerated,8,26,62percent Fe or more but below 65percent Fe,Free,,,,,2026-10-22
+26011119,260111,Iron ores and concentrates; non-agglomerated,8,26,65percent Fe and above,Free,,,,,2026-10-22
+26011121,260111,Iron ores and concentrates; non-agglomerated,8,26,"Iron ore lumps (below 60percent Fe, including black iron ore containing up to 10percent Mn) ---- Iron ore lumps below 55percent Fe",Free,,,,,2026-10-22
+26011122,260111,Iron ores and concentrates; non-agglomerated,8,26,"Iron ore lumps (below 60percent Fe, including black iron ore containing up to 10percent Mn) ---- Iron ore lumps 55percent Fe or more but below 58 percent Fe",Free,,,,,2026-10-22
+26011129,260111,Iron ores and concentrates; non-agglomerated,8,26,"Iron ore lumps (below 60percent Fe, including black iron ore containing up to 10percent Mn) ---- 58 percent Fe or more but below 60 percent Fe",Free,,,,,2026-10-22
+26011131,260111,Iron ores and concentrates; non-agglomerated,8,26,Iron ore fines (62percent Fe or more) --- - 62percent Fe or more but below 65percent Fe,Free,,,,,2026-10-22
+26011139,260111,Iron ores and concentrates; non-agglomerated,8,26,Iron ore fines (62percent Fe or more) --- - 65percent Fe and above,Free,,,,,2026-10-22
+26011141,260111,Iron ores and concentrates; non-agglomerated,8,26,Iron ore Fines (below 62percent Fe) ---- below 55percent Fe,Free,,,,,2026-10-22
+26011142,260111,Iron ores and concentrates; non-agglomerated,8,26,Iron ore Fines (below 62percent Fe) ---- 55percent Fe or more but below 58percent Fe,Free,,,,,2026-10-22
+26011143,260111,Iron ores and concentrates; non-agglomerated,8,26,Iron ore Fines (below 62percent Fe) ---- 58percent Fe or more but below 60percent Fe,Free,,,,,2026-10-22
+26011149,260111,Iron ores and concentrates; non-agglomerated,8,26,Iron ore Fines (below 62percent Fe) ---- 60percent Fe or more but below 62percent Fe,Free,,,,,2026-10-22
+26011150,260111,Iron ores and concentrates; non-agglomerated,8,26,Iron ore concentrates,Free,,,,,2026-10-22
+26011190,260111,Iron ores and concentrates; non-agglomerated,8,26,Others,Free,,,,,2026-10-22
+260112,260112,Iron ores and concentrates; agglomerated (excluding roasted iron pyrites),6,26,"Iron ores and concentrates, other than roasted iron pyrites : -- Agglomerated",,,,,,2026-10-22
+26011210,260112,Iron ores and concentrates; agglomerated (excluding roasted iron pyrites),8,26,Iron ore pellets,Free,,,,,2026-10-22
+26011290,260112,Iron ores and concentrates; agglomerated (excluding roasted iron pyrites),8,26,Other,Free,,,,,2026-10-22
+26012000,260120,Iron pyrites; roasted,8,26,Roasted iron pyrites,Free,,,,,2026-10-22
+2602,,,4,26,"MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT",,,,,,2026-10-22
+260200,260200,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",6,26,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20percentor more, calculated on the dry weight.",,,,,,2026-10-22
+26020010,260200,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",8,26,Manganese ore (46percent or more),Free,,,,,2026-10-22
+26020020,260200,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",8,26,Manganese ore (44percent or more but below 46percent),Free,,,,,2026-10-22
+26020030,260200,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",8,26,Manganese ore (40percent or more but below 44percent),Free,,,,,2026-10-22
+26020040,260200,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",8,26,Manganese ore (35percent or more but below 40percent),Free,,,,,2026-10-22
+26020050,260200,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",8,26,Manganese ore (30percent or more but below 35percent),Free,,,,,2026-10-22
+26020060,260200,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",8,26,Ferruginous (10percent or more but below 30percent),Free,,,,,2026-10-22
+26020070,260200,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",8,26,"Manganese ore sinters, agglomerated",Free,,,,,2026-10-22
+26020090,260200,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",8,26,Other,Free,,,,,2026-10-22
+26030000,260300,Copper ores and concentrates,8,26,Copper ores and concentrates,Free,,,,,2026-10-22
+26040000,260400,Nickel ores and concentrates,8,26,Nickel ores and concentrates,Free,,,,,2026-10-22
+26050000,260500,Cobalt ores and concentrates,8,26,Cobalt ores and concentrates,Free,,,,,2026-10-22
+2606,,,4,26,Aluminium ores and concentrates.,,,,,,2026-10-22
+260600,260600,Aluminium ores and concentrates,6,26,Aluminium ores and concentrates :,,,,,,2026-10-22
+26060010,260600,Aluminium ores and concentrates,8,26,"Bauxite (natural), not calcined",Free,,,,,2026-10-22
+26060020,260600,Aluminium ores and concentrates,8,26,"Bauxite (natural), calcined",Free,,,,,2026-10-22
+26060090,260600,Aluminium ores and concentrates,8,26,Other aluminium ores and concentrates,Free,,,,,2026-10-22
+26070000,260700,Lead ores and concentrates,8,26,Lead ores and concentrates,Free,,,,,2026-10-22
+26080000,260800,Zinc ores and concentrates,8,26,Zinc ores and concentrates,Free,,,,,2026-10-22
+26090000,260900,Tin ores and concentrates,8,26,Tin ores and concentrates.,Free,,,,,2026-10-22
+2610,,,4,26,CHROMIUM ORES AND CONCENTRATES,,,,,,2026-10-22
+261000,261000,Chromium ores and concentrates,6,26,Chromium ores and concentrates.,,,,,,2026-10-22
+26100010,261000,Chromium ores and concentrates,8,26,"Chrome ore lumps, containing 47percent Cr2O3 and above",Free,,,,,2026-10-22
+26100020,261000,Chromium ores and concentrates,8,26,"Chrome ore lumps, containing 40percent or more but less than 47percent Cr2O3",Free,,,,,2026-10-22
+26100030,261000,Chromium ores and concentrates,8,26,Chrome ore lumps below 40percent Cr2O3,Free,,,,,2026-10-22
+26100040,261000,Chromium ores and concentrates,8,26,Chrome ore friable and concentrates fixes containing 47percent Cr2O3 and above,Free,,,,,2026-10-22
+26100090,261000,Chromium ores and concentrates,8,26,Other,Free,,,,,2026-10-22
+26110000,261100,Tungsten ores and concentrates,8,26,Tungsten ores and concentrates,Free,,,,,2026-10-22
+2612,,,4,26,Uranium or thorium ores and concentrates.,,,,,,2026-10-22
+26121000,261210,Uranium ores and concentrates,8,26,Uranium ores and concentrates,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+26122000,261220,Thorium ores and concentrates,8,26,Thorium ores and concentrates,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time ) and Rules thereunder.",,,,2026-10-22
+2613,,,4,26,Molybdenum ores and concentrates.,,,,,,2026-10-22
+26131000,261310,Molybdenum ores and concentrates; roasted,8,26,Roasted,Free,,,,,2026-10-22
+26139000,261390,Molybdenum ores and concentrates; other than roasted,8,26,Other,Free,,,,,2026-10-22
+2614,,,4,26,Titanium ores and concentrates.,,,,,,2026-10-22
+261400,261400,Titanium ores and concentrates,6,26,Titanium ores and concentrates :,,,,,,2026-10-22
+26140010,261400,Titanium ores and concentrates,8,26,"Ilmenite, unprocessed",Free,,,,,2026-10-22
+26140020,261400,Titanium ores and concentrates,8,26,"Ilmenite, upgraded (beneficiated ilmenite including ilmenite ground)",Free,,,,,2026-10-22
+26140031,261400,Titanium ores and concentrates,8,26,Rutile: ---- Rare earth oxides including rutile sand,Free,,,,,2026-10-22
+26140039,261400,Titanium ores and concentrates,8,26,Rutile: ----Other,Free,,,,,2026-10-22
+26140090,261400,Titanium ores and concentrates,8,26,Other,Free,,,,,2026-10-22
+2615,,,4,26,"Niobium, tantalum, vanadium or zirconium ores and concentrates.",,,,,,2026-10-22
+261510,261510,Zirconium ores and concentrates,6,26,Zirconium ores and concentrates,,,,,,2026-10-22
+26151010,261510,Zirconium ores and concentrates,8,26,--- Hafnium,Free,,,24/2026-27,2026-07-22,2026-10-22
+26151090,261510,Zirconium ores and concentrates,8,26,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+261590,261590,"Niobium, tantalum, vanadium ores and concentrates",6,26,Other,,,,,,2026-10-22
+26159010,261590,"Niobium, tantalum, vanadium ores and concentrates",8,26,Vanadium ores and concentrates,Free,,,,,2026-10-22
+26159020,261590,"Niobium, tantalum, vanadium ores and concentrates",8,26,Niobium tantalum ores and concentrates,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+2616,,,4,26,Precious metal ores and concentrates.,,,,,,2026-10-22
+26161000,261610,Silver ores and concentrates,8,26,Silver ores and concentrates,Free,,,,,2026-10-22
+261690,261690,Precious metal ores and concentrates; (excluding silver),6,26,Other,,,,,,2026-10-22
+26169010,261690,Precious metal ores and concentrates; (excluding silver),8,26,Gold ores and concentrates,Free,,,,,2026-10-22
+26169090,261690,Precious metal ores and concentrates; (excluding silver),8,26,Other,Free,,,,,2026-10-22
+2617,,,4,26,Other ores and concentrates.,,,,,,2026-10-22
+26171000,261710,Antimony ores and concentrates,8,26,Antimony ores and concentrates,Free,,,,,2026-10-22
+26179000,261790,Ores and concentrates n.e.c. in chapter 26; other than antimony,8,26,Other,Free,,,,,2026-10-22
+26180000,261800,"Slag, granulated (slag sand); from the manufacture or iron or steel",8,26,Granulated slag (slag sand) from the manufacture of iron or steel,Free,,,,,2026-10-22
+2619,,,4,26,"Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel.",,,,,,2026-10-22
+261900,261900,"Slag, dross; (other than granulated slag), scalings and other waste from the manufacture of iron or steel",6,26,"Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel :",,,,,,2026-10-22
+26190010,261900,"Slag, dross; (other than granulated slag), scalings and other waste from the manufacture of iron or steel",8,26,Converted slag (scull) of blast furnace,Restricted,,,,,2026-10-22
+26190090,261900,"Slag, dross; (other than granulated slag), scalings and other waste from the manufacture of iron or steel",8,26,Other,Restricted,,,,,2026-10-22
+2620,,,4,26,"Slag, ash and residues (other than from the manufacture of iron or steel) containing metals, arsenic or their compounds.",,,,,,2026-10-22
+26201100,262011,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly zinc, hard zinc spelter",8,26,Containing mainly zinc : -- Hard zinc spelter,Restricted,,,,,2026-10-22
+262019,262019,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly zinc, other than hard zinc spelter",6,26,Containing mainly zinc : -- Other,,,,,,2026-10-22
+26201910,262019,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly zinc, other than hard zinc spelter",8,26,Zinc dross,Free,"Imoort is permitted to the actual user or the trade on behalf of the actual users authorised by SPCB on one time basis and subject to verification of the documents by the Custom Authority as specified in Schedule VIII of the Hazardous and Other wastes (Management and Transboundry Movement) Rules, 2016",,51/2015-2020,2020-03-18,2026-10-22
+26201990,262019,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly zinc, other than hard zinc spelter",8,26,Other,Restricted,Import of zinc ash and zinc skimmings permitted as per Policy Condition of Chapter 26.,,,,2026-10-22
+26202100,262021,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly lead; leaded gasoline sludges and leaded anti-knock compound sludges",8,26,Containing mainly lead : -- Leaded gasoline sludges and leaded anti-knock compound sludges,Restricted,,,,,2026-10-22
+262029,262029,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly lead; excluding leaded gasoline sludges and leaded anti-knock compound sludges",6,26,Containing mainly lead : -- Other,,,,,,2026-10-22
+26202910,262029,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly lead; excluding leaded gasoline sludges and leaded anti-knock compound sludges",8,26,Lead dross,Restricted,,,,,2026-10-22
+26202990,262029,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly lead; excluding leaded gasoline sludges and leaded anti-knock compound sludges",8,26,Other,Restricted,,,,,2026-10-22
+262030,262030,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly copper",6,26,Containing mainly copper,,,,,,2026-10-22
+26203010,262030,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly copper",8,26,Brass dross,Restricted,Import of ashes and residue containing mainly copper is permitted as per Policy Condition 3 below.,3,,,2026-10-22
+26203090,262030,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly copper",8,26,Other,Restricted,Import of ashes and residue containing mainly copper is permitted as per Policy Condition 3 of this Chapter.,3,,,2026-10-22
+262040,262040,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly aluminium",6,26,Containing mainly aluminium,,,,,,2026-10-22
+26204010,262040,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly aluminium",8,26,Aluminum dross,Restricted,,,,,2026-10-22
+26204090,262040,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly aluminium",8,26,Other,Restricted,,,,,2026-10-22
+26206000,262060,"Slag, ash and residues; (not from the manufacture of iron or steel), containing arsenic, mercury, thallium or their mixtures, of a kind used for the extraction of arsenic or those metals or for the manufacture of their chemical compounds",8,26,"Containing arsenic, mercury, thallium or their mixtures, of a kind used for the extraction of arsenic or those metals or for the manufacture of their chemical compounds",Restricted,,,,,2026-10-22
+26209100,262091,"Slag, ash and residues; (not from the manufacture of iron or steel), containing antimony, beryllium, cadmium, chromium or their mixtures",8,26,"Other : -- Containing antimony, beryllium, cadmium, chromium or their mixtures",Restricted,,,,,2026-10-22
+26209900,262099,"Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly metals or their compounds, n.e.c. in heading no. 2620",8,26,Other : --Other,Restricted,"Import of spent cleaned metal catalyst containing nickel is permitted without a licence to units registered with Ministry of Environment and Forest, Government of India.",,,,2026-10-22
+2621,,,4,26,"Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste.",,,,,,2026-10-22
+26211000,262110,Slag and ash; ash and residues from the incineration of municipal waste,8,26,Ash and residues from the incineration of municipal waste,Restricted,,,,,2026-10-22
+26219000,262190,Slag and ash n.e.c. in chapter 26; including seaweed ash (kelp) but excluding ash and residues from the incineration of municipal waste,8,26,Other,Restricted,,,,,2026-10-22

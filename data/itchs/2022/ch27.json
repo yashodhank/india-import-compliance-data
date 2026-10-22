@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "2701",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "COAL; BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS MANUFACTURED FROM COAL",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "27011100",
+   "hs6": "270111",
+   "hs6_description": "Coal; anthracite, whether or not pulverised, but not agglomerated",
    "level": 8,
    "chapter": "27",
    "description": "Coal, whether or not pulverized, but not agglomerated: -- Anthracite Coal",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "270112",
+   "hs6": "270112",
+   "hs6_description": "Coal; bituminous, whether or not pulverised, but not agglomerated",
    "level": 6,
    "chapter": "27",
    "description": "Bituminous coal :",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "27011210",
+   "hs6": "270112",
+   "hs6_description": "Coal; bituminous, whether or not pulverised, but not agglomerated",
    "level": 8,
    "chapter": "27",
    "description": "Coking coal",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "27011290",
+   "hs6": "270112",
+   "hs6_description": "Coal; bituminous, whether or not pulverised, but not agglomerated",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "270119",
+   "hs6": "270119",
+   "hs6_description": "Coal; (other than anthracite and bituminous), whether or not pulverised but not agglomerated",
    "level": 6,
    "chapter": "27",
    "description": "Coal, whether or not pulverised, but not agglomerated : -- Other coal",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "27011910",
+   "hs6": "270119",
+   "hs6_description": "Coal; (other than anthracite and bituminous), whether or not pulverised but not agglomerated",
    "level": 8,
    "chapter": "27",
    "description": "Coking coal",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "27011920",
+   "hs6": "270119",
+   "hs6_description": "Coal; (other than anthracite and bituminous), whether or not pulverised but not agglomerated",
    "level": 8,
    "chapter": "27",
    "description": "Steam coal",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "27011990",
+   "hs6": "270119",
+   "hs6_description": "Coal; (other than anthracite and bituminous), whether or not pulverised but not agglomerated",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "270120",
+   "hs6": "270120",
+   "hs6_description": "Briquettes, ovoids and similar solid fuels; manufactured from coal",
    "level": 6,
    "chapter": "27",
    "description": "Briquettes, ovoids and similar solid fuels manufactured from coal",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "27012010",
+   "hs6": "270120",
+   "hs6_description": "Briquettes, ovoids and similar solid fuels; manufactured from coal",
    "level": 8,
    "chapter": "27",
    "description": "Anthracite agglomerated",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "27012090",
+   "hs6": "270120",
+   "hs6_description": "Briquettes, ovoids and similar solid fuels; manufactured from coal",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "2702",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "Lignite, whether or not agglomerated, excluding jet.",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "27021000",
+   "hs6": "270210",
+   "hs6_description": "Lignite; whether or not pulverised, but not agglomerated, excluding jet",
    "level": 8,
    "chapter": "27",
    "description": "Lignite, whether or not pulverised, but not agglomerated",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "27022000",
+   "hs6": "270220",
+   "hs6_description": "Lignite; agglomerated, excluding jet",
    "level": 8,
    "chapter": "27",
    "description": "Agglomerated lignite",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "2703",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "PEAT (INCLUDING PEAT LITTER), WHETHER OR NOT AGGLOMERATED",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "270300",
+   "hs6": "270300",
+   "hs6_description": "Peat; (including peat litter), whether or not agglomerated",
    "level": 6,
    "chapter": "27",
    "description": "Peat (including peat litter), whether or not agglomerated.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "27030010",
+   "hs6": "270300",
+   "hs6_description": "Peat; (including peat litter), whether or not agglomerated",
    "level": 8,
    "chapter": "27",
    "description": "Peat whether or not compressed into bales, but not agglomerated",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "27030090",
+   "hs6": "270300",
+   "hs6_description": "Peat; (including peat litter), whether or not agglomerated",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "2704",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon.",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "270400",
+   "hs6": "270400",
+   "hs6_description": "Coke and semi-coke; of coal, lignite or peat, whether or not agglomerated; retort carbon",
    "level": 6,
    "chapter": "27",
    "description": "Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon :",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "27040010",
+   "hs6": "270400",
+   "hs6_description": "Coke and semi-coke; of coal, lignite or peat, whether or not agglomerated; retort carbon",
    "level": 8,
    "chapter": "27",
    "description": "Retort carbon (gas carbon)",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "27040020",
+   "hs6": "270400",
+   "hs6_description": "Coke and semi-coke; of coal, lignite or peat, whether or not agglomerated; retort carbon",
    "level": 8,
    "chapter": "27",
    "description": "Coke and semi-coke of lignite or of peat",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "27040030",
+   "hs6": "270400",
+   "hs6_description": "Coke and semi-coke; of coal, lignite or peat, whether or not agglomerated; retort carbon",
    "level": 8,
    "chapter": "27",
    "description": "Hard coke of coal",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "27040040",
+   "hs6": "270400",
+   "hs6_description": "Coke and semi-coke; of coal, lignite or peat, whether or not agglomerated; retort carbon",
    "level": 8,
    "chapter": "27",
    "description": "Soft coke of coal",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "27040090",
+   "hs6": "270400",
+   "hs6_description": "Coke and semi-coke; of coal, lignite or peat, whether or not agglomerated; retort carbon",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "27050000",
+   "hs6": "270500",
+   "hs6_description": "Gases; coal, water, producer and similar gases (excluding petroleum and other gaseous hydrocarbons)",
    "level": 8,
    "chapter": "27",
    "description": "Coal gas, water gas, producer gas and similar gases, other than petroleum gases and other gaseous hydrocarbons",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "2706",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "Tar distilled from coal, from lignite or from peat, and other mineral tars, whether or not dehydrated or partially distilled, including reconstituted tars.",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "270600",
+   "hs6": "270600",
+   "hs6_description": "Tar; distilled from coal, lignite or peat, and other mineral tars, whether or not dehydrated or partially distilled, including reconstituted tars",
    "level": 6,
    "chapter": "27",
    "description": "Tar distilled from coal, from lignite or from peat and other mineral tars, whether or not dehydrated or partially distilled, including reconstituted tars :",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "27060010",
+   "hs6": "270600",
+   "hs6_description": "Tar; distilled from coal, lignite or peat, and other mineral tars, whether or not dehydrated or partially distilled, including reconstituted tars",
    "level": 8,
    "chapter": "27",
    "description": "Coal tar",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "27060090",
+   "hs6": "270600",
+   "hs6_description": "Tar; distilled from coal, lignite or peat, and other mineral tars, whether or not dehydrated or partially distilled, including reconstituted tars",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "2707",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents.",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "27071000",
+   "hs6": "270710",
+   "hs6_description": "Oils and products of the distillation of high temperature coal tar; benzol (benzene)",
    "level": 8,
    "chapter": "27",
    "description": "Benzol (benzene)",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "27072000",
+   "hs6": "270720",
+   "hs6_description": "Oils and products of the distillation of high temperature coal tar; toluol (toluene)",
    "level": 8,
    "chapter": "27",
    "description": "Toluol (toluene)",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "27073000",
+   "hs6": "270730",
+   "hs6_description": "Oils and products of the distillation of high temperature coal tar; xylol (xylenes)",
    "level": 8,
    "chapter": "27",
    "description": "Xylol (xylenes)",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "27074000",
+   "hs6": "270740",
+   "hs6_description": "Oils and products of the distillation of high temperature coal tar; naphthalene",
    "level": 8,
    "chapter": "27",
    "description": "Naphthalene",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "27075000",
+   "hs6": "270750",
+   "hs6_description": "Aromatic hydrocarbon mixtures; n.e.c. in heading no. 2707, of which 65% or more by volume (including losses) distils at 250 degrees Celsius by the ISO 3405 method (equivalent to the ASTM D 86 method)",
    "level": 8,
    "chapter": "27",
    "description": "Other aromatic hydrocarbon mixtures of which 65 percent or more by volume (including losses) distils at 250 °C by the ISO 3405 method (equivalent to the ASTM D 86 method",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "27079100",
+   "hs6": "270791",
+   "hs6_description": "Oils and other products of the distillation of high temperature coal tar; creosote oils",
    "level": 8,
    "chapter": "27",
    "description": "Other : -- Creosote oils",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "27079900",
+   "hs6": "270799",
+   "hs6_description": "Oils and other products of the distillation of high temperature coal tar; n.e.c. in heading no. 2707",
    "level": 8,
    "chapter": "27",
    "description": "Other : -- Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "2708",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "Pitch and pitch coke, obtained from coal tar or from other mineral tars.",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "270810",
+   "hs6": "270810",
+   "hs6_description": "Pitch; obtained from coal tar or from other mineral tars",
    "level": 6,
    "chapter": "27",
    "description": "Pitch",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "27081010",
+   "hs6": "270810",
+   "hs6_description": "Pitch; obtained from coal tar or from other mineral tars",
    "level": 8,
    "chapter": "27",
    "description": "Obtained by blending with creosote oil or other coal tar distillates",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "27081090",
+   "hs6": "270810",
+   "hs6_description": "Pitch; obtained from coal tar or from other mineral tars",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "27082000",
+   "hs6": "270820",
+   "hs6_description": "Pitch coke; obtained from coal tar or from other mineral tars",
    "level": 8,
    "chapter": "27",
    "description": "Pitch coke",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "2709",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, CRUDE",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "270900",
+   "hs6": "270900",
+   "hs6_description": "Oils; petroleum oils and oils obtained from bituminous minerals, crude",
    "level": 6,
    "chapter": "27",
    "description": "PETROLEUM OILS AND OILS OBTAINED FROM BITUMINOUS MINERALS, CRUDE",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "27090010",
+   "hs6": "270900",
+   "hs6_description": "Oils; petroleum oils and oils obtained from bituminous minerals, crude",
    "level": 8,
    "chapter": "27",
    "description": "PETROLEUM CRUDE",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "27090090",
+   "hs6": "270900",
+   "hs6_description": "Oils; petroleum oils and oils obtained from bituminous minerals, crude",
    "level": 8,
    "chapter": "27",
    "description": "OTHER",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "2710",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 percent or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils.",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "271012",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 6,
    "chapter": "27",
    "description": "Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70 percent or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, other than those containing biodiesel and other than waste oils : --Light oils and preparations",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "27101221",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Naphtha ---- Light naphtha",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "27101222",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Naphtha ---- Heavy naphtha",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "27101229",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Naphtha ---- Full range naphtha",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "27101231",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Solvent 60/80, solvent 50/120 and solvent 145/205 (petroleum hydrocarbon solvents) as specified under standard IS 1745: ---- Solvent 60/80",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "27101232",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Solvent 60/80, solvent 50/120 and solvent 145/205 (petroleum hydrocarbon solvents) as specified under standard IS 1745: ---- Solvent 50/120",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "27101239",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Solvent 60/80, solvent 50/120 AND solvent 145/205 (petroleum hydrocarbon solvents) AS specified under standard IS 1745: ---- Solvent 145/205",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "27101241",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Motor gasoline conforming to standard IS 2796,IS 17021, IS 17586 or IS 17076: ----Motor gasoline conforming to standard IS 2796",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "27101242",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Motor gasoline conforming to standard IS 2796,IS 17021, IS 17586 or IS 17076: ----E 20 fuel conforming to standard IS 17021",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "27101243",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Motor gasoline conforming to standard IS 2796,IS 17021, IS 17586 orIS 17076: ---- E 12 fuel conforming to standard IS 17586",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "27101244",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Motor gasoline conforming to standard IS 2796,IS 17021, IS 17586 orIS 17076: ---- E 15 fuel conforming to standard IS 17586",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "27101249",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Motor gasoline conforming to standard IS 2796,IS 17021, IS 17586 or IS 17076: ----M15 fuel conforming to standard IS 17076",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "27101250",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Aviation gasoline conforming to standard IS 1604",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "27101290",
+   "hs6": "271012",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "271019",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 6,
    "chapter": "27",
    "description": "Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70 percent or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, other than those containing biodiesel and other than waste oils : -- Other",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "27101920",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Solvent 125/240 (petroleum hydrocarbon solvent) as specified under standard IS 1745",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "27101931",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Kerosene intermediate and oils obtained from kerosene intermediate: ---- Kerosene intermediate",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "27101932",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Kerosene intermediate and oils obtained from kerosene intermediate: ---- Kerosene conforming to standard IS 1459",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "27101933",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Blended Aviation turbine fuel",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "27101939",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Kerosene intermediate and oils obtained from kerosene intermediate: ---- Aviation turbine fuels, kerosene type conforming to standard IS 1571",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "27101941",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Gas oil and oils obtained from gas oil: ---- Gas oil",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "27101942",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Gas oil and oils obtained from gas oil: ---- Vacuum gas oil",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "27101943",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Gas oil and oils obtained from gas oil: ---- Light diesel oil conforming to standard IS 15770",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "27101944",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Gas oil and oils obtained from gas oil: ---- Automotive diesel fuel, not containing biodiesel, conforming to standard IS 1460",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "27101949",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Gas oil and oils obtained from gas oil: ---- High flash high speed diesel fuel conforming to standard IS 16861",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "27101951",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Fuel oils conforming to standard IS 1593: ---- Grade LV",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "27101952",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Fuel oils conforming to standard IS 1593: ---- Grade MV1",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "27101953",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Fuel oils conforming to standard IS 1593: ---- Grade MV2",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "27101959",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Fuel oils conforming to standard IS 1593: ---- Grade HV",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "27101961",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Fuels (Class F) or marine fuels conforming to standard IS 16731: ---- Distillate oil",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "27101969",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Fuels (Class F) or marine fuels conforming to standard IS 16731: ---- Residual oil",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "27101971",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Base oil and lubricating oil: ---- Base oil",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "27101972",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Base oil and lubricating oil: ---- Engine oil (internal combustion engine crankcase oils) conforming to standard IS 13656",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "27101973",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Base oil and lubricating oil: ---- Engine oil conforming to standard IS 14234",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "27101974",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Base oil and lubricating oil: ---- Automotive gear oil conforming to standard IS 1118",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "27101975",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Base oil and lubricating oil: ---- Industrial gear oil conforming to standard IS 8406",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "27101976",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Base oil and lubricating oil: ---- General purpose machinery and spindle oils conforming to standard IS 493",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "27101977",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Base oil and lubricating oil: ---- Turbine lubricating oil conforming to standard IS 1012",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "27101978",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Base oil and lubricating oil: ---- Other lubricating oil, conforming to any other BIS standard",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "27101979",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Base oil and lubricating oil: ---- Other lubricating oil, not conforming to any BIS standard",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "27101981",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Cutting oil conforming to standard IS 1115",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "27101982",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Cutting oil (neat) conforming to standard IS 3065",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "27101983",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Hydraulic oil conforming to standard IS 3098 or IS 11656",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "27101984",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Industrial white oil conforming to standard IS 1083",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "27101985",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Insulating oil for transformer and circuit-breaker (transformer and circuit-breaker oils) conforming to standard IS 335 or IS 12463",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "27101986",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Mineral oil for cosmetic industry conforming to standard IS 7299",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "27101987",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ----Jute batching oil conforming to standard IS 1758",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "27101988",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: ---- Other cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry, transformer oil conforming to any other BIS standard",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "27101989",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry,B77 transformer oil: --- Other cutting oil, hydraulic oil, industrial white oil, jute batching oil, mineral oil for cosmetic industry, transformer oil, not conforming to any BIS standard",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "27101990",
+   "hs6": "271019",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "271020",
+   "hs6": "271020",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals",
    "level": 6,
    "chapter": "27",
    "description": "Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, containing biodiesel, other than waste oils:",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "27102010",
+   "hs6": "271020",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals",
    "level": 8,
    "chapter": "27",
    "description": "Automotive diesel fuel, containing biodiesel, conforming to standard IS 1460",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "27102020",
+   "hs6": "271020",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals",
    "level": 8,
    "chapter": "27",
    "description": "Diesel fuel blend (B6 to B20) conforming to standard IS 16531",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "27102090",
+   "hs6": "271020",
+   "hs6_description": "Petroleum oils and oils from bituminous minerals, containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "27109110",
+   "hs6": "271091",
+   "hs6_description": "Waste Oils; of petroleum or obtained from bituminous minerals, not crude; and preparations n.e.c., weight 70% or preparations of the same, containing polychlorinated biphenyls (PCBs), polychorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs)",
    "level": 8,
    "chapter": "27",
    "description": "--- Containing polychlorinated biphenyls (PCBs) at a concentration level of 50 mg/kg or more",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "27109120",
+   "hs6": "271091",
+   "hs6_description": "Waste Oils; of petroleum or obtained from bituminous minerals, not crude; and preparations n.e.c., weight 70% or preparations of the same, containing polychlorinated biphenyls (PCBs), polychorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs)",
    "level": 8,
    "chapter": "27",
    "description": "Other, containing polychlorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs), whether or not also containing polychlorinated biphenyls (PCBs) at a concentration level of less than 50 mg/kg",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "27109190",
+   "hs6": "271091",
+   "hs6_description": "Waste Oils; of petroleum or obtained from bituminous minerals, not crude; and preparations n.e.c., weight 70% or preparations of the same, containing polychlorinated biphenyls (PCBs), polychorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs)",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "27109900",
+   "hs6": "271099",
+   "hs6_description": "Waste Oils; of petroleum or obtained from bituminous minerals, not crude and preparations n.e.c., weight 70% or preparations of the same, not containing polychlorinated biphenyls (PCBs), polychorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs)",
    "level": 8,
    "chapter": "27",
    "description": "Waste oils : -- Other",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "2711",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "Petroleum gases and other gaseous hydrocarbons.",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "27111100",
+   "hs6": "271111",
+   "hs6_description": "Petroleum gases and other gaseous hydrocarbons; liquefied, natural gas",
    "level": 8,
    "chapter": "27",
    "description": "Liquefied : -- Natural gas",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "27111200",
+   "hs6": "271112",
+   "hs6_description": "Petroleum gases and other gaseous hydrocarbons; liquefied, propane",
    "level": 8,
    "chapter": "27",
    "description": "Liquefied : -- Propane",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "27111300",
+   "hs6": "271113",
+   "hs6_description": "Petroleum gases and other gaseous hydrocarbons; liquefied, butanes",
    "level": 8,
    "chapter": "27",
    "description": "Liquefied : -- Butanes",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "27111400",
+   "hs6": "271114",
+   "hs6_description": "Petroleum gases and other gaseous hydrocarbons; liquefied, ethylene, propylene, butylene and butadiene",
    "level": 8,
    "chapter": "27",
    "description": "Liquefied : -- Ethylene, propylene, butylene and butadiene",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "271119",
+   "hs6": "271119",
+   "hs6_description": "Petroleum gases and other gaseous hydrocarbons; liquefied, n.e.c. in heading no. 2711",
    "level": 6,
    "chapter": "27",
    "description": "Liquefied : -- Other",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "27111910",
+   "hs6": "271119",
+   "hs6_description": "Petroleum gases and other gaseous hydrocarbons; liquefied, n.e.c. in heading no. 2711",
    "level": 8,
    "chapter": "27",
    "description": "LPG (for non-automotive purposes) conforming to standard IS 4576",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "27111920",
+   "hs6": "271119",
+   "hs6_description": "Petroleum gases and other gaseous hydrocarbons; liquefied, n.e.c. in heading no. 2711",
    "level": 8,
    "chapter": "27",
    "description": "LPG (for automotive purposes) conforming to standard IS 14861",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "27111990",
+   "hs6": "271119",
+   "hs6_description": "Petroleum gases and other gaseous hydrocarbons; liquefied, n.e.c. in heading no. 2711",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "27112100",
+   "hs6": "271121",
+   "hs6_description": "Petroleum gases and other gaseous hydrocarbons; in gaseous state, natural gas",
    "level": 8,
    "chapter": "27",
    "description": "In gaseous state : -- Natural gas",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "27112900",
+   "hs6": "271129",
+   "hs6_description": "Petroleum gases and other gaseous hydrocarbons; in gaseous state, other than natural gas",
    "level": 8,
    "chapter": "27",
    "description": "In gaseous state : -- Other",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "2712",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "Petroleum jelly; paraffin wax, micro-crystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured.",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "271210",
+   "hs6": "271210",
+   "hs6_description": "Petroleum jelly",
    "level": 6,
    "chapter": "27",
    "description": "Petroleum jelly",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "27121010",
+   "hs6": "271210",
+   "hs6_description": "Petroleum jelly",
    "level": 8,
    "chapter": "27",
    "description": "Crude",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "27121090",
+   "hs6": "271210",
+   "hs6_description": "Petroleum jelly",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "271290",
+   "hs6": "271290",
+   "hs6_description": "Paraffin wax; containing by weight 0.75% or more of oil, obtained by synthesis or by other processes, whether or not coloured",
    "level": 6,
    "chapter": "27",
    "description": "Other",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "27129010",
+   "hs6": "271290",
+   "hs6_description": "Paraffin wax; containing by weight 0.75% or more of oil, obtained by synthesis or by other processes, whether or not coloured",
    "level": 8,
    "chapter": "27",
    "description": "Micro-CrystallinePetroleum wax",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "27129020",
+   "hs6": "271290",
+   "hs6_description": "Paraffin wax; containing by weight 0.75% or more of oil, obtained by synthesis or by other processes, whether or not coloured",
    "level": 8,
    "chapter": "27",
    "description": "Lignite wax",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "27129030",
+   "hs6": "271290",
+   "hs6_description": "Paraffin wax; containing by weight 0.75% or more of oil, obtained by synthesis or by other processes, whether or not coloured",
    "level": 8,
    "chapter": "27",
    "description": "Slack wax",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "27129040",
+   "hs6": "271290",
+   "hs6_description": "Paraffin wax; containing by weight 0.75% or more of oil, obtained by synthesis or by other processes, whether or not coloured",
    "level": 8,
    "chapter": "27",
    "description": "Parafin wax containing by weight 0.75% or more of oil",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "27129090",
+   "hs6": "271290",
+   "hs6_description": "Paraffin wax; containing by weight 0.75% or more of oil, obtained by synthesis or by other processes, whether or not coloured",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "2713",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals.",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "271311",
+   "hs6": "271311",
+   "hs6_description": "Petroleum coke; (not calcined), obtained from bituminous minerals",
    "level": 6,
    "chapter": "27",
    "description": "Petroleum coke : -- Not calcined",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "27131110",
+   "hs6": "271311",
+   "hs6_description": "Petroleum coke; (not calcined), obtained from bituminous minerals",
    "level": 8,
    "chapter": "27",
    "description": "Raw petroleum coke for anode making in aluminium industry conforming to standard IS 17049",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "27131190",
+   "hs6": "271311",
+   "hs6_description": "Petroleum coke; (not calcined), obtained from bituminous minerals",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "271312",
+   "hs6": "271312",
+   "hs6_description": "Petroleum coke; calcined, obtained from bituminous minerals",
    "level": 6,
    "chapter": "27",
    "description": "Petroleum coke : -- Calcined",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "27131210",
+   "hs6": "271312",
+   "hs6_description": "Petroleum coke; calcined, obtained from bituminous minerals",
    "level": 8,
    "chapter": "27",
    "description": "Calcined petroleum coke for anode making in aluminum industry conforming to standard IS 17049",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "27131290",
+   "hs6": "271312",
+   "hs6_description": "Petroleum coke; calcined, obtained from bituminous minerals",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "27132000",
+   "hs6": "271320",
+   "hs6_description": "Petroleum bitumen; obtained from bituminous minerals",
    "level": 8,
    "chapter": "27",
    "description": "Petroleum bitumen",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "27139000",
+   "hs6": "271390",
+   "hs6_description": "Residues; of petroleum oils or of oils obtained from bituminous minerals",
    "level": 8,
    "chapter": "27",
    "description": "other residues of petroleum oils or of oils obtained from bituminous minerals",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "2714",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "Bitumen and asphalt, natural; bituminous or oil shale and tar sands; asphaltites and asphaltic rocks.",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "27141000",
+   "hs6": "271410",
+   "hs6_description": "Bituminous or oil shale and tar sands",
    "level": 8,
    "chapter": "27",
    "description": "Bituminous or oil shale and tar sands",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "271490",
+   "hs6": "271490",
+   "hs6_description": "Bitumen and asphalt, natural; asphaltites and asphaltic rock",
    "level": 6,
    "chapter": "27",
    "description": "Other",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "27149010",
+   "hs6": "271490",
+   "hs6_description": "Bitumen and asphalt, natural; asphaltites and asphaltic rock",
    "level": 8,
    "chapter": "27",
    "description": "Asphalt, natural",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "27149020",
+   "hs6": "271490",
+   "hs6_description": "Bitumen and asphalt, natural; asphaltites and asphaltic rock",
    "level": 8,
    "chapter": "27",
    "description": "Bitumen, natural",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "27149030",
+   "hs6": "271490",
+   "hs6_description": "Bitumen and asphalt, natural; asphaltites and asphaltic rock",
    "level": 8,
    "chapter": "27",
    "description": "Gilsonete",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "27149090",
+   "hs6": "271490",
+   "hs6_description": "Bitumen and asphalt, natural; asphaltites and asphaltic rock",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "2715",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "27",
    "description": "Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs).",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "271500",
+   "hs6": "271500",
+   "hs6_description": "Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (e.g. bituminous mastics, cut-backs)",
    "level": 6,
    "chapter": "27",
    "description": "Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut backs) :",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "27150010",
+   "hs6": "271500",
+   "hs6_description": "Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (e.g. bituminous mastics, cut-backs)",
    "level": 8,
    "chapter": "27",
    "description": "Cut back, bituminous or asphalt",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "27150090",
+   "hs6": "271500",
+   "hs6_description": "Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (e.g. bituminous mastics, cut-backs)",
    "level": 8,
    "chapter": "27",
    "description": "Other",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "27160000",
+   "hs6": "271600",
+   "hs6_description": "Electrical energy",
    "level": 8,
    "chapter": "27",
    "description": "Electrical Energy",

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "0401",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "04",
    "description": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "04011000",
+   "hs6": "040110",
+   "hs6_description": "Dairy produce; milk and cream, not concentrated, not containing added sugar or other sweetening matter, of a fat content, by weight, not exceeding 1%",
    "level": 8,
    "chapter": "04",
    "description": "Of a fat content, by weight, not exceeding 1 percent",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "04012000",
+   "hs6": "040120",
+   "hs6_description": "Dairy produce; milk and cream, not concentrated, not containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 1% but not exceeding 6%",
    "level": 8,
    "chapter": "04",
    "description": "Of a fat content, by weight, exceeding 1 percent but not exceeding 6 percent",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "04014000",
+   "hs6": "040140",
+   "hs6_description": "Dairy produce; milk and cream, not concentrated, not containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 6% but not exceeding 10%",
    "level": 8,
    "chapter": "04",
    "description": "Of a fat content, by weight, exceeding 6 percent but not exceeding 10percent",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "04015000",
+   "hs6": "040150",
+   "hs6_description": "Dairy produce; milk and cream, not concentrated, not containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 10%",
    "level": 8,
    "chapter": "04",
    "description": "Of a fat content, by weight, exceeding 10 percent",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "0402",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "04",
    "description": "Milk and cream, concentrated or containing added sugar or other sweetening matter.",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "040210",
+   "hs6": "040210",
+   "hs6_description": "Dairy produce; milk and cream, concentrated or containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content not exceeding 1.5% (by weight)",
    "level": 6,
    "chapter": "04",
    "description": "In powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5 percent",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "04021010",
+   "hs6": "040210",
+   "hs6_description": "Dairy produce; milk and cream, concentrated or containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content not exceeding 1.5% (by weight)",
    "level": 8,
    "chapter": "04",
    "description": "Skimmed Milk",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "04021020",
+   "hs6": "040210",
+   "hs6_description": "Dairy produce; milk and cream, concentrated or containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content not exceeding 1.5% (by weight)",
    "level": 8,
    "chapter": "04",
    "description": "Milk food for babies",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "04021090",
+   "hs6": "040210",
+   "hs6_description": "Dairy produce; milk and cream, concentrated or containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content not exceeding 1.5% (by weight)",
    "level": 8,
    "chapter": "04",
    "description": "Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "04022100",
+   "hs6": "040221",
+   "hs6_description": "Dairy produce; milk and cream, concentrated, not containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content exceeding 1.5% (by weight)",
    "level": 8,
    "chapter": "04",
    "description": "In powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 percent : -- Not containing added sugar or other sweetening matter",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "040229",
+   "hs6": "040229",
+   "hs6_description": "Dairy produce; milk and cream, containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content exceeding 1.5% (by weight)",
    "level": 6,
    "chapter": "04",
    "description": "In powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 percent : -- Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "04022910",
+   "hs6": "040229",
+   "hs6_description": "Dairy produce; milk and cream, containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content exceeding 1.5% (by weight)",
    "level": 8,
    "chapter": "04",
    "description": "Whole milk",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "04022920",
+   "hs6": "040229",
+   "hs6_description": "Dairy produce; milk and cream, containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content exceeding 1.5% (by weight)",
    "level": 8,
    "chapter": "04",
    "description": "Milk for babies",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "04022990",
+   "hs6": "040229",
+   "hs6_description": "Dairy produce; milk and cream, containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content exceeding 1.5% (by weight)",
    "level": 8,
    "chapter": "04",
    "description": "Other Other:",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "040291",
+   "hs6": "040291",
+   "hs6_description": "Dairy produce; milk and cream, concentrated, not containing added sugar or other sweetening matter, other than in powder, granules or other solid forms",
    "level": 6,
    "chapter": "04",
    "description": "Other : -- Not containing added sugar or other sweetening matter",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "04029110",
+   "hs6": "040291",
+   "hs6_description": "Dairy produce; milk and cream, concentrated, not containing added sugar or other sweetening matter, other than in powder, granules or other solid forms",
    "level": 8,
    "chapter": "04",
    "description": "Condensed milk",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "04029190",
+   "hs6": "040291",
+   "hs6_description": "Dairy produce; milk and cream, concentrated, not containing added sugar or other sweetening matter, other than in powder, granules or other solid forms",
    "level": 8,
    "chapter": "04",
    "description": "Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "040299",
+   "hs6": "040299",
+   "hs6_description": "Dairy produce; milk and cream, containing added sugar or other sweetening matter, other than in powder, granules or other solid forms",
    "level": 6,
    "chapter": "04",
    "description": "Other : -- Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "04029910",
+   "hs6": "040299",
+   "hs6_description": "Dairy produce; milk and cream, containing added sugar or other sweetening matter, other than in powder, granules or other solid forms",
    "level": 8,
    "chapter": "04",
    "description": "Whole Milk",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "04029920",
+   "hs6": "040299",
+   "hs6_description": "Dairy produce; milk and cream, containing added sugar or other sweetening matter, other than in powder, granules or other solid forms",
    "level": 8,
    "chapter": "04",
    "description": "Condensed Milk",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "04029990",
+   "hs6": "040299",
+   "hs6_description": "Dairy produce; milk and cream, containing added sugar or other sweetening matter, other than in powder, granules or other solid forms",
    "level": 8,
    "chapter": "04",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "0403",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "04",
    "description": "YOGURT; BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED OR CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED OR CONTAINING ADDED FRUIT, NUTS OR COCOA",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "04032000",
+   "hs6": "040320",
+   "hs6_description": "Dairy produce; yoghurt, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa",
    "level": 8,
    "chapter": "04",
    "description": "Yogurt",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "040390",
+   "hs6": "040390",
+   "hs6_description": "Dairy produce; buttermilk, curdled milk or cream, kephir, fermented or acidified milk or cream, whether or not concentrated or containing added sweetening, flavouring, fruit, nuts or cocoa (excluding yoghurt)",
    "level": 6,
    "chapter": "04",
    "description": "Other :",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "04039010",
+   "hs6": "040390",
+   "hs6_description": "Dairy produce; buttermilk, curdled milk or cream, kephir, fermented or acidified milk or cream, whether or not concentrated or containing added sweetening, flavouring, fruit, nuts or cocoa (excluding yoghurt)",
    "level": 8,
    "chapter": "04",
    "description": "Butter milk",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "04039090",
+   "hs6": "040390",
+   "hs6_description": "Dairy produce; buttermilk, curdled milk or cream, kephir, fermented or acidified milk or cream, whether or not concentrated or containing added sweetening, flavouring, fruit, nuts or cocoa (excluding yoghurt)",
    "level": 8,
    "chapter": "04",
    "description": "Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "0404",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "04",
    "description": "Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included.",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "040410",
+   "hs6": "040410",
+   "hs6_description": "Dairy produce; whey, whether or not concentrated or containing added sugar or other sweetening matter",
    "level": 6,
    "chapter": "04",
    "description": "Whey and modified whey, whether or not concentrated or containing added sugar or other sweetening matter",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "04041010",
+   "hs6": "040410",
+   "hs6_description": "Dairy produce; whey, whether or not concentrated or containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "04",
    "description": "Whey, concentrated, evaporated or condensed, liquid or semi-solid",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "04041020",
+   "hs6": "040410",
+   "hs6_description": "Dairy produce; whey, whether or not concentrated or containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "04",
    "description": "Whey, dry, blocks and powdered",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "04041090",
+   "hs6": "040410",
+   "hs6_description": "Dairy produce; whey, whether or not concentrated or containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "04",
    "description": "Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "04049000",
+   "hs6": "040490",
+   "hs6_description": "Dairy produce; natural milk constituents (excluding whey), whether or not containing added sugar or other sweetening matter, n.e.c. in chapter 04",
    "level": 8,
    "chapter": "04",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "0405",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "04",
    "description": "Butter and other fats and oils derived from milk; dairy spreads.",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "04051000",
+   "hs6": "040510",
+   "hs6_description": "Dairy produce; derived from milk, butter",
    "level": 8,
    "chapter": "04",
    "description": "Butter",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "04052000",
+   "hs6": "040520",
+   "hs6_description": "Dairy produce; dairy spreads",
    "level": 8,
    "chapter": "04",
    "description": "Dairy spreads",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "040590",
+   "hs6": "040590",
+   "hs6_description": "Dairy produce; fats and oils derived from milk (other than butter or dairy spreads)",
    "level": 6,
    "chapter": "04",
    "description": "Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "04059010",
+   "hs6": "040590",
+   "hs6_description": "Dairy produce; fats and oils derived from milk (other than butter or dairy spreads)",
    "level": 8,
    "chapter": "04",
    "description": "Butter Oil",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "04059020",
+   "hs6": "040590",
+   "hs6_description": "Dairy produce; fats and oils derived from milk (other than butter or dairy spreads)",
    "level": 8,
    "chapter": "04",
    "description": "Ghee",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "04059090",
+   "hs6": "040590",
+   "hs6_description": "Dairy produce; fats and oils derived from milk (other than butter or dairy spreads)",
    "level": 8,
    "chapter": "04",
    "description": "Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "0406",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "04",
    "description": "Cheese and curd.",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "040610",
+   "hs6": "040610",
+   "hs6_description": "Dairy produce; fresh cheese (including whey cheese), not fermented, and curd",
    "level": 6,
    "chapter": "04",
    "description": "Fresh (unripened or uncured) cheese, including whey cheese, and curd :",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "04061010",
+   "hs6": "040610",
+   "hs6_description": "Dairy produce; fresh cheese (including whey cheese), not fermented, and curd",
    "level": 8,
    "chapter": "04",
    "description": "Mozzarella cheese",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "04061090",
+   "hs6": "040610",
+   "hs6_description": "Dairy produce; fresh cheese (including whey cheese), not fermented, and curd",
    "level": 8,
    "chapter": "04",
    "description": "Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "04062000",
+   "hs6": "040620",
+   "hs6_description": "Dairy produce; cheese of all kinds, grated or powdered",
    "level": 8,
    "chapter": "04",
    "description": "Grated or powdered cheese, of all kinds",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "04063000",
+   "hs6": "040630",
+   "hs6_description": "Dairy produce; cheese, processed (not grated or powdered)",
    "level": 8,
    "chapter": "04",
    "description": "Processed cheese, not grated or powdered",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "04064000",
+   "hs6": "040640",
+   "hs6_description": "Dairy produce; cheese, blue-veined and other cheese containing veins produced by Penicillium roqueforti (not grated, powdered or processed)",
    "level": 8,
    "chapter": "04",
    "description": "Blue-veined cheese and other cheese containing veins produced by Penicillium roqueforti",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "04069000",
+   "hs6": "040690",
+   "hs6_description": "Dairy produce; cheese (not grated, powdered or processed), n.e.c. in heading no. 0406",
    "level": 8,
    "chapter": "04",
    "description": "Other cheese",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "0407",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "04",
    "description": "Birds eggs, in shell, fresh, preserved or cooked.",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "04071100",
+   "hs6": "040711",
+   "hs6_description": "Birds' eggs, in shell; fresh, fertilised eggs for incubation, of fowls of the species Gallus domesticus (domestic hens)",
    "level": 8,
    "chapter": "04",
    "description": "Fertilised eggs for incubation : -- Of fowls of the species Gallus domesticus",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "040719",
+   "hs6": "040719",
+   "hs6_description": "Birds' eggs, in shell; fresh, fertilised eggs for incubation, other than fowls of the species Gallus domesticus (domestic hens)",
    "level": 6,
    "chapter": "04",
    "description": "Fertilised eggs for incubation : -- Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "04071910",
+   "hs6": "040719",
+   "hs6_description": "Birds' eggs, in shell; fresh, fertilised eggs for incubation, other than fowls of the species Gallus domesticus (domestic hens)",
    "level": 8,
    "chapter": "04",
    "description": "Of ducks",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "04071990",
+   "hs6": "040719",
+   "hs6_description": "Birds' eggs, in shell; fresh, fertilised eggs for incubation, other than fowls of the species Gallus domesticus (domestic hens)",
    "level": 8,
    "chapter": "04",
    "description": "Other",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "04072100",
+   "hs6": "040721",
+   "hs6_description": "Birds' eggs, in shell; fresh, not for incubation, of fowls of the species Gallus domesticus (domestic hens)",
    "level": 8,
    "chapter": "04",
    "description": "Other fresh eggs : -- Of fowls of the species Gallus domesticus",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "04072900",
+   "hs6": "040729",
+   "hs6_description": "Birds' eggs, in shell; fresh, not for incubation, other than fowls of the species Gallus domesticus (domestic hens)",
    "level": 8,
    "chapter": "04",
    "description": "Other fresh eggs : -- Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "04079000",
+   "hs6": "040790",
+   "hs6_description": "Birds' eggs, in shell; preserved or cooked",
    "level": 8,
    "chapter": "04",
    "description": "Others",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "0408",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "04",
    "description": "Birds eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter.",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "04081100",
+   "hs6": "040811",
+   "hs6_description": "Eggs; birds' eggs, yolks, dried, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "04",
    "description": "Egg yolks : -- Dried",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "04081900",
+   "hs6": "040819",
+   "hs6_description": "Eggs; birds' eggs, yolks, fresh, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "04",
    "description": "Egg yolks : -- Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "04089100",
+   "hs6": "040891",
+   "hs6_description": "Eggs; birds' eggs (not in shell, excluding yolks only), dried, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "04",
    "description": "Other : -- Dried",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "04089900",
+   "hs6": "040899",
+   "hs6_description": "Eggs; birds' eggs (not in shell, excluding yolks only), fresh, cooked by steaming or boiling in water, moulded, frozen, otherwise preserved, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "04",
    "description": "Other -- Other",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "04090000",
+   "hs6": "040900",
+   "hs6_description": "Honey; natural",
    "level": 8,
    "chapter": "04",
    "description": "Natural Honey",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "0410",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "04",
    "description": "INSECTS AND OTHER EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "041010",
+   "hs6": "041010",
+   "hs6_description": "Animal products; insects",
    "level": 6,
    "chapter": "04",
    "description": "Insects:",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "04101010",
+   "hs6": "041010",
+   "hs6_description": "Animal products; insects",
    "level": 8,
    "chapter": "04",
    "description": "Fresh, chilled or frozen",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "04101020",
+   "hs6": "041010",
+   "hs6_description": "Animal products; insects",
    "level": 8,
    "chapter": "04",
    "description": "Salted, in brine, dried or smoked",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "04101090",
+   "hs6": "041010",
+   "hs6_description": "Animal products; insects",
    "level": 8,
    "chapter": "04",
    "description": "Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "041090",
+   "hs6": "041090",
+   "hs6_description": "Animal products; edible products of animal origin, not elsewhere specified or included, other than insects",
    "level": 6,
    "chapter": "04",
    "description": "Other:",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "04109010",
+   "hs6": "041090",
+   "hs6_description": "Animal products; edible products of animal origin, not elsewhere specified or included, other than insects",
    "level": 8,
    "chapter": "04",
    "description": "Of wild animals",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "04109020",
+   "hs6": "041090",
+   "hs6_description": "Animal products; edible products of animal origin, not elsewhere specified or included, other than insects",
    "level": 8,
    "chapter": "04",
    "description": "Turtle eggs and Salanganes nests (birds nests)",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "04109090",
+   "hs6": "041090",
+   "hs6_description": "Animal products; edible products of animal origin, not elsewhere specified or included, other than insects",
    "level": 8,
    "chapter": "04",
    "description": "Other",

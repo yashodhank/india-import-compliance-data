@@ -1,82 +1,82 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-5601,4,56,"Wadding of textile materials and articles thereof; textile fibres, not exceeding 5 mm in length (flock), textile dust and mill neps.",,,,,,2026-10-22
-560121,6,56,Wadding of textile materials and articles thereof : -- Of cotton,,,,,,2026-10-22
-56012110,8,56,Absorbent cotton wool,Free,,,,,2026-10-22
-56012190,8,56,Other,Free,,,,,2026-10-22
-56012200,8,56,Wadding of textile materials and articles thereof : -- Of man-made fibres,Free,,,,,2026-10-22
-56012900,8,56,Wadding of textile materials and articles thereof : -- Other,Free,,,,,2026-10-22
-56013000,8,56,Textile flock and dust and mill neps,Free,,,,,2026-10-22
-5602,4,56,"Felt, whether or not impregnated, coated, covered or laminated.",,,,,,2026-10-22
-56021000,8,56,Needleloom felt and stitch-bonded fibre fabrics,Free,,,,,2026-10-22
-56022100,8,56,"Other felt, not impregnated, coated, covered or laminated : -- Of wool or fine animal hair",Free,,,,,2026-10-22
-560229,6,56,"Other felt, not impregnated, coated, covered or laminated : -- Of other textile materials",,,,,,2026-10-22
-56022910,8,56,Of machines other than cotton machinery,Free,,,,,2026-10-22
-56022920,8,56,"Of jute (including blanded or union jute), other than for machinery",Free,,,,,2026-10-22
-56022990,8,56,Other,Free,,,,,2026-10-22
-560290,6,56,Other,,,,,,2026-10-22
-56029010,8,56,"of Rubberized Coir, needled felt",Free,,,,,2026-10-22
-5603,4,56,"Nonwovens, whether or not impregnated, coated, covered or laminated.",,,,,,2026-10-22
-560311,6,56,Of man-made filaments : -- Weighing not more than 25 g/m²,,,,,,2026-10-22
-56031110,8,56,"Of man-made filaments : --- Crop covers, conforming to IS 16366",Free,-,,20/2015-2020,2022-07-07,2026-10-22
-56031190,8,56,Of man-made filaments : --- Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-560312,6,56,Of man-made filaments : -- Weighing more than 25 g/m² but not more than 70 g/m²,,,,,,2026-10-22
-56031200,8,56,Of man-made filaments : -- Weighing more than 25 g/m² but not more than 70 g/m²,Free,,,,,2026-10-22
-560313,6,56,Of man-made filaments : --Weighing more than 70 g/m² but not more than 150 g/m²,,,,,,2026-10-22
-56031300,8,56,Of man-made filaments : --Weighing more than 70 g/m² but not more than 150 g/m²,Free,,,,,2026-10-22
-560314,6,56,Of man-made filaments : -- Weighing more than 150 g/m²,,,,,,2026-10-22
-56031400,8,56,Of man-made filaments : -- Weighing more than 150 g/m²,Free,,,,,2026-10-22
-560391,6,56,Other : -- Weighing not more than 25 g/m²,,,,,,2026-10-22
-56039100,8,56,Other : -- Weighing not more than 25 g/m²,Free,,,,,2026-10-22
-560392,6,56,Other : -- Weighing more than 25 g/m² but not more than 70 g/m²,,,,,,2026-10-22
-56039200,8,56,Other : -- Weighing more than 25 g/m² but not more than 70 g/m²,Free,,,,,2026-10-22
-560393,6,56,Other : -- Weighing more than 70 g/m² but not more than 150 g/m²,,,,,,2026-10-22
-56039310,8,56,"Mulch Mats, conforming to IS 17355",Free,-,,20/2015-2020,2022-07-07,2026-10-22
-56039390,8,56,Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-560394,6,56,Other : -- Weighing more than 150 g/m²,,,,,,2026-10-22
-56039410,8,56,"Non-woven Geotextile and articles thereof, Conforming to IS 16391, IS 16392",Free,-,,20/2015-2020,2022-07-07,2026-10-22
-56039420,8,56,"Mulch Mats, conforming to IS 17355",Free,-,,20/2015-2020,2022-07-07,2026-10-22
-56039490,8,56,Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-5604,4,56,"Rubber thread and cord, textile covered; textile yarn, and strip and the like of heading 54.04 or 54.05, impregnated, coated, covered or sheathed with rubber or plastics.",,,,,,2026-10-22
-56041000,8,56,"Rubber thread and cord, textile covered",Free,,,,,2026-10-22
-56049000,8,56,Other,Free,,,,,2026-10-22
-5605,4,56,"Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading 54.04 or 54.05, combined with metal in the form of thread, strip or powder or covered with metal.",,,,,,2026-10-22
-560500,6,56,"Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal :",,,,,,2026-10-22
-56050010,8,56,Real zari thread (gold) and silver thread combined with textile thread,Free,,,,,2026-10-22
-56050020,8,56,Imitation zari thread,Free,,,,,2026-10-22
-56050090,8,56,Other,Free,,,,,2026-10-22
-5606,4,56,"Gimped yarn, and strip and the like of heading 54.04 or 54.05, gimped (other than those of heading 56.05 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop waleyarn.",,,,,,2026-10-22
-560600,6,56,"Gimped yarn, and strip and the like of heading 5404 or 5405, gimped (other than those of heading 5605 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn :",,,,,,2026-10-22
-56060010,8,56,"Trimmings, of cotton",Free,,,,,2026-10-22
-56060020,8,56,"Trimmings, of man-made fibres",Free,,,,,2026-10-22
-56060030,8,56,"Trimmings, of zari",Free,,,,,2026-10-22
-56060090,8,56,Other,Free,,,,,2026-10-22
-5607,4,56,"Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, coated, covered or sheathed with rubber or plastics.",,,,,,2026-10-22
-56072100,8,56,Of sisal or other textile fibres of the genus Agave : -- Binder or baler twine,Free,,,,,2026-10-22
-56072900,8,56,Of sisal or other textile fibres of the genus Agave : -- Other,Free,,,,,2026-10-22
-56074100,8,56,Of polyethylene or polypropylene : -- Binder or baler twine,Free,,,,,2026-10-22
-56074900,8,56,Of polyethylene or polypropylene : -- Other,Free,,,,,2026-10-22
-560750,6,56,Of other synthetic fibres,,,,,,2026-10-22
-56075010,8,56,Nylon fish net twine,Free,,,,,2026-10-22
-56075020,8,56,Nylon tyre cord,Free,,,,,2026-10-22
-56075030,8,56,Viscose tyre cord,Free,,,,,2026-10-22
-56075040,8,56,Nylon rope,Free,,,,,2026-10-22
-56075090,8,56,Other,Free,,,,,2026-10-22
-560790,6,56,Other,,,,,,2026-10-22
-56079010,8,56,"Coir, cordage and ropes, other than of cotton",Free,,,,,2026-10-22
-56079020,8,56,"Cordage, cable, ropes and twine, of cotton",Free,,,,,2026-10-22
-56079090,8,56,Other,Free,,,,,2026-10-22
-5608,4,56,"Knotted netting of twine, cordage or rope; made up fishing nets and other made up nets, of textile materials.",,,,,,2026-10-22
-560811,6,56,Of man-made textile materials : --Made up fishing nets,,,,,,2026-10-22
-56081110,8,56,Made up fishing nets of nylon,Free,,,,,2026-10-22
-56081190,8,56,Other,Free,,,,,2026-10-22
-56081900,8,56,Of man-made textile materials : -- Other,Free,,,,,2026-10-22
-560890,6,56,Other,,,,,,2026-10-22
-56089010,8,56,Of cotton,Free,,,,,2026-10-22
-56089020,8,56,Of jute,Free,,,,,2026-10-22
-56089090,8,56,Other,Free,,,,,2026-10-22
-5609,4,56,"Articles of yarn, strip or the like of heading 54.04 or 54.05, twine, cordage, rope or cables, not elsewhere specified or included.",,,,,,2026-10-22
-560900,6,56,"Articles of yarn, strip or the like of heading 5404 or 5405, twine, cordage, rope or cables, not elsewhere specified or included:",,,,,,2026-10-22
-56090010,8,56,Products of coir,Free,,,,,2026-10-22
-56090020,8,56,Articles made up of cotton yarn,Free,,,,,2026-10-22
-56090030,8,56,Articles made up of jute,Free,,,,,2026-10-22
-56090090,8,56,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+5601,,,4,56,"Wadding of textile materials and articles thereof; textile fibres, not exceeding 5 mm in length (flock), textile dust and mill neps.",,,,,,2026-10-22
+560121,560121,"Wadding; other articles thereof, of cotton",6,56,Wadding of textile materials and articles thereof : -- Of cotton,,,,,,2026-10-22
+56012110,560121,"Wadding; other articles thereof, of cotton",8,56,Absorbent cotton wool,Free,,,,,2026-10-22
+56012190,560121,"Wadding; other articles thereof, of cotton",8,56,Other,Free,,,,,2026-10-22
+56012200,560122,"Wadding; other articles thereof, of man-made fibres",8,56,Wadding of textile materials and articles thereof : -- Of man-made fibres,Free,,,,,2026-10-22
+56012900,560129,"Wadding; other articles thereof, other than of cotton or man-made fibres",8,56,Wadding of textile materials and articles thereof : -- Other,Free,,,,,2026-10-22
+56013000,560130,Wadding; textile flock and dust and mill neps,8,56,Textile flock and dust and mill neps,Free,,,,,2026-10-22
+5602,,,4,56,"Felt, whether or not impregnated, coated, covered or laminated.",,,,,,2026-10-22
+56021000,560210,"Felt; needleloom felt and stitch-bonded fibre fabrics, whether or not impregnated, coated, covered or laminated",8,56,Needleloom felt and stitch-bonded fibre fabrics,Free,,,,,2026-10-22
+56022100,560221,"Felt; of wool or fine animal hair (excluding needleloom felt or stitch-bonded fibre fabrics), not impregnated, coated, covered nor laminated",8,56,"Other felt, not impregnated, coated, covered or laminated : -- Of wool or fine animal hair",Free,,,,,2026-10-22
+560229,560229,"Felt; of textile materials other than wool or fine animal hair (excluding needleloom felt and stitch-bonded fibre fabrics), not impregnated, coated, covered or laminated",6,56,"Other felt, not impregnated, coated, covered or laminated : -- Of other textile materials",,,,,,2026-10-22
+56022910,560229,"Felt; of textile materials other than wool or fine animal hair (excluding needleloom felt and stitch-bonded fibre fabrics), not impregnated, coated, covered or laminated",8,56,Of machines other than cotton machinery,Free,,,,,2026-10-22
+56022920,560229,"Felt; of textile materials other than wool or fine animal hair (excluding needleloom felt and stitch-bonded fibre fabrics), not impregnated, coated, covered or laminated",8,56,"Of jute (including blanded or union jute), other than for machinery",Free,,,,,2026-10-22
+56022990,560229,"Felt; of textile materials other than wool or fine animal hair (excluding needleloom felt and stitch-bonded fibre fabrics), not impregnated, coated, covered or laminated",8,56,Other,Free,,,,,2026-10-22
+560290,560290,"Felt; impregnated, coated, covered or laminated (excluding needleloom felt and stitch-bonded fibre fabrics)",6,56,Other,,,,,,2026-10-22
+56029010,560290,"Felt; impregnated, coated, covered or laminated (excluding needleloom felt and stitch-bonded fibre fabrics)",8,56,"of Rubberized Coir, needled felt",Free,,,,,2026-10-22
+5603,,,4,56,"Nonwovens, whether or not impregnated, coated, covered or laminated.",,,,,,2026-10-22
+560311,560311,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing not more than 25g/m2)",6,56,Of man-made filaments : -- Weighing not more than 25 g/m²,,,,,,2026-10-22
+56031110,560311,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing not more than 25g/m2)",8,56,"Of man-made filaments : --- Crop covers, conforming to IS 16366",Free,-,,20/2015-2020,2022-07-07,2026-10-22
+56031190,560311,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing not more than 25g/m2)",8,56,Of man-made filaments : --- Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+560312,560312,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 25g/m2 but not more than 70g/m2)",6,56,Of man-made filaments : -- Weighing more than 25 g/m² but not more than 70 g/m²,,,,,,2026-10-22
+56031200,560312,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 25g/m2 but not more than 70g/m2)",8,56,Of man-made filaments : -- Weighing more than 25 g/m² but not more than 70 g/m²,Free,,,,,2026-10-22
+560313,560313,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 70g/m2 but not more than 150g/m2)",6,56,Of man-made filaments : --Weighing more than 70 g/m² but not more than 150 g/m²,,,,,,2026-10-22
+56031300,560313,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 70g/m2 but not more than 150g/m2)",8,56,Of man-made filaments : --Weighing more than 70 g/m² but not more than 150 g/m²,Free,,,,,2026-10-22
+560314,560314,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 150g/m2)",6,56,Of man-made filaments : -- Weighing more than 150 g/m²,,,,,,2026-10-22
+56031400,560314,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 150g/m2)",8,56,Of man-made filaments : -- Weighing more than 150 g/m²,Free,,,,,2026-10-22
+560391,560391,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing not more than 25g/m2)",6,56,Other : -- Weighing not more than 25 g/m²,,,,,,2026-10-22
+56039100,560391,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing not more than 25g/m2)",8,56,Other : -- Weighing not more than 25 g/m²,Free,,,,,2026-10-22
+560392,560392,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 25g/m2 but not more than 70g/m2)",6,56,Other : -- Weighing more than 25 g/m² but not more than 70 g/m²,,,,,,2026-10-22
+56039200,560392,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 25g/m2 but not more than 70g/m2)",8,56,Other : -- Weighing more than 25 g/m² but not more than 70 g/m²,Free,,,,,2026-10-22
+560393,560393,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 70g/m2 but not more than 150g/m2)",6,56,Other : -- Weighing more than 70 g/m² but not more than 150 g/m²,,,,,,2026-10-22
+56039310,560393,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 70g/m2 but not more than 150g/m2)",8,56,"Mulch Mats, conforming to IS 17355",Free,-,,20/2015-2020,2022-07-07,2026-10-22
+56039390,560393,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 70g/m2 but not more than 150g/m2)",8,56,Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+560394,560394,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 150g/m2)",6,56,Other : -- Weighing more than 150 g/m²,,,,,,2026-10-22
+56039410,560394,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 150g/m2)",8,56,"Non-woven Geotextile and articles thereof, Conforming to IS 16391, IS 16392",Free,-,,20/2015-2020,2022-07-07,2026-10-22
+56039420,560394,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 150g/m2)",8,56,"Mulch Mats, conforming to IS 17355",Free,-,,20/2015-2020,2022-07-07,2026-10-22
+56039490,560394,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 150g/m2)",8,56,Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+5604,,,4,56,"Rubber thread and cord, textile covered; textile yarn, and strip and the like of heading 54.04 or 54.05, impregnated, coated, covered or sheathed with rubber or plastics.",,,,,,2026-10-22
+56041000,560410,Rubber thread and cord; textile covered,8,56,"Rubber thread and cord, textile covered",Free,,,,,2026-10-22
+56049000,560490,"Yarn; textile yarn, strip, and the like of heading no. 5404 or 5405, impregnated, coated, covered, or sheathed with rubber or plastics, n.e.c. in heading no. 5604",8,56,Other,Free,,,,,2026-10-22
+5605,,,4,56,"Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading 54.04 or 54.05, combined with metal in the form of thread, strip or powder or covered with metal.",,,,,,2026-10-22
+560500,560500,"Yarn; metallised, whether or not gimped, of textile yarn, or strip or the like of heading no. 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal",6,56,"Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal :",,,,,,2026-10-22
+56050010,560500,"Yarn; metallised, whether or not gimped, of textile yarn, or strip or the like of heading no. 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal",8,56,Real zari thread (gold) and silver thread combined with textile thread,Free,,,,,2026-10-22
+56050020,560500,"Yarn; metallised, whether or not gimped, of textile yarn, or strip or the like of heading no. 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal",8,56,Imitation zari thread,Free,,,,,2026-10-22
+56050090,560500,"Yarn; metallised, whether or not gimped, of textile yarn, or strip or the like of heading no. 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal",8,56,Other,Free,,,,,2026-10-22
+5606,,,4,56,"Gimped yarn, and strip and the like of heading 54.04 or 54.05, gimped (other than those of heading 56.05 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop waleyarn.",,,,,,2026-10-22
+560600,560600,"Yarn and strip and the like of heading no. 5404 or 5405; gimped, (other than those of heading no. 5406 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn",6,56,"Gimped yarn, and strip and the like of heading 5404 or 5405, gimped (other than those of heading 5605 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn :",,,,,,2026-10-22
+56060010,560600,"Yarn and strip and the like of heading no. 5404 or 5405; gimped, (other than those of heading no. 5406 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn",8,56,"Trimmings, of cotton",Free,,,,,2026-10-22
+56060020,560600,"Yarn and strip and the like of heading no. 5404 or 5405; gimped, (other than those of heading no. 5406 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn",8,56,"Trimmings, of man-made fibres",Free,,,,,2026-10-22
+56060030,560600,"Yarn and strip and the like of heading no. 5404 or 5405; gimped, (other than those of heading no. 5406 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn",8,56,"Trimmings, of zari",Free,,,,,2026-10-22
+56060090,560600,"Yarn and strip and the like of heading no. 5404 or 5405; gimped, (other than those of heading no. 5406 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn",8,56,Other,Free,,,,,2026-10-22
+5607,,,4,56,"Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, coated, covered or sheathed with rubber or plastics.",,,,,,2026-10-22
+56072100,560721,"Twine; binder or baler twine, of sisal or other textile fibres of the genus agave",8,56,Of sisal or other textile fibres of the genus Agave : -- Binder or baler twine,Free,,,,,2026-10-22
+56072900,560729,"Twine, cordage, ropes, cables; of sisal or other textile fibres of the genus agave (excluding binder or baler twine), whether or not plaited, braided or rubber or plastic impregnated, coated, covered or sheathed",8,56,Of sisal or other textile fibres of the genus Agave : -- Other,Free,,,,,2026-10-22
+56074100,560741,"Twine; binder or baler twine, of polyethylene or polypropylene",8,56,Of polyethylene or polypropylene : -- Binder or baler twine,Free,,,,,2026-10-22
+56074900,560749,"Twine, cordage, ropes, cables; of polyethylene or polypropylene (excluding binder or baler twine), whether or not plaited, braided or rubber or plastic impregnated, coated, covered or sheathed",8,56,Of polyethylene or polypropylene : -- Other,Free,,,,,2026-10-22
+560750,560750,"Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",6,56,Of other synthetic fibres,,,,,,2026-10-22
+56075010,560750,"Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",8,56,Nylon fish net twine,Free,,,,,2026-10-22
+56075020,560750,"Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",8,56,Nylon tyre cord,Free,,,,,2026-10-22
+56075030,560750,"Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",8,56,Viscose tyre cord,Free,,,,,2026-10-22
+56075040,560750,"Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",8,56,Nylon rope,Free,,,,,2026-10-22
+56075090,560750,"Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",8,56,Other,Free,,,,,2026-10-22
+560790,560790,"Twine, cordage, ropes, cables; of materials n.e.c. in heading no. 5607, whether or not plaited, braided or impregnated, coated, covered, or sheathed with rubber or plastics",6,56,Other,,,,,,2026-10-22
+56079010,560790,"Twine, cordage, ropes, cables; of materials n.e.c. in heading no. 5607, whether or not plaited, braided or impregnated, coated, covered, or sheathed with rubber or plastics",8,56,"Coir, cordage and ropes, other than of cotton",Free,,,,,2026-10-22
+56079020,560790,"Twine, cordage, ropes, cables; of materials n.e.c. in heading no. 5607, whether or not plaited, braided or impregnated, coated, covered, or sheathed with rubber or plastics",8,56,"Cordage, cable, ropes and twine, of cotton",Free,,,,,2026-10-22
+56079090,560790,"Twine, cordage, ropes, cables; of materials n.e.c. in heading no. 5607, whether or not plaited, braided or impregnated, coated, covered, or sheathed with rubber or plastics",8,56,Other,Free,,,,,2026-10-22
+5608,,,4,56,"Knotted netting of twine, cordage or rope; made up fishing nets and other made up nets, of textile materials.",,,,,,2026-10-22
+560811,560811,"Twine, cordage or rope; fishing nets, made up, of man made textile materials",6,56,Of man-made textile materials : --Made up fishing nets,,,,,,2026-10-22
+56081110,560811,"Twine, cordage or rope; fishing nets, made up, of man made textile materials",8,56,Made up fishing nets of nylon,Free,,,,,2026-10-22
+56081190,560811,"Twine, cordage or rope; fishing nets, made up, of man made textile materials",8,56,Other,Free,,,,,2026-10-22
+56081900,560819,"Twine, cordage or rope; knotted netting, for other than fishing, of man-made textile materials",8,56,Of man-made textile materials : -- Other,Free,,,,,2026-10-22
+560890,560890,"Twine, cordage or rope; knotted netting, of other than man-made textiles",6,56,Other,,,,,,2026-10-22
+56089010,560890,"Twine, cordage or rope; knotted netting, of other than man-made textiles",8,56,Of cotton,Free,,,,,2026-10-22
+56089020,560890,"Twine, cordage or rope; knotted netting, of other than man-made textiles",8,56,Of jute,Free,,,,,2026-10-22
+56089090,560890,"Twine, cordage or rope; knotted netting, of other than man-made textiles",8,56,Other,Free,,,,,2026-10-22
+5609,,,4,56,"Articles of yarn, strip or the like of heading 54.04 or 54.05, twine, cordage, rope or cables, not elsewhere specified or included.",,,,,,2026-10-22
+560900,560900,"Yarn; articles of yarn, strip or the like of heading no. 5404 and 5405, twine, cordage, rope or cables n.e.c. or included",6,56,"Articles of yarn, strip or the like of heading 5404 or 5405, twine, cordage, rope or cables, not elsewhere specified or included:",,,,,,2026-10-22
+56090010,560900,"Yarn; articles of yarn, strip or the like of heading no. 5404 and 5405, twine, cordage, rope or cables n.e.c. or included",8,56,Products of coir,Free,,,,,2026-10-22
+56090020,560900,"Yarn; articles of yarn, strip or the like of heading no. 5404 and 5405, twine, cordage, rope or cables n.e.c. or included",8,56,Articles made up of cotton yarn,Free,,,,,2026-10-22
+56090030,560900,"Yarn; articles of yarn, strip or the like of heading no. 5404 and 5405, twine, cordage, rope or cables n.e.c. or included",8,56,Articles made up of jute,Free,,,,,2026-10-22
+56090090,560900,"Yarn; articles of yarn, strip or the like of heading no. 5404 and 5405, twine, cordage, rope or cables n.e.c. or included",8,56,Other,Free,,,,,2026-10-22

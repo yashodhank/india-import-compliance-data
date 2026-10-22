@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "0801",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "08011100",
+   "hs6": "080111",
+   "hs6_description": "Nuts, edible; coconuts, desiccated",
    "level": 8,
    "chapter": "08",
    "description": "Coconuts : -- Desiccated",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "080112",
+   "hs6": "080112",
+   "hs6_description": "Nuts, edible; coconuts, in the inner shell (endocarp)",
    "level": 6,
    "chapter": "08",
    "description": "Coconuts : -- In the inner shell (endocarp)",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "08011210",
+   "hs6": "080112",
+   "hs6_description": "Nuts, edible; coconuts, in the inner shell (endocarp)",
    "level": 8,
    "chapter": "08",
    "description": "Fresh",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "08011220",
+   "hs6": "080112",
+   "hs6_description": "Nuts, edible; coconuts, in the inner shell (endocarp)",
    "level": 8,
    "chapter": "08",
    "description": "Dried",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "08011290",
+   "hs6": "080112",
+   "hs6_description": "Nuts, edible; coconuts, in the inner shell (endocarp)",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "080119",
+   "hs6": "080119",
+   "hs6_description": "Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",
    "level": 6,
    "chapter": "08",
    "description": "Coconuts : -- Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "08011910",
+   "hs6": "080119",
+   "hs6_description": "Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",
    "level": 8,
    "chapter": "08",
    "description": "Fresh",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "08011920",
+   "hs6": "080119",
+   "hs6_description": "Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",
    "level": 8,
    "chapter": "08",
    "description": "Dried",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "08011990",
+   "hs6": "080119",
+   "hs6_description": "Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "08012100",
+   "hs6": "080121",
+   "hs6_description": "Nuts, edible; brazil nuts, fresh or dried, in shell",
    "level": 8,
    "chapter": "08",
    "description": "Brazil nuts : -- In shell",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "08012200",
+   "hs6": "080122",
+   "hs6_description": "Nuts, edible; brazil nuts, fresh or dried, shelled",
    "level": 8,
    "chapter": "08",
    "description": "Brazil nuts : -- Shelled",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "08013100",
+   "hs6": "080131",
+   "hs6_description": "Nuts, edible; cashew nuts, fresh or dried, in shell",
    "level": 8,
    "chapter": "08",
    "description": "Cashew nuts : -- In shell",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "080132",
+   "hs6": "080132",
+   "hs6_description": "Nuts, edible; cashew nuts, fresh or dried, shelled",
    "level": 6,
    "chapter": "08",
    "description": "Cashew nuts : -- Shelled",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "08013210",
+   "hs6": "080132",
+   "hs6_description": "Nuts, edible; cashew nuts, fresh or dried, shelled",
    "level": 8,
    "chapter": "08",
    "description": "Cashew kernel, broken",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "08013220",
+   "hs6": "080132",
+   "hs6_description": "Nuts, edible; cashew nuts, fresh or dried, shelled",
    "level": 8,
    "chapter": "08",
    "description": "Cashew kernel, whole",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "08013290",
+   "hs6": "080132",
+   "hs6_description": "Nuts, edible; cashew nuts, fresh or dried, shelled",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "0802",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "Other nuts, fresh or dried, whether or not shelled or peeled.",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "08021100",
+   "hs6": "080211",
+   "hs6_description": "Nuts, edible; almonds, fresh or dried, in shell",
    "level": 8,
    "chapter": "08",
    "description": "Almonds : -- In shell",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "08021200",
+   "hs6": "080212",
+   "hs6_description": "Nuts, edible; almonds, fresh or dried, shelled",
    "level": 8,
    "chapter": "08",
    "description": "Almonds : -- Shelled",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "08022100",
+   "hs6": "080221",
+   "hs6_description": "Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",
    "level": 8,
    "chapter": "08",
    "description": "Hazelnuts or filberts (Corylus spp.) : -- In shell",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "08022200",
+   "hs6": "080222",
+   "hs6_description": "Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",
    "level": 8,
    "chapter": "08",
    "description": "Hazelnuts or filberts (Corylus spp.) : -- shelled",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "08023100",
+   "hs6": "080231",
+   "hs6_description": "Nuts, edible; walnuts, fresh or dried, in shell",
    "level": 8,
    "chapter": "08",
    "description": "Walnuts : -- In shell",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "08023200",
+   "hs6": "080232",
+   "hs6_description": "Nuts, edible; walnuts, fresh or dried, shelled",
    "level": 8,
    "chapter": "08",
    "description": "Walnuts : -- Shelled",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "08024100",
+   "hs6": "080241",
+   "hs6_description": "Nuts, edible; chestnuts (Castanea spp.), fresh or dried, in shell",
    "level": 8,
    "chapter": "08",
    "description": "Chestnuts (Castanea spp.) : -- In shell",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "08024200",
+   "hs6": "080242",
+   "hs6_description": "Nuts, edible; chestnuts (Castanea spp.), fresh or dried, shelled",
    "level": 8,
    "chapter": "08",
    "description": "Chestnuts (Castanea spp.) : -- Shelled",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "08025100",
+   "hs6": "080251",
+   "hs6_description": "Nuts, edible; pistachios, fresh or dried, in shell",
    "level": 8,
    "chapter": "08",
    "description": "Pistachios : --In shell",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "08025200",
+   "hs6": "080252",
+   "hs6_description": "Nuts, edible; pistachios, fresh or dried, shelled",
    "level": 8,
    "chapter": "08",
    "description": "Pistachios : --Shelled",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "08026100",
+   "hs6": "080261",
+   "hs6_description": "Nuts, edible; macadamia, fresh or dried, in shell",
    "level": 8,
    "chapter": "08",
    "description": "Macadamia nuts : -- In shell",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "08026200",
+   "hs6": "080262",
+   "hs6_description": "Nuts, edible; macadamia, fresh or dried, shelled",
    "level": 8,
    "chapter": "08",
    "description": "Macadamia nuts : -- Shelled",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "08027000",
+   "hs6": "080270",
+   "hs6_description": "Nuts, edible; kola nuts (Cola spp.), fresh or dried, whether or not shelled or peeled",
    "level": 8,
    "chapter": "08",
    "description": "Kola nuts (Cola spp.)",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "080280",
+   "hs6": "080280",
+   "hs6_description": "Nuts, edible; areca nuts, fresh or dried, whether or not shelled or peeled",
    "level": 6,
    "chapter": "08",
    "description": "Areca nuts",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "08028010",
+   "hs6": "080280",
+   "hs6_description": "Nuts, edible; areca nuts, fresh or dried, whether or not shelled or peeled",
    "level": 8,
    "chapter": "08",
    "description": "Whole",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "08028020",
+   "hs6": "080280",
+   "hs6_description": "Nuts, edible; areca nuts, fresh or dried, whether or not shelled or peeled",
    "level": 8,
    "chapter": "08",
    "description": "Split",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "08028030",
+   "hs6": "080280",
+   "hs6_description": "Nuts, edible; areca nuts, fresh or dried, whether or not shelled or peeled",
    "level": 8,
    "chapter": "08",
    "description": "Ground",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "08028090",
+   "hs6": "080280",
+   "hs6_description": "Nuts, edible; areca nuts, fresh or dried, whether or not shelled or peeled",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "08029100",
+   "hs6": "080291",
+   "hs6_description": "Nuts, edible; pine nuts, fresh or dried, in shell",
    "level": 8,
    "chapter": "08",
    "description": "Other- - Pine nuts, in shell",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "08029200",
+   "hs6": "080292",
+   "hs6_description": "Nuts, edible; pine nuts, fresh or dried, shelled",
    "level": 8,
    "chapter": "08",
    "description": "Other- - Pine nuts, shelled",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "080299",
+   "hs6": "080299",
+   "hs6_description": "Nuts, edible; n.e.c. in heading 0801 and 0802, fresh or dried, whether or not shelled or peeled",
    "level": 6,
    "chapter": "08",
    "description": "--Other :",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "08029910",
+   "hs6": "080299",
+   "hs6_description": "Nuts, edible; n.e.c. in heading 0801 and 0802, fresh or dried, whether or not shelled or peeled",
    "level": 8,
    "chapter": "08",
    "description": "--Other :--- Pecan nuts",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "08029990",
+   "hs6": "080299",
+   "hs6_description": "Nuts, edible; n.e.c. in heading 0801 and 0802, fresh or dried, whether or not shelled or peeled",
    "level": 8,
    "chapter": "08",
    "description": "--Other : --- Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "0803",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "Bananas, including plantains, fresh or dried.",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "080310",
+   "hs6": "080310",
+   "hs6_description": "Fruit, edible; plantains, fresh or dried",
    "level": 6,
    "chapter": "08",
    "description": "Plantains",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "08031010",
+   "hs6": "080310",
+   "hs6_description": "Fruit, edible; plantains, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Curry plantain",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "08031090",
+   "hs6": "080310",
+   "hs6_description": "Fruit, edible; plantains, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "080390",
+   "hs6": "080390",
+   "hs6_description": "Fruit, edible; bananas, other than plantains, fresh or dried",
    "level": 6,
    "chapter": "08",
    "description": "Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "08039010",
+   "hs6": "080390",
+   "hs6_description": "Fruit, edible; bananas, other than plantains, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Bananas, fresh",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "08039090",
+   "hs6": "080390",
+   "hs6_description": "Fruit, edible; bananas, other than plantains, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "0804",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried.",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "080410",
+   "hs6": "080410",
+   "hs6_description": "Fruit, edible; dates, fresh or dried",
    "level": 6,
    "chapter": "08",
    "description": "Dates",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "08041010",
+   "hs6": "080410",
+   "hs6_description": "Fruit, edible; dates, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Fresh (excluding wet dates)",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "08041020",
+   "hs6": "080410",
+   "hs6_description": "Fruit, edible; dates, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Soft (khayzur or wet dates)",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "08041030",
+   "hs6": "080410",
+   "hs6_description": "Fruit, edible; dates, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Hard (chhohara or kharek)",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "08041090",
+   "hs6": "080410",
+   "hs6_description": "Fruit, edible; dates, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "080420",
+   "hs6": "080420",
+   "hs6_description": "Fruit, edible; figs, fresh or dried",
    "level": 6,
    "chapter": "08",
    "description": "Figs",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "08042010",
+   "hs6": "080420",
+   "hs6_description": "Fruit, edible; figs, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Fresh",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "08042090",
+   "hs6": "080420",
+   "hs6_description": "Fruit, edible; figs, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "08043000",
+   "hs6": "080430",
+   "hs6_description": "Fruit, edible; pineapples, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Pineapples",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "08044000",
+   "hs6": "080440",
+   "hs6_description": "Fruit, edible; avocados, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Avocados",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "080450",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 6,
    "chapter": "08",
    "description": "Guavas, mangoes and mangosteens",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "08045010",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Guavas fresh or dried",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "08045021",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Alphonso (Hapus)",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "08045022",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Banganapalli",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "08045023",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Chausa",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "08045024",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Dasheri",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "08045025",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Langda",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "08045026",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Kesar",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "08045027",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Totapuri",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "08045028",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Mallika",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "08045029",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "08045030",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Guavas, mangoes and mangosteens:--- Mangoes, sliced dried",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "08045040",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Mango pulp",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "08045090",
+   "hs6": "080450",
+   "hs6_description": "Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "0805",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "Citrus fruit, fresh or dried.",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "08051000",
+   "hs6": "080510",
+   "hs6_description": "Fruit, edible; oranges, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Oranges",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "08052100",
+   "hs6": "080521",
+   "hs6_description": "Fruit, edible; mandarins (including tangerines and satsumas), fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids : -- Mandarins (including tangerines and satsumas)",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "08052200",
+   "hs6": "080522",
+   "hs6_description": "Fruit, edible; clementines, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids : --Clementines",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "08052900",
+   "hs6": "080529",
+   "hs6_description": "Fruit, edible; tangelos, wilkings and similar citrus hybrid, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids : --Other",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "08054000",
+   "hs6": "080540",
+   "hs6_description": "Fruit, edible; grapefruit and pomelos, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Grapefruit and pomelos",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "08055000",
+   "hs6": "080550",
+   "hs6_description": "Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia, Citrus latifolia), fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Lemons (Citrus limon, Citrus limonum) and limes (Citrus aurantifolia, Citrus latifolia)",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "08059000",
+   "hs6": "080590",
+   "hs6_description": "Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "0806",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "Grapes, fresh or dried.",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "08061000",
+   "hs6": "080610",
+   "hs6_description": "Fruit, edible; grapes, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Fresh",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "080620",
+   "hs6": "080620",
+   "hs6_description": "Fruit, edible; grapes, dried",
    "level": 6,
    "chapter": "08",
    "description": "Dried",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "08062010",
+   "hs6": "080620",
+   "hs6_description": "Fruit, edible; grapes, dried",
    "level": 8,
    "chapter": "08",
    "description": "Raisins",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "08062090",
+   "hs6": "080620",
+   "hs6_description": "Fruit, edible; grapes, dried",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "0807",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "Melons (including watermelons) and papaws (papayas), fresh.",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "08071100",
+   "hs6": "080711",
+   "hs6_description": "Fruit, edible; watermelons, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Melons (including watermelons) : -- Watermelons",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "080719",
+   "hs6": "080719",
+   "hs6_description": "Fruit, edible; melons, other than watermelons, fresh",
    "level": 6,
    "chapter": "08",
    "description": "Melons (including watermelons) :-- Other:",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "08071910",
+   "hs6": "080719",
+   "hs6_description": "Fruit, edible; melons, other than watermelons, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Musk melons",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "08071990",
+   "hs6": "080719",
+   "hs6_description": "Fruit, edible; melons, other than watermelons, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "08072000",
+   "hs6": "080720",
+   "hs6_description": "Fruit, edible; papaws (papayas), fresh",
    "level": 8,
    "chapter": "08",
    "description": "Papaws (papayas)",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "0808",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "Apples, pears and quinces, fresh.",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "08081000",
+   "hs6": "080810",
+   "hs6_description": "Fruit, edible; apples, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Apples",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "08083000",
+   "hs6": "080830",
+   "hs6_description": "Fruit, edible; pears, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Pears",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "08084000",
+   "hs6": "080840",
+   "hs6_description": "Fruit, edible; quinces, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Quinces",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "0809",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "08091000",
+   "hs6": "080910",
+   "hs6_description": "Fruit, edible; apricots, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Apricots",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "08092100",
+   "hs6": "080921",
+   "hs6_description": "Fruit, edible; sour cherries (Prunus cerasus), fresh",
    "level": 8,
    "chapter": "08",
    "description": "Cherries : -- Sour cherries (Prunus cerasus)",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "08092900",
+   "hs6": "080929",
+   "hs6_description": "Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",
    "level": 8,
    "chapter": "08",
    "description": "Cherries : -- Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "08093000",
+   "hs6": "080930",
+   "hs6_description": "Fruit, edible; peaches, including nectarines, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Peaches, including nectarines",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "08094000",
+   "hs6": "080940",
+   "hs6_description": "Fruit, edible; plums and sloes, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Plums and sloes",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "0810",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "Other fruit, fresh.",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "08101000",
+   "hs6": "081010",
+   "hs6_description": "Fruit, edible; strawberries, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Strawberries",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "08102000",
+   "hs6": "081020",
+   "hs6_description": "Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Raspberries, blackberries, mulberries and loganberries",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "08103000",
+   "hs6": "081030",
+   "hs6_description": "Fruit, edible; black, white or red currants and gooseberries, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Black, white or red currants and gooseberries",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "081040",
+   "hs6": "081040",
+   "hs6_description": "Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",
    "level": 6,
    "chapter": "08",
    "description": "Cranberries, bilberries and other fruits of the genus Vaccinium",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "08104010",
+   "hs6": "081040",
+   "hs6_description": "Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",
    "level": 8,
    "chapter": "08",
    "description": "--- Cranberries",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "08104020",
+   "hs6": "081040",
+   "hs6_description": "Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",
    "level": 8,
    "chapter": "08",
    "description": "--- Blueberries",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "08104090",
+   "hs6": "081040",
+   "hs6_description": "Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",
    "level": 8,
    "chapter": "08",
    "description": "--- Other",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "08105000",
+   "hs6": "081050",
+   "hs6_description": "Fruit, edible; kiwifruit, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Kiwifruit",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "08106000",
+   "hs6": "081060",
+   "hs6_description": "Fruit, edible; durians, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Durians",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "08107000",
+   "hs6": "081070",
+   "hs6_description": "Fruit, edible; persimmons, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Persimmons",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "081090",
+   "hs6": "081090",
+   "hs6_description": "Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",
    "level": 6,
    "chapter": "08",
    "description": "Other",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "08109010",
+   "hs6": "081090",
+   "hs6_description": "Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Pomegranates",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "08109020",
+   "hs6": "081090",
+   "hs6_description": "Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Tamarind, fresh",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "08109030",
+   "hs6": "081090",
+   "hs6_description": "Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Sapota (chico)",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "08109040",
+   "hs6": "081090",
+   "hs6_description": "Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Custard-apple (Ata)",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "08109050",
+   "hs6": "081090",
+   "hs6_description": "Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Bore",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "08109060",
+   "hs6": "081090",
+   "hs6_description": "Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Lichi",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "08109090",
+   "hs6": "081090",
+   "hs6_description": "Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "0811",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter.",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "081110",
+   "hs6": "081110",
+   "hs6_description": "Fruit, edible; strawberries, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",
    "level": 6,
    "chapter": "08",
    "description": "Strawberries",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "08111010",
+   "hs6": "081110",
+   "hs6_description": "Fruit, edible; strawberries, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "08",
    "description": "Containing added sugar",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "08111020",
+   "hs6": "081110",
+   "hs6_description": "Fruit, edible; strawberries, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "08",
    "description": "Not containing added sugar",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "08111090",
+   "hs6": "081110",
+   "hs6_description": "Fruit, edible; strawberries, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "081120",
+   "hs6": "081120",
+   "hs6_description": "Fruit, edible; raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, uncooked or cooked, whether or not containing added sugar or other sweetening matter",
    "level": 6,
    "chapter": "08",
    "description": "Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "08112010",
+   "hs6": "081120",
+   "hs6_description": "Fruit, edible; raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, uncooked or cooked, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "08",
    "description": "Containing added sugar",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "08112020",
+   "hs6": "081120",
+   "hs6_description": "Fruit, edible; raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, uncooked or cooked, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "08",
    "description": "Not containing added sugar",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "08112090",
+   "hs6": "081120",
+   "hs6_description": "Fruit, edible; raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries, uncooked or cooked, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "081190",
+   "hs6": "081190",
+   "hs6_description": "Fruit, edible; fruit and nuts n.e.c. in heading no. 0811, uncooked or cooked, frozen whether or not containing added sugar or other sweetening matter",
    "level": 6,
    "chapter": "08",
    "description": "Other",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "08119011",
+   "hs6": "081190",
+   "hs6_description": "Fruit, edible; fruit and nuts n.e.c. in heading no. 0811, uncooked or cooked, frozen whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "08",
    "description": "--- Containing added sugar :---- Cranberries",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "08119012",
+   "hs6": "081190",
+   "hs6_description": "Fruit, edible; fruit and nuts n.e.c. in heading no. 0811, uncooked or cooked, frozen whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "08",
    "description": "--- Containing added sugar :---- Blueberries",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "08119019",
+   "hs6": "081190",
+   "hs6_description": "Fruit, edible; fruit and nuts n.e.c. in heading no. 0811, uncooked or cooked, frozen whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "08",
    "description": "--- Containing added sugar : --- Other :",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "08119091",
+   "hs6": "081190",
+   "hs6_description": "Fruit, edible; fruit and nuts n.e.c. in heading no. 0811, uncooked or cooked, frozen whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "08",
    "description": "--- Other :---- Cranberries",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "08119092",
+   "hs6": "081190",
+   "hs6_description": "Fruit, edible; fruit and nuts n.e.c. in heading no. 0811, uncooked or cooked, frozen whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "08",
    "description": "--- Other :---- Blueberries",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "08119099",
+   "hs6": "081190",
+   "hs6_description": "Fruit, edible; fruit and nuts n.e.c. in heading no. 0811, uncooked or cooked, frozen whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "08",
    "description": "--- Other :---- Other",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "0812",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "FRUIT AND NUTS PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "08121000",
+   "hs6": "081210",
+   "hs6_description": "Fruit, edible; cherries, provisionally preserved, but unsuitable in that state for immediate consumption",
    "level": 8,
    "chapter": "08",
    "description": "Cherries",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "081290",
+   "hs6": "081290",
+   "hs6_description": "Fruit, edible; fruit and nuts n.e.c. in heading no. 0812, provisionally preserved, but unsuitable in that state for immediate consumption",
    "level": 6,
    "chapter": "08",
    "description": "Other",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "08129010",
+   "hs6": "081290",
+   "hs6_description": "Fruit, edible; fruit and nuts n.e.c. in heading no. 0812, provisionally preserved, but unsuitable in that state for immediate consumption",
    "level": 8,
    "chapter": "08",
    "description": "Mango slices in brine",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "08129090",
+   "hs6": "081290",
+   "hs6_description": "Fruit, edible; fruit and nuts n.e.c. in heading no. 0812, provisionally preserved, but unsuitable in that state for immediate consumption",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "0813",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "08",
    "description": "Fruit, dried, other than that of headings 08.01 to 08.06; mixtures of nuts or dried fruits of this Chapter.",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "08131000",
+   "hs6": "081310",
+   "hs6_description": "Fruit, edible; apricots, dried",
    "level": 8,
    "chapter": "08",
    "description": "Apricots",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "08132000",
+   "hs6": "081320",
+   "hs6_description": "Fruit, edible; prunes, dried",
    "level": 8,
    "chapter": "08",
    "description": "Prunes",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "08133000",
+   "hs6": "081330",
+   "hs6_description": "Fruit, edible; apples, dried",
    "level": 8,
    "chapter": "08",
    "description": "Apples",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "081340",
+   "hs6": "081340",
+   "hs6_description": "Fruit, edible; fruit n.e.c. in heading no. 0812, dried",
    "level": 6,
    "chapter": "08",
    "description": "Other fruit",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "08134010",
+   "hs6": "081340",
+   "hs6_description": "Fruit, edible; fruit n.e.c. in heading no. 0812, dried",
    "level": 8,
    "chapter": "08",
    "description": "Tamarind, dried",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "08134020",
+   "hs6": "081340",
+   "hs6_description": "Fruit, edible; fruit n.e.c. in heading no. 0812, dried",
    "level": 8,
    "chapter": "08",
    "description": "Singoda whole (water nut)",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "08134030",
+   "hs6": "081340",
+   "hs6_description": "Fruit, edible; fruit n.e.c. in heading no. 0812, dried",
    "level": 8,
    "chapter": "08",
    "description": "--- Cranberries",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "08134040",
+   "hs6": "081340",
+   "hs6_description": "Fruit, edible; fruit n.e.c. in heading no. 0812, dried",
    "level": 8,
    "chapter": "08",
    "description": "--- Blueberries",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "08134090",
+   "hs6": "081340",
+   "hs6_description": "Fruit, edible; fruit n.e.c. in heading no. 0812, dried",
    "level": 8,
    "chapter": "08",
    "description": "Other",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "081350",
+   "hs6": "081350",
+   "hs6_description": "Nuts, edible; mixtures of nuts or dried fruits of chapter 08",
    "level": 6,
    "chapter": "08",
    "description": "Mixtures of nuts or dried fruits of this Chapter",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "08135010",
+   "hs6": "081350",
+   "hs6_description": "Nuts, edible; mixtures of nuts or dried fruits of chapter 08",
    "level": 8,
    "chapter": "08",
    "description": "Mixtures of nuts",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "08135020",
+   "hs6": "081350",
+   "hs6_description": "Nuts, edible; mixtures of nuts or dried fruits of chapter 08",
    "level": 8,
    "chapter": "08",
    "description": "Mixtures of dried fruits",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "08140000",
+   "hs6": "081400",
+   "hs6_description": "Peel; of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water and other preservative solutions",
    "level": 8,
    "chapter": "08",
    "description": "Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative solutions",

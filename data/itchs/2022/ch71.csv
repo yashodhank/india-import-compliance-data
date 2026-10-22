@@ -1,182 +1,182 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-7101,4,71,"Pearls, natural or cultured, whether or not worked or graded but not strung, mounted or set; pearls, natural or cultured, temporarily strung for convenience of transport.",,,,,,2026-10-22
-710110,6,71,Natural pearls,,,,,,2026-10-22
-71011010,8,71,Unworked,Free,,,,,2026-10-22
-71011020,8,71,Worked,Free,,,,,2026-10-22
-71012100,8,71,Cultured pearls : -- Unworked,Free,,,,,2026-10-22
-71012200,8,71,Cultured pearls : -- Worked,Free,,,,,2026-10-22
-7102,4,71,"Diamonds, whether or not worked, but not mounted or set.",,,,,,2026-10-22
-71021000,8,71,Unsorted,Free,Subject to Policy Condition 2,2,,,2026-10-22
-710221,6,71,"Industrial : -- Unworked or simply sawn, cleaved or bruted",,,,,,2026-10-22
-71022110,8,71,Sorted,Free,,,,,2026-10-22
-71022120,8,71,Unsorted,Free,,,,,2026-10-22
-710229,6,71,Industrial : -- Other,,,,,,2026-10-22
-71022910,8,71,Crushed,Free,,,,,2026-10-22
-71022990,8,71,Other,Free,,,,,2026-10-22
-71023100,8,71,"Non-industrial : -- Unworked or simply sawn, cleaved or bruted",Free,,,,,2026-10-22
-710239,6,71,Non-industrial : -- Other,,,,,,2026-10-22
-71023910,8,71,"Diamond, cut or otherwise worked but not mounted or set",Free,,,,,2026-10-22
-71023990,8,71,Other,Free,,,,,2026-10-22
-7103,4,71,"Precious stones (other than diamonds) and semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded precious stones (other than diamonds) and semiprecious stones, temporarily strung for convenience of transport.",,,,,,2026-10-22
-710310,6,71,Unworked or simply sawn or roughly shaped,,,,,,2026-10-22
-71031031,8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species: ----Emerald",Free,,,,,2026-10-22
-71031032,8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species: ---- Yellow/golden/pink/red/green beryl",Free,,,,,2026-10-22
-71031033,8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species: ---- Chrysoberyl (including chrysoberyl cat s eye)",Free,,,,,2026-10-22
-71031034,8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species: ---- Alexandrite (including alexandrite cat s eye)",Free,,,,,2026-10-22
-71031039,8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species: ---- Other",Free,,,,,2026-10-22
-71031041,8,71,"Precious or semi-precious stones of ""Corundum"" and ""Feldspar "" mineralogical species: ---- Ruby",Free,,,,,2026-10-22
-71031042,8,71,"Precious or semi-precious stones of ""Corundum"" and ""Feldspar "" mineralogical species: ---- Sapphire",Free,,,,,2026-10-22
-71031043,8,71,"Precious or semi-precious stones of ""Corundum"" and ""Feldspar "" mineralogical species: ---- Moonstone",Free,,,,,2026-10-22
-71031049,8,71,"Precious or semi-precious stones of ""Corundum"" and ""Feldspar "" mineralogical species: ---- Other",Free,,,,,2026-10-22
-71031051,8,71,"Precious or semi-precious stones of ""Garnet"" and ""Lazurite"" mineralogical species: ---- Garnet",Free,,,,,2026-10-22
-71031052,8,71,"Precious or semi-precious stones of ""Garnet"" and ""Lazurite"" mineralogical species: ---- Lapis-lazuli",Free,,,,,2026-10-22
-71031059,8,71,"Precious or semi-precious stones of ""Garnet"" and ""Lazurite"" mineralogical species: ---- Other",Free,,,,,2026-10-22
-71031061,8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Prehnite",Free,,,,,2026-10-22
-71031062,8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Agate",Free,,,,,2026-10-22
-71031063,8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Aventurine",Free,,,,,2026-10-22
-71031064,8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Chalcedony",Free,,,,,2026-10-22
-71031069,8,71,"Precious or semi-precious stones of ""Tourmaline"" and ""Zoisite"" mineralogical species: ---- Tourmaline",Free,,,,,2026-10-22
-71031071,8,71,Tourmaline,Free,,,,,2026-10-22
-71031072,8,71,"Precious or semi-precious stones of ""Tourmaline"" and ""Zoisite"" mineralogical species: ---- Tanzanite",Free,,,,,2026-10-22
-71031079,8,71,"Precious or semi-precious stones of ""Tourmaline"" and ""Zoisite"" mineralogical species: ---- Other",Free,,,,,2026-10-22
-71031090,8,71,Other,Free,,,,,2026-10-22
-710391,6,71,"Otherwise worked : -- Rubies, sapphires and emeralds",,,,,,2026-10-22
-71039110,8,71,Ruby,Free,,,,,2026-10-22
-71039120,8,71,Sapphire,Free,,,,,2026-10-22
-71039130,8,71,Emeralds,Free,,,,,2026-10-22
-710399,6,71,Otherwise worked : -- Other,,,,,,2026-10-22
-71039911,8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species, other than ""Emerald"":---- Yellow/golden/pink/red/green beryl",Free,,,,,2026-10-22
-71039912,8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species, other than ""Emerald"": ---- Chrysoberyl (including chrysoberyl cat s eye)",Free,,,,,2026-10-22
-71039913,8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species, other than ""Emerald"": ---- Alexandrite (including alexandrite cat s eye)",Free,,,,,2026-10-22
-71039919,8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species, other than ""Emerald"": ---- Other",Free,,,,,2026-10-22
-71039921,8,71,"Precious or semi-precious stones of ""Corundum"" and ""Feldspar"" mineralogical species, other than ""Ruby""and ""Sapphire"": ---- Moonstone",Free,,,,,2026-10-22
-71039929,8,71,"Precious or semi-precious stones of ""Corundum"" and ""Feldspar"" mineralogical species, other than ""Ruby""and ""Sapphire"": ---- Other",Free,,,,,2026-10-22
-71039931,8,71,"Precious or semi-precious stones of ""Garnet"" and ""Lazurite"" mineralogical species: ---- Garnet",Free,,,,,2026-10-22
-71039932,8,71,"Precious or semi-precious stones of ""Garnet"" and ""Lazurite"" mineralogical species: ---- Lapis-lazuli",Free,,,,,2026-10-22
-71039939,8,71,"Precious or semi-precious stones of ""Garnet"" and ""Lazurite"" mineralogical species: ---- Other",Free,,,,,2026-10-22
-71039941,8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Prehnite",Free,,,,,2026-10-22
-71039942,8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Agate",Free,,,,,2026-10-22
-71039943,8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Aventurine",Free,,,,,2026-10-22
-71039944,8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Chalcedony",Free,,,,,2026-10-22
-71039949,8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Other",Free,,,,,2026-10-22
-71039951,8,71,"Precious or semi-precious stones of ""Tourmaline"" and ""Zoisite"" mineralogical species: ---- Tourmaline",Free,,,,,2026-10-22
-71039952,8,71,"Precious or semi-precious stones of ""Tourmaline"" and ""Zoisite"" mineralogical species:---- Tanzanite",Free,,,,,2026-10-22
-71039959,8,71,"Precious or semi-precious stones of ""Tourmaline"" and ""Zoisite"" mineralogical species: ---- Other",Free,,,,,2026-10-22
-71039990,8,71,Other,Free,,,,,2026-10-22
-7104,4,71,"Synthetic or reconstructed precious or semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport.",,,,,,2026-10-22
-71041000,8,71,Piezo-electric quartz,Free,,,,,2026-10-22
-710421,6,71,Diamonds:,,,,,,2026-10-22
-71042110,8,71,Industrial,Free,.,,08/2023,2023-05-29,2026-10-22
-71042120,8,71,Non-industrial,Free,.,,08/2023,2023-05-29,2026-10-22
-71042900,8,71,"Other, unworked or simply sawn or roughly shaped: - - Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
-710491,6,71,Diamonds:,,,,,,2026-10-22
-71049110,8,71,Industrial,Free,.,,08/2023,2023-05-29,2026-10-22
-71049120,8,71,Non-industrial,Free,.,,08/2023,2023-05-29,2026-10-22
-71049900,8,71,Other: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
-7105,4,71,Dust and powder of natural or synthetic precious or semi- semiprecious stones.,,,,,,2026-10-22
-710510,6,71,Of Diamonds:,,,,,,2026-10-22
-71051010,8,71,Of heading 7102,Free,.,,08/2023,2023-05-29,2026-10-22
-71051020,8,71,Of heading 7104,Free,.,,08/2023,2023-05-29,2026-10-22
-71059000,8,71,Other,Free,,,,,2026-10-22
-7106,4,71,"Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form.",,,,,,2026-10-22
-71061000,8,71,Powder,Restricted,"Imports through nominated agencies notified by the Reserve Bank of India, in the case of banks, and by the Directorate General of Foreign Trade, in the case of other agencies, shall be permitted only against a valid Import Authorisation issued by the DGFT.",,19/2026-27,2026-06-02,2026-10-22
-710691,6,71,Other :-- Unwrought:,,,,,,2026-10-22
-71069110,8,71,Grains,Restricted,"Imports through nominated agencies notified by the Reserve Bank of India, in the case of banks, and by the Directorate General of Foreign Trade, in the case of other agencies, and by qualified jewellers as notified by the IFSCA for import through India International Bullion Exchange (IIBX) shall be permitted only against a valid Import Authorisation issued by the DGFT. Silver dore can be imported by refineries against a license with AU Condition.",,19/2026-27,2026-06-02,2026-10-22
-71069120,8,71,Containing 99.9 per cent. or more by weight of silver,Restricted,"Imports through nominated agencies notified by the Reserve Bank of India, in the case of banks, by the Directorate General of Foreign Trade, in the case of other agencies, and by qualified jewellers as notified by the IFSCA for import through India International Bullion Exchange (IIBX) shall be permitted only against a valid Import Authorisation issued by the DGFT.",,19/ 2026-27,2026-01-02,2026-10-22
-71069190,8,71,Other,Restricted,"Imports through nominated agencies notified by the Reserve Bank of India, in the case of banks, and by the Directorate General of Foreign Trade, in the case of other agencies, shall be permitted only against a valid Import Authorisation issued by the DGFT. Silver dore can be imported by refineries against a license with AU condition",,19/2026-27,2026-06-02,2026-10-22
-710692,6,71,Other : -- Semi-manufactured,,,,,,2026-10-22
-71069210,8,71,"Sheets, plates, strips, tubes and pipes",Restricted,Subject to Policy condition no. 05 of this Chapter.,5,57/2023,2024-01-15,2026-10-22
-71069221,8,71,Bar: Containing 99.9 percent or more by weight of silver,Restricted,Subject to policy condition no 7 of this chapter,7,17/2026-27,2026-05-16,2026-10-22
-71069229,8,71,Bar---- Other,Restricted,Subject to policy condition no 7 of this chapter,7,17/2026-27,2026-05-16,2026-10-22
-71069290,8,71,Other,Restricted,Subject to Policy condition no. 05 of this Chapter. Import for other purposes is also permitted through Qualified Jewellers as notified by the IFSCA for import through India International bullion Exchange (IIBX).,5,57/2023,2024-01-15,2026-10-22
-71070000,8,71,"Base metals clad with silver, not further worked than semimanufactured.",Free,,,,,2026-10-22
-7108,4,71,"Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in powder form.",,,,,,2026-10-22
-71081100,8,71,Non-monetary : -- Powder,Restricted,Import is allowed only through nominated agencies as notified by RBI (in case of banks) and DGFT (for other agencies).,,49/2015-2020,2022-01-05,2026-10-22
-71081210,8,71,Containing 99.5 per cent. or more by weight of gold,Restricted,1. Import is allowed through: (i) Nominated agencies as notified by RBI (in case of banks) or nominated agencies notified DGFT (for other agencies) (ii) Qualified Jewellers (as notified by IFSCA) through India International Bullion Exchange (IIBX); 2. Valid India-UAE TRQ holders as notified by IFSCA can import gold through IIBX against the TRQ and can obtain physical delivery of the same through IFSCA registered vaults located in SEZs as per the guidelines prescribed by the IFSCA.,,08/ 2025-26,2025-05-19,2026-10-22
-71081290,8,71,Other,Restricted,1. Import is allowed through: (i) Nominated agencies as notified by RBI (in case of banks) or nominated agencies notified DGFT (for other agencies) (ii) Qualified Jewellers (as notified by IFSCA) through India International Bullion Exchange (IIBX) ; 2. Valid India-UAE TRQ holders as notified by IFSCA can import gold through IIBX against the TRQ and can obtain physical delivery of the same through IFSCA registered vaults located in SEZs as per the guidelines prescribed by the IFSCA. 3. Gold Dore can be imported by refineries against an import license with Actual User (AU) condition.,,08/ 2025-26,2025-05-19,2026-10-22
-71081310,8,71,Containing 99.5 per cent. or more by weight of gold,Restricted,Import is allowed only through nominated agencies as notified by RBI (in case of banks) and DGFT (for other agencies),,08/ 2025-26,2025-05-19,2026-10-22
-71081390,8,71,Other,Restricted,Import is allowed only through nominated agencies as notified by RBI (in case of banks) and DGFT (for other agencies),,08/ 2025-26,2025-05-19,2026-10-22
-71082000,8,71,Monetary,Restricted,,,,,2026-10-22
-71090000,8,71,"Base metals or silver, clad with gold, not further worked than semi-manufactured.",Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
-7110,4,71,"Platinum, unwrought or in semi-manufactured forms, or in powder form.",,,,,,2026-10-22
-711011,6,71,Platinum : -- Unwrought or in powder form,,,,,,2026-10-22
-71101111,8,71,Unwrought form --- Containing 99.0 per cent or more by weight of platinum,Free,-,,08/ 2025-26,2025-05-19,2026-10-22
-71101119,8,71,Unwrought form: --- Other,Restricted,-,,08/ 2025-26,2025-05-19,2026-10-22
-71101121,8,71,In powder form: --- Containing 99.0 per cent. or more by weight of platinum,Free,-,,08/ 2025-26,2025-05-19,2026-10-22
-71101129,8,71,In powder form: --- other,Restricted,-,,08/ 2025-26,2025-05-19,2026-10-22
-71101910,8,71,Containing 99.0 per cent. or more by weight of platinum,Free,-,,08/ 2025-26,2025-05-19,2026-10-22
-71101990,8,71,Other,Restricted,-,,08/ 2025-26,2025-05-19,2026-10-22
-71102100,8,71,Palladium : -- Unwrought or in powder form,Free,"However, import of Palladium alloy consisting of gold more than 1 percent (1%) by weight is Restricted.",,18/2025-26,2025-06-17,2026-10-22
-71102900,8,71,Palladium : -- Other,Free,"However, import of Palladium alloy consisting of gold more than 1 percent (1%) by weight is Restricted.",,18/2025-26,2025-06-17,2026-10-22
-71103100,8,71,Rhodium : -- Unwrought or in powder form,Free,"However, import of Rhodium alloy consisting of gold more than 1 percent (1%) by weight is Restricted.",,18/2025-26,2025-06-17,2026-10-22
-71103900,8,71,Rhodium : -- Other,Free,"However, import of Rhodium alloy consisting of gold more than 1 percent (1%) by weight is Restricted.",,18/2025-26,2025-06-17,2026-10-22
-71104100,8,71,"Iridium, osmium and ruthenium : -- Unwrought or in powder form",Free,"However, import of Iridium alloy, osmium alloy and ruthenium alloy consisting of gold more than 1 percent (1%) by weight is Restricted.",,18/2025-26,2025-06-17,2026-10-22
-71104900,8,71,"Iridium, osmium and ruthenium : -- Other",Free,"However, import of Iridium alloy, osmium alloy and ruthenium alloy consisting of gold more than 1 percent (1%) by weight is Restricted.",,18/2025-26,2025-06-17,2026-10-22
-71110000,8,71,"Base metals, silver or gold, clad with platinum, not further worked than semi-manufactured.",Free,"However, import of item with Silver or Gold more than 1% by weight is ""Restricted"".",,03/2026-27,2026-04-02,2026-10-22
-7112,4,71,"WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL OTHER THAN GOODS OF HEADING 8549",,,,,,2026-10-22
-71123000,8,71,Ash containing precious metal or precious metal compounds,Restricted,-,,01/2015-2020,2022-04-29,2026-10-22
-71129100,8,71,"Other : -- Of gold, including metal clad with gold but excluding sweepings containing other precious metals",Restricted,-,,01/2015-2020,2022-04-29,2026-10-22
-71129200,8,71,"Other : -- Of platinum, including metal clad with platinum but excluding sweepings containing other precious metals",Restricted,-,,01/2015-2020,2022-04-29,2026-10-22
-711299,6,71,Other : -- Other,,,,,,2026-10-22
-71129910,8,71,"Of silver, including metal clad with silver but excluding sweepings containing other precious metals",Restricted,-,,01/2015-2020,2022-04-29,2026-10-22
-71129920,8,71,Sweepings containing gold or silver,Restricted,-,,01/2015-2020,2022-04-29,2026-10-22
-71129990,8,71,Other,Restricted,-,,01/2015-2020,2022-04-29,2026-10-22
-7113,4,71,"Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal.",,,,,,2026-10-22
-711311,6,71,"Of precious metal whether or not plated or clad with precious metal : -- Of silver, whether or not plated or clad with other precious metal",,,,,,2026-10-22
-71131110,8,71,Jewellery with filigree work,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
-71131141,8,71,Other Jewellery: ----Unstudded,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
-71131142,8,71,Other Jewellery: ----Studded with pearls,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
-71131143,8,71,Other Jewellery: ----Studded with diamonds of heading 7102,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
-71131144,8,71,Other Jewellery: ----Studded with diamonds of heading 7104,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
-71131145,8,71,Other Jewellery: ----Studded with other precious and semi-precious stones,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
-71131149,8,71,Other Jewellery: ----Other,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
-71131190,8,71,Parts,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
-711319,6,71,"Of precious metal whether or not plated or clad with precious metal : -- Of other precious metal, whether or not plated or clad with precious metal",,,,,,2026-10-22
-71131911,8,71,Of gold: ----Unstudded,Restricted,"However, import under a valid INDIA-UAE CEPA TRQ shall be permitted without any import license.",,02/2026-27,2026-04-01,2026-10-22
-71131912,8,71,Of gold: ----Studded with pearls,Restricted,However import under a valid INDIA-UAE CEPA TRQ shall be permitted without any import license.,,02/2026-27,2026-04-01,2026-10-22
-71131913,8,71,Of gold: ----Studded with diamonds of heading 7102,Restricted,However import under a valid INDIA-UAE CEPA TRQ shall be permitted without any import license.,,02/2026-27,2026-04-01,2026-10-22
-71131914,8,71,Of gold: ----Studded with diamonds of heading 7104,Restricted,However import under a valid INDIA-UAE CEPA TRQ shall be permitted without any import license.,,02/2026-27,2026-04-01,2026-10-22
-71131915,8,71,Of gold :----Studded with other precious and semi-precious stones,Restricted,.However import under a valid INDIA-UAE CEPA TRQ shall be permitted without any import license.,,02/2026-27,2026-04-01,2026-10-22
-71131919,8,71,Of gold :----Other,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
-71131921,8,71,Of platinum :----Unstudded,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
-71131922,8,71,Of platinum :----Studded with pearls,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
-71131923,8,71,Of platinum :----Studded with diamonds of heading 7102,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
-71131924,8,71,Of platinum :----Studded with diamonds of heading 7104,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
-71131925,8,71,Of platinum :----Studded with other precious and semi-precious stones,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
-71131929,8,71,Of platinum :----Other,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
-71131960,8,71,Parts,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
-71131990,8,71,Other,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
-71132000,8,71,Of base metal clad with precious metal,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
-7114,4,71,"Articles of goldsmiths or silversmiths wares and parts thereof, of precious metal or of metal clad with precious metal.",,,,,,2026-10-22
-711411,6,71,"Of precious metal whether or not plated or clad with precious metal : -- Of silver, whether or not plated or clad with other precious metal",,,,,,2026-10-22
-71141110,8,71,Articles,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
-71141120,8,71,Parts,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
-711419,6,71,"Of precious metal whether or not plated or clad with precious metal : -- Of other precious metal, whether or not plated or clad with precious metal",,,,,,2026-10-22
-71141910,8,71,Articles of gold,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
-71141920,8,71,Articles of platinum,Restricted,Subject to Policy Condition No. 7 of this Chapter,7,03/2026-27,2026-04-02,2026-10-22
-71141930,8,71,Parts,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
-711420,6,71,Of base metal clad with precious metal :,,,,,,2026-10-22
-71142010,8,71,Articles clad with gold,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
-71142020,8,71,Other articles,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
-71142030,8,71,Parts,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
-7115,4,71,Other articles of precious metal or of metal clad with precious metal,,,,,,2026-10-22
-71151000,8,71,"Catalysts in the form Of wire cloth or grill, Of platinum",Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
-711590,6,71,Other,,,,,,2026-10-22
-71159010,8,71,Laboratory and industrial articles of precious metal,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2006-27,2026-04-02,2026-10-22
-71159020,8,71,Spinnerets made mainly of gold,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
-71159090,8,71,Other,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
-7116,4,71,"Articles of natural or cultured pearls, precious or semi-precious stones (natural, synthetic or reconstructed).",,,,,,2026-10-22
-71161000,8,71,Of natural or cultured pearls,Free,,,,,2026-10-22
-71162000,8,71,"Of precious or semi-precious stones (natural, synthetic or reconstructed)",Free,,,,,2026-10-22
-7117,4,71,Imitation jewellery.,,,,,,2026-10-22
-71171100,8,71,"Of base metal, whether or not plated with precious metal : -- Cuff-links and studs",Free,,,,,2026-10-22
-711719,6,71,"Of base metal, whether or not plated with precious metal : -- Other",,,,,,2026-10-22
-71171910,8,71,Bangles,Free,,,,,2026-10-22
-71171920,8,71,German silver jewellery,Free,,,,,2026-10-22
-71171990,8,71,Other,Free,,,,,2026-10-22
-711790,6,71,Other,,,,,,2026-10-22
-71179010,8,71,Jewellery studded with imitation pearls or imitation or synthetic stones,Free,,,,,2026-10-22
-71179090,8,71,Other,Free,,,,,2026-10-22
-7118,4,71,Coin.,,,,,,2026-10-22
-71181000,8,71,"Coin (Other than gold Coin), not being legal tender",Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
-71189000,8,71,Other,Restricted,"Import is allowed only through nominated agencies as notified by RBI (in case of banks), DGFT (for other agencies) and IFSCA (for qualified jewellers through India International Bullion Exchange).",,49/2015-2020,2022-01-05,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+7101,,,4,71,"Pearls, natural or cultured, whether or not worked or graded but not strung, mounted or set; pearls, natural or cultured, temporarily strung for convenience of transport.",,,,,,2026-10-22
+710110,710110,"Pearls; natural, whether or not worked or graded (but not strung, mounted or set), temporarily strung for the convenience of transport",6,71,Natural pearls,,,,,,2026-10-22
+71011010,710110,"Pearls; natural, whether or not worked or graded (but not strung, mounted or set), temporarily strung for the convenience of transport",8,71,Unworked,Free,,,,,2026-10-22
+71011020,710110,"Pearls; natural, whether or not worked or graded (but not strung, mounted or set), temporarily strung for the convenience of transport",8,71,Worked,Free,,,,,2026-10-22
+71012100,710121,"Pearls; cultured, unworked, whether or not graded (but not strung, mounted or set), temporarily strung for the convenience of transport",8,71,Cultured pearls : -- Unworked,Free,,,,,2026-10-22
+71012200,710122,"Pearls; cultured, worked, whether or not graded (but not strung, mounted or set), temporarily strung for the convenience of transport",8,71,Cultured pearls : -- Worked,Free,,,,,2026-10-22
+7102,,,4,71,"Diamonds, whether or not worked, but not mounted or set.",,,,,,2026-10-22
+71021000,710210,"Diamonds; whether or not worked, but not mounted or set, unsorted",8,71,Unsorted,Free,Subject to Policy Condition 2,2,,,2026-10-22
+710221,710221,"Diamonds; industrial, unworked or simply sawn, cleaved or bruted, but not mounted or set",6,71,"Industrial : -- Unworked or simply sawn, cleaved or bruted",,,,,,2026-10-22
+71022110,710221,"Diamonds; industrial, unworked or simply sawn, cleaved or bruted, but not mounted or set",8,71,Sorted,Free,,,,,2026-10-22
+71022120,710221,"Diamonds; industrial, unworked or simply sawn, cleaved or bruted, but not mounted or set",8,71,Unsorted,Free,,,,,2026-10-22
+710229,710229,"Diamonds; industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",6,71,Industrial : -- Other,,,,,,2026-10-22
+71022910,710229,"Diamonds; industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",8,71,Crushed,Free,,,,,2026-10-22
+71022990,710229,"Diamonds; industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",8,71,Other,Free,,,,,2026-10-22
+71023100,710231,"Diamonds; non-industrial, unworked or simply sawn, cleaved or bruted, but not mounted or set",8,71,"Non-industrial : -- Unworked or simply sawn, cleaved or bruted",Free,,,,,2026-10-22
+710239,710239,"Diamonds; non-industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",6,71,Non-industrial : -- Other,,,,,,2026-10-22
+71023910,710239,"Diamonds; non-industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",8,71,"Diamond, cut or otherwise worked but not mounted or set",Free,,,,,2026-10-22
+71023990,710239,"Diamonds; non-industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",8,71,Other,Free,,,,,2026-10-22
+7103,,,4,71,"Precious stones (other than diamonds) and semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded precious stones (other than diamonds) and semiprecious stones, temporarily strung for convenience of transport.",,,,,,2026-10-22
+710310,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",6,71,Unworked or simply sawn or roughly shaped,,,,,,2026-10-22
+71031031,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species: ----Emerald",Free,,,,,2026-10-22
+71031032,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species: ---- Yellow/golden/pink/red/green beryl",Free,,,,,2026-10-22
+71031033,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species: ---- Chrysoberyl (including chrysoberyl cat s eye)",Free,,,,,2026-10-22
+71031034,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species: ---- Alexandrite (including alexandrite cat s eye)",Free,,,,,2026-10-22
+71031039,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species: ---- Other",Free,,,,,2026-10-22
+71031041,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Corundum"" and ""Feldspar "" mineralogical species: ---- Ruby",Free,,,,,2026-10-22
+71031042,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Corundum"" and ""Feldspar "" mineralogical species: ---- Sapphire",Free,,,,,2026-10-22
+71031043,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Corundum"" and ""Feldspar "" mineralogical species: ---- Moonstone",Free,,,,,2026-10-22
+71031049,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Corundum"" and ""Feldspar "" mineralogical species: ---- Other",Free,,,,,2026-10-22
+71031051,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Garnet"" and ""Lazurite"" mineralogical species: ---- Garnet",Free,,,,,2026-10-22
+71031052,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Garnet"" and ""Lazurite"" mineralogical species: ---- Lapis-lazuli",Free,,,,,2026-10-22
+71031059,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Garnet"" and ""Lazurite"" mineralogical species: ---- Other",Free,,,,,2026-10-22
+71031061,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Prehnite",Free,,,,,2026-10-22
+71031062,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Agate",Free,,,,,2026-10-22
+71031063,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Aventurine",Free,,,,,2026-10-22
+71031064,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Chalcedony",Free,,,,,2026-10-22
+71031069,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Tourmaline"" and ""Zoisite"" mineralogical species: ---- Tourmaline",Free,,,,,2026-10-22
+71031071,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,Tourmaline,Free,,,,,2026-10-22
+71031072,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Tourmaline"" and ""Zoisite"" mineralogical species: ---- Tanzanite",Free,,,,,2026-10-22
+71031079,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Tourmaline"" and ""Zoisite"" mineralogical species: ---- Other",Free,,,,,2026-10-22
+71031090,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",8,71,Other,Free,,,,,2026-10-22
+710391,710391,"Stones; rubies, sapphires and emeralds, worked (other than simply sawn or roughly shaped), not strung, mounted or set",6,71,"Otherwise worked : -- Rubies, sapphires and emeralds",,,,,,2026-10-22
+71039110,710391,"Stones; rubies, sapphires and emeralds, worked (other than simply sawn or roughly shaped), not strung, mounted or set",8,71,Ruby,Free,,,,,2026-10-22
+71039120,710391,"Stones; rubies, sapphires and emeralds, worked (other than simply sawn or roughly shaped), not strung, mounted or set",8,71,Sapphire,Free,,,,,2026-10-22
+71039130,710391,"Stones; rubies, sapphires and emeralds, worked (other than simply sawn or roughly shaped), not strung, mounted or set",8,71,Emeralds,Free,,,,,2026-10-22
+710399,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",6,71,Otherwise worked : -- Other,,,,,,2026-10-22
+71039911,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species, other than ""Emerald"":---- Yellow/golden/pink/red/green beryl",Free,,,,,2026-10-22
+71039912,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species, other than ""Emerald"": ---- Chrysoberyl (including chrysoberyl cat s eye)",Free,,,,,2026-10-22
+71039913,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species, other than ""Emerald"": ---- Alexandrite (including alexandrite cat s eye)",Free,,,,,2026-10-22
+71039919,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Beryl"" and ""Chrysoberyl"" mineralogical species, other than ""Emerald"": ---- Other",Free,,,,,2026-10-22
+71039921,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Corundum"" and ""Feldspar"" mineralogical species, other than ""Ruby""and ""Sapphire"": ---- Moonstone",Free,,,,,2026-10-22
+71039929,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Corundum"" and ""Feldspar"" mineralogical species, other than ""Ruby""and ""Sapphire"": ---- Other",Free,,,,,2026-10-22
+71039931,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Garnet"" and ""Lazurite"" mineralogical species: ---- Garnet",Free,,,,,2026-10-22
+71039932,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Garnet"" and ""Lazurite"" mineralogical species: ---- Lapis-lazuli",Free,,,,,2026-10-22
+71039939,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Garnet"" and ""Lazurite"" mineralogical species: ---- Other",Free,,,,,2026-10-22
+71039941,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Prehnite",Free,,,,,2026-10-22
+71039942,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Agate",Free,,,,,2026-10-22
+71039943,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Aventurine",Free,,,,,2026-10-22
+71039944,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Chalcedony",Free,,,,,2026-10-22
+71039949,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Prehnite"" and ""Quartz"" mineralogical species: ---- Other",Free,,,,,2026-10-22
+71039951,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Tourmaline"" and ""Zoisite"" mineralogical species: ---- Tourmaline",Free,,,,,2026-10-22
+71039952,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Tourmaline"" and ""Zoisite"" mineralogical species:---- Tanzanite",Free,,,,,2026-10-22
+71039959,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,"Precious or semi-precious stones of ""Tourmaline"" and ""Zoisite"" mineralogical species: ---- Other",Free,,,,,2026-10-22
+71039990,710399,"Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",8,71,Other,Free,,,,,2026-10-22
+7104,,,4,71,"Synthetic or reconstructed precious or semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport.",,,,,,2026-10-22
+71041000,710410,"Stones; piezo-electric quartz, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport",8,71,Piezo-electric quartz,Free,,,,,2026-10-22
+710421,710421,"Stones; diamonds, unworked or simply sawn or roughly shaped",6,71,Diamonds:,,,,,,2026-10-22
+71042110,710421,"Stones; diamonds, unworked or simply sawn or roughly shaped",8,71,Industrial,Free,.,,08/2023,2023-05-29,2026-10-22
+71042120,710421,"Stones; diamonds, unworked or simply sawn or roughly shaped",8,71,Non-industrial,Free,.,,08/2023,2023-05-29,2026-10-22
+71042900,710429,"Stones; synthetic or reconstructed precious or semi-precious n.e.c. in heading 7104, unworked or simply sawn or roughly shaped",8,71,"Other, unworked or simply sawn or roughly shaped: - - Other",Free,,,54/2015-2020,2022-02-09,2026-10-22
+710491,710491,"Stones; diamonds, n.e.c. in heading 7104, worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport",6,71,Diamonds:,,,,,,2026-10-22
+71049110,710491,"Stones; diamonds, n.e.c. in heading 7104, worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport",8,71,Industrial,Free,.,,08/2023,2023-05-29,2026-10-22
+71049120,710491,"Stones; diamonds, n.e.c. in heading 7104, worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport",8,71,Non-industrial,Free,.,,08/2023,2023-05-29,2026-10-22
+71049900,710499,"Stones; synthetic or reconstructed precious or semi-precious n.e.c. in heading 7104, worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport",8,71,Other: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+7105,,,4,71,Dust and powder of natural or synthetic precious or semi- semiprecious stones.,,,,,,2026-10-22
+710510,710510,"Stones; precious and semi-precious, dust and powder, of diamonds",6,71,Of Diamonds:,,,,,,2026-10-22
+71051010,710510,"Stones; precious and semi-precious, dust and powder, of diamonds",8,71,Of heading 7102,Free,.,,08/2023,2023-05-29,2026-10-22
+71051020,710510,"Stones; precious and semi-precious, dust and powder, of diamonds",8,71,Of heading 7104,Free,.,,08/2023,2023-05-29,2026-10-22
+71059000,710590,"Stones; precious and semi-precious, dust and powder, of natural or synthetic precious or semi-precious stones, excluding diamonds",8,71,Other,Free,,,,,2026-10-22
+7106,,,4,71,"Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form.",,,,,,2026-10-22
+71061000,710610,Metals; silver powder,8,71,Powder,Restricted,"Imports through nominated agencies notified by the Reserve Bank of India, in the case of banks, and by the Directorate General of Foreign Trade, in the case of other agencies, shall be permitted only against a valid Import Authorisation issued by the DGFT.",,19/2026-27,2026-06-02,2026-10-22
+710691,710691,"Metals; silver, unwrought, (but not powder)",6,71,Other :-- Unwrought:,,,,,,2026-10-22
+71069110,710691,"Metals; silver, unwrought, (but not powder)",8,71,Grains,Restricted,"Imports through nominated agencies notified by the Reserve Bank of India, in the case of banks, and by the Directorate General of Foreign Trade, in the case of other agencies, and by qualified jewellers as notified by the IFSCA for import through India International Bullion Exchange (IIBX) shall be permitted only against a valid Import Authorisation issued by the DGFT. Silver dore can be imported by refineries against a license with AU Condition.",,19/2026-27,2026-06-02,2026-10-22
+71069120,710691,"Metals; silver, unwrought, (but not powder)",8,71,Containing 99.9 per cent. or more by weight of silver,Restricted,"Imports through nominated agencies notified by the Reserve Bank of India, in the case of banks, by the Directorate General of Foreign Trade, in the case of other agencies, and by qualified jewellers as notified by the IFSCA for import through India International Bullion Exchange (IIBX) shall be permitted only against a valid Import Authorisation issued by the DGFT.",,19/ 2026-27,2026-01-02,2026-10-22
+71069190,710691,"Metals; silver, unwrought, (but not powder)",8,71,Other,Restricted,"Imports through nominated agencies notified by the Reserve Bank of India, in the case of banks, and by the Directorate General of Foreign Trade, in the case of other agencies, shall be permitted only against a valid Import Authorisation issued by the DGFT. Silver dore can be imported by refineries against a license with AU condition",,19/2026-27,2026-06-02,2026-10-22
+710692,710692,"Metals; silver, semi-manufactured",6,71,Other : -- Semi-manufactured,,,,,,2026-10-22
+71069210,710692,"Metals; silver, semi-manufactured",8,71,"Sheets, plates, strips, tubes and pipes",Restricted,Subject to Policy condition no. 05 of this Chapter.,5,57/2023,2024-01-15,2026-10-22
+71069221,710692,"Metals; silver, semi-manufactured",8,71,Bar: Containing 99.9 percent or more by weight of silver,Restricted,Subject to policy condition no 7 of this chapter,7,17/2026-27,2026-05-16,2026-10-22
+71069229,710692,"Metals; silver, semi-manufactured",8,71,Bar---- Other,Restricted,Subject to policy condition no 7 of this chapter,7,17/2026-27,2026-05-16,2026-10-22
+71069290,710692,"Metals; silver, semi-manufactured",8,71,Other,Restricted,Subject to Policy condition no. 05 of this Chapter. Import for other purposes is also permitted through Qualified Jewellers as notified by the IFSCA for import through India International bullion Exchange (IIBX).,5,57/2023,2024-01-15,2026-10-22
+71070000,710700,Base metals clad with silver; not further worked than semi-manufactured,8,71,"Base metals clad with silver, not further worked than semimanufactured.",Free,,,,,2026-10-22
+7108,,,4,71,"Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in powder form.",,,,,,2026-10-22
+71081100,710811,"Metals; gold, non-monetary, powder",8,71,Non-monetary : -- Powder,Restricted,Import is allowed only through nominated agencies as notified by RBI (in case of banks) and DGFT (for other agencies).,,49/2015-2020,2022-01-05,2026-10-22
+71081210,710812,"Metals; gold, non-monetary, unwrought (but not powder)",8,71,Containing 99.5 per cent. or more by weight of gold,Restricted,1. Import is allowed through: (i) Nominated agencies as notified by RBI (in case of banks) or nominated agencies notified DGFT (for other agencies) (ii) Qualified Jewellers (as notified by IFSCA) through India International Bullion Exchange (IIBX); 2. Valid India-UAE TRQ holders as notified by IFSCA can import gold through IIBX against the TRQ and can obtain physical delivery of the same through IFSCA registered vaults located in SEZs as per the guidelines prescribed by the IFSCA.,,08/ 2025-26,2025-05-19,2026-10-22
+71081290,710812,"Metals; gold, non-monetary, unwrought (but not powder)",8,71,Other,Restricted,1. Import is allowed through: (i) Nominated agencies as notified by RBI (in case of banks) or nominated agencies notified DGFT (for other agencies) (ii) Qualified Jewellers (as notified by IFSCA) through India International Bullion Exchange (IIBX) ; 2. Valid India-UAE TRQ holders as notified by IFSCA can import gold through IIBX against the TRQ and can obtain physical delivery of the same through IFSCA registered vaults located in SEZs as per the guidelines prescribed by the IFSCA. 3. Gold Dore can be imported by refineries against an import license with Actual User (AU) condition.,,08/ 2025-26,2025-05-19,2026-10-22
+71081310,710813,"Metals; gold, semi-manufactured",8,71,Containing 99.5 per cent. or more by weight of gold,Restricted,Import is allowed only through nominated agencies as notified by RBI (in case of banks) and DGFT (for other agencies),,08/ 2025-26,2025-05-19,2026-10-22
+71081390,710813,"Metals; gold, semi-manufactured",8,71,Other,Restricted,Import is allowed only through nominated agencies as notified by RBI (in case of banks) and DGFT (for other agencies),,08/ 2025-26,2025-05-19,2026-10-22
+71082000,710820,"Gold, monetary",8,71,Monetary,Restricted,,,,,2026-10-22
+71090000,710900,"Base metals or silver; clad with gold, not further worked than semi-manufactured",8,71,"Base metals or silver, clad with gold, not further worked than semi-manufactured.",Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
+7110,,,4,71,"Platinum, unwrought or in semi-manufactured forms, or in powder form.",,,,,,2026-10-22
+711011,711011,"Metals; platinum, unwrought or in powder form",6,71,Platinum : -- Unwrought or in powder form,,,,,,2026-10-22
+71101111,711011,"Metals; platinum, unwrought or in powder form",8,71,Unwrought form --- Containing 99.0 per cent or more by weight of platinum,Free,-,,08/ 2025-26,2025-05-19,2026-10-22
+71101119,711011,"Metals; platinum, unwrought or in powder form",8,71,Unwrought form: --- Other,Restricted,-,,08/ 2025-26,2025-05-19,2026-10-22
+71101121,711011,"Metals; platinum, unwrought or in powder form",8,71,In powder form: --- Containing 99.0 per cent. or more by weight of platinum,Free,-,,08/ 2025-26,2025-05-19,2026-10-22
+71101129,711011,"Metals; platinum, unwrought or in powder form",8,71,In powder form: --- other,Restricted,-,,08/ 2025-26,2025-05-19,2026-10-22
+71101910,711019,"Metals; platinum, semi-manufactured",8,71,Containing 99.0 per cent. or more by weight of platinum,Free,-,,08/ 2025-26,2025-05-19,2026-10-22
+71101990,711019,"Metals; platinum, semi-manufactured",8,71,Other,Restricted,-,,08/ 2025-26,2025-05-19,2026-10-22
+71102100,711021,"Metals; palladium, unwrought or in powder form",8,71,Palladium : -- Unwrought or in powder form,Free,"However, import of Palladium alloy consisting of gold more than 1 percent (1%) by weight is Restricted.",,18/2025-26,2025-06-17,2026-10-22
+71102900,711029,"Metals; palladium, semi-manufactured",8,71,Palladium : -- Other,Free,"However, import of Palladium alloy consisting of gold more than 1 percent (1%) by weight is Restricted.",,18/2025-26,2025-06-17,2026-10-22
+71103100,711031,"Metals; rhodium, unwrought or in powder form",8,71,Rhodium : -- Unwrought or in powder form,Free,"However, import of Rhodium alloy consisting of gold more than 1 percent (1%) by weight is Restricted.",,18/2025-26,2025-06-17,2026-10-22
+71103900,711039,"Metals; rhodium, semi-manufactured",8,71,Rhodium : -- Other,Free,"However, import of Rhodium alloy consisting of gold more than 1 percent (1%) by weight is Restricted.",,18/2025-26,2025-06-17,2026-10-22
+71104100,711041,"Metals; iridium, osmium, ruthenium, unwrought or in powder form",8,71,"Iridium, osmium and ruthenium : -- Unwrought or in powder form",Free,"However, import of Iridium alloy, osmium alloy and ruthenium alloy consisting of gold more than 1 percent (1%) by weight is Restricted.",,18/2025-26,2025-06-17,2026-10-22
+71104900,711049,"Metals; iridium, osmium, ruthenium, semi-manufactured",8,71,"Iridium, osmium and ruthenium : -- Other",Free,"However, import of Iridium alloy, osmium alloy and ruthenium alloy consisting of gold more than 1 percent (1%) by weight is Restricted.",,18/2025-26,2025-06-17,2026-10-22
+71110000,711100,"Base metals, silver or gold, clad with platinum; not further worked than semi-manufactured",8,71,"Base metals, silver or gold, clad with platinum, not further worked than semi-manufactured.",Free,"However, import of item with Silver or Gold more than 1% by weight is ""Restricted"".",,03/2026-27,2026-04-02,2026-10-22
+7112,,,4,71,"WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL OTHER THAN GOODS OF HEADING 8549",,,,,,2026-10-22
+71123000,711230,Waste and scrap of precious metal or of metal clad with precious metal; ash containing precious metal or precious metal compounds,8,71,Ash containing precious metal or precious metal compounds,Restricted,-,,01/2015-2020,2022-04-29,2026-10-22
+71129100,711291,"Waste and scrap of precious metals; of gold, including metal clad with gold but excluding sweepings containing other precious metals",8,71,"Other : -- Of gold, including metal clad with gold but excluding sweepings containing other precious metals",Restricted,-,,01/2015-2020,2022-04-29,2026-10-22
+71129200,711292,"Waste and scrap of precious metals; of platinum, including metal clad with platinum but excluding sweepings containing other precious metals",8,71,"Other : -- Of platinum, including metal clad with platinum but excluding sweepings containing other precious metals",Restricted,-,,01/2015-2020,2022-04-29,2026-10-22
+711299,711299,"Waste and scrap of precious metals; waste and scrap of precious metals including metal clad with precious metals, other than that of gold and platinum and excluding ash which contains precious metal or precious metal compounds",6,71,Other : -- Other,,,,,,2026-10-22
+71129910,711299,"Waste and scrap of precious metals; waste and scrap of precious metals including metal clad with precious metals, other than that of gold and platinum and excluding ash which contains precious metal or precious metal compounds",8,71,"Of silver, including metal clad with silver but excluding sweepings containing other precious metals",Restricted,-,,01/2015-2020,2022-04-29,2026-10-22
+71129920,711299,"Waste and scrap of precious metals; waste and scrap of precious metals including metal clad with precious metals, other than that of gold and platinum and excluding ash which contains precious metal or precious metal compounds",8,71,Sweepings containing gold or silver,Restricted,-,,01/2015-2020,2022-04-29,2026-10-22
+71129990,711299,"Waste and scrap of precious metals; waste and scrap of precious metals including metal clad with precious metals, other than that of gold and platinum and excluding ash which contains precious metal or precious metal compounds",8,71,Other,Restricted,-,,01/2015-2020,2022-04-29,2026-10-22
+7113,,,4,71,"Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal.",,,,,,2026-10-22
+711311,711311,"Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",6,71,"Of precious metal whether or not plated or clad with precious metal : -- Of silver, whether or not plated or clad with other precious metal",,,,,,2026-10-22
+71131110,711311,"Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",8,71,Jewellery with filigree work,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
+71131141,711311,"Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",8,71,Other Jewellery: ----Unstudded,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
+71131142,711311,"Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",8,71,Other Jewellery: ----Studded with pearls,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
+71131143,711311,"Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",8,71,Other Jewellery: ----Studded with diamonds of heading 7102,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
+71131144,711311,"Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",8,71,Other Jewellery: ----Studded with diamonds of heading 7104,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
+71131145,711311,"Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",8,71,Other Jewellery: ----Studded with other precious and semi-precious stones,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
+71131149,711311,"Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",8,71,Other Jewellery: ----Other,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
+71131190,711311,"Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",8,71,Parts,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
+711319,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",6,71,"Of precious metal whether or not plated or clad with precious metal : -- Of other precious metal, whether or not plated or clad with precious metal",,,,,,2026-10-22
+71131911,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Of gold: ----Unstudded,Restricted,"However, import under a valid INDIA-UAE CEPA TRQ shall be permitted without any import license.",,02/2026-27,2026-04-01,2026-10-22
+71131912,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Of gold: ----Studded with pearls,Restricted,However import under a valid INDIA-UAE CEPA TRQ shall be permitted without any import license.,,02/2026-27,2026-04-01,2026-10-22
+71131913,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Of gold: ----Studded with diamonds of heading 7102,Restricted,However import under a valid INDIA-UAE CEPA TRQ shall be permitted without any import license.,,02/2026-27,2026-04-01,2026-10-22
+71131914,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Of gold: ----Studded with diamonds of heading 7104,Restricted,However import under a valid INDIA-UAE CEPA TRQ shall be permitted without any import license.,,02/2026-27,2026-04-01,2026-10-22
+71131915,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Of gold :----Studded with other precious and semi-precious stones,Restricted,.However import under a valid INDIA-UAE CEPA TRQ shall be permitted without any import license.,,02/2026-27,2026-04-01,2026-10-22
+71131919,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Of gold :----Other,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
+71131921,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Of platinum :----Unstudded,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
+71131922,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Of platinum :----Studded with pearls,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
+71131923,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Of platinum :----Studded with diamonds of heading 7102,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
+71131924,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Of platinum :----Studded with diamonds of heading 7104,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
+71131925,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Of platinum :----Studded with other precious and semi-precious stones,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
+71131929,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Of platinum :----Other,Restricted,.-,,02/2026-27,2026-04-01,2026-10-22
+71131960,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Parts,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
+71131990,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",8,71,Other,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
+71132000,711320,"Jewellery; of base metal clad with precious metal, and parts thereof",8,71,Of base metal clad with precious metal,Restricted,-,,02/2026-27,2026-04-01,2026-10-22
+7114,,,4,71,"Articles of goldsmiths or silversmiths wares and parts thereof, of precious metal or of metal clad with precious metal.",,,,,,2026-10-22
+711411,711411,"Silversmiths' wares; and parts thereof, of silver, whether or not plated or clad with other precious metal",6,71,"Of precious metal whether or not plated or clad with precious metal : -- Of silver, whether or not plated or clad with other precious metal",,,,,,2026-10-22
+71141110,711411,"Silversmiths' wares; and parts thereof, of silver, whether or not plated or clad with other precious metal",8,71,Articles,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
+71141120,711411,"Silversmiths' wares; and parts thereof, of silver, whether or not plated or clad with other precious metal",8,71,Parts,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
+711419,711419,"Goldsmiths' wares; articles of and parts thereof, of precious metal (excluding silver) whether or not plated or clad with precious metal",6,71,"Of precious metal whether or not plated or clad with precious metal : -- Of other precious metal, whether or not plated or clad with precious metal",,,,,,2026-10-22
+71141910,711419,"Goldsmiths' wares; articles of and parts thereof, of precious metal (excluding silver) whether or not plated or clad with precious metal",8,71,Articles of gold,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
+71141920,711419,"Goldsmiths' wares; articles of and parts thereof, of precious metal (excluding silver) whether or not plated or clad with precious metal",8,71,Articles of platinum,Restricted,Subject to Policy Condition No. 7 of this Chapter,7,03/2026-27,2026-04-02,2026-10-22
+71141930,711419,"Goldsmiths' wares; articles of and parts thereof, of precious metal (excluding silver) whether or not plated or clad with precious metal",8,71,Parts,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
+711420,711420,"Goldsmiths' and silversmiths' wares; articles of and parts thereof, of base metal clad with precious metal",6,71,Of base metal clad with precious metal :,,,,,,2026-10-22
+71142010,711420,"Goldsmiths' and silversmiths' wares; articles of and parts thereof, of base metal clad with precious metal",8,71,Articles clad with gold,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
+71142020,711420,"Goldsmiths' and silversmiths' wares; articles of and parts thereof, of base metal clad with precious metal",8,71,Other articles,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
+71142030,711420,"Goldsmiths' and silversmiths' wares; articles of and parts thereof, of base metal clad with precious metal",8,71,Parts,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
+7115,,,4,71,Other articles of precious metal or of metal clad with precious metal,,,,,,2026-10-22
+71151000,711510,"Metal; catalysts in the form of wire cloth or grill, of platinum",8,71,"Catalysts in the form Of wire cloth or grill, Of platinum",Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
+711590,711590,"Metal; precious or metal clad with precious metal, other than that of item no. 7115.10",6,71,Other,,,,,,2026-10-22
+71159010,711590,"Metal; precious or metal clad with precious metal, other than that of item no. 7115.10",8,71,Laboratory and industrial articles of precious metal,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2006-27,2026-04-02,2026-10-22
+71159020,711590,"Metal; precious or metal clad with precious metal, other than that of item no. 7115.10",8,71,Spinnerets made mainly of gold,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
+71159090,711590,"Metal; precious or metal clad with precious metal, other than that of item no. 7115.10",8,71,Other,Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
+7116,,,4,71,"Articles of natural or cultured pearls, precious or semi-precious stones (natural, synthetic or reconstructed).",,,,,,2026-10-22
+71161000,711610,Pearls; articles of natural or cultured pearls,8,71,Of natural or cultured pearls,Free,,,,,2026-10-22
+71162000,711620,"Stones; precious or semi-precious stones (natural, synthetic or reconstructed) articles of",8,71,"Of precious or semi-precious stones (natural, synthetic or reconstructed)",Free,,,,,2026-10-22
+7117,,,4,71,Imitation jewellery.,,,,,,2026-10-22
+71171100,711711,"Jewellery; imitation, cuff links and studs, of base metal, whether or not plated with precious metal",8,71,"Of base metal, whether or not plated with precious metal : -- Cuff-links and studs",Free,,,,,2026-10-22
+711719,711719,"Jewellery; imitation, (excluding cuff links and studs), of base metal, whether or not plated with precious metal",6,71,"Of base metal, whether or not plated with precious metal : -- Other",,,,,,2026-10-22
+71171910,711719,"Jewellery; imitation, (excluding cuff links and studs), of base metal, whether or not plated with precious metal",8,71,Bangles,Free,,,,,2026-10-22
+71171920,711719,"Jewellery; imitation, (excluding cuff links and studs), of base metal, whether or not plated with precious metal",8,71,German silver jewellery,Free,,,,,2026-10-22
+71171990,711719,"Jewellery; imitation, (excluding cuff links and studs), of base metal, whether or not plated with precious metal",8,71,Other,Free,,,,,2026-10-22
+711790,711790,"Jewellery; imitation, of other than base metal, whether or not plated with precious metal",6,71,Other,,,,,,2026-10-22
+71179010,711790,"Jewellery; imitation, of other than base metal, whether or not plated with precious metal",8,71,Jewellery studded with imitation pearls or imitation or synthetic stones,Free,,,,,2026-10-22
+71179090,711790,"Jewellery; imitation, of other than base metal, whether or not plated with precious metal",8,71,Other,Free,,,,,2026-10-22
+7118,,,4,71,Coin.,,,,,,2026-10-22
+71181000,711810,"Coin (other than gold coin), not being legal tender",8,71,"Coin (Other than gold Coin), not being legal tender",Restricted,Subject to Policy Condition No. 7 of this Chapter.,7,03/2026-27,2026-04-02,2026-10-22
+71189000,711890,Coin; other than coin of item no. 7118.10,8,71,Other,Restricted,"Import is allowed only through nominated agencies as notified by RBI (in case of banks), DGFT (for other agencies) and IFSCA (for qualified jewellers through India International Bullion Exchange).",,49/2015-2020,2022-01-05,2026-10-22

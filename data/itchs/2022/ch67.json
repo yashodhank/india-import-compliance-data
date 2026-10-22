@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "6701",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "67",
    "description": "Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and articles thereof (other than goods of heading 05.05 and worked quills and scapes).",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "670100",
+   "hs6": "670100",
+   "hs6_description": "Skins and other parts of birds with their feathers or down; feathers, parts of feathers, down and articles thereof (other than goods of heading no. 0505 and worked quills and scapes)",
    "level": 6,
    "chapter": "67",
    "description": "Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "67010010",
+   "hs6": "670100",
+   "hs6_description": "Skins and other parts of birds with their feathers or down; feathers, parts of feathers, down and articles thereof (other than goods of heading no. 0505 and worked quills and scapes)",
    "level": 8,
    "chapter": "67",
    "description": "Feather dusters",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "67010090",
+   "hs6": "670100",
+   "hs6_description": "Skins and other parts of birds with their feathers or down; feathers, parts of feathers, down and articles thereof (other than goods of heading no. 0505 and worked quills and scapes)",
    "level": 8,
    "chapter": "67",
    "description": "Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "6702",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "67",
    "description": "Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit.",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "670210",
+   "hs6": "670210",
+   "hs6_description": "Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit, of plastics",
    "level": 6,
    "chapter": "67",
    "description": "Of plastics",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "67021010",
+   "hs6": "670210",
+   "hs6_description": "Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit, of plastics",
    "level": 8,
    "chapter": "67",
    "description": "Decorative plants",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "67021090",
+   "hs6": "670210",
+   "hs6_description": "Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit, of plastics",
    "level": 8,
    "chapter": "67",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "670290",
+   "hs6": "670290",
+   "hs6_description": "Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit, of materials other than plastics",
    "level": 6,
    "chapter": "67",
    "description": "Of other materials",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "67029010",
+   "hs6": "670290",
+   "hs6_description": "Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit, of materials other than plastics",
    "level": 8,
    "chapter": "67",
    "description": "Of jute",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "67029090",
+   "hs6": "670290",
+   "hs6_description": "Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit, of materials other than plastics",
    "level": 8,
    "chapter": "67",
    "description": "Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "6703",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "67",
    "description": "Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like.",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "670300",
+   "hs6": "670300",
+   "hs6_description": "Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like",
    "level": 6,
    "chapter": "67",
    "description": "Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like :",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "67030010",
+   "hs6": "670300",
+   "hs6_description": "Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like",
    "level": 8,
    "chapter": "67",
    "description": "Human hair, dressed, thinned, bleached or otherwise worked",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "67030020",
+   "hs6": "670300",
+   "hs6_description": "Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like",
    "level": 8,
    "chapter": "67",
    "description": "Wool or other animal hair or other textile materials, prepared for use in making wigs or the like",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "6704",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "67",
    "description": "Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of textile materials; articles of human hair not elsewhere specified or included.",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "67041100",
+   "hs6": "670411",
+   "hs6_description": "Wigs; complete, of synthetic textile materials",
    "level": 8,
    "chapter": "67",
    "description": "Of synthetic textile materials : -- Complete wigs",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "670419",
+   "hs6": "670419",
+   "hs6_description": "False beards, eyebrows and eyelashes, switches and the like; of synthetic textile materials",
    "level": 6,
    "chapter": "67",
    "description": "Of synthetic textile materials : -- Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "67041910",
+   "hs6": "670419",
+   "hs6_description": "False beards, eyebrows and eyelashes, switches and the like; of synthetic textile materials",
    "level": 8,
    "chapter": "67",
    "description": "Hair nets",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "67041990",
+   "hs6": "670419",
+   "hs6_description": "False beards, eyebrows and eyelashes, switches and the like; of synthetic textile materials",
    "level": 8,
    "chapter": "67",
    "description": "Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "670420",
+   "hs6": "670420",
+   "hs6_description": "Wigs, false beards, eyebrows and eyelashes, switches and the like and other articles n.e.c.; of human hair",
    "level": 6,
    "chapter": "67",
    "description": "Of human hair",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "67042010",
+   "hs6": "670420",
+   "hs6_description": "Wigs, false beards, eyebrows and eyelashes, switches and the like and other articles n.e.c.; of human hair",
    "level": 8,
    "chapter": "67",
    "description": "Wigs",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "67042020",
+   "hs6": "670420",
+   "hs6_description": "Wigs, false beards, eyebrows and eyelashes, switches and the like and other articles n.e.c.; of human hair",
    "level": 8,
    "chapter": "67",
    "description": "Hair nets",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "67042090",
+   "hs6": "670420",
+   "hs6_description": "Wigs, false beards, eyebrows and eyelashes, switches and the like and other articles n.e.c.; of human hair",
    "level": 8,
    "chapter": "67",
    "description": "Other",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "67049000",
+   "hs6": "670490",
+   "hs6_description": "Wigs, false beards, eyebrows and eyelashes, switches and the like and other articles n.e.c.; of animal hair or of textile materials other than synthetic",
    "level": 8,
    "chapter": "67",
    "description": "Of other materials",

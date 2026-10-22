@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "9001",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Optical fibres and optical fibre bundles; optical fibre cables other than those of heading 8544; sheets and plates of polarising material; lenses (including contact lenses), prisms, mirrors and other optical elements, of any material, unmounted, other than such elements of glass not optically worked.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "90011000",
+   "hs6": "900110",
+   "hs6_description": "Optical fibres, optical fibre bundles and cables; excluding those of heading no. 8544",
    "level": 8,
    "chapter": "90",
    "description": "Optical fibres, Optical fibres bundles and cables",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "90012000",
+   "hs6": "900120",
+   "hs6_description": "Optical elements; polarising material, sheets and plates thereof",
    "level": 8,
    "chapter": "90",
    "description": "Sheets and plates of polarising material",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "90013000",
+   "hs6": "900130",
+   "hs6_description": "Lenses, contact; unmounted, of any material, excluding elements of glass not optically worked",
    "level": 8,
    "chapter": "90",
    "description": "Contact lenses",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "900140",
+   "hs6": "900140",
+   "hs6_description": "Lenses, spectacle; unmounted, of glass, excluding elements of glass not optically worked",
    "level": 6,
    "chapter": "90",
    "description": "Spectacle lenses of glass",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "90014010",
+   "hs6": "900140",
+   "hs6_description": "Lenses, spectacle; unmounted, of glass, excluding elements of glass not optically worked",
    "level": 8,
    "chapter": "90",
    "description": "Polarised glass",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "90014090",
+   "hs6": "900140",
+   "hs6_description": "Lenses, spectacle; unmounted, of glass, excluding elements of glass not optically worked",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "90015000",
+   "hs6": "900150",
+   "hs6_description": "Lenses, spectacle; unmounted, of materials other than glass",
    "level": 8,
    "chapter": "90",
    "description": "Spectacle lenses of other materials",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "900190",
+   "hs6": "900190",
+   "hs6_description": "Optical elements; lenses n.e.c. in heading no. 9001, prisms, mirrors and other optical elements, unmounted, of any material (excluding elements of glass not optically worked)",
    "level": 6,
    "chapter": "90",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "90019010",
+   "hs6": "900190",
+   "hs6_description": "Optical elements; lenses n.e.c. in heading no. 9001, prisms, mirrors and other optical elements, unmounted, of any material (excluding elements of glass not optically worked)",
    "level": 8,
    "chapter": "90",
    "description": "Optical calcite crystal",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "90019090",
+   "hs6": "900190",
+   "hs6_description": "Optical elements; lenses n.e.c. in heading no. 9001, prisms, mirrors and other optical elements, unmounted, of any material (excluding elements of glass not optically worked)",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "9002",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such elements of glass not optically worked.",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "90021100",
+   "hs6": "900211",
+   "hs6_description": "Lenses; objective, for cameras, projectors or photographic enlargers or reducers, mounted, being parts or fittings for instruments or apparatus, of any material (excluding glass not optically worked)",
    "level": 8,
    "chapter": "90",
    "description": "Objective lenses : -- For cameras, projectors or photographic enlargers or reducers",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "90021900",
+   "hs6": "900219",
+   "hs6_description": "Lenses; objective, (other than for cameras, projectors or photographic enlargers or reducers), mounted, of any material (excluding elements of glass not optically worked)",
    "level": 8,
    "chapter": "90",
    "description": "Objective lenses : -- Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "90022000",
+   "hs6": "900220",
+   "hs6_description": "Filters; mounted as parts or fittings for instruments or apparatus, of any material (excluding elements of glass not optically worked)",
    "level": 8,
    "chapter": "90",
    "description": "Filters",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "90029000",
+   "hs6": "900290",
+   "hs6_description": "Optical elements; n.e.c. in heading no. 9002 (e.g. prisms and mirrors), mounted, being parts or fittings for instruments or apparatus, of any material (excluding elements of glass not optically worked)",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "9003",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Frames and mountings for spectacles, goggles or the like, and parts thereof.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "90031100",
+   "hs6": "900311",
+   "hs6_description": "Frames and mountings; for spectacles, goggles or the like, of plastics",
    "level": 8,
    "chapter": "90",
    "description": "Frames and mountings : -- Of plastics",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "90031900",
+   "hs6": "900319",
+   "hs6_description": "Frames and mountings; for spectacles, goggles or the like, of materials other than plastics",
    "level": 8,
    "chapter": "90",
    "description": "Frames and mountings : -- Of other materials",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "90039000",
+   "hs6": "900390",
+   "hs6_description": "Frames and mountings; parts for spectacles, goggles or the like",
    "level": 8,
    "chapter": "90",
    "description": "Parts",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "9004",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Spectacles, goggles and the like, corrective, protective or other.",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "90041000",
+   "hs6": "900410",
+   "hs6_description": "Sunglasses; corrective, protective or other",
    "level": 8,
    "chapter": "90",
    "description": "Sunglasses",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "900490",
+   "hs6": "900490",
+   "hs6_description": "Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",
    "level": 6,
    "chapter": "90",
    "description": "Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "90049010",
+   "hs6": "900490",
+   "hs6_description": "Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",
    "level": 8,
    "chapter": "90",
    "description": "Passive night vision goggles",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "90049020",
+   "hs6": "900490",
+   "hs6_description": "Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",
    "level": 8,
    "chapter": "90",
    "description": "Prismatic eyeglasses for reading",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "90049090",
+   "hs6": "900490",
+   "hs6_description": "Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "9005",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Binoculars, monoculars, other optical telescopes, and mountings therefor; other astronomical instruments and mountings therefor, but not including instruments for radio-astronomy.",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "90051000",
+   "hs6": "900510",
+   "hs6_description": "Binoculars",
    "level": 8,
    "chapter": "90",
    "description": "Binoculars",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "900580",
+   "hs6": "900580",
+   "hs6_description": "Monoculars; other optical telescopes and astronomical instruments, excluding instruments for radio-astronomy",
    "level": 6,
    "chapter": "90",
    "description": "Other instruments",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "90058010",
+   "hs6": "900580",
+   "hs6_description": "Monoculars; other optical telescopes and astronomical instruments, excluding instruments for radio-astronomy",
    "level": 8,
    "chapter": "90",
    "description": "Monocular and refracting telescopes",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "90058020",
+   "hs6": "900580",
+   "hs6_description": "Monoculars; other optical telescopes and astronomical instruments, excluding instruments for radio-astronomy",
    "level": 8,
    "chapter": "90",
    "description": "Astronomical instruments",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "90058090",
+   "hs6": "900580",
+   "hs6_description": "Monoculars; other optical telescopes and astronomical instruments, excluding instruments for radio-astronomy",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "900590",
+   "hs6": "900590",
+   "hs6_description": "Binoculars, monoculars, other optical telescopes, astronomical instruments (excluding those of radio-astronomy); parts and accessories (including mountings)",
    "level": 6,
    "chapter": "90",
    "description": "Parts and accessories (including mountings)",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "90059010",
+   "hs6": "900590",
+   "hs6_description": "Binoculars, monoculars, other optical telescopes, astronomical instruments (excluding those of radio-astronomy); parts and accessories (including mountings)",
    "level": 8,
    "chapter": "90",
    "description": "Of binocular or telescopic of heading 9005, other than mountings",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "90059020",
+   "hs6": "900590",
+   "hs6_description": "Binoculars, monoculars, other optical telescopes, astronomical instruments (excluding those of radio-astronomy); parts and accessories (including mountings)",
    "level": 8,
    "chapter": "90",
    "description": "Mountings for astronomical instruments",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "90059090",
+   "hs6": "900590",
+   "hs6_description": "Binoculars, monoculars, other optical telescopes, astronomical instruments (excluding those of radio-astronomy); parts and accessories (including mountings)",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "9006",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "90063000",
+   "hs6": "900630",
+   "hs6_description": "Cameras, photographic (excluding cinematographic); specially designed for underwater use, aerial survey, medical or surgical examination of internal organs; comparison cameras for forensic or criminological use",
    "level": 8,
    "chapter": "90",
    "description": "Cameras specially designed for underwater use, for aerial survey or for medical or surgical examination of internal organs; comparison cameras for forensic or criminological purposes",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "90064000",
+   "hs6": "900640",
+   "hs6_description": "Cameras, photographic (excluding cinematographic); instant print cameras",
    "level": 8,
    "chapter": "90",
    "description": "Instant print cameras",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "900653",
+   "hs6": "900653",
+   "hs6_description": "Cameras, photographic (excluding cinematographic), for roll film of a width of 35mm",
    "level": 6,
    "chapter": "90",
    "description": "Other cameras :- - For roll film of a width of 35 mm:",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "90065310",
+   "hs6": "900653",
+   "hs6_description": "Cameras, photographic (excluding cinematographic), for roll film of a width of 35mm",
    "level": 8,
    "chapter": "90",
    "description": "Fixed focus 35 mm cameras",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "90065390",
+   "hs6": "900653",
+   "hs6_description": "Cameras, photographic (excluding cinematographic), for roll film of a width of 35mm",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "900659",
+   "hs6": "900659",
+   "hs6_description": "Cameras, photographic (excluding cinematographic); n.e.c. in heading no 9006",
    "level": 6,
    "chapter": "90",
    "description": "Other cameras : -- Other",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "90065910",
+   "hs6": "900659",
+   "hs6_description": "Cameras, photographic (excluding cinematographic); n.e.c. in heading no 9006",
    "level": 8,
    "chapter": "90",
    "description": "Fixed focus 110 mm cameras",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "90065990",
+   "hs6": "900659",
+   "hs6_description": "Cameras, photographic (excluding cinematographic); n.e.c. in heading no 9006",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "90066100",
+   "hs6": "900661",
+   "hs6_description": "Photographic flashlight apparatus; discharge lamp (electronic)",
    "level": 8,
    "chapter": "90",
    "description": "Photographic flashlight apparatus and flashbulbs : -- Discharge lamp (ìelectronicî) flashlight apparatus",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "90066900",
+   "hs6": "900669",
+   "hs6_description": "Photographic flashlight apparatus; n.e.c. in heading no. 9006",
    "level": 8,
    "chapter": "90",
    "description": "Photographic flashlight apparatus and flashbulbs : -- Other",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "90069100",
+   "hs6": "900691",
+   "hs6_description": "Cameras, photographic (excluding cinematographic); parts and accessories",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories : -- For cameras",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "90069900",
+   "hs6": "900699",
+   "hs6_description": "Photographic flashlight apparatus; parts and accessories, for other than cameras",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories : -- Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "9007",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus.",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "900710",
+   "hs6": "900710",
+   "hs6_description": "Cameras, cinematographic; whether or not incorporating sound recording apparatus",
    "level": 6,
    "chapter": "90",
    "description": "Cameras",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "90071010",
+   "hs6": "900710",
+   "hs6_description": "Cameras, cinematographic; whether or not incorporating sound recording apparatus",
    "level": 8,
    "chapter": "90",
    "description": "For film of less than 16 mm",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "90071090",
+   "hs6": "900710",
+   "hs6_description": "Cameras, cinematographic; whether or not incorporating sound recording apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "900720",
+   "hs6": "900720",
+   "hs6_description": "Projectors, cinematographic; whether or not incorporating sound recording or reproducing apparatus",
    "level": 6,
    "chapter": "90",
    "description": "Projectors",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "90072010",
+   "hs6": "900720",
+   "hs6_description": "Projectors, cinematographic; whether or not incorporating sound recording or reproducing apparatus",
    "level": 8,
    "chapter": "90",
    "description": "For film of less than 16 mm width",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "90072090",
+   "hs6": "900720",
+   "hs6_description": "Projectors, cinematographic; whether or not incorporating sound recording or reproducing apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "90079100",
+   "hs6": "900791",
+   "hs6_description": "Cameras, cinematographic; parts and accessories, whether or not incorporating sound recording apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories : -- For cameras",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "90079200",
+   "hs6": "900792",
+   "hs6_description": "Projectors, cinematographic; parts and accessories, whether or not incorporating sound reproducing apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories : -- For projectors",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "9008",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Image projectors, other than cinematographic; photographic (other than cinematographic) enlargers and reducers.",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "900850",
+   "hs6": "900850",
+   "hs6_description": "Image projectors, photographic enlargers and reducers, excluding cinematographic",
    "level": 6,
    "chapter": "90",
    "description": "Projectors, enlargers and reducers",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "90085010",
+   "hs6": "900850",
+   "hs6_description": "Image projectors, photographic enlargers and reducers, excluding cinematographic",
    "level": 8,
    "chapter": "90",
    "description": "Slide projectors",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "90085020",
+   "hs6": "900850",
+   "hs6_description": "Image projectors, photographic enlargers and reducers, excluding cinematographic",
    "level": 8,
    "chapter": "90",
    "description": "Microfilm, microfiche or other microform readers, whether or not capable of producing copies",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "90085030",
+   "hs6": "900850",
+   "hs6_description": "Image projectors, photographic enlargers and reducers, excluding cinematographic",
    "level": 8,
    "chapter": "90",
    "description": "Other image projectors",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "90085040",
+   "hs6": "900850",
+   "hs6_description": "Image projectors, photographic enlargers and reducers, excluding cinematographic",
    "level": 8,
    "chapter": "90",
    "description": "Photographic (other than Cinematographic) enlargers and reducers",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "90089000",
+   "hs6": "900890",
+   "hs6_description": "Photographic (other than cinematographic) image projectors, enlargers, and reducers; parts and accessories",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "9010",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Apparatus and equipment for photographic (including cinematographic) laboratories, not specified or included elsewhere in this Chapter; negatoscopes; projection screens.",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "90101000",
+   "hs6": "901010",
+   "hs6_description": "Photographic laboratory apparatus and equipment; for automatically developing photographic (including cinematographic) film or paper in rolls or for automatically exposing developed film to rolls of paper",
    "level": 8,
    "chapter": "90",
    "description": "Apparatus and equipment for automatically developing photographic (including cinematographic) film or paper in rolls or for automatically exposing developed film to rolls of photographic paper",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "90105000",
+   "hs6": "901050",
+   "hs6_description": "Photographic laboratory apparatus and equipment; n.e.c. in item no. 9010.10, for photographic (including cinematographic) laboratories; negatoscopes",
    "level": 8,
    "chapter": "90",
    "description": "Other apparatus and equipment for photographic (including cinematographic) laboratories; negatoscopes",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "90106000",
+   "hs6": "901060",
+   "hs6_description": "Photographic laboratory apparatus and equipment (including cinematographic); projection screens",
    "level": 8,
    "chapter": "90",
    "description": "Projection screens",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "90109000",
+   "hs6": "901090",
+   "hs6_description": "Photographic laboratory apparatus and equipment (including cinematographic); parts and accessories",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "9011",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Compound optical microscopes, including those for photomicrography, cinephotomicrography or microprojection.",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "90111000",
+   "hs6": "901110",
+   "hs6_description": "Microscopes, compound optical; stereoscopic microscopes",
    "level": 8,
    "chapter": "90",
    "description": "Stereoscopic microscopes",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "90112000",
+   "hs6": "901120",
+   "hs6_description": "Microscopes, compound optical; for photomicrography, cinephotomicrography or microprojection",
    "level": 8,
    "chapter": "90",
    "description": "Other microscopes, for photomicrography, cinephotomicrography or microprojection",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "90118000",
+   "hs6": "901180",
+   "hs6_description": "Microscopes, compound optical; (other than stereoscopic and microscopes for photomicrography, cinephotomicrography or microprojection)",
    "level": 8,
    "chapter": "90",
    "description": "Other microscopes",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "90119000",
+   "hs6": "901190",
+   "hs6_description": "Microscopes, compound optical; parts and accessories (including those for photomicrography, cinephotomicrography or microprojection)",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "9012",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Microscopes other than optical microscopes; diffraction apparatus.",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "901210",
+   "hs6": "901210",
+   "hs6_description": "Microscopes (excluding optical microscopes); diffraction apparatus",
    "level": 6,
    "chapter": "90",
    "description": "Microscopes other than optical microscopes; diffraction apparatus",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "90121010",
+   "hs6": "901210",
+   "hs6_description": "Microscopes (excluding optical microscopes); diffraction apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Electron microscopes fitted with equipment specifically designed for the handling and transport of semi conductor wafers or reticles",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "90121090",
+   "hs6": "901210",
+   "hs6_description": "Microscopes (excluding optical microscopes); diffraction apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "90129000",
+   "hs6": "901290",
+   "hs6_description": "Microscopes (excluding optical microscopes); diffraction apparatus; parts and accessories",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "9013",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "901310",
+   "hs6": "901310",
+   "hs6_description": "Optical appliances and instruments; telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter",
    "level": 6,
    "chapter": "90",
    "description": "Telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this Chapter or Section XVI",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "90131010",
+   "hs6": "901310",
+   "hs6_description": "Optical appliances and instruments; telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter",
    "level": 8,
    "chapter": "90",
    "description": "Telescopic sights for fitting to arms",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "90131020",
+   "hs6": "901310",
+   "hs6_description": "Optical appliances and instruments; telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter",
    "level": 8,
    "chapter": "90",
    "description": "Periscopes",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "90131090",
+   "hs6": "901310",
+   "hs6_description": "Optical appliances and instruments; telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "90132000",
+   "hs6": "901320",
+   "hs6_description": "Lasers; other than laser diodes",
    "level": 8,
    "chapter": "90",
    "description": "Lasers, other than laser diodes",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "90138000",
+   "hs6": "901380",
+   "hs6_description": "Optical devices, appliances and instruments; n.e.c. in heading no. 9013",
    "level": 8,
    "chapter": "90",
    "description": "Other devices, appliances and instrument",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "90139000",
+   "hs6": "901390",
+   "hs6_description": "Optical appliances and instruments; parts and accessories for articles of heading no. 9013",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "9014",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "DIRECTION FINDING COMPASSES; OTHER NAVIGATIONAL INSTRUMENTS AND APPLIANCES",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "90141000",
+   "hs6": "901410",
+   "hs6_description": "Navigational instruments and appliances; direction finding compasses",
    "level": 8,
    "chapter": "90",
    "description": "Direction finding compasses",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "90142000",
+   "hs6": "901420",
+   "hs6_description": "Navigational instruments and appliances; for aeronautical or space navigation (excluding compasses)",
    "level": 8,
    "chapter": "90",
    "description": "Instruments and appliances for aeronautical or space navigation (other than compasses)",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "901480",
+   "hs6": "901480",
+   "hs6_description": "Navigational instruments and appliances; for navigation other than aeronautical or space navigation (excluding direction finding compasses)",
    "level": 6,
    "chapter": "90",
    "description": "Other instruments and appliances",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "90148010",
+   "hs6": "901480",
+   "hs6_description": "Navigational instruments and appliances; for navigation other than aeronautical or space navigation (excluding direction finding compasses)",
    "level": 8,
    "chapter": "90",
    "description": "Echo sounding instrument",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "90148020",
+   "hs6": "901480",
+   "hs6_description": "Navigational instruments and appliances; for navigation other than aeronautical or space navigation (excluding direction finding compasses)",
    "level": 8,
    "chapter": "90",
    "description": "Sextants",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "90148090",
+   "hs6": "901480",
+   "hs6_description": "Navigational instruments and appliances; for navigation other than aeronautical or space navigation (excluding direction finding compasses)",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "90149000",
+   "hs6": "901490",
+   "hs6_description": "Navigational instruments and appliances; parts and accessories",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "9015",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses; rangefinders.",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "90151000",
+   "hs6": "901510",
+   "hs6_description": "Rangefinders",
    "level": 8,
    "chapter": "90",
    "description": "Rangefinders",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "90152000",
+   "hs6": "901520",
+   "hs6_description": "Surveying equipment; theodolites and tachymeters (tacheometers)",
    "level": 8,
    "chapter": "90",
    "description": "Theodolities and tachymeters (tacheometers)",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "901530",
+   "hs6": "901530",
+   "hs6_description": "Surveying equipment; levels",
    "level": 6,
    "chapter": "90",
    "description": "Levels",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "90153010",
+   "hs6": "901530",
+   "hs6_description": "Surveying equipment; levels",
    "level": 8,
    "chapter": "90",
    "description": "Dumpy levels or engineers levels or builders levels (not automatic) and quick set levels with or without horizontal circles",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "90153090",
+   "hs6": "901530",
+   "hs6_description": "Surveying equipment; levels",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "90154000",
+   "hs6": "901540",
+   "hs6_description": "Surveying equipment; photogrammetrical surveying instruments and appliances",
    "level": 8,
    "chapter": "90",
    "description": "Photogrammetrical surveying instruments and appliances",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "901580",
+   "hs6": "901580",
+   "hs6_description": "Surveying equipment; articles n.e.c. in heading no. 9015, including hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excluding compasses)",
    "level": 6,
    "chapter": "90",
    "description": "Other instruments and appliances",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "90158010",
+   "hs6": "901580",
+   "hs6_description": "Surveying equipment; articles n.e.c. in heading no. 9015, including hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excluding compasses)",
    "level": 8,
    "chapter": "90",
    "description": "Hydrographic instruments",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "90158020",
+   "hs6": "901580",
+   "hs6_description": "Surveying equipment; articles n.e.c. in heading no. 9015, including hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excluding compasses)",
    "level": 8,
    "chapter": "90",
    "description": "Metorological instruments",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "90158030",
+   "hs6": "901580",
+   "hs6_description": "Surveying equipment; articles n.e.c. in heading no. 9015, including hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excluding compasses)",
    "level": 8,
    "chapter": "90",
    "description": "Geophysical instruments",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "90158090",
+   "hs6": "901580",
+   "hs6_description": "Surveying equipment; articles n.e.c. in heading no. 9015, including hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excluding compasses)",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "90159000",
+   "hs6": "901590",
+   "hs6_description": "Surveying equipment; parts and accessories for articles of heading no. 9015",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "9016",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Balances of a sensitivity of 5 cg or better, with or without weights.",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "901600",
+   "hs6": "901600",
+   "hs6_description": "Balances; of a sensitivity of 5cg or better, with or without weights",
    "level": 6,
    "chapter": "90",
    "description": "Balances of a sensitivity of 5cg or better, with or without weights :",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "90160010",
+   "hs6": "901600",
+   "hs6_description": "Balances; of a sensitivity of 5cg or better, with or without weights",
    "level": 8,
    "chapter": "90",
    "description": "Electric Balances",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "90160020",
+   "hs6": "901600",
+   "hs6_description": "Balances; of a sensitivity of 5cg or better, with or without weights",
    "level": 8,
    "chapter": "90",
    "description": "Other balances",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "90160090",
+   "hs6": "901600",
+   "hs6_description": "Balances; of a sensitivity of 5cg or better, with or without weights",
    "level": 8,
    "chapter": "90",
    "description": "Parts",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "9017",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Drawing, marking-out or mathematical calculating instruments (for example, drafting machines, pantographs, protractors, drawing sets, slide rules, disc calculators); instruments for measuring length, for use in the hand (for example, measuring rods and tapes, micrometers, callipers), not specified or included elsewhere in this Chapter.",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "90171000",
+   "hs6": "901710",
+   "hs6_description": "Drafting tables and machines; whether or not automatic",
    "level": 8,
    "chapter": "90",
    "description": "Drafting tables and machines, whether or not automatic",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "901720",
+   "hs6": "901720",
+   "hs6_description": "Drawing, marking-out or mathematical calculating instruments",
    "level": 6,
    "chapter": "90",
    "description": "Other drawing, marking-out or mathematical calculating instruments",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "90172010",
+   "hs6": "901720",
+   "hs6_description": "Drawing, marking-out or mathematical calculating instruments",
    "level": 8,
    "chapter": "90",
    "description": "Drawing and marking-out instruments",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "90172020",
+   "hs6": "901720",
+   "hs6_description": "Drawing, marking-out or mathematical calculating instruments",
    "level": 8,
    "chapter": "90",
    "description": "Mathematical calculating instruments",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "90172030",
+   "hs6": "901720",
+   "hs6_description": "Drawing, marking-out or mathematical calculating instruments",
    "level": 8,
    "chapter": "90",
    "description": "Pantograph",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "90172090",
+   "hs6": "901720",
+   "hs6_description": "Drawing, marking-out or mathematical calculating instruments",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "901730",
+   "hs6": "901730",
+   "hs6_description": "Mathematical equipment; micrometers, callipers and gauges",
    "level": 6,
    "chapter": "90",
    "description": "Micrometers, callipers and gauges",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "90173010",
+   "hs6": "901730",
+   "hs6_description": "Mathematical equipment; micrometers, callipers and gauges",
    "level": 8,
    "chapter": "90",
    "description": "Micro-meters and calipers",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "90173021",
+   "hs6": "901730",
+   "hs6_description": "Mathematical equipment; micrometers, callipers and gauges",
    "level": 8,
    "chapter": "90",
    "description": "Gauges: ----Plug",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "90173022",
+   "hs6": "901730",
+   "hs6_description": "Mathematical equipment; micrometers, callipers and gauges",
    "level": 8,
    "chapter": "90",
    "description": "Gauges: ----Ring",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "90173023",
+   "hs6": "901730",
+   "hs6_description": "Mathematical equipment; micrometers, callipers and gauges",
    "level": 8,
    "chapter": "90",
    "description": "Gauges: ----Slip",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "90173029",
+   "hs6": "901730",
+   "hs6_description": "Mathematical equipment; micrometers, callipers and gauges",
    "level": 8,
    "chapter": "90",
    "description": "Gauges: ----Other",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "901780",
+   "hs6": "901780",
+   "hs6_description": "Mathematical instruments and equipment; n.e.c. in heading no. 9017",
    "level": 6,
    "chapter": "90",
    "description": "Other instruments",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "90178010",
+   "hs6": "901780",
+   "hs6_description": "Mathematical instruments and equipment; n.e.c. in heading no. 9017",
    "level": 8,
    "chapter": "90",
    "description": "Measuring rods and tapes and divided scales",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "90178090",
+   "hs6": "901780",
+   "hs6_description": "Mathematical instruments and equipment; n.e.c. in heading no. 9017",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "90179000",
+   "hs6": "901790",
+   "hs6_description": "Drawing, marking-out equipment and mathematical instruments; parts and accessories",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "9018",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments.",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "90181100",
+   "hs6": "901811",
+   "hs6_description": "Medical, surgical instruments and appliances; electro-cardiographs",
    "level": 8,
    "chapter": "90",
    "description": "Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Electro-cardiographs",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "901812",
+   "hs6": "901812",
+   "hs6_description": "Medical, surgical instruments and appliances; ultrasonic scanning apparatus",
    "level": 6,
    "chapter": "90",
    "description": "Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Ultrasonic scanning apparatus",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "90181210",
+   "hs6": "901812",
+   "hs6_description": "Medical, surgical instruments and appliances; ultrasonic scanning apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Linear ultrasound scanner",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "90181290",
+   "hs6": "901812",
+   "hs6_description": "Medical, surgical instruments and appliances; ultrasonic scanning apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "90181300",
+   "hs6": "901813",
+   "hs6_description": "Medical, surgical instruments and appliances; magnetic resonance imaging apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Magnetic resonance imaging apparatus",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "90181400",
+   "hs6": "901814",
+   "hs6_description": "Medical, surgical instruments and appliances; scintigraphic apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Scintigraphic apparatus",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "901819",
+   "hs6": "901819",
+   "hs6_description": "Medical, surgical instruments and appliances; electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters), n.e.c. in item no. 9018.1",
    "level": 6,
    "chapter": "90",
    "description": "Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Other",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "90181910",
+   "hs6": "901819",
+   "hs6_description": "Medical, surgical instruments and appliances; electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters), n.e.c. in item no. 9018.1",
    "level": 8,
    "chapter": "90",
    "description": "Electro encephalographs",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "90181920",
+   "hs6": "901819",
+   "hs6_description": "Medical, surgical instruments and appliances; electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters), n.e.c. in item no. 9018.1",
    "level": 8,
    "chapter": "90",
    "description": "Echo cardiograph",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "90181990",
+   "hs6": "901819",
+   "hs6_description": "Medical, surgical instruments and appliances; electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters), n.e.c. in item no. 9018.1",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "90182000",
+   "hs6": "901820",
+   "hs6_description": "Medical, surgical instruments and appliances; ultra-violet or infra-red ray apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Ultra-violet or infra-red ray apparatus",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "90183100",
+   "hs6": "901831",
+   "hs6_description": "Medical, surgical instruments and appliances; syringes, with or without needles",
    "level": 8,
    "chapter": "90",
    "description": "Syringes, needles, catheters, cannulae and the like : -- Syringes, with or without needles",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "901832",
+   "hs6": "901832",
+   "hs6_description": "Medical, surgical instruments and appliances; tubular metal needles and needles for sutures",
    "level": 6,
    "chapter": "90",
    "description": "Syringes, needles, catheters, cannulae and the like : -- Tubular metal needles and needles for sutures",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "90183210",
+   "hs6": "901832",
+   "hs6_description": "Medical, surgical instruments and appliances; tubular metal needles and needles for sutures",
    "level": 8,
    "chapter": "90",
    "description": "Needles for suture",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "90183220",
+   "hs6": "901832",
+   "hs6_description": "Medical, surgical instruments and appliances; tubular metal needles and needles for sutures",
    "level": 8,
    "chapter": "90",
    "description": "Hollow needles for injection, aspiration, biopsy and transfusion",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "90183230",
+   "hs6": "901832",
+   "hs6_description": "Medical, surgical instruments and appliances; tubular metal needles and needles for sutures",
    "level": 8,
    "chapter": "90",
    "description": "Hilerio venus fistula needles",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "90183290",
+   "hs6": "901832",
+   "hs6_description": "Medical, surgical instruments and appliances; tubular metal needles and needles for sutures",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "901839",
+   "hs6": "901839",
+   "hs6_description": "Medical, surgical instruments and appliances; catheters, cannulae and the like",
    "level": 6,
    "chapter": "90",
    "description": "Syringes, needles, catheters, cannulae and the like : -- Other",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "90183910",
+   "hs6": "901839",
+   "hs6_description": "Medical, surgical instruments and appliances; catheters, cannulae and the like",
    "level": 8,
    "chapter": "90",
    "description": "Catheters (for urine, stool)",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "90183920",
+   "hs6": "901839",
+   "hs6_description": "Medical, surgical instruments and appliances; catheters, cannulae and the like",
    "level": 8,
    "chapter": "90",
    "description": "Cardiac catheters",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "90183930",
+   "hs6": "901839",
+   "hs6_description": "Medical, surgical instruments and appliances; catheters, cannulae and the like",
    "level": 8,
    "chapter": "90",
    "description": "Cannulae",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "90183990",
+   "hs6": "901839",
+   "hs6_description": "Medical, surgical instruments and appliances; catheters, cannulae and the like",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "90184100",
+   "hs6": "901841",
+   "hs6_description": "Dental instruments and appliances; dental drill engines, whether or not combined on a single base with other dental equipment",
    "level": 8,
    "chapter": "90",
    "description": "Other instruments and appliances, used in dental sciences : -- Dental drill engines, whether or not combined on a single base with other dental equipment",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "90184900",
+   "hs6": "901849",
+   "hs6_description": "Dental instruments and appliances; other than dental drill engines",
    "level": 8,
    "chapter": "90",
    "description": "Other instruments and appliances, used in dental sciences : -- Other",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "901850",
+   "hs6": "901850",
+   "hs6_description": "Ophthalmic instruments and appliances",
    "level": 6,
    "chapter": "90",
    "description": "Other ophthalmic instruments and appliances",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "90185010",
+   "hs6": "901850",
+   "hs6_description": "Ophthalmic instruments and appliances",
    "level": 8,
    "chapter": "90",
    "description": "Opthalmoscopes",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "90185020",
+   "hs6": "901850",
+   "hs6_description": "Ophthalmic instruments and appliances",
    "level": 8,
    "chapter": "90",
    "description": "Tonometers",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "90185030",
+   "hs6": "901850",
+   "hs6_description": "Ophthalmic instruments and appliances",
    "level": 8,
    "chapter": "90",
    "description": "Ophthalmic lasers",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "90185090",
+   "hs6": "901850",
+   "hs6_description": "Ophthalmic instruments and appliances",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "901890",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 6,
    "chapter": "90",
    "description": "Other instruments and appliances",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "90189011",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Diagnostic instruments and apparatus :---- Instrument and apparatus for measuring blood pressure",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "90189012",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Diagnostic instruments and apparatus :---- Stethoscopes",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "90189019",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Diagnostic instruments and apparatus :---- Other",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "90189021",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Surgical tools: ----Bone saws, drills and trephines",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "90189022",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Surgical tools: ----Knives, scissors and blades",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "90189023",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Surgical tools: ----Forceps, forcep clamps, clips, needle holders, introducers, cephalotribe bone holding and other holding instruments",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "90189024",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Surgical tools: ----Chisel, gauges, elevators, raspatones, osteotome, craniotome, bone cutters",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "90189025",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Surgical tools: ----Retractors, spatulaprobes, hooks dialators, sounds, mallets",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "90189029",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Surgical tools: ----Other",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "90189031",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Artificial kidney (dialysis) apparatus, blood transfusion apparatus:----Artificial kidney (dialysis) apparatus",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "90189032",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Artificial kidney (dialysis) apparatus, blood transfusion apparatus:---- Blood transfusion apparatus",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "90189041",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Anesthetic apparatus and instruments, ENT precision instruments, acupuncture apparatus, and endoscopes: ----Anesthetic apparatus and instruments",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "90189042",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Anesthetic apparatus and instruments, ENT precision instruments, acupuncture apparatus, and endoscopes: ----ENT precision instruments",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "90189043",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Anesthetic apparatus and instruments, ENT precision instruments, acupuncture apparatus, and endoscopes: ----Acupuncture apparatus",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "90189044",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "Anesthetic apparatus and instruments, ENT precision instruments, acupuncture apparatus, and endoscopes: ----Endoscopes",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "90189091",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "other ----Hilerial or venous shunts",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "90189092",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "other ----Baby incubators",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "90189093",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "other ----Heart-lung machines",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "90189094",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "other ----Defibrillators",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "90189095",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "other ----Fibrescopes",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "90189096",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "other ----Laproscopes",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "90189097",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "other ----Vetrasonic lithotripsy instruments",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "90189098",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "other ----Apparatus for nerve stimulation",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "90189099",
+   "hs6": "901890",
+   "hs6_description": "Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",
    "level": 8,
    "chapter": "90",
    "description": "other ----Other",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "9019",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus.",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "901910",
+   "hs6": "901910",
+   "hs6_description": "Mechano-therapy appliances; massage apparatus and psychological aptitude-testing apparatus",
    "level": 6,
    "chapter": "90",
    "description": "Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "90191010",
+   "hs6": "901910",
+   "hs6_description": "Mechano-therapy appliances; massage apparatus and psychological aptitude-testing apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Mechano-therapy appliances",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "90191020",
+   "hs6": "901910",
+   "hs6_description": "Mechano-therapy appliances; massage apparatus and psychological aptitude-testing apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Massage apparatus",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "90191090",
+   "hs6": "901910",
+   "hs6_description": "Mechano-therapy appliances; massage apparatus and psychological aptitude-testing apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "901920",
+   "hs6": "901920",
+   "hs6_description": "Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",
    "level": 6,
    "chapter": "90",
    "description": "Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "90192010",
+   "hs6": "901920",
+   "hs6_description": "Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Oxygen therapy apparatus",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "90192090",
+   "hs6": "901920",
+   "hs6_description": "Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "90200000",
+   "hs6": "902000",
+   "hs6_description": "Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20",
    "level": 8,
    "chapter": "90",
    "description": "Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters.",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "9021",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability.",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "90211000",
+   "hs6": "902110",
+   "hs6_description": "Orthopaedic or fracture appliances",
    "level": 8,
    "chapter": "90",
    "description": "Orthopaedic or fracture appliances",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "90212100",
+   "hs6": "902121",
+   "hs6_description": "Dental fittings; artificial teeth",
    "level": 8,
    "chapter": "90",
    "description": "Artificial teeth and dental fittings : -- Artificial teeth",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "90212900",
+   "hs6": "902129",
+   "hs6_description": "Dental fittings; other than artificial teeth",
    "level": 8,
    "chapter": "90",
    "description": "Artificial teeth and dental fittings : -- Other",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "90213100",
+   "hs6": "902131",
+   "hs6_description": "Artificial parts of the body",
    "level": 8,
    "chapter": "90",
    "description": "Other artificial parts of the body : -- Artificial joints",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "90213900",
+   "hs6": "902139",
+   "hs6_description": "Artificial parts of the body; excluding artificial joints",
    "level": 8,
    "chapter": "90",
    "description": "Other artificial parts of the body : -- Other",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "902140",
+   "hs6": "902140",
+   "hs6_description": "Hearing aids (excluding parts and accessories)",
    "level": 6,
    "chapter": "90",
    "description": "Hearing aids, excluding parts and accessories",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "90214010",
+   "hs6": "902140",
+   "hs6_description": "Hearing aids (excluding parts and accessories)",
    "level": 8,
    "chapter": "90",
    "description": "Frequency modulated hearing aid system used for hearing by handicapped persons in group situation",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "90214090",
+   "hs6": "902140",
+   "hs6_description": "Hearing aids (excluding parts and accessories)",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "90215000",
+   "hs6": "902150",
+   "hs6_description": "Pacemakers; for stimulating heart muscles (excluding parts and accessories)",
    "level": 8,
    "chapter": "90",
    "description": "Pacemakers for stimulating heart muscles, excluding parts and accessories",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "902190",
+   "hs6": "902190",
+   "hs6_description": "Appliances; worn, carried or implanted in the body, to compensate for a defect or disability",
    "level": 6,
    "chapter": "90",
    "description": "Other",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "90219010",
+   "hs6": "902190",
+   "hs6_description": "Appliances; worn, carried or implanted in the body, to compensate for a defect or disability",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories of hearing aids",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "90219090",
+   "hs6": "902190",
+   "hs6_description": "Appliances; worn, carried or implanted in the body, to compensate for a defect or disability",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "9022",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA GAMMA OR OTHER IONISING RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS,X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS, CONTROL PANELS AND DESKS, SCREENS, EXAMINATION OR TREATMENT TABLES, CHAIRS AND THE LIKE",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "90221200",
+   "hs6": "902212",
+   "hs6_description": "Apparatus based on the use of x-rays; including radiography or radiotherapy apparatus, whether or not for medical, surgical, dental or veterinary uses, computed tomography apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- Computed tomography apparatus",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "90221300",
+   "hs6": "902213",
+   "hs6_description": "Apparatus based on the use of x-rays; including radiography or radiotherapy apparatus, for dental uses, excluding computed tomography apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- Other, for dental uses",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "902214",
+   "hs6": "902214",
+   "hs6_description": "Apparatus based on the use of x-rays; including radiography or radiotherapy apparatus, for medical, surgical or veterinary uses, not dental uses, excluding computed tomography apparatus",
    "level": 6,
    "chapter": "90",
    "description": "Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- Other, for medical, surgical or veterinary uses",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "90221410",
+   "hs6": "902214",
+   "hs6_description": "Apparatus based on the use of x-rays; including radiography or radiotherapy apparatus, for medical, surgical or veterinary uses, not dental uses, excluding computed tomography apparatus",
    "level": 8,
    "chapter": "90",
    "description": "X-ray generators and apparatus (non-portable)",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "90221420",
+   "hs6": "902214",
+   "hs6_description": "Apparatus based on the use of x-rays; including radiography or radiotherapy apparatus, for medical, surgical or veterinary uses, not dental uses, excluding computed tomography apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Portable X-ray machine",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "90221490",
+   "hs6": "902214",
+   "hs6_description": "Apparatus based on the use of x-rays; including radiography or radiotherapy apparatus, for medical, surgical or veterinary uses, not dental uses, excluding computed tomography apparatus",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "90221900",
+   "hs6": "902219",
+   "hs6_description": "Apparatus based on the use of x-rays, including radiography or radiotherapy apparatus; for other than medical, surgical, dental or veterinary uses",
    "level": 8,
    "chapter": "90",
    "description": "Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus :-- For other uses",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "90222100",
+   "hs6": "902221",
+   "hs6_description": "Apparatus based on the use of alpha, beta, gamma or other ionising radiations, including radiography or radiotherapy apparatus; for medical, surgical, dental or veterinary uses",
    "level": 8,
    "chapter": "90",
    "description": "Apparatus based on the use of alpha, beta or gamma radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- For medical, surgical, dental or veterinary uses",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "90222900",
+   "hs6": "902229",
+   "hs6_description": "Apparatus based on the use of alpha, beta, gamma or other ionising radiations, including radiography or radiotherapy apparatus; (for other than medical, surgical, dental or veterinary uses)",
    "level": 8,
    "chapter": "90",
    "description": "Apparatus based on the use of alpha, beta or gamma radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- For other uses",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "90223000",
+   "hs6": "902230",
+   "hs6_description": "X-ray tubes",
    "level": 8,
    "chapter": "90",
    "description": "X-ray tubes",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "902290",
+   "hs6": "902290",
+   "hs6_description": "Apparatus based on use of x-rays and similar; parts and accessories (x-ray generators, tubes, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and like",
    "level": 6,
    "chapter": "90",
    "description": "Other, including parts and accessories",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "90229010",
+   "hs6": "902290",
+   "hs6_description": "Apparatus based on use of x-rays and similar; parts and accessories (x-ray generators, tubes, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and like",
    "level": 8,
    "chapter": "90",
    "description": "X-ray valves",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "90229020",
+   "hs6": "902290",
+   "hs6_description": "Apparatus based on use of x-rays and similar; parts and accessories (x-ray generators, tubes, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and like",
    "level": 8,
    "chapter": "90",
    "description": "Radiation generation units",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "90229030",
+   "hs6": "902290",
+   "hs6_description": "Apparatus based on use of x-rays and similar; parts and accessories (x-ray generators, tubes, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and like",
    "level": 8,
    "chapter": "90",
    "description": "Radiation beam delivery units",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "90229040",
+   "hs6": "902290",
+   "hs6_description": "Apparatus based on use of x-rays and similar; parts and accessories (x-ray generators, tubes, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and like",
    "level": 8,
    "chapter": "90",
    "description": "X-ray examination or treatment table, chairs and the like",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "90229090",
+   "hs6": "902290",
+   "hs6_description": "Apparatus based on use of x-rays and similar; parts and accessories (x-ray generators, tubes, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and like",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "9023",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses.",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "902300",
+   "hs6": "902300",
+   "hs6_description": "Instruments, apparatus and models; designed for demonstrational purposes (in education or exhibitions), unsuitable for other uses",
    "level": 6,
    "chapter": "90",
    "description": "Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses:",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "90230010",
+   "hs6": "902300",
+   "hs6_description": "Instruments, apparatus and models; designed for demonstrational purposes (in education or exhibitions), unsuitable for other uses",
    "level": 8,
    "chapter": "90",
    "description": "Teaching aids",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "90230090",
+   "hs6": "902300",
+   "hs6_description": "Instruments, apparatus and models; designed for demonstrational purposes (in education or exhibitions), unsuitable for other uses",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "9024",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics).",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "90241000",
+   "hs6": "902410",
+   "hs6_description": "Machines and appliances; for testing the hardness, strength, compressibility, elasticity or other mechanical properties of metals",
    "level": 8,
    "chapter": "90",
    "description": "Machines and appliances for testing metals",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "902480",
+   "hs6": "902480",
+   "hs6_description": "Machines and appliances; for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials other than metals",
    "level": 6,
    "chapter": "90",
    "description": "Other machines and appliances",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "90248010",
+   "hs6": "902480",
+   "hs6_description": "Machines and appliances; for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials other than metals",
    "level": 8,
    "chapter": "90",
    "description": "For testing textiles, paper and paperboard",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "90248091",
+   "hs6": "902480",
+   "hs6_description": "Machines and appliances; for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials other than metals",
    "level": 8,
    "chapter": "90",
    "description": "Other: ----For testing hardness",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "90248099",
+   "hs6": "902480",
+   "hs6_description": "Machines and appliances; for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials other than metals",
    "level": 8,
    "chapter": "90",
    "description": "Other: ----Other",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "90249000",
+   "hs6": "902490",
+   "hs6_description": "Machines and appliances; parts and accessories for those testing hardness, strength, compressibility, elasticity or other mechanical properties of materials (e.g. metal, wood, textiles, paper, plastics)",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "9025",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments.",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "902511",
+   "hs6": "902511",
+   "hs6_description": "Thermometers and pyrometers; liquid filled, for direct reading, not combined with other instruments",
    "level": 6,
    "chapter": "90",
    "description": "Thermometers and pyrometers, not combined with other instruments : -- Liquid-filled, for direct reading",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "90251110",
+   "hs6": "902511",
+   "hs6_description": "Thermometers and pyrometers; liquid filled, for direct reading, not combined with other instruments",
    "level": 8,
    "chapter": "90",
    "description": "Clinical thermometers",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "90251190",
+   "hs6": "902511",
+   "hs6_description": "Thermometers and pyrometers; liquid filled, for direct reading, not combined with other instruments",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "902519",
+   "hs6": "902519",
+   "hs6_description": "Thermometers and pyrometers; (other than liquid filled, for direct reading), not combined with other instruments",
    "level": 6,
    "chapter": "90",
    "description": "Thermometers and pyrometers, not combined with other instruments : -- Other",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "90251910",
+   "hs6": "902519",
+   "hs6_description": "Thermometers and pyrometers; (other than liquid filled, for direct reading), not combined with other instruments",
    "level": 8,
    "chapter": "90",
    "description": "Digital thermometers",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "90251920",
+   "hs6": "902519",
+   "hs6_description": "Thermometers and pyrometers; (other than liquid filled, for direct reading), not combined with other instruments",
    "level": 8,
    "chapter": "90",
    "description": "Pyrometers",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "90251990",
+   "hs6": "902519",
+   "hs6_description": "Thermometers and pyrometers; (other than liquid filled, for direct reading), not combined with other instruments",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "902580",
+   "hs6": "902580",
+   "hs6_description": "Hydrometers and similar floating instruments, barometers, hygrometers, psychrometers, thermometers, pyrometers; recording or not, any combination of these instruments (excluding thermometers and barometers not combined with other instruments)",
    "level": 6,
    "chapter": "90",
    "description": "Other instruments",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "90258010",
+   "hs6": "902580",
+   "hs6_description": "Hydrometers and similar floating instruments, barometers, hygrometers, psychrometers, thermometers, pyrometers; recording or not, any combination of these instruments (excluding thermometers and barometers not combined with other instruments)",
    "level": 8,
    "chapter": "90",
    "description": "Hydrometers and similar floating instruments",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "90258020",
+   "hs6": "902580",
+   "hs6_description": "Hydrometers and similar floating instruments, barometers, hygrometers, psychrometers, thermometers, pyrometers; recording or not, any combination of these instruments (excluding thermometers and barometers not combined with other instruments)",
    "level": 8,
    "chapter": "90",
    "description": "Barometers, not combined with other instruments",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "90258030",
+   "hs6": "902580",
+   "hs6_description": "Hydrometers and similar floating instruments, barometers, hygrometers, psychrometers, thermometers, pyrometers; recording or not, any combination of these instruments (excluding thermometers and barometers not combined with other instruments)",
    "level": 8,
    "chapter": "90",
    "description": "Lactometer",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "90258090",
+   "hs6": "902580",
+   "hs6_description": "Hydrometers and similar floating instruments, barometers, hygrometers, psychrometers, thermometers, pyrometers; recording or not, any combination of these instruments (excluding thermometers and barometers not combined with other instruments)",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "90259000",
+   "hs6": "902590",
+   "hs6_description": "Hydrometers and similar floating instruments, barometers, hygrometers, psychrometers, thermometers, pyrometers; recording or not, any combination of these instruments, parts and accessories",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "9026",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "INSTRUMENTS AND APPARATUS FOR MEASURING OR CHECKING THE FLOW, LEVEL, PRESSURE OR OTHER VARIABLES OF LIQUIDS OR GASES (FOR EXAMPLE, FLOW METERS, LEVEL GAUGES, MANOMETERS, HEAT METERS), EXCLUDING INSTRUMENTS AND APPARATUS OF HEADING 9014, 9015, 9028 OR 9032",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "902610",
+   "hs6": "902610",
+   "hs6_description": "Instruments and apparatus; for measuring or checking the flow or level of liquids",
    "level": 6,
    "chapter": "90",
    "description": "For measuring or checking the flow or level of liquids",
@@ -3033,6 +3537,8 @@
   },
   {
    "hs_code": "90261010",
+   "hs6": "902610",
+   "hs6_description": "Instruments and apparatus; for measuring or checking the flow or level of liquids",
    "level": 8,
    "chapter": "90",
    "description": "Flow meters",
@@ -3045,6 +3551,8 @@
   },
   {
    "hs_code": "90261020",
+   "hs6": "902610",
+   "hs6_description": "Instruments and apparatus; for measuring or checking the flow or level of liquids",
    "level": 8,
    "chapter": "90",
    "description": "Level gauges",
@@ -3057,6 +3565,8 @@
   },
   {
    "hs_code": "90261090",
+   "hs6": "902610",
+   "hs6_description": "Instruments and apparatus; for measuring or checking the flow or level of liquids",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3069,6 +3579,8 @@
   },
   {
    "hs_code": "90262000",
+   "hs6": "902620",
+   "hs6_description": "Instruments and apparatus; for measuring or checking pressure",
    "level": 8,
    "chapter": "90",
    "description": "For measuring or checking pressure",
@@ -3081,6 +3593,8 @@
   },
   {
    "hs_code": "902680",
+   "hs6": "902680",
+   "hs6_description": "Instruments and apparatus; for measuring or checking variables of liquids or gases (excluding pressure or the flow and level of liquids and those of heading no. 9014, 9015, 9028 and 9032)",
    "level": 6,
    "chapter": "90",
    "description": "Other instruments or apparatus",
@@ -3093,6 +3607,8 @@
   },
   {
    "hs_code": "90268010",
+   "hs6": "902680",
+   "hs6_description": "Instruments and apparatus; for measuring or checking variables of liquids or gases (excluding pressure or the flow and level of liquids and those of heading no. 9014, 9015, 9028 and 9032)",
    "level": 8,
    "chapter": "90",
    "description": "Heat meters",
@@ -3105,6 +3621,8 @@
   },
   {
    "hs_code": "90268090",
+   "hs6": "902680",
+   "hs6_description": "Instruments and apparatus; for measuring or checking variables of liquids or gases (excluding pressure or the flow and level of liquids and those of heading no. 9014, 9015, 9028 and 9032)",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3117,6 +3635,8 @@
   },
   {
    "hs_code": "90269000",
+   "hs6": "902690",
+   "hs6_description": "Instruments and apparatus; parts and accessories for those measuring or checking the flow, level, pressure or other variables of liquids or gases (excluding those of heading no. 9014, 9015, 9028 or 9032)",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -3129,6 +3649,8 @@
   },
   {
    "hs_code": "9027",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light (including exposure meters); microtomes.",
@@ -3141,6 +3663,8 @@
   },
   {
    "hs_code": "90271000",
+   "hs6": "902710",
+   "hs6_description": "Instruments and apparatus; gas or smoke analysis apparatus, for physical or chemical analysis",
    "level": 8,
    "chapter": "90",
    "description": "Gas or smoke analysis apparatus",
@@ -3153,6 +3677,8 @@
   },
   {
    "hs_code": "90272000",
+   "hs6": "902720",
+   "hs6_description": "Chromatographs and electrophoresis instruments",
    "level": 8,
    "chapter": "90",
    "description": "Chromatographs and electrophoresis instruments",
@@ -3165,6 +3691,8 @@
   },
   {
    "hs_code": "902730",
+   "hs6": "902730",
+   "hs6_description": "Spectrometers, spectrophotometers and spectrographs; using optical radiations (UV, visible, IR)",
    "level": 6,
    "chapter": "90",
    "description": "Spectrometers, spectrophotometers and spectrographs using optical radiations (UV, visible, IR)",
@@ -3177,6 +3705,8 @@
   },
   {
    "hs_code": "90273010",
+   "hs6": "902730",
+   "hs6_description": "Spectrometers, spectrophotometers and spectrographs; using optical radiations (UV, visible, IR)",
    "level": 8,
    "chapter": "90",
    "description": "Spectrometers",
@@ -3189,6 +3719,8 @@
   },
   {
    "hs_code": "90273020",
+   "hs6": "902730",
+   "hs6_description": "Spectrometers, spectrophotometers and spectrographs; using optical radiations (UV, visible, IR)",
    "level": 8,
    "chapter": "90",
    "description": "Spectrophotometers",
@@ -3201,6 +3733,8 @@
   },
   {
    "hs_code": "90273090",
+   "hs6": "902730",
+   "hs6_description": "Spectrometers, spectrophotometers and spectrographs; using optical radiations (UV, visible, IR)",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3213,6 +3747,8 @@
   },
   {
    "hs_code": "902750",
+   "hs6": "902750",
+   "hs6_description": "Instruments and apparatus; using optical radiations (UV, visible, IR), (other than spectrometers, spectrophotometers and spectrographs)",
    "level": 6,
    "chapter": "90",
    "description": "Other instruments and apparatus using optical radiations (UV, visible, IR)",
@@ -3225,6 +3761,8 @@
   },
   {
    "hs_code": "90275010",
+   "hs6": "902750",
+   "hs6_description": "Instruments and apparatus; using optical radiations (UV, visible, IR), (other than spectrometers, spectrophotometers and spectrographs)",
    "level": 8,
    "chapter": "90",
    "description": "Photometers",
@@ -3237,6 +3775,8 @@
   },
   {
    "hs_code": "90275020",
+   "hs6": "902750",
+   "hs6_description": "Instruments and apparatus; using optical radiations (UV, visible, IR), (other than spectrometers, spectrophotometers and spectrographs)",
    "level": 8,
    "chapter": "90",
    "description": "Refractometers",
@@ -3249,6 +3789,8 @@
   },
   {
    "hs_code": "90275030",
+   "hs6": "902750",
+   "hs6_description": "Instruments and apparatus; using optical radiations (UV, visible, IR), (other than spectrometers, spectrophotometers and spectrographs)",
    "level": 8,
    "chapter": "90",
    "description": "Polarimeters",
@@ -3261,6 +3803,8 @@
   },
   {
    "hs_code": "90275090",
+   "hs6": "902750",
+   "hs6_description": "Instruments and apparatus; using optical radiations (UV, visible, IR), (other than spectrometers, spectrophotometers and spectrographs)",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3273,6 +3817,8 @@
   },
   {
    "hs_code": "90278100",
+   "hs6": "902781",
+   "hs6_description": "Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, mass spectrometers",
    "level": 8,
    "chapter": "90",
    "description": "Other instruments and apparatus: - - Mass spectrometres",
@@ -3285,6 +3831,8 @@
   },
   {
    "hs_code": "902789",
+   "hs6": "902789",
+   "hs6_description": "Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, exposure meters",
    "level": 6,
    "chapter": "90",
    "description": "Other instruments and apparatus: - - Other:",
@@ -3297,6 +3845,8 @@
   },
   {
    "hs_code": "90278910",
+   "hs6": "902789",
+   "hs6_description": "Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, exposure meters",
    "level": 8,
    "chapter": "90",
    "description": "Viscometers",
@@ -3309,6 +3859,8 @@
   },
   {
    "hs_code": "90278920",
+   "hs6": "902789",
+   "hs6_description": "Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, exposure meters",
    "level": 8,
    "chapter": "90",
    "description": "Calorimeters",
@@ -3321,6 +3873,8 @@
   },
   {
    "hs_code": "90278930",
+   "hs6": "902789",
+   "hs6_description": "Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, exposure meters",
    "level": 8,
    "chapter": "90",
    "description": "Instruments and apparatus for measuring the surface or interfocial tension of liquids",
@@ -3333,6 +3887,8 @@
   },
   {
    "hs_code": "90278990",
+   "hs6": "902789",
+   "hs6_description": "Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, exposure meters",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3345,6 +3901,8 @@
   },
   {
    "hs_code": "902790",
+   "hs6": "902790",
+   "hs6_description": "Microtomes and parts and accessories thereof",
    "level": 6,
    "chapter": "90",
    "description": "Microtomes; parts and accessories",
@@ -3357,6 +3915,8 @@
   },
   {
    "hs_code": "90279010",
+   "hs6": "902790",
+   "hs6_description": "Microtomes and parts and accessories thereof",
    "level": 8,
    "chapter": "90",
    "description": "Microtomes, including parts and accusscries thereof",
@@ -3369,6 +3929,8 @@
   },
   {
    "hs_code": "90279020",
+   "hs6": "902790",
+   "hs6_description": "Microtomes and parts and accessories thereof",
    "level": 8,
    "chapter": "90",
    "description": "Printed circuit assemblies for the goods of sub-heading 9027 80",
@@ -3381,6 +3943,8 @@
   },
   {
    "hs_code": "90279090",
+   "hs6": "902790",
+   "hs6_description": "Microtomes and parts and accessories thereof",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3393,6 +3957,8 @@
   },
   {
    "hs_code": "9028",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Gas, liquid or electricity supply or production meters, including calibrating meters therefor.",
@@ -3405,6 +3971,8 @@
   },
   {
    "hs_code": "90281000",
+   "hs6": "902810",
+   "hs6_description": "Meters; gas, supply or production meters, including calibrating meters thereof",
    "level": 8,
    "chapter": "90",
    "description": "Gas meters",
@@ -3417,6 +3985,8 @@
   },
   {
    "hs_code": "90282000",
+   "hs6": "902820",
+   "hs6_description": "Meters; liquid supply or production meters, including calibrating meters thereof",
    "level": 8,
    "chapter": "90",
    "description": "Liquid meters",
@@ -3429,6 +3999,8 @@
   },
   {
    "hs_code": "902830",
+   "hs6": "902830",
+   "hs6_description": "Meters; electricity supply or production meters, including calibrating meters thereof",
    "level": 6,
    "chapter": "90",
    "description": "Electricity meters",
@@ -3441,6 +4013,8 @@
   },
   {
    "hs_code": "90283010",
+   "hs6": "902830",
+   "hs6_description": "Meters; electricity supply or production meters, including calibrating meters thereof",
    "level": 8,
    "chapter": "90",
    "description": "For alternating current",
@@ -3453,6 +4027,8 @@
   },
   {
    "hs_code": "90283090",
+   "hs6": "902830",
+   "hs6_description": "Meters; electricity supply or production meters, including calibrating meters thereof",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3465,6 +4041,8 @@
   },
   {
    "hs_code": "902890",
+   "hs6": "902890",
+   "hs6_description": "Meters; parts and accessories of gas, liquid, electricity supply or production meters, including calibrating meters thereof",
    "level": 6,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -3477,6 +4055,8 @@
   },
   {
    "hs_code": "90289010",
+   "hs6": "902890",
+   "hs6_description": "Meters; parts and accessories of gas, liquid, electricity supply or production meters, including calibrating meters thereof",
    "level": 8,
    "chapter": "90",
    "description": "For electricity meters",
@@ -3489,6 +4069,8 @@
   },
   {
    "hs_code": "90289090",
+   "hs6": "902890",
+   "hs6_description": "Meters; parts and accessories of gas, liquid, electricity supply or production meters, including calibrating meters thereof",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3501,6 +4083,8 @@
   },
   {
    "hs_code": "9029",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "REVOLUTION COUNTERS, PRODUCTION COUNTERS, TAXIMETERS, MILEOMETERS, PEDOMETERS AND THE LIKE; SPEED INDICATORS AND TACHOMETERS, OTHER THAN THOSE OF HEADING 9014 OR 9015; STROBOSCOPES",
@@ -3513,6 +4097,8 @@
   },
   {
    "hs_code": "902910",
+   "hs6": "902910",
+   "hs6_description": "Meters and counters; revolution counters, production counters, taximeters, mileometers, pedometers and the like",
    "level": 6,
    "chapter": "90",
    "description": "Revolution counters, production counters, taximeters, mileometers, pedometers and the like",
@@ -3525,6 +4111,8 @@
   },
   {
    "hs_code": "90291010",
+   "hs6": "902910",
+   "hs6_description": "Meters and counters; revolution counters, production counters, taximeters, mileometers, pedometers and the like",
    "level": 8,
    "chapter": "90",
    "description": "Taximeters",
@@ -3537,6 +4125,8 @@
   },
   {
    "hs_code": "90291090",
+   "hs6": "902910",
+   "hs6_description": "Meters and counters; revolution counters, production counters, taximeters, mileometers, pedometers and the like",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3549,6 +4139,8 @@
   },
   {
    "hs_code": "902920",
+   "hs6": "902920",
+   "hs6_description": "Meters; speed indicators and tachometers; stroboscopes",
    "level": 6,
    "chapter": "90",
    "description": "Speed indicators and tachometers; stroboscopes",
@@ -3561,6 +4153,8 @@
   },
   {
    "hs_code": "90292010",
+   "hs6": "902920",
+   "hs6_description": "Meters; speed indicators and tachometers; stroboscopes",
    "level": 8,
    "chapter": "90",
    "description": "Tachometers, non-electrical",
@@ -3573,6 +4167,8 @@
   },
   {
    "hs_code": "90292020",
+   "hs6": "902920",
+   "hs6_description": "Meters; speed indicators and tachometers; stroboscopes",
    "level": 8,
    "chapter": "90",
    "description": "Speedometers, non-electrical",
@@ -3585,6 +4181,8 @@
   },
   {
    "hs_code": "90292030",
+   "hs6": "902920",
+   "hs6_description": "Meters; speed indicators and tachometers; stroboscopes",
    "level": 8,
    "chapter": "90",
    "description": "Stroboscopes",
@@ -3597,6 +4195,8 @@
   },
   {
    "hs_code": "90292090",
+   "hs6": "902920",
+   "hs6_description": "Meters; speed indicators and tachometers; stroboscopes",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3609,6 +4209,8 @@
   },
   {
    "hs_code": "90299000",
+   "hs6": "902990",
+   "hs6_description": "Meters and counters; parts and accessories for revolution and production counters, taximeters, mileometers, pedometers and the like; speed indicators, tachometers (excluding heading no. 9015), stroboscopes",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -3621,6 +4223,8 @@
   },
   {
    "hs_code": "9030",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "OSCILLOSCOPES, SPECTRUM ANALYSERS AND OTHER INSTRUMENTS AND APPARATUS FOR MEASURING OR CHECKING ELECTRICAL QUANTITIES, EXCLUDING METERS OF HEADING 9028; INSTRUMENTS AND APPARATUS FOR MEASURING OR DETECTING ALPHA, BETA, GAMMA, X-RAY, COSMIC OR OTHER IONISING RADIATIONS",
@@ -3633,6 +4237,8 @@
   },
   {
    "hs_code": "90301000",
+   "hs6": "903010",
+   "hs6_description": "Instruments and apparatus; for measuring or detecting ionising radiations",
    "level": 8,
    "chapter": "90",
    "description": "Instruments and apparatus for measuring or detecting ionising radiations",
@@ -3645,6 +4251,8 @@
   },
   {
    "hs_code": "90302000",
+   "hs6": "903020",
+   "hs6_description": "Oscilloscopes and oscillographs",
    "level": 8,
    "chapter": "90",
    "description": "Oscilloscopes and oscillographs",
@@ -3657,6 +4265,8 @@
   },
   {
    "hs_code": "90303100",
+   "hs6": "903031",
+   "hs6_description": "Multimeters; for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafer or devices), without a recording device",
    "level": 8,
    "chapter": "90",
    "description": "Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):-- Multimeters without a recording device",
@@ -3669,6 +4279,8 @@
   },
   {
    "hs_code": "90303200",
+   "hs6": "903032",
+   "hs6_description": "Multimeters; for measuring or checking voltage, current, resistance or power, with a recording device",
    "level": 8,
    "chapter": "90",
    "description": "Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):-- Multimeters with a recording device",
@@ -3681,6 +4293,8 @@
   },
   {
    "hs_code": "903033",
+   "hs6": "903033",
+   "hs6_description": "Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",
    "level": 6,
    "chapter": "90",
    "description": "Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):--Other, without a recording device:",
@@ -3693,6 +4307,8 @@
   },
   {
    "hs_code": "90303310",
+   "hs6": "903033",
+   "hs6_description": "Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",
    "level": 8,
    "chapter": "90",
    "description": "Ammeters,volt meters and watt meters",
@@ -3705,6 +4321,8 @@
   },
   {
    "hs_code": "90303320",
+   "hs6": "903033",
+   "hs6_description": "Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",
    "level": 8,
    "chapter": "90",
    "description": "Spectrum resistance meters",
@@ -3717,6 +4335,8 @@
   },
   {
    "hs_code": "90303330",
+   "hs6": "903033",
+   "hs6_description": "Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",
    "level": 8,
    "chapter": "90",
    "description": "Capacitance meter",
@@ -3729,6 +4349,8 @@
   },
   {
    "hs_code": "90303340",
+   "hs6": "903033",
+   "hs6_description": "Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",
    "level": 8,
    "chapter": "90",
    "description": "Frequency measuring apparatus",
@@ -3741,6 +4363,8 @@
   },
   {
    "hs_code": "90303350",
+   "hs6": "903033",
+   "hs6_description": "Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",
    "level": 8,
    "chapter": "90",
    "description": "Megar meters",
@@ -3753,6 +4377,8 @@
   },
   {
    "hs_code": "90303390",
+   "hs6": "903033",
+   "hs6_description": "Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3765,6 +4391,8 @@
   },
   {
    "hs_code": "90303900",
+   "hs6": "903039",
+   "hs6_description": "Instruments and apparatus; for measuring or checking voltage, current, resistance or power, with a recording device (excluding multimeters)",
    "level": 8,
    "chapter": "90",
    "description": "Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):--Other, with a recording device:",
@@ -3777,6 +4405,8 @@
   },
   {
    "hs_code": "90304000",
+   "hs6": "903040",
+   "hs6_description": "Instruments and apparatus; specially designed for telecommunications (e.g. cross-talk meters, gain measuring instruments, distortion factor meters, psophometers)",
    "level": 8,
    "chapter": "90",
    "description": "Other instruments and apparatus, specially designed for telecommunications (for example, cross-talk meters, gain measuring instruments, distortion factor meters, psophometers)",
@@ -3789,6 +4419,8 @@
   },
   {
    "hs_code": "90308200",
+   "hs6": "903082",
+   "hs6_description": "Instruments and apparatus; for measuring or checking semiconductor wafers or devices (including integrated circuits)",
    "level": 8,
    "chapter": "90",
    "description": "Other instruments and apparatus : -- For measuring or checking semiconductor wafer or devices (including integrated circuits)",
@@ -3801,6 +4433,8 @@
   },
   {
    "hs_code": "90308400",
+   "hs6": "903084",
+   "hs6_description": "Instruments and apparatus; n.e.c. in heading no. 9030, with a recording device",
    "level": 8,
    "chapter": "90",
    "description": "Other instruments and apparatus : -- Other, with a recording device",
@@ -3813,6 +4447,8 @@
   },
   {
    "hs_code": "903089",
+   "hs6": "903089",
+   "hs6_description": "Instruments and apparatus; n.e.c. in heading no. 9030, without a recording device",
    "level": 6,
    "chapter": "90",
    "description": "Other instruments and apparatus : -- Other",
@@ -3825,6 +4461,8 @@
   },
   {
    "hs_code": "90308910",
+   "hs6": "903089",
+   "hs6_description": "Instruments and apparatus; n.e.c. in heading no. 9030, without a recording device",
    "level": 8,
    "chapter": "90",
    "description": "Scintillator counters",
@@ -3837,6 +4475,8 @@
   },
   {
    "hs_code": "90308920",
+   "hs6": "903089",
+   "hs6_description": "Instruments and apparatus; n.e.c. in heading no. 9030, without a recording device",
    "level": 8,
    "chapter": "90",
    "description": "Vectroscope",
@@ -3849,6 +4489,8 @@
   },
   {
    "hs_code": "90308990",
+   "hs6": "903089",
+   "hs6_description": "Instruments and apparatus; n.e.c. in heading no. 9030, without a recording device",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3861,6 +4503,8 @@
   },
   {
    "hs_code": "903090",
+   "hs6": "903090",
+   "hs6_description": "Instruments, apparatus for measuring, checking electrical quantities, not meters of heading no. 9028; parts and accessories, for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",
    "level": 6,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -3873,6 +4517,8 @@
   },
   {
    "hs_code": "90309010",
+   "hs6": "903090",
+   "hs6_description": "Instruments, apparatus for measuring, checking electrical quantities, not meters of heading no. 9028; parts and accessories, for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",
    "level": 8,
    "chapter": "90",
    "description": "Of meters and counters",
@@ -3885,6 +4531,8 @@
   },
   {
    "hs_code": "90309090",
+   "hs6": "903090",
+   "hs6_description": "Instruments, apparatus for measuring, checking electrical quantities, not meters of heading no. 9028; parts and accessories, for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -3897,6 +4545,8 @@
   },
   {
    "hs_code": "9031",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this Chapter; profile projectors.",
@@ -3909,6 +4559,8 @@
   },
   {
    "hs_code": "90311000",
+   "hs6": "903110",
+   "hs6_description": "Machines; for balancing mechanical parts",
    "level": 8,
    "chapter": "90",
    "description": "Machines for balancing mechanical parts",
@@ -3921,6 +4573,8 @@
   },
   {
    "hs_code": "90312000",
+   "hs6": "903120",
+   "hs6_description": "Test benches",
    "level": 8,
    "chapter": "90",
    "description": "Test benches",
@@ -3933,6 +4587,8 @@
   },
   {
    "hs_code": "90314100",
+   "hs6": "903141",
+   "hs6_description": "Optical instruments and appliances; for inspecting semiconductor wafers or devices or for inspecting photomasks or reticles used in manufacturing semiconductor devices, n.e.c. in chapter 90",
    "level": 8,
    "chapter": "90",
    "description": "Other optical instruments and appliances :- - For inspecting semiconductor wafers or devices (including integrated circuits) or for inspecting photomasks or reticles used in manufacturing semiconductor devices (including integrated circuits)",
@@ -3945,6 +4601,8 @@
   },
   {
    "hs_code": "90314900",
+   "hs6": "903149",
+   "hs6_description": "Optical instruments and appliances; for measuring or checking, n.e.c. in chapter 90",
    "level": 8,
    "chapter": "90",
    "description": "Other optical instruments and appliances : -- Other",
@@ -3957,6 +4615,8 @@
   },
   {
    "hs_code": "90318000",
+   "hs6": "903180",
+   "hs6_description": "Instruments, appliances and machines; for measuring or checking n.e.c. in chapter 90",
    "level": 8,
    "chapter": "90",
    "description": "Other instruments, appliances and machines",
@@ -3969,6 +4629,8 @@
   },
   {
    "hs_code": "90319000",
+   "hs6": "903190",
+   "hs6_description": "Instruments, appliances and machines; parts and accessories for those measuring or checking devices of heading no. 9031",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -3981,6 +4643,8 @@
   },
   {
    "hs_code": "9032",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "90",
    "description": "Automatic regulating or controlling instruments and apparatus.",
@@ -3993,6 +4657,8 @@
   },
   {
    "hs_code": "903210",
+   "hs6": "903210",
+   "hs6_description": "Regulating or controlling instruments and apparatus; automatic type, thermostats",
    "level": 6,
    "chapter": "90",
    "description": "Thermostats",
@@ -4005,6 +4671,8 @@
   },
   {
    "hs_code": "90321010",
+   "hs6": "903210",
+   "hs6_description": "Regulating or controlling instruments and apparatus; automatic type, thermostats",
    "level": 8,
    "chapter": "90",
    "description": "For refrigerating and air-conditioning appliances and machinery",
@@ -4017,6 +4685,8 @@
   },
   {
    "hs_code": "90321090",
+   "hs6": "903210",
+   "hs6_description": "Regulating or controlling instruments and apparatus; automatic type, thermostats",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -4029,6 +4699,8 @@
   },
   {
    "hs_code": "903220",
+   "hs6": "903220",
+   "hs6_description": "Regulating or controlling instruments and apparatus; automatic, manostats",
    "level": 6,
    "chapter": "90",
    "description": "Manostats",
@@ -4041,6 +4713,8 @@
   },
   {
    "hs_code": "90322010",
+   "hs6": "903220",
+   "hs6_description": "Regulating or controlling instruments and apparatus; automatic, manostats",
    "level": 8,
    "chapter": "90",
    "description": "For refrigerating and air-conditioning appliances and machinery",
@@ -4053,6 +4727,8 @@
   },
   {
    "hs_code": "90322090",
+   "hs6": "903220",
+   "hs6_description": "Regulating or controlling instruments and apparatus; automatic, manostats",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -4065,6 +4741,8 @@
   },
   {
    "hs_code": "90328100",
+   "hs6": "903281",
+   "hs6_description": "Regulating or controlling instruments and apparatus; automatic, hydraulic or pneumatic",
    "level": 8,
    "chapter": "90",
    "description": "Other instruments and apparatus : -- Hydraulic or pneumatic",
@@ -4077,6 +4755,8 @@
   },
   {
    "hs_code": "903289",
+   "hs6": "903289",
+   "hs6_description": "Regulating or controlling instruments and apparatus; automatic, other than hydraulic or pneumatic",
    "level": 6,
    "chapter": "90",
    "description": "Other instruments and apparatus : -- Other",
@@ -4089,6 +4769,8 @@
   },
   {
    "hs_code": "90328910",
+   "hs6": "903289",
+   "hs6_description": "Regulating or controlling instruments and apparatus; automatic, other than hydraulic or pneumatic",
    "level": 8,
    "chapter": "90",
    "description": "Electronic automatic regulators",
@@ -4101,6 +4783,8 @@
   },
   {
    "hs_code": "90328990",
+   "hs6": "903289",
+   "hs6_description": "Regulating or controlling instruments and apparatus; automatic, other than hydraulic or pneumatic",
    "level": 8,
    "chapter": "90",
    "description": "Other",
@@ -4113,6 +4797,8 @@
   },
   {
    "hs_code": "90329000",
+   "hs6": "903290",
+   "hs6_description": "Regulating or controlling instruments and apparatus; automatic, parts and accessories",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories",
@@ -4125,6 +4811,8 @@
   },
   {
    "hs_code": "90330000",
+   "hs6": "903300",
+   "hs6_description": "Machines and appliances, instruments or apparatus of chapter 90; parts and accessories n.e.c. in chapter 90",
    "level": 8,
    "chapter": "90",
    "description": "Parts and accessories (not specified or included elsewhere in this Chapter) for machines, appliances, instruments or apparatus of Chapter 90.",

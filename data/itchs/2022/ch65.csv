@@ -1,22 +1,22 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-6501,4,65,"Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons), of felt.",,,,,,2026-10-22
-65010010,8,65,Of cotton,Free,,,,,2026-10-22
-65010090,8,65,Other,Free,,,,,2026-10-22
-6502,4,65,"Hat-shapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed.",,,,,,2026-10-22
-650200,6,65,"Hat-shapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed:",,,,,,2026-10-22
-65020010,8,65,Of cotton,Free,,,,,2026-10-22
-65020020,8,65,Of wool,Free,,,,,2026-10-22
-65020090,8,65,Other,Free,,,,,2026-10-22
-65040000,8,65,"Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed.",Free,,,,,2026-10-22
-6505,4,65,"Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed.",,,,,,2026-10-22
-650500,6,65,"Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",,,,,,2026-10-22
-65050010,8,65,Hair-nets,Free,,,,,2026-10-22
-65050090,8,65,Other,Free,,,,,2026-10-22
-6506,4,65,"Other headgear, whether or not lined or trimmed.",,,,,,2026-10-22
-650610,6,65,Safety headgear,,,,,,2026-10-22
-65061010,8,65,Speed glass welding helmets or other helmets meant for industrial use,Free,,,,,2026-10-22
-65061020,8,65,Headgear for ballistic protection,Free,.,,40/2024-25,2024-11-26,2026-10-22
-65061090,8,65,Other,Free,,,,,2026-10-22
-65069100,8,65,Other : -- Of rubber or of plastics,Free,,,,,2026-10-22
-65069900,8,65,Other : -- Of other materials,Free,,,,,2026-10-22
-65070000,8,65,"Head-bands, linings, covers, hat foundations, hat frames, peaks and chinstraps, for headgear.",Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+6501,,,4,65,"Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons), of felt.",,,,,,2026-10-22
+65010010,650100,"Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons) of felt",8,65,Of cotton,Free,,,,,2026-10-22
+65010090,650100,"Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons) of felt",8,65,Other,Free,,,,,2026-10-22
+6502,,,4,65,"Hat-shapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed.",,,,,,2026-10-22
+650200,650200,"Hat-shapes; plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed",6,65,"Hat-shapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed:",,,,,,2026-10-22
+65020010,650200,"Hat-shapes; plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed",8,65,Of cotton,Free,,,,,2026-10-22
+65020020,650200,"Hat-shapes; plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed",8,65,Of wool,Free,,,,,2026-10-22
+65020090,650200,"Hat-shapes; plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed",8,65,Other,Free,,,,,2026-10-22
+65040000,650400,"Hats and other headgear; plaited or made by assembling strips of any material, whether or not lined or trimmed",8,65,"Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed.",Free,,,,,2026-10-22
+6505,,,4,65,"Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed.",,,,,,2026-10-22
+650500,650500,"Hats and other headgear; knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",6,65,"Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",,,,,,2026-10-22
+65050010,650500,"Hats and other headgear; knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",8,65,Hair-nets,Free,,,,,2026-10-22
+65050090,650500,"Hats and other headgear; knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",8,65,Other,Free,,,,,2026-10-22
+6506,,,4,65,"Other headgear, whether or not lined or trimmed.",,,,,,2026-10-22
+650610,650610,"Headgear; safety, whether or not lined or trimmed",6,65,Safety headgear,,,,,,2026-10-22
+65061010,650610,"Headgear; safety, whether or not lined or trimmed",8,65,Speed glass welding helmets or other helmets meant for industrial use,Free,,,,,2026-10-22
+65061020,650610,"Headgear; safety, whether or not lined or trimmed",8,65,Headgear for ballistic protection,Free,.,,40/2024-25,2024-11-26,2026-10-22
+65061090,650610,"Headgear; safety, whether or not lined or trimmed",8,65,Other,Free,,,,,2026-10-22
+65069100,650691,"Headgear; (other than safety headgear), of rubber or plastics, whether or not lined or trimmed",8,65,Other : -- Of rubber or of plastics,Free,,,,,2026-10-22
+65069900,650699,"Headgear; (other than safety headgear), (of materials other than rubber or plastic), whether or not lined or trimmed",8,65,Other : -- Of other materials,Free,,,,,2026-10-22
+65070000,650700,"Head-bands, linings, covers, hat foundations, hat frames, peaks and chinstraps; for headgear",8,65,"Head-bands, linings, covers, hat foundations, hat frames, peaks and chinstraps, for headgear.",Free,,,,,2026-10-22

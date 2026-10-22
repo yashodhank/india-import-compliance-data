@@ -1,31 +1,31 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-9301,4,93,"MILITARY WEAPONS, OTHER THAN REVOLVERS, PISTOLS AND THE ARMS OF HEADING",,,,,,2026-10-22
-930110,6,93,"Artillery weapons (for example, guns, howitzers and mortars)",,,,,,2026-10-22
-93011010,8,93,Self propelled,Restricted,-,,,,2026-10-22
-93011090,8,93,Other,Restricted,.,,,,2026-10-22
-930120,6,93,Rocket launchers; flame-throwers; grenade launchers; torpedo tubes and similar projectors,,,,,,2026-10-22
-93012000,8,93,Rocket launchers; flame-throwers; grenade launchers; torpedo tubes and similar projectors,Restricted,,,,,2026-10-22
-93019000,8,93,Other,Restricted,,,,,2026-10-22
-93020000,8,93,"Revolvers and Pistols, other than those of heading 9303 or 9304",Restricted,,,,,2026-10-22
-9303,4,93,"Other firearms and similar devices which operate by the firing of an explosive charge (for example, sporting shotguns and rifles, muzzle-loading firearms, Very pistols and other devices designed to project only signal flares, pistols and revolvers for firing blank ammunition, captive-bolt humane killers, line-throwing guns).",,,,,,2026-10-22
-93031000,8,93,Muzzle-loading firearms,Free,"Import subject to the condition that the requirements specified in the MHA Notification No. S.O. 667(E) dated 12.09.1985 and Notification No. S.O. 831 (E) dated 2.8.2002 are fulfilled and also that the purchaser/user of these items shall obtain requisite user license from the competent authority under the provisions of the existing Arms Act, 1959.",,,,2026-10-22
-93032000,8,93,"Other sporting, hunting or target-shooting shotguns, including combination shotgun-rifles",Restricted,,,,,2026-10-22
-93033000,8,93,"Other sporting, hunting or target-shooting rifles",Restricted,,,,,2026-10-22
-93039000,8,93,Other,Restricted,,,,,2026-10-22
-93040000,8,93,"Other Arms (for example, spring, air or gas guns and pistols, truncheons), excluding those of heading 9307",Restricted,"However, import of 0.177 bore air guns and air pistols will be free for shooters registered with Rifle Clubs or District/State/National Rifles Association. Free import of 0.177 bore air guns and air pistols will also be allowed to National Rifle Association of India (NRAI) for supplying the same to the eligible State Rifle Association / Clubs and to the eligible shooters. NRAI shall be required to keep appropriate account of the imported weapons.",,,,2026-10-22
-9305,4,93,PARTS AND ACCESSORIES OF ARTICLES OF HEADINGS 9301 TO 9304,,,,,,2026-10-22
-93051000,8,93,Of revolvers or pistols,Restricted,,,,,2026-10-22
-930520,6,93,Of shotguns or rifles of heading 9303 :,,,,,,2026-10-22
-93052010,8,93,Shotgun barrels,Free,"Import subject to the condition that the requirements specified in the MHA Notification No. S.O. 667(E) dated 12.09.1985 and Notification No. S.O. 831 (E) dated 2.8.2002 are fulfilled and also that the purchaser/user of these items shall obtain requisite user license from the competent authority under the provisions of the existing Arms Act, 1959.",,,,2026-10-22
-93052090,8,93,Other,Free,"Import subject to the condition that the requirements specified in the MHA Notification No. S.O. 667(E) dated 12.09.1985 and Notification No. S.O. 831 (E) dated 2.8.2002 are fulfilled and also that the purchaser/user of these items shall obtain requisite user license from the competent authority under the provisions of the existing Arms Act, 1959.",,,,2026-10-22
-930591,6,93,Other --Of military weapons of heading 93.01,,,,,,2026-10-22
-93059100,8,93,Other : -- Of military weapons of heading 9301,Restricted,,,,,2026-10-22
-930599,6,93,Other:,,,,,,2026-10-22
-93059910,8,93,Of goods of heading 9304,Restricted,.,,40/2024-25,2024-11-26,2026-10-22
-93059990,8,93,Other,Restricted,.,,40/2024-25,2024-11-26,2026-10-22
-9306,4,93,"Bombs, grenades, torpedoes, mines, missiles and similar munitions of war and parts thereof; cartridges and other ammunition and projectiles and parts thereof, including shot and cartridge wads.",,,,,,2026-10-22
-93062100,8,93,Shotgun cartridges and parts thereof; air gun pellets : -- Cartridges,Restricted,,,,,2026-10-22
-93062900,8,93,Shotgun cartridges and parts thereof; air gun pellets : -- Other,Restricted,,,,,2026-10-22
-93063000,8,93,Other cartridges and parts thereof,Restricted,,,,,2026-10-22
-93069000,8,93,Other,Restricted,,,,,2026-10-22
-93070000,8,93,"Swords, cutlasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor.",Free,"Import subject to the condition that the requirements specified in the MHA Notification No. S.O. 667(E) dated 12.09.1985 and Notification No. S.O. 831 (E) dated 2.8.2002 are fulfilled and also that the purchaser/user of these items shall obtain requisite user license from the competent authority under the provisions of the existing Arms Act, 1959.",,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+9301,,,4,93,"MILITARY WEAPONS, OTHER THAN REVOLVERS, PISTOLS AND THE ARMS OF HEADING",,,,,,2026-10-22
+930110,930110,"Military weapons; artillery weapons (e.g. guns, howitzers, and mortars)",6,93,"Artillery weapons (for example, guns, howitzers and mortars)",,,,,,2026-10-22
+93011010,930110,"Military weapons; artillery weapons (e.g. guns, howitzers, and mortars)",8,93,Self propelled,Restricted,-,,,,2026-10-22
+93011090,930110,"Military weapons; artillery weapons (e.g. guns, howitzers, and mortars)",8,93,Other,Restricted,.,,,,2026-10-22
+930120,930120,"Military weapons; rocket launchers, flame-throwers, grenade launchers, torpedo tubes and similar projectors",6,93,Rocket launchers; flame-throwers; grenade launchers; torpedo tubes and similar projectors,,,,,,2026-10-22
+93012000,930120,"Military weapons; rocket launchers, flame-throwers, grenade launchers, torpedo tubes and similar projectors",8,93,Rocket launchers; flame-throwers; grenade launchers; torpedo tubes and similar projectors,Restricted,,,,,2026-10-22
+93019000,930190,"Military weapons; other than revolvers, pistols, and arms of heading 9307, n.e.c. in heading 9301",8,93,Other,Restricted,,,,,2026-10-22
+93020000,930200,Revolvers and pistols; other than those of heading no. 9303 or 9304,8,93,"Revolvers and Pistols, other than those of heading 9303 or 9304",Restricted,,,,,2026-10-22
+9303,,,4,93,"Other firearms and similar devices which operate by the firing of an explosive charge (for example, sporting shotguns and rifles, muzzle-loading firearms, Very pistols and other devices designed to project only signal flares, pistols and revolvers for firing blank ammunition, captive-bolt humane killers, line-throwing guns).",,,,,,2026-10-22
+93031000,930310,Firearms; muzzle-loading,8,93,Muzzle-loading firearms,Free,"Import subject to the condition that the requirements specified in the MHA Notification No. S.O. 667(E) dated 12.09.1985 and Notification No. S.O. 831 (E) dated 2.8.2002 are fulfilled and also that the purchaser/user of these items shall obtain requisite user license from the competent authority under the provisions of the existing Arms Act, 1959.",,,,2026-10-22
+93032000,930320,"Firearms; sporting, hunting or target-shooting shotguns, including combination shotgun-rifles",8,93,"Other sporting, hunting or target-shooting shotguns, including combination shotgun-rifles",Restricted,,,,,2026-10-22
+93033000,930330,"Firearms; sporting, hunting or target-shooting rifles n.e.c. in heading no. 9303",8,93,"Other sporting, hunting or target-shooting rifles",Restricted,,,,,2026-10-22
+93039000,930390,Firearms; n.e.c. in heading no. 9303,8,93,Other,Restricted,,,,,2026-10-22
+93040000,930400,"Firearms; (e.g. spring, air or gas guns and pistols, truncheons), excluding those of heading no. 9307",8,93,"Other Arms (for example, spring, air or gas guns and pistols, truncheons), excluding those of heading 9307",Restricted,"However, import of 0.177 bore air guns and air pistols will be free for shooters registered with Rifle Clubs or District/State/National Rifles Association. Free import of 0.177 bore air guns and air pistols will also be allowed to National Rifle Association of India (NRAI) for supplying the same to the eligible State Rifle Association / Clubs and to the eligible shooters. NRAI shall be required to keep appropriate account of the imported weapons.",,,,2026-10-22
+9305,,,4,93,PARTS AND ACCESSORIES OF ARTICLES OF HEADINGS 9301 TO 9304,,,,,,2026-10-22
+93051000,930510,"Firearms; parts and accessories, of revolvers or pistols",8,93,Of revolvers or pistols,Restricted,,,,,2026-10-22
+930520,930520,"Firearms; parts and accessories, of shotguns or rifles of heading 9303",6,93,Of shotguns or rifles of heading 9303 :,,,,,,2026-10-22
+93052010,930520,"Firearms; parts and accessories, of shotguns or rifles of heading 9303",8,93,Shotgun barrels,Free,"Import subject to the condition that the requirements specified in the MHA Notification No. S.O. 667(E) dated 12.09.1985 and Notification No. S.O. 831 (E) dated 2.8.2002 are fulfilled and also that the purchaser/user of these items shall obtain requisite user license from the competent authority under the provisions of the existing Arms Act, 1959.",,,,2026-10-22
+93052090,930520,"Firearms; parts and accessories, of shotguns or rifles of heading 9303",8,93,Other,Free,"Import subject to the condition that the requirements specified in the MHA Notification No. S.O. 667(E) dated 12.09.1985 and Notification No. S.O. 831 (E) dated 2.8.2002 are fulfilled and also that the purchaser/user of these items shall obtain requisite user license from the competent authority under the provisions of the existing Arms Act, 1959.",,,,2026-10-22
+930591,930591,"Firearms; parts and accessories, of military weapons of heading 9301",6,93,Other --Of military weapons of heading 93.01,,,,,,2026-10-22
+93059100,930591,"Firearms; parts and accessories, of military weapons of heading 9301",8,93,Other : -- Of military weapons of heading 9301,Restricted,,,,,2026-10-22
+930599,930599,"Firearms; parts and accessories, of firearms other than the military weapons of heading 9301",6,93,Other:,,,,,,2026-10-22
+93059910,930599,"Firearms; parts and accessories, of firearms other than the military weapons of heading 9301",8,93,Of goods of heading 9304,Restricted,.,,40/2024-25,2024-11-26,2026-10-22
+93059990,930599,"Firearms; parts and accessories, of firearms other than the military weapons of heading 9301",8,93,Other,Restricted,.,,40/2024-25,2024-11-26,2026-10-22
+9306,,,4,93,"Bombs, grenades, torpedoes, mines, missiles and similar munitions of war and parts thereof; cartridges and other ammunition and projectiles and parts thereof, including shot and cartridge wads.",,,,,,2026-10-22
+93062100,930621,Ammunition; shotgun cartridges,8,93,Shotgun cartridges and parts thereof; air gun pellets : -- Cartridges,Restricted,,,,,2026-10-22
+93062900,930629,Ammunition; parts of shotgun cartridges,8,93,Shotgun cartridges and parts thereof; air gun pellets : -- Other,Restricted,,,,,2026-10-22
+93063000,930630,Ammunition; cartridges and parts thereof n.e.c. in heading no. 9306,8,93,Other cartridges and parts thereof,Restricted,,,,,2026-10-22
+93069000,930690,Ammunition; n.e.c. in chapter 93,8,93,Other,Restricted,,,,,2026-10-22
+93070000,930700,"Arms; swords, cutlasses, bayonets, lances and the like, parts thereof and scabbards and sheaths therefor",8,93,"Swords, cutlasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor.",Free,"Import subject to the condition that the requirements specified in the MHA Notification No. S.O. 667(E) dated 12.09.1985 and Notification No. S.O. 831 (E) dated 2.8.2002 are fulfilled and also that the purchaser/user of these items shall obtain requisite user license from the competent authority under the provisions of the existing Arms Act, 1959.",,,,2026-10-22

@@ -1,177 +1,177 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-1501,4,15,"Pig fat (including lard) and poultry fat, other than that of heading 02.09 or 15.03.",,,,,,2026-10-22
-15011000,8,15,Lard,Prohibited,,,,,2026-10-22
-15012000,8,15,Other pig fat,Prohibited,,,,,2026-10-22
-15019000,8,15,Other,Prohibited,,,,,2026-10-22
-1502,4,15,"Fats of bovine animals, sheep or goats, other than those of heading 15.03.",,,,,,2026-10-22
-150210,6,15,Tallow,,,,,,2026-10-22
-15021010,8,15,Mutton tallow,Prohibited,,,,,2026-10-22
-15021090,8,15,Other,Prohibited,,,,,2026-10-22
-150290,6,15,Other,,,,,,2026-10-22
-15029010,8,15,Unrendered fats,Prohibited,,,,,2026-10-22
-15029020,8,15,Rendered fats or solvent extraction fats,Prohibited,,,,,2026-10-22
-15029090,8,15,Other,Prohibited,,,,,2026-10-22
-15030000,8,15,"Lard Stearin, Lard Oil, Oleostearin, Oleo-Oil and Tallow Oil, not emulsified or mixed or otherwise prepared",Prohibited,,,,,2026-10-22
-1504,4,15,"Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified.",,,,,,2026-10-22
-150410,6,15,Fish-liver oils and their fractions,,,,,,2026-10-22
-15041010,8,15,Cod liver oil,Free,,,,,2026-10-22
-15041091,8,15,Other: ---- Squid liver oil,Free,,,,,2026-10-22
-15041099,8,15,Other: ---- Other,Prohibited,,,,,2026-10-22
-150420,6,15,"Fats and oils and their fractions, of fish, other than liver oils",,,,,,2026-10-22
-15042010,8,15,Fish body oil,Restricted,Fish Body Oil (Refined) - import permitted as per Policy Condition 5 below.,5,,,2026-10-22
-15042020,8,15,Fish lipid oil,Free,Fish Body Oil (Refined) - import permitted as per Policy Condition 5 below.,5,,,2026-10-22
-15042030,8,15,Sperm oil,Prohibited,,,,,2026-10-22
-15042090,8,15,Other,Prohibited,,,,,2026-10-22
-15043000,8,15,"Fats and oils and their fractions, of marine mammals",Prohibited,,,,,2026-10-22
-1505,4,15,Wool grease and fatty substances derived therefrom (including lanolin).,,,,,,2026-10-22
-150500,6,15,Wool grease and fatty substances derived therefrom (including lanolin),,,,,,2026-10-22
-15050010,8,15,Wool alcohol (including lanolin alcohol),Free,,,,,2026-10-22
-15050020,8,15,"Wool grease, crude",Free,,,,,2026-10-22
-15050090,8,15,Other,Free,,,,,2026-10-22
-1506,4,15,"Other animal fats and oils and their fractions, whether or not refined, but not chemically modified.",,,,,,2026-10-22
-150600,6,15,"Other animal fats and oils and their fractions, whether or not refined, but not chemically modified",,,,,,2026-10-22
-15060010,8,15,Neats Foot oil and fats from bone or waste,Prohibited,,,,,2026-10-22
-15060090,8,15,Other,Prohibited,,,,,2026-10-22
-1507,4,15,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",,,,,,2026-10-22
-15071000,8,15,"Crude oil, whether or not degummed",Free,,,,,2026-10-22
-150790,6,15,Other,,,,,,2026-10-22
-15079010,8,15,Edible grade,Free,,,,,2026-10-22
-15079090,8,15,Other,Free,,,,,2026-10-22
-1508,4,15,"Ground-nut oil and its fractions, whether or not refined, but not chemically modified.",,,,,,2026-10-22
-15081000,8,15,Crude oil,Free,,,,,2026-10-22
-150890,6,15,Other,,,,,,2026-10-22
-15089010,8,15,Deodorized (Salad Oil),Free,,,,,2026-10-22
-15089091,8,15,Other: ---- Edible grade,Free,,,,,2026-10-22
-15089099,8,15,Other: ---- Other,Free,,,,,2026-10-22
-1509,4,15,"Olive oil and its fractions, whether or not refined, but not chemically modified.",,,,,,2026-10-22
-15092000,8,15,Extra virgin olive oil,Free,-,,54/2015-2020,2022-01-09,2026-10-22
-15093000,8,15,Virgin olive oil,Free,,,54/2015-2020,2022-02-09,2026-10-22
-15094000,8,15,Other virgin olive oils,Free,,,54/2015-2020,2022-02-09,2026-10-22
-150990,6,15,Other,,,,,,2026-10-22
-15099010,8,15,Edible grade,Free,,,,,2026-10-22
-15099090,8,15,Other,Free,,,,,2026-10-22
-1510,4,15,"OTHER OILS AND THEIR FRACTIONS, OBTAINED SOLELY FROM OLIVES, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, INCLUDING BLENDS OF THESE OILS OR FRACTIONS WITH OILS OR FRACTIONS OF HEADING 1509",,,,,,2026-10-22
-15101000,8,15,Crude olive pomace oil,Free,-,,54/2015-2020,2022-02-09,2026-10-22
-151090,6,15,Other:,,,,,,2026-10-22
-15109010,8,15,Refined olive pomace oil,Free,,,54/2015-2020,2022-02-09,2026-10-22
-15109090,8,15,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
-1511,4,15,"Palm oil and its fractions, whether or not refined, but not chemically modified.",,,,,,2026-10-22
-15111000,8,15,Crude oil,Free,Import not permitted through any port in Kerala.,,,,2026-10-22
-151190,6,15,Other,,,,,,2026-10-22
-15119010,8,15,Refined bleached deodorised palm oil,Free,Import is free until further orders. Imports are not permitted through any port in Kerala.,,51/2015-2020,2022-12-28,2026-10-22
-15119020,8,15,Refined bleached deodorised palmolein,Free,Import is free until further orders. Imports are not permitted through any port in Kerala.,,51/2015-2020,2022-12-28,2026-10-22
-15119030,8,15,Refined bleached deodorised palm stearin,Free,Imports are not permitted through any port in Kerala.,,10/2015-2020,2021-06-30,2026-10-22
-15119090,8,15,Other,Free,Import is free until further orders. Imports are not permitted through any port in Kerala.,,51/2015-2020,2022-12-28,2026-10-22
-1512,4,15,"Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified.",,,,,,2026-10-22
-151211,6,15,Sunflower-seed or safflower oil and fractions thereof : -- Crude oil,,,,,,2026-10-22
-15121110,8,15,Sunflower seed oil,Free,,,,,2026-10-22
-15121120,8,15,Safflower seed oil (kardi seed oil),Free,,,,,2026-10-22
-151219,6,15,Sunflower-seed or safflower oil and fractions thereof : -- Other,,,,,,2026-10-22
-15121910,8,15,"Sunflower oil, edible grade",Free,,,,,2026-10-22
-15121920,8,15,"Sunflower oil, non-edible grade (other than crude oil)",Free,,,,,2026-10-22
-15121930,8,15,"Safflower oil, edible grade",Free,,,,,2026-10-22
-15121940,8,15,"Safflower oil, non - edible grade",Free,,,,,2026-10-22
-15121990,8,15,Other,Free,,,,,2026-10-22
-15122100,8,15,"Cotton-seed oil and its fractions : -- Crude oil, whether or not gossypol has been removed",Free,,,,,2026-10-22
-151229,6,15,Cotton-seed oil and its fractions : -- Other,,,,,,2026-10-22
-15122910,8,15,Edible grade,Free,,,,,2026-10-22
-15122990,8,15,Other,Free,,,,,2026-10-22
-1513,4,15,"Coconut (copra), palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified.",,,,,,2026-10-22
-15131100,8,15,Coconut (copra) oil and its fractions : -- Crude oil,STE (State Trading Enterprise),"Import allowed through STE, except STC, subject to para 2.21 of Foreign Trade Policy",,08/2023,2023-05-29,2026-10-22
-15131900,8,15,Coconut (copra) oil and its fractions : -- Other,STE (State Trading Enterprise),"Import allowed through STE, except STC, subject to para 2.21 of Foreign Trade Policy",,08/2023,2023-05-29,2026-10-22
-151321,6,15,Palm kernel or babassu oil and fractions thereof : -- Crude oil,,,,,,2026-10-22
-15132110,8,15,Palm kernel oil,Free,Import not permitted through any port in Kerala.,,,,2026-10-22
-15132120,8,15,Babassu oil,Free,,,,,2026-10-22
-151329,6,15,Palm kernel or babassu oil and fractions thereof : -- Other,,,,,,2026-10-22
-15132910,8,15,Palm kernel oil and its fractions,Free,Import not permitted through any port in Kerala.,,,,2026-10-22
-15132920,8,15,Babassu oil and fractions edible grade,Free,,,,,2026-10-22
-15132930,8,15,"Babassu oil and fractions, other than edible grade",Free,,,,,2026-10-22
-15132990,8,15,Other,Free,,,,,2026-10-22
-1514,4,15,"Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified.",,,,,,2026-10-22
-151411,6,15,Low erucic acid rape or colza oil and its fractions : -- Crude oil,,,,,,2026-10-22
-15141110,8,15,Colza oil,Free,,,,,2026-10-22
-15141120,8,15,Rape oil,Free,,,,,2026-10-22
-15141190,8,15,Other,Free,,,,,2026-10-22
-151419,6,15,Low erucic acid rape or colza oil and its fractions : -- Other,,,,,,2026-10-22
-15141910,8,15,Refined colza oil of edible grade,Free,,,,,2026-10-22
-15141920,8,15,Refined rapeseed oil of edible grade,Free,,,,,2026-10-22
-15141990,8,15,Other,Free,,,,,2026-10-22
-151491,6,15,Other : -- Crude oil,,,,,,2026-10-22
-15149110,8,15,Colza oil,Free,,,,,2026-10-22
-15149120,8,15,Mustard oil,Free,,,,,2026-10-22
-15149190,8,15,Rapeseed oil,Free,,,,,2026-10-22
-151499,6,15,Other : -- Other,,,,,,2026-10-22
-15149910,8,15,Refined colza oil of edible grade,Free,,,,,2026-10-22
-15149920,8,15,Refined mustard oil of edible grade,Free,,,,,2026-10-22
-15149930,8,15,Refined rapeseed oil of edible grade,Free,,,,,2026-10-22
-15149990,8,15,Other,Free,,,,,2026-10-22
-1515,4,15,"OTHER FIXED VEGETABLE OR MICROBIAL FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED",,,,,,2026-10-22
-15151100,8,15,Linseed oil and its fractions : -- Crude oil,Free,,,,,2026-10-22
-151519,6,15,Linseed oil and its fractions : -- Other,,,,,,2026-10-22
-15151910,8,15,Edible grade,Free,,,,,2026-10-22
-15151990,8,15,Other,Free,,,,,2026-10-22
-15152100,8,15,Maize (corn) oil and its fractions : -- Crude oil,Free,,,,,2026-10-22
-151529,6,15,Maize (corn) oil and its fractions : -- Other,,,,,,2026-10-22
-15152910,8,15,Edible grade,Free,,,,,2026-10-22
-15152990,8,15,Other,Free,,,,,2026-10-22
-151530,6,15,Castor oil and its fractions,,,,,,2026-10-22
-15153010,8,15,Edible grade,Free,,,,,2026-10-22
-15153090,8,15,Other,Free,,,,,2026-10-22
-151550,6,15,Sesame oil and its fractions,,,,,,2026-10-22
-15155010,8,15,Crude oil,Free,,,,,2026-10-22
-15155091,8,15,Other: ---- Edible grade,Free,,,,,2026-10-22
-15155099,8,15,Other: ---- Other,Free,,,,,2026-10-22
-15156000,8,15,Microbial fats and oils and their fractions,Free,,,54/2015-2020,2022-02-09,2026-10-22
-151590,6,15,Other,,,,,,2026-10-22
-15159010,8,15,"Fixed vegetable oils, namely the following: chul moogra oil, mawra oil, kokam oil, tabacco seed oil, sal oil",Free,,,,,2026-10-22
-15159020,8,15,"Fixed vegetable oils, namely the following: neem seed oil, karanj oil, silk cotton seed oil,",Free,,,,,2026-10-22
-15159030,8,15,"Fixed vegetable oils, namely the following : cardamom oil, chillies/ capsicum oil, turmeric oil, ajwain seed oil, niger seed oil, garlic oil",Free,,,,,2026-10-22
-15159040,8,15,"Fixed vegetable oils of edible grade namely the following: mango kernel oil, mahua oil, rice bran oil",Free,,,,,2026-10-22
-15159091,8,15,Other: ---- Edible grade,Free,,,,,2026-10-22
-15159099,8,15,Other: ---- Other,Free,,,,,2026-10-22
-1516,4,15,"ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS ANDTHEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, REESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED",,,,,,2026-10-22
-15161000,8,15,Animal fats and oils and their fractions,Prohibited,,,,,2026-10-22
-151620,6,15,Vegetable fats and oils and their fractions,,,,,,2026-10-22
-15162011,8,15,Cotton seed oil: ---- Edible grade,Free,,,,,2026-10-22
-15162019,8,15,Cotton seed oil: ---- Other,Free,,,,,2026-10-22
-15162021,8,15,Groundnut oil: ---- Edible grade,Free,,,,,2026-10-22
-15162029,8,15,Groundnut oil: ---- Other,Free,,,,,2026-10-22
-15162031,8,15,Hydrogenated castor oil (opal wax): ---- Edible grade,Free,,,,,2026-10-22
-15162039,8,15,Hydrogenated castor oil (opal wax): ---- Other,Free,,,,,2026-10-22
-15162091,8,15,Other: ---- Edible grade,Free,,,,,2026-10-22
-15162099,8,15,Other: ---- Other,Free,,,,,2026-10-22
-15163000,8,15,Microbial fats and oils and their fractions,Free,,,54/2015-2020,2022-02-09,2026-10-22
-1517,4,15,"MARGARINE; EDIBLE MIXTURES OR PREPARATIONS OF ANIMAL, VEGETABLE OR MICROBIAL FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS AND OILS OR THEIR FRACTIONS OF HEADING 1516",,,,,,2026-10-22
-151710,6,15,"Margarine, excluding liquid margarine",,,,,,2026-10-22
-15171010,8,15,Of animal origin,Prohibited,,,,,2026-10-22
-15171021,8,15,Of vegetable origin: ---- Edible grade,Free,,,,,2026-10-22
-15171022,8,15,Of vegetable origin: ---- Linoxyn,Free,,,,,2026-10-22
-15171029,8,15,Of vegetable origin: ---- Other,Free,,,,,2026-10-22
-151790,6,15,Other,,,,,,2026-10-22
-15179010,8,15,Sal fat (processed or refined),Free,,,,,2026-10-22
-15179030,8,15,Imitation lard of animal origin,Prohibited,,,,,2026-10-22
-15179040,8,15,Imitation lard of vegetable origin,Free,,,,,2026-10-22
-15179090,8,15,Other,Free,,,,,2026-10-22
-1518,4,15,"ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS AND THEIR FRACTIONS, BOILED, OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING THOSE OF HEADING 1516; INEDIBLE MIXTURES OR PREPARATIONS OF ANIMAL, VEGETABLE OR MICROBIAL FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, NOT ELSEWHERE SPECIFIED OR INCLUDED",,,,,,2026-10-22
-15180011,8,15,Lin seed oil: ---- Edible grade,Free,,,,,2026-10-22
-15180019,8,15,Lin seed oil: ---- Other,Free,,,,,2026-10-22
-15180021,8,15,"Castor oil, dehydrated: ---- Edible grade",Free,,,,,2026-10-22
-15180029,8,15,"Castor oil, dehydrated: ---- Other",Free,,,,,2026-10-22
-15180031,8,15,Other vegetable oil and its fats: ---- Edible grade,Free,,,,,2026-10-22
-15180039,8,15,Other vegetable oil and its fats: ---- Other,Free,,,,,2026-10-22
-15180040,8,15,Other vegetable oil and its fats: ---- Other,Prohibited,,,,,2026-10-22
-15200000,8,15,"Glycerol, crude; glycerol waters and glycerol lyes.",Free,,,,,2026-10-22
-1521,4,15,"Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured.",,,,,,2026-10-22
-152110,6,15,Vegetable waxes,,,,,,2026-10-22
-15211011,8,15,Carnauba Waxes: ---- Edible wax for waxing fresh fruits and vegetables,Free,,,,,2026-10-22
-15211019,8,15,Carnauba Waxes: ---- Other,Free,,,,,2026-10-22
-15211090,8,15,Other,Free,,,,,2026-10-22
-152190,6,15,Other,,,,,,2026-10-22
-15219010,8,15,Beewax whether or not coloured,Free,,,,,2026-10-22
-15219020,8,15,Shellac wax whether or not coloured,Free,,,,,2026-10-22
-15219090,8,15,Other,Free,,,,,2026-10-22
-1522,4,15,Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes.,,,,,,2026-10-22
-152200,6,15,Degras: residues resulting from the treatment of fatty substances or animal or vegetable waxes :,,,,,,2026-10-22
-15220010,8,15,Degras,Prohibited,,,,,2026-10-22
-15220020,8,15,Soap stocks,Prohibited,,,,,2026-10-22
-15220090,8,15,Other,Prohibited,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+1501,,,4,15,"Pig fat (including lard) and poultry fat, other than that of heading 02.09 or 15.03.",,,,,,2026-10-22
+15011000,150110,"Pig fat; lard, other than that of heading 0209 and 1503",8,15,Lard,Prohibited,,,,,2026-10-22
+15012000,150120,"Pig fat; not lard, other than that of heading 0209 or 1503",8,15,Other pig fat,Prohibited,,,,,2026-10-22
+15019000,150190,Poultry fat; other than that of heading 0209 or 1503,8,15,Other,Prohibited,,,,,2026-10-22
+1502,,,4,15,"Fats of bovine animals, sheep or goats, other than those of heading 15.03.",,,,,,2026-10-22
+150210,150210,Tallow; other than those of heading 1503,6,15,Tallow,,,,,,2026-10-22
+15021010,150210,Tallow; other than those of heading 1503,8,15,Mutton tallow,Prohibited,,,,,2026-10-22
+15021090,150210,Tallow; other than those of heading 1503,8,15,Other,Prohibited,,,,,2026-10-22
+150290,150290,"Fats of bovine animals, sheep or goats; excluding tallow, and other than those of heading 1503",6,15,Other,,,,,,2026-10-22
+15029010,150290,"Fats of bovine animals, sheep or goats; excluding tallow, and other than those of heading 1503",8,15,Unrendered fats,Prohibited,,,,,2026-10-22
+15029020,150290,"Fats of bovine animals, sheep or goats; excluding tallow, and other than those of heading 1503",8,15,Rendered fats or solvent extraction fats,Prohibited,,,,,2026-10-22
+15029090,150290,"Fats of bovine animals, sheep or goats; excluding tallow, and other than those of heading 1503",8,15,Other,Prohibited,,,,,2026-10-22
+15030000,150300,"Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil; not emulsified or mixed or otherwise prepared",8,15,"Lard Stearin, Lard Oil, Oleostearin, Oleo-Oil and Tallow Oil, not emulsified or mixed or otherwise prepared",Prohibited,,,,,2026-10-22
+1504,,,4,15,"Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified.",,,,,,2026-10-22
+150410,150410,"Oils of fish; fish-liver oils and their fractions, whether or not refined, but not chemically modified",6,15,Fish-liver oils and their fractions,,,,,,2026-10-22
+15041010,150410,"Oils of fish; fish-liver oils and their fractions, whether or not refined, but not chemically modified",8,15,Cod liver oil,Free,,,,,2026-10-22
+15041091,150410,"Oils of fish; fish-liver oils and their fractions, whether or not refined, but not chemically modified",8,15,Other: ---- Squid liver oil,Free,,,,,2026-10-22
+15041099,150410,"Oils of fish; fish-liver oils and their fractions, whether or not refined, but not chemically modified",8,15,Other: ---- Other,Prohibited,,,,,2026-10-22
+150420,150420,"Fats and oils and their fractions; of fish, (excluding liver-oils)",6,15,"Fats and oils and their fractions, of fish, other than liver oils",,,,,,2026-10-22
+15042010,150420,"Fats and oils and their fractions; of fish, (excluding liver-oils)",8,15,Fish body oil,Restricted,Fish Body Oil (Refined) - import permitted as per Policy Condition 5 below.,5,,,2026-10-22
+15042020,150420,"Fats and oils and their fractions; of fish, (excluding liver-oils)",8,15,Fish lipid oil,Free,Fish Body Oil (Refined) - import permitted as per Policy Condition 5 below.,5,,,2026-10-22
+15042030,150420,"Fats and oils and their fractions; of fish, (excluding liver-oils)",8,15,Sperm oil,Prohibited,,,,,2026-10-22
+15042090,150420,"Fats and oils and their fractions; of fish, (excluding liver-oils)",8,15,Other,Prohibited,,,,,2026-10-22
+15043000,150430,Fats and oils and their fractions; of marine mammals,8,15,"Fats and oils and their fractions, of marine mammals",Prohibited,,,,,2026-10-22
+1505,,,4,15,Wool grease and fatty substances derived therefrom (including lanolin).,,,,,,2026-10-22
+150500,150500,Wool grease and fatty substances derived therefrom (including lanolin),6,15,Wool grease and fatty substances derived therefrom (including lanolin),,,,,,2026-10-22
+15050010,150500,Wool grease and fatty substances derived therefrom (including lanolin),8,15,Wool alcohol (including lanolin alcohol),Free,,,,,2026-10-22
+15050020,150500,Wool grease and fatty substances derived therefrom (including lanolin),8,15,"Wool grease, crude",Free,,,,,2026-10-22
+15050090,150500,Wool grease and fatty substances derived therefrom (including lanolin),8,15,Other,Free,,,,,2026-10-22
+1506,,,4,15,"Other animal fats and oils and their fractions, whether or not refined, but not chemically modified.",,,,,,2026-10-22
+150600,150600,"Animal fats and oils and their fractions; whether or not refined, but not chemically modified, n.e.c. in chapter 15",6,15,"Other animal fats and oils and their fractions, whether or not refined, but not chemically modified",,,,,,2026-10-22
+15060010,150600,"Animal fats and oils and their fractions; whether or not refined, but not chemically modified, n.e.c. in chapter 15",8,15,Neats Foot oil and fats from bone or waste,Prohibited,,,,,2026-10-22
+15060090,150600,"Animal fats and oils and their fractions; whether or not refined, but not chemically modified, n.e.c. in chapter 15",8,15,Other,Prohibited,,,,,2026-10-22
+1507,,,4,15,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",,,,,,2026-10-22
+15071000,150710,"Vegetable oils; soya-bean oil and its fractions, crude, whether or not degummed, not chemically modified",8,15,"Crude oil, whether or not degummed",Free,,,,,2026-10-22
+150790,150790,"Vegetable oils; soya-bean oil and its fractions, other than crude, whether or not refined, but not chemically modified",6,15,Other,,,,,,2026-10-22
+15079010,150790,"Vegetable oils; soya-bean oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Edible grade,Free,,,,,2026-10-22
+15079090,150790,"Vegetable oils; soya-bean oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Other,Free,,,,,2026-10-22
+1508,,,4,15,"Ground-nut oil and its fractions, whether or not refined, but not chemically modified.",,,,,,2026-10-22
+15081000,150810,"Vegetable oils; ground-nut oil and its fractions, crude, not chemically modified",8,15,Crude oil,Free,,,,,2026-10-22
+150890,150890,"Vegetable oils; ground-nut oil and its fractions, other than crude, whether or not refined, but not chemically modified",6,15,Other,,,,,,2026-10-22
+15089010,150890,"Vegetable oils; ground-nut oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Deodorized (Salad Oil),Free,,,,,2026-10-22
+15089091,150890,"Vegetable oils; ground-nut oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Other: ---- Edible grade,Free,,,,,2026-10-22
+15089099,150890,"Vegetable oils; ground-nut oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Other: ---- Other,Free,,,,,2026-10-22
+1509,,,4,15,"Olive oil and its fractions, whether or not refined, but not chemically modified.",,,,,,2026-10-22
+15092000,150920,"Vegetable oils; olive oil and its fractions, extra virgin olive oil, whether or not refined, but not chemically modified",8,15,Extra virgin olive oil,Free,-,,54/2015-2020,2022-01-09,2026-10-22
+15093000,150930,"Vegetable oils; olive oil and its fractions, virgin olive oil, whether or not refined, but not chemically modified",8,15,Virgin olive oil,Free,,,54/2015-2020,2022-02-09,2026-10-22
+15094000,150940,"Vegetable oils; olive oil and its fractions, virgin olive oils n.e.c. in heading 1509, whether or not refined, but not chemically modified",8,15,Other virgin olive oils,Free,,,54/2015-2020,2022-02-09,2026-10-22
+150990,150990,"Vegetable oils; olive oil and its fractions, other than virgin, whether or not refined, but not chemically modified",6,15,Other,,,,,,2026-10-22
+15099010,150990,"Vegetable oils; olive oil and its fractions, other than virgin, whether or not refined, but not chemically modified",8,15,Edible grade,Free,,,,,2026-10-22
+15099090,150990,"Vegetable oils; olive oil and its fractions, other than virgin, whether or not refined, but not chemically modified",8,15,Other,Free,,,,,2026-10-22
+1510,,,4,15,"OTHER OILS AND THEIR FRACTIONS, OBTAINED SOLELY FROM OLIVES, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, INCLUDING BLENDS OF THESE OILS OR FRACTIONS WITH OILS OR FRACTIONS OF HEADING 1509",,,,,,2026-10-22
+15101000,151010,"Vegetable oils; crude olive pomace oil and their fractions, obtained solely from olives, whether or not refined, but not chemically modified",8,15,Crude olive pomace oil,Free,-,,54/2015-2020,2022-02-09,2026-10-22
+151090,151090,"Vegetable oils; oils and their fractions n.e.c. in heading 1510, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading no. 1509",6,15,Other:,,,,,,2026-10-22
+15109010,151090,"Vegetable oils; oils and their fractions n.e.c. in heading 1510, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading no. 1509",8,15,Refined olive pomace oil,Free,,,54/2015-2020,2022-02-09,2026-10-22
+15109090,151090,"Vegetable oils; oils and their fractions n.e.c. in heading 1510, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading no. 1509",8,15,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+1511,,,4,15,"Palm oil and its fractions, whether or not refined, but not chemically modified.",,,,,,2026-10-22
+15111000,151110,"Vegetable oils; palm oil and its fractions, crude, not chemically modified",8,15,Crude oil,Free,Import not permitted through any port in Kerala.,,,,2026-10-22
+151190,151190,"Vegetable oils; palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",6,15,Other,,,,,,2026-10-22
+15119010,151190,"Vegetable oils; palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Refined bleached deodorised palm oil,Free,Import is free until further orders. Imports are not permitted through any port in Kerala.,,51/2015-2020,2022-12-28,2026-10-22
+15119020,151190,"Vegetable oils; palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Refined bleached deodorised palmolein,Free,Import is free until further orders. Imports are not permitted through any port in Kerala.,,51/2015-2020,2022-12-28,2026-10-22
+15119030,151190,"Vegetable oils; palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Refined bleached deodorised palm stearin,Free,Imports are not permitted through any port in Kerala.,,10/2015-2020,2021-06-30,2026-10-22
+15119090,151190,"Vegetable oils; palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Other,Free,Import is free until further orders. Imports are not permitted through any port in Kerala.,,51/2015-2020,2022-12-28,2026-10-22
+1512,,,4,15,"Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified.",,,,,,2026-10-22
+151211,151211,"Vegetable oils; sunflower seed or safflower oil and their fractions, crude, not chemically modified",6,15,Sunflower-seed or safflower oil and fractions thereof : -- Crude oil,,,,,,2026-10-22
+15121110,151211,"Vegetable oils; sunflower seed or safflower oil and their fractions, crude, not chemically modified",8,15,Sunflower seed oil,Free,,,,,2026-10-22
+15121120,151211,"Vegetable oils; sunflower seed or safflower oil and their fractions, crude, not chemically modified",8,15,Safflower seed oil (kardi seed oil),Free,,,,,2026-10-22
+151219,151219,"Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",6,15,Sunflower-seed or safflower oil and fractions thereof : -- Other,,,,,,2026-10-22
+15121910,151219,"Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",8,15,"Sunflower oil, edible grade",Free,,,,,2026-10-22
+15121920,151219,"Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",8,15,"Sunflower oil, non-edible grade (other than crude oil)",Free,,,,,2026-10-22
+15121930,151219,"Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",8,15,"Safflower oil, edible grade",Free,,,,,2026-10-22
+15121940,151219,"Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",8,15,"Safflower oil, non - edible grade",Free,,,,,2026-10-22
+15121990,151219,"Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",8,15,Other,Free,,,,,2026-10-22
+15122100,151221,"Vegetable oils; cotton-seed oil and its fractions; crude, whether or not gossypol has been removed, not chemically modified",8,15,"Cotton-seed oil and its fractions : -- Crude oil, whether or not gossypol has been removed",Free,,,,,2026-10-22
+151229,151229,"Vegetable oils; cotton-seed oil and its fractions, other than crude, whether or not refined, but not chemically modified",6,15,Cotton-seed oil and its fractions : -- Other,,,,,,2026-10-22
+15122910,151229,"Vegetable oils; cotton-seed oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Edible grade,Free,,,,,2026-10-22
+15122990,151229,"Vegetable oils; cotton-seed oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Other,Free,,,,,2026-10-22
+1513,,,4,15,"Coconut (copra), palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified.",,,,,,2026-10-22
+15131100,151311,"Vegetable oils; coconut (copra) oil and its fractions, crude, not chemically modified",8,15,Coconut (copra) oil and its fractions : -- Crude oil,STE (State Trading Enterprise),"Import allowed through STE, except STC, subject to para 2.21 of Foreign Trade Policy",,08/2023,2023-05-29,2026-10-22
+15131900,151319,"Vegetable oils; coconut (copra) oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Coconut (copra) oil and its fractions : -- Other,STE (State Trading Enterprise),"Import allowed through STE, except STC, subject to para 2.21 of Foreign Trade Policy",,08/2023,2023-05-29,2026-10-22
+151321,151321,"Vegetable oils; palm kernel or babassu oil and their fractions, crude, not chemically modified",6,15,Palm kernel or babassu oil and fractions thereof : -- Crude oil,,,,,,2026-10-22
+15132110,151321,"Vegetable oils; palm kernel or babassu oil and their fractions, crude, not chemically modified",8,15,Palm kernel oil,Free,Import not permitted through any port in Kerala.,,,,2026-10-22
+15132120,151321,"Vegetable oils; palm kernel or babassu oil and their fractions, crude, not chemically modified",8,15,Babassu oil,Free,,,,,2026-10-22
+151329,151329,"Vegetable oils; palm kernel or babassu oil and their fractions, other than crude, whether or not refined, but not chemically modified",6,15,Palm kernel or babassu oil and fractions thereof : -- Other,,,,,,2026-10-22
+15132910,151329,"Vegetable oils; palm kernel or babassu oil and their fractions, other than crude, whether or not refined, but not chemically modified",8,15,Palm kernel oil and its fractions,Free,Import not permitted through any port in Kerala.,,,,2026-10-22
+15132920,151329,"Vegetable oils; palm kernel or babassu oil and their fractions, other than crude, whether or not refined, but not chemically modified",8,15,Babassu oil and fractions edible grade,Free,,,,,2026-10-22
+15132930,151329,"Vegetable oils; palm kernel or babassu oil and their fractions, other than crude, whether or not refined, but not chemically modified",8,15,"Babassu oil and fractions, other than edible grade",Free,,,,,2026-10-22
+15132990,151329,"Vegetable oils; palm kernel or babassu oil and their fractions, other than crude, whether or not refined, but not chemically modified",8,15,Other,Free,,,,,2026-10-22
+1514,,,4,15,"Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified.",,,,,,2026-10-22
+151411,151411,"Vegetable oils; low erucic acid rape or colza oil and its fractions, crude",6,15,Low erucic acid rape or colza oil and its fractions : -- Crude oil,,,,,,2026-10-22
+15141110,151411,"Vegetable oils; low erucic acid rape or colza oil and its fractions, crude",8,15,Colza oil,Free,,,,,2026-10-22
+15141120,151411,"Vegetable oils; low erucic acid rape or colza oil and its fractions, crude",8,15,Rape oil,Free,,,,,2026-10-22
+15141190,151411,"Vegetable oils; low erucic acid rape or colza oil and its fractions, crude",8,15,Other,Free,,,,,2026-10-22
+151419,151419,"Vegetable oils; low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",6,15,Low erucic acid rape or colza oil and its fractions : -- Other,,,,,,2026-10-22
+15141910,151419,"Vegetable oils; low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",8,15,Refined colza oil of edible grade,Free,,,,,2026-10-22
+15141920,151419,"Vegetable oils; low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",8,15,Refined rapeseed oil of edible grade,Free,,,,,2026-10-22
+15141990,151419,"Vegetable oils; low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",8,15,Other,Free,,,,,2026-10-22
+151491,151491,"Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, crude",6,15,Other : -- Crude oil,,,,,,2026-10-22
+15149110,151491,"Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, crude",8,15,Colza oil,Free,,,,,2026-10-22
+15149120,151491,"Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, crude",8,15,Mustard oil,Free,,,,,2026-10-22
+15149190,151491,"Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, crude",8,15,Rapeseed oil,Free,,,,,2026-10-22
+151499,151499,"Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",6,15,Other : -- Other,,,,,,2026-10-22
+15149910,151499,"Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",8,15,Refined colza oil of edible grade,Free,,,,,2026-10-22
+15149920,151499,"Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",8,15,Refined mustard oil of edible grade,Free,,,,,2026-10-22
+15149930,151499,"Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",8,15,Refined rapeseed oil of edible grade,Free,,,,,2026-10-22
+15149990,151499,"Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",8,15,Other,Free,,,,,2026-10-22
+1515,,,4,15,"OTHER FIXED VEGETABLE OR MICROBIAL FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED",,,,,,2026-10-22
+15151100,151511,"Vegetable oils; linseed oil and its fractions, crude, not chemically modified",8,15,Linseed oil and its fractions : -- Crude oil,Free,,,,,2026-10-22
+151519,151519,"Vegetable oils; linseed oil and its fractions, other than crude, whether or not refined, but not chemically modified",6,15,Linseed oil and its fractions : -- Other,,,,,,2026-10-22
+15151910,151519,"Vegetable oils; linseed oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Edible grade,Free,,,,,2026-10-22
+15151990,151519,"Vegetable oils; linseed oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Other,Free,,,,,2026-10-22
+15152100,151521,"Vegetable oils; maize (corn) oil and its fractions, crude, not chemically modified",8,15,Maize (corn) oil and its fractions : -- Crude oil,Free,,,,,2026-10-22
+151529,151529,"Vegetable oils; maize (corn) oil and its fractions, other than crude, whether or not refined, but not chemically modified",6,15,Maize (corn) oil and its fractions : -- Other,,,,,,2026-10-22
+15152910,151529,"Vegetable oils; maize (corn) oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Edible grade,Free,,,,,2026-10-22
+15152990,151529,"Vegetable oils; maize (corn) oil and its fractions, other than crude, whether or not refined, but not chemically modified",8,15,Other,Free,,,,,2026-10-22
+151530,151530,"Vegetable oils; castor oil and its fractions, whether or not refined, but not chemically modified",6,15,Castor oil and its fractions,,,,,,2026-10-22
+15153010,151530,"Vegetable oils; castor oil and its fractions, whether or not refined, but not chemically modified",8,15,Edible grade,Free,,,,,2026-10-22
+15153090,151530,"Vegetable oils; castor oil and its fractions, whether or not refined, but not chemically modified",8,15,Other,Free,,,,,2026-10-22
+151550,151550,"Vegetable oils; sesame oil and its fractions, whether or not refined, but not chemically modified",6,15,Sesame oil and its fractions,,,,,,2026-10-22
+15155010,151550,"Vegetable oils; sesame oil and its fractions, whether or not refined, but not chemically modified",8,15,Crude oil,Free,,,,,2026-10-22
+15155091,151550,"Vegetable oils; sesame oil and its fractions, whether or not refined, but not chemically modified",8,15,Other: ---- Edible grade,Free,,,,,2026-10-22
+15155099,151550,"Vegetable oils; sesame oil and its fractions, whether or not refined, but not chemically modified",8,15,Other: ---- Other,Free,,,,,2026-10-22
+15156000,151560,"Vegetable oils; microbial fats and oils and their fractions, whether or not refined, but not chemically modified",8,15,Microbial fats and oils and their fractions,Free,,,54/2015-2020,2022-02-09,2026-10-22
+151590,151590,"Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",6,15,Other,,,,,,2026-10-22
+15159010,151590,"Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",8,15,"Fixed vegetable oils, namely the following: chul moogra oil, mawra oil, kokam oil, tabacco seed oil, sal oil",Free,,,,,2026-10-22
+15159020,151590,"Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",8,15,"Fixed vegetable oils, namely the following: neem seed oil, karanj oil, silk cotton seed oil,",Free,,,,,2026-10-22
+15159030,151590,"Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",8,15,"Fixed vegetable oils, namely the following : cardamom oil, chillies/ capsicum oil, turmeric oil, ajwain seed oil, niger seed oil, garlic oil",Free,,,,,2026-10-22
+15159040,151590,"Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",8,15,"Fixed vegetable oils of edible grade namely the following: mango kernel oil, mahua oil, rice bran oil",Free,,,,,2026-10-22
+15159091,151590,"Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",8,15,Other: ---- Edible grade,Free,,,,,2026-10-22
+15159099,151590,"Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",8,15,Other: ---- Other,Free,,,,,2026-10-22
+1516,,,4,15,"ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS ANDTHEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, REESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED",,,,,,2026-10-22
+15161000,151610,"Animal fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",8,15,Animal fats and oils and their fractions,Prohibited,,,,,2026-10-22
+151620,151620,"Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",6,15,Vegetable fats and oils and their fractions,,,,,,2026-10-22
+15162011,151620,"Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",8,15,Cotton seed oil: ---- Edible grade,Free,,,,,2026-10-22
+15162019,151620,"Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",8,15,Cotton seed oil: ---- Other,Free,,,,,2026-10-22
+15162021,151620,"Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",8,15,Groundnut oil: ---- Edible grade,Free,,,,,2026-10-22
+15162029,151620,"Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",8,15,Groundnut oil: ---- Other,Free,,,,,2026-10-22
+15162031,151620,"Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",8,15,Hydrogenated castor oil (opal wax): ---- Edible grade,Free,,,,,2026-10-22
+15162039,151620,"Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",8,15,Hydrogenated castor oil (opal wax): ---- Other,Free,,,,,2026-10-22
+15162091,151620,"Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",8,15,Other: ---- Edible grade,Free,,,,,2026-10-22
+15162099,151620,"Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",8,15,Other: ---- Other,Free,,,,,2026-10-22
+15163000,151630,"Microbial fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",8,15,Microbial fats and oils and their fractions,Free,,,54/2015-2020,2022-02-09,2026-10-22
+1517,,,4,15,"MARGARINE; EDIBLE MIXTURES OR PREPARATIONS OF ANIMAL, VEGETABLE OR MICROBIAL FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS AND OILS OR THEIR FRACTIONS OF HEADING 1516",,,,,,2026-10-22
+151710,151710,Margarine; excluding liquid margarine,6,15,"Margarine, excluding liquid margarine",,,,,,2026-10-22
+15171010,151710,Margarine; excluding liquid margarine,8,15,Of animal origin,Prohibited,,,,,2026-10-22
+15171021,151710,Margarine; excluding liquid margarine,8,15,Of vegetable origin: ---- Edible grade,Free,,,,,2026-10-22
+15171022,151710,Margarine; excluding liquid margarine,8,15,Of vegetable origin: ---- Linoxyn,Free,,,,,2026-10-22
+15171029,151710,Margarine; excluding liquid margarine,8,15,Of vegetable origin: ---- Other,Free,,,,,2026-10-22
+151790,151790,"Edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, n.e.c. in heading 1517, other than edible fats and oils or their fractions of heading 15.16",6,15,Other,,,,,,2026-10-22
+15179010,151790,"Edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, n.e.c. in heading 1517, other than edible fats and oils or their fractions of heading 15.16",8,15,Sal fat (processed or refined),Free,,,,,2026-10-22
+15179030,151790,"Edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, n.e.c. in heading 1517, other than edible fats and oils or their fractions of heading 15.16",8,15,Imitation lard of animal origin,Prohibited,,,,,2026-10-22
+15179040,151790,"Edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, n.e.c. in heading 1517, other than edible fats and oils or their fractions of heading 15.16",8,15,Imitation lard of vegetable origin,Free,,,,,2026-10-22
+15179090,151790,"Edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, n.e.c. in heading 1517, other than edible fats and oils or their fractions of heading 15.16",8,15,Other,Free,,,,,2026-10-22
+1518,,,4,15,"ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS AND THEIR FRACTIONS, BOILED, OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING THOSE OF HEADING 1516; INEDIBLE MIXTURES OR PREPARATIONS OF ANIMAL, VEGETABLE OR MICROBIAL FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, NOT ELSEWHERE SPECIFIED OR INCLUDED",,,,,,2026-10-22
+15180011,151800,"Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",8,15,Lin seed oil: ---- Edible grade,Free,,,,,2026-10-22
+15180019,151800,"Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",8,15,Lin seed oil: ---- Other,Free,,,,,2026-10-22
+15180021,151800,"Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",8,15,"Castor oil, dehydrated: ---- Edible grade",Free,,,,,2026-10-22
+15180029,151800,"Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",8,15,"Castor oil, dehydrated: ---- Other",Free,,,,,2026-10-22
+15180031,151800,"Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",8,15,Other vegetable oil and its fats: ---- Edible grade,Free,,,,,2026-10-22
+15180039,151800,"Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",8,15,Other vegetable oil and its fats: ---- Other,Free,,,,,2026-10-22
+15180040,151800,"Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",8,15,Other vegetable oil and its fats: ---- Other,Prohibited,,,,,2026-10-22
+15200000,152000,"Glycerol, crude; glycerol waters and glycerol lyes",8,15,"Glycerol, crude; glycerol waters and glycerol lyes.",Free,,,,,2026-10-22
+1521,,,4,15,"Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured.",,,,,,2026-10-22
+152110,152110,Vegetable waxes (other than triglycerides); whether or not refined or coloured,6,15,Vegetable waxes,,,,,,2026-10-22
+15211011,152110,Vegetable waxes (other than triglycerides); whether or not refined or coloured,8,15,Carnauba Waxes: ---- Edible wax for waxing fresh fruits and vegetables,Free,,,,,2026-10-22
+15211019,152110,Vegetable waxes (other than triglycerides); whether or not refined or coloured,8,15,Carnauba Waxes: ---- Other,Free,,,,,2026-10-22
+15211090,152110,Vegetable waxes (other than triglycerides); whether or not refined or coloured,8,15,Other,Free,,,,,2026-10-22
+152190,152190,"Waxes, other than vegetable, n.e.c. in heading no. 1521; whether or not refined or coloured",6,15,Other,,,,,,2026-10-22
+15219010,152190,"Waxes, other than vegetable, n.e.c. in heading no. 1521; whether or not refined or coloured",8,15,Beewax whether or not coloured,Free,,,,,2026-10-22
+15219020,152190,"Waxes, other than vegetable, n.e.c. in heading no. 1521; whether or not refined or coloured",8,15,Shellac wax whether or not coloured,Free,,,,,2026-10-22
+15219090,152190,"Waxes, other than vegetable, n.e.c. in heading no. 1521; whether or not refined or coloured",8,15,Other,Free,,,,,2026-10-22
+1522,,,4,15,Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes.,,,,,,2026-10-22
+152200,152200,Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes,6,15,Degras: residues resulting from the treatment of fatty substances or animal or vegetable waxes :,,,,,,2026-10-22
+15220010,152200,Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes,8,15,Degras,Prohibited,,,,,2026-10-22
+15220020,152200,Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes,8,15,Soap stocks,Prohibited,,,,,2026-10-22
+15220090,152200,Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes,8,15,Other,Prohibited,,,,,2026-10-22

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "3201",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "32011000",
+   "hs6": "320110",
+   "hs6_description": "Tanning extracts of vegetable origin; quebracho extract",
    "level": 8,
    "chapter": "32",
    "description": "Quebracho extract",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "32012000",
+   "hs6": "320120",
+   "hs6_description": "Tanning extracts of vegetable origin; wattle extract",
    "level": 8,
    "chapter": "32",
    "description": "Wattle extract",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "320190",
+   "hs6": "320190",
+   "hs6_description": "Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives, (excluding quebracho or wattle extract)",
    "level": 6,
    "chapter": "32",
    "description": "Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "32019010",
+   "hs6": "320190",
+   "hs6_description": "Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives, (excluding quebracho or wattle extract)",
    "level": 8,
    "chapter": "32",
    "description": "Gambier extracts",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "32019020",
+   "hs6": "320190",
+   "hs6_description": "Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives, (excluding quebracho or wattle extract)",
    "level": 8,
    "chapter": "32",
    "description": "Myrobalan fruit extract",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "32019030",
+   "hs6": "320190",
+   "hs6_description": "Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives, (excluding quebracho or wattle extract)",
    "level": 8,
    "chapter": "32",
    "description": "Gallotannic acid (tannin, digallic acid)",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "32019090",
+   "hs6": "320190",
+   "hs6_description": "Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives, (excluding quebracho or wattle extract)",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "3202",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Synthetic organic tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pretanning.",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "32021000",
+   "hs6": "320210",
+   "hs6_description": "Tanning substances; synthetic organic tanning substances",
    "level": 8,
    "chapter": "32",
    "description": "Synthetic organic tanning substances",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "320290",
+   "hs6": "320290",
+   "hs6_description": "Tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pre- tanning",
    "level": 6,
    "chapter": "32",
    "description": "Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "32029010",
+   "hs6": "320290",
+   "hs6_description": "Tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pre- tanning",
    "level": 8,
    "chapter": "32",
    "description": "Inorganic tanning substances",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "32029020",
+   "hs6": "320290",
+   "hs6_description": "Tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pre- tanning",
    "level": 8,
    "chapter": "32",
    "description": "Tanning preparations, whether or not containing natural tanning substances",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "32029030",
+   "hs6": "320290",
+   "hs6_description": "Tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pre- tanning",
    "level": 8,
    "chapter": "32",
    "description": "Enzymatic preparations for pre-tanning",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "32029090",
+   "hs6": "320290",
+   "hs6_description": "Tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pre- tanning",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "3203",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Colouring matter of vegetable or animal origin (including dyeing extracts but excluding animal black), whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on colouring matter of vegetable or animal origin.",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "320300",
+   "hs6": "320300",
+   "hs6_description": "Colouring matter of vegetable or animal origin, including dyeing extracts not animal black, whether or not chemically defined; preparations based on colouring matter of vegetable or animal origin",
    "level": 6,
    "chapter": "32",
    "description": "Colouring matter of vegetable or animal origin (including dyeing extracts but excluding animal black), whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on colouring matter of vegetable or animal origin :",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "32030010",
+   "hs6": "320300",
+   "hs6_description": "Colouring matter of vegetable or animal origin, including dyeing extracts not animal black, whether or not chemically defined; preparations based on colouring matter of vegetable or animal origin",
    "level": 8,
    "chapter": "32",
    "description": "Cutch (Catechu) extracts",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "32030020",
+   "hs6": "320300",
+   "hs6_description": "Colouring matter of vegetable or animal origin, including dyeing extracts not animal black, whether or not chemically defined; preparations based on colouring matter of vegetable or animal origin",
    "level": 8,
    "chapter": "32",
    "description": "Food colours other than synthetic",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "32030030",
+   "hs6": "320300",
+   "hs6_description": "Colouring matter of vegetable or animal origin, including dyeing extracts not animal black, whether or not chemically defined; preparations based on colouring matter of vegetable or animal origin",
    "level": 8,
    "chapter": "32",
    "description": "Lac-dye",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "32030040",
+   "hs6": "320300",
+   "hs6_description": "Colouring matter of vegetable or animal origin, including dyeing extracts not animal black, whether or not chemically defined; preparations based on colouring matter of vegetable or animal origin",
    "level": 8,
    "chapter": "32",
    "description": "Natural indigo",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "32030090",
+   "hs6": "320300",
+   "hs6_description": "Colouring matter of vegetable or animal origin, including dyeing extracts not animal black, whether or not chemically defined; preparations based on colouring matter of vegetable or animal origin",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "3204",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Synthetic organic colouring matter, whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on synthetic organic colouring matter; synthetic organic products of a kind used as fluorescent brightening agents or as luminophores, whether or not chemically defined.",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "320411",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 6,
    "chapter": "32",
    "description": "Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Disperse dyes and preparations based thereon",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "32041111",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse yellow 13 (Duranol Brill yellow 6 G)",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "32041119",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "32041121",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Orange: ---- Disperse orange 11 (Duranol orange G)",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "32041129",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Orange: ---- Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "32041131",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Red: ---- Disperse Red 3 (Serisol Fast Pink B)",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "32041132",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Red: ---- Disperse Red 4 (Celliton Fast Pink RF)",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "32041133",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Red: ---- Disperse Red 9 (Duranol Red GN)",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "32041139",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Red: ---- Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "32041141",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Violet: ---- Disperse Violet 1 (Duranol violet 2R)",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "32041142",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Violet: ---- Disperse violet 4 (Duranol Brill Violet B)",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "32041143",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Violet: ---- Disperse violet 8 (Duranol Brill violet BR)",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "32041149",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Violet: ---- Other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "32041151",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Blue: ---- Disperse Blue 1 (Duranol Brill Blue CB)",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "32041152",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Blue: ---- Disperse Blue 3 (Duranol Brill Blue BBN)",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "32041153",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Blue: ---- Disperse Blue 5 (Celliton Fast Blue FFB)",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "32041154",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Blue: ---- Disperse Blue 6 (Celliton Fast Blue FFG)",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "32041155",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Blue: ---- Disperse Blue 14 (Duranol Brill Blue G)",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "32041156",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Blue: ---- Disperse Blue 24 (Duranol Blue 2G)",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "32041159",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Disperse Blue: ---- Other",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "32041191",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other: ---- Disperse Greens",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "32041192",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other: ---- Disperse Browns",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "32041193",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other: ---- Disperse Blacks",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "32041194",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other: ---- Disperse Brown mixtures",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "32041195",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other: ---- Disperse Grey mixtures",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "32041196",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other: ---- Disperse Black mixtures",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "32041199",
+   "hs6": "320411",
+   "hs6_description": "Dyes; disperse dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other: ---- Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "320412",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 6,
    "chapter": "32",
    "description": "Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Acid dyes, whether or not premetallised, and preparations based thereon; mordant dyes and preparations based thereon",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "32041211",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Azo dyes: ---- Acid yellows",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "32041212",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Azo dyes: ---- Acid Oranges",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "32041213",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Azo dyes: ---- Acid Red",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "32041214",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Azo dyes: ---- Acid Violets",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "32041215",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Azo dyes: ---- Acid Blues",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "32041216",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Azo dyes: ---- Acid Greens",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "32041217",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Azo dyes: ---- Acid Brown",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "32041218",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Azo dyes: ---- Acid Blacks",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "32041219",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Azo dyes: ---- Other",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "32041221",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Greens (non-azo): ---- Acid Green 17 (Solacet Fast Green 2G)",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "32041222",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Greens (non-azo): ---- Acid Green 27 (Carbolan Green G)",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "32041223",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Greens (non-azo): ---- Acid Green 28 (Carbolan Brill Green 5G)",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "32041224",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Greens (non-azo): ---- Acid Green 38 (Alizarine Cyanine Green 3G)",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "32041225",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Greens (non-azo): ---- Acid Green 44 (Alizarine Cyanine Green GWA)",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "32041229",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Greens (non-azo): ---- Other",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "32041231",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Black (non-azo): ---- Acid Black 2 (nigrosine)",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "32041232",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Black (non-azo): ---- Acid Black 48 (Coomasie Fast Grey 3G)",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "32041239",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Black (non-azo): ---- Other",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "32041241",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 2 (Alizarine Brill Blue PFN)",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "32041242",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 14 (Solacet Fast Blue 4 G1)",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "32041243",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 23 (Alizarine Light Blue 4 G1)",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "32041244",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 25 (Solway Ultra Blue B)",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "32041245",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 45 (Solway Blue RN)",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "32041246",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 51 (Alizarine sky blue FFB",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "32041247",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 52 (Alizarine Light - 5GL)",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "32041248",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 2, 14, 23, 25, 45, 51, 52 and 78 (non-azo): ---- Acid Blue 78 (Solway Sky Blue B)",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "32041251",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 93, 112, 127, 138, 140 and others (non-azo): ---- Acid Blue 93 (Ink Blue)",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "32041252",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 93, 112, 127, 138, 140 and others (non-azo): ---- Acid Blue 112 (Coomasie Ultra sky SE)",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "32041253",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 93, 112, 127, 138, 140 and others (non-azo): ---- Acid Blue 127 (Brill Alizarine Milling Blue G)",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "32041254",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 93, 112, 127, 138, 140 and others (non-azo): ---- Acid Blue 138 (Carbolan Blue B)",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "32041255",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 93, 112, 127, 138, 140 and others (non-azo): ---- Acid Blue 140 (Carbolan Brill Blue 2R)",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "32041259",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Acid Blues 93, 112, 127, 138, 140 and others (non-azo): ---- Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "32041261",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Mordant dyes: ---- Yellows",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "32041262",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Mordant dyes: ---- Oranges",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "32041263",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Mordant dyes: ---- Violets",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "32041264",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Mordant dyes: ---- Blues",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "32041265",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Mordant dyes: ---- Greens",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "32041266",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Mordant dyes: ---- Browns",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "32041267",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Mordant dyes: ---- Blacks",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "32041268",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Mordant dyes: ---- Red II (Alizarine Red)",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "32041269",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Mordant dyes: ---- Other",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "32041291",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other non-azo acid dyes: ---- Acid yellows",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "32041292",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other non-azo acid dyes: ---- Acid Oranges",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "32041293",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other non-azo acid dyes: ---- Acid Red",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "32041294",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other non-azo acid dyes: ---- Acid Violets",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "32041295",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other non-azo acid dyes: ---- Acid Browns",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "32041299",
+   "hs6": "320412",
+   "hs6_description": "Dyes; acid, whether or not premetallised and preparations based thereon, mordant dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other non-azo acid dyes: ---- Other",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "320413",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 6,
    "chapter": "32",
    "description": "Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Basic dyes and preparations based thereon",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "32041310",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic azo dyes",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "32041321",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic yellow (non-azo): ---- Yellow 2 (Auramine O)",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "32041329",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic yellow (non-azo): ---- Other",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "32041331",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic Red (non-azo): ---- Red 1 (Rhodamine 6 G)",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "32041339",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic Red (non-azo): ---- Other",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "32041341",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic Violet (non-azo): ---- Violet 1 (methyl Violet)",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "32041342",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic Violet (non-azo): ---- Violet 10 (Rhodamine B)",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "32041343",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic Violet (non-azo): ---- Violet 14 (magenta)",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "32041349",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic Violet (non-azo): ---- Other",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "32041351",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic Blue (non-azo): ---- Blue 9 (methylene Blue)",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "32041352",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic Blue (non-azo): ---- Blue 16 (Victoria Blue B)",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "32041359",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic Blue (non-azo): ---- Other",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "32041361",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic Green (non-azo): ---- Green 4 (Malachite green)",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "32041369",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Basic Green (non-azo): ---- Other",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "32041391",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other non-azo basic dyes: ---- Basic Oranges",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "32041392",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other non-azo basic dyes: ---- Basic Browns",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "32041393",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other non-azo basic dyes: ---- Basic Black",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "32041399",
+   "hs6": "320413",
+   "hs6_description": "Dyes; basic dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other non-azo basic dyes: ---- Other",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "320414",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 6,
    "chapter": "32",
    "description": "Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Direct dyes and preparations based thereon",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "32041411",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other non-azo basic dyes: ---- Yellow 12 (Chrysophenine G)",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "32041419",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other non-azo basic dyes: ---- Other",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "32041421",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Red (azo): ---- Congo Red",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "32041429",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Red (azo): ---- Other",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "32041431",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Blue (azo): ---- Blue 1 (Sky Blue FF)",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "32041439",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Blue (azo): ---- Other",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "32041440",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Oranges (azo)",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "32041450",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Greens (azo)",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "32041460",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Browns (azo)",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "32041470",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Blacks (azo)",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "32041481",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Dyes (non-azo): ---- Yellows",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "32041482",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Dyes (non-azo): ---- Oranges",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "32041483",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Dyes (non-azo): ---- Reds",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "32041484",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Dyes (non-azo): ---- Violets",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "32041485",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Dyes (non-azo): ---- Blues",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "32041486",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Dyes (non-azo): ---- Greens",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "32041487",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Dyes (non-azo): ---- Browns",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "32041488",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Dyes (non-azo): ---- Blacks",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "32041489",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Dyes (non-azo): ---- Other",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "32041490",
+   "hs6": "320414",
+   "hs6_description": "Dyes; direct dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Direct Dyes (non-azo): ---- Other",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "320415",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 6,
    "chapter": "32",
    "description": "Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Vat dyes (including those usable in that state as pigments) and preparations based thereon",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "32041511",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat yellow: ---- Vat yellow 2 (GC)",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "32041512",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat yellow: ---- Vat Yellow 4 (Indathrene Golden yellow GK)",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "32041519",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat yellow: ---- Other",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "32041521",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Orange: ---- Vat Oranges 3 (Brill orange RK)",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "32041522",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Orange: ---- Vat Oranges 15 (Golden Orange 3G)",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "32041529",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Orange: ---- Other",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "32041531",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Red: ---- Vat Red (Brill Pink)",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "32041539",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Red: ---- Other",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "32041541",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Violet: ---- Vat Violet 1 (Brill Violet 2R)",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "32041542",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Violet: ---- Vat Violet 3 (Magenta B)",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "32041549",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Violet: ---- Other",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "32041551",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Blue: ---- Vat Blue 1 (Synthetic Indigo)",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "32041552",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Blue: ---- Vat Blue 4",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "32041553",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Blue: ---- Vat Blue 5 (Blue 2B)",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "32041554",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Blue: ---- Vat Blue 6 (Blue BC)",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "32041555",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Blue: ---- Vat Blue 20 (Dark Blue 30)",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "32041556",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Blue: ---- Vat Blue 29 (Indanthrene Brill Blue 4G)",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "32041557",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Blue: ---- Vat Blue 43 (Carbazole Blue)",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "32041558",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Blue: ---- Reduced Vat Blues",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "32041559",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Blue: ---- Other",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "32041561",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Green: ---- Vat Green 1 (Indanthrene Brill Green BFFB)",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "32041562",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Green: ---- Vat Green 2 (Indanthrene Brill Green GG)",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "32041563",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Green: ---- Vat Green 4 (Indanthrene Brill Green 3B)",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "32041564",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Green: ---- Vat Green 9 (Black BB)",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "32041569",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Green: ---- Other",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "32041571",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Brown: ---- Vat Brown 1 (Brown BR)",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "32041572",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Brown: ---- Vat Brown 3 (Brown RGR)",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "32041573",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Brown: ---- Vat Brown 5 (Brown RRD,G)",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "32041579",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Brown: ---- Other",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "32041581",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Black: ---- Vat Black 9 (Black RB)",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "32041582",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Black: ---- Vat Black 25 (Olive T)",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "32041583",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Black: ---- Vat Black 27 (Olive R)",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "32041584",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Black: ---- Vat Black 29 (Grey BG)",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "32041589",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Vat Black: ---- Other",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "32041591",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other : ---- Solubilised Vat yellows",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "32041592",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other : ---- Solubilised Vat Oranges",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "32041593",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other : ---- Solubilised Vat reds",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "32041594",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other : ---- Solubilised Vat violets",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "32041595",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other : ---- Solubilised Vat blues",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "32041596",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other : ---- Solubilised Vat greens",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "32041597",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other : ---- Solubilised Vat blacks",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "32041599",
+   "hs6": "320415",
+   "hs6_description": "Dyes; vat dyes (including those usable in that state as pigments) and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other : ---- Other",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "320416",
+   "hs6": "320416",
+   "hs6_description": "Dyes; reactive dyes and preparations based thereon",
    "level": 6,
    "chapter": "32",
    "description": "Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Reactive dyes and preparations based thereon",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "32041610",
+   "hs6": "320416",
+   "hs6_description": "Dyes; reactive dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Yellows",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "32041620",
+   "hs6": "320416",
+   "hs6_description": "Dyes; reactive dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Oranges",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "32041630",
+   "hs6": "320416",
+   "hs6_description": "Dyes; reactive dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Reds",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "32041640",
+   "hs6": "320416",
+   "hs6_description": "Dyes; reactive dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Violets",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "32041650",
+   "hs6": "320416",
+   "hs6_description": "Dyes; reactive dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Blues",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "32041660",
+   "hs6": "320416",
+   "hs6_description": "Dyes; reactive dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Greens",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "32041670",
+   "hs6": "320416",
+   "hs6_description": "Dyes; reactive dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Browns",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "32041680",
+   "hs6": "320416",
+   "hs6_description": "Dyes; reactive dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Blacks",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "32041690",
+   "hs6": "320416",
+   "hs6_description": "Dyes; reactive dyes and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "320417",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 6,
    "chapter": "32",
    "description": "Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Pigments and preparations based thereon",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "32041711",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Pigment Yellow: ---- Yellow 1 (Hansa Yellow)",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "32041719",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Pigment Yellow: ---- Other",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "32041720",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Pigment Yellow: ---- Pigment Oranges",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "32041731",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Pigment Red: ---- Toluidine Red",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "32041739",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Pigment Red: ---- Other",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "32041740",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Pigment Violets",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "32041751",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Pigment Blues: ---- Blue 15 (Pathalocyanine Blue)",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "32041759",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Pigment Blues: ---- Other",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "32041761",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Pigment Greens: ---- Green 7 (Pathalovyanine Green)",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "32041769",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Pigment Greens: ---- Other",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "32041770",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Pigment Browns",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "32041780",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Pigment Blacks",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "32041790",
+   "hs6": "320417",
+   "hs6_description": "Dyes; pigments and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "32041800",
+   "hs6": "320418",
+   "hs6_description": "Dyes; carotenoid colouring matters and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Carotenoid colouring matters and Preparations based thereon",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "320419",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 6,
    "chapter": "32",
    "description": "Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : -- Other, including mixtures of colouring matter of two or more of the subheadings 3204.11 to 3204.19",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "32041911",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Coupling Components 2,4,5,7,8,13: ---- Azoic Coupling Component 2 (Naphthol AS)",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "32041912",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Coupling Components 2,4,5,7,8,13: ---- Azoic Coupling Component 4 (Naphthol As-BO)",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "32041913",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Coupling Components 2,4,5,7,8,13: ---- Azoic Coupling Component 5 (Naphthol ASG)",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "32041914",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Coupling Components 2,4,5,7,8,13: ---- Azoic Coupling Component 7 (Naphthol ASSW)",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "32041915",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Coupling Components 2,4,5,7,8,13: ---- Azoic Coupling Component 8 (Naphthol ASTR)",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "32041916",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Coupling Components 2,4,5,7,8,13: ---- Azoic Coupling Component 13 (Naphthol ASSG)",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "32041921",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Coupling Components 14,15,17,18,20 and others: ---- Azoic Coupling Component 14 (Naphthol ASPH)",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "32041922",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Coupling Components 14,15,17,18,20 and others: ---- Azoic Coupling Component 15 (Naphthol ASLB)",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "32041923",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Coupling Components 14,15,17,18,20 and others: ---- Azoic Coupling Component 17 (Naphthol ASBS)",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "32041924",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Coupling Components 14,15,17,18,20 and others: ---- Azoic Coupling Component 18 (Naphthol ASD)",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "32041925",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Coupling Components 14,15,17,18,20 and others: ---- Azoic Coupling Component 20 (Naphthol ASOL)",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "32041929",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Coupling Components 14,15,17,18,20 and others: ---- Other",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "32041931",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 1 (Fast Bordeaux GP Base)",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "32041932",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 2 (Fast Orange G/GC Base)",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "32041933",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 3 (Fast scarlet GGIGGS Base)",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "32041934",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 4 (Fast Garment GBC Base)",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "32041935",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 5 (Fast Red B Base)",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "32041936",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 6 (Fast Orange GR Base)",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "32041937",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 10 (Fast Red R Base)",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "32041938",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 1,2,3,4,5,6,10,11: ---- Azoic Diazo Component 11 (Fast Red TR Base)",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "32041941",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 12 (Fast Scarlet G Base)",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "32041942",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 13 (Fast scarlet R Base)",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "32041943",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 20 (Fast Blue BB Base)",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "32041944",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 24 (Fast Blue RR Base)",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "32041945",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 32 (Fast Red KB Base)",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "32041946",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 41 (Fast Violet B Base)",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "32041947",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Azoic Diazo Component 48 (Fast Blue B Base)",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "32041949",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic Diazo Component 12,13,20,24,32,41,48 and others: ---- Other",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "32041951",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic colours: ---- Yellows",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "32041952",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic colours: ---- Oranges",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "32041953",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic colours: ---- Reds",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "32041954",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic colours: ---- Violets",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "32041955",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic colours: ---- Blues",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "32041956",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic colours: ---- Greens",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "32041957",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic colours: ---- Browns",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "32041958",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic colours: ---- Blacks",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "32041959",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Azoic colours: ---- Other",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "32041961",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Sulphur based colouring matters: ---- Yellows",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "32041962",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Sulphur based colouring matters: ---- Oranges",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "32041963",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Sulphur based colouring matters: ---- Reds",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "32041964",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Sulphur based colouring matters: ---- Blues",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "32041965",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Sulphur based colouring matters: ---- Greens",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "32041966",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Sulphur based colouring matters: ---- Browns",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "32041967",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Sulphur based colouring matters: ---- Blacks",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "32041969",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Sulphur based colouring matters: ---- Other",
@@ -3033,6 +3537,8 @@
   },
   {
    "hs_code": "32041971",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Solvent based colouring matters: ---- Yellows",
@@ -3045,6 +3551,8 @@
   },
   {
    "hs_code": "32041972",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Solvent based colouring matters: ---- Oranges",
@@ -3057,6 +3565,8 @@
   },
   {
    "hs_code": "32041973",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Solvent based colouring matters: ---- Reds",
@@ -3069,6 +3579,8 @@
   },
   {
    "hs_code": "32041974",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Solvent based colouring matters: ---- Violets",
@@ -3081,6 +3593,8 @@
   },
   {
    "hs_code": "32041975",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Solvent based colouring matters: ---- Blues",
@@ -3093,6 +3607,8 @@
   },
   {
    "hs_code": "32041976",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Solvent based colouring matters: ---- Greens",
@@ -3105,6 +3621,8 @@
   },
   {
    "hs_code": "32041977",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Solvent based colouring matters: ---- Browns",
@@ -3117,6 +3635,8 @@
   },
   {
    "hs_code": "32041978",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Solvent based colouring matters: ---- Blacks",
@@ -3129,6 +3649,8 @@
   },
   {
    "hs_code": "32041979",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Solvent based colouring matters: ---- Other",
@@ -3141,6 +3663,8 @@
   },
   {
    "hs_code": "32041981",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Food colouring matters: ---- Yellow 3 (sunset yellow)",
@@ -3153,6 +3677,8 @@
   },
   {
    "hs_code": "32041982",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Food colouring matters: ---- Yellow 4 (Tartrazine)",
@@ -3165,6 +3691,8 @@
   },
   {
    "hs_code": "32041983",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Food colouring matters: ---- Reds 5 to 8 (Poncean)",
@@ -3177,6 +3705,8 @@
   },
   {
    "hs_code": "32041984",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Food colouring matters: ---- Red 9 (Amaranth)",
@@ -3189,6 +3719,8 @@
   },
   {
    "hs_code": "32041985",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Food colouring matters: ---- Oranges",
@@ -3201,6 +3733,8 @@
   },
   {
    "hs_code": "32041986",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Food colouring matters: ---- Violets",
@@ -3213,6 +3747,8 @@
   },
   {
    "hs_code": "32041987",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Food colouring matters: ---- Greens",
@@ -3225,6 +3761,8 @@
   },
   {
    "hs_code": "32041988",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Food colouring matters: ---- Browns",
@@ -3237,6 +3775,8 @@
   },
   {
    "hs_code": "32041989",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Food colouring matters: ---- Other",
@@ -3249,6 +3789,8 @@
   },
   {
    "hs_code": "32041990",
+   "hs6": "320419",
+   "hs6_description": "Dyes; n.e.c., including mixtures of colouring matter of two or more of those from item no. 3204.11 to 3204.19",
    "level": 8,
    "chapter": "32",
    "description": "Food colouring matters: ---- Other",
@@ -3261,6 +3803,8 @@
   },
   {
    "hs_code": "320420",
+   "hs6": "320420",
+   "hs6_description": "Dyes; synthetic organic products of a kind used as fluorescent brightening agents",
    "level": 6,
    "chapter": "32",
    "description": "Synthetic organic products of a kind used as fluorescent brightening agents",
@@ -3273,6 +3817,8 @@
   },
   {
    "hs_code": "32042010",
+   "hs6": "320420",
+   "hs6_description": "Dyes; synthetic organic products of a kind used as fluorescent brightening agents",
    "level": 8,
    "chapter": "32",
    "description": "Optical whitening agents",
@@ -3285,6 +3831,8 @@
   },
   {
    "hs_code": "32042090",
+   "hs6": "320420",
+   "hs6_description": "Dyes; synthetic organic products of a kind used as fluorescent brightening agents",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -3297,6 +3845,8 @@
   },
   {
    "hs_code": "32049000",
+   "hs6": "320490",
+   "hs6_description": "Dyes; synthetic organic products n.e.c. in heading no. 3204 (e.g. of a kind used as luminophores), whether or not chemically defined",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -3309,6 +3859,8 @@
   },
   {
    "hs_code": "32050000",
+   "hs6": "320500",
+   "hs6_description": "Colour lakes; preparations based on colour lakes as specified in note 3 to this chapter",
    "level": 8,
    "chapter": "32",
    "description": "Colour lakes; preparations as specified in Note 3 to this Chapter based on colour lakes",
@@ -3321,6 +3873,8 @@
   },
   {
    "hs_code": "3206",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Other colouring matter; preparations as specified in Note 3 to this Chapter, other than those of heading 32.03, 32.04 or 32.05; inorganic products of a kind used as luminophores, whether or not chemically defined",
@@ -3333,6 +3887,8 @@
   },
   {
    "hs_code": "320611",
+   "hs6": "320611",
+   "hs6_description": "Colouring matter; pigments and preparations based on titanium dioxide, containing 80% or more by weight of titanium dioxide calculated on the dry matter",
    "level": 6,
    "chapter": "32",
    "description": "Pigments and preparations based on titanium dioxide : -- Containing 80 percent or more by weight of titanium dioxide calculated on the dry matter",
@@ -3345,6 +3901,8 @@
   },
   {
    "hs_code": "32061110",
+   "hs6": "320611",
+   "hs6_description": "Colouring matter; pigments and preparations based on titanium dioxide, containing 80% or more by weight of titanium dioxide calculated on the dry matter",
    "level": 8,
    "chapter": "32",
    "description": "Pearlsent pigment (Titanium dioxide, coated micananeous and lustres pearl pigment)",
@@ -3357,6 +3915,8 @@
   },
   {
    "hs_code": "32061190",
+   "hs6": "320611",
+   "hs6_description": "Colouring matter; pigments and preparations based on titanium dioxide, containing 80% or more by weight of titanium dioxide calculated on the dry matter",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -3369,6 +3929,8 @@
   },
   {
    "hs_code": "32061900",
+   "hs6": "320619",
+   "hs6_description": "Colouring matter; pigments and preparations based on titanium dioxide, containing less than 80% by weight of titanium dioxide calculated on the dry weight",
    "level": 8,
    "chapter": "32",
    "description": "Pigments and preparations based on titanium dioxide : -- Other",
@@ -3381,6 +3943,8 @@
   },
   {
    "hs_code": "32062000",
+   "hs6": "320620",
+   "hs6_description": "Colouring matter; pigments and preparations based on chromium compounds",
    "level": 8,
    "chapter": "32",
    "description": "Pigments and preparations based on chromium compounds",
@@ -3393,6 +3957,8 @@
   },
   {
    "hs_code": "32064100",
+   "hs6": "320641",
+   "hs6_description": "Colouring matter; ultramarine and preparations based thereon",
    "level": 8,
    "chapter": "32",
    "description": "Other colouring matter and other preparations : -- Ultramarine and preparations based thereon",
@@ -3405,6 +3971,8 @@
   },
   {
    "hs_code": "32064200",
+   "hs6": "320642",
+   "hs6_description": "Colouring matter; lithopone and other pigments and preparations based on zinc sulphide",
    "level": 8,
    "chapter": "32",
    "description": "Other colouring matter and other preparations : -- Lithopone and other pigments and preparations based on zinc sulphide",
@@ -3417,6 +3985,8 @@
   },
   {
    "hs_code": "320649",
+   "hs6": "320649",
+   "hs6_description": "Colouring matter; other preparations n.e.c. in item no. 3206.4",
    "level": 6,
    "chapter": "32",
    "description": "Other",
@@ -3429,6 +3999,8 @@
   },
   {
    "hs_code": "32064910",
+   "hs6": "320649",
+   "hs6_description": "Colouring matter; other preparations n.e.c. in item no. 3206.4",
    "level": 8,
    "chapter": "32",
    "description": "Red oxide",
@@ -3441,6 +4013,8 @@
   },
   {
    "hs_code": "32064920",
+   "hs6": "320649",
+   "hs6_description": "Colouring matter; other preparations n.e.c. in item no. 3206.4",
    "level": 8,
    "chapter": "32",
    "description": "Persian red",
@@ -3453,6 +4027,8 @@
   },
   {
    "hs_code": "32064930",
+   "hs6": "320649",
+   "hs6_description": "Colouring matter; other preparations n.e.c. in item no. 3206.4",
    "level": 8,
    "chapter": "32",
    "description": "Yellow ochre",
@@ -3465,6 +4041,8 @@
   },
   {
    "hs_code": "32064940",
+   "hs6": "320649",
+   "hs6_description": "Colouring matter; other preparations n.e.c. in item no. 3206.4",
    "level": 8,
    "chapter": "32",
    "description": "Bronze powder",
@@ -3477,6 +4055,8 @@
   },
   {
    "hs_code": "32064990",
+   "hs6": "320649",
+   "hs6_description": "Colouring matter; other preparations n.e.c. in item no. 3206.4",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -3489,6 +4069,8 @@
   },
   {
    "hs_code": "32065000",
+   "hs6": "320650",
+   "hs6_description": "Colouring matter; inorganic products of a kind used as luminophores",
    "level": 8,
    "chapter": "32",
    "description": "Inorganic products of a kind used as luminophores",
@@ -3501,6 +4083,8 @@
   },
   {
    "hs_code": "3207",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Prepared pigments, prepared opacifiers and prepared colours, vitrifiable enamels and glazes, engobes (slips), liquid lustres and similar preparations, of a kind used in the ceramic, enamelling or glass industry; glass frit and other glass, in the form of powder, granules or flakes.",
@@ -3513,6 +4097,8 @@
   },
   {
    "hs_code": "320710",
+   "hs6": "320710",
+   "hs6_description": "Pigments; prepared pigments, opacifiers, colours and similar preparations",
    "level": 6,
    "chapter": "32",
    "description": "Prepared pigments, prepared opacifiers, prepared colours and similar preparations",
@@ -3525,6 +4111,8 @@
   },
   {
    "hs_code": "32071010",
+   "hs6": "320710",
+   "hs6_description": "Pigments; prepared pigments, opacifiers, colours and similar preparations",
    "level": 8,
    "chapter": "32",
    "description": "Prepared organic dye-stuff pigments, dry",
@@ -3537,6 +4125,8 @@
   },
   {
    "hs_code": "32071020",
+   "hs6": "320710",
+   "hs6_description": "Pigments; prepared pigments, opacifiers, colours and similar preparations",
    "level": 8,
    "chapter": "32",
    "description": "Prepared organic dye-stuff pigments, paste",
@@ -3549,6 +4139,8 @@
   },
   {
    "hs_code": "32071030",
+   "hs6": "320710",
+   "hs6_description": "Pigments; prepared pigments, opacifiers, colours and similar preparations",
    "level": 8,
    "chapter": "32",
    "description": "Prepared inorganic pigments",
@@ -3561,6 +4153,8 @@
   },
   {
    "hs_code": "32071040",
+   "hs6": "320710",
+   "hs6_description": "Pigments; prepared pigments, opacifiers, colours and similar preparations",
    "level": 8,
    "chapter": "32",
    "description": "Prepared opacifiers prepared colours and similar preparations",
@@ -3573,6 +4167,8 @@
   },
   {
    "hs_code": "32071090",
+   "hs6": "320710",
+   "hs6_description": "Pigments; prepared pigments, opacifiers, colours and similar preparations",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -3585,6 +4181,8 @@
   },
   {
    "hs_code": "320720",
+   "hs6": "320720",
+   "hs6_description": "Enamels and glazes; vitrifiable enamels and glazes, engobes (slips) and similar preparations",
    "level": 6,
    "chapter": "32",
    "description": "Vitrifiable enamels and glazes, engobes (slips) and similar preparations",
@@ -3597,6 +4195,8 @@
   },
   {
    "hs_code": "32072010",
+   "hs6": "320720",
+   "hs6_description": "Enamels and glazes; vitrifiable enamels and glazes, engobes (slips) and similar preparations",
    "level": 8,
    "chapter": "32",
    "description": "Vitrifiable enamels and glazes",
@@ -3609,6 +4209,8 @@
   },
   {
    "hs_code": "32072020",
+   "hs6": "320720",
+   "hs6_description": "Enamels and glazes; vitrifiable enamels and glazes, engobes (slips) and similar preparations",
    "level": 8,
    "chapter": "32",
    "description": "Engobes (slips) and similar preparations",
@@ -3621,6 +4223,8 @@
   },
   {
    "hs_code": "32073000",
+   "hs6": "320730",
+   "hs6_description": "Lustres; liquid lustres and similar preparations",
    "level": 8,
    "chapter": "32",
    "description": "Liquid lustres and similar preparations",
@@ -3633,6 +4237,8 @@
   },
   {
    "hs_code": "32074000",
+   "hs6": "320740",
+   "hs6_description": "Glass; glass frit and other glass, in the form of powder, granules or flakes",
    "level": 8,
    "chapter": "32",
    "description": "Glass frit and other glass, in the form of powder, granules or flakes",
@@ -3645,6 +4251,8 @@
   },
   {
    "hs_code": "3208",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Paints and varnishes (including enamels and lacquers) based on dispersed or dissolved in a non-aqueous medium; solutions as defined in Note 4 to this Chapter.",
@@ -3657,6 +4265,8 @@
   },
   {
    "hs_code": "320810",
+   "hs6": "320810",
+   "hs6_description": "Paints and varnishes; based on polyesters, dispersed or dissolved in a non-aqueous medium",
    "level": 6,
    "chapter": "32",
    "description": "Based on polyesters",
@@ -3669,6 +4279,8 @@
   },
   {
    "hs_code": "32081010",
+   "hs6": "320810",
+   "hs6_description": "Paints and varnishes; based on polyesters, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Enamels",
@@ -3681,6 +4293,8 @@
   },
   {
    "hs_code": "32081020",
+   "hs6": "320810",
+   "hs6_description": "Paints and varnishes; based on polyesters, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Lacquers",
@@ -3693,6 +4307,8 @@
   },
   {
    "hs_code": "32081030",
+   "hs6": "320810",
+   "hs6_description": "Paints and varnishes; based on polyesters, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Varnishes",
@@ -3705,6 +4321,8 @@
   },
   {
    "hs_code": "32081090",
+   "hs6": "320810",
+   "hs6_description": "Paints and varnishes; based on polyesters, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -3717,6 +4335,8 @@
   },
   {
    "hs_code": "320820",
+   "hs6": "320820",
+   "hs6_description": "Paints and varnishes; based on acrylic or vinyl polymers, dispersed or dissolved in a non-aqueous medium",
    "level": 6,
    "chapter": "32",
    "description": "Based on acrylic or vinyl polymers",
@@ -3729,6 +4349,8 @@
   },
   {
    "hs_code": "32082010",
+   "hs6": "320820",
+   "hs6_description": "Paints and varnishes; based on acrylic or vinyl polymers, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Enamels",
@@ -3741,6 +4363,8 @@
   },
   {
    "hs_code": "32082020",
+   "hs6": "320820",
+   "hs6_description": "Paints and varnishes; based on acrylic or vinyl polymers, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Lacquers",
@@ -3753,6 +4377,8 @@
   },
   {
    "hs_code": "32082030",
+   "hs6": "320820",
+   "hs6_description": "Paints and varnishes; based on acrylic or vinyl polymers, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Varnishes",
@@ -3765,6 +4391,8 @@
   },
   {
    "hs_code": "32082090",
+   "hs6": "320820",
+   "hs6_description": "Paints and varnishes; based on acrylic or vinyl polymers, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -3777,6 +4405,8 @@
   },
   {
    "hs_code": "320890",
+   "hs6": "320890",
+   "hs6_description": "Paints and varnishes; based on polymers n.e.c. in heading no. 3208, dispersed or dissolved in a non-aqueous medium",
    "level": 6,
    "chapter": "32",
    "description": "Other",
@@ -3789,6 +4419,8 @@
   },
   {
    "hs_code": "32089011",
+   "hs6": "320890",
+   "hs6_description": "Paints and varnishes; based on polymers n.e.c. in heading no. 3208, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Nitrocellulose lacquers",
@@ -3801,6 +4433,8 @@
   },
   {
    "hs_code": "32089019",
+   "hs6": "320890",
+   "hs6_description": "Paints and varnishes; based on polymers n.e.c. in heading no. 3208, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -3813,6 +4447,8 @@
   },
   {
    "hs_code": "32089021",
+   "hs6": "320890",
+   "hs6_description": "Paints and varnishes; based on polymers n.e.c. in heading no. 3208, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Enamels: ---- Synthetic enamel, ultra white paints",
@@ -3825,6 +4461,8 @@
   },
   {
    "hs_code": "32089022",
+   "hs6": "320890",
+   "hs6_description": "Paints and varnishes; based on polymers n.e.c. in heading no. 3208, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Enamels: ---- Synthetic enamel, other colours",
@@ -3837,6 +4475,8 @@
   },
   {
    "hs_code": "32089029",
+   "hs6": "320890",
+   "hs6_description": "Paints and varnishes; based on polymers n.e.c. in heading no. 3208, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Enamels: ---- Other",
@@ -3849,6 +4489,8 @@
   },
   {
    "hs_code": "32089030",
+   "hs6": "320890",
+   "hs6_description": "Paints and varnishes; based on polymers n.e.c. in heading no. 3208, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Enamels: ---- Lacquers",
@@ -3861,6 +4503,8 @@
   },
   {
    "hs_code": "32089041",
+   "hs6": "320890",
+   "hs6_description": "Paints and varnishes; based on polymers n.e.c. in heading no. 3208, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Varnishes: ---- Insulating varnish",
@@ -3873,6 +4517,8 @@
   },
   {
    "hs_code": "32089049",
+   "hs6": "320890",
+   "hs6_description": "Paints and varnishes; based on polymers n.e.c. in heading no. 3208, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Varnishes: ---- Other",
@@ -3885,6 +4531,8 @@
   },
   {
    "hs_code": "32089050",
+   "hs6": "320890",
+   "hs6_description": "Paints and varnishes; based on polymers n.e.c. in heading no. 3208, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Varnishes: ---- Slip agents",
@@ -3897,6 +4545,8 @@
   },
   {
    "hs_code": "32089090",
+   "hs6": "320890",
+   "hs6_description": "Paints and varnishes; based on polymers n.e.c. in heading no. 3208, dispersed or dissolved in a non-aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Varnishes: ---- Other",
@@ -3909,6 +4559,8 @@
   },
   {
    "hs_code": "3209",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium.",
@@ -3921,6 +4573,8 @@
   },
   {
    "hs_code": "320910",
+   "hs6": "320910",
+   "hs6_description": "Paints and varnishes; based on acrylic or vinyl polymers, dispersed or dissolved in an aqueous medium",
    "level": 6,
    "chapter": "32",
    "description": "Based on acrylic or vinyl polymers",
@@ -3933,6 +4587,8 @@
   },
   {
    "hs_code": "32091010",
+   "hs6": "320910",
+   "hs6_description": "Paints and varnishes; based on acrylic or vinyl polymers, dispersed or dissolved in an aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Acrylic emulsion",
@@ -3945,6 +4601,8 @@
   },
   {
    "hs_code": "32091090",
+   "hs6": "320910",
+   "hs6_description": "Paints and varnishes; based on acrylic or vinyl polymers, dispersed or dissolved in an aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -3957,6 +4615,8 @@
   },
   {
    "hs_code": "320990",
+   "hs6": "320990",
+   "hs6_description": "Paints and varnishes; (based on polymers other than acrylic or vinyl), dispersed or dissolved in an aqueous medium",
    "level": 6,
    "chapter": "32",
    "description": "Other",
@@ -3969,6 +4629,8 @@
   },
   {
    "hs_code": "32099010",
+   "hs6": "320990",
+   "hs6_description": "Paints and varnishes; (based on polymers other than acrylic or vinyl), dispersed or dissolved in an aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Dispersion paints",
@@ -3981,6 +4643,8 @@
   },
   {
    "hs_code": "32099020",
+   "hs6": "320990",
+   "hs6_description": "Paints and varnishes; (based on polymers other than acrylic or vinyl), dispersed or dissolved in an aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Emulsion paints not elsewhere specified or included",
@@ -3993,6 +4657,8 @@
   },
   {
    "hs_code": "32099090",
+   "hs6": "320990",
+   "hs6_description": "Paints and varnishes; (based on polymers other than acrylic or vinyl), dispersed or dissolved in an aqueous medium",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -4005,6 +4671,8 @@
   },
   {
    "hs_code": "3210",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather.",
@@ -4017,6 +4685,8 @@
   },
   {
    "hs_code": "321000",
+   "hs6": "321000",
+   "hs6_description": "Paints and varnishes; (including enamels, lacquers and distempers), prepared water pigments of a kind used for finishing leather",
    "level": 6,
    "chapter": "32",
    "description": "Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather : Distempers :",
@@ -4029,6 +4699,8 @@
   },
   {
    "hs_code": "32100011",
+   "hs6": "321000",
+   "hs6_description": "Paints and varnishes; (including enamels, lacquers and distempers), prepared water pigments of a kind used for finishing leather",
    "level": 8,
    "chapter": "32",
    "description": "Distempers: ---- Dry distemper, including cement based water paints",
@@ -4041,6 +4713,8 @@
   },
   {
    "hs_code": "32100012",
+   "hs6": "321000",
+   "hs6_description": "Paints and varnishes; (including enamels, lacquers and distempers), prepared water pigments of a kind used for finishing leather",
    "level": 8,
    "chapter": "32",
    "description": "Distempers: ---- Oil bound distemper",
@@ -4053,6 +4727,8 @@
   },
   {
    "hs_code": "32100019",
+   "hs6": "321000",
+   "hs6_description": "Paints and varnishes; (including enamels, lacquers and distempers), prepared water pigments of a kind used for finishing leather",
    "level": 8,
    "chapter": "32",
    "description": "Distempers: ---- Other",
@@ -4065,6 +4741,8 @@
   },
   {
    "hs_code": "32100020",
+   "hs6": "321000",
+   "hs6_description": "Paints and varnishes; (including enamels, lacquers and distempers), prepared water pigments of a kind used for finishing leather",
    "level": 8,
    "chapter": "32",
    "description": "Distempers: ---- Prepared water pigments of a kind used for finishing leather",
@@ -4077,6 +4755,8 @@
   },
   {
    "hs_code": "32100030",
+   "hs6": "321000",
+   "hs6_description": "Paints and varnishes; (including enamels, lacquers and distempers), prepared water pigments of a kind used for finishing leather",
    "level": 8,
    "chapter": "32",
    "description": "Distempers: ---- Metallic powder or flakes prepared as paints",
@@ -4089,6 +4769,8 @@
   },
   {
    "hs_code": "32100040",
+   "hs6": "321000",
+   "hs6_description": "Paints and varnishes; (including enamels, lacquers and distempers), prepared water pigments of a kind used for finishing leather",
    "level": 8,
    "chapter": "32",
    "description": "Distempers: ---- Poly Tetra Fluoro Ethylene (PTFE) or Silicon resin based coating materials",
@@ -4101,6 +4783,8 @@
   },
   {
    "hs_code": "32100090",
+   "hs6": "321000",
+   "hs6_description": "Paints and varnishes; (including enamels, lacquers and distempers), prepared water pigments of a kind used for finishing leather",
    "level": 8,
    "chapter": "32",
    "description": "Distempers: ---- Other",
@@ -4113,6 +4797,8 @@
   },
   {
    "hs_code": "32110000",
+   "hs6": "321100",
+   "hs6_description": "Driers; prepared",
    "level": 8,
    "chapter": "32",
    "description": "Prepared driers.",
@@ -4125,6 +4811,8 @@
   },
   {
    "hs_code": "3212",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Pigments (including metallic powders and flakes) dispersed in non-aqueous media, in liquid or paste form, of a kind used in the manufacture of paints (including enamels); stamping foils; dyes and other colouring matter put up in forms or packings for retail sale.",
@@ -4137,6 +4825,8 @@
   },
   {
    "hs_code": "32121000",
+   "hs6": "321210",
+   "hs6_description": "Pigments; of a kind used in the manufacture of paints, stamping foils",
    "level": 8,
    "chapter": "32",
    "description": "Stamping foils",
@@ -4149,6 +4839,8 @@
   },
   {
    "hs_code": "321290",
+   "hs6": "321290",
+   "hs6_description": "Pigments; of a kind used in the manufacture of paints, other than stamping foils",
    "level": 6,
    "chapter": "32",
    "description": "Other",
@@ -4161,6 +4853,8 @@
   },
   {
    "hs_code": "32129010",
+   "hs6": "321290",
+   "hs6_description": "Pigments; of a kind used in the manufacture of paints, other than stamping foils",
    "level": 8,
    "chapter": "32",
    "description": "Pigments in linseed oil, white spirit, spirit of turpentine, varnish and other paints or enamel media not elsewhere specified or included",
@@ -4173,6 +4867,8 @@
   },
   {
    "hs_code": "32129020",
+   "hs6": "321290",
+   "hs6_description": "Pigments; of a kind used in the manufacture of paints, other than stamping foils",
    "level": 8,
    "chapter": "32",
    "description": "Dyes and other colouring matter put up in forms or packings for retail sale",
@@ -4185,6 +4881,8 @@
   },
   {
    "hs_code": "32129030",
+   "hs6": "321290",
+   "hs6_description": "Pigments; of a kind used in the manufacture of paints, other than stamping foils",
    "level": 8,
    "chapter": "32",
    "description": "Aluminium paste",
@@ -4197,6 +4895,8 @@
   },
   {
    "hs_code": "32129090",
+   "hs6": "321290",
+   "hs6_description": "Pigments; of a kind used in the manufacture of paints, other than stamping foils",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -4209,6 +4909,8 @@
   },
   {
    "hs_code": "3213",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Artists, students or signboard painters colours, modifying tints, amusement colours and the like, in tablets, tubes, jars, bottles, pans or in similar forms or packings.",
@@ -4221,6 +4923,8 @@
   },
   {
    "hs_code": "32131000",
+   "hs6": "321310",
+   "hs6_description": "Colours; in sets, of a kind used by artists, students or signboard painters",
    "level": 8,
    "chapter": "32",
    "description": "Colours in sets",
@@ -4233,6 +4937,8 @@
   },
   {
    "hs_code": "32139000",
+   "hs6": "321390",
+   "hs6_description": "Colours; (other than in sets), of a kind used by artists, students or signboard painters",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -4245,6 +4951,8 @@
   },
   {
    "hs_code": "3214",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Glaziers putty, grafting putty, resin cements, caulking compounds and other mastics; painters fillings; non-refractory surfacing preparations for façades, indoor walls, floors, ceilings or the like.",
@@ -4257,6 +4965,8 @@
   },
   {
    "hs_code": "32141000",
+   "hs6": "321410",
+   "hs6_description": "Mastics; painters' fillings",
    "level": 8,
    "chapter": "32",
    "description": "Glaziers putty, grafting putty, resin cements, caulking compounds and other mastics; painters fillings",
@@ -4269,6 +4979,8 @@
   },
   {
    "hs_code": "321490",
+   "hs6": "321490",
+   "hs6_description": "Mastics; n.e.c. in heading no. 3214",
    "level": 6,
    "chapter": "32",
    "description": "Other",
@@ -4281,6 +4993,8 @@
   },
   {
    "hs_code": "32149010",
+   "hs6": "321490",
+   "hs6_description": "Mastics; n.e.c. in heading no. 3214",
    "level": 8,
    "chapter": "32",
    "description": "Non-refractory surfacing preparations",
@@ -4293,6 +5007,8 @@
   },
   {
    "hs_code": "32149020",
+   "hs6": "321490",
+   "hs6_description": "Mastics; n.e.c. in heading no. 3214",
    "level": 8,
    "chapter": "32",
    "description": "Resin cement",
@@ -4305,6 +5021,8 @@
   },
   {
    "hs_code": "32149090",
+   "hs6": "321490",
+   "hs6_description": "Mastics; n.e.c. in heading no. 3214",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -4317,6 +5035,8 @@
   },
   {
    "hs_code": "3215",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "32",
    "description": "Printing ink, writing or drawing ink and other inks, whether or not concentrated or solid.",
@@ -4329,6 +5049,8 @@
   },
   {
    "hs_code": "321511",
+   "hs6": "321511",
+   "hs6_description": "Ink; for printing, black, whether or not concentrated or solid",
    "level": 6,
    "chapter": "32",
    "description": "Printing ink : -- Black",
@@ -4341,6 +5063,8 @@
   },
   {
    "hs_code": "32151110",
+   "hs6": "321511",
+   "hs6_description": "Ink; for printing, black, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Lithographic ink and jelly",
@@ -4353,6 +5077,8 @@
   },
   {
    "hs_code": "32151120",
+   "hs6": "321511",
+   "hs6_description": "Ink; for printing, black, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Newspaper ink",
@@ -4365,6 +5091,8 @@
   },
   {
    "hs_code": "32151130",
+   "hs6": "321511",
+   "hs6_description": "Ink; for printing, black, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Rotary ink",
@@ -4377,6 +5105,8 @@
   },
   {
    "hs_code": "32151140",
+   "hs6": "321511",
+   "hs6_description": "Ink; for printing, black, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Screen printing ink",
@@ -4389,6 +5119,8 @@
   },
   {
    "hs_code": "32151190",
+   "hs6": "321511",
+   "hs6_description": "Ink; for printing, black, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -4401,6 +5133,8 @@
   },
   {
    "hs_code": "321519",
+   "hs6": "321519",
+   "hs6_description": "Ink; for printing, other than black, whether or not concentrated or solid",
    "level": 6,
    "chapter": "32",
    "description": "Printing ink : -- Other",
@@ -4413,6 +5147,8 @@
   },
   {
    "hs_code": "32151910",
+   "hs6": "321519",
+   "hs6_description": "Ink; for printing, other than black, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Lithographic ink and jelly",
@@ -4425,6 +5161,8 @@
   },
   {
    "hs_code": "32151920",
+   "hs6": "321519",
+   "hs6_description": "Ink; for printing, other than black, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Newspaper ink",
@@ -4437,6 +5175,8 @@
   },
   {
    "hs_code": "32151930",
+   "hs6": "321519",
+   "hs6_description": "Ink; for printing, other than black, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Rotary ink",
@@ -4449,6 +5189,8 @@
   },
   {
    "hs_code": "32151940",
+   "hs6": "321519",
+   "hs6_description": "Ink; for printing, other than black, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Screen printing ink",
@@ -4461,6 +5203,8 @@
   },
   {
    "hs_code": "32151990",
+   "hs6": "321519",
+   "hs6_description": "Ink; for printing, other than black, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Other",
@@ -4473,6 +5217,8 @@
   },
   {
    "hs_code": "321590",
+   "hs6": "321590",
+   "hs6_description": "Ink; writing, drawing and other inks, n.e.c. in heading no. 3215, whether or not concentrated or solid",
    "level": 6,
    "chapter": "32",
    "description": "Other",
@@ -4485,6 +5231,8 @@
   },
   {
    "hs_code": "32159010",
+   "hs6": "321590",
+   "hs6_description": "Ink; writing, drawing and other inks, n.e.c. in heading no. 3215, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Fountain pen ink",
@@ -4497,6 +5245,8 @@
   },
   {
    "hs_code": "32159020",
+   "hs6": "321590",
+   "hs6_description": "Ink; writing, drawing and other inks, n.e.c. in heading no. 3215, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Ball pen ink",
@@ -4509,6 +5259,8 @@
   },
   {
    "hs_code": "32159030",
+   "hs6": "321590",
+   "hs6_description": "Ink; writing, drawing and other inks, n.e.c. in heading no. 3215, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Indelible ink",
@@ -4521,6 +5273,8 @@
   },
   {
    "hs_code": "32159040",
+   "hs6": "321590",
+   "hs6_description": "Ink; writing, drawing and other inks, n.e.c. in heading no. 3215, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Drawing ink",
@@ -4533,6 +5287,8 @@
   },
   {
    "hs_code": "32159090",
+   "hs6": "321590",
+   "hs6_description": "Ink; writing, drawing and other inks, n.e.c. in heading no. 3215, whether or not concentrated or solid",
    "level": 8,
    "chapter": "32",
    "description": "Other",

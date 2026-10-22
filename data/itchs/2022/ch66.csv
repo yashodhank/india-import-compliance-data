@@ -1,11 +1,11 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-6601,4,66,"Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas).",,,,,,2026-10-22
-66011000,8,66,Garden or similar umbrellas,Free,,,,,2026-10-22
-66019100,8,66,Other : -- Having a telescopic shaft,Restricted,"However, import is ""Free"" where the CIF value is Rs.100 and above per piece.",,57/2025-26,2026-02-05,2026-10-22
-66019900,8,66,Other : -- Other,Restricted,"However, import is ""Free"" where the CIF value is Rs.100 and above per piece.",,57/2025-26,2026-02-05,2026-10-22
-66020000,8,66,"Walking-sticks, seat-sticks, whips, riding-crops and the like.",Free,,,,,2026-10-22
-6603,4,66,"Parts, trimmings and accessories of articles of heading 66.01 or 66.02.",,,,,,2026-10-22
-66032000,8,66,"Umbrella frames, including frames mounted on shafts (sticks)",Free,,,,,2026-10-22
-660390,6,66,Other,,,,,,2026-10-22
-66039010,8,66,Umbrella ribs,Free,,,,,2026-10-22
-66039090,8,66,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+6601,,,4,66,"Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas).",,,,,,2026-10-22
+66011000,660110,Umbrellas and sun umbrellas; garden or similar umbrellas,8,66,Garden or similar umbrellas,Free,,,,,2026-10-22
+66019100,660191,"Umbrellas and sun umbrellas; having a telescopic shaft, (excluding garden or similar umbrellas)",8,66,Other : -- Having a telescopic shaft,Restricted,"However, import is ""Free"" where the CIF value is Rs.100 and above per piece.",,57/2025-26,2026-02-05,2026-10-22
+66019900,660199,Umbrellas and sun umbrellas; n.e.c. in heading no. 6601 (including walking stick umbrellas),8,66,Other : -- Other,Restricted,"However, import is ""Free"" where the CIF value is Rs.100 and above per piece.",,57/2025-26,2026-02-05,2026-10-22
+66020000,660200,"Walking-sticks, seat-sticks, whips, riding-crops and the like",8,66,"Walking-sticks, seat-sticks, whips, riding-crops and the like.",Free,,,,,2026-10-22
+6603,,,4,66,"Parts, trimmings and accessories of articles of heading 66.01 or 66.02.",,,,,,2026-10-22
+66032000,660320,Umbrella frames; including frames mounted on shafts (sticks),8,66,"Umbrella frames, including frames mounted on shafts (sticks)",Free,,,,,2026-10-22
+660390,660390,"Trimmings, accessories and parts of articles of heading no. 6601 or 6602; n.e.c. in heading no. 6603",6,66,Other,,,,,,2026-10-22
+66039010,660390,"Trimmings, accessories and parts of articles of heading no. 6601 or 6602; n.e.c. in heading no. 6603",8,66,Umbrella ribs,Free,,,,,2026-10-22
+66039090,660390,"Trimmings, accessories and parts of articles of heading no. 6601 or 6602; n.e.c. in heading no. 6603",8,66,Other,Free,,,,,2026-10-22

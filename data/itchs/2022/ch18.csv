@@ -1,19 +1,19 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-18010000,8,18,"Cocoa beans, whole or broken, raw or roasted",Free,,,,,2026-10-22
-18020000,8,18,"Cocoa shells, husks, skins and other cocoa waste",Free,,,,,2026-10-22
-1803,4,18,"Cocoa paste, whether or not defatted.",,,,,,2026-10-22
-18031000,8,18,Not defatted,Free,,,,,2026-10-22
-18032000,8,18,Wholly or partly defatted,Free,,,,,2026-10-22
-18040000,8,18,"Cocoa butter, fat and oil",Free,,,,,2026-10-22
-18050000,8,18,"Cocoa powder, not containing added sugar or other sweetening matter",Free,,,,,2026-10-22
-1806,4,18,Chocolate and other food preparations containing cocoa.,,,,,,2026-10-22
-18061000,8,18,"Cocoa powder, containing added sugar or other sweetening matter",Free,,,,,2026-10-22
-18062000,8,18,"Other preparations in blocks, slabs or bars weighing more than 2 Kg. or in liquid, paste, powder, granular or other bulk form in containers or immediate packings, of a content exceeding 2 Kg. Other, in blocks, slabs or bars:",Free,,,,,2026-10-22
-18063100,8,18,"Other, in blocks, slabs or bars : -- Filled",Free,,,,,2026-10-22
-18063200,8,18,"Other, in blocks, slabs or bars : -- Not filled",Free,,,,,2026-10-22
-180690,6,18,Other,,,,,,2026-10-22
-18069010,8,18,Chocolate and chocolate products,Free,,,,,2026-10-22
-18069020,8,18,Sugar confectionary containing cocoa,Free,,,,,2026-10-22
-18069030,8,18,Spreads containing cocoa,Free,,,,,2026-10-22
-18069040,8,18,Preparations containing cocoa for making beverages,Free,,,,,2026-10-22
-18069090,8,18,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+18010000,180100,"Cocoa beans; whole or broken, raw or roasted",8,18,"Cocoa beans, whole or broken, raw or roasted",Free,,,,,2026-10-22
+18020000,180200,"Cocoa; shells, husks, skins and other cocoa waste",8,18,"Cocoa shells, husks, skins and other cocoa waste",Free,,,,,2026-10-22
+1803,,,4,18,"Cocoa paste, whether or not defatted.",,,,,,2026-10-22
+18031000,180310,"Cocoa; paste, not defatted",8,18,Not defatted,Free,,,,,2026-10-22
+18032000,180320,"Cocoa; paste, wholly or partly defatted",8,18,Wholly or partly defatted,Free,,,,,2026-10-22
+18040000,180400,"Cocoa; butter, fat and oil",8,18,"Cocoa butter, fat and oil",Free,,,,,2026-10-22
+18050000,180500,"Cocoa; powder, not containing added sugar or other sweetening matter",8,18,"Cocoa powder, not containing added sugar or other sweetening matter",Free,,,,,2026-10-22
+1806,,,4,18,Chocolate and other food preparations containing cocoa.,,,,,,2026-10-22
+18061000,180610,"Cocoa; powder, containing added sugar or other sweetening matter",8,18,"Cocoa powder, containing added sugar or other sweetening matter",Free,,,,,2026-10-22
+18062000,180620,"Chocolate & other food preparations containing cocoa; in blocks, slabs or bars weighing more than 2kg or in liquid, paste, powder, granular or other bulk form in containers or immediate packings, content exceeding 2kg",8,18,"Other preparations in blocks, slabs or bars weighing more than 2 Kg. or in liquid, paste, powder, granular or other bulk form in containers or immediate packings, of a content exceeding 2 Kg. Other, in blocks, slabs or bars:",Free,,,,,2026-10-22
+18063100,180631,"Chocolate and other food preparations containing cocoa; in blocks, slabs or bars, filled, weighing 2kg or less",8,18,"Other, in blocks, slabs or bars : -- Filled",Free,,,,,2026-10-22
+18063200,180632,"Chocolate and other food preparations containing cocoa; in blocks, slabs or bars, (not filled), weighing 2kg or less",8,18,"Other, in blocks, slabs or bars : -- Not filled",Free,,,,,2026-10-22
+180690,180690,Chocolate and other food preparations containing cocoa; n.e.c. in chapter 18,6,18,Other,,,,,,2026-10-22
+18069010,180690,Chocolate and other food preparations containing cocoa; n.e.c. in chapter 18,8,18,Chocolate and chocolate products,Free,,,,,2026-10-22
+18069020,180690,Chocolate and other food preparations containing cocoa; n.e.c. in chapter 18,8,18,Sugar confectionary containing cocoa,Free,,,,,2026-10-22
+18069030,180690,Chocolate and other food preparations containing cocoa; n.e.c. in chapter 18,8,18,Spreads containing cocoa,Free,,,,,2026-10-22
+18069040,180690,Chocolate and other food preparations containing cocoa; n.e.c. in chapter 18,8,18,Preparations containing cocoa for making beverages,Free,,,,,2026-10-22
+18069090,180690,Chocolate and other food preparations containing cocoa; n.e.c. in chapter 18,8,18,Other,Free,,,,,2026-10-22

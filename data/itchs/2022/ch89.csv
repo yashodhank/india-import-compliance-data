@@ -1,44 +1,44 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-8901,4,89,"Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods.",,,,,,2026-10-22
-8901,4,89,"CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS",,,,,,2026-10-22
-890110,6,89,"Cruise ships, excursion boats and similar vessels principally designed for the transport of persons; ferry-boats of all kinds",,,,,,2026-10-22
-89011010,8,89,Ships,Free,,,,,2026-10-22
-89011020,8,89,Launches,Free,,,,,2026-10-22
-89011030,8,89,Boats,Free,,,,,2026-10-22
-89011040,8,89,Barges,Free,,,,,2026-10-22
-89011090,8,89,Other,Free,,,,,2026-10-22
-89012000,8,89,Tankers,Free,,,,,2026-10-22
-89013000,8,89,"Refrigerated vessels, other than those of subheading 8901.20",Free,,,,,2026-10-22
-89019000,8,89,Other vessels for the transport of goods and other vessels for the transport of both persons and goods,Free,,,,,2026-10-22
-8902,4,89,Fishing vessels; factory ships and other vessels for processing or preserving fishery products.,,,,,,2026-10-22
-890200,6,89,Fishing vessels; factory ships and other vessels for processing or preserving fishery products :,,,,,,2026-10-22
-89020010,8,89,Trawlers and other fishing vessels,Free,"Import subject to approval or guidelines issued by Department of Animal Husbandry, Dairying and Fisheries (website:- www.dahd.nic.in/dahd).",,,,2026-10-22
-89020090,8,89,Other,Free,"Import subject to approval or guidelines issued by Department of Animal Husbandry, Dairying and Fisheries (website:- www.dahd.nic.in/dahd).",,,,2026-10-22
-8903,4,89,Yachts and other vessels for pleasure or sports; rowing boats and canoes.,,,,,,2026-10-22
-89031100,8,89,"Inflatable (including rigid hull inflatable) boats: - - Fitted or designed to be fitted with a motor, unladen (net) weight (excluding the motor) not exceeding 100 kg",Free,,,54/2015-2020,2022-02-09,2026-10-22
-89031200,8,89,Inflatable (including rigid hull inflatable) boats: - - Not designed for use with a motor and unladen (net) weight not exceeding 100 kg,Free,,,54/2015-2020,2022-02-09,2026-10-22
-89031900,8,89,Inflatable (including rigid hull inflatable) boats: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
-89032100,8,89,"Sailboats, other than inflatable, with or without auxiliary motor: - - Of a length not exceeding 7.5 m",Free,,,54/2015-2020,2022-02-09,2026-10-22
-89032200,8,89,"Sailboats, other than inflatable, with or without auxiliary motor: - - Of a length exceeding 7.5 m but not exceeding 24 m",Free,,,54/2015-2020,2022-02-09,2026-10-22
-89032300,8,89,"Sailboats, other than inflatable, with or without auxiliary motor: - - Of a length exceeding 24 m",Free,,,54/2015-2020,2022-02-09,2026-10-22
-89033100,8,89,"Motorboats, other than inflatable, not including outboard motorboats: - - Of a length not exceeding 7.5 m",Free,,,54/2015-2020,2022-02-09,2026-10-22
-89033200,8,89,"Motorboats, other than inflatable, not including outboard motorboats: - - Of a length exceeding 7.5 m but not exceeding 24 m",Free,,,54/2015-2020,2022-02-09,2026-10-22
-89033300,8,89,"Motorboats, other than inflatable, not including outboard motorboats: - - Of a length exceeding 24 m",Free,,,54/2015-2020,2022-02-09,2026-10-22
-89039300,8,89,Other: - - Of a length not exceeding 7.5 m,Free,,,54/2015-2020,2022-02-09,2026-10-22
-89039900,8,89,Other: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
-89040000,8,89,Tugs and pusher craft.,Free,,,,,2026-10-22
-8905,4,89,"Light-vessels, fire-floats, dredgers, floating cranes and other vessels the navigability of which is subsidiary to their main function; floating docks; floating or submersible drilling or production platforms.",,,,,,2026-10-22
-89051000,8,89,Dredgers,Free,,,,,2026-10-22
-89052000,8,89,Floating or submersible drilling or production platforms,Free,,,,,2026-10-22
-890590,6,89,Other,,,,,,2026-10-22
-89059010,8,89,Floating docks,Free,,,,,2026-10-22
-89059090,8,89,Other,Free,,,,,2026-10-22
-8906,4,89,"Other vessels, including warships and lifeboats other than rowing boats.",,,,,,2026-10-22
-89061000,8,89,Warships,Restricted,,,,,2026-10-22
-890690,6,89,Other:,,,,,,2026-10-22
-89069010,8,89,"Patrol or surveillance boat, air-cushion vehicle, remote-operated vehicle",Free,.,,55/2024-25,2025-01-29,2026-10-22
-89069090,8,89,Other,Free,.,,55/2024-25,2025-01-29,2026-10-22
-8907,4,89,"Other floating structures (for example, rafts, tanks, cofferdams, landing-stages, buoys and beacons).",,,,,,2026-10-22
-89071000,8,89,Inflatable rafts,Free,,,,,2026-10-22
-89079000,8,89,Other,Free,,,,,2026-10-22
-89080000,8,89,Vessels and other floating structures for breaking up,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+8901,,,4,89,"Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods.",,,,,,2026-10-22
+8901,,,4,89,"CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS",,,,,,2026-10-22
+890110,890110,"Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",6,89,"Cruise ships, excursion boats and similar vessels principally designed for the transport of persons; ferry-boats of all kinds",,,,,,2026-10-22
+89011010,890110,"Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",8,89,Ships,Free,,,,,2026-10-22
+89011020,890110,"Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",8,89,Launches,Free,,,,,2026-10-22
+89011030,890110,"Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",8,89,Boats,Free,,,,,2026-10-22
+89011040,890110,"Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",8,89,Barges,Free,,,,,2026-10-22
+89011090,890110,"Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",8,89,Other,Free,,,,,2026-10-22
+89012000,890120,Tankers,8,89,Tankers,Free,,,,,2026-10-22
+89013000,890130,"Vessels, refrigerated; other than tankers",8,89,"Refrigerated vessels, other than those of subheading 8901.20",Free,,,,,2026-10-22
+89019000,890190,"Vessels; n.e.c. in heading no. 8901, for the transport of goods and other vessels for the transport of both persons and goods",8,89,Other vessels for the transport of goods and other vessels for the transport of both persons and goods,Free,,,,,2026-10-22
+8902,,,4,89,Fishing vessels; factory ships and other vessels for processing or preserving fishery products.,,,,,,2026-10-22
+890200,890200,"Fishing vessels, factory ships and other vessels; for processing or preserving fishery products",6,89,Fishing vessels; factory ships and other vessels for processing or preserving fishery products :,,,,,,2026-10-22
+89020010,890200,"Fishing vessels, factory ships and other vessels; for processing or preserving fishery products",8,89,Trawlers and other fishing vessels,Free,"Import subject to approval or guidelines issued by Department of Animal Husbandry, Dairying and Fisheries (website:- www.dahd.nic.in/dahd).",,,,2026-10-22
+89020090,890200,"Fishing vessels, factory ships and other vessels; for processing or preserving fishery products",8,89,Other,Free,"Import subject to approval or guidelines issued by Department of Animal Husbandry, Dairying and Fisheries (website:- www.dahd.nic.in/dahd).",,,,2026-10-22
+8903,,,4,89,Yachts and other vessels for pleasure or sports; rowing boats and canoes.,,,,,,2026-10-22
+89031100,890311,"Yachts and other vessels; for pleasure or sports, inflatable (including rigid hull inflatable), fitted or designed to be fitted with a motor, unladen (net) weight (excluding the motor) not exceeding 100kg",8,89,"Inflatable (including rigid hull inflatable) boats: - - Fitted or designed to be fitted with a motor, unladen (net) weight (excluding the motor) not exceeding 100 kg",Free,,,54/2015-2020,2022-02-09,2026-10-22
+89031200,890312,"Yachts and other vessels; for pleasure or sports, inflatable (including rigid hull inflatable), not designed to be used with a motor and unladen (net) weight not exceeding 100kg",8,89,Inflatable (including rigid hull inflatable) boats: - - Not designed for use with a motor and unladen (net) weight not exceeding 100 kg,Free,,,54/2015-2020,2022-02-09,2026-10-22
+89031900,890319,"Yachts and other vessels; for pleasure or sports, inflatable (including rigid hull inflatable), unladen (net) weight exceeding 100kg",8,89,Inflatable (including rigid hull inflatable) boats: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+89032100,890321,"Sailboats; (other than inflatable) with or without auxiliary motor, for pleasure or sports, of a length not exceeding 7.5m",8,89,"Sailboats, other than inflatable, with or without auxiliary motor: - - Of a length not exceeding 7.5 m",Free,,,54/2015-2020,2022-02-09,2026-10-22
+89032200,890322,"Sailboats; (other than inflatable) with or without auxiliary motor, for pleasure or sports, of a length exceeding 7.5m but not exceeding 24m",8,89,"Sailboats, other than inflatable, with or without auxiliary motor: - - Of a length exceeding 7.5 m but not exceeding 24 m",Free,,,54/2015-2020,2022-02-09,2026-10-22
+89032300,890323,"Sailboats; (other than inflatable) with or without auxiliary motor, for pleasure or sports, of a length exceeding 24m",8,89,"Sailboats, other than inflatable, with or without auxiliary motor: - - Of a length exceeding 24 m",Free,,,54/2015-2020,2022-02-09,2026-10-22
+89033100,890331,"Motorboats; (other than outboard motorboats), for pleasure or sports, other than inflatable, of a length not exceeding 7.5m",8,89,"Motorboats, other than inflatable, not including outboard motorboats: - - Of a length not exceeding 7.5 m",Free,,,54/2015-2020,2022-02-09,2026-10-22
+89033200,890332,"Motorboats; (other than outboard motorboats), for pleasure or sports, other than inflatable, of a length exceeding 7.5m but not exceeding 24m",8,89,"Motorboats, other than inflatable, not including outboard motorboats: - - Of a length exceeding 7.5 m but not exceeding 24 m",Free,,,54/2015-2020,2022-02-09,2026-10-22
+89033300,890333,"Motorboats; (other than outboard motorboats), for pleasure or sports, other than inflatable, of a length exceeding 24m",8,89,"Motorboats, other than inflatable, not including outboard motorboats: - - Of a length exceeding 24 m",Free,,,54/2015-2020,2022-02-09,2026-10-22
+89039300,890393,"Vessels; (other than sailboats and motorboats), for pleasure or sports, other than inflatable, of a length not exceeding 7.5m",8,89,Other: - - Of a length not exceeding 7.5 m,Free,,,54/2015-2020,2022-02-09,2026-10-22
+89039900,890399,"Vessels; (other than sailboats and motorboats), for pleasure or sports, other than inflatable, of a length exceeding 7.5m",8,89,Other: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+89040000,890400,Tugs and pusher craft,8,89,Tugs and pusher craft.,Free,,,,,2026-10-22
+8905,,,4,89,"Light-vessels, fire-floats, dredgers, floating cranes and other vessels the navigability of which is subsidiary to their main function; floating docks; floating or submersible drilling or production platforms.",,,,,,2026-10-22
+89051000,890510,Dredgers,8,89,Dredgers,Free,,,,,2026-10-22
+89052000,890520,Floating or submersible drilling or production platforms,8,89,Floating or submersible drilling or production platforms,Free,,,,,2026-10-22
+890590,890590,"Vessels; light, fire-floats, floating cranes and other vessels, the navigability of which is subsidiary to their main function, floating docks",6,89,Other,,,,,,2026-10-22
+89059010,890590,"Vessels; light, fire-floats, floating cranes and other vessels, the navigability of which is subsidiary to their main function, floating docks",8,89,Floating docks,Free,,,,,2026-10-22
+89059090,890590,"Vessels; light, fire-floats, floating cranes and other vessels, the navigability of which is subsidiary to their main function, floating docks",8,89,Other,Free,,,,,2026-10-22
+8906,,,4,89,"Other vessels, including warships and lifeboats other than rowing boats.",,,,,,2026-10-22
+89061000,890610,Vessels; warships,8,89,Warships,Restricted,,,,,2026-10-22
+890690,890690,"Vessels; other, including lifeboats other than rowing boats, other than warships",6,89,Other:,,,,,,2026-10-22
+89069010,890690,"Vessels; other, including lifeboats other than rowing boats, other than warships",8,89,"Patrol or surveillance boat, air-cushion vehicle, remote-operated vehicle",Free,.,,55/2024-25,2025-01-29,2026-10-22
+89069090,890690,"Vessels; other, including lifeboats other than rowing boats, other than warships",8,89,Other,Free,.,,55/2024-25,2025-01-29,2026-10-22
+8907,,,4,89,"Other floating structures (for example, rafts, tanks, cofferdams, landing-stages, buoys and beacons).",,,,,,2026-10-22
+89071000,890710,Rafts; inflatable,8,89,Inflatable rafts,Free,,,,,2026-10-22
+89079000,890790,"Floating structures; tanks, coffer-dams, landing stages, buoys and beacons",8,89,Other,Free,,,,,2026-10-22
+89080000,890800,Vessels and other floating structures; for breaking up,8,89,Vessels and other floating structures for breaking up,Free,,,,,2026-10-22

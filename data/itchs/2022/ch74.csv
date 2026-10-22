@@ -1,129 +1,129 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-7401,4,74,COPPER MATTES; CEMENT COPPER (PRECIPITATED COPPER),,,,,,2026-10-22
-740100,6,74,Copper mattes; cement copper (precipitated copper).,,,,,,2026-10-22
-74010010,8,74,Copper mattes,Free,,,,,2026-10-22
-74010090,8,74,Cement copper (precipitated copper),Free,,,,,2026-10-22
-7402,4,74,Unrefined copper; copper anodes for electrolytic refining.,,,,,,2026-10-22
-740200,6,74,Unrefined copper; copper anodes for electrolytic refining :,,,,,,2026-10-22
-74020010,8,74,Blister copper,Free,,,,,2026-10-22
-74020090,8,74,Other,Free,,,,,2026-10-22
-7403,4,74,"Refined copper and copper alloys, unwrought.",,,,,,2026-10-22
-74031100,8,74,Refined copper : -- Cathodes and sections of cathodes,Free,,,,,2026-10-22
-74031200,8,74,Refined copper : -- Wire-bars,Free,,,,,2026-10-22
-74031300,8,74,Refined copper : -- Billets,Free,,,,,2026-10-22
-74031900,8,74,Refined copper : -- Other,Free,,,,,2026-10-22
-74032100,8,74,Copper alloys : -- Copper-zinc base alloys (brass),Free,,,,,2026-10-22
-740322,6,74,Copper alloys : -- Copper-tin base alloys (bronze),,,,,,2026-10-22
-74032210,8,74,Phosphor bronze,Free,,,,,2026-10-22
-74032290,8,74,Other,Free,,,,,2026-10-22
-74032900,8,74,Copper alloys : -- Other copper alloys (other than master alloys of heading 74.05),Free,,,,,2026-10-22
-7404,4,74,Copper waste and scrap.,,,,,,2026-10-22
-740400,6,74,Copper waste and scrap:,,,,,,2026-10-22
-74040011,8,74,Of copper: ----Empty or discharged cartridges of all bores and sizes,Restricted,,,,,2026-10-22
-74040012,8,74,"Of copper: ----Copper scrap, namely the following: Copper wire scrap covered by ISRI code words Barley, Berry and Birch; Heavy copper scrap covered by ISRI code word Candy; Unalloyed copper scrap covered by ISRI code word Cliff; Copper wire nodules scrap covered by ISRI code words Clove, Cobra and Cocoa; Light copper scrap covered by ISRI code word Dream; Muntz metal tubes covered by ISRI code word Palms; Miscellaneous copper-containing skimmings, grindings, ashes, irony brass and copper, residues and slags covered by ISRI code word Drove; Copper wire scrap with various types of insulation covered by ISRI code word Druid",Free,,,,,2026-10-22
-74040019,8,74,Of copper: ----Other,Restricted,Import permitted as per Policy Condition (2) below.,2,,,2026-10-22
-74040021,8,74,"Of copper alloys: ----Empty or discharged cartridges of all bores and sizes, including the following: clean fired 70/30 brass shells free of bullets, iron and any other foreign material covered by ISRI code word Lake; clean muffled (popped) 70/30 brass shells free of bullets, iron and any other foreign material covered by ISRI code word Lamb",Restricted,,,,,2026-10-22
-74040022,8,74,"Of copper alloys: ----Brass scrap, namely the following: Refinery brass scrap covered by ISRI code word Drink; Composition of Red brass scrap covered by ISRI code word Ebony; Red brass composition turnings scrap covered by ISRI code word Enerv; Genuine babbit-lined brass bushings scrap covered by ISRI code word Elder; Machinery or hard brass solids scrap covered by ISRI code word Engel; Machinery or hand brass solids scrap covered by ISRI code word Erin; Cocks and faucets scrap covered by ISRI code word Grape; Yellow brass scrap covered by ISRI code word Honey; Yellow brass castings covered by ISRI code word Ivory; New brass clippings covered by ISRI code word Label; Yellow brass primer covered by ISRI code word Lark; Brass pipe covered by ISRI code word Melon; Yellow brass rod turnings covered by ISRI code word Night; New yellow brass rod ends covered by ISRI code word Noble; Yellow brass turnings covered by ISRI code word Nomad; Mixed unsweated auto radiators covered by ISRI code word Ocean; Admiralty brass condenser tubes covered by ISRI code word Pales; Aluminum brass condenser tubes covered by ISRI code word Pallu.",Free,,,,,2026-10-22
-74040024,8,74,"Bronze scrap, including the following: manganese bronze solids covered ISRI code word Parch; High lead bronze solids and borings covered by ISRI code word Elias",Free,,,,,2026-10-22
-74040025,8,74,"Of copper alloys: ----Copper nickel scrap, including the following: new cupro nickel clips and solids covered by ISRI code word Dandy; cupro nickel solids covered by ISRI code word Daunt; soldered cupro-nickel solids covered by ISRI code word Delta; cupro nickel spinnings, turnings, borings covered by ISRI code word Decoy;",Free,,,,,2026-10-22
-74040029,8,74,Of copper alloys: ----Other,Restricted,,,,,2026-10-22
-74050000,8,74,Master alloys of copper.,Free,,,,,2026-10-22
-7406,4,74,Copper powders and flakes.,,,,,,2026-10-22
-74061000,8,74,Powders of non-lamellar structure,Free,,,,,2026-10-22
-74062000,8,74,Powders of lamellar structure; flakes,Free,,,,,2026-10-22
-7407,4,74,"Copper bars, rods and profiles.",,,,,,2026-10-22
-740710,6,74,Of refined copper,,,,,,2026-10-22
-74071010,8,74,Electrolytic copper rods or black copper rods,Free,,,,,2026-10-22
-74071020,8,74,Other copper rods,Free,,,,,2026-10-22
-74071030,8,74,Copper bars (excluding hollow bars),Free,,,,,2026-10-22
-74071040,8,74,Hollow bars of copper,Free,,,,,2026-10-22
-74071051,8,74,Profiles: ----Hollow profiles,Free,,,,,2026-10-22
-74071059,8,74,Profiles: ----Other,Free,,,,,2026-10-22
-74071090,8,74,Profiles: ----Other,Free,,,,,2026-10-22
-740721,6,74,Of copper alloys : -- Of copper-zinc base alloys (brass),,,,,,2026-10-22
-74072110,8,74,Bars,Free,,,,,2026-10-22
-74072120,8,74,Rods,Free,,,,,2026-10-22
-74072130,8,74,Hollow bars,Free,,,,,2026-10-22
-74072190,8,74,Other,Free,,,,,2026-10-22
-740729,6,74,Of copper alloys : -- Other,,,,,,2026-10-22
-74072910,8,74,Rods of bronze and similar alloys,Free,,,,,2026-10-22
-74072921,8,74,Profiles: ----Hollow,Free,,,,,2026-10-22
-74072929,8,74,Profiles: ----Other,Free,,,,,2026-10-22
-74072990,8,74,Profiles: ----Other,Free,,,,,2026-10-22
-7408,4,74,Copper wire.,,,,,,2026-10-22
-740811,6,74,Of refined copper : -- Of which the maximum cross-sectional dimension exceeds 6 mm,,,,,,2026-10-22
-74081110,8,74,Copper weld wire,Free,,,,,2026-10-22
-74081190,8,74,Other,Free,,,,,2026-10-22
-740819,6,74,Of refined copper : -- Other,,,,,,2026-10-22
-74081910,8,74,Copper weld wire,Free,,,,,2026-10-22
-74081920,8,74,Welding wire,Free,,,,,2026-10-22
-74081990,8,74,Other,Free,,,,,2026-10-22
-740821,6,74,Of copper alloys : -- Of copper-zinc base alloys (brass),,,,,,2026-10-22
-74082110,8,74,Of copper alloys: ----Of which the maximum cross-sectional dimension exceeds 6 mm,Free,,,,,2026-10-22
-74082190,8,74,Of copper alloys: ----Other,Free,,,,,2026-10-22
-740822,6,74,Of copper alloys : -- Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver),,,,,,2026-10-22
-74082210,8,74,Silver plated flattened wire of copper (lametta),Free,,,,,2026-10-22
-74082220,8,74,Of which the maximum cross-sectional dimension exceeds 6 mm,Free,,,,,2026-10-22
-74082290,8,74,Other,Free,,,,,2026-10-22
-740829,6,74,Of copper alloys : -- Other,,,,,,2026-10-22
-74082910,8,74,Wire of bronze and similar alloys,Free,,,,,2026-10-22
-74082990,8,74,Other,Free,,,,,2026-10-22
-7409,4,74,"Copper plates, sheets and strip, of a thickness exceeding 0.15 mm.",,,,,,2026-10-22
-74091100,8,74,Of refined copper : -- In coils,Free,,,,,2026-10-22
-74091900,8,74,Of refined copper : -- Other,Free,,,,,2026-10-22
-74092100,8,74,Of copper-zinc base alloys (brass) : -- In coils,Free,,,,,2026-10-22
-74092900,8,74,Of copper-zinc base alloys (brass) : -- Other,Free,,,,,2026-10-22
-74093100,8,74,Of copper-tin base alloys (bronze) : -- In coils,Free,,,,,2026-10-22
-74093900,8,74,Of copper-tin base alloys (bronze) : -- Other,Free,,,,,2026-10-22
-74094000,8,74,Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver),Free,,,,,2026-10-22
-74099000,8,74,Of other copper alloys,Free,,,,,2026-10-22
-7410,4,74,"Copper foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.15 mm.",,,,,,2026-10-22
-74101100,8,74,Not backed : -- Of refined copper,Free,,,,,2026-10-22
-74101200,8,74,Not backed : -- Of copper alloys,Free,,,,,2026-10-22
-74102100,8,74,Backed : -- Of refined copper,Free,,,,,2026-10-22
-74102200,8,74,Backed : -- Of copper alloys,Free,,,,,2026-10-22
-7411,4,74,Copper tubes and pipes.,,,,,,2026-10-22
-74111000,8,74,Of refined copper,Free,,,,,2026-10-22
-74112100,8,74,Of copper alloys : -- Of copper-zinc base alloys (brass),Free,,,,,2026-10-22
-74112200,8,74,Of copper alloys : -- Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver),Free,,,,,2026-10-22
-74112900,8,74,Of copper alloys : -- Other,Free,,,,,2026-10-22
-7412,4,74,"Copper tube or pipe fittings (for example, couplings, elbows, sleeves).",,,,,,2026-10-22
-74121000,8,74,Of refined copper,Free,,,,,2026-10-22
-741220,6,74,Of copper alloys,,,,,,2026-10-22
-74122011,8,74,Brass: ----Tube-well strainer,Free,,,,,2026-10-22
-74122012,8,74,Brass: ----Hose connectors,Free,,,,,2026-10-22
-74122019,8,74,Brass: ----Other,Free,,,,,2026-10-22
-74122090,8,74,Brass: ----Fittings of bronze and similar alloys of copper,Free,,,,,2026-10-22
-74130000,8,74,"Stranded wire, cables, plaited bands and the like, of copper, not electrically insulated.",Free,,,,,2026-10-22
-7415,4,74,"Nails, tacks, drawing pins, staples (other than those of heading 83.05) and similar articles, of copper or of iron or steel with heads of copper; screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of copper.",,,,,,2026-10-22
-74151000,8,74,"Nails and tacks, drawing pins, staples and similar articles",Free,,,,,2026-10-22
-74152100,8,74,"Other articles, not threaded : -- Washers (including spring washers)",Free,,,,,2026-10-22
-74152900,8,74,"Other articles, not threaded : -- Other",Free,,,,,2026-10-22
-741533,6,74,Other threaded articles : -- Screws; bolts and nuts,,,,,,2026-10-22
-74153310,8,74,Screws for wood,Free,,,,,2026-10-22
-74153390,8,74,Other,Free,,,,,2026-10-22
-741539,6,74,Other threaded articles : -- Other,,,,,,2026-10-22
-74153910,8,74,Rivets (excluding tubular or bifurcated),Free,,,,,2026-10-22
-74153990,8,74,Other,Free,,,,,2026-10-22
-7418,4,74,"Table, kitchen or other household articles and parts thereof, of copper; pot scourers and scouring or polishing pads, gloves and the like, of copper; sanitary ware and parts thereof, of copper.",,,,,,2026-10-22
-741810,6,74,"Table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like.",,,,,,2026-10-22
-74181010,8,74,"Pot scourers and scouring or polishing pads, gloves and the like Utensils:",Free,,,,,2026-10-22
-74181021,8,74,Utensils: ----Of brass,Free,,,,,2026-10-22
-74181022,8,74,Utensils: ----Of copper,Free,,,,,2026-10-22
-74181023,8,74,Utensils: ----Of other copper alloys,Free,,,,,2026-10-22
-74181024,8,74,Utensils: ----E.P.N.S. ware,Free,,,,,2026-10-22
-74181031,8,74,Other: ----Of E.P.N.S.,Free,,,,,2026-10-22
-74181039,8,74,Other: ----Other,Free,,,,,2026-10-22
-74181090,8,74,Other: ----Parts,Free,,,,,2026-10-22
-741820,6,74,Sanitary ware and parts thereof,,,,,,2026-10-22
-74182010,8,74,Sanitary ware,Free,,,,,2026-10-22
-74182020,8,74,Parts of sanitary ware,Free,,,,,2026-10-22
-7419,4,74,Other articles of copper.,,,,,,2026-10-22
-74192000,8,74,"Cast, moulded, stamped or forged, but not further worked",Free,,,54/2015-2020,2022-02-09,2026-10-22
-741980,6,74,Other:,,,,,,2026-10-22
-74198010,8,74,"Reservoirs, tanks, vats and similar containers",Free,,,54/2015-2020,2022-02-09,2026-10-22
-74198020,8,74,Articles of copper alloys electro-plated with nickel-silver,Free,,,54/2015-2020,2022-02-09,2026-10-22
-74198030,8,74,Articles of brass,Free,,,54/2015-2020,2022-02-09,2026-10-22
-74198040,8,74,Copper worked articles,Free,,,54/2015-2020,2022-02-09,2026-10-22
-74198050,8,74,Copper chain,Free,,,54/2015-2020,2022-02-09,2026-10-22
-74198090,8,74,Other articles of copper,Free,,,54/2015-2020,2022-02-09,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+7401,,,4,74,COPPER MATTES; CEMENT COPPER (PRECIPITATED COPPER),,,,,,2026-10-22
+740100,740100,Copper mattes; cement copper (precipitated copper),6,74,Copper mattes; cement copper (precipitated copper).,,,,,,2026-10-22
+74010010,740100,Copper mattes; cement copper (precipitated copper),8,74,Copper mattes,Free,,,,,2026-10-22
+74010090,740100,Copper mattes; cement copper (precipitated copper),8,74,Cement copper (precipitated copper),Free,,,,,2026-10-22
+7402,,,4,74,Unrefined copper; copper anodes for electrolytic refining.,,,,,,2026-10-22
+740200,740200,"Copper; unrefined, copper anodes for electrolytic refining",6,74,Unrefined copper; copper anodes for electrolytic refining :,,,,,,2026-10-22
+74020010,740200,"Copper; unrefined, copper anodes for electrolytic refining",8,74,Blister copper,Free,,,,,2026-10-22
+74020090,740200,"Copper; unrefined, copper anodes for electrolytic refining",8,74,Other,Free,,,,,2026-10-22
+7403,,,4,74,"Refined copper and copper alloys, unwrought.",,,,,,2026-10-22
+74031100,740311,"Copper; refined, unwrought, cathodes and sections of cathodes",8,74,Refined copper : -- Cathodes and sections of cathodes,Free,,,,,2026-10-22
+74031200,740312,"Copper; refined, unwrought, wire-bars",8,74,Refined copper : -- Wire-bars,Free,,,,,2026-10-22
+74031300,740313,"Copper; refined, unwrought, billets",8,74,Refined copper : -- Billets,Free,,,,,2026-10-22
+74031900,740319,"Copper; refined, unwrought, n.e.c. in item no. 7403.1",8,74,Refined copper : -- Other,Free,,,,,2026-10-22
+74032100,740321,Copper; copper-zinc base alloys (brass) unwrought,8,74,Copper alloys : -- Copper-zinc base alloys (brass),Free,,,,,2026-10-22
+740322,740322,Copper; copper-tin base alloys (bronze) unwrought,6,74,Copper alloys : -- Copper-tin base alloys (bronze),,,,,,2026-10-22
+74032210,740322,Copper; copper-tin base alloys (bronze) unwrought,8,74,Phosphor bronze,Free,,,,,2026-10-22
+74032290,740322,Copper; copper-tin base alloys (bronze) unwrought,8,74,Other,Free,,,,,2026-10-22
+74032900,740329,Copper; copper alloys n.e.c. in heading no. 7403 (other than master alloys of heading no. 7405),8,74,Copper alloys : -- Other copper alloys (other than master alloys of heading 74.05),Free,,,,,2026-10-22
+7404,,,4,74,Copper waste and scrap.,,,,,,2026-10-22
+740400,740400,Copper; waste and scrap,6,74,Copper waste and scrap:,,,,,,2026-10-22
+74040011,740400,Copper; waste and scrap,8,74,Of copper: ----Empty or discharged cartridges of all bores and sizes,Restricted,,,,,2026-10-22
+74040012,740400,Copper; waste and scrap,8,74,"Of copper: ----Copper scrap, namely the following: Copper wire scrap covered by ISRI code words Barley, Berry and Birch; Heavy copper scrap covered by ISRI code word Candy; Unalloyed copper scrap covered by ISRI code word Cliff; Copper wire nodules scrap covered by ISRI code words Clove, Cobra and Cocoa; Light copper scrap covered by ISRI code word Dream; Muntz metal tubes covered by ISRI code word Palms; Miscellaneous copper-containing skimmings, grindings, ashes, irony brass and copper, residues and slags covered by ISRI code word Drove; Copper wire scrap with various types of insulation covered by ISRI code word Druid",Free,,,,,2026-10-22
+74040019,740400,Copper; waste and scrap,8,74,Of copper: ----Other,Restricted,Import permitted as per Policy Condition (2) below.,2,,,2026-10-22
+74040021,740400,Copper; waste and scrap,8,74,"Of copper alloys: ----Empty or discharged cartridges of all bores and sizes, including the following: clean fired 70/30 brass shells free of bullets, iron and any other foreign material covered by ISRI code word Lake; clean muffled (popped) 70/30 brass shells free of bullets, iron and any other foreign material covered by ISRI code word Lamb",Restricted,,,,,2026-10-22
+74040022,740400,Copper; waste and scrap,8,74,"Of copper alloys: ----Brass scrap, namely the following: Refinery brass scrap covered by ISRI code word Drink; Composition of Red brass scrap covered by ISRI code word Ebony; Red brass composition turnings scrap covered by ISRI code word Enerv; Genuine babbit-lined brass bushings scrap covered by ISRI code word Elder; Machinery or hard brass solids scrap covered by ISRI code word Engel; Machinery or hand brass solids scrap covered by ISRI code word Erin; Cocks and faucets scrap covered by ISRI code word Grape; Yellow brass scrap covered by ISRI code word Honey; Yellow brass castings covered by ISRI code word Ivory; New brass clippings covered by ISRI code word Label; Yellow brass primer covered by ISRI code word Lark; Brass pipe covered by ISRI code word Melon; Yellow brass rod turnings covered by ISRI code word Night; New yellow brass rod ends covered by ISRI code word Noble; Yellow brass turnings covered by ISRI code word Nomad; Mixed unsweated auto radiators covered by ISRI code word Ocean; Admiralty brass condenser tubes covered by ISRI code word Pales; Aluminum brass condenser tubes covered by ISRI code word Pallu.",Free,,,,,2026-10-22
+74040024,740400,Copper; waste and scrap,8,74,"Bronze scrap, including the following: manganese bronze solids covered ISRI code word Parch; High lead bronze solids and borings covered by ISRI code word Elias",Free,,,,,2026-10-22
+74040025,740400,Copper; waste and scrap,8,74,"Of copper alloys: ----Copper nickel scrap, including the following: new cupro nickel clips and solids covered by ISRI code word Dandy; cupro nickel solids covered by ISRI code word Daunt; soldered cupro-nickel solids covered by ISRI code word Delta; cupro nickel spinnings, turnings, borings covered by ISRI code word Decoy;",Free,,,,,2026-10-22
+74040029,740400,Copper; waste and scrap,8,74,Of copper alloys: ----Other,Restricted,,,,,2026-10-22
+74050000,740500,Copper; master alloys of copper,8,74,Master alloys of copper.,Free,,,,,2026-10-22
+7406,,,4,74,Copper powders and flakes.,,,,,,2026-10-22
+74061000,740610,Copper; powders of non-lamellar structure,8,74,Powders of non-lamellar structure,Free,,,,,2026-10-22
+74062000,740620,"Copper; powders of lamellar structure, flakes",8,74,Powders of lamellar structure; flakes,Free,,,,,2026-10-22
+7407,,,4,74,"Copper bars, rods and profiles.",,,,,,2026-10-22
+740710,740710,"Copper; bars, rods and profiles, of refined copper",6,74,Of refined copper,,,,,,2026-10-22
+74071010,740710,"Copper; bars, rods and profiles, of refined copper",8,74,Electrolytic copper rods or black copper rods,Free,,,,,2026-10-22
+74071020,740710,"Copper; bars, rods and profiles, of refined copper",8,74,Other copper rods,Free,,,,,2026-10-22
+74071030,740710,"Copper; bars, rods and profiles, of refined copper",8,74,Copper bars (excluding hollow bars),Free,,,,,2026-10-22
+74071040,740710,"Copper; bars, rods and profiles, of refined copper",8,74,Hollow bars of copper,Free,,,,,2026-10-22
+74071051,740710,"Copper; bars, rods and profiles, of refined copper",8,74,Profiles: ----Hollow profiles,Free,,,,,2026-10-22
+74071059,740710,"Copper; bars, rods and profiles, of refined copper",8,74,Profiles: ----Other,Free,,,,,2026-10-22
+74071090,740710,"Copper; bars, rods and profiles, of refined copper",8,74,Profiles: ----Other,Free,,,,,2026-10-22
+740721,740721,"Copper; bars, rods and profiles, of copper-zinc base alloys (brass)",6,74,Of copper alloys : -- Of copper-zinc base alloys (brass),,,,,,2026-10-22
+74072110,740721,"Copper; bars, rods and profiles, of copper-zinc base alloys (brass)",8,74,Bars,Free,,,,,2026-10-22
+74072120,740721,"Copper; bars, rods and profiles, of copper-zinc base alloys (brass)",8,74,Rods,Free,,,,,2026-10-22
+74072130,740721,"Copper; bars, rods and profiles, of copper-zinc base alloys (brass)",8,74,Hollow bars,Free,,,,,2026-10-22
+74072190,740721,"Copper; bars, rods and profiles, of copper-zinc base alloys (brass)",8,74,Other,Free,,,,,2026-10-22
+740729,740729,"Copper; bars, rods and profiles, of copper alloys (other than copper-zinc base alloys)",6,74,Of copper alloys : -- Other,,,,,,2026-10-22
+74072910,740729,"Copper; bars, rods and profiles, of copper alloys (other than copper-zinc base alloys)",8,74,Rods of bronze and similar alloys,Free,,,,,2026-10-22
+74072921,740729,"Copper; bars, rods and profiles, of copper alloys (other than copper-zinc base alloys)",8,74,Profiles: ----Hollow,Free,,,,,2026-10-22
+74072929,740729,"Copper; bars, rods and profiles, of copper alloys (other than copper-zinc base alloys)",8,74,Profiles: ----Other,Free,,,,,2026-10-22
+74072990,740729,"Copper; bars, rods and profiles, of copper alloys (other than copper-zinc base alloys)",8,74,Profiles: ----Other,Free,,,,,2026-10-22
+7408,,,4,74,Copper wire.,,,,,,2026-10-22
+740811,740811,"Copper; wire, of refined copper, of which the maximum cross-sectional dimension exceeds 6mm",6,74,Of refined copper : -- Of which the maximum cross-sectional dimension exceeds 6 mm,,,,,,2026-10-22
+74081110,740811,"Copper; wire, of refined copper, of which the maximum cross-sectional dimension exceeds 6mm",8,74,Copper weld wire,Free,,,,,2026-10-22
+74081190,740811,"Copper; wire, of refined copper, of which the maximum cross-sectional dimension exceeds 6mm",8,74,Other,Free,,,,,2026-10-22
+740819,740819,"Copper; wire, of refined copper, of which the maximum cross-sectional dimension is 6mm or less",6,74,Of refined copper : -- Other,,,,,,2026-10-22
+74081910,740819,"Copper; wire, of refined copper, of which the maximum cross-sectional dimension is 6mm or less",8,74,Copper weld wire,Free,,,,,2026-10-22
+74081920,740819,"Copper; wire, of refined copper, of which the maximum cross-sectional dimension is 6mm or less",8,74,Welding wire,Free,,,,,2026-10-22
+74081990,740819,"Copper; wire, of refined copper, of which the maximum cross-sectional dimension is 6mm or less",8,74,Other,Free,,,,,2026-10-22
+740821,740821,"Copper; wire, of copper-zinc base alloys (brass)",6,74,Of copper alloys : -- Of copper-zinc base alloys (brass),,,,,,2026-10-22
+74082110,740821,"Copper; wire, of copper-zinc base alloys (brass)",8,74,Of copper alloys: ----Of which the maximum cross-sectional dimension exceeds 6 mm,Free,,,,,2026-10-22
+74082190,740821,"Copper; wire, of copper-zinc base alloys (brass)",8,74,Of copper alloys: ----Other,Free,,,,,2026-10-22
+740822,740822,"Copper; wire, of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",6,74,Of copper alloys : -- Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver),,,,,,2026-10-22
+74082210,740822,"Copper; wire, of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",8,74,Silver plated flattened wire of copper (lametta),Free,,,,,2026-10-22
+74082220,740822,"Copper; wire, of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",8,74,Of which the maximum cross-sectional dimension exceeds 6 mm,Free,,,,,2026-10-22
+74082290,740822,"Copper; wire, of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",8,74,Other,Free,,,,,2026-10-22
+740829,740829,"Copper; wire, of copper alloys (other than copper-zinc base alloys, copper-nickel base alloys or copper-nickel-zinc base alloys)",6,74,Of copper alloys : -- Other,,,,,,2026-10-22
+74082910,740829,"Copper; wire, of copper alloys (other than copper-zinc base alloys, copper-nickel base alloys or copper-nickel-zinc base alloys)",8,74,Wire of bronze and similar alloys,Free,,,,,2026-10-22
+74082990,740829,"Copper; wire, of copper alloys (other than copper-zinc base alloys, copper-nickel base alloys or copper-nickel-zinc base alloys)",8,74,Other,Free,,,,,2026-10-22
+7409,,,4,74,"Copper plates, sheets and strip, of a thickness exceeding 0.15 mm.",,,,,,2026-10-22
+74091100,740911,"Copper; strip, of a thickness exceeding 0.15mm, of refined copper, in coils",8,74,Of refined copper : -- In coils,Free,,,,,2026-10-22
+74091900,740919,"Copper; plates and sheets, of a thickness exceeding 0.15mm, of refined copper, not in coils",8,74,Of refined copper : -- Other,Free,,,,,2026-10-22
+74092100,740921,"Copper; strip, of a thickness exceeding 0.15mm, of copper-zinc base alloys (brass), in coils",8,74,Of copper-zinc base alloys (brass) : -- In coils,Free,,,,,2026-10-22
+74092900,740929,"Copper; plates and sheets, of a thickness exceeding 0.15mm, of copper-zinc base alloys (brass), not in coils",8,74,Of copper-zinc base alloys (brass) : -- Other,Free,,,,,2026-10-22
+74093100,740931,"Copper; strip, of a thickness exceeding 0.15mm, of copper-tin base alloys (bronze), in coils",8,74,Of copper-tin base alloys (bronze) : -- In coils,Free,,,,,2026-10-22
+74093900,740939,"Copper; plates and sheets, of a thickness exceeding 0.15mm, of copper-tin base alloys, not in coils",8,74,Of copper-tin base alloys (bronze) : -- Other,Free,,,,,2026-10-22
+74094000,740940,"Copper; plates, sheets and strip, of a thickness exceeding 0.15mm, of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",8,74,Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver),Free,,,,,2026-10-22
+74099000,740990,"Copper; plates, sheets and strip, of a thickness exceeding 0.15mm, of copper alloys (other than copper-zinc base alloys, copper-tin base alloys, copper-nickel base alloys or copper-nickel-zinc base alloys)",8,74,Of other copper alloys,Free,,,,,2026-10-22
+7410,,,4,74,"Copper foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.15 mm.",,,,,,2026-10-22
+74101100,741011,"Copper; foil, not backed, of a thickness not exceeding 0.15mm, of refined copper",8,74,Not backed : -- Of refined copper,Free,,,,,2026-10-22
+74101200,741012,"Copper; foil, not backed, of a thickness not exceeding 0.15mm, of copper alloys",8,74,Not backed : -- Of copper alloys,Free,,,,,2026-10-22
+74102100,741021,"Copper; foil, backed with paper, paperboard, plastics or similar backing material, of a thickness (excluding any backing) not exceeding 0.15mm, of refined copper",8,74,Backed : -- Of refined copper,Free,,,,,2026-10-22
+74102200,741022,"Copper; foil, backed with paper, paperboard, plastics or similar backing material, of a thickness (excluding any backing) not exceeding 0.15mm, of copper alloys",8,74,Backed : -- Of copper alloys,Free,,,,,2026-10-22
+7411,,,4,74,Copper tubes and pipes.,,,,,,2026-10-22
+74111000,741110,"Copper; tubes and pipes, of refined copper",8,74,Of refined copper,Free,,,,,2026-10-22
+74112100,741121,"Copper; tubes and pipes, of copper-zinc base alloys (brass)",8,74,Of copper alloys : -- Of copper-zinc base alloys (brass),Free,,,,,2026-10-22
+74112200,741122,"Copper; tubes and pipes, of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",8,74,Of copper alloys : -- Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver),Free,,,,,2026-10-22
+74112900,741129,"Copper; tubes and pipes, of copper alloys (other than copper-zinc, copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel-silver))",8,74,Of copper alloys : -- Other,Free,,,,,2026-10-22
+7412,,,4,74,"Copper tube or pipe fittings (for example, couplings, elbows, sleeves).",,,,,,2026-10-22
+74121000,741210,"Copper; tube or pipe fittings (e.g. couplings, elbows, sleeves) of refined copper",8,74,Of refined copper,Free,,,,,2026-10-22
+741220,741220,"Copper; tube or pipe fittings (e.g. couplings, elbows, sleeves) of copper alloys",6,74,Of copper alloys,,,,,,2026-10-22
+74122011,741220,"Copper; tube or pipe fittings (e.g. couplings, elbows, sleeves) of copper alloys",8,74,Brass: ----Tube-well strainer,Free,,,,,2026-10-22
+74122012,741220,"Copper; tube or pipe fittings (e.g. couplings, elbows, sleeves) of copper alloys",8,74,Brass: ----Hose connectors,Free,,,,,2026-10-22
+74122019,741220,"Copper; tube or pipe fittings (e.g. couplings, elbows, sleeves) of copper alloys",8,74,Brass: ----Other,Free,,,,,2026-10-22
+74122090,741220,"Copper; tube or pipe fittings (e.g. couplings, elbows, sleeves) of copper alloys",8,74,Brass: ----Fittings of bronze and similar alloys of copper,Free,,,,,2026-10-22
+74130000,741300,"Copper; stranded wire, cables, plaited bands and the like, not electrically insulated",8,74,"Stranded wire, cables, plaited bands and the like, of copper, not electrically insulated.",Free,,,,,2026-10-22
+7415,,,4,74,"Nails, tacks, drawing pins, staples (other than those of heading 83.05) and similar articles, of copper or of iron or steel with heads of copper; screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of copper.",,,,,,2026-10-22
+74151000,741510,"Copper; nails and tacks, drawing pins, staples and similar articles of copper, or of iron or steel with copper heads",8,74,"Nails and tacks, drawing pins, staples and similar articles",Free,,,,,2026-10-22
+74152100,741521,"Copper; washers, (including spring washers), not threaded",8,74,"Other articles, not threaded : -- Washers (including spring washers)",Free,,,,,2026-10-22
+74152900,741529,"Copper; rivets, cotters, cotter-pins and similar articles, not threaded",8,74,"Other articles, not threaded : -- Other",Free,,,,,2026-10-22
+741533,741533,"Copper; screws, bolts and nuts, threaded",6,74,Other threaded articles : -- Screws; bolts and nuts,,,,,,2026-10-22
+74153310,741533,"Copper; screws, bolts and nuts, threaded",8,74,Screws for wood,Free,,,,,2026-10-22
+74153390,741533,"Copper; screws, bolts and nuts, threaded",8,74,Other,Free,,,,,2026-10-22
+741539,741539,Copper; articles n.e.c. in heading no. 7415,6,74,Other threaded articles : -- Other,,,,,,2026-10-22
+74153910,741539,Copper; articles n.e.c. in heading no. 7415,8,74,Rivets (excluding tubular or bifurcated),Free,,,,,2026-10-22
+74153990,741539,Copper; articles n.e.c. in heading no. 7415,8,74,Other,Free,,,,,2026-10-22
+7418,,,4,74,"Table, kitchen or other household articles and parts thereof, of copper; pot scourers and scouring or polishing pads, gloves and the like, of copper; sanitary ware and parts thereof, of copper.",,,,,,2026-10-22
+741810,741810,"Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",6,74,"Table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like.",,,,,,2026-10-22
+74181010,741810,"Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",8,74,"Pot scourers and scouring or polishing pads, gloves and the like Utensils:",Free,,,,,2026-10-22
+74181021,741810,"Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",8,74,Utensils: ----Of brass,Free,,,,,2026-10-22
+74181022,741810,"Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",8,74,Utensils: ----Of copper,Free,,,,,2026-10-22
+74181023,741810,"Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",8,74,Utensils: ----Of other copper alloys,Free,,,,,2026-10-22
+74181024,741810,"Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",8,74,Utensils: ----E.P.N.S. ware,Free,,,,,2026-10-22
+74181031,741810,"Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",8,74,Other: ----Of E.P.N.S.,Free,,,,,2026-10-22
+74181039,741810,"Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",8,74,Other: ----Other,Free,,,,,2026-10-22
+74181090,741810,"Copper; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",8,74,Other: ----Parts,Free,,,,,2026-10-22
+741820,741820,Copper; sanitary ware and parts thereof,6,74,Sanitary ware and parts thereof,,,,,,2026-10-22
+74182010,741820,Copper; sanitary ware and parts thereof,8,74,Sanitary ware,Free,,,,,2026-10-22
+74182020,741820,Copper; sanitary ware and parts thereof,8,74,Parts of sanitary ware,Free,,,,,2026-10-22
+7419,,,4,74,Other articles of copper.,,,,,,2026-10-22
+74192000,741920,"Copper; cast, moulded, stamped or forged, but not further worked",8,74,"Cast, moulded, stamped or forged, but not further worked",Free,,,54/2015-2020,2022-02-09,2026-10-22
+741980,741980,Copper; articles thereof n.e.c. in chapter 74,6,74,Other:,,,,,,2026-10-22
+74198010,741980,Copper; articles thereof n.e.c. in chapter 74,8,74,"Reservoirs, tanks, vats and similar containers",Free,,,54/2015-2020,2022-02-09,2026-10-22
+74198020,741980,Copper; articles thereof n.e.c. in chapter 74,8,74,Articles of copper alloys electro-plated with nickel-silver,Free,,,54/2015-2020,2022-02-09,2026-10-22
+74198030,741980,Copper; articles thereof n.e.c. in chapter 74,8,74,Articles of brass,Free,,,54/2015-2020,2022-02-09,2026-10-22
+74198040,741980,Copper; articles thereof n.e.c. in chapter 74,8,74,Copper worked articles,Free,,,54/2015-2020,2022-02-09,2026-10-22
+74198050,741980,Copper; articles thereof n.e.c. in chapter 74,8,74,Copper chain,Free,,,54/2015-2020,2022-02-09,2026-10-22
+74198090,741980,Copper; articles thereof n.e.c. in chapter 74,8,74,Other articles of copper,Free,,,54/2015-2020,2022-02-09,2026-10-22

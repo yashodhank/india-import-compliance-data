@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "4301",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "43",
    "description": "Raw furskins (including heads, tails, paws and other pieces or cuttings, suitable for furriers use), other than raw hides and skins of heading 41.01, 41.02 or 41.03.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "43011000",
+   "hs6": "430110",
+   "hs6_description": "Furskins; raw, of mink, whole, with or without head, tail or paws",
    "level": 8,
    "chapter": "43",
    "description": "Of mink, whole, with or without head, tail or paws",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "43013000",
+   "hs6": "430130",
+   "hs6_description": "Furskins; raw, of Astrakhan, Broadtail, Caracul, Persian and similar lamb, Indian, Chinese, Mongolian or Tibetan lamb, whole, with or without head, tail or paws",
    "level": 8,
    "chapter": "43",
    "description": "Of lamb, the following : Astrakhan, Broadtail, Caracul, Persian and similar lamb, Indian, Chinese, Mongolian or Tibetan lamb, whole, with or without head, tail or paws",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "43016000",
+   "hs6": "430160",
+   "hs6_description": "Furskins; raw, of fox, whole, with or without head, tail or paws",
    "level": 8,
    "chapter": "43",
    "description": "Of fox, whole, with or without head, tail or paws",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "43018000",
+   "hs6": "430180",
+   "hs6_description": "Furskins; raw, of animals n.e.c. in heading no. 4301, whole, with or without head, tail or paws (excluding goods of heading no. 4101, 4102 and 4103)",
    "level": 8,
    "chapter": "43",
    "description": "Other furskins, whole, with or without head, tail or paws",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "43019000",
+   "hs6": "430190",
+   "hs6_description": "Furskins; raw, heads, tails, paws and other pieces or cuttings, suitable for furrier's use, excluding goods of heading no. 4101, 4102 and 4103",
    "level": 8,
    "chapter": "43",
    "description": "Heads, tails, paws and other pieces or cuttings, suitable for furriers use",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "4302",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "43",
    "description": "Tanned or dressed furskins (including heads, tails, paws and other pieces or cuttings), unassembled, or assembled (without the addition of other materials) other than those of heading 43.03.",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "43021100",
+   "hs6": "430211",
+   "hs6_description": "Furskins; tanned or dressed, of mink, whole, with or without head, tail or paws, not assembled",
    "level": 8,
    "chapter": "43",
    "description": "Whole skins, with or without head, tail or paws, not assembled : -- Of mink",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "430219",
+   "hs6": "430219",
+   "hs6_description": "Furskins; tanned or dressed, whole, with or without head, tail or paws, not assembled, n.e.c. in heading no. 4302, excluding goods or heading no. 4303",
    "level": 6,
    "chapter": "43",
    "description": "Whole skins, with or without head, tail or paws, not assembled : -- Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "43021910",
+   "hs6": "430219",
+   "hs6_description": "Furskins; tanned or dressed, whole, with or without head, tail or paws, not assembled, n.e.c. in heading no. 4302, excluding goods or heading no. 4303",
    "level": 8,
    "chapter": "43",
    "description": "Calf skins, with hair on, tanned or dressed",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "43021920",
+   "hs6": "430219",
+   "hs6_description": "Furskins; tanned or dressed, whole, with or without head, tail or paws, not assembled, n.e.c. in heading no. 4302, excluding goods or heading no. 4303",
    "level": 8,
    "chapter": "43",
    "description": "Hides or skins of other bovine and equine animals with hair on, tanned or dressed",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "43021930",
+   "hs6": "430219",
+   "hs6_description": "Furskins; tanned or dressed, whole, with or without head, tail or paws, not assembled, n.e.c. in heading no. 4302, excluding goods or heading no. 4303",
    "level": 8,
    "chapter": "43",
    "description": "Goat (Common) and kid skins with hair on, tanned or dressed",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "43021940",
+   "hs6": "430219",
+   "hs6_description": "Furskins; tanned or dressed, whole, with or without head, tail or paws, not assembled, n.e.c. in heading no. 4302, excluding goods or heading no. 4303",
    "level": 8,
    "chapter": "43",
    "description": "Tiger-Cat skins",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "43021990",
+   "hs6": "430219",
+   "hs6_description": "Furskins; tanned or dressed, whole, with or without head, tail or paws, not assembled, n.e.c. in heading no. 4302, excluding goods or heading no. 4303",
    "level": 8,
    "chapter": "43",
    "description": "Hides and skins of other animals with hair on, tanned or dressed",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "43022000",
+   "hs6": "430220",
+   "hs6_description": "Furskins; tanned or dressed, heads, tails, paws and other pieces or cuttings, not assembled, excluding goods of heading no. 4303",
    "level": 8,
    "chapter": "43",
    "description": "Heads, tails, paws and other pieces or cuttings, not assembled",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "43023000",
+   "hs6": "430230",
+   "hs6_description": "Furskins; tanned or dressed, whole skins and pieces or cuttings thereof, assembled, excluding goods of heading no. 4303",
    "level": 8,
    "chapter": "43",
    "description": "Whole skins and pieces or cuttings thereof, assembled",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "4303",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "43",
    "description": "Articles of apparel, clothing accessories and other articles of furskin.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "430310",
+   "hs6": "430310",
+   "hs6_description": "Furskin articles; apparel and clothing accessories",
    "level": 6,
    "chapter": "43",
    "description": "Articles of apparel and clothing accessories",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "43031010",
+   "hs6": "430310",
+   "hs6_description": "Furskin articles; apparel and clothing accessories",
    "level": 8,
    "chapter": "43",
    "description": "Articles of apparel and clothing accessories: ---- Of wild animals covered under the Wild Life (Protection) Act,1972",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "43031020",
+   "hs6": "430310",
+   "hs6_description": "Furskin articles; apparel and clothing accessories",
    "level": 8,
    "chapter": "43",
    "description": "Articles of apparel and clothing accessories: ---- Of animals covered under Convention on International Trade of Endangered Species (CITES), Other than those of Tariff item 43031010",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "43031090",
+   "hs6": "430310",
+   "hs6_description": "Furskin articles; apparel and clothing accessories",
    "level": 8,
    "chapter": "43",
    "description": "Articles of apparel and clothing accessories: ---- Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "430390",
+   "hs6": "430390",
+   "hs6_description": "Furskin articles; other than apparel and clothing accessories",
    "level": 6,
    "chapter": "43",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "43039010",
+   "hs6": "430390",
+   "hs6_description": "Furskin articles; other than apparel and clothing accessories",
    "level": 8,
    "chapter": "43",
    "description": "Of wild animals covered under the Wild Life (Protection) Act,1972",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "43039020",
+   "hs6": "430390",
+   "hs6_description": "Furskin articles; other than apparel and clothing accessories",
    "level": 8,
    "chapter": "43",
    "description": "Of animals covered under Convention on International Trade of Endangered Species (CITES), other than those of item 4303 90 10",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "43039090",
+   "hs6": "430390",
+   "hs6_description": "Furskin articles; other than apparel and clothing accessories",
    "level": 8,
    "chapter": "43",
    "description": "Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "4304",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "43",
    "description": "Artificial fur and articles thereof.",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "430400",
+   "hs6": "430400",
+   "hs6_description": "Fur, artificial; articles thereof",
    "level": 6,
    "chapter": "43",
    "description": "Artificial fur and articles thereof:",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "43040011",
+   "hs6": "430400",
+   "hs6_description": "Fur, artificial; articles thereof",
    "level": 8,
    "chapter": "43",
    "description": "Artificial fur as trimmings and embellishments for garments, made ups, knitwear, plastic and leather goods",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "43040019",
+   "hs6": "430400",
+   "hs6_description": "Fur, artificial; articles thereof",
    "level": 8,
    "chapter": "43",
    "description": "Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "43040020",
+   "hs6": "430400",
+   "hs6_description": "Fur, artificial; articles thereof",
    "level": 8,
    "chapter": "43",
    "description": "Articles of artificial fur",

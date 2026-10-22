@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "8301",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "83",
    "description": "Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any of the foregoing articles, of base metal.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "83011000",
+   "hs6": "830110",
+   "hs6_description": "Padlocks; (key, combination or electrically operated), of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Padlocks",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "83012000",
+   "hs6": "830120",
+   "hs6_description": "Locks; of a kind used for motor vehicles (key, combination or electrically operated), of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Locks of a kind used for motor vehicles",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "83013000",
+   "hs6": "830130",
+   "hs6_description": "Locks; of a kind used for furniture (key, combination or electrically operated), of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Locks of a kind used for furniture",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "830140",
+   "hs6": "830140",
+   "hs6_description": "Locks; (other than those for motor vehicles or furniture), (key, combination or electrically operated), of base metal",
    "level": 6,
    "chapter": "83",
    "description": "Other locks :",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "83014010",
+   "hs6": "830140",
+   "hs6_description": "Locks; (other than those for motor vehicles or furniture), (key, combination or electrically operated), of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Combination locks",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "83014090",
+   "hs6": "830140",
+   "hs6_description": "Locks; (other than those for motor vehicles or furniture), (key, combination or electrically operated), of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "83015000",
+   "hs6": "830150",
+   "hs6_description": "Clasps and frames with clasps; incorporating locks, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Clasps and frames with clasps, incorporating locks",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "83016000",
+   "hs6": "830160",
+   "hs6_description": "Locks; parts of padlocks, locks, clasps and frames with clasps incorporating locks, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Parts",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "83017000",
+   "hs6": "830170",
+   "hs6_description": "Keys; presented separately, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Keys presented separately",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "8302",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "83",
    "description": "Base metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like; base metal hat-racks, hat-pegs, brackets and similar fixtures; castors with mountings of base metal; automatic door closers of base metal.",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "830210",
+   "hs6": "830210",
+   "hs6_description": "Hinges; suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like, of base metal",
    "level": 6,
    "chapter": "83",
    "description": "Hinges",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "83021010",
+   "hs6": "830210",
+   "hs6_description": "Hinges; suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Of steel",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "83021020",
+   "hs6": "830210",
+   "hs6_description": "Hinges; suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Of brass",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "83021090",
+   "hs6": "830210",
+   "hs6_description": "Hinges; suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "83022000",
+   "hs6": "830220",
+   "hs6_description": "Castors; with mountings, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Castors",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "830230",
+   "hs6": "830230",
+   "hs6_description": "Mountings, fittings and similar articles; for motor vehicles, of base metal",
    "level": 6,
    "chapter": "83",
    "description": "other mountings, fittings and similar articles suitable for motor vehicles",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "83023010",
+   "hs6": "830230",
+   "hs6_description": "Mountings, fittings and similar articles; for motor vehicles, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Curve drive stakes",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "83023090",
+   "hs6": "830230",
+   "hs6_description": "Mountings, fittings and similar articles; for motor vehicles, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "830241",
+   "hs6": "830241",
+   "hs6_description": "Mountings, fittings and similar articles; of base metal, suitable for buildings",
    "level": 6,
    "chapter": "83",
    "description": "Other mountings, fittings and similar articles : -- Suitable for buildings",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "83024110",
+   "hs6": "830241",
+   "hs6_description": "Mountings, fittings and similar articles; of base metal, suitable for buildings",
    "level": 8,
    "chapter": "83",
    "description": "Other mountings, fittings and similar articles: ----Fittings for doors and windows",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "83024120",
+   "hs6": "830241",
+   "hs6_description": "Mountings, fittings and similar articles; of base metal, suitable for buildings",
    "level": 8,
    "chapter": "83",
    "description": "Other mountings, fittings and similar articles: ----Tower bolts",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "83024190",
+   "hs6": "830241",
+   "hs6_description": "Mountings, fittings and similar articles; of base metal, suitable for buildings",
    "level": 8,
    "chapter": "83",
    "description": "Other mountings, fittings and similar articles: ----Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "83024200",
+   "hs6": "830242",
+   "hs6_description": "Mountings, fittings and similar articles; suitable for furniture of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Other mountings, fittings and similar articles : -- Other, suitable for furniture",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "83024900",
+   "hs6": "830249",
+   "hs6_description": "Mountings, fittings and similar articles; suitable for other than buildings or furniture, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Other mountings, fittings and similar articles : -- Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "83025000",
+   "hs6": "830250",
+   "hs6_description": "Hat-racks, hat-pegs, brackets and similar fixtures, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Hat-racks, hat-pegs, brackets and similar fixtures",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "83026000",
+   "hs6": "830260",
+   "hs6_description": "Automatic door closures; of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Automatic door closers",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "83030000",
+   "hs6": "830300",
+   "hs6_description": "Safes; armoured or reinforced, strong-boxes, doors and safe deposit lockers for strong-rooms, cash or deed boxes and the like, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Armoured or reinforced safes, strong-boxes and doors and safe deposit lockers for strong-rooms, cash or deed boxes and the like, of base metal.",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "83040000",
+   "hs6": "830400",
+   "hs6_description": "Office equipment; filing cabinets, card-index cabinets, paper trays, paper rests, pen trays, office-stamp stands and similar office or desk equipment, of base metal, other than office furniture of heading no. 9403",
    "level": 8,
    "chapter": "83",
    "description": "Filing cabinets, card-index cabinets, paper trays, paper rests, pen trays, office-stamp stands and similar office or desk quipment, of base metal, other than office furniture of heading 94.03.",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "8305",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "83",
    "description": "Fittings for loose-leaf binders or files, letter clips, letter corners, paper clips, indexing tags and similar office articles, of base metal; staples in strips (for example, for offices, upholstery, packaging), of base metal.",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "83051000",
+   "hs6": "830510",
+   "hs6_description": "Stationery; fittings for loose-leaf binders or files, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Fittings for loose-leaf binders or files",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "83052000",
+   "hs6": "830520",
+   "hs6_description": "Stationery; staples in strips, (e.g. for offices, upholstery, packaging), of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Staples in strips",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "830590",
+   "hs6": "830590",
+   "hs6_description": "Stationery; letter clips, letter corners, paper clips, indexing tags and similar office articles, including parts, of base metal",
    "level": 6,
    "chapter": "83",
    "description": "Other, including parts",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "83059010",
+   "hs6": "830590",
+   "hs6_description": "Stationery; letter clips, letter corners, paper clips, indexing tags and similar office articles, including parts, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Pins (other than those of heading 7317)",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "83059020",
+   "hs6": "830590",
+   "hs6_description": "Stationery; letter clips, letter corners, paper clips, indexing tags and similar office articles, including parts, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Clips",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "83059090",
+   "hs6": "830590",
+   "hs6_description": "Stationery; letter clips, letter corners, paper clips, indexing tags and similar office articles, including parts, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "8306",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "83",
    "description": "Bells, gongs and the like, non-electric, of base metal; statuettes and other ornaments, of base metal; photograph, picture or similar frames, of base metal; mirrors of base metal.",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "83061000",
+   "hs6": "830610",
+   "hs6_description": "Bells, gongs and the like; non-electric, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Bells, gongs and the like",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "830621",
+   "hs6": "830621",
+   "hs6_description": "Statuettes and other ornaments; of base metal plated with precious metal",
    "level": 6,
    "chapter": "83",
    "description": "Statuettes and other ornaments : -- Plated with precious metal",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "83062110",
+   "hs6": "830621",
+   "hs6_description": "Statuettes and other ornaments; of base metal plated with precious metal",
    "level": 8,
    "chapter": "83",
    "description": "Statuettes",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "83062120",
+   "hs6": "830621",
+   "hs6_description": "Statuettes and other ornaments; of base metal plated with precious metal",
    "level": 8,
    "chapter": "83",
    "description": "Trophies",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "83062190",
+   "hs6": "830621",
+   "hs6_description": "Statuettes and other ornaments; of base metal plated with precious metal",
    "level": 8,
    "chapter": "83",
    "description": "Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "830629",
+   "hs6": "830629",
+   "hs6_description": "Statuettes and other ornaments; of base metal other than plated with precious metal",
    "level": 6,
    "chapter": "83",
    "description": "Statuettes and other ornaments : -- Other",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "83062910",
+   "hs6": "830629",
+   "hs6_description": "Statuettes and other ornaments; of base metal other than plated with precious metal",
    "level": 8,
    "chapter": "83",
    "description": "Statuettes",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "83062920",
+   "hs6": "830629",
+   "hs6_description": "Statuettes and other ornaments; of base metal other than plated with precious metal",
    "level": 8,
    "chapter": "83",
    "description": "Trophies",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "83062990",
+   "hs6": "830629",
+   "hs6_description": "Statuettes and other ornaments; of base metal other than plated with precious metal",
    "level": 8,
    "chapter": "83",
    "description": "Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "83063000",
+   "hs6": "830630",
+   "hs6_description": "Photograph, picture or similar frames, mirrors; of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Photograph, picture or similar frames; mirrors",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "8307",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "83",
    "description": "Flexible tubing of base metal, with or without fittings.",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "83071000",
+   "hs6": "830710",
+   "hs6_description": "Tubing; flexible, with or without fittings, of iron or steel",
    "level": 8,
    "chapter": "83",
    "description": "Of iron or steel",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "83079000",
+   "hs6": "830790",
+   "hs6_description": "Tubing; flexible, with or without fittings of base metal, other than those of iron or steel",
    "level": 8,
    "chapter": "83",
    "description": "Of other base metal",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "8308",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "83",
    "description": "Clasps, frames with clasps, buckles, buckle-clasps, hooks, eyes, eyelets and the like, of base metal, of a kind used for clothing or clothing accessories, footwear, jewellery, wrist-watches, books, awnings, leather goods, travel goods or saddlery or for other made up articles; tubular or bifurcated rivets, of base metal; beads and spangles, of base metal.",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "830810",
+   "hs6": "830810",
+   "hs6_description": "Hooks, eyes and eyelets; of base metal, of a kind used for clothing, footwear, awnings, handbags, travel goods or other made up articles",
    "level": 6,
    "chapter": "83",
    "description": "Hooks, eyes and eyelets",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "83081010",
+   "hs6": "830810",
+   "hs6_description": "Hooks, eyes and eyelets; of base metal, of a kind used for clothing, footwear, awnings, handbags, travel goods or other made up articles",
    "level": 8,
    "chapter": "83",
    "description": "Hooks and eyes",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "83081021",
+   "hs6": "830810",
+   "hs6_description": "Hooks, eyes and eyelets; of base metal, of a kind used for clothing, footwear, awnings, handbags, travel goods or other made up articles",
    "level": 8,
    "chapter": "83",
    "description": "Eyelets: ----For footwear",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "83081029",
+   "hs6": "830810",
+   "hs6_description": "Hooks, eyes and eyelets; of base metal, of a kind used for clothing, footwear, awnings, handbags, travel goods or other made up articles",
    "level": 8,
    "chapter": "83",
    "description": "Eyelets: ----Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "83082000",
+   "hs6": "830820",
+   "hs6_description": "Rivets; tubular or bifurcated, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Tubular or bifurcated rivets",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "830890",
+   "hs6": "830890",
+   "hs6_description": "Clasps, frames with clasps, buckles, buckle clasps; of base metal, of a kind used for clothing & accessories, footwear, jewellery, wrist-watches, books, awnings, leather goods, travel goods, saddlery etc, including parts",
    "level": 6,
    "chapter": "83",
    "description": "Other, including parts",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "83089011",
+   "hs6": "830890",
+   "hs6_description": "Clasps, frames with clasps, buckles, buckle clasps; of base metal, of a kind used for clothing & accessories, footwear, jewellery, wrist-watches, books, awnings, leather goods, travel goods, saddlery etc, including parts",
    "level": 8,
    "chapter": "83",
    "description": "Buckles: ----For footwear",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "83089019",
+   "hs6": "830890",
+   "hs6_description": "Clasps, frames with clasps, buckles, buckle clasps; of base metal, of a kind used for clothing & accessories, footwear, jewellery, wrist-watches, books, awnings, leather goods, travel goods, saddlery etc, including parts",
    "level": 8,
    "chapter": "83",
    "description": "Buckles: ----Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "83089020",
+   "hs6": "830890",
+   "hs6_description": "Clasps, frames with clasps, buckles, buckle clasps; of base metal, of a kind used for clothing & accessories, footwear, jewellery, wrist-watches, books, awnings, leather goods, travel goods, saddlery etc, including parts",
    "level": 8,
    "chapter": "83",
    "description": "Imitation zari spangles",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "83089031",
+   "hs6": "830890",
+   "hs6_description": "Clasps, frames with clasps, buckles, buckle clasps; of base metal, of a kind used for clothing & accessories, footwear, jewellery, wrist-watches, books, awnings, leather goods, travel goods, saddlery etc, including parts",
    "level": 8,
    "chapter": "83",
    "description": "Beads and spangles of base metal: ----For garments, made ups, knitwear, plastic and leather goods",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "83089039",
+   "hs6": "830890",
+   "hs6_description": "Clasps, frames with clasps, buckles, buckle clasps; of base metal, of a kind used for clothing & accessories, footwear, jewellery, wrist-watches, books, awnings, leather goods, travel goods, saddlery etc, including parts",
    "level": 8,
    "chapter": "83",
    "description": "Beads and spangles of base metal: ----Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "83089040",
+   "hs6": "830890",
+   "hs6_description": "Clasps, frames with clasps, buckles, buckle clasps; of base metal, of a kind used for clothing & accessories, footwear, jewellery, wrist-watches, books, awnings, leather goods, travel goods, saddlery etc, including parts",
    "level": 8,
    "chapter": "83",
    "description": "Beads and spangles of base metal: ----Fittings for travel requisites and leather goods other",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "83089091",
+   "hs6": "830890",
+   "hs6_description": "Clasps, frames with clasps, buckles, buckle clasps; of base metal, of a kind used for clothing & accessories, footwear, jewellery, wrist-watches, books, awnings, leather goods, travel goods, saddlery etc, including parts",
    "level": 8,
    "chapter": "83",
    "description": "For garments, made ups, knitwear, plastic and leather goods",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "83089099",
+   "hs6": "830890",
+   "hs6_description": "Clasps, frames with clasps, buckles, buckle clasps; of base metal, of a kind used for clothing & accessories, footwear, jewellery, wrist-watches, books, awnings, leather goods, travel goods, saddlery etc, including parts",
    "level": 8,
    "chapter": "83",
    "description": "Other",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "8309",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "83",
    "description": "Stoppers, caps and lids (including crown corks, screw caps and pouring stoppers), capsules for bottles, threaded bungs, bung covers, seals and other packing accessories, of base metal.",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "83091000",
+   "hs6": "830910",
+   "hs6_description": "Stoppers; corks, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Crown corks",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "830990",
+   "hs6": "830990",
+   "hs6_description": "Stoppers; caps and lids, of base metal",
    "level": 6,
    "chapter": "83",
    "description": "Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "83099010",
+   "hs6": "830990",
+   "hs6_description": "Stoppers; caps and lids, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Pilfer proof caps for packaging, all sorts, with or without washers or other fittings of cork, rubber, polyethylene or any other material",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "83099020",
+   "hs6": "830990",
+   "hs6_description": "Stoppers; caps and lids, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Aluminium caps, seals, capsules and closers",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "83099030",
+   "hs6": "830990",
+   "hs6_description": "Stoppers; caps and lids, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Other seals",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "83099090",
+   "hs6": "830990",
+   "hs6_description": "Stoppers; caps and lids, of base metal",
    "level": 8,
    "chapter": "83",
    "description": "Other",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "8310",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "83",
    "description": "Sign-plates, name-plates, address-plates and similar plates, numbers, letters and other symbols, of base metal, excluding those of heading 94.05.",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "831000",
+   "hs6": "831000",
+   "hs6_description": "Sign plates, name-plates, address-plates and similar plates, numbers, letters and other symbols; of base metal, excluding those of heading no. 9405",
    "level": 6,
    "chapter": "83",
    "description": "Sign-plates, name-plates, address-plates and similar plates, numbers, letters and other symbols, of base metal, excluding those of heading 9405:",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "83100010",
+   "hs6": "831000",
+   "hs6_description": "Sign plates, name-plates, address-plates and similar plates, numbers, letters and other symbols; of base metal, excluding those of heading no. 9405",
    "level": 8,
    "chapter": "83",
    "description": "Enamel iron signboard",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "83100090",
+   "hs6": "831000",
+   "hs6_description": "Sign plates, name-plates, address-plates and similar plates, numbers, letters and other symbols; of base metal, excluding those of heading no. 9405",
    "level": 8,
    "chapter": "83",
    "description": "Other",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "8311",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "83",
    "description": "Wire, rods, tubes, plates, electrodes and similar products, of base metal or of metal carbides, coated or cored with flux material, of a kind used for soldering, brazing, welding or deposition of metal or of metal carbides; wire and rods, of agglomerated base metal powder, used for metal spraying.",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "83111000",
+   "hs6": "831110",
+   "hs6_description": "Electrodes; coated, of base metal, for electric arc-welding",
    "level": 8,
    "chapter": "83",
    "description": "Coated electrodes of base metal, for electric arc-welding",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "83112000",
+   "hs6": "831120",
+   "hs6_description": "Wire; cored, of base metal, for electric arc-welding",
    "level": 8,
    "chapter": "83",
    "description": "Cored wire of base metal, for electric arc-welding",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "831130",
+   "hs6": "831130",
+   "hs6_description": "Rods and wire; coated rods and cored wire, of base metal, for soldering, brazing or welding by flame",
    "level": 6,
    "chapter": "83",
    "description": "Coated rods and cored wire, of base metal, for soldering, brazing or welding by flame",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "83113010",
+   "hs6": "831130",
+   "hs6_description": "Rods and wire; coated rods and cored wire, of base metal, for soldering, brazing or welding by flame",
    "level": 8,
    "chapter": "83",
    "description": "Wire and rods of agglomerated base metal",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "83113090",
+   "hs6": "831130",
+   "hs6_description": "Rods and wire; coated rods and cored wire, of base metal, for soldering, brazing or welding by flame",
    "level": 8,
    "chapter": "83",
    "description": "Other",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "83119000",
+   "hs6": "831190",
+   "hs6_description": "Wires, rods, tubes, plates, electrodes of base metal or metal carbides; of a kind used for soldering, brazing, welding; wires and rods for metal spraying; n.e.c. in item no. 8311",
    "level": 8,
    "chapter": "83",
    "description": "Other",

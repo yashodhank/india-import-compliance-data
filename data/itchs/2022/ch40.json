@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "4001",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "400110",
+   "hs6": "400110",
+   "hs6_description": "Rubber; natural rubber latex, whether or not pre-vulcanised, in primary forms or in plates, sheets or strip",
    "level": 6,
    "chapter": "40",
    "description": "Natural rubber latex, whether or not pre-vulcanised",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "40011010",
+   "hs6": "400110",
+   "hs6_description": "Rubber; natural rubber latex, whether or not pre-vulcanised, in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Prevulcanised",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "40011020",
+   "hs6": "400110",
+   "hs6_description": "Rubber; natural rubber latex, whether or not pre-vulcanised, in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Other than prevulcanised",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "40012100",
+   "hs6": "400121",
+   "hs6_description": "Rubber; natural (excluding latex), in smoked sheets",
    "level": 8,
    "chapter": "40",
    "description": "Natural rubber in other forms : -- Smoked sheets",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "40012200",
+   "hs6": "400122",
+   "hs6_description": "Rubber; technically specified natural rubber (TSNR), in primary forms or in plates, sheets or strip (excluding latex and smoked sheets)",
    "level": 8,
    "chapter": "40",
    "description": "Natural rubber in other forms : -- Technically specified natural rubber (TSNR)",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "400129",
+   "hs6": "400129",
+   "hs6_description": "Rubber; natural (excluding latex, technically specified natural rubber and smoked sheets), in primary forms or in plates, sheets or strip",
    "level": 6,
    "chapter": "40",
    "description": "Natural rubber in other forms : -- Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "40012910",
+   "hs6": "400129",
+   "hs6_description": "Rubber; natural (excluding latex, technically specified natural rubber and smoked sheets), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Hevea",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "40012920",
+   "hs6": "400129",
+   "hs6_description": "Rubber; natural (excluding latex, technically specified natural rubber and smoked sheets), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Pale Crepe",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "40012930",
+   "hs6": "400129",
+   "hs6_description": "Rubber; natural (excluding latex, technically specified natural rubber and smoked sheets), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Estate Brown Crepe",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "40012940",
+   "hs6": "400129",
+   "hs6_description": "Rubber; natural (excluding latex, technically specified natural rubber and smoked sheets), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Oil extended natural rubber",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "40012990",
+   "hs6": "400129",
+   "hs6_description": "Rubber; natural (excluding latex, technically specified natural rubber and smoked sheets), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "40013000",
+   "hs6": "400130",
+   "hs6_description": "Balata, gutta-percha, guayule, chicle and similar natural gums; in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Balata, gutta-percha, guayule, chicle and similar natural gums",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "4002",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; mixtures of any product of heading 40.01 with any product of this heading, in primary forms or in plates, sheets or strip.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "40021100",
+   "hs6": "400211",
+   "hs6_description": "Rubber; synthetic, styrene-butadiene rubber (SBR) and carboxylated styrene-butadiene rubber (XSBR) latex, in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Styrene-butadiene rubber (SBR); carboxylated styrene-butadiene rubber (XSBR) : -- Latex",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "400219",
+   "hs6": "400219",
+   "hs6_description": "Rubber; synthetic, styrene-butadiene rubber (SBR) and carboxylated styrene-butadiene rubber (XSBR), (other than latex), in primary forms or in plates, sheets or strip",
    "level": 6,
    "chapter": "40",
    "description": "Styrene-butadiene rubber (SBR); carboxylated styrene-butadiene rubber (XSBR) : -- Other",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "40021910",
+   "hs6": "400219",
+   "hs6_description": "Rubber; synthetic, styrene-butadiene rubber (SBR) and carboxylated styrene-butadiene rubber (XSBR), (other than latex), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Oil extended styrene butadiene rubber",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "40021920",
+   "hs6": "400219",
+   "hs6_description": "Rubber; synthetic, styrene-butadiene rubber (SBR) and carboxylated styrene-butadiene rubber (XSBR), (other than latex), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Styrene butadiene rubber with styrene content exceeding 50percent",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "40021930",
+   "hs6": "400219",
+   "hs6_description": "Rubber; synthetic, styrene-butadiene rubber (SBR) and carboxylated styrene-butadiene rubber (XSBR), (other than latex), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Styrene butadiene styrene oil bound copolymer",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "40021990",
+   "hs6": "400219",
+   "hs6_description": "Rubber; synthetic, styrene-butadiene rubber (SBR) and carboxylated styrene-butadiene rubber (XSBR), (other than latex), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "40022000",
+   "hs6": "400220",
+   "hs6_description": "Rubber; synthetic, butadiene rubber (BR), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Butadiene rubber (BR)",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "40023100",
+   "hs6": "400231",
+   "hs6_description": "Rubber; synthetic, isobutene-isoprene (butyl) rubber (IIR), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Isobutene-isoprene (butyl) rubber (IIR); halo-isobutene-isoprene rubber (CIIR or BIIR) : -- Isobutene-isoprene (butyl) rubber (IIR)",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "40023900",
+   "hs6": "400239",
+   "hs6_description": "Rubber; synthetic, halo-isobutene-isoprene rubber (CIIR or BIIR), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Isobutene-isoprene (butyl) rubber (IIR); halo-isobutene-isoprene rubber (CIIR or BIIR) : -- Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "40024100",
+   "hs6": "400241",
+   "hs6_description": "Rubber; synthetic, chloroprene (chlorobutadiene) rubber (CR), latex, in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Chloroprene (chlorobutadiene) rubber (CR) : -- Latex",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "40024900",
+   "hs6": "400249",
+   "hs6_description": "Rubber; synthetic, chloroprene (chlorobutadiene) rubber (CR), (other than latex), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Chloroprene (chlorobutadiene) rubber (CR) : -- Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "40025100",
+   "hs6": "400251",
+   "hs6_description": "Rubber; synthetic, acrylonitrile-butadiene rubber (NBR), latex, in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Acrylonitrile-butadiene rubber (NBR) : -- Latex",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "40025900",
+   "hs6": "400259",
+   "hs6_description": "Rubber; synthetic, acrylonitrile-butadiene rubber (NBR), (other than latex), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Acrylonitrile-butadiene rubber (NBR) : -- Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "40026000",
+   "hs6": "400260",
+   "hs6_description": "Rubber; synthetic, isoprene rubber (IR), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Isoprene rubber (IR)",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "40027000",
+   "hs6": "400270",
+   "hs6_description": "Rubber; synthetic, ethylene-propylene-non-conjugated diene rubber (EPDM), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Ethylene-propylene-non-conjugated diene rubber (EPDM)",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "400280",
+   "hs6": "400280",
+   "hs6_description": "Rubber; mixtures of natural and synthetic rubbers of heading no. 4001 and 4002, in primary forms or in plates, sheets or strip",
    "level": 6,
    "chapter": "40",
    "description": "Mixtures of any product of heading 40.01 with any product of this heading",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "40028010",
+   "hs6": "400280",
+   "hs6_description": "Rubber; mixtures of natural and synthetic rubbers of heading no. 4001 and 4002, in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Latex",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "40028020",
+   "hs6": "400280",
+   "hs6_description": "Rubber; mixtures of natural and synthetic rubbers of heading no. 4001 and 4002, in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Chemically modified form of natural rubber including graft rubber",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "40028090",
+   "hs6": "400280",
+   "hs6_description": "Rubber; mixtures of natural and synthetic rubbers of heading no. 4001 and 4002, in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "40029100",
+   "hs6": "400291",
+   "hs6_description": "Rubber; synthetic, n.e.c. in heading 4002, latex, in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Other : -- Latex",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "400299",
+   "hs6": "400299",
+   "hs6_description": "Rubber; synthetic, n.e.c. in heading 4002, (other than latex), in primary forms or in plates, sheets or strip",
    "level": 6,
    "chapter": "40",
    "description": "Other : -- Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "40029910",
+   "hs6": "400299",
+   "hs6_description": "Rubber; synthetic, n.e.c. in heading 4002, (other than latex), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Factice (rubber substitute derived from oil)",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "40029920",
+   "hs6": "400299",
+   "hs6_description": "Rubber; synthetic, n.e.c. in heading 4002, (other than latex), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Tread rubber compound, cushion compound, cushion gum and tread gum for resoling or repairing or retreading rubber tyres",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "40029990",
+   "hs6": "400299",
+   "hs6_description": "Rubber; synthetic, n.e.c. in heading 4002, (other than latex), in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "40030000",
+   "hs6": "400300",
+   "hs6_description": "Rubber; reclaimed rubber, in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Reclaimed rubber in primary forms or in plates, sheets or strip.",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "40040000",
+   "hs6": "400400",
+   "hs6_description": "Rubber; waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtained therefrom",
    "level": 8,
    "chapter": "40",
    "description": "Waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtained therefrom.",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "4005",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Compounded rubber, unvulcanised, in primary forms or in plates, sheets or strip.",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "40051000",
+   "hs6": "400510",
+   "hs6_description": "Rubber; unvulcanised, compounded with carbon black or silica, in primary forms or in plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Compounded with carbon black or silica",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "400520",
+   "hs6": "400520",
+   "hs6_description": "Rubber; unvulcanised, compounded, solutions and dispersions other than those of item no. 4005.10",
    "level": 6,
    "chapter": "40",
    "description": "Solutions; dispersions other than those of subheading 4005.10",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "40052010",
+   "hs6": "400520",
+   "hs6_description": "Rubber; unvulcanised, compounded, solutions and dispersions other than those of item no. 4005.10",
    "level": 8,
    "chapter": "40",
    "description": "Can sealing compound",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "40052090",
+   "hs6": "400520",
+   "hs6_description": "Rubber; unvulcanised, compounded, solutions and dispersions other than those of item no. 4005.10",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "400591",
+   "hs6": "400591",
+   "hs6_description": "Rubber; unvulcanised, (compounded other than with carbon black or silica), in plates, sheets and strip",
    "level": 6,
    "chapter": "40",
    "description": "Other : -- Plates, sheets and strip",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "40059110",
+   "hs6": "400591",
+   "hs6_description": "Rubber; unvulcanised, (compounded other than with carbon black or silica), in plates, sheets and strip",
    "level": 8,
    "chapter": "40",
    "description": "Hospital Sheeting",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "40059190",
+   "hs6": "400591",
+   "hs6_description": "Rubber; unvulcanised, (compounded other than with carbon black or silica), in plates, sheets and strip",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "400599",
+   "hs6": "400599",
+   "hs6_description": "Rubber; unvulcanised, (compounded other than with carbon black or silica), in primary forms, (other than plates, sheets, strip, solutions or dispersions)",
    "level": 6,
    "chapter": "40",
    "description": "Other : -- Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "40059910",
+   "hs6": "400599",
+   "hs6_description": "Rubber; unvulcanised, (compounded other than with carbon black or silica), in primary forms, (other than plates, sheets, strip, solutions or dispersions)",
    "level": 8,
    "chapter": "40",
    "description": "Granules of unvulcanised natural or synthetic rubber, compounded, ready for vulcanisation",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "40059990",
+   "hs6": "400599",
+   "hs6_description": "Rubber; unvulcanised, (compounded other than with carbon black or silica), in primary forms, (other than plates, sheets, strip, solutions or dispersions)",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "4006",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Other forms (for example, rods, tubes and profile shapes) and articles (for example, discs and rings), of unvulcanised rubber.",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "40061000",
+   "hs6": "400610",
+   "hs6_description": "Rubber; unvulcanised, camel-back strips for retreading rubber tyres",
    "level": 8,
    "chapter": "40",
    "description": "Camel-back strips for retreading rubber tyres",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "400690",
+   "hs6": "400690",
+   "hs6_description": "Rubber; unvulcanised, other than camel back strips for retreading rubber tyres",
    "level": 6,
    "chapter": "40",
    "description": "Other",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "40069010",
+   "hs6": "400690",
+   "hs6_description": "Rubber; unvulcanised, other than camel back strips for retreading rubber tyres",
    "level": 8,
    "chapter": "40",
    "description": "Thread, not covered",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "40069090",
+   "hs6": "400690",
+   "hs6_description": "Rubber; unvulcanised, other than camel back strips for retreading rubber tyres",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "4007",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Vulcanised rubber thread and cord.",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "400700",
+   "hs6": "400700",
+   "hs6_description": "Rubber; vulcanised, thread and cord",
    "level": 6,
    "chapter": "40",
    "description": "Vulcanised rubber thread and cord:",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "40070010",
+   "hs6": "400700",
+   "hs6_description": "Rubber; vulcanised, thread and cord",
    "level": 8,
    "chapter": "40",
    "description": "Thread, not covered",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "40070020",
+   "hs6": "400700",
+   "hs6_description": "Rubber; vulcanised, thread and cord",
    "level": 8,
    "chapter": "40",
    "description": "Cord, not covered",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "40070090",
+   "hs6": "400700",
+   "hs6_description": "Rubber; vulcanised, thread and cord",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "4008",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Plates, sheets, strip, rods and profile shapes, of vulcanised rubber other than hard rubber.",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "400811",
+   "hs6": "400811",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), in plates, sheets and strip of cellular rubber",
    "level": 6,
    "chapter": "40",
    "description": "Of cellular rubber : -- Plates, sheets and strip",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "40081110",
+   "hs6": "400811",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), in plates, sheets and strip of cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Of micro-cellular rubber",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "40081190",
+   "hs6": "400811",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), in plates, sheets and strip of cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "400819",
+   "hs6": "400819",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), cellular rubber, (other than in plates, sheets or strip)",
    "level": 6,
    "chapter": "40",
    "description": "Of cellular rubber : -- Other",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "40081910",
+   "hs6": "400819",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), cellular rubber, (other than in plates, sheets or strip)",
    "level": 8,
    "chapter": "40",
    "description": "Block of micro-cellular rubber but not of latex foam sponge, used in the manufacture of soles, heels or soles and heels combined, for footwear",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "40081990",
+   "hs6": "400819",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), cellular rubber, (other than in plates, sheets or strip)",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "400821",
+   "hs6": "400821",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), in plates, sheets and strip, of non-cellular rubber",
    "level": 6,
    "chapter": "40",
    "description": "Of non-cellular rubber : -- Plates, sheets and strip",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "40082110",
+   "hs6": "400821",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), in plates, sheets and strip, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Used in the manufacture of soles, heels, or soles and heels combined, for footwear",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "40082120",
+   "hs6": "400821",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), in plates, sheets and strip, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "For resoling or repairing or retreading rubber typres",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "40082190",
+   "hs6": "400821",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), in plates, sheets and strip, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "400829",
+   "hs6": "400829",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), non-cellular rubber, in forms other than plates, sheets or strip",
    "level": 6,
    "chapter": "40",
    "description": "Of non-cellular rubber : -- Other",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "40082910",
+   "hs6": "400829",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), non-cellular rubber, in forms other than plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Rubber sheets and Resin rubber sheets for soles and heels",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "40082920",
+   "hs6": "400829",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), non-cellular rubber, in forms other than plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Blocks used in the manufacture of soles , heels or soles and heels combined, for footwear",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "40082930",
+   "hs6": "400829",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), non-cellular rubber, in forms other than plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Latex foam sponge",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "40082940",
+   "hs6": "400829",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), non-cellular rubber, in forms other than plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Tread rubber and tread packing strip for resoling are repairing or retreading rubber tyres",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "40082990",
+   "hs6": "400829",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), non-cellular rubber, in forms other than plates, sheets or strip",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "4009",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Tubes, pipes and hoses, of vulcanised rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges).",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "40091100",
+   "hs6": "400911",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), tubing, piping and hoses, not reinforced or otherwise combined with other materials, without fittings",
    "level": 8,
    "chapter": "40",
    "description": "Not reinforced or otherwise combined with other materials : -- Without fittings",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "40091200",
+   "hs6": "400912",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), tubing, piping and hoses, not reinforced or otherwise combined with other materials, with fittings",
    "level": 8,
    "chapter": "40",
    "description": "Not reinforced or otherwise combined with other materials : -- With fittings",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "40092100",
+   "hs6": "400921",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), tubing, piping and hoses, reinforced or otherwise combined only with metal, without fittings",
    "level": 8,
    "chapter": "40",
    "description": "Reinforced or otherwise combined only with metal : -- Without fittings",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "40092200",
+   "hs6": "400922",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), tubing, piping and hoses, reinforced or otherwise combined only with metal, with fittings",
    "level": 8,
    "chapter": "40",
    "description": "Reinforced or otherwise combined only with metal : -- With fittings",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "40093100",
+   "hs6": "400931",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), tubing, piping and hoses, reinforced or otherwise combined only with textile materials, without fittings",
    "level": 8,
    "chapter": "40",
    "description": "Reinforced or otherwise combined only with textile materials : -- Without fittings",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "40093200",
+   "hs6": "400932",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), tubing, piping and hoses, reinforced or otherwise combined only with textile materials, with fittings",
    "level": 8,
    "chapter": "40",
    "description": "Reinforced or otherwise combined only with textile materials : -- With fittings",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "40094100",
+   "hs6": "400941",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), tubing, piping and hoses, reinforced or otherwise combined with materials other than metal or textiles, without fittings",
    "level": 8,
    "chapter": "40",
    "description": "Reinforced or otherwise combined with other materials : -- Without fittings",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "40094200",
+   "hs6": "400942",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), tubing, piping and hoses, reinforced or otherwise combined with materials other than metal or textiles, with fittings",
    "level": 8,
    "chapter": "40",
    "description": "Reinforced or otherwise combined with other materials : -- With fittings",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "4010",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Conveyor or transmission belts or belting, of vulcanised rubber.",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "401011",
+   "hs6": "401011",
+   "hs6_description": "Rubber; vulcanised, conveyor belts or belting, reinforced only with metal",
    "level": 6,
    "chapter": "40",
    "description": "Conveyor belts or belting : -- Reinforced only with metal",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "40101110",
+   "hs6": "401011",
+   "hs6_description": "Rubber; vulcanised, conveyor belts or belting, reinforced only with metal",
    "level": 8,
    "chapter": "40",
    "description": "Where the rubber compound content is less than 25percent by weight",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "40101190",
+   "hs6": "401011",
+   "hs6_description": "Rubber; vulcanised, conveyor belts or belting, reinforced only with metal",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "401012",
+   "hs6": "401012",
+   "hs6_description": "Rubber; vulcanised, conveyor belts or belting, reinforced only with textile materials",
    "level": 6,
    "chapter": "40",
    "description": "Conveyor belts or belting : -- Reinforced only with textile materials",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "40101210",
+   "hs6": "401012",
+   "hs6_description": "Rubber; vulcanised, conveyor belts or belting, reinforced only with textile materials",
    "level": 8,
    "chapter": "40",
    "description": "Where the rubber compound content is less than 25percent by weight",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "40101290",
+   "hs6": "401012",
+   "hs6_description": "Rubber; vulcanised, conveyor belts or belting, reinforced only with textile materials",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "401019",
+   "hs6": "401019",
+   "hs6_description": "Rubber; vulcanised, conveyor belts or belting, (reinforced with other than metal only or textile materials only)",
    "level": 6,
    "chapter": "40",
    "description": "Conveyor belts or belting : -- Other",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "40101910",
+   "hs6": "401019",
+   "hs6_description": "Rubber; vulcanised, conveyor belts or belting, (reinforced with other than metal only or textile materials only)",
    "level": 8,
    "chapter": "40",
    "description": "Where the rubber compound content is less than 25percent by weight",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "40101990",
+   "hs6": "401019",
+   "hs6_description": "Rubber; vulcanised, conveyor belts or belting, (reinforced with other than metal only or textile materials only)",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "401031",
+   "hs6": "401031",
+   "hs6_description": "Rubber; vulcanised, endless transmission belts of trapezoidal cross-section (V-belts), V-ribbed, of an outside circumference exceeding 60cm but not exceeding 180 cm",
    "level": 6,
    "chapter": "40",
    "description": "Transmission belts or belting : --Endless transmission belts of trapezoidal cross-section (V-belts), V-ribbed, of an outside circumference exceeding 60 cm but not exceeding 180 cm",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "40103110",
+   "hs6": "401031",
+   "hs6_description": "Rubber; vulcanised, endless transmission belts of trapezoidal cross-section (V-belts), V-ribbed, of an outside circumference exceeding 60cm but not exceeding 180 cm",
    "level": 8,
    "chapter": "40",
    "description": "Where the rubber compound content is less than 25percent by weight",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "40103190",
+   "hs6": "401031",
+   "hs6_description": "Rubber; vulcanised, endless transmission belts of trapezoidal cross-section (V-belts), V-ribbed, of an outside circumference exceeding 60cm but not exceeding 180 cm",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "401032",
+   "hs6": "401032",
+   "hs6_description": "Rubber; vulcanised, endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference exceeding 60cm but not exceeding 180 cm",
    "level": 6,
    "chapter": "40",
    "description": "Transmission belts or belting : -- Endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference exceeding 60 cm but not exceeding 180 cm",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "40103210",
+   "hs6": "401032",
+   "hs6_description": "Rubber; vulcanised, endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference exceeding 60cm but not exceeding 180 cm",
    "level": 8,
    "chapter": "40",
    "description": "Where the rubber compound content is less than 25percent by weight",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "40103290",
+   "hs6": "401032",
+   "hs6_description": "Rubber; vulcanised, endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference exceeding 60cm but not exceeding 180 cm",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "401033",
+   "hs6": "401033",
+   "hs6_description": "Rubber; vulcanised, endless transmission belts of trapezoidal cross-section (V-belts), V-ribbed, of an outside circumference exceeding 180cm but not exceeding 240 cm",
    "level": 6,
    "chapter": "40",
    "description": "Transmission belts or belting : -- Endless transmission belts of trapezoidal cross-section (V-belts), V-ribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "40103310",
+   "hs6": "401033",
+   "hs6_description": "Rubber; vulcanised, endless transmission belts of trapezoidal cross-section (V-belts), V-ribbed, of an outside circumference exceeding 180cm but not exceeding 240 cm",
    "level": 8,
    "chapter": "40",
    "description": "Where the rubber compound content is less than 25percent by weight",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "40103390",
+   "hs6": "401033",
+   "hs6_description": "Rubber; vulcanised, endless transmission belts of trapezoidal cross-section (V-belts), V-ribbed, of an outside circumference exceeding 180cm but not exceeding 240 cm",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "401034",
+   "hs6": "401034",
+   "hs6_description": "Rubber; vulcanised, endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference exceeding 180cm but not exceeding 240 cm",
    "level": 6,
    "chapter": "40",
    "description": "Transmission belts or belting : -- Endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "40103410",
+   "hs6": "401034",
+   "hs6_description": "Rubber; vulcanised, endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference exceeding 180cm but not exceeding 240 cm",
    "level": 8,
    "chapter": "40",
    "description": "Where the rubber compound content is less than 25percent by weight",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "40103490",
+   "hs6": "401034",
+   "hs6_description": "Rubber; vulcanised, endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference exceeding 180cm but not exceeding 240 cm",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "401035",
+   "hs6": "401035",
+   "hs6_description": "Rubber; vulcanised, endless synchronous belts, of an outside circumference exceeding 60 cm but not exceeding 150 cm",
    "level": 6,
    "chapter": "40",
    "description": "Transmission belts or belting : -- Endless synchronous belts, of an outside circumference exceeding 60 cm but not exceeding 150 cm",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "40103510",
+   "hs6": "401035",
+   "hs6_description": "Rubber; vulcanised, endless synchronous belts, of an outside circumference exceeding 60 cm but not exceeding 150 cm",
    "level": 8,
    "chapter": "40",
    "description": "Where the rubber compound content is less than 25percent by weight",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "40103590",
+   "hs6": "401035",
+   "hs6_description": "Rubber; vulcanised, endless synchronous belts, of an outside circumference exceeding 60 cm but not exceeding 150 cm",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "401036",
+   "hs6": "401036",
+   "hs6_description": "Rubber; vulcanised, endless synchronous belts, of an outside circumference exceeding 150 cm but not exceeding 198 cm",
    "level": 6,
    "chapter": "40",
    "description": "Transmission belts or belting : -- Endless synchronous belts, of an outside circumference exceeding 150 cm but not exceeding 198 cm",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "40103610",
+   "hs6": "401036",
+   "hs6_description": "Rubber; vulcanised, endless synchronous belts, of an outside circumference exceeding 150 cm but not exceeding 198 cm",
    "level": 8,
    "chapter": "40",
    "description": "Where the rubber compound content is less than 25percent by weight",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "40103690",
+   "hs6": "401036",
+   "hs6_description": "Rubber; vulcanised, endless synchronous belts, of an outside circumference exceeding 150 cm but not exceeding 198 cm",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "401039",
+   "hs6": "401039",
+   "hs6_description": "Rubber; vulcanised, conveyor or transmission belts or belting, n.e.c. in heading no. 4010",
    "level": 6,
    "chapter": "40",
    "description": "Transmission belts or belting : --Other",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "40103911",
+   "hs6": "401039",
+   "hs6_description": "Rubber; vulcanised, conveyor or transmission belts or belting, n.e.c. in heading no. 4010",
    "level": 8,
    "chapter": "40",
    "description": "Endless flat belt",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "40103912",
+   "hs6": "401039",
+   "hs6_description": "Rubber; vulcanised, conveyor or transmission belts or belting, n.e.c. in heading no. 4010",
    "level": 8,
    "chapter": "40",
    "description": "Ply belting",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "40103919",
+   "hs6": "401039",
+   "hs6_description": "Rubber; vulcanised, conveyor or transmission belts or belting, n.e.c. in heading no. 4010",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "40103991",
+   "hs6": "401039",
+   "hs6_description": "Rubber; vulcanised, conveyor or transmission belts or belting, n.e.c. in heading no. 4010",
    "level": 8,
    "chapter": "40",
    "description": "Other: ---- Endless flat belt",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "40103992",
+   "hs6": "401039",
+   "hs6_description": "Rubber; vulcanised, conveyor or transmission belts or belting, n.e.c. in heading no. 4010",
    "level": 8,
    "chapter": "40",
    "description": "Other: ---- Ply belting",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "40103999",
+   "hs6": "401039",
+   "hs6_description": "Rubber; vulcanised, conveyor or transmission belts or belting, n.e.c. in heading no. 4010",
    "level": 8,
    "chapter": "40",
    "description": "Other: ---- Other",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "4011",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "New pneumatic tyres, of rubber.",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "401110",
+   "hs6": "401110",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on motor cars (including station wagons and racing cars)",
    "level": 6,
    "chapter": "40",
    "description": "Of a kind used on motor cars (including station wagons and racing cars)",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "40111010",
+   "hs6": "401110",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on motor cars (including station wagons and racing cars)",
    "level": 8,
    "chapter": "40",
    "description": "Radials",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "40111090",
+   "hs6": "401110",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on motor cars (including station wagons and racing cars)",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "401120",
+   "hs6": "401120",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on buses or lorries",
    "level": 6,
    "chapter": "40",
    "description": "Of a kind used on buses or lorries",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "40112010",
+   "hs6": "401120",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on buses or lorries",
    "level": 8,
    "chapter": "40",
    "description": "Radials",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "40112090",
+   "hs6": "401120",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on buses or lorries",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "40113000",
+   "hs6": "401130",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on aircraft",
    "level": 8,
    "chapter": "40",
    "description": "Of a kind used on aircraft",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "401140",
+   "hs6": "401140",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on motorcycles",
    "level": 6,
    "chapter": "40",
    "description": "Of a kind used on motorcycles",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "40114010",
+   "hs6": "401140",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on motorcycles",
    "level": 8,
    "chapter": "40",
    "description": "For motor cycles",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "40114020",
+   "hs6": "401140",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on motorcycles",
    "level": 8,
    "chapter": "40",
    "description": "For motor scooters",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "40114090",
+   "hs6": "401140",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on motorcycles",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "401150",
+   "hs6": "401150",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on bicycles",
    "level": 6,
    "chapter": "40",
    "description": "Of a kind used on bicycles",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "40115010",
+   "hs6": "401150",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on bicycles",
    "level": 8,
    "chapter": "40",
    "description": "Multi-cellular polyurethane (MCP) tubeless tyre",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "40115090",
+   "hs6": "401150",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on bicycles",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "40117000",
+   "hs6": "401170",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on agricultural or forestry vehicles and machines",
    "level": 8,
    "chapter": "40",
    "description": "Of a kind used on agricultural or forestry vehicles and machines",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "40118000",
+   "hs6": "401180",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on construction, mining or industrial handling vehicles and machines",
    "level": 8,
    "chapter": "40",
    "description": "of a kind used on construction, mining or industrial handling vehicles and machines",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "40119000",
+   "hs6": "401190",
+   "hs6_description": "Rubber; new pneumatic tyres, of a kind used on light commercial vehicles",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "4012",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber.",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "40121100",
+   "hs6": "401211",
+   "hs6_description": "Retreaded tyres; of a kind used on motor cars (including station wagons and racing cars)",
    "level": 8,
    "chapter": "40",
    "description": "Retreaded tyres : -- Of a kind used on motor cars (including station wagons and",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "40121200",
+   "hs6": "401212",
+   "hs6_description": "Retreaded tyres; of a kind used on motor buses or lorries",
    "level": 8,
    "chapter": "40",
    "description": "Retreaded tyres : -- Of a kind used on buses or lorries",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "40121300",
+   "hs6": "401213",
+   "hs6_description": "Retreaded tyres; of a kind used on aircraft",
    "level": 8,
    "chapter": "40",
    "description": "Retreaded tyres : -- Of a kind used on aircraft",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "401219",
+   "hs6": "401219",
+   "hs6_description": "Retreaded tyres; other than of a kind used on motor cars (including station wagons and racing cars), buses and lorries and aircraft",
    "level": 6,
    "chapter": "40",
    "description": "Retreaded tyres : -- Other",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "40121910",
+   "hs6": "401219",
+   "hs6_description": "Retreaded tyres; other than of a kind used on motor cars (including station wagons and racing cars), buses and lorries and aircraft",
    "level": 8,
    "chapter": "40",
    "description": "For two wheelers",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "40121990",
+   "hs6": "401219",
+   "hs6_description": "Retreaded tyres; other than of a kind used on motor cars (including station wagons and racing cars), buses and lorries and aircraft",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "401220",
+   "hs6": "401220",
+   "hs6_description": "Rubber; used pneumatic tyres",
    "level": 6,
    "chapter": "40",
    "description": "Used pneumatic tyres",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "40122010",
+   "hs6": "401220",
+   "hs6_description": "Rubber; used pneumatic tyres",
    "level": 8,
    "chapter": "40",
    "description": "For buses, lorries and earth moving equipment including light commercial vehicles",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "40122020",
+   "hs6": "401220",
+   "hs6_description": "Rubber; used pneumatic tyres",
    "level": 8,
    "chapter": "40",
    "description": "For passenger automobile vehicles, including two wheelers, three wheelers and personal type vehicles",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "40122090",
+   "hs6": "401220",
+   "hs6_description": "Rubber; used pneumatic tyres",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "401290",
+   "hs6": "401290",
+   "hs6_description": "Rubber; tyres n.e.c. in heading no. 4012",
    "level": 6,
    "chapter": "40",
    "description": "Other",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "40129010",
+   "hs6": "401290",
+   "hs6_description": "Rubber; tyres n.e.c. in heading no. 4012",
    "level": 8,
    "chapter": "40",
    "description": "Solid rubber tyres for motor vehicles",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "40129020",
+   "hs6": "401290",
+   "hs6_description": "Rubber; tyres n.e.c. in heading no. 4012",
    "level": 8,
    "chapter": "40",
    "description": "Solid Rubber tyres for other vehicles",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "40129030",
+   "hs6": "401290",
+   "hs6_description": "Rubber; tyres n.e.c. in heading no. 4012",
    "level": 8,
    "chapter": "40",
    "description": "Tyres with metal framework",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "40129041",
+   "hs6": "401290",
+   "hs6_description": "Rubber; tyres n.e.c. in heading no. 4012",
    "level": 8,
    "chapter": "40",
    "description": "Tyre flaps: ---- Of a kind used in two-wheeled and three- wheeled motor vehicles",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "40129049",
+   "hs6": "401290",
+   "hs6_description": "Rubber; tyres n.e.c. in heading no. 4012",
    "level": 8,
    "chapter": "40",
    "description": "Tyre flaps: ---- Other",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "40129050",
+   "hs6": "401290",
+   "hs6_description": "Rubber; tyres n.e.c. in heading no. 4012",
    "level": 8,
    "chapter": "40",
    "description": "Tyre flaps: ---- Tyre treads, interchangeable",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "40129090",
+   "hs6": "401290",
+   "hs6_description": "Rubber; tyres n.e.c. in heading no. 4012",
    "level": 8,
    "chapter": "40",
    "description": "Tyre flaps: ---- Other",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "4013",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Inner tubes, of rubber.",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "401310",
+   "hs6": "401310",
+   "hs6_description": "Rubber; inner tubes, of a kind used on motorcars (including station wagons and racing cars), buses and lorries",
    "level": 6,
    "chapter": "40",
    "description": "of a kind used on motor cars (including station wagons and racing cars), buses or lorries",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "40131010",
+   "hs6": "401310",
+   "hs6_description": "Rubber; inner tubes, of a kind used on motorcars (including station wagons and racing cars), buses and lorries",
    "level": 8,
    "chapter": "40",
    "description": "For motor car",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "40131020",
+   "hs6": "401310",
+   "hs6_description": "Rubber; inner tubes, of a kind used on motorcars (including station wagons and racing cars), buses and lorries",
    "level": 8,
    "chapter": "40",
    "description": "For Lorries and buses",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "40132000",
+   "hs6": "401320",
+   "hs6_description": "Rubber; inner tubes, of a kind used on bicycles",
    "level": 8,
    "chapter": "40",
    "description": "Of a kind used on bicycles",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "401390",
+   "hs6": "401390",
+   "hs6_description": "Rubber; inner tubes, n.e.c. in heading no. 4013",
    "level": 6,
    "chapter": "40",
    "description": "Other",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "40139010",
+   "hs6": "401390",
+   "hs6_description": "Rubber; inner tubes, n.e.c. in heading no. 4013",
    "level": 8,
    "chapter": "40",
    "description": "For aircraft",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "40139020",
+   "hs6": "401390",
+   "hs6_description": "Rubber; inner tubes, n.e.c. in heading no. 4013",
    "level": 8,
    "chapter": "40",
    "description": "For motor cycle",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "40139030",
+   "hs6": "401390",
+   "hs6_description": "Rubber; inner tubes, n.e.c. in heading no. 4013",
    "level": 8,
    "chapter": "40",
    "description": "For off the road vehicles, not elsewhere specified or included",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "40139041",
+   "hs6": "401390",
+   "hs6_description": "Rubber; inner tubes, n.e.c. in heading no. 4013",
    "level": 8,
    "chapter": "40",
    "description": "For tractors: ---- Rear tyres",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "40139049",
+   "hs6": "401390",
+   "hs6_description": "Rubber; inner tubes, n.e.c. in heading no. 4013",
    "level": 8,
    "chapter": "40",
    "description": "For tractors: ---- Other",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "40139050",
+   "hs6": "401390",
+   "hs6_description": "Rubber; inner tubes, n.e.c. in heading no. 4013",
    "level": 8,
    "chapter": "40",
    "description": "For tractors: ---- Of a kind used in tyres of cycle rickshaws and three-wheeled powered cycle-rickshaws",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "40139090",
+   "hs6": "401390",
+   "hs6_description": "Rubber; inner tubes, n.e.c. in heading no. 4013",
    "level": 8,
    "chapter": "40",
    "description": "For tractors: ---- Other",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "4014",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Hygienic or pharmaceutical articles (including teats), of vulcanised rubber other than hard rubber, with or without fittings of hard rubber.",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "401410",
+   "hs6": "401410",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), sheath contraceptives",
    "level": 6,
    "chapter": "40",
    "description": "Sheath contraceptives",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "40141010",
+   "hs6": "401410",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), sheath contraceptives",
    "level": 8,
    "chapter": "40",
    "description": "Rubber contraceptives, male (condoms)",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "40141020",
+   "hs6": "401410",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), sheath contraceptives",
    "level": 8,
    "chapter": "40",
    "description": "Rubber contraceptives, female (diaphragms), such as cervical caps",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "401490",
+   "hs6": "401490",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), hygienic or pharmaceutical articles (excluding sheath contraceptives), with or without fittings of hard rubber",
    "level": 6,
    "chapter": "40",
    "description": "Other",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "40149010",
+   "hs6": "401490",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), hygienic or pharmaceutical articles (excluding sheath contraceptives), with or without fittings of hard rubber",
    "level": 8,
    "chapter": "40",
    "description": "Hot water bottles",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "40149020",
+   "hs6": "401490",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), hygienic or pharmaceutical articles (excluding sheath contraceptives), with or without fittings of hard rubber",
    "level": 8,
    "chapter": "40",
    "description": "Ice bags",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "40149030",
+   "hs6": "401490",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), hygienic or pharmaceutical articles (excluding sheath contraceptives), with or without fittings of hard rubber",
    "level": 8,
    "chapter": "40",
    "description": "Feeding bottle nipples",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "40149090",
+   "hs6": "401490",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), hygienic or pharmaceutical articles (excluding sheath contraceptives), with or without fittings of hard rubber",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "4015",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanised rubber other than hard rubber.",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "40151200",
+   "hs6": "401512",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), gloves, of a kind used for medical, surgical, dental or veterinary purposes",
    "level": 8,
    "chapter": "40",
    "description": "Of a kind used for medical, surgical, dental or veterinary purposes",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "40151900",
+   "hs6": "401519",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), gloves, mittens and mitts other than surgical gloves",
    "level": 8,
    "chapter": "40",
    "description": "Gloves, mittens and mitts : -- Other",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "401590",
+   "hs6": "401590",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles of apparel and clothing accessories (other than gloves, mittens and mitts)",
    "level": 6,
    "chapter": "40",
    "description": "Other",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "40159010",
+   "hs6": "401590",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles of apparel and clothing accessories (other than gloves, mittens and mitts)",
    "level": 8,
    "chapter": "40",
    "description": "Rubber apron",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "40159020",
+   "hs6": "401590",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles of apparel and clothing accessories (other than gloves, mittens and mitts)",
    "level": 8,
    "chapter": "40",
    "description": "Labels",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "40159030",
+   "hs6": "401590",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles of apparel and clothing accessories (other than gloves, mittens and mitts)",
    "level": 8,
    "chapter": "40",
    "description": "Industrial gloves",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "40159091",
+   "hs6": "401590",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles of apparel and clothing accessories (other than gloves, mittens and mitts)",
    "level": 8,
    "chapter": "40",
    "description": "Other: ---- Diving suits",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "40159099",
+   "hs6": "401590",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles of apparel and clothing accessories (other than gloves, mittens and mitts)",
    "level": 8,
    "chapter": "40",
    "description": "Other: ---- Other",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "4016",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Other articles of vulcanised rubber other than hard rubber.",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "40161000",
+   "hs6": "401610",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), moulded rubber mats and mats of non-rectangular shape made by cutting from the piece, of cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Of cellular rubber",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "40169100",
+   "hs6": "401691",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), floor coverings and mats, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Other : -- Floor coverings and mats",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "40169200",
+   "hs6": "401692",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), erasers, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Other : -- Erasers",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "401693",
+   "hs6": "401693",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), gaskets, washers and other seals, of non-cellular rubber",
    "level": 6,
    "chapter": "40",
    "description": "Other : -- Gaskets, washers and other seals",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "40169310",
+   "hs6": "401693",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), gaskets, washers and other seals, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Patches for puncture repair of self-vulcanizing rubber or a rubber backing",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "40169320",
+   "hs6": "401693",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), gaskets, washers and other seals, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Rubber ring (O-ring)",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "40169330",
+   "hs6": "401693",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), gaskets, washers and other seals, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Rubber seals ( Oil seals and the like )",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "40169340",
+   "hs6": "401693",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), gaskets, washers and other seals, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Gaskets",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "40169350",
+   "hs6": "401693",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), gaskets, washers and other seals, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Washers",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "40169360",
+   "hs6": "401693",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), gaskets, washers and other seals, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Plugs",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "40169390",
+   "hs6": "401693",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), gaskets, washers and other seals, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "40169400",
+   "hs6": "401694",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), boat or dock fenders, whether or not inflatable, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Other : -- Boat or dock fenders, whether or not inflatable",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "401695",
+   "hs6": "401695",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), inflatable articles (other than boat or dock fenders), of non-cellular rubber",
    "level": 6,
    "chapter": "40",
    "description": "Other : -- Other inflatable articles",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "40169510",
+   "hs6": "401695",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), inflatable articles (other than boat or dock fenders), of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Air mattresses",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "40169590",
+   "hs6": "401695",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), inflatable articles (other than boat or dock fenders), of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "401699",
+   "hs6": "401699",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles n.e.c. in heading no. 4016, of non-cellular rubber",
    "level": 6,
    "chapter": "40",
    "description": "Other : -- Other",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "40169910",
+   "hs6": "401699",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles n.e.c. in heading no. 4016, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Rubber cots for textile industry",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "40169920",
+   "hs6": "401699",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles n.e.c. in heading no. 4016, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Rubber bands",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "40169930",
+   "hs6": "401699",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles n.e.c. in heading no. 4016, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Rubber threads",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "40169940",
+   "hs6": "401699",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles n.e.c. in heading no. 4016, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Rubber blankets",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "40169950",
+   "hs6": "401699",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles n.e.c. in heading no. 4016, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Rubber cushions",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "40169960",
+   "hs6": "401699",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles n.e.c. in heading no. 4016, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Rubber bushes",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "40169970",
+   "hs6": "401699",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles n.e.c. in heading no. 4016, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Ear plug",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "40169980",
+   "hs6": "401699",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles n.e.c. in heading no. 4016, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Stoppers",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "40169990",
+   "hs6": "401699",
+   "hs6_description": "Rubber; vulcanised (other than hard rubber), articles n.e.c. in heading no. 4016, of non-cellular rubber",
    "level": 8,
    "chapter": "40",
    "description": "Other",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "4017",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "40",
    "description": "Hard rubber (for example, ebonite) in all forms, including waste and scrap; articles of hard rubber.",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "401700",
+   "hs6": "401700",
+   "hs6_description": "Rubber; ebonite and other hard rubbers in all forms, including waste and scrap, and articles of hard rubber",
    "level": 6,
    "chapter": "40",
    "description": "Hard rubber (for example, ebonite) in all forms, including waste and scrap; articles of hard rubber:",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "40170010",
+   "hs6": "401700",
+   "hs6_description": "Rubber; ebonite and other hard rubbers in all forms, including waste and scrap, and articles of hard rubber",
    "level": 8,
    "chapter": "40",
    "description": "Plates, sheets, rods and tubes of ebonite and vulcanite",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "40170020",
+   "hs6": "401700",
+   "hs6_description": "Rubber; ebonite and other hard rubbers in all forms, including waste and scrap, and articles of hard rubber",
    "level": 8,
    "chapter": "40",
    "description": "Scrap, waste, and powder of hardened rubber (ebonite and vulcanite)",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "40170030",
+   "hs6": "401700",
+   "hs6_description": "Rubber; ebonite and other hard rubbers in all forms, including waste and scrap, and articles of hard rubber",
    "level": 8,
    "chapter": "40",
    "description": "Printers rollers",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "40170040",
+   "hs6": "401700",
+   "hs6_description": "Rubber; ebonite and other hard rubbers in all forms, including waste and scrap, and articles of hard rubber",
    "level": 8,
    "chapter": "40",
    "description": "Textile rollers",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "40170050",
+   "hs6": "401700",
+   "hs6_description": "Rubber; ebonite and other hard rubbers in all forms, including waste and scrap, and articles of hard rubber",
    "level": 8,
    "chapter": "40",
    "description": "Typewriters and cyclostyling rollers",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "40170090",
+   "hs6": "401700",
+   "hs6_description": "Rubber; ebonite and other hard rubbers in all forms, including waste and scrap, and articles of hard rubber",
    "level": 8,
    "chapter": "40",
    "description": "Other",

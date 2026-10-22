@@ -1,93 +1,93 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-0501,4,05,"Human hair, unworked, whether or not washed or scoured; waste of human hair.",,,,,,2026-10-22
-050100,6,05,"Human hair, unworked, whether or not washed or scoured; Waste of human hair :",,,,,,2026-10-22
-05010010,8,05,"Human hair unworked, whether or not washed or scoured",Free,,,,,2026-10-22
-05010020,8,05,Waste of human hair,Free,,,,,2026-10-22
-0502,4,05,"Pigs, hogs or boars bristles and hair; badger hair and other brush making hair; waste of such bristles or hair.",,,,,,2026-10-22
-050210,6,05,"Pigs, hogs or boars bristles and hair and waste thereof",,,,,,2026-10-22
-05021010,8,05,"Pigs, hogs or boars bristles and hair",Free,Subject to Policy Condition 2 of the Chapter.,2,,,2026-10-22
-05021020,8,05,Waste of pigs hogs or boars bristles and hair,Free,Subject to Policy Condition 2 of the Chapter.,2,,,2026-10-22
-050290,6,05,Other,,,,,,2026-10-22
-05029010,8,05,Badger hair and other brush making hair,Free,Subject to Policy Condition 2 of the Chapter.,2,,,2026-10-22
-05029020,8,05,Yak tail hair,Free,Subject to Policy Condition 2 of the Chapter.,2,,,2026-10-22
-05029090,8,05,Other,Free,Subject to Policy Condition 2 of the Chapter.,2,,,2026-10-22
-0504,4,05,"Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked.",,,,,,2026-10-22
-050400,6,05,"Guts, bladders and stomachs of animals(other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked:",,,,,,2026-10-22
-05040010,8,05,Guts of cattle for natural food casings,Restricted,,,,,2026-10-22
-05040020,8,05,Guts of sheep and goats for natural food casings,Free,,,,,2026-10-22
-05040031,8,05,Guts of other animals for natural food casings :---- Of wild animals,Prohibited,,,,,2026-10-22
-05040039,8,05,Guts of other animals for natural food casings :---- Other,Restricted,"Import of only porcine intestinal mucosa [Guts, bladders and stomach of animals (other than fish) whole and prices thereof, fresh, chilled or frozen, salted, in brine, dried or smoked] under the HS code 05040039 is ""free"", subject to Sanitary Import Permit from the Department of Animal Husbandry and Dairying as per the Notification S.O 2666(E) dated 17.10.2014 under the Livestock Importation Act (Amendment), 2001.",,52/2015-2020,2020-12-30,2026-10-22
-05040041,8,05,Guts other than for natural food casings: ---- Of wild animals,Prohibited,,,,,2026-10-22
-05040049,8,05,Guts other than for natural food casings: ---- Other,Restricted,,,,,2026-10-22
-05040051,8,05,Bladders and stomachs: ---- Of wild animals,Prohibited,,,,,2026-10-22
-05040059,8,05,Bladders and stomachs: ---- Other,Restricted,,,,,2026-10-22
-0505,4,05,"Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disinfected or treated for preservation; powder and waste of feathers or parts of feathers.",,,,,,2026-10-22
-050510,6,05,Feathers of a kind used for stuffing; down,,,,,,2026-10-22
-05051010,8,05,Of wild birds,Prohibited,,,,,2026-10-22
-05051090,8,05,Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-050590,6,05,Other,,,,,,2026-10-22
-05059010,8,05,Peacock tail and wing feather (trimmed or not),Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05059021,8,05,Other feather (excluding for stuffing purpose): ---- Of wild birds,Prohibited,,,,,2026-10-22
-05059029,8,05,Other feather (excluding for stuffing purpose): ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05059031,8,05,Powder and waste of feathers or parts of feathers: ---- Of wild birds,Prohibited,,,,,2026-10-22
-05059039,8,05,Powder and waste of feathers or parts of feathers: ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05059091,8,05,Skins and other parts: ---- Of wild birds,Prohibited,,,,,2026-10-22
-05059099,8,05,Skins and other parts: ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-0506,4,05,"Bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinised; powder and waste of these products.",,,,,,2026-10-22
-050610,6,05,Ossein and bones treated with acid,,,,,,2026-10-22
-05061011,8,05,"Bones, including horn-cores, crushed: ---- Of wild animals",Prohibited,,,,,2026-10-22
-05061019,8,05,"Bones, including horn-cores, crushed: ---- Other",Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05061021,8,05,Bone grist: ---- Of wild animals,Prohibited,,,,,2026-10-22
-05061029,8,05,Bone grist: ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05061031,8,05,Ossein: ---- Of wild animals,Prohibited,,,,,2026-10-22
-05061039,8,05,Ossein: ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05061041,8,05,"Bones, horn cones and parts thereof, not crushed: ---- Of wild animals",Prohibited,,,,,2026-10-22
-05061049,8,05,"Bones, horn cones and parts thereof, not crushed: ---- Other",Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-050690,6,05,Other,,,,,,2026-10-22
-05069011,8,05,Bone meal: ---- Of wild animals,Prohibited,,,,,2026-10-22
-05069019,8,05,Bone meal: ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05069091,8,05,Other: ---- Of wild animals,Prohibited,,,,,2026-10-22
-05069099,8,05,Other: ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-0507,4,05,"Ivory, tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape; powder and waste of these products.",,,,,,2026-10-22
-050710,6,05,Ivory; ivory powder and waste,,,,,,2026-10-22
-05071010,8,05,Ivory,Prohibited,,,,,2026-10-22
-05071020,8,05,Ivory powder and waste,Prohibited,,,,,2026-10-22
-050790,6,05,Other,,,,,,2026-10-22
-05079010,8,05,Hoof meal,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
-05079020,8,05,Horn meal,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
-05079030,8,05,"Hooves, claws, nails and beaks",Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
-05079040,8,05,Antlers,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
-05079050,8,05,Buffalo horns,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
-05079060,8,05,Tortoise-shell,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
-05079070,8,05,Claws and waste of tortoise shell,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
-05079090,8,05,Other,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
-0508,4,05,"Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof.",,,,,,2026-10-22
-050800,6,05,"Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof :",,,,,,2026-10-22
-05080010,8,05,Coral,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05080020,8,05,Chanks,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05080030,8,05,Cowries,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05080040,8,05,Cuttlefish bones,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05080050,8,05,Shells,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05080090,8,05,Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-0510,4,05,"Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved.",,,,,,2026-10-22
-051000,6,05,"Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved",,,,,,2026-10-22
-05100010,8,05,"Bezoar, cow (goolochan)",Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05100020,8,05,Ox Gallstone,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05100030,8,05,"Placenta, frozen",Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-05100091,8,05,Other :---- Of wild animals,Prohibited,,,,,2026-10-22
-05100099,8,05,Other :---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
-0511,4,05,"Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption.",,,,,,2026-10-22
-05111000,8,05,Bovine semen,Restricted,,,,,2026-10-22
-051191,6,05,"Other : -- Products of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of Chapter 3",,,,,,2026-10-22
-05119110,8,05,Fish nails,Prohibited,,,,,2026-10-22
-05119120,8,05,Fish tails,Prohibited,,,,,2026-10-22
-05119130,8,05,Other fish waste,Prohibited,,,,,2026-10-22
-05119140,8,05,Artemia cyst,Free,-,,28/2015-2020,2022-08-25,2026-10-22
-05119190,8,05,Other,Restricted,,,,,2026-10-22
-051199,6,05,other -- Other,,,,,,2026-10-22
-05119910,8,05,Silkworm pupae,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-05119921,8,05,Sinews and tendons: ---- Of wild life,Prohibited,,,,,2026-10-22
-05119929,8,05,Sinews and tendons: ---- Other,Restricted,,,,,2026-10-22
-05119991,8,05,"Other: ---- Frozen semen, other than bovine :bovine embryo:",Restricted,,,,,2026-10-22
-05119992,8,05,Other: ---- Of wild life,Prohibited,,,,,2026-10-22
-05119999,8,05,Other: ---- Other,Free,"Import of Human Embryo and Human Gametes is ""Prohibited"" in accordance with the ART (Regulation) Act, 2021 and The Surrogacy (Regulation) Act, 2021.",,39/2023,2023-10-23,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+0501,,,4,05,"Human hair, unworked, whether or not washed or scoured; waste of human hair.",,,,,,2026-10-22
+050100,050100,"Animal products; hair, human, unworked, whether or not washed or scoured, and waste of human hair",6,05,"Human hair, unworked, whether or not washed or scoured; Waste of human hair :",,,,,,2026-10-22
+05010010,050100,"Animal products; hair, human, unworked, whether or not washed or scoured, and waste of human hair",8,05,"Human hair unworked, whether or not washed or scoured",Free,,,,,2026-10-22
+05010020,050100,"Animal products; hair, human, unworked, whether or not washed or scoured, and waste of human hair",8,05,Waste of human hair,Free,,,,,2026-10-22
+0502,,,4,05,"Pigs, hogs or boars bristles and hair; badger hair and other brush making hair; waste of such bristles or hair.",,,,,,2026-10-22
+050210,050210,"Animal products; hair and bristles, of pigs, hogs or boars, and waste thereof",6,05,"Pigs, hogs or boars bristles and hair and waste thereof",,,,,,2026-10-22
+05021010,050210,"Animal products; hair and bristles, of pigs, hogs or boars, and waste thereof",8,05,"Pigs, hogs or boars bristles and hair",Free,Subject to Policy Condition 2 of the Chapter.,2,,,2026-10-22
+05021020,050210,"Animal products; hair and bristles, of pigs, hogs or boars, and waste thereof",8,05,Waste of pigs hogs or boars bristles and hair,Free,Subject to Policy Condition 2 of the Chapter.,2,,,2026-10-22
+050290,050290,"Animal products; badger hair and other brush making hair and waste of such bristles or hair, n.e.c. in heading no. 0502 (excluding horsehair)",6,05,Other,,,,,,2026-10-22
+05029010,050290,"Animal products; badger hair and other brush making hair and waste of such bristles or hair, n.e.c. in heading no. 0502 (excluding horsehair)",8,05,Badger hair and other brush making hair,Free,Subject to Policy Condition 2 of the Chapter.,2,,,2026-10-22
+05029020,050290,"Animal products; badger hair and other brush making hair and waste of such bristles or hair, n.e.c. in heading no. 0502 (excluding horsehair)",8,05,Yak tail hair,Free,Subject to Policy Condition 2 of the Chapter.,2,,,2026-10-22
+05029090,050290,"Animal products; badger hair and other brush making hair and waste of such bristles or hair, n.e.c. in heading no. 0502 (excluding horsehair)",8,05,Other,Free,Subject to Policy Condition 2 of the Chapter.,2,,,2026-10-22
+0504,,,4,05,"Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked.",,,,,,2026-10-22
+050400,050400,"Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",6,05,"Guts, bladders and stomachs of animals(other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked:",,,,,,2026-10-22
+05040010,050400,"Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",8,05,Guts of cattle for natural food casings,Restricted,,,,,2026-10-22
+05040020,050400,"Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",8,05,Guts of sheep and goats for natural food casings,Free,,,,,2026-10-22
+05040031,050400,"Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",8,05,Guts of other animals for natural food casings :---- Of wild animals,Prohibited,,,,,2026-10-22
+05040039,050400,"Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",8,05,Guts of other animals for natural food casings :---- Other,Restricted,"Import of only porcine intestinal mucosa [Guts, bladders and stomach of animals (other than fish) whole and prices thereof, fresh, chilled or frozen, salted, in brine, dried or smoked] under the HS code 05040039 is ""free"", subject to Sanitary Import Permit from the Department of Animal Husbandry and Dairying as per the Notification S.O 2666(E) dated 17.10.2014 under the Livestock Importation Act (Amendment), 2001.",,52/2015-2020,2020-12-30,2026-10-22
+05040041,050400,"Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",8,05,Guts other than for natural food casings: ---- Of wild animals,Prohibited,,,,,2026-10-22
+05040049,050400,"Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",8,05,Guts other than for natural food casings: ---- Other,Restricted,,,,,2026-10-22
+05040051,050400,"Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",8,05,Bladders and stomachs: ---- Of wild animals,Prohibited,,,,,2026-10-22
+05040059,050400,"Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",8,05,Bladders and stomachs: ---- Other,Restricted,,,,,2026-10-22
+0505,,,4,05,"Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disinfected or treated for preservation; powder and waste of feathers or parts of feathers.",,,,,,2026-10-22
+050510,050510,"Animal products; feathers and down used for stuffing, not further worked than cleaned, disinfected or treated for preservation",6,05,Feathers of a kind used for stuffing; down,,,,,,2026-10-22
+05051010,050510,"Animal products; feathers and down used for stuffing, not further worked than cleaned, disinfected or treated for preservation",8,05,Of wild birds,Prohibited,,,,,2026-10-22
+05051090,050510,"Animal products; feathers and down used for stuffing, not further worked than cleaned, disinfected or treated for preservation",8,05,Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+050590,050590,"Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",6,05,Other,,,,,,2026-10-22
+05059010,050590,"Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",8,05,Peacock tail and wing feather (trimmed or not),Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05059021,050590,"Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",8,05,Other feather (excluding for stuffing purpose): ---- Of wild birds,Prohibited,,,,,2026-10-22
+05059029,050590,"Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",8,05,Other feather (excluding for stuffing purpose): ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05059031,050590,"Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",8,05,Powder and waste of feathers or parts of feathers: ---- Of wild birds,Prohibited,,,,,2026-10-22
+05059039,050590,"Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",8,05,Powder and waste of feathers or parts of feathers: ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05059091,050590,"Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",8,05,Skins and other parts: ---- Of wild birds,Prohibited,,,,,2026-10-22
+05059099,050590,"Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",8,05,Skins and other parts: ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+0506,,,4,05,"Bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinised; powder and waste of these products.",,,,,,2026-10-22
+050610,050610,Animal products; ossein and bones treated with acid,6,05,Ossein and bones treated with acid,,,,,,2026-10-22
+05061011,050610,Animal products; ossein and bones treated with acid,8,05,"Bones, including horn-cores, crushed: ---- Of wild animals",Prohibited,,,,,2026-10-22
+05061019,050610,Animal products; ossein and bones treated with acid,8,05,"Bones, including horn-cores, crushed: ---- Other",Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05061021,050610,Animal products; ossein and bones treated with acid,8,05,Bone grist: ---- Of wild animals,Prohibited,,,,,2026-10-22
+05061029,050610,Animal products; ossein and bones treated with acid,8,05,Bone grist: ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05061031,050610,Animal products; ossein and bones treated with acid,8,05,Ossein: ---- Of wild animals,Prohibited,,,,,2026-10-22
+05061039,050610,Animal products; ossein and bones treated with acid,8,05,Ossein: ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05061041,050610,Animal products; ossein and bones treated with acid,8,05,"Bones, horn cones and parts thereof, not crushed: ---- Of wild animals",Prohibited,,,,,2026-10-22
+05061049,050610,Animal products; ossein and bones treated with acid,8,05,"Bones, horn cones and parts thereof, not crushed: ---- Other",Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+050690,050690,"Animal products; bones and horn-cores and powder or waste of such, unworked, defatted, simply prepared (not cut to shape), or treated with acid or degelatinised, n.e.c. in heading no. 0506",6,05,Other,,,,,,2026-10-22
+05069011,050690,"Animal products; bones and horn-cores and powder or waste of such, unworked, defatted, simply prepared (not cut to shape), or treated with acid or degelatinised, n.e.c. in heading no. 0506",8,05,Bone meal: ---- Of wild animals,Prohibited,,,,,2026-10-22
+05069019,050690,"Animal products; bones and horn-cores and powder or waste of such, unworked, defatted, simply prepared (not cut to shape), or treated with acid or degelatinised, n.e.c. in heading no. 0506",8,05,Bone meal: ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05069091,050690,"Animal products; bones and horn-cores and powder or waste of such, unworked, defatted, simply prepared (not cut to shape), or treated with acid or degelatinised, n.e.c. in heading no. 0506",8,05,Other: ---- Of wild animals,Prohibited,,,,,2026-10-22
+05069099,050690,"Animal products; bones and horn-cores and powder or waste of such, unworked, defatted, simply prepared (not cut to shape), or treated with acid or degelatinised, n.e.c. in heading no. 0506",8,05,Other: ---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+0507,,,4,05,"Ivory, tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape; powder and waste of these products.",,,,,,2026-10-22
+050710,050710,"Animal products; ivory, unworked or simply prepared but not cut to shape, ivory powder and waste",6,05,Ivory; ivory powder and waste,,,,,,2026-10-22
+05071010,050710,"Animal products; ivory, unworked or simply prepared but not cut to shape, ivory powder and waste",8,05,Ivory,Prohibited,,,,,2026-10-22
+05071020,050710,"Animal products; ivory, unworked or simply prepared but not cut to shape, ivory powder and waste",8,05,Ivory powder and waste,Prohibited,,,,,2026-10-22
+050790,050790,"Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",6,05,Other,,,,,,2026-10-22
+05079010,050790,"Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",8,05,Hoof meal,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
+05079020,050790,"Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",8,05,Horn meal,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
+05079030,050790,"Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",8,05,"Hooves, claws, nails and beaks",Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
+05079040,050790,"Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",8,05,Antlers,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
+05079050,050790,"Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",8,05,Buffalo horns,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
+05079060,050790,"Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",8,05,Tortoise-shell,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
+05079070,050790,"Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",8,05,Claws and waste of tortoise shell,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
+05079090,050790,"Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",8,05,Other,Free,Subject to Policy Condition 2 and 3 of the Chapter.,2,,,2026-10-22
+0508,,,4,05,"Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof.",,,,,,2026-10-22
+050800,050800,"Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",6,05,"Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof :",,,,,,2026-10-22
+05080010,050800,"Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",8,05,Coral,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05080020,050800,"Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",8,05,Chanks,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05080030,050800,"Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",8,05,Cowries,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05080040,050800,"Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",8,05,Cuttlefish bones,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05080050,050800,"Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",8,05,Shells,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05080090,050800,"Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",8,05,Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+0510,,,4,05,"Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved.",,,,,,2026-10-22
+051000,051000,"Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",6,05,"Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved",,,,,,2026-10-22
+05100010,051000,"Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",8,05,"Bezoar, cow (goolochan)",Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05100020,051000,"Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",8,05,Ox Gallstone,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05100030,051000,"Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",8,05,"Placenta, frozen",Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+05100091,051000,"Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",8,05,Other :---- Of wild animals,Prohibited,,,,,2026-10-22
+05100099,051000,"Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",8,05,Other :---- Other,Free,Subject to Policy Condition 3 of the Chapter.,3,,,2026-10-22
+0511,,,4,05,"Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption.",,,,,,2026-10-22
+05111000,051110,Animal products; bovine semen,8,05,Bovine semen,Restricted,,,,,2026-10-22
+051191,051191,"Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption",6,05,"Other : -- Products of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of Chapter 3",,,,,,2026-10-22
+05119110,051191,"Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption",8,05,Fish nails,Prohibited,,,,,2026-10-22
+05119120,051191,"Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption",8,05,Fish tails,Prohibited,,,,,2026-10-22
+05119130,051191,"Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption",8,05,Other fish waste,Prohibited,,,,,2026-10-22
+05119140,051191,"Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption",8,05,Artemia cyst,Free,-,,28/2015-2020,2022-08-25,2026-10-22
+05119190,051191,"Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption",8,05,Other,Restricted,,,,,2026-10-22
+051199,051199,Animal products; n.e.c. in chapter 5,6,05,other -- Other,,,,,,2026-10-22
+05119910,051199,Animal products; n.e.c. in chapter 5,8,05,Silkworm pupae,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+05119921,051199,Animal products; n.e.c. in chapter 5,8,05,Sinews and tendons: ---- Of wild life,Prohibited,,,,,2026-10-22
+05119929,051199,Animal products; n.e.c. in chapter 5,8,05,Sinews and tendons: ---- Other,Restricted,,,,,2026-10-22
+05119991,051199,Animal products; n.e.c. in chapter 5,8,05,"Other: ---- Frozen semen, other than bovine :bovine embryo:",Restricted,,,,,2026-10-22
+05119992,051199,Animal products; n.e.c. in chapter 5,8,05,Other: ---- Of wild life,Prohibited,,,,,2026-10-22
+05119999,051199,Animal products; n.e.c. in chapter 5,8,05,Other: ---- Other,Free,"Import of Human Embryo and Human Gametes is ""Prohibited"" in accordance with the ART (Regulation) Act, 2021 and The Surrogacy (Regulation) Act, 2021.",,39/2023,2023-10-23,2026-10-22

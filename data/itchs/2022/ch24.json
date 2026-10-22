@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "2401",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "24",
    "description": "Unmanufactured tobacco; tobacco refuse.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "240110",
+   "hs6": "240110",
+   "hs6_description": "Tobacco, (not stemmed or stripped)",
    "level": 6,
    "chapter": "24",
    "description": "Tobacco, not stemmed/stripped",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "24011010",
+   "hs6": "240110",
+   "hs6_description": "Tobacco, (not stemmed or stripped)",
    "level": 8,
    "chapter": "24",
    "description": "Flue cured virginia tobacco",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "24011020",
+   "hs6": "240110",
+   "hs6_description": "Tobacco, (not stemmed or stripped)",
    "level": 8,
    "chapter": "24",
    "description": "Sun cured country (natu) tobacco",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "24011030",
+   "hs6": "240110",
+   "hs6_description": "Tobacco, (not stemmed or stripped)",
    "level": 8,
    "chapter": "24",
    "description": "Sun cured virginia tobacco",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "24011040",
+   "hs6": "240110",
+   "hs6_description": "Tobacco, (not stemmed or stripped)",
    "level": 8,
    "chapter": "24",
    "description": "Burley tobacco",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "24011050",
+   "hs6": "240110",
+   "hs6_description": "Tobacco, (not stemmed or stripped)",
    "level": 8,
    "chapter": "24",
    "description": "Tobacco for manufacture of biris, not stemmed",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "24011060",
+   "hs6": "240110",
+   "hs6_description": "Tobacco, (not stemmed or stripped)",
    "level": 8,
    "chapter": "24",
    "description": "Tobacco for manufacture of chewing tobacco",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "24011070",
+   "hs6": "240110",
+   "hs6_description": "Tobacco, (not stemmed or stripped)",
    "level": 8,
    "chapter": "24",
    "description": "Tobacco for manufacture of cigar and cheroot",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "24011080",
+   "hs6": "240110",
+   "hs6_description": "Tobacco, (not stemmed or stripped)",
    "level": 8,
    "chapter": "24",
    "description": "Tobacco for manufacture of hookah tobacco",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "24011090",
+   "hs6": "240110",
+   "hs6_description": "Tobacco, (not stemmed or stripped)",
    "level": 8,
    "chapter": "24",
    "description": "Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "240120",
+   "hs6": "240120",
+   "hs6_description": "Tobacco; partly or wholly stemmed or stripped",
    "level": 6,
    "chapter": "24",
    "description": "Tobacco, partly or wholly stemmed/stripped",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "24012010",
+   "hs6": "240120",
+   "hs6_description": "Tobacco; partly or wholly stemmed or stripped",
    "level": 8,
    "chapter": "24",
    "description": "Flue cured virginia tobacco",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "24012020",
+   "hs6": "240120",
+   "hs6_description": "Tobacco; partly or wholly stemmed or stripped",
    "level": 8,
    "chapter": "24",
    "description": "Sun cured country (natu) tobacco",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "24012030",
+   "hs6": "240120",
+   "hs6_description": "Tobacco; partly or wholly stemmed or stripped",
    "level": 8,
    "chapter": "24",
    "description": "Sun cured virginia tobacco",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "24012040",
+   "hs6": "240120",
+   "hs6_description": "Tobacco; partly or wholly stemmed or stripped",
    "level": 8,
    "chapter": "24",
    "description": "Burley tobacco",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "24012050",
+   "hs6": "240120",
+   "hs6_description": "Tobacco; partly or wholly stemmed or stripped",
    "level": 8,
    "chapter": "24",
    "description": "Tobacco for manufacture of biris",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "24012060",
+   "hs6": "240120",
+   "hs6_description": "Tobacco; partly or wholly stemmed or stripped",
    "level": 8,
    "chapter": "24",
    "description": "Tobacco for manufacture of chewing tobacco",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "24012070",
+   "hs6": "240120",
+   "hs6_description": "Tobacco; partly or wholly stemmed or stripped",
    "level": 8,
    "chapter": "24",
    "description": "Tobacco for manufacture of cigar and cheroot",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "24012080",
+   "hs6": "240120",
+   "hs6_description": "Tobacco; partly or wholly stemmed or stripped",
    "level": 8,
    "chapter": "24",
    "description": "Tobacco for manufacture of hookah tobacco",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "24012090",
+   "hs6": "240120",
+   "hs6_description": "Tobacco; partly or wholly stemmed or stripped",
    "level": 8,
    "chapter": "24",
    "description": "Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "24013000",
+   "hs6": "240130",
+   "hs6_description": "Tobacco refuse",
    "level": 8,
    "chapter": "24",
    "description": "Tobacco refuse",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "2402",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "24",
    "description": "Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "240210",
+   "hs6": "240210",
+   "hs6_description": "Cigars, cheroots and cigarillos; containing tobacco including the weight of every band, wrapper or attachment thereto",
    "level": 6,
    "chapter": "24",
    "description": "Cigars, cheroots and cigarillos, containing tobacco",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "24021010",
+   "hs6": "240210",
+   "hs6_description": "Cigars, cheroots and cigarillos; containing tobacco including the weight of every band, wrapper or attachment thereto",
    "level": 8,
    "chapter": "24",
    "description": "Cigar and cheroots",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "24021020",
+   "hs6": "240210",
+   "hs6_description": "Cigars, cheroots and cigarillos; containing tobacco including the weight of every band, wrapper or attachment thereto",
    "level": 8,
    "chapter": "24",
    "description": "Cigarillos",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "240220",
+   "hs6": "240220",
+   "hs6_description": "Cigarettes; containing tobacco",
    "level": 6,
    "chapter": "24",
    "description": "Cigarettes containing tobacco",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "24022010",
+   "hs6": "240220",
+   "hs6_description": "Cigarettes; containing tobacco",
    "level": 8,
    "chapter": "24",
    "description": "Other than filter cigarettes, of length not exceeding 65 millimetres",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "24022020",
+   "hs6": "240220",
+   "hs6_description": "Cigarettes; containing tobacco",
    "level": 8,
    "chapter": "24",
    "description": "Other than filter cigarettes, of length exceeding 65 millimetres but not exceeding 70 millimetres",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "24022030",
+   "hs6": "240220",
+   "hs6_description": "Cigarettes; containing tobacco",
    "level": 8,
    "chapter": "24",
    "description": "Filter cigarettes of length (including the length of the filter, the length of filter being 11 millimetres or its actual length, whichever is more) not exceeding 65 millimetres",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "24022040",
+   "hs6": "240220",
+   "hs6_description": "Cigarettes; containing tobacco",
    "level": 8,
    "chapter": "24",
    "description": "Filter cigarettes of length (including the length of the filter, the length of filter being 11 millimetres or its actual length, whichever is more) exceeding 65 millimetres not exceeding 70 millimetres",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "24022050",
+   "hs6": "240220",
+   "hs6_description": "Cigarettes; containing tobacco",
    "level": 8,
    "chapter": "24",
    "description": "Filter cigarettes of length (including the length of the filter, the length of filter being 11 millimetres or its actual length, whichever is more) exceeding 75 millimetres but not exceeding 85 millimetres",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "24022090",
+   "hs6": "240220",
+   "hs6_description": "Cigarettes; containing tobacco",
    "level": 8,
    "chapter": "24",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "240290",
+   "hs6": "240290",
+   "hs6_description": "Cigars, cigarillos and cheroots; containing tobacco substitutes including the weight of every band, wrapper or attachment thereto",
    "level": 6,
    "chapter": "24",
    "description": "Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "24029010",
+   "hs6": "240290",
+   "hs6_description": "Cigars, cigarillos and cheroots; containing tobacco substitutes including the weight of every band, wrapper or attachment thereto",
    "level": 8,
    "chapter": "24",
    "description": "Cigarettes of tobacco substitutes",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "24029020",
+   "hs6": "240290",
+   "hs6_description": "Cigars, cigarillos and cheroots; containing tobacco substitutes including the weight of every band, wrapper or attachment thereto",
    "level": 8,
    "chapter": "24",
    "description": "Cigarillos of tobacco substitutes",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "24029090",
+   "hs6": "240290",
+   "hs6_description": "Cigars, cigarillos and cheroots; containing tobacco substitutes including the weight of every band, wrapper or attachment thereto",
    "level": 8,
    "chapter": "24",
    "description": "Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "2403",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "24",
    "description": "Other manufactured tobacco and manufactured tobacco substitutes; homogenised or reconstituted tobacco; tobacco extracts and essences.",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "240311",
+   "hs6": "240311",
+   "hs6_description": "Tobacco; smoking, water pipe tobacco as specified in Subheading Note 1 to this Chapter, whether or not containing tobacco substitutes in any proportion",
    "level": 6,
    "chapter": "24",
    "description": "Smoking tobacco, whether or not containing tobacco substitutes in any proporation -- Water pipe tobacco specified in Subheading Note 1 to this chapter",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "24031110",
+   "hs6": "240311",
+   "hs6_description": "Tobacco; smoking, water pipe tobacco as specified in Subheading Note 1 to this Chapter, whether or not containing tobacco substitutes in any proportion",
    "level": 8,
    "chapter": "24",
    "description": "Hookah or gudaku tobacco",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "24031190",
+   "hs6": "240311",
+   "hs6_description": "Tobacco; smoking, water pipe tobacco as specified in Subheading Note 1 to this Chapter, whether or not containing tobacco substitutes in any proportion",
    "level": 8,
    "chapter": "24",
    "description": "Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "240319",
+   "hs6": "240319",
+   "hs6_description": "Tobacco; smoking, other than water pipe tobacco, whether or not containing tobacco substitutes in any proportion",
    "level": 6,
    "chapter": "24",
    "description": "Smoking tobacco, whether or not containing tobacco substitutes in any proporation -- Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "24031910",
+   "hs6": "240319",
+   "hs6_description": "Tobacco; smoking, other than water pipe tobacco, whether or not containing tobacco substitutes in any proportion",
    "level": 8,
    "chapter": "24",
    "description": "Smoking mixtures for pipes and cigarettes",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "24031921",
+   "hs6": "240319",
+   "hs6_description": "Tobacco; smoking, other than water pipe tobacco, whether or not containing tobacco substitutes in any proportion",
    "level": 8,
    "chapter": "24",
    "description": "Biris:---- Other than paper rolled biris, manufactured without the aid of machine",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "24031929",
+   "hs6": "240319",
+   "hs6_description": "Tobacco; smoking, other than water pipe tobacco, whether or not containing tobacco substitutes in any proportion",
    "level": 8,
    "chapter": "24",
    "description": "Biris:---- Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "24031990",
+   "hs6": "240319",
+   "hs6_description": "Tobacco; smoking, other than water pipe tobacco, whether or not containing tobacco substitutes in any proportion",
    "level": 8,
    "chapter": "24",
    "description": "Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "24039100",
+   "hs6": "240391",
+   "hs6_description": "Tobacco; homogenised or reconstituted",
    "level": 8,
    "chapter": "24",
    "description": "Other : -- Homogenised or reconstituted tobacco",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "240399",
+   "hs6": "240399",
+   "hs6_description": "Tobacco; other than homogenised or reconstituted or smoking",
    "level": 6,
    "chapter": "24",
    "description": "Other : -- Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "24039910",
+   "hs6": "240399",
+   "hs6_description": "Tobacco; other than homogenised or reconstituted or smoking",
    "level": 8,
    "chapter": "24",
    "description": "Chewing tobacco",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "24039920",
+   "hs6": "240399",
+   "hs6_description": "Tobacco; other than homogenised or reconstituted or smoking",
    "level": 8,
    "chapter": "24",
    "description": "Preparations containing chewing tobacco",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "24039930",
+   "hs6": "240399",
+   "hs6_description": "Tobacco; other than homogenised or reconstituted or smoking",
    "level": 8,
    "chapter": "24",
    "description": "Jarda scented tobacco",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "24039940",
+   "hs6": "240399",
+   "hs6_description": "Tobacco; other than homogenised or reconstituted or smoking",
    "level": 8,
    "chapter": "24",
    "description": "Snuff",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "24039950",
+   "hs6": "240399",
+   "hs6_description": "Tobacco; other than homogenised or reconstituted or smoking",
    "level": 8,
    "chapter": "24",
    "description": "Preparations containing snuff",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "24039960",
+   "hs6": "240399",
+   "hs6_description": "Tobacco; other than homogenised or reconstituted or smoking",
    "level": 8,
    "chapter": "24",
    "description": "Tobacco extracts and essence",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "24039970",
+   "hs6": "240399",
+   "hs6_description": "Tobacco; other than homogenised or reconstituted or smoking",
    "level": 8,
    "chapter": "24",
    "description": "Cut-tobacco",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "24039990",
+   "hs6": "240399",
+   "hs6_description": "Tobacco; other than homogenised or reconstituted or smoking",
    "level": 8,
    "chapter": "24",
    "description": "Other",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "2404",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "24",
    "description": "PRODUCTS CONTAINING TOBACCO, RECONSTITUTED TOBACCO, NICOTINE, OR TOBACCO OR NICOTINE SUBSTITUTES, INTENDED FOR INHALATION WITHOUT COMBUSTION; OTHER NICOTINE CONTAINING PRODUCTS INTENDED FOR THE INTAKE OF NICOTINE INTO THE HUMAN BODY",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "24041100",
+   "hs6": "240411",
+   "hs6_description": "Products containing tobacco or reconstituted tobacco, intended for inhalation without combustion",
    "level": 8,
    "chapter": "24",
    "description": "Products intended for inhalation without combustion:-- Containing tobacco or reconstituted tobacco",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "24041200",
+   "hs6": "240412",
+   "hs6_description": "Products containing nicotine, other than tobacco or reconstituted tobacco, intended for inhalation without combustion",
    "level": 8,
    "chapter": "24",
    "description": "Products intended for inhalation without combustion:-- Other, containing nicotine",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "24041900",
+   "hs6": "240419",
+   "hs6_description": "Products containing tobacco or nicotine substitutes, intended for inhalation without combustion",
    "level": 8,
    "chapter": "24",
    "description": "Products intended for inhalation without combustion:-- Other",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "24049100",
+   "hs6": "240491",
+   "hs6_description": "Products n.e.c. in heading 2404, intended for the intake of nicotine into the human body, for oral application",
    "level": 8,
    "chapter": "24",
    "description": "Other:- - For oral application",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "24049200",
+   "hs6": "240492",
+   "hs6_description": "Products n.e.c. in heading 2404, intended for the intake of nicotine into the human body, for transdermal application",
    "level": 8,
    "chapter": "24",
    "description": "Other:- - For transdermal application",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "24049900",
+   "hs6": "240499",
+   "hs6_description": "Products n.e.c. in heading 2404, intended for the intake of nicotine into the human body, by ways other than inhalation, and other than oral or transdermal application",
    "level": 8,
    "chapter": "24",
    "description": "Other:- - Other",

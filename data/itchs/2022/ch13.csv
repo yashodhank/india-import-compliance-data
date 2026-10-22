@@ -1,73 +1,73 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-1301,4,13,"Lac; natural gums, resins, gum-resins and oleoresins (for example, balsams).",,,,,,2026-10-22
-13012000,8,13,Gum Arabic,Free,,,,,2026-10-22
-130190,6,13,Other,,,,,,2026-10-22
-13019011,8,13,Natural gums: ---- Asian gum,Free,,,,,2026-10-22
-13019012,8,13,Natural gums: ---- African gum,Free,,,,,2026-10-22
-13019013,8,13,Natural gums: ---- Asafoetida,Free,,,,,2026-10-22
-13019014,8,13,Natural gums: ---- Benjamin ras,Free,,,,,2026-10-22
-13019015,8,13,Natural gums: ---- Benjamin cowrie,Free,,,,,2026-10-22
-13019016,8,13,Natural gums: ---- Karaya gum (Indian tragacanth) hastab,Free,,,,,2026-10-22
-13019017,8,13,Natural gums: ---- Tragacanth (adraganth),Free,,,,,2026-10-22
-13019018,8,13,Natural gums: ---- Storax,Free,,,,,2026-10-22
-13019019,8,13,Natural gums: ---- Other,Free,,,,,2026-10-22
-13019021,8,13,Resins: ---- Copal,Free,,,,,2026-10-22
-13019022,8,13,Resins: ---- Dammar batu,Free,,,,,2026-10-22
-13019029,8,13,Resins: ---- Other,Free,,,,,2026-10-22
-13019031,8,13,Gum Resins: ---- Myrrh,Free,,,,,2026-10-22
-13019032,8,13,Gum Resins: ---- Oilbanum or frankincense,Free,,,,,2026-10-22
-13019033,8,13,Gum Resins: ---- Mastic gum,Free,,,,,2026-10-22
-13019034,8,13,Gum Resins: ---- Xanthium gum,Free,,,,,2026-10-22
-13019039,8,13,Gum Resins: ---- Other,Free,,,,,2026-10-22
-13019041,8,13,Oleoresins: ---- Of Seeds,Free,,,,,2026-10-22
-13019042,8,13,Oleoresins: ---- Of Fruits,Free,,,,,2026-10-22
-13019043,8,13,Oleoresins: ---- Of Leaves,Free,,,,,2026-10-22
-13019044,8,13,Oleoresins: ---- Of Spices,Free,,,,,2026-10-22
-13019045,8,13,Oleoresins: ---- Of Flowers,Free,,,,,2026-10-22
-13019046,8,13,Oleoresins: ---- Of Roots,Free,,,,,2026-10-22
-13019049,8,13,Oleoresins: ---- Other,Free,,,,,2026-10-22
-13019099,8,13,Other: ---- Other,Free,,,,,2026-10-22
-1302,4,13,"Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products.",,,,,,2026-10-22
-13021100,8,13,Vegetable saps and extracts :-- Opium,Restricted,,,,,2026-10-22
-13021200,8,13,Vegetable saps and extracts :-- Of liquorice,Free,,,,,2026-10-22
-13021300,8,13,Vegetable saps and extracts :-- Of hops,Free,,,,,2026-10-22
-13021400,8,13,Vegetable saps and extracts :-- Of ephedra,Free,,,,,2026-10-22
-130219,6,13,Vegetable saps and extracts :-- Other,,,,,,2026-10-22
-13021911,8,13,Extracts: ---- Of Belladona,Free,,,,,2026-10-22
-13021912,8,13,Extracts: ---- Of Cascara sagrada,Free,,,,,2026-10-22
-13021913,8,13,Extracts: ---- Of nux vomica,Free,,,,,2026-10-22
-13021914,8,13,Extracts: ---- Of ginseng (including powder),Free,,,,,2026-10-22
-13021915,8,13,Extracts: ---- Of agarose,Free,,,,,2026-10-22
-13021916,8,13,Extracts: ---- Of neem,Free,,,,,2026-10-22
-13021917,8,13,Extracts: ---- Of gymnema,Free,,,,,2026-10-22
-13021918,8,13,Extracts: ---- Of garacinia and gambodge,Free,,,,,2026-10-22
-13021921,8,13,---- Of Withania somnifera,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021922,8,13,---- Of Bacopa monnieri,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021923,8,13,---- Of Berberis aristata,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021924,8,13,---- Of Boswellia serrata,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021925,8,13,---- Of Emblica officinalis,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021926,8,13,---- Of Ocimum sanctum,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021927,8,13,---- Of Capsicum annuum,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021928,8,13,---- Of Phaseolus vulgaris,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021931,8,13,---- Of Piper nigrum,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021932,8,13,---- Of Pterocarpus marsupium,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021933,8,13,---- Of Punica granatum,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021934,8,13,---- Of Salacia reticulata,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021935,8,13,---- Of Tagetes erecta,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021936,8,13,---- Of Terminalia bellirica,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021937,8,13,---- Of Curcuma longa,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021938,8,13,---- Of Zingiber officinale,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021939,8,13,---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-13021950,8,13,"--- Cashew shell liquid (CNSL), crude",Free,,,24/2026-27,2026-07-22,2026-10-22
-13021960,8,13,--- Purified and distilled CNSL (Cardanol),Free,,,24/2026-27,2026-07-22,2026-10-22
-13021990,8,13,Extracts: ---- Other,Free,,,,,2026-10-22
-13022000,8,13,"Pectic substances, pectinates and pectates",Free,,,,,2026-10-22
-13023100,8,13,"Mucilages and thickeners, whether or not modified, derived from vegetable products : -- Agar-agar",Free,,,,,2026-10-22
-130232,6,13,"Mucilages and thickeners, whether or not modified, derived from vegetable products : -- Mucilages and thickeners, whether or not modified, derived from locust beans, locust bean seeds or guar seeds",,,,,,2026-10-22
-13023231,8,13,Guargum:---- Chemically treated,Free,.,,08/2023,2023-05-29,2026-10-22
-13023239,8,13,Guargum:---- Other,Free,.,,08/2023,2023-05-29,2026-10-22
-13023290,8,13,Other,Free,,,,,2026-10-22
-130239,6,13,Other:,,,,,,2026-10-22
-13023910,8,13,Tamarind Kernel Powder,Free,.,,08/2023,2023-05-29,2026-10-22
-13023920,8,13,Kappa carrageenan,Free,.,,08/2023,2023-05-29,2026-10-22
-13023990,8,13,Other,Free,.,,08/2023,2023-05-29,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+1301,,,4,13,"Lac; natural gums, resins, gum-resins and oleoresins (for example, balsams).",,,,,,2026-10-22
+13012000,130120,Gum Arabic,8,13,Gum Arabic,Free,,,,,2026-10-22
+130190,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",6,13,Other,,,,,,2026-10-22
+13019011,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Natural gums: ---- Asian gum,Free,,,,,2026-10-22
+13019012,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Natural gums: ---- African gum,Free,,,,,2026-10-22
+13019013,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Natural gums: ---- Asafoetida,Free,,,,,2026-10-22
+13019014,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Natural gums: ---- Benjamin ras,Free,,,,,2026-10-22
+13019015,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Natural gums: ---- Benjamin cowrie,Free,,,,,2026-10-22
+13019016,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Natural gums: ---- Karaya gum (Indian tragacanth) hastab,Free,,,,,2026-10-22
+13019017,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Natural gums: ---- Tragacanth (adraganth),Free,,,,,2026-10-22
+13019018,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Natural gums: ---- Storax,Free,,,,,2026-10-22
+13019019,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Natural gums: ---- Other,Free,,,,,2026-10-22
+13019021,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Resins: ---- Copal,Free,,,,,2026-10-22
+13019022,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Resins: ---- Dammar batu,Free,,,,,2026-10-22
+13019029,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Resins: ---- Other,Free,,,,,2026-10-22
+13019031,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Gum Resins: ---- Myrrh,Free,,,,,2026-10-22
+13019032,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Gum Resins: ---- Oilbanum or frankincense,Free,,,,,2026-10-22
+13019033,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Gum Resins: ---- Mastic gum,Free,,,,,2026-10-22
+13019034,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Gum Resins: ---- Xanthium gum,Free,,,,,2026-10-22
+13019039,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Gum Resins: ---- Other,Free,,,,,2026-10-22
+13019041,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Oleoresins: ---- Of Seeds,Free,,,,,2026-10-22
+13019042,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Oleoresins: ---- Of Fruits,Free,,,,,2026-10-22
+13019043,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Oleoresins: ---- Of Leaves,Free,,,,,2026-10-22
+13019044,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Oleoresins: ---- Of Spices,Free,,,,,2026-10-22
+13019045,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Oleoresins: ---- Of Flowers,Free,,,,,2026-10-22
+13019046,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Oleoresins: ---- Of Roots,Free,,,,,2026-10-22
+13019049,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Oleoresins: ---- Other,Free,,,,,2026-10-22
+13019099,130190,"Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",8,13,Other: ---- Other,Free,,,,,2026-10-22
+1302,,,4,13,"Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products.",,,,,,2026-10-22
+13021100,130211,Vegetable saps and extracts; opium,8,13,Vegetable saps and extracts :-- Opium,Restricted,,,,,2026-10-22
+13021200,130212,Vegetable saps and extracts; of liquorice,8,13,Vegetable saps and extracts :-- Of liquorice,Free,,,,,2026-10-22
+13021300,130213,Vegetable saps and extracts; of hops,8,13,Vegetable saps and extracts :-- Of hops,Free,,,,,2026-10-22
+13021400,130214,Vegetable saps and extracts; of ephedra,8,13,Vegetable saps and extracts :-- Of ephedra,Free,,,,,2026-10-22
+130219,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,6,13,Vegetable saps and extracts :-- Other,,,,,,2026-10-22
+13021911,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,Extracts: ---- Of Belladona,Free,,,,,2026-10-22
+13021912,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,Extracts: ---- Of Cascara sagrada,Free,,,,,2026-10-22
+13021913,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,Extracts: ---- Of nux vomica,Free,,,,,2026-10-22
+13021914,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,Extracts: ---- Of ginseng (including powder),Free,,,,,2026-10-22
+13021915,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,Extracts: ---- Of agarose,Free,,,,,2026-10-22
+13021916,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,Extracts: ---- Of neem,Free,,,,,2026-10-22
+13021917,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,Extracts: ---- Of gymnema,Free,,,,,2026-10-22
+13021918,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,Extracts: ---- Of garacinia and gambodge,Free,,,,,2026-10-22
+13021921,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Withania somnifera,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021922,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Bacopa monnieri,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021923,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Berberis aristata,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021924,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Boswellia serrata,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021925,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Emblica officinalis,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021926,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Ocimum sanctum,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021927,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Capsicum annuum,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021928,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Phaseolus vulgaris,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021931,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Piper nigrum,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021932,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Pterocarpus marsupium,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021933,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Punica granatum,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021934,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Salacia reticulata,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021935,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Tagetes erecta,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021936,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Terminalia bellirica,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021937,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Curcuma longa,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021938,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Of Zingiber officinale,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021939,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+13021950,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,"--- Cashew shell liquid (CNSL), crude",Free,,,24/2026-27,2026-07-22,2026-10-22
+13021960,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,--- Purified and distilled CNSL (Cardanol),Free,,,24/2026-27,2026-07-22,2026-10-22
+13021990,130219,Vegetable saps and extracts; n.e.c. in item no. 1302.1,8,13,Extracts: ---- Other,Free,,,,,2026-10-22
+13022000,130220,Pectic substances; pectinates and pectates,8,13,"Pectic substances, pectinates and pectates",Free,,,,,2026-10-22
+13023100,130231,"Mucilages and thickeners; agar-agar, whether or not modified, derived from vegetable products",8,13,"Mucilages and thickeners, whether or not modified, derived from vegetable products : -- Agar-agar",Free,,,,,2026-10-22
+130232,130232,"Mucilages and thickeners; whether or not modified, derived from locust beans, locust bean seeds or guar seeds",6,13,"Mucilages and thickeners, whether or not modified, derived from vegetable products : -- Mucilages and thickeners, whether or not modified, derived from locust beans, locust bean seeds or guar seeds",,,,,,2026-10-22
+13023231,130232,"Mucilages and thickeners; whether or not modified, derived from locust beans, locust bean seeds or guar seeds",8,13,Guargum:---- Chemically treated,Free,.,,08/2023,2023-05-29,2026-10-22
+13023239,130232,"Mucilages and thickeners; whether or not modified, derived from locust beans, locust bean seeds or guar seeds",8,13,Guargum:---- Other,Free,.,,08/2023,2023-05-29,2026-10-22
+13023290,130232,"Mucilages and thickeners; whether or not modified, derived from locust beans, locust bean seeds or guar seeds",8,13,Other,Free,,,,,2026-10-22
+130239,130239,"Mucilages and thickeners; whether or not modified, derived from vegetable products, n.e.c. in item no. 1302.3",6,13,Other:,,,,,,2026-10-22
+13023910,130239,"Mucilages and thickeners; whether or not modified, derived from vegetable products, n.e.c. in item no. 1302.3",8,13,Tamarind Kernel Powder,Free,.,,08/2023,2023-05-29,2026-10-22
+13023920,130239,"Mucilages and thickeners; whether or not modified, derived from vegetable products, n.e.c. in item no. 1302.3",8,13,Kappa carrageenan,Free,.,,08/2023,2023-05-29,2026-10-22
+13023990,130239,"Mucilages and thickeners; whether or not modified, derived from vegetable products, n.e.c. in item no. 1302.3",8,13,Other,Free,.,,08/2023,2023-05-29,2026-10-22

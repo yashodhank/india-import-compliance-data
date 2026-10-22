@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "1001",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "10",
    "description": "Wheat and meslin.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "10011100",
+   "hs6": "100111",
+   "hs6_description": "Cereals; wheat and meslin, durum wheat, seed",
    "level": 8,
    "chapter": "10",
    "description": "Durum wheat : -- Seed",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "10011900",
+   "hs6": "100119",
+   "hs6_description": "Cereals; wheat and meslin, durum wheat, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Durum wheat : -- Other",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "10019100",
+   "hs6": "100191",
+   "hs6_description": "Cereals; wheat and meslin, other than durum wheat, seed",
    "level": 8,
    "chapter": "10",
    "description": "Other : -- Seed",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "100199",
+   "hs6": "100199",
+   "hs6_description": "Cereals; wheat and meslin, other than durum wheat, other than seed",
    "level": 6,
    "chapter": "10",
    "description": "Other : -- Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "10019910",
+   "hs6": "100199",
+   "hs6_description": "Cereals; wheat and meslin, other than durum wheat, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Wheat",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "10019920",
+   "hs6": "100199",
+   "hs6_description": "Cereals; wheat and meslin, other than durum wheat, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Meslin",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "1002",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "10",
    "description": "Rye.",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "10021000",
+   "hs6": "100210",
+   "hs6_description": "Cereals; rye, seed",
    "level": 8,
    "chapter": "10",
    "description": "Seed",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "10029000",
+   "hs6": "100290",
+   "hs6_description": "Cereals; rye, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "1003",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "10",
    "description": "Barley.",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "10031000",
+   "hs6": "100310",
+   "hs6_description": "Cereals; barley, seed",
    "level": 8,
    "chapter": "10",
    "description": "Seed",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "10039000",
+   "hs6": "100390",
+   "hs6_description": "Cereals; barley, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "1004",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "10",
    "description": "Oats.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "10041000",
+   "hs6": "100410",
+   "hs6_description": "Cereals; oats, seeds",
    "level": 8,
    "chapter": "10",
    "description": "Seed",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "10049000",
+   "hs6": "100490",
+   "hs6_description": "Cereals; oats, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Other",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "1005",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "10",
    "description": "Maize (corn).",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "10051000",
+   "hs6": "100510",
+   "hs6_description": "Cereals; maize (corn), seed",
    "level": 8,
    "chapter": "10",
    "description": "Seed",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "100590",
+   "hs6": "100590",
+   "hs6_description": "Cereals; maize (corn), other than seed",
    "level": 6,
    "chapter": "10",
    "description": "Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "10059011",
+   "hs6": "100590",
+   "hs6_description": "Cereals; maize (corn), other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Dent corn (Zea mays var. indenta):----Yellow",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "10059019",
+   "hs6": "100590",
+   "hs6_description": "Cereals; maize (corn), other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Dent corn (Zea mays var. indenta):----Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "10059020",
+   "hs6": "100590",
+   "hs6_description": "Cereals; maize (corn), other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Flint corn (Zea mays var. indurata)",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "10059030",
+   "hs6": "100590",
+   "hs6_description": "Cereals; maize (corn), other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Popcorn (Zea mays var. everta)",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "10059090",
+   "hs6": "100590",
+   "hs6_description": "Cereals; maize (corn), other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Other",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "1006",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "10",
    "description": "Rice.",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "100610",
+   "hs6": "100610",
+   "hs6_description": "Cereals; rice in the husk (paddy or rough)",
    "level": 6,
    "chapter": "10",
    "description": "Rice in the husk (paddy or rough)",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "10061010",
+   "hs6": "100610",
+   "hs6_description": "Cereals; rice in the husk (paddy or rough)",
    "level": 8,
    "chapter": "10",
    "description": "Of seed quality",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "10061090",
+   "hs6": "100610",
+   "hs6_description": "Cereals; rice in the husk (paddy or rough)",
    "level": 8,
    "chapter": "10",
    "description": "Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "10062000",
+   "hs6": "100620",
+   "hs6_description": "Cereals; husked (brown) rice",
    "level": 8,
    "chapter": "10",
    "description": "Husked (brown) rice",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "100630",
+   "hs6": "100630",
+   "hs6_description": "Cereals; rice, semi-milled or wholly milled, whether or not polished or glazed",
    "level": 6,
    "chapter": "10",
    "description": "Semi-milled or wholly milled rice, whether or not polished or glazed",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "10063011",
+   "hs6": "100630",
+   "hs6_description": "Cereals; rice, semi-milled or wholly milled, whether or not polished or glazed",
    "level": 8,
    "chapter": "10",
    "description": "--- Parboiled: ---- Rice, GI recognised",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "10063012",
+   "hs6": "100630",
+   "hs6_description": "Cereals; rice, semi-milled or wholly milled, whether or not polished or glazed",
    "level": 8,
    "chapter": "10",
    "description": "--- Parboiled: ---- Basmati rice",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "10063019",
+   "hs6": "100630",
+   "hs6_description": "Cereals; rice, semi-milled or wholly milled, whether or not polished or glazed",
    "level": 8,
    "chapter": "10",
    "description": "--- Parboiled: ---- Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "10063020",
+   "hs6": "100630",
+   "hs6_description": "Cereals; rice, semi-milled or wholly milled, whether or not polished or glazed",
    "level": 8,
    "chapter": "10",
    "description": "Basmati rice",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "10063091",
+   "hs6": "100630",
+   "hs6_description": "Cereals; rice, semi-milled or wholly milled, whether or not polished or glazed",
    "level": 8,
    "chapter": "10",
    "description": "--- Other: ---- Rice, GI recognised",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "10063092",
+   "hs6": "100630",
+   "hs6_description": "Cereals; rice, semi-milled or wholly milled, whether or not polished or glazed",
    "level": 8,
    "chapter": "10",
    "description": "--- Other: ---- Basmati rice",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "10063099",
+   "hs6": "100630",
+   "hs6_description": "Cereals; rice, semi-milled or wholly milled, whether or not polished or glazed",
    "level": 8,
    "chapter": "10",
    "description": "--- Other: ---- Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "10064000",
+   "hs6": "100640",
+   "hs6_description": "Cereals; rice, broken",
    "level": 8,
    "chapter": "10",
    "description": "Broken rice",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "1007",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "10",
    "description": "Grain sorghum.",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "10071000",
+   "hs6": "100710",
+   "hs6_description": "Cereals; grain sorghum, seed",
    "level": 8,
    "chapter": "10",
    "description": "Seed",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "10079000",
+   "hs6": "100790",
+   "hs6_description": "Cereals; grain sorghum, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "1008",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "10",
    "description": "Buckwheat, millet and canary seeds; other cereals.",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "100810",
+   "hs6": "100810",
+   "hs6_description": "Cereals; buckwheat",
    "level": 6,
    "chapter": "10",
    "description": "Buckwheat",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "10081010",
+   "hs6": "100810",
+   "hs6_description": "Cereals; buckwheat",
    "level": 8,
    "chapter": "10",
    "description": "Of seed quality",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "10081090",
+   "hs6": "100810",
+   "hs6_description": "Cereals; buckwheat",
    "level": 8,
    "chapter": "10",
    "description": "Other Millet:",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "100821",
+   "hs6": "100821",
+   "hs6_description": "Cereals; millet, seed",
    "level": 6,
    "chapter": "10",
    "description": "Millet : -- Seed",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "10082110",
+   "hs6": "100821",
+   "hs6_description": "Cereals; millet, seed",
    "level": 8,
    "chapter": "10",
    "description": "Jawar",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "10082120",
+   "hs6": "100821",
+   "hs6_description": "Cereals; millet, seed",
    "level": 8,
    "chapter": "10",
    "description": "Bajra",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "10082130",
+   "hs6": "100821",
+   "hs6_description": "Cereals; millet, seed",
    "level": 8,
    "chapter": "10",
    "description": "Ragi",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "10082140",
+   "hs6": "100821",
+   "hs6_description": "Cereals; millet, seed",
    "level": 8,
    "chapter": "10",
    "description": "Barnyard (Echinochloa esculenta (L.)",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "10082150",
+   "hs6": "100821",
+   "hs6_description": "Cereals; millet, seed",
    "level": 8,
    "chapter": "10",
    "description": "Proso (Panicum miliaceum (L.))",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "10082160",
+   "hs6": "100821",
+   "hs6_description": "Cereals; millet, seed",
    "level": 8,
    "chapter": "10",
    "description": "Foxtail (Setariaitalica (L.))",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "10082170",
+   "hs6": "100821",
+   "hs6_description": "Cereals; millet, seed",
    "level": 8,
    "chapter": "10",
    "description": "Kodo (Paspalum scrobiculatum (L.))",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "10082180",
+   "hs6": "100821",
+   "hs6_description": "Cereals; millet, seed",
    "level": 8,
    "chapter": "10",
    "description": "Little (Panicum sumatrense (L.))",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "10082191",
+   "hs6": "100821",
+   "hs6_description": "Cereals; millet, seed",
    "level": 8,
    "chapter": "10",
    "description": "Other:----Amaranth (Amaranthus (L.))",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "10082199",
+   "hs6": "100821",
+   "hs6_description": "Cereals; millet, seed",
    "level": 8,
    "chapter": "10",
    "description": "Other:----Other",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "100829",
+   "hs6": "100829",
+   "hs6_description": "Cereals; millet, other than seed",
    "level": 6,
    "chapter": "10",
    "description": "Millet : -- Other",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "10082910",
+   "hs6": "100829",
+   "hs6_description": "Cereals; millet, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Jawar",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "10082920",
+   "hs6": "100829",
+   "hs6_description": "Cereals; millet, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Bajra",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "10082930",
+   "hs6": "100829",
+   "hs6_description": "Cereals; millet, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Ragi",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "10082940",
+   "hs6": "100829",
+   "hs6_description": "Cereals; millet, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Barnyard (Echinochloa esculenta (L.))",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "10082950",
+   "hs6": "100829",
+   "hs6_description": "Cereals; millet, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Proso (Panicum miliaceum (L.))",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "10082960",
+   "hs6": "100829",
+   "hs6_description": "Cereals; millet, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Foxtail (Setariaitalica (L.))",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "10082970",
+   "hs6": "100829",
+   "hs6_description": "Cereals; millet, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Kodo (Paspalum scrobiculatum (L.))",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "10082980",
+   "hs6": "100829",
+   "hs6_description": "Cereals; millet, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Little (Panicum sumatrense (L.))",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "10082991",
+   "hs6": "100829",
+   "hs6_description": "Cereals; millet, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Other:----Amaranth (Amaranthus (L.))",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "10082999",
+   "hs6": "100829",
+   "hs6_description": "Cereals; millet, other than seed",
    "level": 8,
    "chapter": "10",
    "description": "Other:----Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "100830",
+   "hs6": "100830",
+   "hs6_description": "Cereals; canary seeds",
    "level": 6,
    "chapter": "10",
    "description": "Canary seeds",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "10083010",
+   "hs6": "100830",
+   "hs6_description": "Cereals; canary seeds",
    "level": 8,
    "chapter": "10",
    "description": "Of seed quality",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "10083090",
+   "hs6": "100830",
+   "hs6_description": "Cereals; canary seeds",
    "level": 8,
    "chapter": "10",
    "description": "Other",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "10084000",
+   "hs6": "100840",
+   "hs6_description": "Cereals; fonio (Digitaria spp.)",
    "level": 8,
    "chapter": "10",
    "description": "Fonio (Digitaria spp)",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "10085000",
+   "hs6": "100850",
+   "hs6_description": "Cereals; quinoa (Chenopodium quinoa)",
    "level": 8,
    "chapter": "10",
    "description": "Quinoa (Chenopodium quinoa)",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "10086000",
+   "hs6": "100860",
+   "hs6_description": "Cereals; triticale",
    "level": 8,
    "chapter": "10",
    "description": "Triticale",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "100890",
+   "hs6": "100890",
+   "hs6_description": "Cereals; n.e.c. in chapter 10",
    "level": 6,
    "chapter": "10",
    "description": "Other cereals",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "10089010",
+   "hs6": "100890",
+   "hs6_description": "Cereals; n.e.c. in chapter 10",
    "level": 8,
    "chapter": "10",
    "description": "Of seed quality",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "10089090",
+   "hs6": "100890",
+   "hs6_description": "Cereals; n.e.c. in chapter 10",
    "level": 8,
    "chapter": "10",
    "description": "Other",

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "8801",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "88",
    "description": "Balloons and dirigibles; gliders, hang gliders and other nonpowered aircraft.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "880100",
+   "hs6": "880100",
+   "hs6_description": "Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft.",
    "level": 6,
    "chapter": "88",
    "description": "Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft:",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "88010011",
+   "hs6": "880100",
+   "hs6_description": "Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft.",
    "level": 8,
    "chapter": "88",
    "description": "Gliders and hang gliders",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "88010020",
+   "hs6": "880100",
+   "hs6_description": "Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft.",
    "level": 8,
    "chapter": "88",
    "description": "Balloons",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "88010090",
+   "hs6": "880100",
+   "hs6_description": "Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft.",
    "level": 8,
    "chapter": "88",
    "description": "Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "8802",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "88",
    "description": "OTHER AIRCRAFT, EXCEPT UNMANNED AIRCRAFT OF HEADING 88.06 (FOR EXAMPLE, HELICOPTERS, AEROPLANES), SPACECRAFT (INCLUDING SATELLITES) AND SUBORBITAL AND SPACECRAFT LAUNCH VEHICLES",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "88021100",
+   "hs6": "880211",
+   "hs6_description": "Helicopters, except unmanned; of an unladen weight not exceeding 2000kg",
    "level": 8,
    "chapter": "88",
    "description": "Helicopters : -- Of an unladen weight not exceeding 2,000 kg",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "88021200",
+   "hs6": "880212",
+   "hs6_description": "Helicopters, except unmanned; of an unladen weight exceeding 2000kg",
    "level": 8,
    "chapter": "88",
    "description": "Helicopters : -- Of an unladen weight exceeding 2,000 kg",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "88022000",
+   "hs6": "880220",
+   "hs6_description": "Aeroplanes and other aircraft, except unmanned; of an unladen weight not exceeding 2000kg",
    "level": 8,
    "chapter": "88",
    "description": "Aeroplanes and other aircraft, of an unladen weight not exceeding 2,000 kg",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "88023000",
+   "hs6": "880230",
+   "hs6_description": "Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 2000kg but not exceeding 15,000kg",
    "level": 8,
    "chapter": "88",
    "description": "Aeroplanes and other aircraft, of an unladen weight exceeding 2,000 kg but not exceeding 15,000 kg",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "88024000",
+   "hs6": "880240",
+   "hs6_description": "Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 15,000kg",
    "level": 8,
    "chapter": "88",
    "description": "Aeroplanes and other aircraft, of an unladen weight exceeding 15,000 kg",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "88026000",
+   "hs6": "880260",
+   "hs6_description": "Spacecraft; (including satellites) and suborbital and spacecraft launch vehicles",
    "level": 8,
    "chapter": "88",
    "description": "Spacecraft (including satellites) and suborbital and spacecraft launch vehicles",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "8804",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "88",
    "description": "Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto.",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "880400",
+   "hs6": "880400",
+   "hs6_description": "Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto",
    "level": 6,
    "chapter": "88",
    "description": "Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto :",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "88040010",
+   "hs6": "880400",
+   "hs6_description": "Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto",
    "level": 8,
    "chapter": "88",
    "description": "Parachutes (including dirigible parachutes and paragliders) and parts and accessories thereof",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "88040020",
+   "hs6": "880400",
+   "hs6_description": "Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto",
    "level": 8,
    "chapter": "88",
    "description": "Rotochutes; parts and accessories thereof",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "8805",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "88",
    "description": "Aircraft launching gear; deck-arrestor or similar gear; ground flying trainers; parts of the foregoing articles.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "880510",
+   "hs6": "880510",
+   "hs6_description": "Aircraft launching gear, deck-arrestor or similar gear and parts thereof",
    "level": 6,
    "chapter": "88",
    "description": "Aircraft launching gear and parts thereof; deck-arrestor or similar gear and parts thereof",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "88051010",
+   "hs6": "880510",
+   "hs6_description": "Aircraft launching gear, deck-arrestor or similar gear and parts thereof",
    "level": 8,
    "chapter": "88",
    "description": "Aircraft launching gear",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "88051020",
+   "hs6": "880510",
+   "hs6_description": "Aircraft launching gear, deck-arrestor or similar gear and parts thereof",
    "level": 8,
    "chapter": "88",
    "description": "Deck arrestor or similar gear",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "88051030",
+   "hs6": "880510",
+   "hs6_description": "Aircraft launching gear, deck-arrestor or similar gear and parts thereof",
    "level": 8,
    "chapter": "88",
    "description": "Part of aircraft launching gear and deck arrestor or similar gear",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "88052100",
+   "hs6": "880521",
+   "hs6_description": "Ground flying trainers and parts thereof; air combat simulators and parts thereof",
    "level": 8,
    "chapter": "88",
    "description": "Ground flying trainers and parts thereof : -- Air combat simulators and parts thereof",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "88052900",
+   "hs6": "880529",
+   "hs6_description": "Ground flying trainers and parts thereof; other than air combat simulators and parts thereof",
    "level": 8,
    "chapter": "88",
    "description": "Ground flying trainers and parts thereof : -- Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "8806",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "88",
    "description": "UNMANNED AIRCRAFT",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "88061000",
+   "hs6": "880610",
+   "hs6_description": "Unmanned aircraft; for carriage of passengers",
    "level": 8,
    "chapter": "88",
    "description": "Designed for the carriage of passengers",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "88062100",
+   "hs6": "880621",
+   "hs6_description": "Unmanned aircraft; for remote-controlled flight only, for other than for carriage of passengers, with the maximum take-off weight of not more than 250g",
    "level": 8,
    "chapter": "88",
    "description": "Other, for remote-controlled flight only: - - With maximum take-off weight not more than 250 g",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "88062200",
+   "hs6": "880622",
+   "hs6_description": "Unmanned aircraft; for remote-controlled flight only, for other than for carriage of passengers, with the maximum take-off weight of more than 250g but not more than 7kg",
    "level": 8,
    "chapter": "88",
    "description": "Other, for remote-controlled flight only: - - With maximum take-off weight more than 250 g but not more than 7 kg",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "88062300",
+   "hs6": "880623",
+   "hs6_description": "Unmanned aircraft; for remote-controlled flight only, for other than for carriage of passengers, with the maximum take-off weight of more than 7kg but not more than 25kg",
    "level": 8,
    "chapter": "88",
    "description": "Other, for remote-controlled flight only: - - With maximum take-off weight more than 7 kg but not more than 25 kg",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "88062400",
+   "hs6": "880624",
+   "hs6_description": "Unmanned aircraft; for remote-controlled flight only, for other than for carriage of passengers, with the maximum take-off weight of more than 25kg but not more than 150kg",
    "level": 8,
    "chapter": "88",
    "description": "Other, for remote-controlled flight only: - - With maximum take-off weight more than 25 kg but not more than 150 kg",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "88062900",
+   "hs6": "880629",
+   "hs6_description": "Unmanned aircraft; for remote-controlled flight only, for other than for carriage of passengers, with the maximum take-off weight of more than 150kg",
    "level": 8,
    "chapter": "88",
    "description": "Other, for remote-controlled flight only: - - Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "88069100",
+   "hs6": "880691",
+   "hs6_description": "Unmanned aircraft; for other than remote-controlled flight and other than for carriage of passengers with a maximum take-off weight not more than 250g",
    "level": 8,
    "chapter": "88",
    "description": "Other: - - With maximum take-off weight not more than 250 g",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "88069200",
+   "hs6": "880692",
+   "hs6_description": "Unmanned aircraft; for other than remote-controlled flight and other than for carriage of passengers with a maximum take-off weight more than 250g but not more than 7kg",
    "level": 8,
    "chapter": "88",
    "description": "Other: - - With maximum take-off weight more than 250 g but not more than 7 kg",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "88069300",
+   "hs6": "880693",
+   "hs6_description": "Unmanned aircraft; for other than remote-controlled flight and other than for carriage of passengers with a maximum take-off weight more than 7kg but not more than 25kg",
    "level": 8,
    "chapter": "88",
    "description": "Other: - - With maximum take-off weight more than 7 kg but not more than 25 kg",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "88069400",
+   "hs6": "880694",
+   "hs6_description": "Unmanned aircraft; for other than remote-controlled flight and other than for carriage of passengers with a maximum take-off weight more than 25kg but not more than 150kg",
    "level": 8,
    "chapter": "88",
    "description": "Other: - - With maximum take-off weight more than 25 kg but not more than 150 kg",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "88069900",
+   "hs6": "880699",
+   "hs6_description": "Unmanned aircraft; for other than remote-controlled flight and other than for carriage of passengers with a maximum take-off weight more than 150kg",
    "level": 8,
    "chapter": "88",
    "description": "Other: - - Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "8807",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "88",
    "description": "PARTS OF GOODS OF HEADING 8801, 8802 OR 8806",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "88071000",
+   "hs6": "880710",
+   "hs6_description": "Aircraft and spacecraft; propellers and rotors and parts thereof",
    "level": 8,
    "chapter": "88",
    "description": "Propellers and rotors and parts thereof",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "88072000",
+   "hs6": "880720",
+   "hs6_description": "Aircraft and spacecraft; under-carriages and parts thereof",
    "level": 8,
    "chapter": "88",
    "description": "Under-carriages and parts thereof",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "880730",
+   "hs6": "880730",
+   "hs6_description": "Aircraft and spacecraft; parts of aeroplanes, helicopters or unmanned aircraft n.e.c. in heading no. 8807",
    "level": 6,
    "chapter": "88",
    "description": "Other parts of aeroplanes, helicopters or unmanned aircraft :",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "88073010",
+   "hs6": "880730",
+   "hs6_description": "Aircraft and spacecraft; parts of aeroplanes, helicopters or unmanned aircraft n.e.c. in heading no. 8807",
    "level": 8,
    "chapter": "88",
    "description": "Of aeroplanes, helicopters",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "88073020",
+   "hs6": "880730",
+   "hs6_description": "Aircraft and spacecraft; parts of aeroplanes, helicopters or unmanned aircraft n.e.c. in heading no. 8807",
    "level": 8,
    "chapter": "88",
    "description": "Of unmanned aircraft",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "88079000",
+   "hs6": "880790",
+   "hs6_description": "Aircraft and spacecraft; parts thereof n.e.c. in chapter 88",
    "level": 8,
    "chapter": "88",
    "description": "Other",

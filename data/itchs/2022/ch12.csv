@@ -1,150 +1,150 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-1201,4,12,"Soya beans, whether or not broken.",,,,,,2026-10-22
-12011000,8,12,Seed,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-12019000,8,12,Other,Free,,,,,2026-10-22
-1202,4,12,"Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken.",,,,,,2026-10-22
-120230,6,12,Seed,,,,,,2026-10-22
-12023010,8,12,H. P. S,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-12023090,8,12,Other,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-120241,6,12,Other : -- In shell,,,,,,2026-10-22
-12024110,8,12,H.P.S,Free,,,,,2026-10-22
-12024190,8,12,Other,Free,,,,,2026-10-22
-120242,6,12,"Other : -- Shelled, whether or not broken",,,,,,2026-10-22
-12024210,8,12,"Kernels, H.P.S",Free,,,,,2026-10-22
-12024220,8,12,"Kernels, other",Free,,,,,2026-10-22
-12024290,8,12,Other,Free,,,,,2026-10-22
-12030000,8,12,Copra.,Restricted,.,,11/2023,2023-06-14,2026-10-22
-1204,4,12,"Linseed, whether or not broken.",,,,,,2026-10-22
-120400,6,12,"Linseed, whether or not broken:",,,,,,2026-10-22
-12040010,8,12,Of seed quality,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-12040090,8,12,Other,Free,,,,,2026-10-22
-1205,4,12,"Rape or colza seeds, whether or not broken.",,,,,,2026-10-22
-12051000,8,12,Low erucic acid rape or colza seeds,Free,Subject to Quarantine condition.,,,,2026-10-22
-12059000,8,12,Other,Free,,,,,2026-10-22
-1206,4,12,"Sunflower seeds, whether or not broken.",,,,,,2026-10-22
-120600,6,12,"Sunflower seeds, whether or not broken:",,,,,,2026-10-22
-12060010,8,12,Of seed quality,Free,Subject to Quarantine condition.,,,,2026-10-22
-12060090,8,12,Other,Free,,,,,2026-10-22
-1207,4,12,"Other oil seeds and oleaginous fruits, whether or not broken.",,,,,,2026-10-22
-120710,6,12,Palm nuts and kernels,,,,,,2026-10-22
-12071010,8,12,Palm nuts,Free,,,,,2026-10-22
-12071090,8,12,Palm kernels,Free,,,,,2026-10-22
-12072100,8,12,Cotton seeds : -- Seed,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-12072900,8,12,Cotton seeds : -- Other,Free,,,,,2026-10-22
-120730,6,12,Castor oil seeds,,,,,,2026-10-22
-12073010,8,12,Of seed quality,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-12073090,8,12,Other,Free,,,,,2026-10-22
-120740,6,12,Sesamum seeds,,,,,,2026-10-22
-12074010,8,12,Of seed quality,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-12074090,8,12,Other,Free,,,,,2026-10-22
-120750,6,12,Mustard seeds,,,,,,2026-10-22
-12075010,8,12,Of seed quality,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-12075090,8,12,Other,Free,,,,,2026-10-22
-120760,6,12,Safflower (Carthamus tinctorius) seeds,,,,,,2026-10-22
-12076010,8,12,Of seed quality,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-12076090,8,12,Other,Free,,,,,2026-10-22
-120770,6,12,Melon seeds,,,,,,2026-10-22
-12077010,8,12,Of seed quality,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-12077090,8,12,Other,Restricted,"i. Imports subject to Policy Condition (4) of the Chapter. ii. Import Policy of Melon Seeds is ‘Free’ with effect from 01st May 2024 up to 30th June 2024. Consignments with 'shipped on board' Bill of lading issued till 30th June 2024 shall be treated as ""Free"" to import. iii. Imports shall be permitted only on ‘Actual User’ basis to Processors of Melon Seeds only. iv. Imports shall be permitted only against a valid FSSAl Manufacturer Licence for Melon Seeds in line with FSSAI Order RCD-12005/1/2021-Regulatory-FSSAI-Part(2) (E-1638) dated 15.03.2024. v. All imports shall be subject to compulsory registration under Melon Seeds Import Monitoring System (MS-IMS).",4,05/2023,2024-04-05,2026-10-22
-12079100,8,12,Other : -- Poppy seeds,Free,Import subject to Policy Condition (3) of the Chapter,3,,,2026-10-22
-120799,6,12,Other : -- Other,,,,,,2026-10-22
-12079910,8,12,Ajams,Free,,,,,2026-10-22
-12079920,8,12,Mango kernel,Free,,,,,2026-10-22
-12079930,8,12,Niger seed,Free,,,,,2026-10-22
-12079940,8,12,Kokam,Free,,,,,2026-10-22
-12079950,8,12,--- Shea nuts,Free,,,24/2026-27,2026-07-22,2026-10-22
-12079990,8,12,Other,Free,,,,,2026-10-22
-1208,4,12,"Flours and meals of oil seeds or oleaginous fruits, other than those of mustard.",,,,,,2026-10-22
-12081000,8,12,Of soya beans,Free,,,,,2026-10-22
-12089000,8,12,Other,Free,,,,,2026-10-22
-1209,4,12,"Seeds, fruit and spores, of a kind used for sowing.",,,,,,2026-10-22
-12091000,8,12,Sugar beet seeds,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-12092100,8,12,Seeds of forage plants : -- Lucerne (alfalfa) seeds,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-12092200,8,12,Seeds of forage plants : -- Clover (Trifolium spp.) seeds,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-12092300,8,12,Seeds of forage plants : -- Fescue seeds,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-12092400,8,12,Seeds of forage plants : -- Kentucky blue grass (Poa pratensis L.) seeds,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-12092500,8,12,"Seeds of forage plants : -- Rye grass (Lolium multiflorum Lam., Lolium perenne L.) seeds",Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-120929,6,12,Seeds of forage plants : -- Other,,,,,,2026-10-22
-12092910,8,12,Australian lupin seeds,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-12092990,8,12,Other,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-12093000,8,12,Seeds of herbaceous plants cultivated principally for their flowers,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-120991,6,12,Other : -- Vegetable seeds,,,,,,2026-10-22
-12099110,8,12,Of Cabbage,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-12099120,8,12,Of Cauliflower,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-12099130,8,12,Of Onion,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-12099140,8,12,Of Pea,Free,"Import is free subject to phytsanitary import conditions as per the Plant Quarantine (Regulation of Imports into India), Order 2003.",,09/2015-2020,2019-06-25,2026-10-22
-12099150,8,12,Of Radish,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-12099160,8,12,Of Tomato,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-12099170,8,12,Of chilly of genus Capsicum,,,,,,2026-10-22
-12099190,8,12,Other,Free,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-120999,6,12,Other : -- Other,,,,,,2026-10-22
-12099910,8,12,Fruit seeds for planting or sowings,Free,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
-12099990,8,12,Other,Restricted,"Import subject to Policy Condition (4) of Chapter. However, import of Pomegranate seeds will be free.",4,,,2026-10-22
-1210,4,12,"Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin.",,,,,,2026-10-22
-12101000,8,12,"Hop cones, neither ground nor powdered nor in the form of pellets",Free,,,,,2026-10-22
-12102000,8,12,"Hop cones, ground, powdered or in the form of pellets; lupulin",Free,,,,,2026-10-22
-1211,4,12,"Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered.",,,,,,2026-10-22
-12112000,8,12,Ginseng roots,Free,,,,,2026-10-22
-12113000,8,12,Coca leaf,Restricted,,,,,2026-10-22
-12114000,8,12,Poppy straw,Restricted,,,,,2026-10-22
-12116000,8,12,Bark of African cherry (Prunus africana),Free,,,54/2015-2020,2022-02-09,2026-10-22
-121190,6,12,Other,,,,,,2026-10-22
-12119011,8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Ambrette seeds",Free,,,,,2026-10-22
-12119012,8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Nuxvomica, dried ripe seeds",Free,,,,,2026-10-22
-12119013,8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Psyllium seed (isobgul)",Free,,,,,2026-10-22
-12119014,8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Neem seed",Free,,,,,2026-10-22
-12119015,8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :----Jojoba seed",Restricted,Import subject to Policy Condition (4) below.,4,,,2026-10-22
-12119016,8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp - - - - Garcinia",Free,.,,08/2023,2023-05-29,2026-10-22
-12119019,8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Other",Restricted,,,,,2026-10-22
-12119021,8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Belladona leaves",Free,,,,,2026-10-22
-12119022,8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Senna leaves and pods",Free,,,,,2026-10-22
-12119023,8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Neem leaves",Free,,,,,2026-10-22
-12119024,8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Gymnema",Free,,,,,2026-10-22
-12119025,8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Cubeb",Free,,,,,2026-10-22
-12119026,8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Pyrethrum",Free,,,,,2026-10-22
-12119029,8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods : ---- Other",Free,,,,,2026-10-22
-12119031,8,12,"Bark, husk, and rind: ---- Cascara sagrada bark",Free,,,,,2026-10-22
-12119032,8,12,"Bark, husk, and rind: ---- Psyllium husk (isobgul husk)",Free,,,,,2026-10-22
-12119033,8,12,"Bark, husk, and rind: ---- Gamboge fruit rind",Free,,,,,2026-10-22
-12119034,8,12,"Bark, husk and rind: ----Ashoka (Saracaasoca.)",Free,.,,08/2023,2023-05-29,2026-10-22
-12119035,8,12,"Bark, husk and rind: ----Arjuna (Terminalia arjuna)",Free,.,,08/2023,2023-05-29,2026-10-22
-12119039,8,12,"Bark, husk, and rind: ---- Other",Free,,,,,2026-10-22
-12119041,8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Belladona roots",Free,,,,,2026-10-22
-12119042,8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Galangal rhizomes and roots",Free,,,,,2026-10-22
-12119043,8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Ipecac dried rhizome and roots",Free,,,,,2026-10-22
-12119044,8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Serpentina roots (rowwalfia serpentina and other species of rowwalfias)",Restricted,Import subject to the provisions of Convention of International Trade in Endangered Species of Wild Fauna and Flora (CITES).,,,,2026-10-22
-12119045,8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Zedovary roots",Free,,,,,2026-10-22
-12119046,8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Kuth root",Restricted,Import subject to the provisions of Convention of International Trade in Endangered Species of Wild Fauna and Flora (CITES) and Wildlife (Protection) act 1972.,,,,2026-10-22
-12119047,8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Sarasaparilla roots",Free,,,,,2026-10-22
-12119048,8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Sweet flag rhizomes",Free,,,,,2026-10-22
-12119049,8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Other",Free,,,,,2026-10-22
-12119050,8,12,Roots and Rhizomes: ---- Sandalwood chips and dust,Free,,,,,2026-10-22
-12119051,8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Sandalwood chips and dust",Free,.,,08/2023,2023-05-29,2026-10-22
-12119052,8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Vinca rosea herbs",Free,.,,08/2023,2023-05-29,2026-10-22
-12119053,8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Mint",Free,.,,08/2023,2023-05-29,2026-10-22
-12119054,8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Agarwood",Restricted,Import will be subject to the provisions of Convention of International Trade in Endangered Species of Wild Fauna and Flora (CITES).,,08/2023,2023-05-29,2026-10-22
-12119055,8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Chirata",Free,.,,08/2023,2023-05-29,2026-10-22
-12119056,8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Basil, hyssop, rosemary, sage and savory",Free,.,,08/2023,2023-05-29,2026-10-22
-12119057,8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Ashwagandha (Withaniasomnifera)",Free,.,,08/2023,2023-05-29,2026-10-22
-12119058,8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Giloy (Tinospora cordifolia)",Free,.,,08/2023,2023-05-29,2026-10-22
-12119059,8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Other",Free,.,,08/2023,2023-05-29,2026-10-22
-12119090,8,12,Other,Free,.,,08/2023,2023-05-29,2026-10-22
-1212,4,12,"Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh, chilled, frozen or dried, whether or not ground; stones and kernels and other vegetable products (including unroasted chicory roots of the variety Cichorium intybus sativum) of a kind used primarily for human consumption, not elsewhere specified or included.",,,,,,2026-10-22
-121221,6,12,Other : -- Fit for human consumption,,,,,,2026-10-22
-12122110,8,12,Seaweeds,Free,,,,,2026-10-22
-12122190,8,12,Other algae,Free,,,,,2026-10-22
-121229,6,12,- Other : --Other,,,,,,2026-10-22
-12122910,8,12,Seaweeds,Free,,,,,2026-10-22
-12122990,8,12,Other algae,Free,,,,,2026-10-22
-12129100,8,12,Other : -- Sugar beet,Free,,,,,2026-10-22
-12129200,8,12,Other : -- Locust beans (carob),Free,,,,,2026-10-22
-12129300,8,12,Other : -- Sugar cane,Free,,,,,2026-10-22
-12129400,8,12,Other : -- Chicory roots,Free,,,,,2026-10-22
-121299,6,12,Other : -- Other,,,,,,2026-10-22
-12129910,8,12,Kokam (cocum) flowers,Free,,,,,2026-10-22
-12129920,8,12,Mohua flowers,Free,,,,,2026-10-22
-12129990,8,12,Other,Free,,,,,2026-10-22
-12130000,8,12,"Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form of pellets.",Free,,,,,2026-10-22
-1214,4,12,"Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets.",,,,,,2026-10-22
-12141000,8,12,Lucerne (alfalfa) meal and pellets,Free,,,,,2026-10-22
-12149000,8,12,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+1201,,,4,12,"Soya beans, whether or not broken.",,,,,,2026-10-22
+12011000,120110,"Soya beans; seed, whether or not broken",8,12,Seed,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+12019000,120190,"Soya beans; other than seed, whether or not broken",8,12,Other,Free,,,,,2026-10-22
+1202,,,4,12,"Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken.",,,,,,2026-10-22
+120230,120230,"Ground-nuts; seed, not roasted or otherwise cooked, whether or not shelled or broken",6,12,Seed,,,,,,2026-10-22
+12023010,120230,"Ground-nuts; seed, not roasted or otherwise cooked, whether or not shelled or broken",8,12,H. P. S,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+12023090,120230,"Ground-nuts; seed, not roasted or otherwise cooked, whether or not shelled or broken",8,12,Other,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+120241,120241,"Ground-nuts; other than seed, not roasted or otherwise cooked, in shell",6,12,Other : -- In shell,,,,,,2026-10-22
+12024110,120241,"Ground-nuts; other than seed, not roasted or otherwise cooked, in shell",8,12,H.P.S,Free,,,,,2026-10-22
+12024190,120241,"Ground-nuts; other than seed, not roasted or otherwise cooked, in shell",8,12,Other,Free,,,,,2026-10-22
+120242,120242,"Ground-nuts; other than seed, not roasted or otherwise cooked, shelled, whether or not broken,",6,12,"Other : -- Shelled, whether or not broken",,,,,,2026-10-22
+12024210,120242,"Ground-nuts; other than seed, not roasted or otherwise cooked, shelled, whether or not broken,",8,12,"Kernels, H.P.S",Free,,,,,2026-10-22
+12024220,120242,"Ground-nuts; other than seed, not roasted or otherwise cooked, shelled, whether or not broken,",8,12,"Kernels, other",Free,,,,,2026-10-22
+12024290,120242,"Ground-nuts; other than seed, not roasted or otherwise cooked, shelled, whether or not broken,",8,12,Other,Free,,,,,2026-10-22
+12030000,120300,Copra,8,12,Copra.,Restricted,.,,11/2023,2023-06-14,2026-10-22
+1204,,,4,12,"Linseed, whether or not broken.",,,,,,2026-10-22
+120400,120400,"Oil seeds; linseed, whether or not broken",6,12,"Linseed, whether or not broken:",,,,,,2026-10-22
+12040010,120400,"Oil seeds; linseed, whether or not broken",8,12,Of seed quality,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+12040090,120400,"Oil seeds; linseed, whether or not broken",8,12,Other,Free,,,,,2026-10-22
+1205,,,4,12,"Rape or colza seeds, whether or not broken.",,,,,,2026-10-22
+12051000,120510,"Oil seeds; low erucic acid rape or colza seeds, whether or not broken",8,12,Low erucic acid rape or colza seeds,Free,Subject to Quarantine condition.,,,,2026-10-22
+12059000,120590,"Oil seeds; rape or colza seeds, other than low erucic, whether or not broken",8,12,Other,Free,,,,,2026-10-22
+1206,,,4,12,"Sunflower seeds, whether or not broken.",,,,,,2026-10-22
+120600,120600,"Oil seeds; sunflower seeds, whether or not broken",6,12,"Sunflower seeds, whether or not broken:",,,,,,2026-10-22
+12060010,120600,"Oil seeds; sunflower seeds, whether or not broken",8,12,Of seed quality,Free,Subject to Quarantine condition.,,,,2026-10-22
+12060090,120600,"Oil seeds; sunflower seeds, whether or not broken",8,12,Other,Free,,,,,2026-10-22
+1207,,,4,12,"Other oil seeds and oleaginous fruits, whether or not broken.",,,,,,2026-10-22
+120710,120710,"Oil seeds; palm nuts and kernels, whether or not broken",6,12,Palm nuts and kernels,,,,,,2026-10-22
+12071010,120710,"Oil seeds; palm nuts and kernels, whether or not broken",8,12,Palm nuts,Free,,,,,2026-10-22
+12071090,120710,"Oil seeds; palm nuts and kernels, whether or not broken",8,12,Palm kernels,Free,,,,,2026-10-22
+12072100,120721,"Oil seeds; cotton seeds, seed, whether or not broken",8,12,Cotton seeds : -- Seed,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+12072900,120729,"Oil seeds; cotton seeds, other than seed, whether or not broken",8,12,Cotton seeds : -- Other,Free,,,,,2026-10-22
+120730,120730,"Oil seeds; castor oil seeds, whether or not broken",6,12,Castor oil seeds,,,,,,2026-10-22
+12073010,120730,"Oil seeds; castor oil seeds, whether or not broken",8,12,Of seed quality,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+12073090,120730,"Oil seeds; castor oil seeds, whether or not broken",8,12,Other,Free,,,,,2026-10-22
+120740,120740,"Oil seeds; sesamum seeds, whether or not broken",6,12,Sesamum seeds,,,,,,2026-10-22
+12074010,120740,"Oil seeds; sesamum seeds, whether or not broken",8,12,Of seed quality,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+12074090,120740,"Oil seeds; sesamum seeds, whether or not broken",8,12,Other,Free,,,,,2026-10-22
+120750,120750,"Oil seeds; mustard seeds, whether or not broken",6,12,Mustard seeds,,,,,,2026-10-22
+12075010,120750,"Oil seeds; mustard seeds, whether or not broken",8,12,Of seed quality,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+12075090,120750,"Oil seeds; mustard seeds, whether or not broken",8,12,Other,Free,,,,,2026-10-22
+120760,120760,"Oil seeds; safflower (Carthamus tinctorius) seeds, whether or not broken",6,12,Safflower (Carthamus tinctorius) seeds,,,,,,2026-10-22
+12076010,120760,"Oil seeds; safflower (Carthamus tinctorius) seeds, whether or not broken",8,12,Of seed quality,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+12076090,120760,"Oil seeds; safflower (Carthamus tinctorius) seeds, whether or not broken",8,12,Other,Free,,,,,2026-10-22
+120770,120770,"Oil seeds; melon seeds, whether or not broken",6,12,Melon seeds,,,,,,2026-10-22
+12077010,120770,"Oil seeds; melon seeds, whether or not broken",8,12,Of seed quality,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+12077090,120770,"Oil seeds; melon seeds, whether or not broken",8,12,Other,Restricted,"i. Imports subject to Policy Condition (4) of the Chapter. ii. Import Policy of Melon Seeds is ‘Free’ with effect from 01st May 2024 up to 30th June 2024. Consignments with 'shipped on board' Bill of lading issued till 30th June 2024 shall be treated as ""Free"" to import. iii. Imports shall be permitted only on ‘Actual User’ basis to Processors of Melon Seeds only. iv. Imports shall be permitted only against a valid FSSAl Manufacturer Licence for Melon Seeds in line with FSSAI Order RCD-12005/1/2021-Regulatory-FSSAI-Part(2) (E-1638) dated 15.03.2024. v. All imports shall be subject to compulsory registration under Melon Seeds Import Monitoring System (MS-IMS).",4,05/2023,2024-04-05,2026-10-22
+12079100,120791,"Oil seeds; poppy seeds, whether or not broken",8,12,Other : -- Poppy seeds,Free,Import subject to Policy Condition (3) of the Chapter,3,,,2026-10-22
+120799,120799,"Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",6,12,Other : -- Other,,,,,,2026-10-22
+12079910,120799,"Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",8,12,Ajams,Free,,,,,2026-10-22
+12079920,120799,"Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",8,12,Mango kernel,Free,,,,,2026-10-22
+12079930,120799,"Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",8,12,Niger seed,Free,,,,,2026-10-22
+12079940,120799,"Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",8,12,Kokam,Free,,,,,2026-10-22
+12079950,120799,"Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",8,12,--- Shea nuts,Free,,,24/2026-27,2026-07-22,2026-10-22
+12079990,120799,"Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",8,12,Other,Free,,,,,2026-10-22
+1208,,,4,12,"Flours and meals of oil seeds or oleaginous fruits, other than those of mustard.",,,,,,2026-10-22
+12081000,120810,Flours and meals; of soya beans,8,12,Of soya beans,Free,,,,,2026-10-22
+12089000,120890,Flours and meals of oil seeds or oleaginous fruits; excluding soya beans and mustard seeds,8,12,Other,Free,,,,,2026-10-22
+1209,,,4,12,"Seeds, fruit and spores, of a kind used for sowing.",,,,,,2026-10-22
+12091000,120910,"Seed; sugar beet seeds, of a kind used for sowing",8,12,Sugar beet seeds,Restricted,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+12092100,120921,"Seeds of forage plants; lucerne (alfalfa) seeds, of a kind used for sowing",8,12,Seeds of forage plants : -- Lucerne (alfalfa) seeds,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+12092200,120922,"Seeds of forage plants; clover (Trifolium spp.) seeds, of a kind used for sowing",8,12,Seeds of forage plants : -- Clover (Trifolium spp.) seeds,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+12092300,120923,"Seeds of forage plants; fescue seeds, of a kind used for sowing",8,12,Seeds of forage plants : -- Fescue seeds,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+12092400,120924,"Seeds of forage plants; Kentucky blue grass (Poa pratensis L.) seeds, of a kind used for sowing",8,12,Seeds of forage plants : -- Kentucky blue grass (Poa pratensis L.) seeds,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+12092500,120925,"Seeds of forage plants; rye grass (Lolium multiflorum Lam., Lolium perenne L.) seeds, of a kind used for sowing",8,12,"Seeds of forage plants : -- Rye grass (Lolium multiflorum Lam., Lolium perenne L.) seeds",Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+120929,120929,"Seeds of forage plants; other than lucerne, clover, fescue, Kentucky blue grass, and rye grass seeds, of a kind used for sowing",6,12,Seeds of forage plants : -- Other,,,,,,2026-10-22
+12092910,120929,"Seeds of forage plants; other than lucerne, clover, fescue, Kentucky blue grass, and rye grass seeds, of a kind used for sowing",8,12,Australian lupin seeds,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+12092990,120929,"Seeds of forage plants; other than lucerne, clover, fescue, Kentucky blue grass, and rye grass seeds, of a kind used for sowing",8,12,Other,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+12093000,120930,"Seeds of herbaceous plants; cultivated principally for their flowers, of a kind used for sowing",8,12,Seeds of herbaceous plants cultivated principally for their flowers,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+120991,120991,"Seeds; vegetable seeds, of a kind used for sowing",6,12,Other : -- Vegetable seeds,,,,,,2026-10-22
+12099110,120991,"Seeds; vegetable seeds, of a kind used for sowing",8,12,Of Cabbage,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+12099120,120991,"Seeds; vegetable seeds, of a kind used for sowing",8,12,Of Cauliflower,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+12099130,120991,"Seeds; vegetable seeds, of a kind used for sowing",8,12,Of Onion,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+12099140,120991,"Seeds; vegetable seeds, of a kind used for sowing",8,12,Of Pea,Free,"Import is free subject to phytsanitary import conditions as per the Plant Quarantine (Regulation of Imports into India), Order 2003.",,09/2015-2020,2019-06-25,2026-10-22
+12099150,120991,"Seeds; vegetable seeds, of a kind used for sowing",8,12,Of Radish,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+12099160,120991,"Seeds; vegetable seeds, of a kind used for sowing",8,12,Of Tomato,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+12099170,120991,"Seeds; vegetable seeds, of a kind used for sowing",8,12,Of chilly of genus Capsicum,,,,,,2026-10-22
+12099190,120991,"Seeds; vegetable seeds, of a kind used for sowing",8,12,Other,Free,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+120999,120999,"Seeds; n.e.c. in heading 1209, of a kind used for sowing",6,12,Other : -- Other,,,,,,2026-10-22
+12099910,120999,"Seeds; n.e.c. in heading 1209, of a kind used for sowing",8,12,Fruit seeds for planting or sowings,Free,Imports subject to Policy Condition (4) of the Chapter,4,,,2026-10-22
+12099990,120999,"Seeds; n.e.c. in heading 1209, of a kind used for sowing",8,12,Other,Restricted,"Import subject to Policy Condition (4) of Chapter. However, import of Pomegranate seeds will be free.",4,,,2026-10-22
+1210,,,4,12,"Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin.",,,,,,2026-10-22
+12101000,121010,Hop cones; neither ground nor powdered nor in the form of pellets,8,12,"Hop cones, neither ground nor powdered nor in the form of pellets",Free,,,,,2026-10-22
+12102000,121020,"Hop cones; ground, powdered or in the form of pellets; lupulin",8,12,"Hop cones, ground, powdered or in the form of pellets; lupulin",Free,,,,,2026-10-22
+1211,,,4,12,"Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered.",,,,,,2026-10-22
+12112000,121120,"Ginseng roots, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,Ginseng roots,Free,,,,,2026-10-22
+12113000,121130,"Coca leaf; of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,Coca leaf,Restricted,,,,,2026-10-22
+12114000,121140,"Poppy straw; of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,Poppy straw,Restricted,,,,,2026-10-22
+12116000,121160,"Bark of African cherry (Prunus africana); of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,Bark of African cherry (Prunus africana),Free,,,54/2015-2020,2022-02-09,2026-10-22
+121190,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",6,12,Other,,,,,,2026-10-22
+12119011,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Ambrette seeds",Free,,,,,2026-10-22
+12119012,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Nuxvomica, dried ripe seeds",Free,,,,,2026-10-22
+12119013,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Psyllium seed (isobgul)",Free,,,,,2026-10-22
+12119014,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Neem seed",Free,,,,,2026-10-22
+12119015,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :----Jojoba seed",Restricted,Import subject to Policy Condition (4) below.,4,,,2026-10-22
+12119016,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp - - - - Garcinia",Free,.,,08/2023,2023-05-29,2026-10-22
+12119019,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Other",Restricted,,,,,2026-10-22
+12119021,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Belladona leaves",Free,,,,,2026-10-22
+12119022,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Senna leaves and pods",Free,,,,,2026-10-22
+12119023,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Neem leaves",Free,,,,,2026-10-22
+12119024,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Gymnema",Free,,,,,2026-10-22
+12119025,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Cubeb",Free,,,,,2026-10-22
+12119026,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Pyrethrum",Free,,,,,2026-10-22
+12119029,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods : ---- Other",Free,,,,,2026-10-22
+12119031,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Bark, husk, and rind: ---- Cascara sagrada bark",Free,,,,,2026-10-22
+12119032,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Bark, husk, and rind: ---- Psyllium husk (isobgul husk)",Free,,,,,2026-10-22
+12119033,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Bark, husk, and rind: ---- Gamboge fruit rind",Free,,,,,2026-10-22
+12119034,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Bark, husk and rind: ----Ashoka (Saracaasoca.)",Free,.,,08/2023,2023-05-29,2026-10-22
+12119035,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Bark, husk and rind: ----Arjuna (Terminalia arjuna)",Free,.,,08/2023,2023-05-29,2026-10-22
+12119039,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Bark, husk, and rind: ---- Other",Free,,,,,2026-10-22
+12119041,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Belladona roots",Free,,,,,2026-10-22
+12119042,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Galangal rhizomes and roots",Free,,,,,2026-10-22
+12119043,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Ipecac dried rhizome and roots",Free,,,,,2026-10-22
+12119044,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Serpentina roots (rowwalfia serpentina and other species of rowwalfias)",Restricted,Import subject to the provisions of Convention of International Trade in Endangered Species of Wild Fauna and Flora (CITES).,,,,2026-10-22
+12119045,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Zedovary roots",Free,,,,,2026-10-22
+12119046,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Kuth root",Restricted,Import subject to the provisions of Convention of International Trade in Endangered Species of Wild Fauna and Flora (CITES) and Wildlife (Protection) act 1972.,,,,2026-10-22
+12119047,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Sarasaparilla roots",Free,,,,,2026-10-22
+12119048,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Sweet flag rhizomes",Free,,,,,2026-10-22
+12119049,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Other",Free,,,,,2026-10-22
+12119050,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,Roots and Rhizomes: ---- Sandalwood chips and dust,Free,,,,,2026-10-22
+12119051,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Sandalwood chips and dust",Free,.,,08/2023,2023-05-29,2026-10-22
+12119052,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Vinca rosea herbs",Free,.,,08/2023,2023-05-29,2026-10-22
+12119053,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Mint",Free,.,,08/2023,2023-05-29,2026-10-22
+12119054,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Agarwood",Restricted,Import will be subject to the provisions of Convention of International Trade in Endangered Species of Wild Fauna and Flora (CITES).,,08/2023,2023-05-29,2026-10-22
+12119055,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Chirata",Free,.,,08/2023,2023-05-29,2026-10-22
+12119056,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Basil, hyssop, rosemary, sage and savory",Free,.,,08/2023,2023-05-29,2026-10-22
+12119057,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Ashwagandha (Withaniasomnifera)",Free,.,,08/2023,2023-05-29,2026-10-22
+12119058,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Giloy (Tinospora cordifolia)",Free,.,,08/2023,2023-05-29,2026-10-22
+12119059,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,"Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Other",Free,.,,08/2023,2023-05-29,2026-10-22
+12119090,121190,"Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",8,12,Other,Free,.,,08/2023,2023-05-29,2026-10-22
+1212,,,4,12,"Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh, chilled, frozen or dried, whether or not ground; stones and kernels and other vegetable products (including unroasted chicory roots of the variety Cichorium intybus sativum) of a kind used primarily for human consumption, not elsewhere specified or included.",,,,,,2026-10-22
+121221,121221,"Seaweeds and other algae; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",6,12,Other : -- Fit for human consumption,,,,,,2026-10-22
+12122110,121221,"Seaweeds and other algae; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",8,12,Seaweeds,Free,,,,,2026-10-22
+12122190,121221,"Seaweeds and other algae; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",8,12,Other algae,Free,,,,,2026-10-22
+121229,121229,"Seaweeds and other algae; not fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",6,12,- Other : --Other,,,,,,2026-10-22
+12122910,121229,"Seaweeds and other algae; not fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",8,12,Seaweeds,Free,,,,,2026-10-22
+12122990,121229,"Seaweeds and other algae; not fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",8,12,Other algae,Free,,,,,2026-10-22
+12129100,121291,"Sugar beet; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",8,12,Other : -- Sugar beet,Free,,,,,2026-10-22
+12129200,121292,"Locust beans (carob); fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",8,12,Other : -- Locust beans (carob),Free,,,,,2026-10-22
+12129300,121293,"Sugar cane; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",8,12,Other : -- Sugar cane,Free,,,,,2026-10-22
+12129400,121294,"Chicory roots (Chicorium intybus sativum); fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",8,12,Other : -- Chicory roots,Free,,,,,2026-10-22
+121299,121299,"Vegetable products; fit for human consumption, n.e.c. in heading no. 1212, fresh, chilled, frozen or dried, whether or not ground",6,12,Other : -- Other,,,,,,2026-10-22
+12129910,121299,"Vegetable products; fit for human consumption, n.e.c. in heading no. 1212, fresh, chilled, frozen or dried, whether or not ground",8,12,Kokam (cocum) flowers,Free,,,,,2026-10-22
+12129920,121299,"Vegetable products; fit for human consumption, n.e.c. in heading no. 1212, fresh, chilled, frozen or dried, whether or not ground",8,12,Mohua flowers,Free,,,,,2026-10-22
+12129990,121299,"Vegetable products; fit for human consumption, n.e.c. in heading no. 1212, fresh, chilled, frozen or dried, whether or not ground",8,12,Other,Free,,,,,2026-10-22
+12130000,121300,"Cereal straw and husks; unprepared, whether or not chopped, ground, pressed or in the form of pellets",8,12,"Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form of pellets.",Free,,,,,2026-10-22
+1214,,,4,12,"Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets.",,,,,,2026-10-22
+12141000,121410,Lucerne (alfalfa) meal and pellets,8,12,Lucerne (alfalfa) meal and pellets,Free,,,,,2026-10-22
+12149000,121490,"Forage products including swedes, mangolds, fodder roots, hay, sainfoin, clover, forage kale, lupines, vetches etc., pelletised or otherwise",8,12,Other,Free,,,,,2026-10-22

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "8901",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "89",
    "description": "Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "8901",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "89",
    "description": "CRUISE SHIPS, EXCURSION BOATS , FERRY-BOATS, CARGO SHIPS, BARGES AND SIMILAR VESSELS FOR THE TRANSPORT OF PERSONS OR GOODS",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "890110",
+   "hs6": "890110",
+   "hs6_description": "Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",
    "level": 6,
    "chapter": "89",
    "description": "Cruise ships, excursion boats and similar vessels principally designed for the transport of persons; ferry-boats of all kinds",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "89011010",
+   "hs6": "890110",
+   "hs6_description": "Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",
    "level": 8,
    "chapter": "89",
    "description": "Ships",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "89011020",
+   "hs6": "890110",
+   "hs6_description": "Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",
    "level": 8,
    "chapter": "89",
    "description": "Launches",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "89011030",
+   "hs6": "890110",
+   "hs6_description": "Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",
    "level": 8,
    "chapter": "89",
    "description": "Boats",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "89011040",
+   "hs6": "890110",
+   "hs6_description": "Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",
    "level": 8,
    "chapter": "89",
    "description": "Barges",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "89011090",
+   "hs6": "890110",
+   "hs6_description": "Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",
    "level": 8,
    "chapter": "89",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "89012000",
+   "hs6": "890120",
+   "hs6_description": "Tankers",
    "level": 8,
    "chapter": "89",
    "description": "Tankers",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "89013000",
+   "hs6": "890130",
+   "hs6_description": "Vessels, refrigerated; other than tankers",
    "level": 8,
    "chapter": "89",
    "description": "Refrigerated vessels, other than those of subheading 8901.20",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "89019000",
+   "hs6": "890190",
+   "hs6_description": "Vessels; n.e.c. in heading no. 8901, for the transport of goods and other vessels for the transport of both persons and goods",
    "level": 8,
    "chapter": "89",
    "description": "Other vessels for the transport of goods and other vessels for the transport of both persons and goods",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "8902",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "89",
    "description": "Fishing vessels; factory ships and other vessels for processing or preserving fishery products.",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "890200",
+   "hs6": "890200",
+   "hs6_description": "Fishing vessels, factory ships and other vessels; for processing or preserving fishery products",
    "level": 6,
    "chapter": "89",
    "description": "Fishing vessels; factory ships and other vessels for processing or preserving fishery products :",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "89020010",
+   "hs6": "890200",
+   "hs6_description": "Fishing vessels, factory ships and other vessels; for processing or preserving fishery products",
    "level": 8,
    "chapter": "89",
    "description": "Trawlers and other fishing vessels",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "89020090",
+   "hs6": "890200",
+   "hs6_description": "Fishing vessels, factory ships and other vessels; for processing or preserving fishery products",
    "level": 8,
    "chapter": "89",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "8903",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "89",
    "description": "Yachts and other vessels for pleasure or sports; rowing boats and canoes.",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "89031100",
+   "hs6": "890311",
+   "hs6_description": "Yachts and other vessels; for pleasure or sports, inflatable (including rigid hull inflatable), fitted or designed to be fitted with a motor, unladen (net) weight (excluding the motor) not exceeding 100kg",
    "level": 8,
    "chapter": "89",
    "description": "Inflatable (including rigid hull inflatable) boats: - - Fitted or designed to be fitted with a motor, unladen (net) weight (excluding the motor) not exceeding 100 kg",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "89031200",
+   "hs6": "890312",
+   "hs6_description": "Yachts and other vessels; for pleasure or sports, inflatable (including rigid hull inflatable), not designed to be used with a motor and unladen (net) weight not exceeding 100kg",
    "level": 8,
    "chapter": "89",
    "description": "Inflatable (including rigid hull inflatable) boats: - - Not designed for use with a motor and unladen (net) weight not exceeding 100 kg",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "89031900",
+   "hs6": "890319",
+   "hs6_description": "Yachts and other vessels; for pleasure or sports, inflatable (including rigid hull inflatable), unladen (net) weight exceeding 100kg",
    "level": 8,
    "chapter": "89",
    "description": "Inflatable (including rigid hull inflatable) boats: - - Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "89032100",
+   "hs6": "890321",
+   "hs6_description": "Sailboats; (other than inflatable) with or without auxiliary motor, for pleasure or sports, of a length not exceeding 7.5m",
    "level": 8,
    "chapter": "89",
    "description": "Sailboats, other than inflatable, with or without auxiliary motor: - - Of a length not exceeding 7.5 m",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "89032200",
+   "hs6": "890322",
+   "hs6_description": "Sailboats; (other than inflatable) with or without auxiliary motor, for pleasure or sports, of a length exceeding 7.5m but not exceeding 24m",
    "level": 8,
    "chapter": "89",
    "description": "Sailboats, other than inflatable, with or without auxiliary motor: - - Of a length exceeding 7.5 m but not exceeding 24 m",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "89032300",
+   "hs6": "890323",
+   "hs6_description": "Sailboats; (other than inflatable) with or without auxiliary motor, for pleasure or sports, of a length exceeding 24m",
    "level": 8,
    "chapter": "89",
    "description": "Sailboats, other than inflatable, with or without auxiliary motor: - - Of a length exceeding 24 m",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "89033100",
+   "hs6": "890331",
+   "hs6_description": "Motorboats; (other than outboard motorboats), for pleasure or sports, other than inflatable, of a length not exceeding 7.5m",
    "level": 8,
    "chapter": "89",
    "description": "Motorboats, other than inflatable, not including outboard motorboats: - - Of a length not exceeding 7.5 m",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "89033200",
+   "hs6": "890332",
+   "hs6_description": "Motorboats; (other than outboard motorboats), for pleasure or sports, other than inflatable, of a length exceeding 7.5m but not exceeding 24m",
    "level": 8,
    "chapter": "89",
    "description": "Motorboats, other than inflatable, not including outboard motorboats: - - Of a length exceeding 7.5 m but not exceeding 24 m",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "89033300",
+   "hs6": "890333",
+   "hs6_description": "Motorboats; (other than outboard motorboats), for pleasure or sports, other than inflatable, of a length exceeding 24m",
    "level": 8,
    "chapter": "89",
    "description": "Motorboats, other than inflatable, not including outboard motorboats: - - Of a length exceeding 24 m",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "89039300",
+   "hs6": "890393",
+   "hs6_description": "Vessels; (other than sailboats and motorboats), for pleasure or sports, other than inflatable, of a length not exceeding 7.5m",
    "level": 8,
    "chapter": "89",
    "description": "Other: - - Of a length not exceeding 7.5 m",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "89039900",
+   "hs6": "890399",
+   "hs6_description": "Vessels; (other than sailboats and motorboats), for pleasure or sports, other than inflatable, of a length exceeding 7.5m",
    "level": 8,
    "chapter": "89",
    "description": "Other: - - Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "89040000",
+   "hs6": "890400",
+   "hs6_description": "Tugs and pusher craft",
    "level": 8,
    "chapter": "89",
    "description": "Tugs and pusher craft.",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "8905",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "89",
    "description": "Light-vessels, fire-floats, dredgers, floating cranes and other vessels the navigability of which is subsidiary to their main function; floating docks; floating or submersible drilling or production platforms.",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "89051000",
+   "hs6": "890510",
+   "hs6_description": "Dredgers",
    "level": 8,
    "chapter": "89",
    "description": "Dredgers",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "89052000",
+   "hs6": "890520",
+   "hs6_description": "Floating or submersible drilling or production platforms",
    "level": 8,
    "chapter": "89",
    "description": "Floating or submersible drilling or production platforms",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "890590",
+   "hs6": "890590",
+   "hs6_description": "Vessels; light, fire-floats, floating cranes and other vessels, the navigability of which is subsidiary to their main function, floating docks",
    "level": 6,
    "chapter": "89",
    "description": "Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "89059010",
+   "hs6": "890590",
+   "hs6_description": "Vessels; light, fire-floats, floating cranes and other vessels, the navigability of which is subsidiary to their main function, floating docks",
    "level": 8,
    "chapter": "89",
    "description": "Floating docks",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "89059090",
+   "hs6": "890590",
+   "hs6_description": "Vessels; light, fire-floats, floating cranes and other vessels, the navigability of which is subsidiary to their main function, floating docks",
    "level": 8,
    "chapter": "89",
    "description": "Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "8906",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "89",
    "description": "Other vessels, including warships and lifeboats other than rowing boats.",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "89061000",
+   "hs6": "890610",
+   "hs6_description": "Vessels; warships",
    "level": 8,
    "chapter": "89",
    "description": "Warships",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "890690",
+   "hs6": "890690",
+   "hs6_description": "Vessels; other, including lifeboats other than rowing boats, other than warships",
    "level": 6,
    "chapter": "89",
    "description": "Other:",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "89069010",
+   "hs6": "890690",
+   "hs6_description": "Vessels; other, including lifeboats other than rowing boats, other than warships",
    "level": 8,
    "chapter": "89",
    "description": "Patrol or surveillance boat, air-cushion vehicle, remote-operated vehicle",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "89069090",
+   "hs6": "890690",
+   "hs6_description": "Vessels; other, including lifeboats other than rowing boats, other than warships",
    "level": 8,
    "chapter": "89",
    "description": "Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "8907",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "89",
    "description": "Other floating structures (for example, rafts, tanks, cofferdams, landing-stages, buoys and beacons).",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "89071000",
+   "hs6": "890710",
+   "hs6_description": "Rafts; inflatable",
    "level": 8,
    "chapter": "89",
    "description": "Inflatable rafts",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "89079000",
+   "hs6": "890790",
+   "hs6_description": "Floating structures; tanks, coffer-dams, landing stages, buoys and beacons",
    "level": 8,
    "chapter": "89",
    "description": "Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "89080000",
+   "hs6": "890800",
+   "hs6_description": "Vessels and other floating structures; for breaking up",
    "level": 8,
    "chapter": "89",
    "description": "Vessels and other floating structures for breaking up",

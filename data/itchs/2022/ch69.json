@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "6901",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "69",
    "description": "Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (for example, kieselguhr, tripolite or diatomite) or of similar siliceous earths.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "69010010",
+   "hs6": "690100",
+   "hs6_description": "Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (e.g. kieselguhr, tripolite or diatomite) or of similar siliceous earths",
    "level": 8,
    "chapter": "69",
    "description": "Bricks",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "69010020",
+   "hs6": "690100",
+   "hs6_description": "Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (e.g. kieselguhr, tripolite or diatomite) or of similar siliceous earths",
    "level": 8,
    "chapter": "69",
    "description": "Blocks",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "69010030",
+   "hs6": "690100",
+   "hs6_description": "Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (e.g. kieselguhr, tripolite or diatomite) or of similar siliceous earths",
    "level": 8,
    "chapter": "69",
    "description": "Tiles",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "69010090",
+   "hs6": "690100",
+   "hs6_description": "Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (e.g. kieselguhr, tripolite or diatomite) or of similar siliceous earths",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "6902",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "69",
    "description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods, other than those of siliceous fossil meals or similar siliceous earths.",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "690210",
+   "hs6": "690210",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",
    "level": 6,
    "chapter": "69",
    "description": "Containing by weight, singly or together, more than 50 percent of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2O3",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "69021010",
+   "hs6": "690210",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",
    "level": 8,
    "chapter": "69",
    "description": "Magnesite bricks and shapes",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "69021020",
+   "hs6": "690210",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",
    "level": 8,
    "chapter": "69",
    "description": "Chrome magnesite bricks",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "69021030",
+   "hs6": "690210",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",
    "level": 8,
    "chapter": "69",
    "description": "Magnesite chrome bricks and shapes",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "69021040",
+   "hs6": "690210",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",
    "level": 8,
    "chapter": "69",
    "description": "Magnesite carbon bricks and shapes",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "69021050",
+   "hs6": "690210",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",
    "level": 8,
    "chapter": "69",
    "description": "Direct bonded basic bricks and shapes",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "69021090",
+   "hs6": "690210",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "690220",
+   "hs6": "690220",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",
    "level": 6,
    "chapter": "69",
    "description": "Containing by weight more than 50 percent of alumina (Al2O3), of silica (SiO2) or of a mixture or compound of these products",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "69022010",
+   "hs6": "690220",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",
    "level": 8,
    "chapter": "69",
    "description": "Silica bricks and shapes",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "69022020",
+   "hs6": "690220",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",
    "level": 8,
    "chapter": "69",
    "description": "High alumina bricks and shapes",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "69022030",
+   "hs6": "690220",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",
    "level": 8,
    "chapter": "69",
    "description": "Alumina carbon bricks and shapes",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "69022040",
+   "hs6": "690220",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",
    "level": 8,
    "chapter": "69",
    "description": "Silicon Carbide bricks and shapes",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "69022050",
+   "hs6": "690220",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",
    "level": 8,
    "chapter": "69",
    "description": "Mullite bricks",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "69022090",
+   "hs6": "690220",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "690290",
+   "hs6": "690290",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; n.e.c. in item no. 6902.1 or 6902.2",
    "level": 6,
    "chapter": "69",
    "description": "Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "69029010",
+   "hs6": "690290",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; n.e.c. in item no. 6902.1 or 6902.2",
    "level": 8,
    "chapter": "69",
    "description": "Fire clay bricks and shapes",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "69029020",
+   "hs6": "690290",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; n.e.c. in item no. 6902.1 or 6902.2",
    "level": 8,
    "chapter": "69",
    "description": "Graphite bricks and shapes",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "69029030",
+   "hs6": "690290",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; n.e.c. in item no. 6902.1 or 6902.2",
    "level": 8,
    "chapter": "69",
    "description": "Vermiculite insulation bricks",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "69029040",
+   "hs6": "690290",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; n.e.c. in item no. 6902.1 or 6902.2",
    "level": 8,
    "chapter": "69",
    "description": "Clay graphite stopper heads",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "69029090",
+   "hs6": "690290",
+   "hs6_description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; n.e.c. in item no. 6902.1 or 6902.2",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "6903",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "69",
    "description": "OTHER REFRACTORY CERAMIC GOODS (FOR EXAMPLE, RETORTS, CRUCIBLES, MUFFLES, NOZZLES, PLUGS, SUPPORTS, CUPELS, TUBES, PIPES, SHEATHS, RODS AND SLIDING GATES), OTHER THAN THOSE OF SILICEOUS FOSSIL MEALS OR OF SIMILAR SILICEOUS EARTHS",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "69031000",
+   "hs6": "690310",
+   "hs6_description": "Refractory ceramic goods; containing, by weight, more than 50% of free carbon, excluding those of siliceous fossil meals or similar earths",
    "level": 8,
    "chapter": "69",
    "description": "Containing by weight more than 50% of free carbon",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "690320",
+   "hs6": "690320",
+   "hs6_description": "Refractory ceramic goods; containing by weight more than 50% of alumina or of a mixture or compound of alumina and of silica, excluding those of siliceous fossil meals or similar earths",
    "level": 6,
    "chapter": "69",
    "description": "Containing by weight more than 50 percent of alumina (Al2O3) or of a mixture or compound of alumina and of silica (SiO2)",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "69032010",
+   "hs6": "690320",
+   "hs6_description": "Refractory ceramic goods; containing by weight more than 50% of alumina or of a mixture or compound of alumina and of silica, excluding those of siliceous fossil meals or similar earths",
    "level": 8,
    "chapter": "69",
    "description": "Silicon carbide crucibles",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "69032090",
+   "hs6": "690320",
+   "hs6_description": "Refractory ceramic goods; containing by weight more than 50% of alumina or of a mixture or compound of alumina and of silica, excluding those of siliceous fossil meals or similar earths",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "690390",
+   "hs6": "690390",
+   "hs6_description": "Refractory ceramic goods; composition of which n.e.c. in heading no. 6903, other than those of siliceous fossil meals or similar earths",
    "level": 6,
    "chapter": "69",
    "description": "Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "69039010",
+   "hs6": "690390",
+   "hs6_description": "Refractory ceramic goods; composition of which n.e.c. in heading no. 6903, other than those of siliceous fossil meals or similar earths",
    "level": 8,
    "chapter": "69",
    "description": "Zircon or zircon-mullite refractories",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "69039020",
+   "hs6": "690390",
+   "hs6_description": "Refractory ceramic goods; composition of which n.e.c. in heading no. 6903, other than those of siliceous fossil meals or similar earths",
    "level": 8,
    "chapter": "69",
    "description": "Basalt tiles",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "69039030",
+   "hs6": "690390",
+   "hs6_description": "Refractory ceramic goods; composition of which n.e.c. in heading no. 6903, other than those of siliceous fossil meals or similar earths",
    "level": 8,
    "chapter": "69",
    "description": "Ceramic fibres",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "69039040",
+   "hs6": "690390",
+   "hs6_description": "Refractory ceramic goods; composition of which n.e.c. in heading no. 6903, other than those of siliceous fossil meals or similar earths",
    "level": 8,
    "chapter": "69",
    "description": "Monolithics or castables (fire-clay, basic, silica, high alumina, insulating)",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "69039090",
+   "hs6": "690390",
+   "hs6_description": "Refractory ceramic goods; composition of which n.e.c. in heading no. 6903, other than those of siliceous fossil meals or similar earths",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "6904",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "69",
    "description": "Ceramic building bricks, flooring blocks, support or filler tiles and the like.",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "69041000",
+   "hs6": "690410",
+   "hs6_description": "Ceramic building bricks",
    "level": 8,
    "chapter": "69",
    "description": "Building bricks",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "69049000",
+   "hs6": "690490",
+   "hs6_description": "Ceramic flooring blocks, supports or filler tiles and the like (excluding building bricks)",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "6905",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "69",
    "description": "Roofing tiles, chimney-pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods.",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "69051000",
+   "hs6": "690510",
+   "hs6_description": "Ceramic roofing tiles",
    "level": 8,
    "chapter": "69",
    "description": "Roofing tiles",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "69059000",
+   "hs6": "690590",
+   "hs6_description": "Ceramic chimney-pots, cowls, chimney liners, architectural ornaments and other constructional goods (excluding roofing tiles)",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "69060000",
+   "hs6": "690600",
+   "hs6_description": "Ceramic pipes, conduits, guttering and pipe fittings",
    "level": 8,
    "chapter": "69",
    "description": "Ceramic pipes, conduits, guttering and pipe fittings",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "6907",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "69",
    "description": "Ceramic flags and paving, hearth or wall tiles; ceramic mosaic ceramics.",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "69072100",
+   "hs6": "690721",
+   "hs6_description": "Ceramic tiles; flags and paving, hearth or wall tiles other than those of subheadings 6907.30 and 6907.40, of a water absorption coefficient by weight not over 0.5%",
    "level": 8,
    "chapter": "69",
    "description": "Flags and paving, hearth or wall tiles, other than those of subheadings 6907.30 and 6907.40 : -- Of a water absorption coefficient by weight not exceeding 0.5 percent",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "69072200",
+   "hs6": "690722",
+   "hs6_description": "Ceramic tiles; flags and paving, hearth or wall tiles other than those of subheadings 6907.30 and 6907.40, of a water absorption coefficient by weight over 0.5% but not over 10%",
    "level": 8,
    "chapter": "69",
    "description": "Flags and paving, hearth or wall tiles, other than those of subheadings 6907.30 and 6907.40 : -- Of a water absorption coefficient by weight exceeding 0.5 percent but not exceeding 10 percent",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "69072300",
+   "hs6": "690723",
+   "hs6_description": "Ceramic tiles; flags and paving, hearth or wall tiles other than those of subheadings 6907.30 and 6907.40, of a water absorption coefficient by weight over 10%",
    "level": 8,
    "chapter": "69",
    "description": "Flags and paving, hearth or wall tiles, other than those of subheadings 6907.30 and 6907.40 : -- Of a water absorption coefficient by weight exceeding 10 percent",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "69073000",
+   "hs6": "690730",
+   "hs6_description": "Mosaic cubes and the like, other than those of subheading 6907.40",
    "level": 8,
    "chapter": "69",
    "description": "Mosaic cubes and the like, other than those of sub-heading 6907 40",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "69073000",
+   "hs6": "690730",
+   "hs6_description": "Mosaic cubes and the like, other than those of subheading 6907.40",
    "level": 8,
    "chapter": "69",
    "description": "Mosaic cubes and the like, other than those of sub-heading 6907 40",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "69074000",
+   "hs6": "690740",
+   "hs6_description": "Finishing ceramics",
    "level": 8,
    "chapter": "69",
    "description": "Finishing ceramics",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "6909",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "69",
    "description": "Ceramic wares for laboratory, chemical or other technical uses; ceramic troughs, tubs and similar receptacles of a kind used in agriculture; ceramic pots, jars and similar articles of a kind used for the conveyance or packing of goods.",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "69091100",
+   "hs6": "690911",
+   "hs6_description": "Ceramic wares; for laboratory, chemical or other technical uses, of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Ceramic wares for laboratory, chemical or other technical uses : -- Of porcelain or china",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "69091200",
+   "hs6": "690912",
+   "hs6_description": "Ceramic wares; for laboratory, chemical or other technical uses, articles having a hardness equivalent to 9 or more on the Mohs scale",
    "level": 8,
    "chapter": "69",
    "description": "Ceramic wares for laboratory, chemical or other technical uses : -- Articles having a hardness equivalent to 9 or more on the Mohs",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "690919",
+   "hs6": "690919",
+   "hs6_description": "Ceramic wares; for laboratory, chemical or other technical uses, other than articles having a hardness equivalent to 9 or more on the Mohs scale or of porcelain or china",
    "level": 6,
    "chapter": "69",
    "description": "Ceramic wares for laboratory, chemical or other technical uses : -- Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "69091910",
+   "hs6": "690919",
+   "hs6_description": "Ceramic wares; for laboratory, chemical or other technical uses, other than articles having a hardness equivalent to 9 or more on the Mohs scale or of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Ceramic filter candle",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "69091990",
+   "hs6": "690919",
+   "hs6_description": "Ceramic wares; for laboratory, chemical or other technical uses, other than articles having a hardness equivalent to 9 or more on the Mohs scale or of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "69099000",
+   "hs6": "690990",
+   "hs6_description": "Ceramic wares; pots, jars and similar articles of a kind used for the conveyance or packing of goods and ceramic troughs, tubs and similar receptacles used in agriculture",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "6910",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "69",
    "description": "Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures.",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "69101000",
+   "hs6": "691010",
+   "hs6_description": "Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures; of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Of porcelain or china",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "69109000",
+   "hs6": "691090",
+   "hs6_description": "Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures; of other than porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "6911",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "69",
    "description": "Tableware, kitchenware, other household articles and toilet articles, of porcelain or china.",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "691110",
+   "hs6": "691110",
+   "hs6_description": "Tableware and kitchenware; of porcelain or china",
    "level": 6,
    "chapter": "69",
    "description": "Tableware and kitchenware",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "69111011",
+   "hs6": "691110",
+   "hs6_description": "Tableware and kitchenware; of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Tableware: ----Of bone china and soft porcelain",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "69111019",
+   "hs6": "691110",
+   "hs6_description": "Tableware and kitchenware; of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Tableware: ----Other",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "69111021",
+   "hs6": "691110",
+   "hs6_description": "Tableware and kitchenware; of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Kitchenware: ----Of bone china and soft porcelain",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "69111029",
+   "hs6": "691110",
+   "hs6_description": "Tableware and kitchenware; of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Kitchenware: ----Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "691190",
+   "hs6": "691190",
+   "hs6_description": "Household and toilet articles; n.e.c. in heading no. 6911, of porcelain or china",
    "level": 6,
    "chapter": "69",
    "description": "Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "69119010",
+   "hs6": "691190",
+   "hs6_description": "Household and toilet articles; n.e.c. in heading no. 6911, of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Toilet articles",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "69119020",
+   "hs6": "691190",
+   "hs6_description": "Household and toilet articles; n.e.c. in heading no. 6911, of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Water filters of a capacity not exceeding 40 litres",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "69119090",
+   "hs6": "691190",
+   "hs6_description": "Household and toilet articles; n.e.c. in heading no. 6911, of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "6912",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "69",
    "description": "Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china.",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "691200",
+   "hs6": "691200",
+   "hs6_description": "Ceramic tableware, kitchenware, other household articles and toilet articles; other than of porcelain or china",
    "level": 6,
    "chapter": "69",
    "description": "Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china :",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "69120010",
+   "hs6": "691200",
+   "hs6_description": "Ceramic tableware, kitchenware, other household articles and toilet articles; other than of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Tableware",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "69120020",
+   "hs6": "691200",
+   "hs6_description": "Ceramic tableware, kitchenware, other household articles and toilet articles; other than of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Kitchenware",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "69120030",
+   "hs6": "691200",
+   "hs6_description": "Ceramic tableware, kitchenware, other household articles and toilet articles; other than of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Toilet articles",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "69120040",
+   "hs6": "691200",
+   "hs6_description": "Ceramic tableware, kitchenware, other household articles and toilet articles; other than of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Clay articles",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "69120090",
+   "hs6": "691200",
+   "hs6_description": "Ceramic tableware, kitchenware, other household articles and toilet articles; other than of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "6913",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "69",
    "description": "Statuettes and other ornamental ceramic articles.",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "69131000",
+   "hs6": "691310",
+   "hs6_description": "Ceramic statuettes and other ornamental ceramic articles, of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Of porcelain or china",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "69139000",
+   "hs6": "691390",
+   "hs6_description": "Ceramic statuettes and other ornamental ceramic articles; other than of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Other",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "6914",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "69",
    "description": "Other ceramic articles.",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "69141000",
+   "hs6": "691410",
+   "hs6_description": "Ceramic articles n.e.c. in chapter 69; of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Of porcelain or china",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "691490",
+   "hs6": "691490",
+   "hs6_description": "Ceramic articles n.e.c. in chapter 69; other than of porcelain or china",
    "level": 6,
    "chapter": "69",
    "description": "Other:",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "69149010",
+   "hs6": "691490",
+   "hs6_description": "Ceramic articles n.e.c. in chapter 69; other than of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Armour for ballistic protection",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "69149090",
+   "hs6": "691490",
+   "hs6_description": "Ceramic articles n.e.c. in chapter 69; other than of porcelain or china",
    "level": 8,
    "chapter": "69",
    "description": "Other",

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "3501",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "35",
    "description": "Casein, caseinates and other casein derivatives; casein glues.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "35011000",
+   "hs6": "350110",
+   "hs6_description": "Casein",
    "level": 8,
    "chapter": "35",
    "description": "Casein",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "35019000",
+   "hs6": "350190",
+   "hs6_description": "Caseinates and other casein derivatives; casein glues",
    "level": 8,
    "chapter": "35",
    "description": "Other",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "3502",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "35",
    "description": "Albumins (including concentrates of two or more whey proteins, containing by weight more than 80 percent whey proteins, calculated on the dry matter), albuminates and other albumin derivatives.",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "35021100",
+   "hs6": "350211",
+   "hs6_description": "Albumins; egg albumin, dried",
    "level": 8,
    "chapter": "35",
    "description": "Egg albumin : -- Dried",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "35021900",
+   "hs6": "350219",
+   "hs6_description": "Albumins; egg albumin, not dried",
    "level": 8,
    "chapter": "35",
    "description": "Egg albumin : -- Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "35022000",
+   "hs6": "350220",
+   "hs6_description": "Albumins; milk albumin, including concentrates of two or more whey proteins",
    "level": 8,
    "chapter": "35",
    "description": "Milk albumin, including concentrates of two or more whey proteins",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "35029000",
+   "hs6": "350290",
+   "hs6_description": "Albumins, albuminates and other albumin derivatives; other than egg or milk albumin, including concentrates of two or more whey proteins",
    "level": 8,
    "chapter": "35",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "3503",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "35",
    "description": "Gelatin (including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 35.01.",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "350300",
+   "hs6": "350300",
+   "hs6_description": "Gelatin (including gelatin in rectangular sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading no. 3501",
    "level": 6,
    "chapter": "35",
    "description": "Gelatin [including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured] and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 3501:",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "35030010",
+   "hs6": "350300",
+   "hs6_description": "Gelatin (including gelatin in rectangular sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading no. 3501",
    "level": 8,
    "chapter": "35",
    "description": "Isinglass",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "35030020",
+   "hs6": "350300",
+   "hs6_description": "Gelatin (including gelatin in rectangular sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading no. 3501",
    "level": 8,
    "chapter": "35",
    "description": "Gelatin, edible grade and not elsewhere specified or included",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "35030030",
+   "hs6": "350300",
+   "hs6_description": "Gelatin (including gelatin in rectangular sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading no. 3501",
    "level": 8,
    "chapter": "35",
    "description": "Glues derived from bones, hides and similar items; fish glues",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "35030090",
+   "hs6": "350300",
+   "hs6_description": "Gelatin (including gelatin in rectangular sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading no. 3501",
    "level": 8,
    "chapter": "35",
    "description": "Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "3504",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "35",
    "description": "Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed.",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "350400",
+   "hs6": "350400",
+   "hs6_description": "Peptones and their derivatives; other protein substances and their derivatives n.e.c. or included, hide powder, whether or not chromed",
    "level": 6,
    "chapter": "35",
    "description": "Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed:",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "35040010",
+   "hs6": "350400",
+   "hs6_description": "Peptones and their derivatives; other protein substances and their derivatives n.e.c. or included, hide powder, whether or not chromed",
    "level": 8,
    "chapter": "35",
    "description": "Peptones",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "35040091",
+   "hs6": "350400",
+   "hs6_description": "Peptones and their derivatives; other protein substances and their derivatives n.e.c. or included, hide powder, whether or not chromed",
    "level": 8,
    "chapter": "35",
    "description": "Other: ---- Isolated Soya protein",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "35040099",
+   "hs6": "350400",
+   "hs6_description": "Peptones and their derivatives; other protein substances and their derivatives n.e.c. or included, hide powder, whether or not chromed",
    "level": 8,
    "chapter": "35",
    "description": "Other: ---- Others",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "3505",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "35",
    "description": "Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches.",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "350510",
+   "hs6": "350510",
+   "hs6_description": "Dextrins and other modified starches",
    "level": 6,
    "chapter": "35",
    "description": "Dextrins and other modified starches",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "35051010",
+   "hs6": "350510",
+   "hs6_description": "Dextrins and other modified starches",
    "level": 8,
    "chapter": "35",
    "description": "Esterified starches",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "35051090",
+   "hs6": "350510",
+   "hs6_description": "Dextrins and other modified starches",
    "level": 8,
    "chapter": "35",
    "description": "Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "35052000",
+   "hs6": "350520",
+   "hs6_description": "Glues; based on starches, or on dextrins or other modified starches",
    "level": 8,
    "chapter": "35",
    "description": "Glues",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "3506",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "35",
    "description": "Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg.",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "35061000",
+   "hs6": "350610",
+   "hs6_description": "Glues or adhesives; prepared, products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1kg",
    "level": 8,
    "chapter": "35",
    "description": "products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "350691",
+   "hs6": "350691",
+   "hs6_description": "Adhesives; prepared, based on polymers of heading 3901 to 3913 or on rubber",
    "level": 6,
    "chapter": "35",
    "description": "Other : -- Adhesives based on polymers of headings 39.01 to 39.13 or on rubber",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "35069110",
+   "hs6": "350691",
+   "hs6_description": "Adhesives; prepared, based on polymers of heading 3901 to 3913 or on rubber",
    "level": 8,
    "chapter": "35",
    "description": "Based on latex, Phenol Formaldehyde (PF), Urea Formaldehyde (UF) and Polyvinyl Alcohol (PVA)",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "35069190",
+   "hs6": "350691",
+   "hs6_description": "Adhesives; prepared, based on polymers of heading 3901 to 3913 or on rubber",
    "level": 8,
    "chapter": "35",
    "description": "Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "350699",
+   "hs6": "350699",
+   "hs6_description": "Glues and other adhesives; prepared, n.e.c. in heading no. 3506, not exceeding a net weight of 1kg",
    "level": 6,
    "chapter": "35",
    "description": "Other : -- Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "35069910",
+   "hs6": "350699",
+   "hs6_description": "Glues and other adhesives; prepared, n.e.c. in heading no. 3506, not exceeding a net weight of 1kg",
    "level": 8,
    "chapter": "35",
    "description": "Synthetic glue with phenol urea or cresol (with formaldehyde) as the main component",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "35069991",
+   "hs6": "350699",
+   "hs6_description": "Glues and other adhesives; prepared, n.e.c. in heading no. 3506, not exceeding a net weight of 1kg",
    "level": 8,
    "chapter": "35",
    "description": "Prepared glues and other prepared adhesives not elsewhere specified or included: ---- Based on starch, gum, latex, PF, UF and PVA",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "35069999",
+   "hs6": "350699",
+   "hs6_description": "Glues and other adhesives; prepared, n.e.c. in heading no. 3506, not exceeding a net weight of 1kg",
    "level": 8,
    "chapter": "35",
    "description": "Prepared glues and other prepared adhesives not elsewhere specified or included: ---- Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "3507",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "35",
    "description": "Enzymes; prepared enzymes not elsewhere specified or included.",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "350710",
+   "hs6": "350710",
+   "hs6_description": "Enzymes; rennet and concentrates thereof",
    "level": 6,
    "chapter": "35",
    "description": "Rennet and concentrates thereof",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "35071011",
+   "hs6": "350710",
+   "hs6_description": "Enzymes; rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Microbial rennet: ---- Animal rennet",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "35071019",
+   "hs6": "350710",
+   "hs6_description": "Enzymes; rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Microbial rennet: ---- Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "35071091",
+   "hs6": "350710",
+   "hs6_description": "Enzymes; rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Other: ---- Animal rennet",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "35071099",
+   "hs6": "350710",
+   "hs6_description": "Enzymes; rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Other: ---- Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "350790",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 6,
    "chapter": "35",
    "description": "Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "35079010",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Industrial enzymes (textile assistant)",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "35079020",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Pancretin pure (excluding medicament)",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "35079030",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Pepsin (excluding medicament)",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "35079040",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Pectin esterases pure",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "35079050",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Pectolytic enzyme (pectimase)",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "35079061",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Other enzymes of microbial origin: ---- Streptokinase",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "35079062",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Other enzymes of microbial origin: ---- Amylases enzymes",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "35079069",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Other enzymes of microbial origin: ---- Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "35079071",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Enzymes for pharmaceutical use, other than streptokinase: ---- Papain, pure, of pharmaceutical grade",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "35079079",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Enzymes for pharmaceutical use, other than streptokinase: ---- Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "35079091",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Other: ---- Enzymatic preparations containing food stuffs",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "35079099",
+   "hs6": "350790",
+   "hs6_description": "Enzymes and prepared enzymes; other than rennet and concentrates thereof",
    "level": 8,
    "chapter": "35",
    "description": "Other: ---- Other",

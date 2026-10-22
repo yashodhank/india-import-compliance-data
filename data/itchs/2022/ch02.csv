@@ -1,82 +1,82 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-0201,4,02,"Meat of bovine animals, fresh or chilled.",,,,,,2026-10-22
-02011000,8,02,Carcasses and half-carcasses,Restricted,,,,,2026-10-22
-02012000,8,02,Other cuts with bone in,Restricted,,,,,2026-10-22
-02013000,8,02,Boneless,Restricted,,,,,2026-10-22
-0202,4,02,"Meat of bovine animals, frozen.",,,,,,2026-10-22
-02021000,8,02,Carcasses and half-carcasses,Restricted,,,,,2026-10-22
-02022000,8,02,Other cuts with bone in,Restricted,,,,,2026-10-22
-02023000,8,02,Boneless,Restricted,,,,,2026-10-22
-0203,4,02,"Meat of swine, fresh, chilled or frozen.",,,,,,2026-10-22
-02031100,8,02,Fresh or chilled : -- Carcasses and half-carcasses,Free,,,,,2026-10-22
-02031200,8,02,"Fresh or chilled : -- Hams, shoulders and cuts thereof, with bone in",Free,,,,,2026-10-22
-02031900,8,02,Fresh or chilled : -- Other,Free,,,,,2026-10-22
-02032100,8,02,Frozen : -- Carcasses and half-carcasses,Free,,,,,2026-10-22
-02032200,8,02,"Frozen : -- Hams, shoulders and cuts thereof, with bone in",Free,,,,,2026-10-22
-02032900,8,02,Frozen : -- Other,Free,,,,,2026-10-22
-0204,4,02,"Meat of sheep or goats, fresh, chilled or frozen.",,,,,,2026-10-22
-02041000,8,02,"Carcasses and half-carcasses of lamb, fresh or chilled",Free,,,,,2026-10-22
-02042100,8,02,Carcasses and half-carcasses,Free,,,,,2026-10-22
-02042200,8,02,Other cuts with bone in,Free,,,,,2026-10-22
-02042300,8,02,Boneless,Free,,,,,2026-10-22
-02043000,8,02,"Carcasses and half-carcasses of lamb, frozen",Free,,,,,2026-10-22
-02044100,8,02,"Other meat of sheep, frozen : -- Carcasses and half-carcasses",Free,,,,,2026-10-22
-02044200,8,02,"Other meat of sheep, frozen : -- Other cuts with bone in",Free,,,,,2026-10-22
-02044300,8,02,"Other meat of sheep, frozen : -- Boneless",Free,,,,,2026-10-22
-02045000,8,02,Meat of goats,Free,,,,,2026-10-22
-02050000,8,02,"Meat of horses, asses, mules or hinnies, fresh, chilled or frozen",Free,,,,,2026-10-22
-0206,4,02,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen.",,,,,,2026-10-22
-02061000,8,02,"Of bovine animals, fresh or chilled",Restricted,,,,,2026-10-22
-02062100,8,02,"Of bovine animals, frozen : -- Tongues",Restricted,,,,,2026-10-22
-02062200,8,02,"Of bovine animals, frozen : -- Livers",Restricted,,,,,2026-10-22
-02062900,8,02,"Of bovine animals, frozen : -- Other",Restricted,,,,,2026-10-22
-02063000,8,02,"Of swine, fresh or chilled",Restricted,,,,,2026-10-22
-02064100,8,02,"Of swine, frozen : -- Livers",Free,,,,,2026-10-22
-02064900,8,02,"Of swine, frozen : -- Other",Free,,,,,2026-10-22
-020680,6,02,"Other, fresh or chilled",,,,,,2026-10-22
-02068010,8,02,Of sheep or goats,Free,,,,,2026-10-22
-02068090,8,02,Other,Free,,,,,2026-10-22
-020690,6,02,"Other, frozen",,,,,,2026-10-22
-02069010,8,02,Of sheep or goats,Free,,,,,2026-10-22
-02069090,8,02,Other,Free,,,,,2026-10-22
-0207,4,02,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",,,,,,2026-10-22
-02071100,8,02,"Of fowls of the species Gallus domesticus : -- Not cut in pieces, fresh or chilled",Free,,,,,2026-10-22
-02071200,8,02,"Of fowls of the species Gallus domesticus : -- Not cut in pieces, frozen",Free,,,,,2026-10-22
-02071300,8,02,"Of fowls of the species Gallus domesticus : -- Cuts and offal, fresh or chilled",Free,,,,,2026-10-22
-02071400,8,02,"Of fowls of the species Gallus domesticus : -- Cuts and offal, frozen",Free,,,,,2026-10-22
-02072400,8,02,"Of turkeys : --Not cut in pieces, fresh or chilled",Free,,,,,2026-10-22
-02072500,8,02,"Of turkeys : --Not cut in pieces, frozen",Free,,,,,2026-10-22
-02072600,8,02,"Of turkeys : --Cuts and offal, fresh or chilled",Free,,,,,2026-10-22
-02072700,8,02,"Of turkeys : --Cuts and offal, frozen",Free,,,,,2026-10-22
-02074100,8,02,"Of ducks : --Not cut in pieces, fresh or chilled",Free,,,,,2026-10-22
-02074200,8,02,"Of ducks : --Not cut in pieces, frozen",Free,"Import of Premium Duck Meat as per DAHD OM No. L-110109(3)/1/2016-Trade(E-2625) dated 22.02.2024 and under Department of Revenue Notification 13/2024-Customs dated 06.03.2024 for supply to 3-Star and above Operational Hotels as per Notification issued by Ministry of Tourism, Government of India, as amended shall be ‘Restricted’. Other Imports under given ITC(HS) code shall be ‘Free’.",,78/2023,2024-03-16,2026-10-22
-02074300,8,02,"Of ducks : --Fatty livers, fresh or chilled",Free,Import of Foie gras is Prohibited,,,,2026-10-22
-02074400,8,02,"Of ducks : --Other, fresh or chilled",Free,,,,,2026-10-22
-02074500,8,02,"Of ducks : --Other, frozen",Free,"Import of Premium Duck Meat as per DAHD OM No. L-110109(3)/1/2016-Trade(E-2625) dated 22.02.2024 and under Department of Revenue Notification 13/2024-Customs dated 06.03.2024 for supply to 3-Star and above Operational Hotels as per Notification issued by Ministry of Tourism, Government of India, as amended shall be ‘Restricted’. Other Imports under given ITC(HS) code shall be ‘Free’.",,78/2023,2024-03-16,2026-10-22
-02075100,8,02,"Of geese : -- Not cut in pieces, fresh or chilled",Free,,,,,2026-10-22
-02075200,8,02,"Of geese : -- Not cut in pieces, frozen",Free,,,,,2026-10-22
-02075300,8,02,"Of geese : -- Fatty livers, fresh or chilled",Free,,,,,2026-10-22
-02075400,8,02,"Of geese : -- Other, fresh or chilled",Free,,,,,2026-10-22
-02075500,8,02,"Of geese : -- Other, frozen",Free,,,,,2026-10-22
-02076000,8,02,Of guinea fowls,Free,,,,,2026-10-22
-0208,4,02,"Other meat and edible meat offal, fresh, chilled or frozen.",,,,,,2026-10-22
-02081000,8,02,Of rabbits or hares,Free,,,,,2026-10-22
-02083000,8,02,Of primates,Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
-02084000,8,02,"Of whales, dolphines and porpoises (mammals of the order cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the sub-order Pinnipedia)",Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
-02085000,8,02,Of reptiles (including snakes and turtles),Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
-02086000,8,02,Of camels and other camelids (Camelidae),Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
-020890,6,02,Other,,,,,,2026-10-22
-02089010,8,02,Of wild animals,Prohibited,Not permitted to be imported.,,,,2026-10-22
-02089090,8,02,Other,Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
-0209,4,02,"PIG FAT, FREE OF LEAN MEAT AND POUTRY FAT, NOT RENDERED OR OTHERWISE EXTRACTED, FRESH, CHILLED, FROZEN, SALTED, IN BRINE, DRIED OR SMOKED",,,,,,2026-10-22
-02091000,8,02,Of pigs,Prohibited,Not permitted to be imported.,,,,2026-10-22
-02099000,8,02,Other,Prohibited,Not permitted to be imported.,,,,2026-10-22
-0210,4,02,"MEAT AND EDIBLE MEAT OFFAL, SALTED, IN BRINE, DRIED OR SMOKED; EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL",,,,,,2026-10-22
-02101100,8,02,"Meat of swine : -- Hams, shoulders and cuts thereof, with bone in",Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
-02101200,8,02,Meat of swine : -- Bellies (streaky) and cuts thereof,Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
-02101900,8,02,Meat of swine : -- Other,Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
-02102000,8,02,Meat of bovine animals,Restricted,,,,,2026-10-22
-02109100,8,02,"Other, including edible flours and meals of meat or meat offal : -- Of primates",Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
-02109200,8,02,"Other, including edible flours and meals of meat or meat offal:-- Of whales, dolphins and porpoises (mammals of the order cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the sub-order Pinnipedia)",Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
-02109300,8,02,"Other, including edible flours and meals of meat or meat offal : -- Of reptiles (including snakes and turtles)",Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
-02109900,8,02,"Other, including edible flours and meals of meat or meat offal : -- Other",Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+0201,,,4,02,"Meat of bovine animals, fresh or chilled.",,,,,,2026-10-22
+02011000,020110,"Meat; of bovine animals, carcasses and half-carcasses, fresh or chilled",8,02,Carcasses and half-carcasses,Restricted,,,,,2026-10-22
+02012000,020120,"Meat; of bovine animals, cuts with bone in (excluding carcasses and half-carcasses), fresh or chilled",8,02,Other cuts with bone in,Restricted,,,,,2026-10-22
+02013000,020130,"Meat; of bovine animals, boneless cuts, fresh or chilled",8,02,Boneless,Restricted,,,,,2026-10-22
+0202,,,4,02,"Meat of bovine animals, frozen.",,,,,,2026-10-22
+02021000,020210,"Meat; of bovine animals, carcasses and half-carcasses, frozen",8,02,Carcasses and half-carcasses,Restricted,,,,,2026-10-22
+02022000,020220,"Meat; of bovine animals, cuts with bone in (excluding carcasses and half-carcasses), frozen",8,02,Other cuts with bone in,Restricted,,,,,2026-10-22
+02023000,020230,"Meat; of bovine animals, boneless cuts, frozen",8,02,Boneless,Restricted,,,,,2026-10-22
+0203,,,4,02,"Meat of swine, fresh, chilled or frozen.",,,,,,2026-10-22
+02031100,020311,"Meat; of swine, carcasses and half-carcasses, fresh or chilled",8,02,Fresh or chilled : -- Carcasses and half-carcasses,Free,,,,,2026-10-22
+02031200,020312,"Meat; of swine, hams, shoulders and cuts thereof, with bone in, fresh or chilled",8,02,"Fresh or chilled : -- Hams, shoulders and cuts thereof, with bone in",Free,,,,,2026-10-22
+02031900,020319,"Meat; of swine, n.e.c. in item no. 0203.1, fresh or chilled",8,02,Fresh or chilled : -- Other,Free,,,,,2026-10-22
+02032100,020321,"Meat; of swine, carcasses and half-carcasses, frozen",8,02,Frozen : -- Carcasses and half-carcasses,Free,,,,,2026-10-22
+02032200,020322,"Meat; of swine, hams, shoulders and cuts thereof, with bone in, frozen",8,02,"Frozen : -- Hams, shoulders and cuts thereof, with bone in",Free,,,,,2026-10-22
+02032900,020329,"Meat; of swine, n.e.c. in item no. 0203.2, frozen",8,02,Frozen : -- Other,Free,,,,,2026-10-22
+0204,,,4,02,"Meat of sheep or goats, fresh, chilled or frozen.",,,,,,2026-10-22
+02041000,020410,"Meat; of sheep, lamb carcasses and half-carcasses, fresh or chilled",8,02,"Carcasses and half-carcasses of lamb, fresh or chilled",Free,,,,,2026-10-22
+02042100,020421,"Meat; of sheep, carcasses and half-carcasses (excluding carcasses and half-carcasses of lamb), fresh or chilled",8,02,Carcasses and half-carcasses,Free,,,,,2026-10-22
+02042200,020422,"Meat; of sheep (including lamb), cuts with bone in (excluding carcasses and half-carcasses), fresh or chilled",8,02,Other cuts with bone in,Free,,,,,2026-10-22
+02042300,020423,"Meat; of sheep (including lamb), boneless cuts, fresh or chilled",8,02,Boneless,Free,,,,,2026-10-22
+02043000,020430,"Meat; of sheep, lamb carcasses and half-carcasses, frozen",8,02,"Carcasses and half-carcasses of lamb, frozen",Free,,,,,2026-10-22
+02044100,020441,"Meat; of sheep, carcasses and half-carcasses (excluding carcasses and half-carcasses of lamb), frozen",8,02,"Other meat of sheep, frozen : -- Carcasses and half-carcasses",Free,,,,,2026-10-22
+02044200,020442,"Meat; of sheep (including lamb), cuts with bone in (excluding carcasses and half-carcasses), frozen",8,02,"Other meat of sheep, frozen : -- Other cuts with bone in",Free,,,,,2026-10-22
+02044300,020443,"Meat; of sheep (including lamb), boneless cuts, frozen",8,02,"Other meat of sheep, frozen : -- Boneless",Free,,,,,2026-10-22
+02045000,020450,"Meat; of goats, fresh, chilled or frozen",8,02,Meat of goats,Free,,,,,2026-10-22
+02050000,020500,"Meat; of horses, asses, mules or hinnies, fresh, chilled or frozen",8,02,"Meat of horses, asses, mules or hinnies, fresh, chilled or frozen",Free,,,,,2026-10-22
+0206,,,4,02,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen.",,,,,,2026-10-22
+02061000,020610,"Offal, edible; of bovine animals, fresh or chilled",8,02,"Of bovine animals, fresh or chilled",Restricted,,,,,2026-10-22
+02062100,020621,"Offal, edible; of bovine animals, tongues, frozen",8,02,"Of bovine animals, frozen : -- Tongues",Restricted,,,,,2026-10-22
+02062200,020622,"Offal, edible; of bovine animals, livers, frozen",8,02,"Of bovine animals, frozen : -- Livers",Restricted,,,,,2026-10-22
+02062900,020629,"Offal, edible; of bovine animals, (other than tongues and livers), frozen",8,02,"Of bovine animals, frozen : -- Other",Restricted,,,,,2026-10-22
+02063000,020630,"Offal, edible; of swine, fresh or chilled",8,02,"Of swine, fresh or chilled",Restricted,,,,,2026-10-22
+02064100,020641,"Offal, edible; of swine, livers, frozen",8,02,"Of swine, frozen : -- Livers",Free,,,,,2026-10-22
+02064900,020649,"Offal, edible; of swine, (other than livers), frozen",8,02,"Of swine, frozen : -- Other",Free,,,,,2026-10-22
+020680,020680,"Offal, edible; of sheep, goats, horses, asses, mules or hinnies, fresh or chilled",6,02,"Other, fresh or chilled",,,,,,2026-10-22
+02068010,020680,"Offal, edible; of sheep, goats, horses, asses, mules or hinnies, fresh or chilled",8,02,Of sheep or goats,Free,,,,,2026-10-22
+02068090,020680,"Offal, edible; of sheep, goats, horses, asses, mules or hinnies, fresh or chilled",8,02,Other,Free,,,,,2026-10-22
+020690,020690,"Offal, edible; of sheep, goats, horses, asses, mules or hinnies, frozen",6,02,"Other, frozen",,,,,,2026-10-22
+02069010,020690,"Offal, edible; of sheep, goats, horses, asses, mules or hinnies, frozen",8,02,Of sheep or goats,Free,,,,,2026-10-22
+02069090,020690,"Offal, edible; of sheep, goats, horses, asses, mules or hinnies, frozen",8,02,Other,Free,,,,,2026-10-22
+0207,,,4,02,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",,,,,,2026-10-22
+02071100,020711,"Meat and edible offal; of fowls of the species Gallus domesticus, not cut in pieces, fresh or chilled",8,02,"Of fowls of the species Gallus domesticus : -- Not cut in pieces, fresh or chilled",Free,,,,,2026-10-22
+02071200,020712,"Meat and edible offal; of fowls of the species Gallus domesticus, not cut in pieces, frozen",8,02,"Of fowls of the species Gallus domesticus : -- Not cut in pieces, frozen",Free,,,,,2026-10-22
+02071300,020713,"Meat and edible offal; of fowls of the species Gallus domesticus, cuts and offal, fresh or chilled",8,02,"Of fowls of the species Gallus domesticus : -- Cuts and offal, fresh or chilled",Free,,,,,2026-10-22
+02071400,020714,"Meat and edible offal; of fowls of the species Gallus domesticus, cuts and offal, frozen",8,02,"Of fowls of the species Gallus domesticus : -- Cuts and offal, frozen",Free,,,,,2026-10-22
+02072400,020724,"Meat and edible offal; of turkeys, not cut in pieces, fresh or chilled",8,02,"Of turkeys : --Not cut in pieces, fresh or chilled",Free,,,,,2026-10-22
+02072500,020725,"Meat and edible offal; of turkeys, not cut in pieces, frozen",8,02,"Of turkeys : --Not cut in pieces, frozen",Free,,,,,2026-10-22
+02072600,020726,"Meat and edible offal; of turkeys, cuts and offal, fresh or chilled",8,02,"Of turkeys : --Cuts and offal, fresh or chilled",Free,,,,,2026-10-22
+02072700,020727,"Meat and edible offal; of turkeys, cuts and offal, frozen",8,02,"Of turkeys : --Cuts and offal, frozen",Free,,,,,2026-10-22
+02074100,020741,"Meat and edible offal; of ducks, not cut in pieces, fresh or chilled",8,02,"Of ducks : --Not cut in pieces, fresh or chilled",Free,,,,,2026-10-22
+02074200,020742,"Meat and edible offal; of ducks, not cut in pieces, frozen",8,02,"Of ducks : --Not cut in pieces, frozen",Free,"Import of Premium Duck Meat as per DAHD OM No. L-110109(3)/1/2016-Trade(E-2625) dated 22.02.2024 and under Department of Revenue Notification 13/2024-Customs dated 06.03.2024 for supply to 3-Star and above Operational Hotels as per Notification issued by Ministry of Tourism, Government of India, as amended shall be ‘Restricted’. Other Imports under given ITC(HS) code shall be ‘Free’.",,78/2023,2024-03-16,2026-10-22
+02074300,020743,"Meat and edible offal; of ducks, fatty livers (foie gras), fresh or chilled",8,02,"Of ducks : --Fatty livers, fresh or chilled",Free,Import of Foie gras is Prohibited,,,,2026-10-22
+02074400,020744,"Meat and edible offal; of ducks, cuts and offal, excluding fatty livers, fresh or chilled",8,02,"Of ducks : --Other, fresh or chilled",Free,,,,,2026-10-22
+02074500,020745,"Meat and edible offal; of ducks, cuts and offal, excluding fatty livers, frozen",8,02,"Of ducks : --Other, frozen",Free,"Import of Premium Duck Meat as per DAHD OM No. L-110109(3)/1/2016-Trade(E-2625) dated 22.02.2024 and under Department of Revenue Notification 13/2024-Customs dated 06.03.2024 for supply to 3-Star and above Operational Hotels as per Notification issued by Ministry of Tourism, Government of India, as amended shall be ‘Restricted’. Other Imports under given ITC(HS) code shall be ‘Free’.",,78/2023,2024-03-16,2026-10-22
+02075100,020751,"Meat and edible offal; of geese, not cut in pieces, fresh or chilled",8,02,"Of geese : -- Not cut in pieces, fresh or chilled",Free,,,,,2026-10-22
+02075200,020752,"Meat and edible offal; of geese, not cut in pieces, frozen",8,02,"Of geese : -- Not cut in pieces, frozen",Free,,,,,2026-10-22
+02075300,020753,"Meat and edible offal; of geese, fatty livers (foie gras), fresh or chilled",8,02,"Of geese : -- Fatty livers, fresh or chilled",Free,,,,,2026-10-22
+02075400,020754,"Meat and edible offal; of geese, cuts and offal, excluding fatty livers, fresh or chilled",8,02,"Of geese : -- Other, fresh or chilled",Free,,,,,2026-10-22
+02075500,020755,"Meat and edible offal; of geese, cuts and offal, excluding fatty livers, frozen",8,02,"Of geese : -- Other, frozen",Free,,,,,2026-10-22
+02076000,020760,"Meat and edible offal; of guinea fowls, fresh, chilled or frozen",8,02,Of guinea fowls,Free,,,,,2026-10-22
+0208,,,4,02,"Other meat and edible meat offal, fresh, chilled or frozen.",,,,,,2026-10-22
+02081000,020810,"Meat and edible meat offal; of rabbits or hares, fresh, chilled or frozen",8,02,Of rabbits or hares,Free,,,,,2026-10-22
+02083000,020830,"Meat and edible meat offal; of primates, fresh, chilled or frozen",8,02,Of primates,Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
+02084000,020840,"Meat and edible meat offal; of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia), fresh, chilled or frozen",8,02,"Of whales, dolphines and porpoises (mammals of the order cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the sub-order Pinnipedia)",Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
+02085000,020850,"Meat and edible meat offal; of reptiles (including snakes and turtles), fresh, chilled or frozen",8,02,Of reptiles (including snakes and turtles),Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
+02086000,020860,"Meat and edible meat offal; of camels and other camelids (Camelidae), fresh, chilled or frozen",8,02,Of camels and other camelids (Camelidae),Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
+020890,020890,"Meat and edible meat offal; n.e.c. in chapter 2, fresh, chilled or frozen",6,02,Other,,,,,,2026-10-22
+02089010,020890,"Meat and edible meat offal; n.e.c. in chapter 2, fresh, chilled or frozen",8,02,Of wild animals,Prohibited,Not permitted to be imported.,,,,2026-10-22
+02089090,020890,"Meat and edible meat offal; n.e.c. in chapter 2, fresh, chilled or frozen",8,02,Other,Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
+0209,,,4,02,"PIG FAT, FREE OF LEAN MEAT AND POUTRY FAT, NOT RENDERED OR OTHERWISE EXTRACTED, FRESH, CHILLED, FROZEN, SALTED, IN BRINE, DRIED OR SMOKED",,,,,,2026-10-22
+02091000,020910,"Fat; pig fat, free of lean meat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked",8,02,Of pigs,Prohibited,Not permitted to be imported.,,,,2026-10-22
+02099000,020990,"Fat; poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked",8,02,Other,Prohibited,Not permitted to be imported.,,,,2026-10-22
+0210,,,4,02,"MEAT AND EDIBLE MEAT OFFAL, SALTED, IN BRINE, DRIED OR SMOKED; EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL",,,,,,2026-10-22
+02101100,021011,"Meat; salted, in brine, dried or smoked, of swine, hams, shoulders and cuts thereof, with bone in",8,02,"Meat of swine : -- Hams, shoulders and cuts thereof, with bone in",Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
+02101200,021012,"Meat; salted, in brine, dried or smoked, of swine, bellies (streaky) and cuts thereof",8,02,Meat of swine : -- Bellies (streaky) and cuts thereof,Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
+02101900,021019,"Meat; salted in brine, dried or smoked, of swine, n.e.c. in item no. 0210.1",8,02,Meat of swine : -- Other,Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
+02102000,021020,"Meat; salted, in brine, dried or smoked, of bovine animals",8,02,Meat of bovine animals,Restricted,,,,,2026-10-22
+02109100,021091,"Meat and edible meat offal; salted, in brine, dried or smoked, and edible flours and meals of meat or meat offal, of primates",8,02,"Other, including edible flours and meals of meat or meat offal : -- Of primates",Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
+02109200,021092,"Meat and edible meat offal; salted, in brine, dried or smoked; edible flours, meals of meat or meat offal, of whales, dolphins, porpoises (of order Cetacea); manatees, dugongs (of order Sirenia); seals, sea lions, and walruses (of suborder Pinnipedia)",8,02,"Other, including edible flours and meals of meat or meat offal:-- Of whales, dolphins and porpoises (mammals of the order cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the sub-order Pinnipedia)",Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
+02109300,021093,"Meat and edible meat offal; salted, in brine, dried or smoked, and edible flours and meals of meat or meat offal, of reptiles (including snakes and turtles)",8,02,"Other, including edible flours and meals of meat or meat offal : -- Of reptiles (including snakes and turtles)",Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22
+02109900,021099,"Meat and edible meat offal; salted, in brine, dried or smoked, and edible flours and meals of meat or meat offal, other than of primates, whales, dolphins, porpoises, manatees, dugongs, seals, sea lions, walruses, reptiles (including snakes and turtles)",8,02,"Other, including edible flours and meals of meat or meat offal : -- Other",Free,Subject to Policy Condition 2 of this Chapter.,2,,,2026-10-22

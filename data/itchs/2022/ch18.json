@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "18010000",
+   "hs6": "180100",
+   "hs6_description": "Cocoa beans; whole or broken, raw or roasted",
    "level": 8,
    "chapter": "18",
    "description": "Cocoa beans, whole or broken, raw or roasted",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "18020000",
+   "hs6": "180200",
+   "hs6_description": "Cocoa; shells, husks, skins and other cocoa waste",
    "level": 8,
    "chapter": "18",
    "description": "Cocoa shells, husks, skins and other cocoa waste",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "1803",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "18",
    "description": "Cocoa paste, whether or not defatted.",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "18031000",
+   "hs6": "180310",
+   "hs6_description": "Cocoa; paste, not defatted",
    "level": 8,
    "chapter": "18",
    "description": "Not defatted",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "18032000",
+   "hs6": "180320",
+   "hs6_description": "Cocoa; paste, wholly or partly defatted",
    "level": 8,
    "chapter": "18",
    "description": "Wholly or partly defatted",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "18040000",
+   "hs6": "180400",
+   "hs6_description": "Cocoa; butter, fat and oil",
    "level": 8,
    "chapter": "18",
    "description": "Cocoa butter, fat and oil",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "18050000",
+   "hs6": "180500",
+   "hs6_description": "Cocoa; powder, not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "18",
    "description": "Cocoa powder, not containing added sugar or other sweetening matter",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "1806",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "18",
    "description": "Chocolate and other food preparations containing cocoa.",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "18061000",
+   "hs6": "180610",
+   "hs6_description": "Cocoa; powder, containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "18",
    "description": "Cocoa powder, containing added sugar or other sweetening matter",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "18062000",
+   "hs6": "180620",
+   "hs6_description": "Chocolate & other food preparations containing cocoa; in blocks, slabs or bars weighing more than 2kg or in liquid, paste, powder, granular or other bulk form in containers or immediate packings, content exceeding 2kg",
    "level": 8,
    "chapter": "18",
    "description": "Other preparations in blocks, slabs or bars weighing more than 2 Kg. or in liquid, paste, powder, granular or other bulk form in containers or immediate packings, of a content exceeding 2 Kg. Other, in blocks, slabs or bars:",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "18063100",
+   "hs6": "180631",
+   "hs6_description": "Chocolate and other food preparations containing cocoa; in blocks, slabs or bars, filled, weighing 2kg or less",
    "level": 8,
    "chapter": "18",
    "description": "Other, in blocks, slabs or bars : -- Filled",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "18063200",
+   "hs6": "180632",
+   "hs6_description": "Chocolate and other food preparations containing cocoa; in blocks, slabs or bars, (not filled), weighing 2kg or less",
    "level": 8,
    "chapter": "18",
    "description": "Other, in blocks, slabs or bars : -- Not filled",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "180690",
+   "hs6": "180690",
+   "hs6_description": "Chocolate and other food preparations containing cocoa; n.e.c. in chapter 18",
    "level": 6,
    "chapter": "18",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "18069010",
+   "hs6": "180690",
+   "hs6_description": "Chocolate and other food preparations containing cocoa; n.e.c. in chapter 18",
    "level": 8,
    "chapter": "18",
    "description": "Chocolate and chocolate products",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "18069020",
+   "hs6": "180690",
+   "hs6_description": "Chocolate and other food preparations containing cocoa; n.e.c. in chapter 18",
    "level": 8,
    "chapter": "18",
    "description": "Sugar confectionary containing cocoa",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "18069030",
+   "hs6": "180690",
+   "hs6_description": "Chocolate and other food preparations containing cocoa; n.e.c. in chapter 18",
    "level": 8,
    "chapter": "18",
    "description": "Spreads containing cocoa",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "18069040",
+   "hs6": "180690",
+   "hs6_description": "Chocolate and other food preparations containing cocoa; n.e.c. in chapter 18",
    "level": 8,
    "chapter": "18",
    "description": "Preparations containing cocoa for making beverages",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "18069090",
+   "hs6": "180690",
+   "hs6_description": "Chocolate and other food preparations containing cocoa; n.e.c. in chapter 18",
    "level": 8,
    "chapter": "18",
    "description": "Other",

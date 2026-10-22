@@ -1,49 +1,49 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-1901,4,19,"Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40 percent by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 04.01 to 04.04, not containing cocoa or containing less than 5 percent by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included.",,,,,,2026-10-22
-190110,6,19,"Preparations suitable for infants or young children, put up for retail sale",,,,,,2026-10-22
-19011010,8,19,Malted milk (including powder),Free,,,,,2026-10-22
-19011090,8,19,Other,Free,"Infant milk substitute, milk protein based must conform to IS 14433 and Milk- cereal based weaning foods must conform to IS 1656.",,,,2026-10-22
-19012000,8,19,Mixes and doughs for the preparation of bakers wares of heading 19.05,Free,,,,,2026-10-22
-190190,6,19,Other,,,,,,2026-10-22
-19019010,8,19,Malt extract,Free,,,,,2026-10-22
-19019090,8,19,Other,Free,,,,,2026-10-22
-1902,4,19,"Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.",,,,,,2026-10-22
-19021100,8,19,"Uncooked pasta, not stuffed or otherwise prepared : --Containing eggs",Free,,,,,2026-10-22
-19021900,8,19,"Uncooked pasta, not stuffed or otherwise prepared : -- Other",Free,,,,,2026-10-22
-190220,6,19,"Stuffed pasta, whether or not cooked or otherwise prepared",,,,,,2026-10-22
-19022010,8,19,Cooked,Free,,,,,2026-10-22
-19022090,8,19,Other,Free,,,,,2026-10-22
-190230,6,19,Other pasta,,,,,,2026-10-22
-19023010,8,19,Dried,Free,,,,,2026-10-22
-19023090,8,19,Other,Free,,,,,2026-10-22
-190240,6,19,Couscous,,,,,,2026-10-22
-19024010,8,19,Unprepared,Free,,,,,2026-10-22
-19024090,8,19,Other,Free,,,,,2026-10-22
-19030000,8,19,"Tapioca and substitutes therefore prepared from starch, in the form of flakes, grains, pearls, siftings or in similar forms",Free,,,,,2026-10-22
-1904,4,19,"Prepared foods obtained by the swelling or roasting of cereals or cereal products (for example, corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked, or otherwise prepared, not elsewhere specified or included.",,,,,,2026-10-22
-190410,6,19,Prepared foods obtained by the swelling or roasting of cereals or cereal products,,,,,,2026-10-22
-19041010,8,19,Corn flakes,Free,,,,,2026-10-22
-19041020,8,19,"Paws, Mudi and the like",Free,,,,,2026-10-22
-19041030,8,19,Bulgar wheat,Free,,,,,2026-10-22
-19041090,8,19,Other,Free,,,,,2026-10-22
-190420,6,19,Prepared foods obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals;,,,,,,2026-10-22
-19042010,8,19,With millet content 15% or more by weight,Free,.,,08/2023,2023-05-29,2026-10-22
-19042090,8,19,Other,Free,.,,08/2023,2023-05-29,2026-10-22
-19043000,8,19,Bulgur wheat,Free,,,,,2026-10-22
-19049000,8,19,Other,Free,,,,,2026-10-22
-1905,4,19,"Bread, pastry, cakes, biscuits and other bakers wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products.",,,,,,2026-10-22
-19051000,8,19,Crispbread,Free,,,,,2026-10-22
-19052000,8,19,Gingerbread and the like,Free,,,,,2026-10-22
-19053100,8,19,Sweet biscuits; waffles and wafers : --Sweet biscuits,Free,,,,,2026-10-22
-190532,6,19,--Waffles and wafers,,,,,,2026-10-22
-19053211,8,19,Communion wafers: ---- Coated with chocolate or containing chocolate,Free,,,,,2026-10-22
-19053290,8,19,Other,Free,,,,,2026-10-22
-19054000,8,19,"Rusks, toasted bread and similar toasted products",Free,,,,,2026-10-22
-190590,6,19,Other,,,,,,2026-10-22
-19059010,8,19,Pastries and cakes,Free,,,,,2026-10-22
-19059020,8,19,Biscuits not elsewhere specified or included,Free,,,,,2026-10-22
-19059030,8,19,"Extruded or expanded products, savoury or salted",Free,,,,,2026-10-22
-19059040,8,19,Papad,Free,,,,,2026-10-22
-19059051,8,19,Communion wafers:---- Coated with chocolate or containing chocolate,Free,.,,40/2024-25,2024-11-26,2026-10-22
-19059059,8,19,Communion wafers: ---- Other,Free,.,,40/2024-25,2024-11-26,2026-10-22
-19059090,8,19,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+1901,,,4,19,"Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40 percent by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 04.01 to 04.04, not containing cocoa or containing less than 5 percent by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included.",,,,,,2026-10-22
+190110,190110,"Food preparations; of flour, meal, starch, malt extract or milk products, suitable for infants or young children, put up for retail sale",6,19,"Preparations suitable for infants or young children, put up for retail sale",,,,,,2026-10-22
+19011010,190110,"Food preparations; of flour, meal, starch, malt extract or milk products, suitable for infants or young children, put up for retail sale",8,19,Malted milk (including powder),Free,,,,,2026-10-22
+19011090,190110,"Food preparations; of flour, meal, starch, malt extract or milk products, suitable for infants or young children, put up for retail sale",8,19,Other,Free,"Infant milk substitute, milk protein based must conform to IS 14433 and Milk- cereal based weaning foods must conform to IS 1656.",,,,2026-10-22
+19012000,190120,"Food preparations; mixes and doughs for the preparation of bread, pastry, cakes, biscuits and other bakers' wares",8,19,Mixes and doughs for the preparation of bakers wares of heading 19.05,Free,,,,,2026-10-22
+190190,190190,"Food preparations; of flour, meal, starch, malt extract or milk products, for uses n.e.c. in heading no. 1901",6,19,Other,,,,,,2026-10-22
+19019010,190190,"Food preparations; of flour, meal, starch, malt extract or milk products, for uses n.e.c. in heading no. 1901",8,19,Malt extract,Free,,,,,2026-10-22
+19019090,190190,"Food preparations; of flour, meal, starch, malt extract or milk products, for uses n.e.c. in heading no. 1901",8,19,Other,Free,,,,,2026-10-22
+1902,,,4,19,"Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.",,,,,,2026-10-22
+19021100,190211,"Food preparations; pasta, containing eggs, uncooked, not stuffed or otherwise prepared",8,19,"Uncooked pasta, not stuffed or otherwise prepared : --Containing eggs",Free,,,,,2026-10-22
+19021900,190219,"Food preparations; pasta, uncooked (excluding that containing eggs), not stuffed or otherwise prepared",8,19,"Uncooked pasta, not stuffed or otherwise prepared : -- Other",Free,,,,,2026-10-22
+190220,190220,"Food preparations; pasta, stuffed (with meat or other substances), whether or not cooked or otherwise prepared",6,19,"Stuffed pasta, whether or not cooked or otherwise prepared",,,,,,2026-10-22
+19022010,190220,"Food preparations; pasta, stuffed (with meat or other substances), whether or not cooked or otherwise prepared",8,19,Cooked,Free,,,,,2026-10-22
+19022090,190220,"Food preparations; pasta, stuffed (with meat or other substances), whether or not cooked or otherwise prepared",8,19,Other,Free,,,,,2026-10-22
+190230,190230,"Food preparations; pasta (excluding stuffed), cooked or otherwise prepared",6,19,Other pasta,,,,,,2026-10-22
+19023010,190230,"Food preparations; pasta (excluding stuffed), cooked or otherwise prepared",8,19,Dried,Free,,,,,2026-10-22
+19023090,190230,"Food preparations; pasta (excluding stuffed), cooked or otherwise prepared",8,19,Other,Free,,,,,2026-10-22
+190240,190240,Food preparations; couscous,6,19,Couscous,,,,,,2026-10-22
+19024010,190240,Food preparations; couscous,8,19,Unprepared,Free,,,,,2026-10-22
+19024090,190240,Food preparations; couscous,8,19,Other,Free,,,,,2026-10-22
+19030000,190300,"Food preparations; tapioca and substitutes thereof, prepared from starch in the form of flakes, grains, pearls, siftings or similar",8,19,"Tapioca and substitutes therefore prepared from starch, in the form of flakes, grains, pearls, siftings or in similar forms",Free,,,,,2026-10-22
+1904,,,4,19,"Prepared foods obtained by the swelling or roasting of cereals or cereal products (for example, corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked, or otherwise prepared, not elsewhere specified or included.",,,,,,2026-10-22
+190410,190410,Food preparations; obtained by the swelling or roasting of cereals or cereal products,6,19,Prepared foods obtained by the swelling or roasting of cereals or cereal products,,,,,,2026-10-22
+19041010,190410,Food preparations; obtained by the swelling or roasting of cereals or cereal products,8,19,Corn flakes,Free,,,,,2026-10-22
+19041020,190410,Food preparations; obtained by the swelling or roasting of cereals or cereal products,8,19,"Paws, Mudi and the like",Free,,,,,2026-10-22
+19041030,190410,Food preparations; obtained by the swelling or roasting of cereals or cereal products,8,19,Bulgar wheat,Free,,,,,2026-10-22
+19041090,190410,Food preparations; obtained by the swelling or roasting of cereals or cereal products,8,19,Other,Free,,,,,2026-10-22
+190420,190420,Food preparations; obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals,6,19,Prepared foods obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals;,,,,,,2026-10-22
+19042010,190420,Food preparations; obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals,8,19,With millet content 15% or more by weight,Free,.,,08/2023,2023-05-29,2026-10-22
+19042090,190420,Food preparations; obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals,8,19,Other,Free,.,,08/2023,2023-05-29,2026-10-22
+19043000,190430,"Prepared foods obtained by the swelling or roasting of cereals or cereal products (e.g. corn flakes); cereals, not maize (corn), in grain form or in the form of flakes or other worked grains, from bulgur wheat",8,19,Bulgur wheat,Free,,,,,2026-10-22
+19049000,190490,"Food preparations; cereal or cereal products (excluding maize), in grain form, pre-cooked or otherwise prepared",8,19,Other,Free,,,,,2026-10-22
+1905,,,4,19,"Bread, pastry, cakes, biscuits and other bakers wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products.",,,,,,2026-10-22
+19051000,190510,"Food preparations; crispbread, whether or not containing cocoa",8,19,Crispbread,Free,,,,,2026-10-22
+19052000,190520,"Food preparations; gingerbread and the like, whether or not containing cocoa",8,19,Gingerbread and the like,Free,,,,,2026-10-22
+19053100,190531,"Food preparations; sweet biscuits, whether or not containing cocoa",8,19,Sweet biscuits; waffles and wafers : --Sweet biscuits,Free,,,,,2026-10-22
+190532,190532,"Food preparations; waffles and wafers, whether or not containing cocoa",6,19,--Waffles and wafers,,,,,,2026-10-22
+19053211,190532,"Food preparations; waffles and wafers, whether or not containing cocoa",8,19,Communion wafers: ---- Coated with chocolate or containing chocolate,Free,,,,,2026-10-22
+19053290,190532,"Food preparations; waffles and wafers, whether or not containing cocoa",8,19,Other,Free,,,,,2026-10-22
+19054000,190540,"Food preparations; rusks, toasted bread and similar toasted products, whether or not containing cocoa",8,19,"Rusks, toasted bread and similar toasted products",Free,,,,,2026-10-22
+190590,190590,"Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",6,19,Other,,,,,,2026-10-22
+19059010,190590,"Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",8,19,Pastries and cakes,Free,,,,,2026-10-22
+19059020,190590,"Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",8,19,Biscuits not elsewhere specified or included,Free,,,,,2026-10-22
+19059030,190590,"Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",8,19,"Extruded or expanded products, savoury or salted",Free,,,,,2026-10-22
+19059040,190590,"Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",8,19,Papad,Free,,,,,2026-10-22
+19059051,190590,"Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",8,19,Communion wafers:---- Coated with chocolate or containing chocolate,Free,.,,40/2024-25,2024-11-26,2026-10-22
+19059059,190590,"Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",8,19,Communion wafers: ---- Other,Free,.,,40/2024-25,2024-11-26,2026-10-22
+19059090,190590,"Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",8,19,Other,Free,,,,,2026-10-22

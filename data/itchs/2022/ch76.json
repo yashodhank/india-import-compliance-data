@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "7601",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Unwrought aluminium.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "760110",
+   "hs6": "760110",
+   "hs6_description": "Aluminium; unwrought, (not alloyed)",
    "level": 6,
    "chapter": "76",
    "description": "Aluminium, not alloyed",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "76011010",
+   "hs6": "760110",
+   "hs6_description": "Aluminium; unwrought, (not alloyed)",
    "level": 8,
    "chapter": "76",
    "description": "Ingots",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "76011020",
+   "hs6": "760110",
+   "hs6_description": "Aluminium; unwrought, (not alloyed)",
    "level": 8,
    "chapter": "76",
    "description": "Billets",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "76011030",
+   "hs6": "760110",
+   "hs6_description": "Aluminium; unwrought, (not alloyed)",
    "level": 8,
    "chapter": "76",
    "description": "Wire bars",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "76011040",
+   "hs6": "760110",
+   "hs6_description": "Aluminium; unwrought, (not alloyed)",
    "level": 8,
    "chapter": "76",
    "description": "Wire rods",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "76011090",
+   "hs6": "760110",
+   "hs6_description": "Aluminium; unwrought, (not alloyed)",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "760120",
+   "hs6": "760120",
+   "hs6_description": "Aluminium; unwrought, alloys",
    "level": 6,
    "chapter": "76",
    "description": "Aluminium alloys",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "76012010",
+   "hs6": "760120",
+   "hs6_description": "Aluminium; unwrought, alloys",
    "level": 8,
    "chapter": "76",
    "description": "Ingots",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "76012020",
+   "hs6": "760120",
+   "hs6_description": "Aluminium; unwrought, alloys",
    "level": 8,
    "chapter": "76",
    "description": "Billets",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "76012030",
+   "hs6": "760120",
+   "hs6_description": "Aluminium; unwrought, alloys",
    "level": 8,
    "chapter": "76",
    "description": "Wire bars",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "76012040",
+   "hs6": "760120",
+   "hs6_description": "Aluminium; unwrought, alloys",
    "level": 8,
    "chapter": "76",
    "description": "Wire rods",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "76012090",
+   "hs6": "760120",
+   "hs6_description": "Aluminium; unwrought, alloys",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "7602",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Aluminium waste and scrap.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "760200",
+   "hs6": "760200",
+   "hs6_description": "Aluminium; waste and scrap",
    "level": 6,
    "chapter": "76",
    "description": "Aluminium waste and scrap :",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "76020010",
+   "hs6": "760200",
+   "hs6_description": "Aluminium; waste and scrap",
    "level": 8,
    "chapter": "76",
    "description": "Aluminium scrap, namely the following: Clean aluminium lithographic sheets covered by ISRI code word Tablet; New, Clean aluminium lithographic sheets covered by ISRI code word Tabloid; Mixed low copper aluminium clippings and solids covered by ISRI code word Taboo; Clean mixed old alloy sheet aluminium covered by ISRI code word Taint/Tabor; New aluminium can stock covered by ISRI code word Take; Old can stock covered by ISRI code word Talc; Shredded aluminium used beverages can (U) scrap covered by ISRI code word Talcred; Densified aluminium used beverages can (UBC) scrap covered by ISRI code word Taldack; Baled aluminium used beverage can (UBC) scrap covered by ISRI code word Taldon; Briquetted aluminium used beverage can (UBC) scrap covered by ISRI code word Taldork; Painted siding covered by ISRI code word Tale; Coated scrap covered by ISRI code word Talent; Aluminium scrap radiators covered by ISRI code word Talk; E.C. aluminium nodules covered by ISRI code word Tall; New pure aluminium wire and cable covered by ISRI code word Talon; New mixed aluminium wire and cable covered by ISRI code word Tann; Old pure aluminium wire and cable covered by ISRI code word Taste; Old mixed aluminium wire and cable covered by ISRI code word Tassel; Aluminium pistons covered by ISRI code word Tarry; Segregated aluminium borings and turnings covered by ISRI code word Teens; Mixed aluminium castings covered by ISRI code word Telic; Mixed aluminium castings covered by ISRI code word Tense; Wrecked airplane sheet aluminium covered by ISRI code word Tepid; New aluminium foil covered by ISRI code word Terse; New aluminium foil covered by ISRI code word Tetra; Old aluminium foil covered by ISRI code word Tesla; Aluminium grindings covered by ISRI code word Thigh; Segregated new aluminium alloy clippings and solids covered by ISRI code word Tooth; Mixed new aluminium alloy clippings and solids covered by ISRI code word Tough; Segregated new aluminium castings, forgings and extrusions covered by ISRI code word Tread; Aluminium auto castings covered by ISRI code word Trump; Insulated aluminium wire scrap covered by ISRI code word Twang; Aluminium airplane castings covered by ISRI code word Twist; Fragmentizer aluminium scrap (from automobile shredder)covered by ISRI code word Twitch; Aluminium auto or truck wheels covered by ISRI code word Troma; Fragmentizer aluminium scrap from automobile shredders covered by ISRI code word Tweak; Burnt fragmentizer aluminium scrap from automobile shredders covered by ISRI code word Twire; Shredded non-ferrous scrap (predominantly aluminium) covered by ISRI code word Zorba; New production aluminium extrusions covered by ISRI code word Tata; All aluminium radiators from automobiles covered by ISRI code word Tally; Aluminium extrusions 10/10 covered by ISRI codeword Toto; Aluminium extrusions dealer grade covered by the word Tutu.",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "76020090",
+   "hs6": "760200",
+   "hs6_description": "Aluminium; waste and scrap",
    "level": 8,
    "chapter": "76",
    "description": "Other waste and scrap",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "7603",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Aluminium powders and flakes.",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "760310",
+   "hs6": "760310",
+   "hs6_description": "Aluminium; powders of non-lamellar structure",
    "level": 6,
    "chapter": "76",
    "description": "Powders of non-lamellar structure",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "76031010",
+   "hs6": "760310",
+   "hs6_description": "Aluminium; powders of non-lamellar structure",
    "level": 8,
    "chapter": "76",
    "description": "Aluminium powder for thermit process",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "76031090",
+   "hs6": "760310",
+   "hs6_description": "Aluminium; powders of non-lamellar structure",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "76032000",
+   "hs6": "760320",
+   "hs6_description": "Aluminium; powders of lamellar structure, flakes",
    "level": 8,
    "chapter": "76",
    "description": "Powders of lamellar structure; flakes",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "7604",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Aluminium bars, rods and profiles.",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "760410",
+   "hs6": "760410",
+   "hs6_description": "Aluminium; (not alloyed), bars, rods and profiles",
    "level": 6,
    "chapter": "76",
    "description": "Of aluminium, not alloyed",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "76041010",
+   "hs6": "760410",
+   "hs6_description": "Aluminium; (not alloyed), bars, rods and profiles",
    "level": 8,
    "chapter": "76",
    "description": "Wire rods",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "76041020",
+   "hs6": "760410",
+   "hs6_description": "Aluminium; (not alloyed), bars, rods and profiles",
    "level": 8,
    "chapter": "76",
    "description": "Bars and rods,other than wire rods",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "76041031",
+   "hs6": "760410",
+   "hs6_description": "Aluminium; (not alloyed), bars, rods and profiles",
    "level": 8,
    "chapter": "76",
    "description": "Profiles: ----Hollow",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "76041039",
+   "hs6": "760410",
+   "hs6_description": "Aluminium; (not alloyed), bars, rods and profiles",
    "level": 8,
    "chapter": "76",
    "description": "Profiles: ----Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "76042100",
+   "hs6": "760421",
+   "hs6_description": "Aluminium; alloys, hollow profiles",
    "level": 8,
    "chapter": "76",
    "description": "Of aluminium alloys : -- Hollow profiles",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "760429",
+   "hs6": "760429",
+   "hs6_description": "Aluminium; alloys, bars, rods and profiles, other than hollow",
    "level": 6,
    "chapter": "76",
    "description": "Of aluminium alloys : -- Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "76042910",
+   "hs6": "760429",
+   "hs6_description": "Aluminium; alloys, bars, rods and profiles, other than hollow",
    "level": 8,
    "chapter": "76",
    "description": "Hard drawn bare aluminium conductors steel re-inforced (A.C.S.R.)",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "76042920",
+   "hs6": "760429",
+   "hs6_description": "Aluminium; alloys, bars, rods and profiles, other than hollow",
    "level": 8,
    "chapter": "76",
    "description": "Wire rods",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "76042930",
+   "hs6": "760429",
+   "hs6_description": "Aluminium; alloys, bars, rods and profiles, other than hollow",
    "level": 8,
    "chapter": "76",
    "description": "Bars and rods, other than wire rods",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "76042990",
+   "hs6": "760429",
+   "hs6_description": "Aluminium; alloys, bars, rods and profiles, other than hollow",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "7605",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Aluminium wire.",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "76051100",
+   "hs6": "760511",
+   "hs6_description": "Aluminium; (not alloyed), wire, maximum cross-sectional dimension exceeds 7mm",
    "level": 8,
    "chapter": "76",
    "description": "Of aluminium, not alloyed : -- Of which the maximum cross-sectional dimension exceeds 7 mm",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "760519",
+   "hs6": "760519",
+   "hs6_description": "Aluminium; (not alloyed), wire, maximum cross-sectional dimension is 7mm or less",
    "level": 6,
    "chapter": "76",
    "description": "Of aluminium, not alloyed : -- Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "76051910",
+   "hs6": "760519",
+   "hs6_description": "Aluminium; (not alloyed), wire, maximum cross-sectional dimension is 7mm or less",
    "level": 8,
    "chapter": "76",
    "description": "Of which the maximum cross-sectional dimension exceeds 6 mm but does not exceed 7 mm",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "76051991",
+   "hs6": "760519",
+   "hs6_description": "Aluminium; (not alloyed), wire, maximum cross-sectional dimension is 7mm or less",
    "level": 8,
    "chapter": "76",
    "description": "Other: ----Hard drawn bare-solid",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "76051999",
+   "hs6": "760519",
+   "hs6_description": "Aluminium; (not alloyed), wire, maximum cross-sectional dimension is 7mm or less",
    "level": 8,
    "chapter": "76",
    "description": "Other: ----Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "76052100",
+   "hs6": "760521",
+   "hs6_description": "Aluminium; alloys, wire, maximum cross-sectional dimension exceeding 7mm",
    "level": 8,
    "chapter": "76",
    "description": "Of aluminium alloys : -- Of which the maximum cross-sectional dimension exceeds 7 mm",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "760529",
+   "hs6": "760529",
+   "hs6_description": "Aluminium; alloys, wire, maximum cross-sectional dimension is 7mm or less",
    "level": 6,
    "chapter": "76",
    "description": "Of aluminium alloys : -- Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "76052910",
+   "hs6": "760529",
+   "hs6_description": "Aluminium; alloys, wire, maximum cross-sectional dimension is 7mm or less",
    "level": 8,
    "chapter": "76",
    "description": "Of which the maximum cross-sectional dimension exceeds 6 mm but does not exceed 7 mm",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "76052990",
+   "hs6": "760529",
+   "hs6_description": "Aluminium; alloys, wire, maximum cross-sectional dimension is 7mm or less",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "7606",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm.",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "760611",
+   "hs6": "760611",
+   "hs6_description": "Aluminium; plates, sheets and strip, thickness exceeding 0.2mm, (not alloyed), rectangular (including square)",
    "level": 6,
    "chapter": "76",
    "description": "Rectangular (including square) : -- Of aluminium, not alloyed",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "76061110",
+   "hs6": "760611",
+   "hs6_description": "Aluminium; plates, sheets and strip, thickness exceeding 0.2mm, (not alloyed), rectangular (including square)",
    "level": 8,
    "chapter": "76",
    "description": "Electrolytic plates or sheets",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "76061190",
+   "hs6": "760611",
+   "hs6_description": "Aluminium; plates, sheets and strip, thickness exceeding 0.2mm, (not alloyed), rectangular (including square)",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "76061200",
+   "hs6": "760612",
+   "hs6_description": "Aluminium; plates, sheets and strip, thickness exceeding 0.2mm, alloys, rectangular (including square)",
    "level": 8,
    "chapter": "76",
    "description": "Rectangular (including square) : -- Of aluminium alloys",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "760691",
+   "hs6": "760691",
+   "hs6_description": "Aluminium; plates, sheets and strip, thickness exceeding 0.2mm, not alloyed, (not rectangular or square)",
    "level": 6,
    "chapter": "76",
    "description": "Other : -- Of aluminium, not alloyed",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "76069110",
+   "hs6": "760691",
+   "hs6_description": "Aluminium; plates, sheets and strip, thickness exceeding 0.2mm, not alloyed, (not rectangular or square)",
    "level": 8,
    "chapter": "76",
    "description": "Circles",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "76069120",
+   "hs6": "760691",
+   "hs6_description": "Aluminium; plates, sheets and strip, thickness exceeding 0.2mm, not alloyed, (not rectangular or square)",
    "level": 8,
    "chapter": "76",
    "description": "Electrolytic plates or sheets",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "76069190",
+   "hs6": "760691",
+   "hs6_description": "Aluminium; plates, sheets and strip, thickness exceeding 0.2mm, not alloyed, (not rectangular or square)",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "760692",
+   "hs6": "760692",
+   "hs6_description": "Aluminium; plates, sheets and strip, thickness exceeding 0.2mm, alloys, (not rectangular or square)",
    "level": 6,
    "chapter": "76",
    "description": "Other : -- Of aluminium alloys",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "76069210",
+   "hs6": "760692",
+   "hs6_description": "Aluminium; plates, sheets and strip, thickness exceeding 0.2mm, alloys, (not rectangular or square)",
    "level": 8,
    "chapter": "76",
    "description": "Circles",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "76069290",
+   "hs6": "760692",
+   "hs6_description": "Aluminium; plates, sheets and strip, thickness exceeding 0.2mm, alloys, (not rectangular or square)",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "7607",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.2 mm.",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "760711",
+   "hs6": "760711",
+   "hs6_description": "Aluminium; foil, (not backed), rolled (but not further worked), of a thickness not exceeding 0.2mm",
    "level": 6,
    "chapter": "76",
    "description": "Not backed : -- Rolled but not further worked",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "76071110",
+   "hs6": "760711",
+   "hs6_description": "Aluminium; foil, (not backed), rolled (but not further worked), of a thickness not exceeding 0.2mm",
    "level": 8,
    "chapter": "76",
    "description": "Ordinarily used for tea chest lining",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "76071190",
+   "hs6": "760711",
+   "hs6_description": "Aluminium; foil, (not backed), rolled (but not further worked), of a thickness not exceeding 0.2mm",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "760719",
+   "hs6": "760719",
+   "hs6_description": "Aluminium; foil, (not backed), of a thickness not exceeding 0.2mm, not rolled",
    "level": 6,
    "chapter": "76",
    "description": "Not backed : -- Other",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "76071910",
+   "hs6": "760719",
+   "hs6_description": "Aluminium; foil, (not backed), of a thickness not exceeding 0.2mm, not rolled",
    "level": 8,
    "chapter": "76",
    "description": "Ordinarily used for tea chest lining",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "76071991",
+   "hs6": "760719",
+   "hs6_description": "Aluminium; foil, (not backed), of a thickness not exceeding 0.2mm, not rolled",
    "level": 8,
    "chapter": "76",
    "description": "Other: ----Plain",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "76071992",
+   "hs6": "760719",
+   "hs6_description": "Aluminium; foil, (not backed), of a thickness not exceeding 0.2mm, not rolled",
    "level": 8,
    "chapter": "76",
    "description": "Other: ----Embossed",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "76071993",
+   "hs6": "760719",
+   "hs6_description": "Aluminium; foil, (not backed), of a thickness not exceeding 0.2mm, not rolled",
    "level": 8,
    "chapter": "76",
    "description": "Other: ----Perforated or cut-to-shape",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "76071994",
+   "hs6": "760719",
+   "hs6_description": "Aluminium; foil, (not backed), of a thickness not exceeding 0.2mm, not rolled",
    "level": 8,
    "chapter": "76",
    "description": "Other: ----Coated",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "76071995",
+   "hs6": "760719",
+   "hs6_description": "Aluminium; foil, (not backed), of a thickness not exceeding 0.2mm, not rolled",
    "level": 8,
    "chapter": "76",
    "description": "Other: ----Printed",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "76071999",
+   "hs6": "760719",
+   "hs6_description": "Aluminium; foil, (not backed), of a thickness not exceeding 0.2mm, not rolled",
    "level": 8,
    "chapter": "76",
    "description": "Other: ----Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "760720",
+   "hs6": "760720",
+   "hs6_description": "Aluminium; foil, backed with paper, paperboard, plastics or similar backing materials, of a thickness (excluding any backing) not exceeding 0.2mm",
    "level": 6,
    "chapter": "76",
    "description": "Backed",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "76072010",
+   "hs6": "760720",
+   "hs6_description": "Aluminium; foil, backed with paper, paperboard, plastics or similar backing materials, of a thickness (excluding any backing) not exceeding 0.2mm",
    "level": 8,
    "chapter": "76",
    "description": "Ordinarily used for tea chest lining",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "76072090",
+   "hs6": "760720",
+   "hs6_description": "Aluminium; foil, backed with paper, paperboard, plastics or similar backing materials, of a thickness (excluding any backing) not exceeding 0.2mm",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "7608",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Aluminium tubes and pipes.",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "76081000",
+   "hs6": "760810",
+   "hs6_description": "Aluminium; tubes and pipes, not alloyed",
    "level": 8,
    "chapter": "76",
    "description": "Of aluminium, not alloyed",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "76082000",
+   "hs6": "760820",
+   "hs6_description": "Aluminium; tubes and pipes, alloys",
    "level": 8,
    "chapter": "76",
    "description": "Of aluminium alloys",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "76090000",
+   "hs6": "760900",
+   "hs6_description": "Aluminium; tube or pipe fittings (e.g. couplings, elbows, sleeves)",
    "level": 8,
    "chapter": "76",
    "description": "Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves).",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "7610",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Aluminium structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridge-sections, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, balustrades, pillars and columns); aluminium plates, rods, profiles, tubes and the like, prepared for use in structures.",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "76101000",
+   "hs6": "761010",
+   "hs6_description": "Aluminium; structures (excluding prefabricated buildings of heading no. 9406) and parts of structures, doors, windows and their frames and thresholds for doors",
    "level": 8,
    "chapter": "76",
    "description": "Doors, windows and their frames and thresholds for doors",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "761090",
+   "hs6": "761090",
+   "hs6_description": "Aluminium; structures (excluding prefabricated buildings of heading no. 9406) and parts of structures, n.e.c. in heading no. 7610, plates, rods, profiles, tubes and the like",
    "level": 6,
    "chapter": "76",
    "description": "Other",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "76109010",
+   "hs6": "761090",
+   "hs6_description": "Aluminium; structures (excluding prefabricated buildings of heading no. 9406) and parts of structures, n.e.c. in heading no. 7610, plates, rods, profiles, tubes and the like",
    "level": 8,
    "chapter": "76",
    "description": "Structures",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "76109021",
+   "hs6": "761090",
+   "hs6_description": "Aluminium; structures (excluding prefabricated buildings of heading no. 9406) and parts of structures, n.e.c. in heading no. 7610, plates, rods, profiles, tubes and the like",
    "level": 8,
    "chapter": "76",
    "description": "Parts of structures, not elsewhere specified :---- Portable bridge",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "76109029",
+   "hs6": "761090",
+   "hs6_description": "Aluminium; structures (excluding prefabricated buildings of heading no. 9406) and parts of structures, n.e.c. in heading no. 7610, plates, rods, profiles, tubes and the like",
    "level": 8,
    "chapter": "76",
    "description": "Parts of structures, not elsewhere specified :---- Other",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "76109030",
+   "hs6": "761090",
+   "hs6_description": "Aluminium; structures (excluding prefabricated buildings of heading no. 9406) and parts of structures, n.e.c. in heading no. 7610, plates, rods, profiles, tubes and the like",
    "level": 8,
    "chapter": "76",
    "description": "Aluminium plates, rods, profiles, tubes and the like prepared for use in structure",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "76109090",
+   "hs6": "761090",
+   "hs6_description": "Aluminium; structures (excluding prefabricated buildings of heading no. 9406) and parts of structures, n.e.c. in heading no. 7610, plates, rods, profiles, tubes and the like",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "76110000",
+   "hs6": "761100",
+   "hs6_description": "Aluminium; reservoirs, tanks, vats and similar containers, for material (not compressed or liquefied gas), of a capacity over 300l, whether or not lined, not fitted with mechanical/thermal equipment",
    "level": 8,
    "chapter": "76",
    "description": "Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment.",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "7612",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment.",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "761210",
+   "hs6": "761210",
+   "hs6_description": "Aluminium; collapsible tubular containers, for any material, (not compressed or liquefied gas), 300l capacity or less, whether or not lined, not fitted with mechanical/thermal equipment",
    "level": 6,
    "chapter": "76",
    "description": "Collapsible tubular containers",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "76121010",
+   "hs6": "761210",
+   "hs6_description": "Aluminium; collapsible tubular containers, for any material, (not compressed or liquefied gas), 300l capacity or less, whether or not lined, not fitted with mechanical/thermal equipment",
    "level": 8,
    "chapter": "76",
    "description": "Plain",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "76121020",
+   "hs6": "761210",
+   "hs6_description": "Aluminium; collapsible tubular containers, for any material, (not compressed or liquefied gas), 300l capacity or less, whether or not lined, not fitted with mechanical/thermal equipment",
    "level": 8,
    "chapter": "76",
    "description": "Lacquered",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "76121030",
+   "hs6": "761210",
+   "hs6_description": "Aluminium; collapsible tubular containers, for any material, (not compressed or liquefied gas), 300l capacity or less, whether or not lined, not fitted with mechanical/thermal equipment",
    "level": 8,
    "chapter": "76",
    "description": "Printed",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "761290",
+   "hs6": "761290",
+   "hs6_description": "Aluminium; casks, drums, cans, boxes and the like for any material (not compressed or liquefied gas), 300l capacity or less, whether or not lined or heat-insulated, no mechanical or thermal equipment",
    "level": 6,
    "chapter": "76",
    "description": "Other",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "76129010",
+   "hs6": "761290",
+   "hs6_description": "Aluminium; casks, drums, cans, boxes and the like for any material (not compressed or liquefied gas), 300l capacity or less, whether or not lined or heat-insulated, no mechanical or thermal equipment",
    "level": 8,
    "chapter": "76",
    "description": "Plain",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "76129020",
+   "hs6": "761290",
+   "hs6_description": "Aluminium; casks, drums, cans, boxes and the like for any material (not compressed or liquefied gas), 300l capacity or less, whether or not lined or heat-insulated, no mechanical or thermal equipment",
    "level": 8,
    "chapter": "76",
    "description": "Lacquered",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "76129030",
+   "hs6": "761290",
+   "hs6_description": "Aluminium; casks, drums, cans, boxes and the like for any material (not compressed or liquefied gas), 300l capacity or less, whether or not lined or heat-insulated, no mechanical or thermal equipment",
    "level": 8,
    "chapter": "76",
    "description": "Printed",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "76129090",
+   "hs6": "761290",
+   "hs6_description": "Aluminium; casks, drums, cans, boxes and the like for any material (not compressed or liquefied gas), 300l capacity or less, whether or not lined or heat-insulated, no mechanical or thermal equipment",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "7613",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Aluminium containers for compressed or liquefied gas.",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "761300",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 6,
    "chapter": "76",
    "description": "Aluminium containers for compressed or liquefied gas :",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "76130011",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 8,
    "chapter": "76",
    "description": "Low Pressure Cylinders: ----Plain",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "76130012",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 8,
    "chapter": "76",
    "description": "Low Pressure Cylinders: ----Lacquered",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "76130013",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 8,
    "chapter": "76",
    "description": "Low Pressure Cylinders: ----Printed",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "76130019",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 8,
    "chapter": "76",
    "description": "Low Pressure Cylinders: ----Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "76130021",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 8,
    "chapter": "76",
    "description": "High Pressure Cylinders: ----Plain",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "76130022",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 8,
    "chapter": "76",
    "description": "High Pressure Cylinders: ----Lacquered",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "76130023",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 8,
    "chapter": "76",
    "description": "High Pressure Cylinders: ----Printed",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "76130029",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 8,
    "chapter": "76",
    "description": "High Pressure Cylinders: ----Other",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "76130091",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 8,
    "chapter": "76",
    "description": "Other: ----Plain",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "76130092",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 8,
    "chapter": "76",
    "description": "Other: ----Lacquered",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "76130093",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 8,
    "chapter": "76",
    "description": "Other: ----Printed",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "76130099",
+   "hs6": "761300",
+   "hs6_description": "Aluminium; containers for compressed or liquefied gas",
    "level": 8,
    "chapter": "76",
    "description": "Other: ----Other",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "7614",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated.",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "76141000",
+   "hs6": "761410",
+   "hs6_description": "Aluminium; stranded wire, cables, plaited bands and the like, (not electrically insulated), with steel core",
    "level": 8,
    "chapter": "76",
    "description": "With steel core",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "76149000",
+   "hs6": "761490",
+   "hs6_description": "Aluminium; stranded wire, cables, plaited bands and the like, (not electrically insulated), other than steel core",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "7615",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Table, kitchen or other household articles and parts thereof, of aluminium; pot scourers and scouring or polishing pads, gloves and the like, of aluminium; sanitary ware and parts thereof, of aluminium.",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "761510",
+   "hs6": "761510",
+   "hs6_description": "Aluminium; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 6,
    "chapter": "76",
    "description": "Table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "76151011",
+   "hs6": "761510",
+   "hs6_description": "Aluminium; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "76",
    "description": "Pressure cookers, Solar collectors ----Pressure cookers",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "76151012",
+   "hs6": "761510",
+   "hs6_description": "Aluminium; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "76",
    "description": "Pressure cookers, Solar collectors ----Solar collectors",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "76151021",
+   "hs6": "761510",
+   "hs6_description": "Aluminium; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "76",
    "description": "Utensils: ----Non-stick",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "76151029",
+   "hs6": "761510",
+   "hs6_description": "Aluminium; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "76",
    "description": "Utensils: ----Other",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "76151030",
+   "hs6": "761510",
+   "hs6_description": "Aluminium; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "76",
    "description": "Utensils: ----Other Table, kitchen or other household articles",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "76151040",
+   "hs6": "761510",
+   "hs6_description": "Aluminium; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "76",
    "description": "Utensils: ----Pot scourers and scouring or polishing pads, gloves and the like",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "76151090",
+   "hs6": "761510",
+   "hs6_description": "Aluminium; table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "76",
    "description": "Utensils: ----Parts",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "761520",
+   "hs6": "761520",
+   "hs6_description": "Aluminium; sanitary ware and parts thereof",
    "level": 6,
    "chapter": "76",
    "description": "Sanitary ware and parts thereof",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "76152010",
+   "hs6": "761520",
+   "hs6_description": "Aluminium; sanitary ware and parts thereof",
    "level": 8,
    "chapter": "76",
    "description": "Sanitary ware of aluminium and aluminium alloys for indoor use",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "76152020",
+   "hs6": "761520",
+   "hs6_description": "Aluminium; sanitary ware and parts thereof",
    "level": 8,
    "chapter": "76",
    "description": "Parts",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "76152090",
+   "hs6": "761520",
+   "hs6_description": "Aluminium; sanitary ware and parts thereof",
    "level": 8,
    "chapter": "76",
    "description": "Other",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "7616",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "76",
    "description": "Other articles of aluminium.",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "76161000",
+   "hs6": "761610",
+   "hs6_description": "Aluminium; nails, tacks, staples (other than those of heading no. 8305), screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers and similar articles",
    "level": 8,
    "chapter": "76",
    "description": "Nails, tacks, staples (other than those of heading 83.05), screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers and similar articles",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "76169100",
+   "hs6": "761691",
+   "hs6_description": "Aluminium; cloth, grill, netting and fencing, of aluminium wire",
    "level": 8,
    "chapter": "76",
    "description": "Other : -- Cloth, grill, netting and fencing, of aluminium wire",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "761699",
+   "hs6": "761699",
+   "hs6_description": "Aluminium; articles n.e.c. in heading 7616",
    "level": 6,
    "chapter": "76",
    "description": "Other : -- Other",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "76169910",
+   "hs6": "761699",
+   "hs6_description": "Aluminium; articles n.e.c. in heading 7616",
    "level": 8,
    "chapter": "76",
    "description": "Expanded metal of aluminium and aluminium alloys",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "76169920",
+   "hs6": "761699",
+   "hs6_description": "Aluminium; articles n.e.c. in heading 7616",
    "level": 8,
    "chapter": "76",
    "description": "Chains",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "76169930",
+   "hs6": "761699",
+   "hs6_description": "Aluminium; articles n.e.c. in heading 7616",
    "level": 8,
    "chapter": "76",
    "description": "Bobbins",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "76169990",
+   "hs6": "761699",
+   "hs6_description": "Aluminium; articles n.e.c. in heading 7616",
    "level": 8,
    "chapter": "76",
    "description": "Other",

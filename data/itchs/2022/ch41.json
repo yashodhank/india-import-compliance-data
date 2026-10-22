@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "4101",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "41",
    "description": "Raw hides and skins of bovine (including buffalo) or equine animals (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "410120",
+   "hs6": "410120",
+   "hs6_description": "Raw hides and skins; whole, unsplit, of bovine or equine animals, of a weight per skin not exceeding 8kg when simply dried, 10kg when dry-salted or 16kg when fresh, wet-salted or otherwise preserved",
    "level": 6,
    "chapter": "41",
    "description": "Whole hides and skins, unsplit, of a weight per skin not exceeding 8 kg when simply dried, 10 kg when dry-salted, or 16 kg when fresh, wet-salted or otherwise preserved",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "41012010",
+   "hs6": "410120",
+   "hs6_description": "Raw hides and skins; whole, unsplit, of bovine or equine animals, of a weight per skin not exceeding 8kg when simply dried, 10kg when dry-salted or 16kg when fresh, wet-salted or otherwise preserved",
    "level": 8,
    "chapter": "41",
    "description": "Of cow, including cow calf",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "41012020",
+   "hs6": "410120",
+   "hs6_description": "Raw hides and skins; whole, unsplit, of bovine or equine animals, of a weight per skin not exceeding 8kg when simply dried, 10kg when dry-salted or 16kg when fresh, wet-salted or otherwise preserved",
    "level": 8,
    "chapter": "41",
    "description": "Of buffalo, including buffalo calf",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "41012090",
+   "hs6": "410120",
+   "hs6_description": "Raw hides and skins; whole, unsplit, of bovine or equine animals, of a weight per skin not exceeding 8kg when simply dried, 10kg when dry-salted or 16kg when fresh, wet-salted or otherwise preserved",
    "level": 8,
    "chapter": "41",
    "description": "Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "410150",
+   "hs6": "410150",
+   "hs6_description": "Hides and skins; raw, whole, of bovine or equine animals, of a weight per skin exceeding 16 kg",
    "level": 6,
    "chapter": "41",
    "description": "Whole hides and skins, of a weight exceeding 16 kg",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "41015010",
+   "hs6": "410150",
+   "hs6_description": "Hides and skins; raw, whole, of bovine or equine animals, of a weight per skin exceeding 16 kg",
    "level": 8,
    "chapter": "41",
    "description": "Of cow, including cow calf",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "41015020",
+   "hs6": "410150",
+   "hs6_description": "Hides and skins; raw, whole, of bovine or equine animals, of a weight per skin exceeding 16 kg",
    "level": 8,
    "chapter": "41",
    "description": "Of buffalo, including buffalo calf",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "41015090",
+   "hs6": "410150",
+   "hs6_description": "Hides and skins; raw, whole, of bovine or equine animals, of a weight per skin exceeding 16 kg",
    "level": 8,
    "chapter": "41",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "410190",
+   "hs6": "410190",
+   "hs6_description": "Hides and skins; other than whole, but including butts, bends and bellies, of bovine (including. buffalo) and equine animals, fresh, salted or preserved, but not tanned, parchment dressed or further prepared, whether or not dehaired or split",
    "level": 6,
    "chapter": "41",
    "description": "Other, including butts, bends and bellies",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "41019010",
+   "hs6": "410190",
+   "hs6_description": "Hides and skins; other than whole, but including butts, bends and bellies, of bovine (including. buffalo) and equine animals, fresh, salted or preserved, but not tanned, parchment dressed or further prepared, whether or not dehaired or split",
    "level": 8,
    "chapter": "41",
    "description": "Of cow, including cow calf",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "41019020",
+   "hs6": "410190",
+   "hs6_description": "Hides and skins; other than whole, but including butts, bends and bellies, of bovine (including. buffalo) and equine animals, fresh, salted or preserved, but not tanned, parchment dressed or further prepared, whether or not dehaired or split",
    "level": 8,
    "chapter": "41",
    "description": "Of buffalo, including buffalo calf",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "41019090",
+   "hs6": "410190",
+   "hs6_description": "Hides and skins; other than whole, but including butts, bends and bellies, of bovine (including. buffalo) and equine animals, fresh, salted or preserved, but not tanned, parchment dressed or further prepared, whether or not dehaired or split",
    "level": 8,
    "chapter": "41",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "4102",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "41",
    "description": "Raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchmentdressed or further prepared), whether or not with wool on or split, other than those excluded by Note 1 (c) to this Chapter.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "410210",
+   "hs6": "410210",
+   "hs6_description": "Skins; raw, of sheep or lambs, fresh, or salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), with wool on",
    "level": 6,
    "chapter": "41",
    "description": "With wool on",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "41021010",
+   "hs6": "410210",
+   "hs6_description": "Skins; raw, of sheep or lambs, fresh, or salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), with wool on",
    "level": 8,
    "chapter": "41",
    "description": "Sheep skins",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "41021020",
+   "hs6": "410210",
+   "hs6_description": "Skins; raw, of sheep or lambs, fresh, or salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), with wool on",
    "level": 8,
    "chapter": "41",
    "description": "Pelts of baby lambs",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "41021030",
+   "hs6": "410210",
+   "hs6_description": "Skins; raw, of sheep or lambs, fresh, or salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), with wool on",
    "level": 8,
    "chapter": "41",
    "description": "Lamb skins other than pelts Without wool on:",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "410221",
+   "hs6": "410221",
+   "hs6_description": "Skins; raw, of sheep or lambs, pickled (but not tanned, parchment-dressed or further preserved), without wool on",
    "level": 6,
    "chapter": "41",
    "description": "Without wool on : -- Pickled",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "41022110",
+   "hs6": "410221",
+   "hs6_description": "Skins; raw, of sheep or lambs, pickled (but not tanned, parchment-dressed or further preserved), without wool on",
    "level": 8,
    "chapter": "41",
    "description": "Sheep skins",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "41022120",
+   "hs6": "410221",
+   "hs6_description": "Skins; raw, of sheep or lambs, pickled (but not tanned, parchment-dressed or further preserved), without wool on",
    "level": 8,
    "chapter": "41",
    "description": "Lamb skins",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "41022130",
+   "hs6": "410221",
+   "hs6_description": "Skins; raw, of sheep or lambs, pickled (but not tanned, parchment-dressed or further preserved), without wool on",
    "level": 8,
    "chapter": "41",
    "description": "Lamb pelt",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "410229",
+   "hs6": "410229",
+   "hs6_description": "Hides and skins; raw, of animals n.e.c. in this chapter, fresh, salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",
    "level": 6,
    "chapter": "41",
    "description": "Without wool on : -- Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "41022910",
+   "hs6": "410229",
+   "hs6_description": "Hides and skins; raw, of animals n.e.c. in this chapter, fresh, salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",
    "level": 8,
    "chapter": "41",
    "description": "Sheep skins",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "41022920",
+   "hs6": "410229",
+   "hs6_description": "Hides and skins; raw, of animals n.e.c. in this chapter, fresh, salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",
    "level": 8,
    "chapter": "41",
    "description": "Lamb skins",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "4103",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "41",
    "description": "Other raw hides and skins (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split, other than those excluded by Note 1 (b) or 1 (c) to this Chapter.",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "41032000",
+   "hs6": "410320",
+   "hs6_description": "Hides and skins; raw, of reptiles (fresh or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",
    "level": 8,
    "chapter": "41",
    "description": "Of reptiles",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "41033000",
+   "hs6": "410330",
+   "hs6_description": "Hides and skins; raw, of swine, (fresh or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",
    "level": 8,
    "chapter": "41",
    "description": "Of swine",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "41039000",
+   "hs6": "410390",
+   "hs6_description": "Hides and skins; raw, of animals n.e.c. in this chapter, fresh, salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",
    "level": 8,
    "chapter": "41",
    "description": "Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "4104",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "41",
    "description": "Tanned or crust hides and skins of bovine (including buffalo) or equine animals, without hair on, whether or not split, but not further prepared.",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "410411",
+   "hs6": "410411",
+   "hs6_description": "Tanned or crust hides and skins; without hair on, bovine or equine, in the wet state (including wet-blue), full grains, unsplit; grain splits",
    "level": 6,
    "chapter": "41",
    "description": "In the wet state (including wet-blue) : -- Full grains, unsplit; grain splits",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "41041110",
+   "hs6": "410411",
+   "hs6_description": "Tanned or crust hides and skins; without hair on, bovine or equine, in the wet state (including wet-blue), full grains, unsplit; grain splits",
    "level": 8,
    "chapter": "41",
    "description": "--- Wet blues",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "41041190",
+   "hs6": "410411",
+   "hs6_description": "Tanned or crust hides and skins; without hair on, bovine or equine, in the wet state (including wet-blue), full grains, unsplit; grain splits",
    "level": 8,
    "chapter": "41",
    "description": "--- Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "410419",
+   "hs6": "410419",
+   "hs6_description": "Tanned or crust hides and skins; bovine or equine, without hair on, in the wet state (including wet-blue), excluding full grains, unsplit; grain splits",
    "level": 6,
    "chapter": "41",
    "description": "In the wet state (including wet-blue) : -- Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "41041910",
+   "hs6": "410419",
+   "hs6_description": "Tanned or crust hides and skins; bovine or equine, without hair on, in the wet state (including wet-blue), excluding full grains, unsplit; grain splits",
    "level": 8,
    "chapter": "41",
    "description": "--- Wet blues",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "41041990",
+   "hs6": "410419",
+   "hs6_description": "Tanned or crust hides and skins; bovine or equine, without hair on, in the wet state (including wet-blue), excluding full grains, unsplit; grain splits",
    "level": 8,
    "chapter": "41",
    "description": "--- Other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "41044100",
+   "hs6": "410441",
+   "hs6_description": "Tanned or crust hides and skins; bovine or equine, without hair on, in the dry state (crust), full grains, unsplit; grain splits",
    "level": 8,
    "chapter": "41",
    "description": "In the dry state (crust) : -- Full grains, unsplit; grain splits",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "41044900",
+   "hs6": "410449",
+   "hs6_description": "Tanned or crust hides and skins; bovine or equine, without hair on, in the dry state (crust), (other than full grains, unsplit; grain splits)",
    "level": 8,
    "chapter": "41",
    "description": "In the dry state (crust) : -- Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "4105",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "41",
    "description": "Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared.",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "410510",
+   "hs6": "410510",
+   "hs6_description": "Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared, in the wet state (including wet-blue)",
    "level": 6,
    "chapter": "41",
    "description": "In the wet state (including wet-blue)",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "41051010",
+   "hs6": "410510",
+   "hs6_description": "Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared, in the wet state (including wet-blue)",
    "level": 8,
    "chapter": "41",
    "description": "--- Wet blues",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "41051090",
+   "hs6": "410510",
+   "hs6_description": "Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared, in the wet state (including wet-blue)",
    "level": 8,
    "chapter": "41",
    "description": "--- Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "41053000",
+   "hs6": "410530",
+   "hs6_description": "Tanned or crust skins; of sheep or lambs, without wool on, whether or not split, but not further prepared, in the dry state (crust)",
    "level": 8,
    "chapter": "41",
    "description": "In the dry state (crust)",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "4106",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "41",
    "description": "Tanned or crust hides and skins of other animals, without wool or hair on, whether or not split, but not further prepared.",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "410621",
+   "hs6": "410621",
+   "hs6_description": "Tanned or crust hides and skins; of goats or kids, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",
    "level": 6,
    "chapter": "41",
    "description": "Of goats or kids : -- In the wet state (including wet-blue)",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "41062110",
+   "hs6": "410621",
+   "hs6_description": "Tanned or crust hides and skins; of goats or kids, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",
    "level": 8,
    "chapter": "41",
    "description": "--- Wet blues",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "41062190",
+   "hs6": "410621",
+   "hs6_description": "Tanned or crust hides and skins; of goats or kids, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",
    "level": 8,
    "chapter": "41",
    "description": "--- Other",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "41062200",
+   "hs6": "410622",
+   "hs6_description": "Tanned or crust hides and skins; of goats or kids, without hair on, whether or not split, but not further prepared, in the dry state (crust)",
    "level": 8,
    "chapter": "41",
    "description": "Of goats or kids : -- In the dry state (crust)",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "410631",
+   "hs6": "410631",
+   "hs6_description": "Tanned or crust hides and skins; of swine, without hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",
    "level": 6,
    "chapter": "41",
    "description": "Of swine : -- In the wet state (including wet-blue)",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "41063110",
+   "hs6": "410631",
+   "hs6_description": "Tanned or crust hides and skins; of swine, without hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",
    "level": 8,
    "chapter": "41",
    "description": "--- Wet blues",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "41063190",
+   "hs6": "410631",
+   "hs6_description": "Tanned or crust hides and skins; of swine, without hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",
    "level": 8,
    "chapter": "41",
    "description": "--- Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "41063200",
+   "hs6": "410632",
+   "hs6_description": "Tanned or crust hides and skins; of swine, without hair on, whether or not split, but not further prepared, in the dry state (crust)",
    "level": 8,
    "chapter": "41",
    "description": "Of swine : -- In the dry state (crust)",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "41064000",
+   "hs6": "410640",
+   "hs6_description": "Tanned or crust hides and skins; of reptiles, whether or not split, but not further prepared",
    "level": 8,
    "chapter": "41",
    "description": "Of reptiles",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "410691",
+   "hs6": "410691",
+   "hs6_description": "Tanned or crust hides and skins; of animals other than equine, ovine, bovine, goats or kids, swine and reptiles, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",
    "level": 6,
    "chapter": "41",
    "description": "Other : -- In the wet state (including wet-blue)",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "41069110",
+   "hs6": "410691",
+   "hs6_description": "Tanned or crust hides and skins; of animals other than equine, ovine, bovine, goats or kids, swine and reptiles, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",
    "level": 8,
    "chapter": "41",
    "description": "--- Wet blues",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "41069190",
+   "hs6": "410691",
+   "hs6_description": "Tanned or crust hides and skins; of animals other than equine, ovine, bovine, goats or kids, swine and reptiles, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",
    "level": 8,
    "chapter": "41",
    "description": "--- Other",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "41069200",
+   "hs6": "410692",
+   "hs6_description": "Tanned or crust hides and skins; of animals other than equine, ovine, bovine, goats or kids, swine and reptiles, without wool or hair on, whether or not split, but not further prepared, in the dry state (crust)",
    "level": 8,
    "chapter": "41",
    "description": "Other : -- In the dry state (crust)",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "4107",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "41",
    "description": "Leather further prepared after tanning or crusting, including parchment-dressed leather, of bovine (including buffalo) or equine animals, without hair on, whether or not split, other than leather of heading 41.14.",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "41071100",
+   "hs6": "410711",
+   "hs6_description": "Leather; further prepared after tanning or crusting, including parchment-dressed leather, of bovine (including buffalo) or equine animals, without hair on, other than leather of heading 41.14, whole hides and skins, full grain, unsplit",
    "level": 8,
    "chapter": "41",
    "description": "Whole hides and skins : -- Full grains, unsplit",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "41071200",
+   "hs6": "410712",
+   "hs6_description": "Leather; further prepared after tanning or crusting, including parchment-dressed leather, of bovine (including buffalo) or equine animals, without hair on, other than leather of heading 41.14, whole hides and skins, grain splits",
    "level": 8,
    "chapter": "41",
    "description": "Whole hides and skins : -- Grain splits",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "41071900",
+   "hs6": "410719",
+   "hs6_description": "Leather; further prepared after tanning or crusting, including parchment-dressed, of bovine (including buffalo) or equine animals, without hair on, split or not, other than leather of heading 41.14, (other than grain splits and full grains, unsplit)",
    "level": 8,
    "chapter": "41",
    "description": "Whole hides and skins : -- Other",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "41079100",
+   "hs6": "410791",
+   "hs6_description": "Leather; further prepared after tanning or crusting, including parchment-dressed, of bovine (including buffalo) or equine animals, without hair on, other than leather of heading 41.14, not whole hides and skins, but including sides, full grain, unsplit",
    "level": 8,
    "chapter": "41",
    "description": "Other, including sides : -- Full grains, unsplit",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "41079200",
+   "hs6": "410792",
+   "hs6_description": "Leather; further prepared after tanning or crusting, including parchment-dressed, of bovine (including buffalo) or equine animals, without hair on, other than leather of heading 41.14, not whole hides and skins, but including sides, grain splits",
    "level": 8,
    "chapter": "41",
    "description": "Other, including sides : -- Grain splits",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "41079900",
+   "hs6": "410799",
+   "hs6_description": "Leather; further prepared after tanning or crusting, incl. parchment-dressed, of bovine (including buffalo) or equine animals, no hair, excluding leather of heading 41.14, and whole hides and skins, and sides, (full grains, unsplit and grain splits)",
    "level": 8,
    "chapter": "41",
    "description": "Other, including sides : -- Other",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "41120000",
+   "hs6": "411200",
+   "hs6_description": "Leather; further prepared after tanning or crusting, including parchment dressed leather, of sheep or lamb, without wool on, whether or not split, other than leather of heading 41.14",
    "level": 8,
    "chapter": "41",
    "description": "Leather further prepared after tanning or crusting, including parchment-dressed leather, of sheep or lamb, without wool on, whether or not split, other than leather of heading 41.14.",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "4113",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "41",
    "description": "Leather further prepared after tanning or crusting, including parchment-dressed leather, of other animals, without wool or hair on, whether or not split, other than leather of heading 41.14.",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "41131000",
+   "hs6": "411310",
+   "hs6_description": "Leather; further prepared after tanning or crusting, including parchment-dressed leather, without hair on, whether or not split, other than leather of heading 41.14, of goats and kids",
    "level": 8,
    "chapter": "41",
    "description": "Of goats or kids",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "41132000",
+   "hs6": "411320",
+   "hs6_description": "Leather; further prepared after tanning or crusting, including parchment-dressed leather, without hair on, whether or not split, other than leather of heading 41.14, of swine",
    "level": 8,
    "chapter": "41",
    "description": "Of swine",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "41133000",
+   "hs6": "411330",
+   "hs6_description": "Leather; further prepared after tanning or crusting, including parchment-dressed leather, of reptiles, whether or not split, other than leather of heading 41.14",
    "level": 8,
    "chapter": "41",
    "description": "Of reptiles",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "41139000",
+   "hs6": "411390",
+   "hs6_description": "Leather; further prepared after tanning or crusting, including parchment-dressed leather, of animals (other than sheep and lambs, goats and kids, swine and reptiles), without wool or hair on, whether or not split, other than leather of heading 41.14",
    "level": 8,
    "chapter": "41",
    "description": "Other",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "4114",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "41",
    "description": "Chamois (including combination chamois) leather; patent leather and patent laminated leather; metallised leather.",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "41141000",
+   "hs6": "411410",
+   "hs6_description": "Leather; chamois (including combination chamois)",
    "level": 8,
    "chapter": "41",
    "description": "Chamois (including combination chamois) leather",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "411420",
+   "hs6": "411420",
+   "hs6_description": "Leather; patent leather and laminated patent leather; metallised leather",
    "level": 6,
    "chapter": "41",
    "description": "Patent leather and patent laminated leather; metallised leather",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "41142010",
+   "hs6": "411420",
+   "hs6_description": "Leather; patent leather and laminated patent leather; metallised leather",
    "level": 8,
    "chapter": "41",
    "description": "Patent leather and patent laminated leather",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "41142020",
+   "hs6": "411420",
+   "hs6_description": "Leather; patent leather and laminated patent leather; metallised leather",
    "level": 8,
    "chapter": "41",
    "description": "Metallised leather",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "4115",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "41",
    "description": "Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls; parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour.",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "41151000",
+   "hs6": "411510",
+   "hs6_description": "Leather; composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls",
    "level": 8,
    "chapter": "41",
    "description": "Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "411520",
+   "hs6": "411520",
+   "hs6_description": "Leather; parings and other waste, of leather or composition leather; not suitable for the manufacture of leather articles; leather dust, powder and flour",
    "level": 6,
    "chapter": "41",
    "description": "Parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "41152010",
+   "hs6": "411520",
+   "hs6_description": "Leather; parings and other waste, of leather or composition leather; not suitable for the manufacture of leather articles; leather dust, powder and flour",
    "level": 8,
    "chapter": "41",
    "description": "Cuttings of leather",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "41152090",
+   "hs6": "411520",
+   "hs6_description": "Leather; parings and other waste, of leather or composition leather; not suitable for the manufacture of leather articles; leather dust, powder and flour",
    "level": 8,
    "chapter": "41",
    "description": "Other",

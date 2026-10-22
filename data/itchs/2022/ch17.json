@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "1701",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "17",
    "description": "Cane or beet sugar and chemically pure sucrose, in solid form.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "17011200",
+   "hs6": "170112",
+   "hs6_description": "Sugars; beet sugar, raw, in solid form, not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Raw sugar not containing added flavouring or colouring matter : -- Beet sugar",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "170113",
+   "hs6": "170113",
+   "hs6_description": "Sugars; cane sugar, raw, in solid form, as specified in Subheading Note 2 to this chapter, not containing added flavouring or colouring matter",
    "level": 6,
    "chapter": "17",
    "description": "Raw sugar not containing added flavouring or colouring matter : -- Cane sugar specified in Subheading Note 2 to this Chapter",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "17011310",
+   "hs6": "170113",
+   "hs6_description": "Sugars; cane sugar, raw, in solid form, as specified in Subheading Note 2 to this chapter, not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Cane jaggery",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "17011320",
+   "hs6": "170113",
+   "hs6_description": "Sugars; cane sugar, raw, in solid form, as specified in Subheading Note 2 to this chapter, not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Khandsari sugar",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "17011390",
+   "hs6": "170113",
+   "hs6_description": "Sugars; cane sugar, raw, in solid form, as specified in Subheading Note 2 to this chapter, not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "170114",
+   "hs6": "170114",
+   "hs6_description": "Sugars; cane sugar, raw, in solid form, other than as specified in Subheading Note 2 to this chapter, not containing added flavouring or colouring matter",
    "level": 6,
    "chapter": "17",
    "description": "Raw sugar not containing added flavouring or colouring matter : -- Other cane sugar",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "17011410",
+   "hs6": "170114",
+   "hs6_description": "Sugars; cane sugar, raw, in solid form, other than as specified in Subheading Note 2 to this chapter, not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Cane jaggery",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "17011420",
+   "hs6": "170114",
+   "hs6_description": "Sugars; cane sugar, raw, in solid form, other than as specified in Subheading Note 2 to this chapter, not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Khandsari sugar",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "17011490",
+   "hs6": "170114",
+   "hs6_description": "Sugars; cane sugar, raw, in solid form, other than as specified in Subheading Note 2 to this chapter, not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "17019100",
+   "hs6": "170191",
+   "hs6_description": "Sugars; sucrose, chemically pure, in solid form, containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Other:--Refined sugar containing added flavoring",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "170199",
+   "hs6": "170199",
+   "hs6_description": "Sugars; sucrose, chemically pure, in solid form, not containing added flavouring or colouring matter",
    "level": 6,
    "chapter": "17",
    "description": "Other : -- Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "17019910",
+   "hs6": "170199",
+   "hs6_description": "Sugars; sucrose, chemically pure, in solid form, not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Sugar cubes",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "17019990",
+   "hs6": "170199",
+   "hs6_description": "Sugars; sucrose, chemically pure, in solid form, not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "1702",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "17",
    "description": "Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel.",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "170211",
+   "hs6": "170211",
+   "hs6_description": "Sugars; lactose and lactose syrup, containing by weight 99% or more lactose, expressed as anhydrous lactose, calculated on the dry matter",
    "level": 6,
    "chapter": "17",
    "description": "Lactose and lactose syrup : -- Containing by weight 99 percent or more lactose, expressed as anhydrous lactose, calculated on the dry matter",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "17021110",
+   "hs6": "170211",
+   "hs6_description": "Sugars; lactose and lactose syrup, containing by weight 99% or more lactose, expressed as anhydrous lactose, calculated on the dry matter",
    "level": 8,
    "chapter": "17",
    "description": "In solid form",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "17021190",
+   "hs6": "170211",
+   "hs6_description": "Sugars; lactose and lactose syrup, containing by weight 99% or more lactose, expressed as anhydrous lactose, calculated on the dry matter",
    "level": 8,
    "chapter": "17",
    "description": "Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "170219",
+   "hs6": "170219",
+   "hs6_description": "Sugars; lactose and lactose syrup, containing by weight less than 99% lactose, expressed as anhydrous lactose, calculated on the dry matter",
    "level": 6,
    "chapter": "17",
    "description": "Lactose and lactose syrup : -- Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "17021910",
+   "hs6": "170219",
+   "hs6_description": "Sugars; lactose and lactose syrup, containing by weight less than 99% lactose, expressed as anhydrous lactose, calculated on the dry matter",
    "level": 8,
    "chapter": "17",
    "description": "In solid form",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "17021990",
+   "hs6": "170219",
+   "hs6_description": "Sugars; lactose and lactose syrup, containing by weight less than 99% lactose, expressed as anhydrous lactose, calculated on the dry matter",
    "level": 8,
    "chapter": "17",
    "description": "Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "170220",
+   "hs6": "170220",
+   "hs6_description": "Sugars; maple sugar, chemically pure, in solid form; maple syrup, not containing added flavouring or colouring matter",
    "level": 6,
    "chapter": "17",
    "description": "Maple sugar and maple syrup",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "17022010",
+   "hs6": "170220",
+   "hs6_description": "Sugars; maple sugar, chemically pure, in solid form; maple syrup, not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "In solid form",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "17022090",
+   "hs6": "170220",
+   "hs6_description": "Sugars; maple sugar, chemically pure, in solid form; maple syrup, not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Other",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "170230",
+   "hs6": "170230",
+   "hs6_description": "Sugars; glucose and glucose syrup, not containing fructose or containing in the dry state less than 20% by weight of fructose, the syrup not containing added flavouring or colouring matter",
    "level": 6,
    "chapter": "17",
    "description": "Glucose and glucose syrup, not containing fructose or containing in the dry state less than 20 percent by weight of fructose",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "17023010",
+   "hs6": "170230",
+   "hs6_description": "Sugars; glucose and glucose syrup, not containing fructose or containing in the dry state less than 20% by weight of fructose, the syrup not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Glucose, liquid",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "17023020",
+   "hs6": "170230",
+   "hs6_description": "Sugars; glucose and glucose syrup, not containing fructose or containing in the dry state less than 20% by weight of fructose, the syrup not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Glucose, solid",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "17023031",
+   "hs6": "170230",
+   "hs6_description": "Sugars; glucose and glucose syrup, not containing fructose or containing in the dry state less than 20% by weight of fructose, the syrup not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Dextrose: ---- In solid form",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "17023039",
+   "hs6": "170230",
+   "hs6_description": "Sugars; glucose and glucose syrup, not containing fructose or containing in the dry state less than 20% by weight of fructose, the syrup not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Dextrose: ---- Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "170240",
+   "hs6": "170240",
+   "hs6_description": "Sugars; glucose and glucose syrup, containing in the dry state at least 20% but less than 50% by weight of fructose, excluding invert sugar, the syrup not containing added flavouring or colouring matter",
    "level": 6,
    "chapter": "17",
    "description": "Glucose and glucose syrup, containing in the dry state at least 20 percent but less than 50 percent by weight of fructose, excluding invert sugar",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "17024010",
+   "hs6": "170240",
+   "hs6_description": "Sugars; glucose and glucose syrup, containing in the dry state at least 20% but less than 50% by weight of fructose, excluding invert sugar, the syrup not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Glucose, liquid",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "17024020",
+   "hs6": "170240",
+   "hs6_description": "Sugars; glucose and glucose syrup, containing in the dry state at least 20% but less than 50% by weight of fructose, excluding invert sugar, the syrup not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Glucose, solid",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "17024031",
+   "hs6": "170240",
+   "hs6_description": "Sugars; glucose and glucose syrup, containing in the dry state at least 20% but less than 50% by weight of fructose, excluding invert sugar, the syrup not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Dextrose: ---- In solid form",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "17024039",
+   "hs6": "170240",
+   "hs6_description": "Sugars; glucose and glucose syrup, containing in the dry state at least 20% but less than 50% by weight of fructose, excluding invert sugar, the syrup not containing added flavouring or colouring matter",
    "level": 8,
    "chapter": "17",
    "description": "Dextrose: ---- Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "17025000",
+   "hs6": "170250",
+   "hs6_description": "Sugars; fructose, chemically pure, in solid form",
    "level": 8,
    "chapter": "17",
    "description": "Chemically pure fructose",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "170260",
+   "hs6": "170260",
+   "hs6_description": "Sugars; fructose, other than chemically pure fructose, and fructose syrup (containing in the dry state more than 50% by weight of fructose), excluding invert sugar",
    "level": 6,
    "chapter": "17",
    "description": "Other fructose and fructose syrup, containing in the dry state more than 50 percent by weight of fructose, excluding invert sugar",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "17026010",
+   "hs6": "170260",
+   "hs6_description": "Sugars; fructose, other than chemically pure fructose, and fructose syrup (containing in the dry state more than 50% by weight of fructose), excluding invert sugar",
    "level": 8,
    "chapter": "17",
    "description": "In solid form",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "17026090",
+   "hs6": "170260",
+   "hs6_description": "Sugars; fructose, other than chemically pure fructose, and fructose syrup (containing in the dry state more than 50% by weight of fructose), excluding invert sugar",
    "level": 8,
    "chapter": "17",
    "description": "Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "170290",
+   "hs6": "170290",
+   "hs6_description": "Sugars; n.e.c. in heading no. 1702, including invert sugar and other sugar and sugar syrup blends containing, in the dry state, 50% by weight of fructose",
    "level": 6,
    "chapter": "17",
    "description": "Other, including invert sugar and other sugar and sugar syrup blends containing in the dry state 50 percent by weight of fructose",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "17029010",
+   "hs6": "170290",
+   "hs6_description": "Sugars; n.e.c. in heading no. 1702, including invert sugar and other sugar and sugar syrup blends containing, in the dry state, 50% by weight of fructose",
    "level": 8,
    "chapter": "17",
    "description": "Palmyra sugar",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "17029020",
+   "hs6": "170290",
+   "hs6_description": "Sugars; n.e.c. in heading no. 1702, including invert sugar and other sugar and sugar syrup blends containing, in the dry state, 50% by weight of fructose",
    "level": 8,
    "chapter": "17",
    "description": "Chemically pure maltose",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "17029030",
+   "hs6": "170290",
+   "hs6_description": "Sugars; n.e.c. in heading no. 1702, including invert sugar and other sugar and sugar syrup blends containing, in the dry state, 50% by weight of fructose",
    "level": 8,
    "chapter": "17",
    "description": "Artificial honey, whether or not mixed with natural honey",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "17029040",
+   "hs6": "170290",
+   "hs6_description": "Sugars; n.e.c. in heading no. 1702, including invert sugar and other sugar and sugar syrup blends containing, in the dry state, 50% by weight of fructose",
    "level": 8,
    "chapter": "17",
    "description": "Caramel",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "17029050",
+   "hs6": "170290",
+   "hs6_description": "Sugars; n.e.c. in heading no. 1702, including invert sugar and other sugar and sugar syrup blends containing, in the dry state, 50% by weight of fructose",
    "level": 8,
    "chapter": "17",
    "description": "Insulin syrup",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "17029090",
+   "hs6": "170290",
+   "hs6_description": "Sugars; n.e.c. in heading no. 1702, including invert sugar and other sugar and sugar syrup blends containing, in the dry state, 50% by weight of fructose",
    "level": 8,
    "chapter": "17",
    "description": "Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "1703",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "17",
    "description": "Molasses resulting from the extraction or refining of sugar.",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "17031000",
+   "hs6": "170310",
+   "hs6_description": "Sugars; molasses, from sugar cane, resulting from the extraction or refining of sugar",
    "level": 8,
    "chapter": "17",
    "description": "Cane molasses",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "170390",
+   "hs6": "170390",
+   "hs6_description": "Sugars; molasses, from sugar beet, resulting from the extraction or refining of sugar",
    "level": 6,
    "chapter": "17",
    "description": "Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "17039010",
+   "hs6": "170390",
+   "hs6_description": "Sugars; molasses, from sugar beet, resulting from the extraction or refining of sugar",
    "level": 8,
    "chapter": "17",
    "description": "Molasses, edible",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "17039090",
+   "hs6": "170390",
+   "hs6_description": "Sugars; molasses, from sugar beet, resulting from the extraction or refining of sugar",
    "level": 8,
    "chapter": "17",
    "description": "Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "1704",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "17",
    "description": "Sugar confectionery (including white chocolate), not containing cocoa.",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "17041000",
+   "hs6": "170410",
+   "hs6_description": "Sugar confectionery; chewing gum, whether or not sugar-coated, not containing cocoa",
    "level": 8,
    "chapter": "17",
    "description": "Chewing gum, whether or not sugar coated",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "170490",
+   "hs6": "170490",
+   "hs6_description": "Sugar confectionery; (excluding chewing gum, including white chocolate), not containing cocoa",
    "level": 6,
    "chapter": "17",
    "description": "Other",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "17049010",
+   "hs6": "170490",
+   "hs6_description": "Sugar confectionery; (excluding chewing gum, including white chocolate), not containing cocoa",
    "level": 8,
    "chapter": "17",
    "description": "Jelly confectionary",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "17049020",
+   "hs6": "170490",
+   "hs6_description": "Sugar confectionery; (excluding chewing gum, including white chocolate), not containing cocoa",
    "level": 8,
    "chapter": "17",
    "description": "Boiled sweets, whether or not filled",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "17049030",
+   "hs6": "170490",
+   "hs6_description": "Sugar confectionery; (excluding chewing gum, including white chocolate), not containing cocoa",
    "level": 8,
    "chapter": "17",
    "description": "Toffees, caramels and similar sweets",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "17049090",
+   "hs6": "170490",
+   "hs6_description": "Sugar confectionery; (excluding chewing gum, including white chocolate), not containing cocoa",
    "level": 8,
    "chapter": "17",
    "description": "Other",

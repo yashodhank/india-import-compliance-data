@@ -1,459 +1,459 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-2801,4,28,"Fluorine, chlorine, bromine and iodine.",,,,,,2026-10-22
-28011000,8,28,Chlorine,Free,,,,,2026-10-22
-28012000,8,28,Iodine,Free,,,,,2026-10-22
-280130,6,28,Fluorine; bromine,,,,,,2026-10-22
-28013010,8,28,Fluorine,Free,,,,,2026-10-22
-28013020,8,28,Bromine,Free,,,,,2026-10-22
-2802,4,28,"Sulphur, sublimed or precipitated; colloidal sulphur.",,,,,,2026-10-22
-280200,6,28,"Sulphur, sublimed or precipitated; colloidal sulphur :",,,,,,2026-10-22
-28020010,8,28,Sublimed sulphur,Free,,,,,2026-10-22
-28020020,8,28,Precipitated sulphur,Free,,,,,2026-10-22
-28020030,8,28,Colloidal sulphur,Free,,,,,2026-10-22
-2803,4,28,Carbon (carbon blacks and other forms of carbon not elsewhere specified or included).,,,,,,2026-10-22
-280300,6,28,Carbon (carbon blacks and other forms of carbon not elsewhere specified or included) :,,,,,,2026-10-22
-28030010,8,28,Carbon blacks,Free,,,,,2026-10-22
-28030020,8,28,Acetylene black,Free,,,,,2026-10-22
-28030090,8,28,Other,Free,,,,,2026-10-22
-2804,4,28,"Hydrogen, rare gases and other non-metals.",,,,,,2026-10-22
-28041000,8,28,Hydrogen,Free,,,,,2026-10-22
-28042100,8,28,Rare gases : -- Argon,Free,,,,,2026-10-22
-280429,6,28,Rare gases : -- Other,,,,,,2026-10-22
-28042910,8,28,Helium,Free,,,,,2026-10-22
-28042990,8,28,Other,Free,,,,,2026-10-22
-28043000,8,28,Nitrogen,Free,,,,,2026-10-22
-280440,6,28,Oxygen,,,,,,2026-10-22
-28044010,8,28,Medicinal grade,Free,,,,,2026-10-22
-28044090,8,28,Other,Free,,,,,2026-10-22
-280450,6,28,Boron; tellurium,,,,,,2026-10-22
-28045010,8,28,Boron,Free,,,,,2026-10-22
-28045020,8,28,Tellurium,Free,,,,,2026-10-22
-28046100,8,28,Silicon : -- Containing by weight not less than 99.99 percent of silicon,Free,,,,,2026-10-22
-28046900,8,28,Silicon : -- Other,Free,,,,,2026-10-22
-280470,6,28,Phosphorus,,,,,,2026-10-22
-28047010,8,28,"Phosphorus, black",Free,,,,,2026-10-22
-28047020,8,28,"Phosphorus, red",Free,,,,,2026-10-22
-28047030,8,28,"Phosphorus, white or yellow",Free,,,,,2026-10-22
-28048000,8,28,Arsenic,Free,,,,,2026-10-22
-28049000,8,28,Selenium,Free,,,,,2026-10-22
-2805,4,28,"ALKALI OR ALKALINE-EARTH METALS; RARE-EARTH METALS,SCANDIUM AND YTTRIUM, WHETHER OR NOT INTERMIXED OR INTERALLOYED; MERCURY",,,,,,2026-10-22
-28051100,8,28,Alkali or alkaline-earth metals : -- Sodium,Free,,,,,2026-10-22
-28051200,8,28,Alkali or alkaline-earth metals : -- Calcium,Free,,,,,2026-10-22
-28051900,8,28,Alkali or alkaline-earth metals : -- Other,Free,,,,,2026-10-22
-28053000,8,28,"Rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed",Free,,,,,2026-10-22
-28054000,8,28,Mercury,Restricted,Subject to Policy Condition No. 3,3,24/2015-2020,2021-09-09,2026-10-22
-2806,4,28,Hydrogen chloride (hydrochloric acid); chlorosulphuric acid.,,,,,,2026-10-22
-28061000,8,28,Hydrogen chloride (hydrochloric acid),Free,,,,,2026-10-22
-28062000,8,28,Chlorosulphuric acid,Free,,,,,2026-10-22
-2807,4,28,Sulphuric acid; oleum.,,,,,,2026-10-22
-280700,6,28,Sulphuric acid; oleum :,,,,,,2026-10-22
-28070010,8,28,Sulphurc acid,Free,,,,,2026-10-22
-28070020,8,28,Oleum,Free,,,,,2026-10-22
-2808,4,28,Nitric acid; sulphonitric acids.,,,,,,2026-10-22
-280800,6,28,Nitric acid; sulphonitric acids :,,,,,,2026-10-22
-28080010,8,28,Nitric acid,Free,,,,,2026-10-22
-28080020,8,28,Sulphonitric acids,Free,,,,,2026-10-22
-2809,4,28,"Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically defined.",,,,,,2026-10-22
-28091000,8,28,Diphosphorus pentaoxide,Free,,,,,2026-10-22
-280920,6,28,Phosphoric acid and polyphosphoric acids,,,,,,2026-10-22
-28092010,8,28,Phosporic acid,Free,,,,,2026-10-22
-28092020,8,28,Polyphosphoric acids,Free,,,,,2026-10-22
-2810,4,28,Oxides of boron; boric acids.,,,,,,2026-10-22
-28100010,8,28,Oxides of boron; boric acids: --- Oxides of boron,Free,,,,,2026-10-22
-28100020,8,28,Oxides of boron; boric acids: --- Boric acids,Free,Import of Boric Acid for non-insecticidal purposes will be subject to an import permit issued by the Central Insecticide Board and Registration Committee under the Ministry of Agriculture.,,,,2026-10-22
-2811,4,28,Other inorganic acids and other inorganic oxygen compounds of non-metals.,,,,,,2026-10-22
-28111100,8,28,Other inorganic acids : -- Hydrogen fluoride (hydrofluoric acid),Free,,,,,2026-10-22
-28111200,8,28,Other inorganic acids : -- Hydrogen cyanide (hydrocyanic acid),Free,,,,,2026-10-22
-281119,6,28,Other inorganic acids : -- Other,,,,,,2026-10-22
-28111920,8,28,Hypophosphorus acid (phosphinic acid),Free,,,,,2026-10-22
-28111930,8,28,Acids of arsenic,Free,,,,,2026-10-22
-28111940,8,28,Sulphonic acid,Free,,,,,2026-10-22
-28111990,8,28,Other,Free,,,,,2026-10-22
-281121,6,28,Other inorganic oxygen compounds of non-metals : -- Carbon dioxide,,,,,,2026-10-22
-28112110,8,28,Dry ice,Free,,,,,2026-10-22
-28112190,8,28,Other,Free,,,,,2026-10-22
-28112200,8,28,Other inorganic oxygen compounds of non-metals : -- Silicon dioxide,Free,,,,,2026-10-22
-281129,6,28,Other inorganic oxygen compounds of non-metals : -- Other,,,,,,2026-10-22
-28112910,8,28,Arsenic pentoxide,Free,,,,,2026-10-22
-28112920,8,28,Arsenic trioxide,Free,,,,,2026-10-22
-28112930,8,28,Nitrous oxide,Free,,,,,2026-10-22
-28112940,8,28,Carbon monoxide,Free,,,,,2026-10-22
-28112950,8,28,Sulphur trioxide (sulphuric anhydride),Free,,,,,2026-10-22
-28112990,8,28,Other,Free,,,,,2026-10-22
-2812,4,28,Halides and halide oxides of non-metals.,,,,,,2026-10-22
-28121100,8,28,Chlorides and chloride oxides : -- Carbonyl dichloride (phosgene),Free,,,,,2026-10-22
-28121200,8,28,Chlorides and chloride oxides : -- Phosphorus oxychloride,Free,,,,,2026-10-22
-28121300,8,28,Chlorides and chloride oxides : -- Phosphorus trichloride,Free,,,,,2026-10-22
-28121400,8,28,Chlorides and chloride oxides : -- Phosphorus pentachloride,Free,,,,,2026-10-22
-28121500,8,28,Chlorides and chloride oxides : -- Sulphur monochloride,Free,,,,,2026-10-22
-28121600,8,28,Chlorides and chloride oxides : -- Sulphur dichloride,Free,,,,,2026-10-22
-28121700,8,28,Chlorides and chloride oxides : -- Thionyl chloride,Free,,,,,2026-10-22
-281219,6,28,Chlorides and chloride oxides : --Other,,,,,,2026-10-22
-28121910,8,28,Sulphur oxychloride,Free,,,,,2026-10-22
-28121920,8,28,Silicon tetrachloride,Free,,,,,2026-10-22
-28121930,8,28,Arsenic trichloride,Free,,,,,2026-10-22
-28121990,8,28,other,Free,,,,,2026-10-22
-28129000,8,28,Other,Free,,,,,2026-10-22
-2813,4,28,Sulphides of non-metals; commercial phosphorus trisulphide.,,,,,,2026-10-22
-28131000,8,28,Carbon disulphide,Free,,,,,2026-10-22
-281390,6,28,other,,,,,,2026-10-22
-28139010,8,28,Arsenic disulphide (artificial),Free,,,,,2026-10-22
-28139020,8,28,Commercial phosphorus trisulphide,Free,,,,,2026-10-22
-28139030,8,28,Lime Sulphur,Free,"The import of the pesticides will be subject to a Certificate of Registration issued by Central Insecticides Board Registration Committee (CIB&RC) under Ministry of Agriculture & Farmers Welfare and also non-prohibition for import under Insecticides Act, 1968.",,44/2025-26,2025-10-15,2026-10-22
-28139090,8,28,Other,Free,,,,,2026-10-22
-2814,4,28,"Ammonia, anhydrous or in aqueous solution.",,,,,,2026-10-22
-28141000,8,28,Anhydrous ammonia,Free,,,,,2026-10-22
-28142000,8,28,Ammonia in aqueous solution,Free,,,,,2026-10-22
-2815,4,28,Sodium hydroxide (caustic soda); potassium hydroxide (caustic potash); peroxides of sodium or potassium.,,,,,,2026-10-22
-281511,6,28,Sodium hydroxide (caustic soda) : -- Solid,,,,,,2026-10-22
-28151110,8,28,Flakes,Free,,,,,2026-10-22
-28151190,8,28,Other,Free,,,,,2026-10-22
-28151200,8,28,Sodium hydroxide (caustic soda) : -- In aqueous solution (soda lye or liquid soda),Free,,,,,2026-10-22
-28152000,8,28,Potassium hydroxide (caustic potash),Free,,,,,2026-10-22
-28153000,8,28,Peroxides of sodium or potassium,Free,,,,,2026-10-22
-2816,4,28,"Hydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or barium.",,,,,,2026-10-22
-281610,6,28,Hydroxide and peroxide of magnesium,,,,,,2026-10-22
-28161010,8,28,Hydroxide of magnesium,Free,,,,,2026-10-22
-28161020,8,28,Peroxide of magnesium,Free,,,,,2026-10-22
-28164000,8,28,"Oxides, hydroxides and peroxides, of strontium or barium",Free,,,,,2026-10-22
-2817,4,28,Zinc oxide; zinc peroxide.,,,,,,2026-10-22
-281700,6,28,Zinc oxide; zinc peroxide :,,,,,,2026-10-22
-28170010,8,28,Zinc oxide,Free,,,,,2026-10-22
-28170020,8,28,Zinc peroxide,Free,,,,,2026-10-22
-2818,4,28,"Artificial corundum, whether or not chemically defined; aluminium oxide; aluminium hydroxide.",,,,,,2026-10-22
-28181000,8,28,"Artificial corundum, whether or not chemically defined",Free,,,,,2026-10-22
-281820,6,28,"Aluminium oxide, other than artificial corundum",,,,,,2026-10-22
-28182011,8,28,"Alumina, calcined: Metallurgical grade, conforming to IS 17441",Free,-,,20/2015-2020,2022-07-07,2026-10-22
-28182019,8,28,"Alumina, calcined: ---- Non- metallurgical grade, conforming to IS 17441",Free,-,,20/2015-20,2022-07-07,2026-10-22
-28182090,8,28,Other,Free,,,,,2026-10-22
-28183000,8,28,Aluminium hydroxide,Free,,,,,2026-10-22
-2819,4,28,Chromium oxides and hydroxides.,,,,,,2026-10-22
-28191000,8,28,Chromium trioxide,Free,,,,,2026-10-22
-28199000,8,28,Other,Free,,,,,2026-10-22
-2820,4,28,Manganese oxides.,,,,,,2026-10-22
-28201000,8,28,Manganese dioxide,Free,,,,,2026-10-22
-28209000,8,28,Other,Free,,,,,2026-10-22
-2821,4,28,Iron oxides and hydroxides; earth colours containing 70 percent or more by weight of combined iron evaluated as Fe2O3.,,,,,,2026-10-22
-282110,6,28,Iron oxides and hydroxides,,,,,,2026-10-22
-28211010,8,28,Iron oxides,Free,,,,,2026-10-22
-28211020,8,28,Iron hydroxides,Free,,,,,2026-10-22
-28212000,8,28,Earth colours,Free,,,,,2026-10-22
-2822,4,28,Cobalt oxides and hydroxides; commercial cobalt oxides.,,,,,,2026-10-22
-282200,6,28,Cobalt oxides and hydroxides; commercial cobalt oxides :,,,,,,2026-10-22
-28220010,8,28,Cobalt oxides,Free,,,,,2026-10-22
-28220020,8,28,Cobalt hydroxides,Free,,,,,2026-10-22
-28220030,8,28,Commercial cobalt oxides,Free,,,,,2026-10-22
-2823,4,28,Titanium oxides.,,,,,,2026-10-22
-282300,6,28,Titanium oxides :,,,,,,2026-10-22
-28230010,8,28,Titanium dioxide,Free,,,,,2026-10-22
-28230090,8,28,Other,Free,,,,,2026-10-22
-2824,4,28,Lead oxides; red lead and orange lead.,,,,,,2026-10-22
-282410,6,28,"Lead monoxide (litharge, massicot)",,,,,,2026-10-22
-28241010,8,28,Litharge,Free,,,,,2026-10-22
-28241020,8,28,Massicot,Free,,,,,2026-10-22
-28249000,8,28,Other,Free,,,,,2026-10-22
-2825,4,28,"Hydrazine and hydroxylamine and their inorganic salts; other inorganic bases; other metal oxides, hydroxides and peroxides.",,,,,,2026-10-22
-282510,6,28,Hydrazine and hydroxylamine and their inorganic salts,,,,,,2026-10-22
-28251010,8,28,Hydrazine anhydrous,Free,,,,,2026-10-22
-28251020,8,28,Hydrazine hydrate,Free,,,,,2026-10-22
-28251030,8,28,Hydrazine sulphate,Free,,,,,2026-10-22
-28251040,8,28,Hydroxylamine sulphate,Free,,,,,2026-10-22
-28251090,8,28,Other,Free,,,,,2026-10-22
-28252000,8,28,Lithium oxide and hydroxide,Free,,,,,2026-10-22
-282530,6,28,Vanadium oxides and hydroxides,,,,,,2026-10-22
-28253010,8,28,Vanadium pentoxide flakes,Free,,,,,2026-10-22
-28253090,8,28,Other,Free,,,,,2026-10-22
-28254000,8,28,Nickel oxides and hydroxides,Free,,,,,2026-10-22
-28255000,8,28,Copper oxides and hydroxides,Free,,,,,2026-10-22
-282560,6,28,Germanium oxides and zirconium dioxide,,,,,,2026-10-22
-28256010,8,28,Germanium oxides,Free,,,,,2026-10-22
-28256020,8,28,Zirconium dioxide,Free,,,,,2026-10-22
-282570,6,28,Molybdenum oxides and hydroxides,,,,,,2026-10-22
-28257010,8,28,Molybdenum trioxide,Free,,,,,2026-10-22
-28257020,8,28,Molybdic acid,Free,,,,,2026-10-22
-28257090,8,28,Other,Free,,,,,2026-10-22
-28258000,8,28,Antimony oxides,Free,,,,,2026-10-22
-282590,6,28,Other,,,,,,2026-10-22
-28259010,8,28,Tin oxide,Free,,,,,2026-10-22
-28259020,8,28,Cadmium oxide,Free,,,,,2026-10-22
-28259040,8,28,Calcium hydroxide,Free,,,,,2026-10-22
-28259050,8,28,Ammonium hydroxide,Free,,,,,2026-10-22
-28259090,8,28,Other,Free,,,,,2026-10-22
-2826,4,28,"Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts.",,,,,,2026-10-22
-28261200,8,28,Fluorides : -- Of aluminium,Free,,,,,2026-10-22
-282619,6,28,Fluorides : -- Other,,,,,,2026-10-22
-28261910,8,28,Magnesium fluoride,Free,,,,,2026-10-22
-28261990,8,28,Other,Free,,,,,2026-10-22
-28263000,8,28,Sodium hexafluoroaluminate (synthetic cryolite),Free,,,,,2026-10-22
-28269000,8,28,Other,Free,,,,,2026-10-22
-2827,4,28,"Chlorides, chloride oxides and chloride hydroxides; bromides and bromide oxides; iodides and iodide oxides.",,,,,,2026-10-22
-28271000,8,28,Ammonium chloride,Free,,,,,2026-10-22
-28272000,8,28,Calcium chloride,Free,,,,,2026-10-22
-28273100,8,28,Other chlorides : -- Of magnesium,Free,,,,,2026-10-22
-28273200,8,28,Other chlorides : -- Of aluminium,Free,,,,,2026-10-22
-28273500,8,28,Other chlorides : -- Of nickel,Free,,,,,2026-10-22
-282739,6,28,Other chlorides : -- Other,,,,,,2026-10-22
-28273920,8,28,Mercurous chloride,Free,,,,,2026-10-22
-28273930,8,28,Strontium chloride,Free,,,,,2026-10-22
-28273940,8,28,Cuprous chloride,Free,,,,,2026-10-22
-28273990,8,28,Other,Free,,,,,2026-10-22
-282741,6,28,Chloride oxides and chloride hydroxides : -- Of copper,,,,,,2026-10-22
-28274110,8,28,Copper oxychloride,Free,,,,,2026-10-22
-28274190,8,28,Other,Free,,,,,2026-10-22
-28274900,8,28,Chloride oxides and chloride hydroxides : -- Other,Free,,,,,2026-10-22
-282751,6,28,Bromides and bromide oxides : -- Bromides of sodium or of potassium,,,,,,2026-10-22
-28275110,8,28,Bromides of sodium,Free,,,,,2026-10-22
-28275120,8,28,Bromides of potassium,Free,,,,,2026-10-22
-282759,6,28,Bromides and bromide oxides : -- Other,,,,,,2026-10-22
-28275910,8,28,Magnesium bromide,Free,,,,,2026-10-22
-28275990,8,28,Other,Free,,,,,2026-10-22
-282760,6,28,Iodides and iodide oxides,,,,,,2026-10-22
-28276010,8,28,Potassium iodide,Free,,,,,2026-10-22
-28276020,8,28,Sodium iodide,Free,,,,,2026-10-22
-28276090,8,28,Other,Free,,,,,2026-10-22
-2828,4,28,Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites.,,,,,,2026-10-22
-282810,6,28,Commercial calcium hypochlorite and other calcium hypochlorites,,,,,,2026-10-22
-28281010,8,28,Commercial calcium hypochlorite (bleaching paste or powder),Free,,,,,2026-10-22
-28281090,8,28,Other,Free,,,,,2026-10-22
-282890,6,28,Other,,,,,,2026-10-22
-28289011,8,28,Sodium hypochlorites: ---- Bleaching paste or powder,Free,,,,,2026-10-22
-28289019,8,28,Sodium hypochlorites: ---- Other,Free,,,,,2026-10-22
-28289020,8,28,Potassium hypochlorites,Free,,,,,2026-10-22
-28289030,8,28,Sodium chlorite,Free,,,,,2026-10-22
-28289040,8,28,Aluminium chlorite,Free,,,,,2026-10-22
-28289050,8,28,Hypobromites,Free,,,,,2026-10-22
-28289060,8,28,Bleaching paste or powder of other hypochlorites,Free,,,,,2026-10-22
-28289090,8,28,Other,Free,,,,,2026-10-22
-2829,4,28,Chlorates and perchlorates; bromates and perbromates; iodates and periodates.,,,,,,2026-10-22
-28291100,8,28,Chlorates : -- Of sodium,Free,,,,,2026-10-22
-282919,6,28,Chlorates : -- Other,,,,,,2026-10-22
-28291910,8,28,Barium chlorate,Free,,,,,2026-10-22
-28291920,8,28,Potassium chlorate,Free,,,,,2026-10-22
-28291930,8,28,Magnesium chlorate,Free,,,,,2026-10-22
-28291990,8,28,Other,Free,,,,,2026-10-22
-282990,6,28,Other,,,,,,2026-10-22
-28299010,8,28,Perchlorates,Free,,,,,2026-10-22
-28299020,8,28,Bromates and perbromates,Free,,,,,2026-10-22
-28299030,8,28,Iodates and periodates,Free,,,,,2026-10-22
-2830,4,28,"Sulphides; polysulphides, whether or not chemically defined.",,,,,,2026-10-22
-28301000,8,28,Sodium sulphides,Free,,,,,2026-10-22
-283090,6,28,Other,,,,,,2026-10-22
-28309010,8,28,Sulphides,Free,,,,,2026-10-22
-28309020,8,28,Polysulphides,Free,,,,,2026-10-22
-2831,4,28,Dithionites and sulphoxylates.,,,,,,2026-10-22
-283110,6,28,Of sodium,,,,,,2026-10-22
-28311010,8,28,Sodium dithionites (sodium hydrosulfite),Free,,,,,2026-10-22
-28311020,8,28,Sodium sulphoxylates (including sodium formaldehyde sulphoxylate),Free,,,,,2026-10-22
-283190,6,28,Other,,,,,,2026-10-22
-28319010,8,28,Dithionites,Free,,,,,2026-10-22
-28319020,8,28,Sulphoxylates,Free,,,,,2026-10-22
-2832,4,28,Sulphites; thiosulphates.,,,,,,2026-10-22
-283210,6,28,Sodium sulphites,,,,,,2026-10-22
-28321010,8,28,Sodium bisulphite,Free,,,,,2026-10-22
-28321020,8,28,Sodium hydrosulphites,Free,,,,,2026-10-22
-28321090,8,28,Other,Free,,,,,2026-10-22
-283220,6,28,Other sulphites,,,,,,2026-10-22
-28322010,8,28,Potassium metabisulphite,Free,,,,,2026-10-22
-28322020,8,28,Magnesium sulphite,Free,,,,,2026-10-22
-28322090,8,28,Other,Free,,,,,2026-10-22
-283230,6,28,Thiosulphates,,,,,,2026-10-22
-28323010,8,28,Sodium thiosulphate (hypo),Free,,,,,2026-10-22
-28323020,8,28,Magnesium thiosulphate,Free,,,,,2026-10-22
-28323090,8,28,Other,Free,,,,,2026-10-22
-2833,4,28,Sulphates; alums; peroxosulphates (persulphates).,,,,,,2026-10-22
-28331100,8,28,Sodium sulphates : -- Disodium sulphate,Free,,,,,2026-10-22
-283319,6,28,Sodium sulphates : -- Other,,,,,,2026-10-22
-28331910,8,28,Sodium hydrogen sulphate (acid sulphate),Free,,,,,2026-10-22
-28331920,8,28,Sodium pyrosulphate,Free,,,,,2026-10-22
-28331990,8,28,Other,Free,,,,,2026-10-22
-28332100,8,28,Other sulphates : -- Of magnesium,Free,,,,,2026-10-22
-283322,6,28,Other sulphates : -- Of aluminium,,,,,,2026-10-22
-28332210,8,28,Aluminium sulphate (iron free),Free,,,,,2026-10-22
-28332290,8,28,Other,Free,,,,,2026-10-22
-28332400,8,28,Other sulphates : -- Of nickel,Free,,,,,2026-10-22
-28332500,8,28,Other sulphates : -- Of copper,Free,,,,,2026-10-22
-28332700,8,28,Other sulphates : -- Of barium,Free,,,,,2026-10-22
-283329,6,28,Other sulphates : -- Other,,,,,,2026-10-22
-28332910,8,28,Ferrous sulphate,Free,,,,,2026-10-22
-28332930,8,28,Quinidine sulphate,Free,,,,,2026-10-22
-28332940,8,28,Manganese sulphate,Free,,,,,2026-10-22
-28332950,8,28,Strontium sulphate,Free,,,,,2026-10-22
-28332990,8,28,Other,Free,,,,,2026-10-22
-283330,6,28,Alums,,,,,,2026-10-22
-28333010,8,28,Ammonium alum,Free,,,,,2026-10-22
-28333020,8,28,Ferric ammonium alum,Free,,,,,2026-10-22
-28333030,8,28,Potash alum,Free,,,,,2026-10-22
-28333090,8,28,Other,Free,,,,,2026-10-22
-28334000,8,28,Peroxosulphates (persulphates),Free,,,,,2026-10-22
-2834,4,28,Nitrites; nitrates.,,,,,,2026-10-22
-283410,6,28,Nitrites,,,,,,2026-10-22
-28341010,8,28,Sodium nitrite,Free,,,,,2026-10-22
-28341090,8,28,Other,Free,,,,,2026-10-22
-28342100,8,28,Nitrates : -- Of potassium,Free,,,,,2026-10-22
-283429,6,28,Nitrates : -- Other,,,,,,2026-10-22
-28342910,8,28,Strontium nitrate,Free,,,,,2026-10-22
-28342920,8,28,Magnesium nitrate,Free,,,,,2026-10-22
-28342930,8,28,Barium nitrate,Free,,,,,2026-10-22
-28342990,8,28,Other,Free,,,,,2026-10-22
-2835,4,28,"Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates; polyphosphates, whether or not chemically defined.",,,,,,2026-10-22
-283510,6,28,Phosphinates (hypophosphites) and phosphonates (phosphites),,,,,,2026-10-22
-28351010,8,28,Calcium hypophosphite,Free,,,,,2026-10-22
-28351020,8,28,Magnesium hypophosphite,Free,,,,,2026-10-22
-28351090,8,28,Other,Free,,,,,2026-10-22
-28352200,8,28,Phosphates : -- Of mono- or disodium,Free,,,,,2026-10-22
-28352400,8,28,Phosphates : -- Of potassium,Free,,,,,2026-10-22
-28352500,8,28,Phosphates : -- Calcium hydrogenorthophosphate (ìdicalcium phosphateî),Free,,,,,2026-10-22
-283526,6,28,Phosphates : -- Other phosphates of calcium,,,,,,2026-10-22
-28352610,8,28,Calcium monobasic phosphate,Free,,,,,2026-10-22
-28352620,8,28,Calcium tribasic phosphate,Free,,,,,2026-10-22
-28352690,8,28,Other,Free,,,,,2026-10-22
-283529,6,28,Phosphates : -- Other,,,,,,2026-10-22
-28352910,8,28,"Magnesium phosphate, monobasic",Free,,,,,2026-10-22
-28352920,8,28,"Magnesium phosphate, dibasic",Free,,,,,2026-10-22
-28352930,8,28,"Magnesium phosphate, tribasic",Free,,,,,2026-10-22
-28352940,8,28,Sodium hexa meta phosphate,Free,,,,,2026-10-22
-28352990,8,28,Other,Free,,,,,2026-10-22
-28353100,8,28,Polyphosphates : -- Sodium triphosphate (sodium tripolyphosphate),Free,,,,,2026-10-22
-28353900,8,28,Polyphosphates : -- Other,Free,,,,,2026-10-22
-2836,4,28,Carbonates; peroxocarbonates (percarbonates); commercial ammonium carbonate containing ammonium carbamate.,,,,,,2026-10-22
-283620,6,28,Disodium carbonate,,,,,,2026-10-22
-28362010,8,28,"Disodium carbonate, dense",Free,-,,23/2025-26,2025-01-30,2026-10-22
-28362020,8,28,"Disodium carbonate, light",Free,-,,23/2025-26,2025-01-30,2026-10-22
-28362090,8,28,Other,Free,-,,23/2025-26,2025-01-30,2026-10-22
-28363000,8,28,Sodium hydrogencarbonate (sodium bicarbonate),Free,,,,,2026-10-22
-28364000,8,28,Potassium carbonates,Free,,,,,2026-10-22
-28365000,8,28,Calcium carbonate,Free,,,,,2026-10-22
-28366000,8,28,Barium carbonate,Free,,,,,2026-10-22
-28369100,8,28,Other : -- Lithium carbonates,Free,,,,,2026-10-22
-28369200,8,28,Other : -- Strontium carbonate,Free,,,,,2026-10-22
-283699,6,28,Other : -- Other,,,,,,2026-10-22
-28369910,8,28,Percarbonates,Free,,,,,2026-10-22
-28369920,8,28,Magnesium carbonate,Free,,,,,2026-10-22
-28369930,8,28,Aluminium bicarbonate,Free,,,,,2026-10-22
-28369990,8,28,Other,Free,,,,,2026-10-22
-2837,4,28,"Cyanides, cyanide oxides and complex cyanides.",,,,,,2026-10-22
-28371100,8,28,Cyanides and cyanide oxides : -- Of sodium,Free,,,,,2026-10-22
-283719,6,28,Cyanides and cyanide oxides : -- Other,,,,,,2026-10-22
-28371910,8,28,Potassium cyanide,Free,,,,,2026-10-22
-28371920,8,28,Double cyanide of potassium and sodium,Free,,,,,2026-10-22
-28371990,8,28,Other,Free,,,,,2026-10-22
-283720,6,28,Complex cyanides,,,,,,2026-10-22
-28372010,8,28,Ammonium sulphocyanide,Free,,,,,2026-10-22
-28372020,8,28,Potassium ferricyanide,Free,,,,,2026-10-22
-28372030,8,28,Potassium ferrocyanide,Free,,,,,2026-10-22
-28372040,8,28,Sodium ferrocyanide,Free,,,,,2026-10-22
-28372050,8,28,Sodium nitroprusside (sodium nitroferricyanide),Free,,,,,2026-10-22
-28372090,8,28,Other,Free,,,,,2026-10-22
-2839,4,28,Silicates; commercial alkali metal silicates.,,,,,,2026-10-22
-28391100,8,28,Of sodium : -- Sodium metasilicates,Free,,,,,2026-10-22
-28391900,8,28,Of sodium : -- Other,Free,,,,,2026-10-22
-283990,6,28,Other,,,,,,2026-10-22
-28399010,8,28,Magnesium trisilicate,Free,,,,,2026-10-22
-28399090,8,28,Other,Free,,,,,2026-10-22
-2840,4,28,Borates; peroxoborates (perborates).,,,,,,2026-10-22
-28401100,8,28,Disodium tetraborate (refined borax) : -- Anhydrous,Free,,,,,2026-10-22
-28401900,8,28,Disodium tetraborate (refined borax) : -- Other,Free,,,,,2026-10-22
-284020,6,28,Other borates,,,,,,2026-10-22
-28402010,8,28,Magnesium borates,Free,,,,,2026-10-22
-28402090,8,28,Other,Free,,,,,2026-10-22
-28403000,8,28,Peroxoborates (perborates),Free,,,,,2026-10-22
-2841,4,28,Salts of oxometallic or peroxometallic acids.,,,,,,2026-10-22
-28413000,8,28,Sodium dichromate,Free,,,,,2026-10-22
-284150,6,28,Other chromates and dichromates; peroxochromates,,,,,,2026-10-22
-28415010,8,28,Sodium chromate,Free,,,,,2026-10-22
-28415090,8,28,Other,Free,,,,,2026-10-22
-28416100,8,28,"Manganites, manganates and permanganates : -- Potassium permanganate",Free,"A NOC from Narcotics Commissioner of India, Gwalior.",,,,2026-10-22
-28416900,8,28,"Manganites, manganates and permanganates : -- Other",Free,,,,,2026-10-22
-284170,6,28,Molybdates,,,,,,2026-10-22
-28417010,8,28,Aluminium molybdate,Free,,,,,2026-10-22
-28417020,8,28,Sodium molybdate,Free,,,,,2026-10-22
-28417090,8,28,Other,Free,,,,,2026-10-22
-284180,6,28,Tungstates (wolframates),,,,,,2026-10-22
-28418010,8,28,Sodium tungstate,Free,,,,,2026-10-22
-28418020,8,28,Magnesium tungstate,Free,,,,,2026-10-22
-28418090,8,28,Other,Free,,,,,2026-10-22
-284190,6,28,Other,,,,,,2026-10-22
-28419010,8,28,--- Ammonium metavanadate,Free,,,24/2026-27,2026-07-22,2026-10-22
-28419090,8,28,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-2842,4,28,"Other salts of inorganic acids or peroxoacids (including aluminosilicates whether or not chemically defined), other than azides.",,,,,,2026-10-22
-28421000,8,28,"Double or complex silicates, including aluminosilicates whether or not chemically defined",Free,,,,,2026-10-22
-284290,6,28,Other,,,,,,2026-10-22
-28429010,8,28,Arsenites and arsenates,Free,,,,,2026-10-22
-28429020,8,28,Bichromates and dichromates,Free,,,,,2026-10-22
-28429090,8,28,Other,Free,,,,,2026-10-22
-2843,4,28,"Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not chemically defined; amalgams of precious metals.",,,,,,2026-10-22
-284310,6,28,Colloidal precious metals,,,,,,2026-10-22
-28431010,8,28,Of gold,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
-28431020,8,28,Of silver,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
-28431090,8,28,Other,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
-28432100,8,28,Silver compounds : -- Silver nitrate,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
-28432900,8,28,Silver compounds : -- Other,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
-28433000,8,28,Gold compounds,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
-284390,6,28,Other compounds; amalgams,,,,,,2026-10-22
-28439011,8,28,Other compounds: ---- Sodium aurous thiosulphate,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
-28439012,8,28,"Other compounds: ---- Noble metal solutions of platinum, kg. 10% - rhodium and palladium",Restricted,-,,19/2025-26,2025-06-17,2026-10-22
-28439019,8,28,Other compounds: ---- Other,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
-28439020,8,28,Amalgams,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
-2844,4,28,Radioactive chemical elements and radioactive isotopes (including the fissile or fertile chemical elements and isotopes) and their compounds; mixtures and residues containing these products.,,,,,,2026-10-22
-28441000,8,28,"Natural uranium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing natural uranium or natural uranium compounds",Restricted,"Import subject to Atomic Energy Act, 1962 and Rules thereunder. (as amended from time to time) (Policy Condition 1)",1,,,2026-10-22
-28442000,8,28,"Uranium enriched in U 235 and its compounds; plutonium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing uranium enriched in U 235, plutonium or compounds of these products",Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-284430,6,28,"Uranium depleted in U 235 and its compounds; thorium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U 235, thorium or compounds of these products",,,,,,2026-10-22
-28443010,8,28,"Uranium depleted in U235 and or thorium and their alloys, unwrought or wrought and compounds thereof Compounds of thorium or of uranium depleted in U235:",Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-28443021,8,28,Thorium oxide,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-28443022,8,28,Thorium hydroxide,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-28443023,8,28,Thorium nitrate,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-28443029,8,28,Other,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-28443030,8,28,Waste and scrap of uranium depleted in U235 or of thorium,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-28443090,8,28,Other,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-28444100,8,28,"Radioactive elements and isotopes and compounds other than those of sub-headings2844 10, 2844 20 or 2844 30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues: -- Tritium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing tritium or its compounds",Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder. However, import of Radioimmunoassay kits intended for the diagnosis of disease or disorders in human beings or animals is Free subject to prior permission of AERB.",,54/2015-2020,2022-02-09,2026-10-22
-28444200,8,28,"Actinium-225, actinium-227, californium-253, curium-240, curium-241, curium-242, curium-243, curium-244, einsteinium-253, einsteinium-254, gadolinium-148, polonium208, polonium-209, polonium-210, radium-223, uranium-230 or uranium-232, and their compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements or compounds",Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder. However, import of Radioimmunoassay kits intended for the diagnosis of disease or disorders in human beings or animals is Free subject to prior permission of AERB.",,54/2015-2020,2022-02-09,2026-10-22
-28444300,8,28,"Radioactive elements and isotopes and compounds other than those of sub-headings2844 10, 2844 20 or 2844 30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues: -- Other radioactive elements and isotopes and compounds; other alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes",Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder. However, import of Radioimmunoassay kits intended for the diagnosis of disease or disorders in human beings or animals is Free subject to prior permission of AERB.",,54/2015-2020,2022-02-09,2026-10-22
-28444400,8,28,"""Radioactive elements and isotopes and compounds other than those of sub-headings2844 10, 2844 20 or 2844 30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues: -- Radioactive residues",Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder. However, import of Radioimmunoassay kits intended for the diagnosis of disease or disorders in human beings or animals is Free subject to prior permission of AERB.",,54/2015-2020,2022-02-09,2026-10-22
-28445000,8,28,Spent (irradiated) fuel elements (cartridges) of nuclear reactors,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-2845,4,28,"Isotopes other than those of heading 28.44; compounds, inorganic or organic, of such isotopes, whether or not chemically defined.",,,,,,2026-10-22
-28451000,8,28,Heavy water (deuterium oxide),Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-28452000,8,28,Boron enriched in boron-10 and its compounds,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules there under.",,54/2015-2020,2022-02-09,2026-10-22
-28453000,8,28,Lithium enriched in lithium-6 and its compounds,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules there under.",,54/2015-2020,2022-02-09,2026-10-22
-28454000,8,28,Helium-3,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules there under.",,54/2015-2020,2022-02-09,2026-10-22
-284590,6,28,Other,,,,,,2026-10-22
-28459010,8,28,Nuclear fuels not elsewhere included or specified,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-28459090,8,28,Other,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
-2846,4,28,"Compounds, inorganic or organic, of rare-earth metals, of yttrium or of scandium or of mixtures of these metals.",,,,,,2026-10-22
-284610,6,28,Cerium compounds,,,,,,2026-10-22
-28461010,8,28,Cerium oxides,Free,,,,,2026-10-22
-28461090,8,28,Other,Free,,,,,2026-10-22
-284690,6,28,Other,,,,,,2026-10-22
-28469010,8,28,Rare earth oxides not elsewhere included or specified,Free,,,,,2026-10-22
-28469020,8,28,Rare earth fluorides not elsewhere included or specified,Free,,,,,2026-10-22
-28469030,8,28,Rare earth chlorides not elsewhere included or specified,Free,,,,,2026-10-22
-28469090,8,28,Other,Free,,,,,2026-10-22
-28470000,8,28,"Hydrogen peroxide, whether or not solidified with urea",Free,,,,,2026-10-22
-2849,4,28,"Carbides, whether or not chemically defined.",,,,,,2026-10-22
-28491000,8,28,Of calcium,Free,,,,,2026-10-22
-284920,6,28,Of silicon,,,,,,2026-10-22
-28492010,8,28,Carborandum,Free,,,,,2026-10-22
-28492090,8,28,Other,Free,,,,,2026-10-22
-284990,6,28,Other,,,,,,2026-10-22
-28499010,8,28,Boron carbide,Free,,,,,2026-10-22
-28499020,8,28,Tungsten carbide,Free,,,,,2026-10-22
-28499090,8,28,Other,Free,,,,,2026-10-22
-2850,4,28,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 28.49.",,,,,,2026-10-22
-285000,6,28,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 2849:",,,,,,2026-10-22
-28500010,8,28,Hydrides,Free,,,,,2026-10-22
-28500020,8,28,Nitrides,Free,,,,,2026-10-22
-28500030,8,28,Azides,Free,,,,,2026-10-22
-28500041,8,28,Silicides: ---- Of calcium,Free,,,,,2026-10-22
-28500049,8,28,Silicides: ---- Other,Free,,,,,2026-10-22
-28500050,8,28,Borides,Free,,,,,2026-10-22
-2852,4,28,"Inorganic or organic compounds of mercury, whether or not chemically defined, excluding amalgams.",,,,,,2026-10-22
-28521000,8,28,Chemically defined,Free,,,,,2026-10-22
-28529000,8,28,Other,Free,,,,,2026-10-22
-2853,4,28,"Phosphides, whether or not chemically defined, excluding ferrophosphorus; other inorganic compounds (including distilled or conductivity water and water of similar purity); liquid air (whether or not rare gases have been removed); compressed air; amalgams, other than amalgams of precious metals.",,,,,,2026-10-22
-28531000,8,28,Cyanogen chloride (chlorcyan),Free,,,,,2026-10-22
-285390,6,28,Other,,,,,,2026-10-22
-28539010,8,28,Distilled or conductivity water and water of similar purity,Free,,,,,2026-10-22
-28539020,8,28,"Liquid air, whether or not rare gases have been removed",Free,,,,,2026-10-22
-28539030,8,28,Compressed air,Free,,,,,2026-10-22
-28539040,8,28,"Amalgams, other than of precious metals",Free,,,,,2026-10-22
-28539050,8,28,"Magnesium phosphide plates, zinc phosphide",Free,"The import of the pesticides will be subject to a Certificate of Registration issued by Central Insecticides Board Registration Committee (CIB&RC) under Ministry of Agriculture & Farmers Welfare and also non-prohibition for import under Insecticides Act, 1968.",,44/2025-26,2025-10-15,2026-10-22
-28539090,8,28,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+2801,,,4,28,"Fluorine, chlorine, bromine and iodine.",,,,,,2026-10-22
+28011000,280110,Chlorine,8,28,Chlorine,Free,,,,,2026-10-22
+28012000,280120,Iodine,8,28,Iodine,Free,,,,,2026-10-22
+280130,280130,Fluorine; bromine,6,28,Fluorine; bromine,,,,,,2026-10-22
+28013010,280130,Fluorine; bromine,8,28,Fluorine,Free,,,,,2026-10-22
+28013020,280130,Fluorine; bromine,8,28,Bromine,Free,,,,,2026-10-22
+2802,,,4,28,"Sulphur, sublimed or precipitated; colloidal sulphur.",,,,,,2026-10-22
+280200,280200,"Sulphur; sublimed or precipitated, colloidal sulphur",6,28,"Sulphur, sublimed or precipitated; colloidal sulphur :",,,,,,2026-10-22
+28020010,280200,"Sulphur; sublimed or precipitated, colloidal sulphur",8,28,Sublimed sulphur,Free,,,,,2026-10-22
+28020020,280200,"Sulphur; sublimed or precipitated, colloidal sulphur",8,28,Precipitated sulphur,Free,,,,,2026-10-22
+28020030,280200,"Sulphur; sublimed or precipitated, colloidal sulphur",8,28,Colloidal sulphur,Free,,,,,2026-10-22
+2803,,,4,28,Carbon (carbon blacks and other forms of carbon not elsewhere specified or included).,,,,,,2026-10-22
+280300,280300,Carbon; carbon blacks and other forms of carbon n.e.c.,6,28,Carbon (carbon blacks and other forms of carbon not elsewhere specified or included) :,,,,,,2026-10-22
+28030010,280300,Carbon; carbon blacks and other forms of carbon n.e.c.,8,28,Carbon blacks,Free,,,,,2026-10-22
+28030020,280300,Carbon; carbon blacks and other forms of carbon n.e.c.,8,28,Acetylene black,Free,,,,,2026-10-22
+28030090,280300,Carbon; carbon blacks and other forms of carbon n.e.c.,8,28,Other,Free,,,,,2026-10-22
+2804,,,4,28,"Hydrogen, rare gases and other non-metals.",,,,,,2026-10-22
+28041000,280410,Hydrogen,8,28,Hydrogen,Free,,,,,2026-10-22
+28042100,280421,"Gases, rare; argon",8,28,Rare gases : -- Argon,Free,,,,,2026-10-22
+280429,280429,"Gases, rare; other than argon",6,28,Rare gases : -- Other,,,,,,2026-10-22
+28042910,280429,"Gases, rare; other than argon",8,28,Helium,Free,,,,,2026-10-22
+28042990,280429,"Gases, rare; other than argon",8,28,Other,Free,,,,,2026-10-22
+28043000,280430,Nitrogen,8,28,Nitrogen,Free,,,,,2026-10-22
+280440,280440,Oxygen,6,28,Oxygen,,,,,,2026-10-22
+28044010,280440,Oxygen,8,28,Medicinal grade,Free,,,,,2026-10-22
+28044090,280440,Oxygen,8,28,Other,Free,,,,,2026-10-22
+280450,280450,Boron; tellurium,6,28,Boron; tellurium,,,,,,2026-10-22
+28045010,280450,Boron; tellurium,8,28,Boron,Free,,,,,2026-10-22
+28045020,280450,Boron; tellurium,8,28,Tellurium,Free,,,,,2026-10-22
+28046100,280461,Silicon; containing by weight not less than 99.99% of silicon,8,28,Silicon : -- Containing by weight not less than 99.99 percent of silicon,Free,,,,,2026-10-22
+28046900,280469,Silicon; containing by weight less than 99.99% of silicon,8,28,Silicon : -- Other,Free,,,,,2026-10-22
+280470,280470,Phosphorus,6,28,Phosphorus,,,,,,2026-10-22
+28047010,280470,Phosphorus,8,28,"Phosphorus, black",Free,,,,,2026-10-22
+28047020,280470,Phosphorus,8,28,"Phosphorus, red",Free,,,,,2026-10-22
+28047030,280470,Phosphorus,8,28,"Phosphorus, white or yellow",Free,,,,,2026-10-22
+28048000,280480,Arsenic,8,28,Arsenic,Free,,,,,2026-10-22
+28049000,280490,Selenium,8,28,Selenium,Free,,,,,2026-10-22
+2805,,,4,28,"ALKALI OR ALKALINE-EARTH METALS; RARE-EARTH METALS,SCANDIUM AND YTTRIUM, WHETHER OR NOT INTERMIXED OR INTERALLOYED; MERCURY",,,,,,2026-10-22
+28051100,280511,Alkali or alkali-earth metals; sodium,8,28,Alkali or alkaline-earth metals : -- Sodium,Free,,,,,2026-10-22
+28051200,280512,Alkali or alkali-earth metals; calcium,8,28,Alkali or alkaline-earth metals : -- Calcium,Free,,,,,2026-10-22
+28051900,280519,Alkali or alkali-earth metals; other than sodium and calcium,8,28,Alkali or alkaline-earth metals : -- Other,Free,,,,,2026-10-22
+28053000,280530,"Earth-metals, rare; scandium and yttrium, whether or not intermixed or interalloyed",8,28,"Rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed",Free,,,,,2026-10-22
+28054000,280540,Mercury,8,28,Mercury,Restricted,Subject to Policy Condition No. 3,3,24/2015-2020,2021-09-09,2026-10-22
+2806,,,4,28,Hydrogen chloride (hydrochloric acid); chlorosulphuric acid.,,,,,,2026-10-22
+28061000,280610,Hydrogen chloride (hydrochloric acid),8,28,Hydrogen chloride (hydrochloric acid),Free,,,,,2026-10-22
+28062000,280620,Chlorosulphuric acid,8,28,Chlorosulphuric acid,Free,,,,,2026-10-22
+2807,,,4,28,Sulphuric acid; oleum.,,,,,,2026-10-22
+280700,280700,Sulphuric acid; oleum,6,28,Sulphuric acid; oleum :,,,,,,2026-10-22
+28070010,280700,Sulphuric acid; oleum,8,28,Sulphurc acid,Free,,,,,2026-10-22
+28070020,280700,Sulphuric acid; oleum,8,28,Oleum,Free,,,,,2026-10-22
+2808,,,4,28,Nitric acid; sulphonitric acids.,,,,,,2026-10-22
+280800,280800,Nitric acid; sulphonitric acids,6,28,Nitric acid; sulphonitric acids :,,,,,,2026-10-22
+28080010,280800,Nitric acid; sulphonitric acids,8,28,Nitric acid,Free,,,,,2026-10-22
+28080020,280800,Nitric acid; sulphonitric acids,8,28,Sulphonitric acids,Free,,,,,2026-10-22
+2809,,,4,28,"Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically defined.",,,,,,2026-10-22
+28091000,280910,Diphosphorus pentoxide,8,28,Diphosphorus pentaoxide,Free,,,,,2026-10-22
+280920,280920,Phosphoric acid and polyphosphoric acids,6,28,Phosphoric acid and polyphosphoric acids,,,,,,2026-10-22
+28092010,280920,Phosphoric acid and polyphosphoric acids,8,28,Phosporic acid,Free,,,,,2026-10-22
+28092020,280920,Phosphoric acid and polyphosphoric acids,8,28,Polyphosphoric acids,Free,,,,,2026-10-22
+2810,,,4,28,Oxides of boron; boric acids.,,,,,,2026-10-22
+28100010,281000,Oxides of boron; boric acids,8,28,Oxides of boron; boric acids: --- Oxides of boron,Free,,,,,2026-10-22
+28100020,281000,Oxides of boron; boric acids,8,28,Oxides of boron; boric acids: --- Boric acids,Free,Import of Boric Acid for non-insecticidal purposes will be subject to an import permit issued by the Central Insecticide Board and Registration Committee under the Ministry of Agriculture.,,,,2026-10-22
+2811,,,4,28,Other inorganic acids and other inorganic oxygen compounds of non-metals.,,,,,,2026-10-22
+28111100,281111,Hydrogen fluoride (hydrofluoric acid),8,28,Other inorganic acids : -- Hydrogen fluoride (hydrofluoric acid),Free,,,,,2026-10-22
+28111200,281112,Hydrogen cyanide (hydrocyanic acid),8,28,Other inorganic acids : -- Hydrogen cyanide (hydrocyanic acid),Free,,,,,2026-10-22
+281119,281119,Inorganic acids; other than hydrogen fluoride,6,28,Other inorganic acids : -- Other,,,,,,2026-10-22
+28111920,281119,Inorganic acids; other than hydrogen fluoride,8,28,Hypophosphorus acid (phosphinic acid),Free,,,,,2026-10-22
+28111930,281119,Inorganic acids; other than hydrogen fluoride,8,28,Acids of arsenic,Free,,,,,2026-10-22
+28111940,281119,Inorganic acids; other than hydrogen fluoride,8,28,Sulphonic acid,Free,,,,,2026-10-22
+28111990,281119,Inorganic acids; other than hydrogen fluoride,8,28,Other,Free,,,,,2026-10-22
+281121,281121,Carbon dioxide,6,28,Other inorganic oxygen compounds of non-metals : -- Carbon dioxide,,,,,,2026-10-22
+28112110,281121,Carbon dioxide,8,28,Dry ice,Free,,,,,2026-10-22
+28112190,281121,Carbon dioxide,8,28,Other,Free,,,,,2026-10-22
+28112200,281122,Silicon dioxide,8,28,Other inorganic oxygen compounds of non-metals : -- Silicon dioxide,Free,,,,,2026-10-22
+281129,281129,"Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",6,28,Other inorganic oxygen compounds of non-metals : -- Other,,,,,,2026-10-22
+28112910,281129,"Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",8,28,Arsenic pentoxide,Free,,,,,2026-10-22
+28112920,281129,"Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",8,28,Arsenic trioxide,Free,,,,,2026-10-22
+28112930,281129,"Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",8,28,Nitrous oxide,Free,,,,,2026-10-22
+28112940,281129,"Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",8,28,Carbon monoxide,Free,,,,,2026-10-22
+28112950,281129,"Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",8,28,Sulphur trioxide (sulphuric anhydride),Free,,,,,2026-10-22
+28112990,281129,"Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",8,28,Other,Free,,,,,2026-10-22
+2812,,,4,28,Halides and halide oxides of non-metals.,,,,,,2026-10-22
+28121100,281211,Carbonyl dichloride (phosgene),8,28,Chlorides and chloride oxides : -- Carbonyl dichloride (phosgene),Free,,,,,2026-10-22
+28121200,281212,Phosphorus oxychloride,8,28,Chlorides and chloride oxides : -- Phosphorus oxychloride,Free,,,,,2026-10-22
+28121300,281213,Phosphorus trichloride,8,28,Chlorides and chloride oxides : -- Phosphorus trichloride,Free,,,,,2026-10-22
+28121400,281214,Phosphorus pentachloride,8,28,Chlorides and chloride oxides : -- Phosphorus pentachloride,Free,,,,,2026-10-22
+28121500,281215,Sulphur monochloride,8,28,Chlorides and chloride oxides : -- Sulphur monochloride,Free,,,,,2026-10-22
+28121600,281216,Sulphur dichloride,8,28,Chlorides and chloride oxides : -- Sulphur dichloride,Free,,,,,2026-10-22
+28121700,281217,Thionyl chloride,8,28,Chlorides and chloride oxides : -- Thionyl chloride,Free,,,,,2026-10-22
+281219,281219,"Arsenic trichloride and other chlorides and chloride oxides, n.e.c. in item no. 2812",6,28,Chlorides and chloride oxides : --Other,,,,,,2026-10-22
+28121910,281219,"Arsenic trichloride and other chlorides and chloride oxides, n.e.c. in item no. 2812",8,28,Sulphur oxychloride,Free,,,,,2026-10-22
+28121920,281219,"Arsenic trichloride and other chlorides and chloride oxides, n.e.c. in item no. 2812",8,28,Silicon tetrachloride,Free,,,,,2026-10-22
+28121930,281219,"Arsenic trichloride and other chlorides and chloride oxides, n.e.c. in item no. 2812",8,28,Arsenic trichloride,Free,,,,,2026-10-22
+28121990,281219,"Arsenic trichloride and other chlorides and chloride oxides, n.e.c. in item no. 2812",8,28,other,Free,,,,,2026-10-22
+28129000,281290,Halides and halide oxides of non-metals; excluding chloride,8,28,Other,Free,,,,,2026-10-22
+2813,,,4,28,Sulphides of non-metals; commercial phosphorus trisulphide.,,,,,,2026-10-22
+28131000,281310,Carbon disulphide,8,28,Carbon disulphide,Free,,,,,2026-10-22
+281390,281390,"Sulphides of non-metals, (excluding carbon); commercial phosphorus trisulphide",6,28,other,,,,,,2026-10-22
+28139010,281390,"Sulphides of non-metals, (excluding carbon); commercial phosphorus trisulphide",8,28,Arsenic disulphide (artificial),Free,,,,,2026-10-22
+28139020,281390,"Sulphides of non-metals, (excluding carbon); commercial phosphorus trisulphide",8,28,Commercial phosphorus trisulphide,Free,,,,,2026-10-22
+28139030,281390,"Sulphides of non-metals, (excluding carbon); commercial phosphorus trisulphide",8,28,Lime Sulphur,Free,"The import of the pesticides will be subject to a Certificate of Registration issued by Central Insecticides Board Registration Committee (CIB&RC) under Ministry of Agriculture & Farmers Welfare and also non-prohibition for import under Insecticides Act, 1968.",,44/2025-26,2025-10-15,2026-10-22
+28139090,281390,"Sulphides of non-metals, (excluding carbon); commercial phosphorus trisulphide",8,28,Other,Free,,,,,2026-10-22
+2814,,,4,28,"Ammonia, anhydrous or in aqueous solution.",,,,,,2026-10-22
+28141000,281410,Ammonia; anhydrous,8,28,Anhydrous ammonia,Free,,,,,2026-10-22
+28142000,281420,Ammonia; in aqueous solution,8,28,Ammonia in aqueous solution,Free,,,,,2026-10-22
+2815,,,4,28,Sodium hydroxide (caustic soda); potassium hydroxide (caustic potash); peroxides of sodium or potassium.,,,,,,2026-10-22
+281511,281511,Sodium hydroxide (caustic soda); solid,6,28,Sodium hydroxide (caustic soda) : -- Solid,,,,,,2026-10-22
+28151110,281511,Sodium hydroxide (caustic soda); solid,8,28,Flakes,Free,,,,,2026-10-22
+28151190,281511,Sodium hydroxide (caustic soda); solid,8,28,Other,Free,,,,,2026-10-22
+28151200,281512,Sodium hydroxide (caustic soda); in aqueous solution (soda lye or liquid soda),8,28,Sodium hydroxide (caustic soda) : -- In aqueous solution (soda lye or liquid soda),Free,,,,,2026-10-22
+28152000,281520,Potassium hydroxide (caustic potash),8,28,Potassium hydroxide (caustic potash),Free,,,,,2026-10-22
+28153000,281530,Peroxides of sodium or potassium,8,28,Peroxides of sodium or potassium,Free,,,,,2026-10-22
+2816,,,4,28,"Hydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or barium.",,,,,,2026-10-22
+281610,281610,Hydroxide and peroxide of magnesium,6,28,Hydroxide and peroxide of magnesium,,,,,,2026-10-22
+28161010,281610,Hydroxide and peroxide of magnesium,8,28,Hydroxide of magnesium,Free,,,,,2026-10-22
+28161020,281610,Hydroxide and peroxide of magnesium,8,28,Peroxide of magnesium,Free,,,,,2026-10-22
+28164000,281640,"Oxides, hydroxides and peroxides, of strontium or barium",8,28,"Oxides, hydroxides and peroxides, of strontium or barium",Free,,,,,2026-10-22
+2817,,,4,28,Zinc oxide; zinc peroxide.,,,,,,2026-10-22
+281700,281700,Zinc; oxide and peroxide,6,28,Zinc oxide; zinc peroxide :,,,,,,2026-10-22
+28170010,281700,Zinc; oxide and peroxide,8,28,Zinc oxide,Free,,,,,2026-10-22
+28170020,281700,Zinc; oxide and peroxide,8,28,Zinc peroxide,Free,,,,,2026-10-22
+2818,,,4,28,"Artificial corundum, whether or not chemically defined; aluminium oxide; aluminium hydroxide.",,,,,,2026-10-22
+28181000,281810,Aluminium oxide; artificial corundum,8,28,"Artificial corundum, whether or not chemically defined",Free,,,,,2026-10-22
+281820,281820,Aluminium oxide; other than artificial corundum,6,28,"Aluminium oxide, other than artificial corundum",,,,,,2026-10-22
+28182011,281820,Aluminium oxide; other than artificial corundum,8,28,"Alumina, calcined: Metallurgical grade, conforming to IS 17441",Free,-,,20/2015-2020,2022-07-07,2026-10-22
+28182019,281820,Aluminium oxide; other than artificial corundum,8,28,"Alumina, calcined: ---- Non- metallurgical grade, conforming to IS 17441",Free,-,,20/2015-20,2022-07-07,2026-10-22
+28182090,281820,Aluminium oxide; other than artificial corundum,8,28,Other,Free,,,,,2026-10-22
+28183000,281830,Aluminium hydroxide,8,28,Aluminium hydroxide,Free,,,,,2026-10-22
+2819,,,4,28,Chromium oxides and hydroxides.,,,,,,2026-10-22
+28191000,281910,Chromium trioxide,8,28,Chromium trioxide,Free,,,,,2026-10-22
+28199000,281990,Chromium oxides and hydroxides; excluding chromium trioxide,8,28,Other,Free,,,,,2026-10-22
+2820,,,4,28,Manganese oxides.,,,,,,2026-10-22
+28201000,282010,Manganese dioxide,8,28,Manganese dioxide,Free,,,,,2026-10-22
+28209000,282090,Manganese oxides; excluding manganese dioxide,8,28,Other,Free,,,,,2026-10-22
+2821,,,4,28,Iron oxides and hydroxides; earth colours containing 70 percent or more by weight of combined iron evaluated as Fe2O3.,,,,,,2026-10-22
+282110,282110,Iron oxides and hydroxides,6,28,Iron oxides and hydroxides,,,,,,2026-10-22
+28211010,282110,Iron oxides and hydroxides,8,28,Iron oxides,Free,,,,,2026-10-22
+28211020,282110,Iron oxides and hydroxides,8,28,Iron hydroxides,Free,,,,,2026-10-22
+28212000,282120,Earth colours; containing 70% or more by weight of combined iron evaluated as Fe2o3,8,28,Earth colours,Free,,,,,2026-10-22
+2822,,,4,28,Cobalt oxides and hydroxides; commercial cobalt oxides.,,,,,,2026-10-22
+282200,282200,Cobalt oxides and hydroxides; commercial cobalt oxides,6,28,Cobalt oxides and hydroxides; commercial cobalt oxides :,,,,,,2026-10-22
+28220010,282200,Cobalt oxides and hydroxides; commercial cobalt oxides,8,28,Cobalt oxides,Free,,,,,2026-10-22
+28220020,282200,Cobalt oxides and hydroxides; commercial cobalt oxides,8,28,Cobalt hydroxides,Free,,,,,2026-10-22
+28220030,282200,Cobalt oxides and hydroxides; commercial cobalt oxides,8,28,Commercial cobalt oxides,Free,,,,,2026-10-22
+2823,,,4,28,Titanium oxides.,,,,,,2026-10-22
+282300,282300,Titanium oxides,6,28,Titanium oxides :,,,,,,2026-10-22
+28230010,282300,Titanium oxides,8,28,Titanium dioxide,Free,,,,,2026-10-22
+28230090,282300,Titanium oxides,8,28,Other,Free,,,,,2026-10-22
+2824,,,4,28,Lead oxides; red lead and orange lead.,,,,,,2026-10-22
+282410,282410,"Lead; lead monoxide (litharge, massicot)",6,28,"Lead monoxide (litharge, massicot)",,,,,,2026-10-22
+28241010,282410,"Lead; lead monoxide (litharge, massicot)",8,28,Litharge,Free,,,,,2026-10-22
+28241020,282410,"Lead; lead monoxide (litharge, massicot)",8,28,Massicot,Free,,,,,2026-10-22
+28249000,282490,Lead oxides; n.e.c. in heading no. 2824,8,28,Other,Free,,,,,2026-10-22
+2825,,,4,28,"Hydrazine and hydroxylamine and their inorganic salts; other inorganic bases; other metal oxides, hydroxides and peroxides.",,,,,,2026-10-22
+282510,282510,Hydrazine and hydroxylamine and their inorganic salts,6,28,Hydrazine and hydroxylamine and their inorganic salts,,,,,,2026-10-22
+28251010,282510,Hydrazine and hydroxylamine and their inorganic salts,8,28,Hydrazine anhydrous,Free,,,,,2026-10-22
+28251020,282510,Hydrazine and hydroxylamine and their inorganic salts,8,28,Hydrazine hydrate,Free,,,,,2026-10-22
+28251030,282510,Hydrazine and hydroxylamine and their inorganic salts,8,28,Hydrazine sulphate,Free,,,,,2026-10-22
+28251040,282510,Hydrazine and hydroxylamine and their inorganic salts,8,28,Hydroxylamine sulphate,Free,,,,,2026-10-22
+28251090,282510,Hydrazine and hydroxylamine and their inorganic salts,8,28,Other,Free,,,,,2026-10-22
+28252000,282520,Lithium oxide and hydroxide,8,28,Lithium oxide and hydroxide,Free,,,,,2026-10-22
+282530,282530,Vanadium oxides and hydroxides,6,28,Vanadium oxides and hydroxides,,,,,,2026-10-22
+28253010,282530,Vanadium oxides and hydroxides,8,28,Vanadium pentoxide flakes,Free,,,,,2026-10-22
+28253090,282530,Vanadium oxides and hydroxides,8,28,Other,Free,,,,,2026-10-22
+28254000,282540,Nickel oxides and hydroxides,8,28,Nickel oxides and hydroxides,Free,,,,,2026-10-22
+28255000,282550,Copper oxides and hydroxides,8,28,Copper oxides and hydroxides,Free,,,,,2026-10-22
+282560,282560,Germanium oxides and zirconium dioxide,6,28,Germanium oxides and zirconium dioxide,,,,,,2026-10-22
+28256010,282560,Germanium oxides and zirconium dioxide,8,28,Germanium oxides,Free,,,,,2026-10-22
+28256020,282560,Germanium oxides and zirconium dioxide,8,28,Zirconium dioxide,Free,,,,,2026-10-22
+282570,282570,Molybdenum oxides and hydroxides,6,28,Molybdenum oxides and hydroxides,,,,,,2026-10-22
+28257010,282570,Molybdenum oxides and hydroxides,8,28,Molybdenum trioxide,Free,,,,,2026-10-22
+28257020,282570,Molybdenum oxides and hydroxides,8,28,Molybdic acid,Free,,,,,2026-10-22
+28257090,282570,Molybdenum oxides and hydroxides,8,28,Other,Free,,,,,2026-10-22
+28258000,282580,Antimony oxides,8,28,Antimony oxides,Free,,,,,2026-10-22
+282590,282590,"Inorganic bases, metal oxides, hydroxides and peroxides; n.e.c. in heading no. 2825",6,28,Other,,,,,,2026-10-22
+28259010,282590,"Inorganic bases, metal oxides, hydroxides and peroxides; n.e.c. in heading no. 2825",8,28,Tin oxide,Free,,,,,2026-10-22
+28259020,282590,"Inorganic bases, metal oxides, hydroxides and peroxides; n.e.c. in heading no. 2825",8,28,Cadmium oxide,Free,,,,,2026-10-22
+28259040,282590,"Inorganic bases, metal oxides, hydroxides and peroxides; n.e.c. in heading no. 2825",8,28,Calcium hydroxide,Free,,,,,2026-10-22
+28259050,282590,"Inorganic bases, metal oxides, hydroxides and peroxides; n.e.c. in heading no. 2825",8,28,Ammonium hydroxide,Free,,,,,2026-10-22
+28259090,282590,"Inorganic bases, metal oxides, hydroxides and peroxides; n.e.c. in heading no. 2825",8,28,Other,Free,,,,,2026-10-22
+2826,,,4,28,"Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts.",,,,,,2026-10-22
+28261200,282612,Fluorides; of aluminium,8,28,Fluorides : -- Of aluminium,Free,,,,,2026-10-22
+282619,282619,Fluorides; other than of aluminium,6,28,Fluorides : -- Other,,,,,,2026-10-22
+28261910,282619,Fluorides; other than of aluminium,8,28,Magnesium fluoride,Free,,,,,2026-10-22
+28261990,282619,Fluorides; other than of aluminium,8,28,Other,Free,,,,,2026-10-22
+28263000,282630,Sodium hexafluoroaluminate (synthetic cryolite),8,28,Sodium hexafluoroaluminate (synthetic cryolite),Free,,,,,2026-10-22
+28269000,282690,"Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts, n.e.c. in heading no. 2826",8,28,Other,Free,,,,,2026-10-22
+2827,,,4,28,"Chlorides, chloride oxides and chloride hydroxides; bromides and bromide oxides; iodides and iodide oxides.",,,,,,2026-10-22
+28271000,282710,Chlorides; of ammonium,8,28,Ammonium chloride,Free,,,,,2026-10-22
+28272000,282720,Chlorides; of calcium,8,28,Calcium chloride,Free,,,,,2026-10-22
+28273100,282731,Chlorides; of magnesium,8,28,Other chlorides : -- Of magnesium,Free,,,,,2026-10-22
+28273200,282732,Chlorides; of aluminium,8,28,Other chlorides : -- Of aluminium,Free,,,,,2026-10-22
+28273500,282735,Chlorides; of nickel,8,28,Other chlorides : -- Of nickel,Free,,,,,2026-10-22
+282739,282739,"Chlorides; other than of ammonium, calcium, magnesium, aluminium and nickel",6,28,Other chlorides : -- Other,,,,,,2026-10-22
+28273920,282739,"Chlorides; other than of ammonium, calcium, magnesium, aluminium and nickel",8,28,Mercurous chloride,Free,,,,,2026-10-22
+28273930,282739,"Chlorides; other than of ammonium, calcium, magnesium, aluminium and nickel",8,28,Strontium chloride,Free,,,,,2026-10-22
+28273940,282739,"Chlorides; other than of ammonium, calcium, magnesium, aluminium and nickel",8,28,Cuprous chloride,Free,,,,,2026-10-22
+28273990,282739,"Chlorides; other than of ammonium, calcium, magnesium, aluminium and nickel",8,28,Other,Free,,,,,2026-10-22
+282741,282741,Chloride oxides and chloride hydroxides; of copper,6,28,Chloride oxides and chloride hydroxides : -- Of copper,,,,,,2026-10-22
+28274110,282741,Chloride oxides and chloride hydroxides; of copper,8,28,Copper oxychloride,Free,,,,,2026-10-22
+28274190,282741,Chloride oxides and chloride hydroxides; of copper,8,28,Other,Free,,,,,2026-10-22
+28274900,282749,Chloride oxides and chloride hydroxides; other than of copper,8,28,Chloride oxides and chloride hydroxides : -- Other,Free,,,,,2026-10-22
+282751,282751,Bromides; of sodium or of potassium,6,28,Bromides and bromide oxides : -- Bromides of sodium or of potassium,,,,,,2026-10-22
+28275110,282751,Bromides; of sodium or of potassium,8,28,Bromides of sodium,Free,,,,,2026-10-22
+28275120,282751,Bromides; of sodium or of potassium,8,28,Bromides of potassium,Free,,,,,2026-10-22
+282759,282759,Bromides and bromide oxides; other than item no. 2827.51,6,28,Bromides and bromide oxides : -- Other,,,,,,2026-10-22
+28275910,282759,Bromides and bromide oxides; other than item no. 2827.51,8,28,Magnesium bromide,Free,,,,,2026-10-22
+28275990,282759,Bromides and bromide oxides; other than item no. 2827.51,8,28,Other,Free,,,,,2026-10-22
+282760,282760,Iodides and iodide oxides,6,28,Iodides and iodide oxides,,,,,,2026-10-22
+28276010,282760,Iodides and iodide oxides,8,28,Potassium iodide,Free,,,,,2026-10-22
+28276020,282760,Iodides and iodide oxides,8,28,Sodium iodide,Free,,,,,2026-10-22
+28276090,282760,Iodides and iodide oxides,8,28,Other,Free,,,,,2026-10-22
+2828,,,4,28,Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites.,,,,,,2026-10-22
+282810,282810,Hypochlorites; commercial calcium hypochlorite and other calcium hypochlorites,6,28,Commercial calcium hypochlorite and other calcium hypochlorites,,,,,,2026-10-22
+28281010,282810,Hypochlorites; commercial calcium hypochlorite and other calcium hypochlorites,8,28,Commercial calcium hypochlorite (bleaching paste or powder),Free,,,,,2026-10-22
+28281090,282810,Hypochlorites; commercial calcium hypochlorite and other calcium hypochlorites,8,28,Other,Free,,,,,2026-10-22
+282890,282890,Hypochlorites; n.e.c. in heading no. 2828,6,28,Other,,,,,,2026-10-22
+28289011,282890,Hypochlorites; n.e.c. in heading no. 2828,8,28,Sodium hypochlorites: ---- Bleaching paste or powder,Free,,,,,2026-10-22
+28289019,282890,Hypochlorites; n.e.c. in heading no. 2828,8,28,Sodium hypochlorites: ---- Other,Free,,,,,2026-10-22
+28289020,282890,Hypochlorites; n.e.c. in heading no. 2828,8,28,Potassium hypochlorites,Free,,,,,2026-10-22
+28289030,282890,Hypochlorites; n.e.c. in heading no. 2828,8,28,Sodium chlorite,Free,,,,,2026-10-22
+28289040,282890,Hypochlorites; n.e.c. in heading no. 2828,8,28,Aluminium chlorite,Free,,,,,2026-10-22
+28289050,282890,Hypochlorites; n.e.c. in heading no. 2828,8,28,Hypobromites,Free,,,,,2026-10-22
+28289060,282890,Hypochlorites; n.e.c. in heading no. 2828,8,28,Bleaching paste or powder of other hypochlorites,Free,,,,,2026-10-22
+28289090,282890,Hypochlorites; n.e.c. in heading no. 2828,8,28,Other,Free,,,,,2026-10-22
+2829,,,4,28,Chlorates and perchlorates; bromates and perbromates; iodates and periodates.,,,,,,2026-10-22
+28291100,282911,Chlorates; of sodium,8,28,Chlorates : -- Of sodium,Free,,,,,2026-10-22
+282919,282919,Chlorates; other than sodium,6,28,Chlorates : -- Other,,,,,,2026-10-22
+28291910,282919,Chlorates; other than sodium,8,28,Barium chlorate,Free,,,,,2026-10-22
+28291920,282919,Chlorates; other than sodium,8,28,Potassium chlorate,Free,,,,,2026-10-22
+28291930,282919,Chlorates; other than sodium,8,28,Magnesium chlorate,Free,,,,,2026-10-22
+28291990,282919,Chlorates; other than sodium,8,28,Other,Free,,,,,2026-10-22
+282990,282990,Perchlorates; bromates and perbromates; iodates and periodates,6,28,Other,,,,,,2026-10-22
+28299010,282990,Perchlorates; bromates and perbromates; iodates and periodates,8,28,Perchlorates,Free,,,,,2026-10-22
+28299020,282990,Perchlorates; bromates and perbromates; iodates and periodates,8,28,Bromates and perbromates,Free,,,,,2026-10-22
+28299030,282990,Perchlorates; bromates and perbromates; iodates and periodates,8,28,Iodates and periodates,Free,,,,,2026-10-22
+2830,,,4,28,"Sulphides; polysulphides, whether or not chemically defined.",,,,,,2026-10-22
+28301000,283010,"Sulphides; of sodium, whether or not chemically defined",8,28,Sodium sulphides,Free,,,,,2026-10-22
+283090,283090,"Sulphides and polysulphides; whether or not chemically defined, other than sulphides of sodium",6,28,Other,,,,,,2026-10-22
+28309010,283090,"Sulphides and polysulphides; whether or not chemically defined, other than sulphides of sodium",8,28,Sulphides,Free,,,,,2026-10-22
+28309020,283090,"Sulphides and polysulphides; whether or not chemically defined, other than sulphides of sodium",8,28,Polysulphides,Free,,,,,2026-10-22
+2831,,,4,28,Dithionites and sulphoxylates.,,,,,,2026-10-22
+283110,283110,Dithionites and sulphoxylates; of sodium,6,28,Of sodium,,,,,,2026-10-22
+28311010,283110,Dithionites and sulphoxylates; of sodium,8,28,Sodium dithionites (sodium hydrosulfite),Free,,,,,2026-10-22
+28311020,283110,Dithionites and sulphoxylates; of sodium,8,28,Sodium sulphoxylates (including sodium formaldehyde sulphoxylate),Free,,,,,2026-10-22
+283190,283190,Dithionites and sulphoxylates; other than sodium,6,28,Other,,,,,,2026-10-22
+28319010,283190,Dithionites and sulphoxylates; other than sodium,8,28,Dithionites,Free,,,,,2026-10-22
+28319020,283190,Dithionites and sulphoxylates; other than sodium,8,28,Sulphoxylates,Free,,,,,2026-10-22
+2832,,,4,28,Sulphites; thiosulphates.,,,,,,2026-10-22
+283210,283210,Sulphites; of sodium,6,28,Sodium sulphites,,,,,,2026-10-22
+28321010,283210,Sulphites; of sodium,8,28,Sodium bisulphite,Free,,,,,2026-10-22
+28321020,283210,Sulphites; of sodium,8,28,Sodium hydrosulphites,Free,,,,,2026-10-22
+28321090,283210,Sulphites; of sodium,8,28,Other,Free,,,,,2026-10-22
+283220,283220,Sulphites; other than of sodium,6,28,Other sulphites,,,,,,2026-10-22
+28322010,283220,Sulphites; other than of sodium,8,28,Potassium metabisulphite,Free,,,,,2026-10-22
+28322020,283220,Sulphites; other than of sodium,8,28,Magnesium sulphite,Free,,,,,2026-10-22
+28322090,283220,Sulphites; other than of sodium,8,28,Other,Free,,,,,2026-10-22
+283230,283230,Thiosulphates,6,28,Thiosulphates,,,,,,2026-10-22
+28323010,283230,Thiosulphates,8,28,Sodium thiosulphate (hypo),Free,,,,,2026-10-22
+28323020,283230,Thiosulphates,8,28,Magnesium thiosulphate,Free,,,,,2026-10-22
+28323090,283230,Thiosulphates,8,28,Other,Free,,,,,2026-10-22
+2833,,,4,28,Sulphates; alums; peroxosulphates (persulphates).,,,,,,2026-10-22
+28331100,283311,Sodium sulphates; disodium sulphate,8,28,Sodium sulphates : -- Disodium sulphate,Free,,,,,2026-10-22
+283319,283319,Sodium sulphates; other than disodium sulphate,6,28,Sodium sulphates : -- Other,,,,,,2026-10-22
+28331910,283319,Sodium sulphates; other than disodium sulphate,8,28,Sodium hydrogen sulphate (acid sulphate),Free,,,,,2026-10-22
+28331920,283319,Sodium sulphates; other than disodium sulphate,8,28,Sodium pyrosulphate,Free,,,,,2026-10-22
+28331990,283319,Sodium sulphates; other than disodium sulphate,8,28,Other,Free,,,,,2026-10-22
+28332100,283321,Sulphates; of magnesium,8,28,Other sulphates : -- Of magnesium,Free,,,,,2026-10-22
+283322,283322,Sulphates; of aluminium,6,28,Other sulphates : -- Of aluminium,,,,,,2026-10-22
+28332210,283322,Sulphates; of aluminium,8,28,Aluminium sulphate (iron free),Free,,,,,2026-10-22
+28332290,283322,Sulphates; of aluminium,8,28,Other,Free,,,,,2026-10-22
+28332400,283324,Sulphates; of nickel,8,28,Other sulphates : -- Of nickel,Free,,,,,2026-10-22
+28332500,283325,Sulphates; of copper,8,28,Other sulphates : -- Of copper,Free,,,,,2026-10-22
+28332700,283327,Sulphates; of barium,8,28,Other sulphates : -- Of barium,Free,,,,,2026-10-22
+283329,283329,Sulphates; n.e.c. in item no. 2833.2,6,28,Other sulphates : -- Other,,,,,,2026-10-22
+28332910,283329,Sulphates; n.e.c. in item no. 2833.2,8,28,Ferrous sulphate,Free,,,,,2026-10-22
+28332930,283329,Sulphates; n.e.c. in item no. 2833.2,8,28,Quinidine sulphate,Free,,,,,2026-10-22
+28332940,283329,Sulphates; n.e.c. in item no. 2833.2,8,28,Manganese sulphate,Free,,,,,2026-10-22
+28332950,283329,Sulphates; n.e.c. in item no. 2833.2,8,28,Strontium sulphate,Free,,,,,2026-10-22
+28332990,283329,Sulphates; n.e.c. in item no. 2833.2,8,28,Other,Free,,,,,2026-10-22
+283330,283330,Alums,6,28,Alums,,,,,,2026-10-22
+28333010,283330,Alums,8,28,Ammonium alum,Free,,,,,2026-10-22
+28333020,283330,Alums,8,28,Ferric ammonium alum,Free,,,,,2026-10-22
+28333030,283330,Alums,8,28,Potash alum,Free,,,,,2026-10-22
+28333090,283330,Alums,8,28,Other,Free,,,,,2026-10-22
+28334000,283340,Peroxosulphates (persulphates),8,28,Peroxosulphates (persulphates),Free,,,,,2026-10-22
+2834,,,4,28,Nitrites; nitrates.,,,,,,2026-10-22
+283410,283410,Nitrites,6,28,Nitrites,,,,,,2026-10-22
+28341010,283410,Nitrites,8,28,Sodium nitrite,Free,,,,,2026-10-22
+28341090,283410,Nitrites,8,28,Other,Free,,,,,2026-10-22
+28342100,283421,Nitrates; of potassium,8,28,Nitrates : -- Of potassium,Free,,,,,2026-10-22
+283429,283429,Nitrates; of other than potassium,6,28,Nitrates : -- Other,,,,,,2026-10-22
+28342910,283429,Nitrates; of other than potassium,8,28,Strontium nitrate,Free,,,,,2026-10-22
+28342920,283429,Nitrates; of other than potassium,8,28,Magnesium nitrate,Free,,,,,2026-10-22
+28342930,283429,Nitrates; of other than potassium,8,28,Barium nitrate,Free,,,,,2026-10-22
+28342990,283429,Nitrates; of other than potassium,8,28,Other,Free,,,,,2026-10-22
+2835,,,4,28,"Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates; polyphosphates, whether or not chemically defined.",,,,,,2026-10-22
+283510,283510,"Phosphinates (hypophosphites) and phosphonates (phosphites), whether or not chemically defined",6,28,Phosphinates (hypophosphites) and phosphonates (phosphites),,,,,,2026-10-22
+28351010,283510,"Phosphinates (hypophosphites) and phosphonates (phosphites), whether or not chemically defined",8,28,Calcium hypophosphite,Free,,,,,2026-10-22
+28351020,283510,"Phosphinates (hypophosphites) and phosphonates (phosphites), whether or not chemically defined",8,28,Magnesium hypophosphite,Free,,,,,2026-10-22
+28351090,283510,"Phosphinates (hypophosphites) and phosphonates (phosphites), whether or not chemically defined",8,28,Other,Free,,,,,2026-10-22
+28352200,283522,"Phosphates; of mono- or disodium, whether or not chemically defined",8,28,Phosphates : -- Of mono- or disodium,Free,,,,,2026-10-22
+28352400,283524,"Phosphates; of potassium, whether or not chemically defined",8,28,Phosphates : -- Of potassium,Free,,,,,2026-10-22
+28352500,283525,"Phosphates; calcium hydrogenorthophosphate (dicalcium phosphate), whether or not chemically defined",8,28,Phosphates : -- Calcium hydrogenorthophosphate (ìdicalcium phosphateî),Free,,,,,2026-10-22
+283526,283526,"Phosphates; of calcium n.e.c. in item no. 2835.25, whether or not chemically defined",6,28,Phosphates : -- Other phosphates of calcium,,,,,,2026-10-22
+28352610,283526,"Phosphates; of calcium n.e.c. in item no. 2835.25, whether or not chemically defined",8,28,Calcium monobasic phosphate,Free,,,,,2026-10-22
+28352620,283526,"Phosphates; of calcium n.e.c. in item no. 2835.25, whether or not chemically defined",8,28,Calcium tribasic phosphate,Free,,,,,2026-10-22
+28352690,283526,"Phosphates; of calcium n.e.c. in item no. 2835.25, whether or not chemically defined",8,28,Other,Free,,,,,2026-10-22
+283529,283529,"Phosphates; (other than of mono- or disodium, other than of potassium or of calcium hydrogenorthophosphate (dicalcium phosphate) and excluding other phosphates of calcium), whether or not chemically defined",6,28,Phosphates : -- Other,,,,,,2026-10-22
+28352910,283529,"Phosphates; (other than of mono- or disodium, other than of potassium or of calcium hydrogenorthophosphate (dicalcium phosphate) and excluding other phosphates of calcium), whether or not chemically defined",8,28,"Magnesium phosphate, monobasic",Free,,,,,2026-10-22
+28352920,283529,"Phosphates; (other than of mono- or disodium, other than of potassium or of calcium hydrogenorthophosphate (dicalcium phosphate) and excluding other phosphates of calcium), whether or not chemically defined",8,28,"Magnesium phosphate, dibasic",Free,,,,,2026-10-22
+28352930,283529,"Phosphates; (other than of mono- or disodium, other than of potassium or of calcium hydrogenorthophosphate (dicalcium phosphate) and excluding other phosphates of calcium), whether or not chemically defined",8,28,"Magnesium phosphate, tribasic",Free,,,,,2026-10-22
+28352940,283529,"Phosphates; (other than of mono- or disodium, other than of potassium or of calcium hydrogenorthophosphate (dicalcium phosphate) and excluding other phosphates of calcium), whether or not chemically defined",8,28,Sodium hexa meta phosphate,Free,,,,,2026-10-22
+28352990,283529,"Phosphates; (other than of mono- or disodium, other than of potassium or of calcium hydrogenorthophosphate (dicalcium phosphate) and excluding other phosphates of calcium), whether or not chemically defined",8,28,Other,Free,,,,,2026-10-22
+28353100,283531,"Polyphosphates; sodium triphosphate (sodium tripolyphosphate), whether or not chemically defined",8,28,Polyphosphates : -- Sodium triphosphate (sodium tripolyphosphate),Free,,,,,2026-10-22
+28353900,283539,"Polyphosphates; other than sodium triphosphate (sodium tripolyphosphate), whether or not chemically defined",8,28,Polyphosphates : -- Other,Free,,,,,2026-10-22
+2836,,,4,28,Carbonates; peroxocarbonates (percarbonates); commercial ammonium carbonate containing ammonium carbamate.,,,,,,2026-10-22
+283620,283620,Carbonates; disodium carbonate,6,28,Disodium carbonate,,,,,,2026-10-22
+28362010,283620,Carbonates; disodium carbonate,8,28,"Disodium carbonate, dense",Free,-,,23/2025-26,2025-01-30,2026-10-22
+28362020,283620,Carbonates; disodium carbonate,8,28,"Disodium carbonate, light",Free,-,,23/2025-26,2025-01-30,2026-10-22
+28362090,283620,Carbonates; disodium carbonate,8,28,Other,Free,-,,23/2025-26,2025-01-30,2026-10-22
+28363000,283630,Carbonates; sodium hydrogen carbonate (sodium bicarbonate),8,28,Sodium hydrogencarbonate (sodium bicarbonate),Free,,,,,2026-10-22
+28364000,283640,Carbonates; potassium carbonate,8,28,Potassium carbonates,Free,,,,,2026-10-22
+28365000,283650,Carbonates; calcium carbonate,8,28,Calcium carbonate,Free,,,,,2026-10-22
+28366000,283660,Carbonates; barium carbonate,8,28,Barium carbonate,Free,,,,,2026-10-22
+28369100,283691,Carbonates; lithium carbonate,8,28,Other : -- Lithium carbonates,Free,,,,,2026-10-22
+28369200,283692,Carbonates; strontium carbonate,8,28,Other : -- Strontium carbonate,Free,,,,,2026-10-22
+283699,283699,Carbonates; n.e.c. in heading no. 2836 and other than lithium or strontium,6,28,Other : -- Other,,,,,,2026-10-22
+28369910,283699,Carbonates; n.e.c. in heading no. 2836 and other than lithium or strontium,8,28,Percarbonates,Free,,,,,2026-10-22
+28369920,283699,Carbonates; n.e.c. in heading no. 2836 and other than lithium or strontium,8,28,Magnesium carbonate,Free,,,,,2026-10-22
+28369930,283699,Carbonates; n.e.c. in heading no. 2836 and other than lithium or strontium,8,28,Aluminium bicarbonate,Free,,,,,2026-10-22
+28369990,283699,Carbonates; n.e.c. in heading no. 2836 and other than lithium or strontium,8,28,Other,Free,,,,,2026-10-22
+2837,,,4,28,"Cyanides, cyanide oxides and complex cyanides.",,,,,,2026-10-22
+28371100,283711,Cyanides and cyanide oxides; of sodium,8,28,Cyanides and cyanide oxides : -- Of sodium,Free,,,,,2026-10-22
+283719,283719,Cyanides and cyanide oxides; other than of sodium,6,28,Cyanides and cyanide oxides : -- Other,,,,,,2026-10-22
+28371910,283719,Cyanides and cyanide oxides; other than of sodium,8,28,Potassium cyanide,Free,,,,,2026-10-22
+28371920,283719,Cyanides and cyanide oxides; other than of sodium,8,28,Double cyanide of potassium and sodium,Free,,,,,2026-10-22
+28371990,283719,Cyanides and cyanide oxides; other than of sodium,8,28,Other,Free,,,,,2026-10-22
+283720,283720,Complex cyanides,6,28,Complex cyanides,,,,,,2026-10-22
+28372010,283720,Complex cyanides,8,28,Ammonium sulphocyanide,Free,,,,,2026-10-22
+28372020,283720,Complex cyanides,8,28,Potassium ferricyanide,Free,,,,,2026-10-22
+28372030,283720,Complex cyanides,8,28,Potassium ferrocyanide,Free,,,,,2026-10-22
+28372040,283720,Complex cyanides,8,28,Sodium ferrocyanide,Free,,,,,2026-10-22
+28372050,283720,Complex cyanides,8,28,Sodium nitroprusside (sodium nitroferricyanide),Free,,,,,2026-10-22
+28372090,283720,Complex cyanides,8,28,Other,Free,,,,,2026-10-22
+2839,,,4,28,Silicates; commercial alkali metal silicates.,,,,,,2026-10-22
+28391100,283911,Silicates; sodium metasilicates,8,28,Of sodium : -- Sodium metasilicates,Free,,,,,2026-10-22
+28391900,283919,Silicates; of sodium (excluding sodium metasilicates),8,28,Of sodium : -- Other,Free,,,,,2026-10-22
+283990,283990,"Silicates; commercial alkali metal silicates, other than of sodium",6,28,Other,,,,,,2026-10-22
+28399010,283990,"Silicates; commercial alkali metal silicates, other than of sodium",8,28,Magnesium trisilicate,Free,,,,,2026-10-22
+28399090,283990,"Silicates; commercial alkali metal silicates, other than of sodium",8,28,Other,Free,,,,,2026-10-22
+2840,,,4,28,Borates; peroxoborates (perborates).,,,,,,2026-10-22
+28401100,284011,"Borates; disodium tetraborate (refined borax), anhydrous",8,28,Disodium tetraborate (refined borax) : -- Anhydrous,Free,,,,,2026-10-22
+28401900,284019,"Borates; disodium tetraborate (refined borax), other than anhydrous",8,28,Disodium tetraborate (refined borax) : -- Other,Free,,,,,2026-10-22
+284020,284020,Borates; n.e.c. in heading no. 2840,6,28,Other borates,,,,,,2026-10-22
+28402010,284020,Borates; n.e.c. in heading no. 2840,8,28,Magnesium borates,Free,,,,,2026-10-22
+28402090,284020,Borates; n.e.c. in heading no. 2840,8,28,Other,Free,,,,,2026-10-22
+28403000,284030,Peroxoborates (perborates),8,28,Peroxoborates (perborates),Free,,,,,2026-10-22
+2841,,,4,28,Salts of oxometallic or peroxometallic acids.,,,,,,2026-10-22
+28413000,284130,Salts; sodium dichromate,8,28,Sodium dichromate,Free,,,,,2026-10-22
+284150,284150,"Salts; chromates, dichromates, peroxochromates; n.e.c. in heading no. 2841",6,28,Other chromates and dichromates; peroxochromates,,,,,,2026-10-22
+28415010,284150,"Salts; chromates, dichromates, peroxochromates; n.e.c. in heading no. 2841",8,28,Sodium chromate,Free,,,,,2026-10-22
+28415090,284150,"Salts; chromates, dichromates, peroxochromates; n.e.c. in heading no. 2841",8,28,Other,Free,,,,,2026-10-22
+28416100,284161,"Salts; of oxometallic or peroxometallic acids, manganites, manganates and permanganates, potassium permanganate",8,28,"Manganites, manganates and permanganates : -- Potassium permanganate",Free,"A NOC from Narcotics Commissioner of India, Gwalior.",,,,2026-10-22
+28416900,284169,"Salts; of oxometallic or peroxometallic acids, manganites, manganates and permanganates, other than potassium permanganate",8,28,"Manganites, manganates and permanganates : -- Other",Free,,,,,2026-10-22
+284170,284170,Salts; molybdates,6,28,Molybdates,,,,,,2026-10-22
+28417010,284170,Salts; molybdates,8,28,Aluminium molybdate,Free,,,,,2026-10-22
+28417020,284170,Salts; molybdates,8,28,Sodium molybdate,Free,,,,,2026-10-22
+28417090,284170,Salts; molybdates,8,28,Other,Free,,,,,2026-10-22
+284180,284180,Salts; tungstates (wolframates),6,28,Tungstates (wolframates),,,,,,2026-10-22
+28418010,284180,Salts; tungstates (wolframates),8,28,Sodium tungstate,Free,,,,,2026-10-22
+28418020,284180,Salts; tungstates (wolframates),8,28,Magnesium tungstate,Free,,,,,2026-10-22
+28418090,284180,Salts; tungstates (wolframates),8,28,Other,Free,,,,,2026-10-22
+284190,284190,Salts of oxometallic or peroxometallic acids; n.e.c. in heading no. 2841,6,28,Other,,,,,,2026-10-22
+28419010,284190,Salts of oxometallic or peroxometallic acids; n.e.c. in heading no. 2841,8,28,--- Ammonium metavanadate,Free,,,24/2026-27,2026-07-22,2026-10-22
+28419090,284190,Salts of oxometallic or peroxometallic acids; n.e.c. in heading no. 2841,8,28,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+2842,,,4,28,"Other salts of inorganic acids or peroxoacids (including aluminosilicates whether or not chemically defined), other than azides.",,,,,,2026-10-22
+28421000,284210,"Salts of inorganic acids or peroxoacids, double or complex silicates, including aluminosilicates, whether or not chemically defined, excluding azides",8,28,"Double or complex silicates, including aluminosilicates whether or not chemically defined",Free,,,,,2026-10-22
+284290,284290,"Salts; of inorganic acids or peroxoacids, other than double or complex silicates, including aluminosilicates, whether or not chemically, excluding azides",6,28,Other,,,,,,2026-10-22
+28429010,284290,"Salts; of inorganic acids or peroxoacids, other than double or complex silicates, including aluminosilicates, whether or not chemically, excluding azides",8,28,Arsenites and arsenates,Free,,,,,2026-10-22
+28429020,284290,"Salts; of inorganic acids or peroxoacids, other than double or complex silicates, including aluminosilicates, whether or not chemically, excluding azides",8,28,Bichromates and dichromates,Free,,,,,2026-10-22
+28429090,284290,"Salts; of inorganic acids or peroxoacids, other than double or complex silicates, including aluminosilicates, whether or not chemically, excluding azides",8,28,Other,Free,,,,,2026-10-22
+2843,,,4,28,"Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not chemically defined; amalgams of precious metals.",,,,,,2026-10-22
+284310,284310,Colloidal precious metals; whether or not chemically defined,6,28,Colloidal precious metals,,,,,,2026-10-22
+28431010,284310,Colloidal precious metals; whether or not chemically defined,8,28,Of gold,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
+28431020,284310,Colloidal precious metals; whether or not chemically defined,8,28,Of silver,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
+28431090,284310,Colloidal precious metals; whether or not chemically defined,8,28,Other,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
+28432100,284321,Silver compounds; silver nitrates,8,28,Silver compounds : -- Silver nitrate,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
+28432900,284329,Silver compounds; excluding silver nitrates,8,28,Silver compounds : -- Other,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
+28433000,284330,Gold compounds,8,28,Gold compounds,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
+284390,284390,"Inorganic or organic compounds of precious metals, n.e.c.; amalgams",6,28,Other compounds; amalgams,,,,,,2026-10-22
+28439011,284390,"Inorganic or organic compounds of precious metals, n.e.c.; amalgams",8,28,Other compounds: ---- Sodium aurous thiosulphate,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
+28439012,284390,"Inorganic or organic compounds of precious metals, n.e.c.; amalgams",8,28,"Other compounds: ---- Noble metal solutions of platinum, kg. 10% - rhodium and palladium",Restricted,-,,19/2025-26,2025-06-17,2026-10-22
+28439019,284390,"Inorganic or organic compounds of precious metals, n.e.c.; amalgams",8,28,Other compounds: ---- Other,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
+28439020,284390,"Inorganic or organic compounds of precious metals, n.e.c.; amalgams",8,28,Amalgams,Restricted,-,,19/2025-26,2025-06-17,2026-10-22
+2844,,,4,28,Radioactive chemical elements and radioactive isotopes (including the fissile or fertile chemical elements and isotopes) and their compounds; mixtures and residues containing these products.,,,,,,2026-10-22
+28441000,284410,"Uranium; natural uranium and its compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing natural uranium or natural uranium compounds",8,28,"Natural uranium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing natural uranium or natural uranium compounds",Restricted,"Import subject to Atomic Energy Act, 1962 and Rules thereunder. (as amended from time to time) (Policy Condition 1)",1,,,2026-10-22
+28442000,284420,"Uranium; enriched in U235, plutonium, their compounds, alloys dispersions (including cermets), ceramic products and mixtures containing uranium enriched in U235, plutonium or compounds of these products",8,28,"Uranium enriched in U 235 and its compounds; plutonium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing uranium enriched in U 235, plutonium or compounds of these products",Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+284430,284430,"Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",6,28,"Uranium depleted in U 235 and its compounds; thorium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U 235, thorium or compounds of these products",,,,,,2026-10-22
+28443010,284430,"Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",8,28,"Uranium depleted in U235 and or thorium and their alloys, unwrought or wrought and compounds thereof Compounds of thorium or of uranium depleted in U235:",Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+28443021,284430,"Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",8,28,Thorium oxide,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+28443022,284430,"Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",8,28,Thorium hydroxide,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+28443023,284430,"Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",8,28,Thorium nitrate,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+28443029,284430,"Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",8,28,Other,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+28443030,284430,"Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",8,28,Waste and scrap of uranium depleted in U235 or of thorium,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+28443090,284430,"Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",8,28,Other,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+28444100,284441,"Radioactive elements; tritium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing tritium or its compounds",8,28,"Radioactive elements and isotopes and compounds other than those of sub-headings2844 10, 2844 20 or 2844 30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues: -- Tritium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing tritium or its compounds",Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder. However, import of Radioimmunoassay kits intended for the diagnosis of disease or disorders in human beings or animals is Free subject to prior permission of AERB.",,54/2015-2020,2022-02-09,2026-10-22
+28444200,284442,"Radioactive elements; actinium-225, 227, californium-253, curium-240, 241, 242, 243, 244, einsteinium-253, 254, gadolinium-148, polonium-208, 209, 210, radium-223, uranium-230 or 232, compounds; alloys, dispersions, ceramic products and mixtures",8,28,"Actinium-225, actinium-227, californium-253, curium-240, curium-241, curium-242, curium-243, curium-244, einsteinium-253, einsteinium-254, gadolinium-148, polonium208, polonium-209, polonium-210, radium-223, uranium-230 or uranium-232, and their compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements or compounds",Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder. However, import of Radioimmunoassay kits intended for the diagnosis of disease or disorders in human beings or animals is Free subject to prior permission of AERB.",,54/2015-2020,2022-02-09,2026-10-22
+28444300,284443,"Radioactive elements, isotopes and compounds; other alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds",8,28,"Radioactive elements and isotopes and compounds other than those of sub-headings2844 10, 2844 20 or 2844 30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues: -- Other radioactive elements and isotopes and compounds; other alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes",Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder. However, import of Radioimmunoassay kits intended for the diagnosis of disease or disorders in human beings or animals is Free subject to prior permission of AERB.",,54/2015-2020,2022-02-09,2026-10-22
+28444400,284444,"Radioactive elements, isotopes, compounds n.e.c. in heading no. 2844, alloys, dispersions (including cermets), ceramic products, mixtures containing the elements, isotopes, compounds; radioactive residues",8,28,"""Radioactive elements and isotopes and compounds other than those of sub-headings2844 10, 2844 20 or 2844 30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues: -- Radioactive residues",Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder. However, import of Radioimmunoassay kits intended for the diagnosis of disease or disorders in human beings or animals is Free subject to prior permission of AERB.",,54/2015-2020,2022-02-09,2026-10-22
+28445000,284450,Spent (irradiated) fuel elements (cartridges) of nuclear reactors,8,28,Spent (irradiated) fuel elements (cartridges) of nuclear reactors,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+2845,,,4,28,"Isotopes other than those of heading 28.44; compounds, inorganic or organic, of such isotopes, whether or not chemically defined.",,,,,,2026-10-22
+28451000,284510,Heavy water (deuterium oxide),8,28,Heavy water (deuterium oxide),Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+28452000,284520,Boron enriched in boron-10 and its compounds,8,28,Boron enriched in boron-10 and its compounds,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules there under.",,54/2015-2020,2022-02-09,2026-10-22
+28453000,284530,Lithium enriched in lithium-6 and its compounds,8,28,Lithium enriched in lithium-6 and its compounds,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules there under.",,54/2015-2020,2022-02-09,2026-10-22
+28454000,284540,Helium-3,8,28,Helium-3,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules there under.",,54/2015-2020,2022-02-09,2026-10-22
+284590,284590,"Isotopes other than those of heading no. 2844, 2845.20, 2845.30 or 2845.40; compounds, inorganic or organic, of such isotopes, whether or not chemically defined",6,28,Other,,,,,,2026-10-22
+28459010,284590,"Isotopes other than those of heading no. 2844, 2845.20, 2845.30 or 2845.40; compounds, inorganic or organic, of such isotopes, whether or not chemically defined",8,28,Nuclear fuels not elsewhere included or specified,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+28459090,284590,"Isotopes other than those of heading no. 2844, 2845.20, 2845.30 or 2845.40; compounds, inorganic or organic, of such isotopes, whether or not chemically defined",8,28,Other,Restricted,"Import subject to Atomic Energy Act, 1962 (as amended from time to time) and Rules thereunder.",,,,2026-10-22
+2846,,,4,28,"Compounds, inorganic or organic, of rare-earth metals, of yttrium or of scandium or of mixtures of these metals.",,,,,,2026-10-22
+284610,284610,Cerium compounds,6,28,Cerium compounds,,,,,,2026-10-22
+28461010,284610,Cerium compounds,8,28,Cerium oxides,Free,,,,,2026-10-22
+28461090,284610,Cerium compounds,8,28,Other,Free,,,,,2026-10-22
+284690,284690,"Compounds, inorganic or organic (excluding cerium), of rare-earth metals, of yttrium, scandium or of mixtures of these metals",6,28,Other,,,,,,2026-10-22
+28469010,284690,"Compounds, inorganic or organic (excluding cerium), of rare-earth metals, of yttrium, scandium or of mixtures of these metals",8,28,Rare earth oxides not elsewhere included or specified,Free,,,,,2026-10-22
+28469020,284690,"Compounds, inorganic or organic (excluding cerium), of rare-earth metals, of yttrium, scandium or of mixtures of these metals",8,28,Rare earth fluorides not elsewhere included or specified,Free,,,,,2026-10-22
+28469030,284690,"Compounds, inorganic or organic (excluding cerium), of rare-earth metals, of yttrium, scandium or of mixtures of these metals",8,28,Rare earth chlorides not elsewhere included or specified,Free,,,,,2026-10-22
+28469090,284690,"Compounds, inorganic or organic (excluding cerium), of rare-earth metals, of yttrium, scandium or of mixtures of these metals",8,28,Other,Free,,,,,2026-10-22
+28470000,284700,Hydrogen peroxide; whether or not solidified with urea,8,28,"Hydrogen peroxide, whether or not solidified with urea",Free,,,,,2026-10-22
+2849,,,4,28,"Carbides, whether or not chemically defined.",,,,,,2026-10-22
+28491000,284910,"Carbides; of calcium, whether or not chemically defined",8,28,Of calcium,Free,,,,,2026-10-22
+284920,284920,"Carbides; of silicon, whether or not chemically defined",6,28,Of silicon,,,,,,2026-10-22
+28492010,284920,"Carbides; of silicon, whether or not chemically defined",8,28,Carborandum,Free,,,,,2026-10-22
+28492090,284920,"Carbides; of silicon, whether or not chemically defined",8,28,Other,Free,,,,,2026-10-22
+284990,284990,"Carbides; whether or not chemically defined, other than of calcium or silicon",6,28,Other,,,,,,2026-10-22
+28499010,284990,"Carbides; whether or not chemically defined, other than of calcium or silicon",8,28,Boron carbide,Free,,,,,2026-10-22
+28499020,284990,"Carbides; whether or not chemically defined, other than of calcium or silicon",8,28,Tungsten carbide,Free,,,,,2026-10-22
+28499090,284990,"Carbides; whether or not chemically defined, other than of calcium or silicon",8,28,Other,Free,,,,,2026-10-22
+2850,,,4,28,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 28.49.",,,,,,2026-10-22
+285000,285000,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",6,28,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 2849:",,,,,,2026-10-22
+28500010,285000,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",8,28,Hydrides,Free,,,,,2026-10-22
+28500020,285000,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",8,28,Nitrides,Free,,,,,2026-10-22
+28500030,285000,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",8,28,Azides,Free,,,,,2026-10-22
+28500041,285000,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",8,28,Silicides: ---- Of calcium,Free,,,,,2026-10-22
+28500049,285000,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",8,28,Silicides: ---- Other,Free,,,,,2026-10-22
+28500050,285000,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",8,28,Borides,Free,,,,,2026-10-22
+2852,,,4,28,"Inorganic or organic compounds of mercury, whether or not chemically defined, excluding amalgams.",,,,,,2026-10-22
+28521000,285210,"Inorganic or organic compounds of mercury, excluding amalgams, chemically defined",8,28,Chemically defined,Free,,,,,2026-10-22
+28529000,285290,"Inorganic or organic compounds of mercury; excluding amalgams, not chemically defined,",8,28,Other,Free,,,,,2026-10-22
+2853,,,4,28,"Phosphides, whether or not chemically defined, excluding ferrophosphorus; other inorganic compounds (including distilled or conductivity water and water of similar purity); liquid air (whether or not rare gases have been removed); compressed air; amalgams, other than amalgams of precious metals.",,,,,,2026-10-22
+28531000,285310,Inorganic compounds; cyanogen chloride (chlorcyan),8,28,Cyanogen chloride (chlorcyan),Free,,,,,2026-10-22
+285390,285390,"Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",6,28,Other,,,,,,2026-10-22
+28539010,285390,"Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",8,28,Distilled or conductivity water and water of similar purity,Free,,,,,2026-10-22
+28539020,285390,"Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",8,28,"Liquid air, whether or not rare gases have been removed",Free,,,,,2026-10-22
+28539030,285390,"Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",8,28,Compressed air,Free,,,,,2026-10-22
+28539040,285390,"Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",8,28,"Amalgams, other than of precious metals",Free,,,,,2026-10-22
+28539050,285390,"Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",8,28,"Magnesium phosphide plates, zinc phosphide",Free,"The import of the pesticides will be subject to a Certificate of Registration issued by Central Insecticides Board Registration Committee (CIB&RC) under Ministry of Agriculture & Farmers Welfare and also non-prohibition for import under Insecticides Act, 1968.",,44/2025-26,2025-10-15,2026-10-22
+28539090,285390,"Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",8,28,Other,Free,,,,,2026-10-22

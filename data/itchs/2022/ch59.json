@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "5901",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "59",
    "description": "Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "590110",
+   "hs6": "590110",
+   "hs6_description": "Textile fabrics; coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like",
    "level": 6,
    "chapter": "59",
    "description": "Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "59011010",
+   "hs6": "590110",
+   "hs6_description": "Textile fabrics; coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like",
    "level": 8,
    "chapter": "59",
    "description": "Of cotton",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "59011020",
+   "hs6": "590110",
+   "hs6_description": "Textile fabrics; coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like",
    "level": 8,
    "chapter": "59",
    "description": "Prepared painting canvas",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "59011090",
+   "hs6": "590110",
+   "hs6_description": "Textile fabrics; coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "590190",
+   "hs6": "590190",
+   "hs6_description": "Textile fabrics; coated with gum or amylaceous substances, tracing cloth, prepared painting canvas, buckram and similar stiffened textile fabrics for hat foundations, (excluding book covers)",
    "level": 6,
    "chapter": "59",
    "description": "Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "59019010",
+   "hs6": "590190",
+   "hs6_description": "Textile fabrics; coated with gum or amylaceous substances, tracing cloth, prepared painting canvas, buckram and similar stiffened textile fabrics for hat foundations, (excluding book covers)",
    "level": 8,
    "chapter": "59",
    "description": "Tracing cloth of cotton",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "59019020",
+   "hs6": "590190",
+   "hs6_description": "Textile fabrics; coated with gum or amylaceous substances, tracing cloth, prepared painting canvas, buckram and similar stiffened textile fabrics for hat foundations, (excluding book covers)",
    "level": 8,
    "chapter": "59",
    "description": "Varnished cambric fabrics (Empire fabrics) tapes",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "59019090",
+   "hs6": "590190",
+   "hs6_description": "Textile fabrics; coated with gum or amylaceous substances, tracing cloth, prepared painting canvas, buckram and similar stiffened textile fabrics for hat foundations, (excluding book covers)",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "5902",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "59",
    "description": "Tyre cord fabric of high tenacity yarn of nylon or other polyamides, polyesters or viscose rayon.",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "590210",
+   "hs6": "590210",
+   "hs6_description": "Textile fabrics; tyrecord of high tenacity yarn of nylon or other polyamides",
    "level": 6,
    "chapter": "59",
    "description": "Of nylon or other polyamides",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "59021010",
+   "hs6": "590210",
+   "hs6_description": "Textile fabrics; tyrecord of high tenacity yarn of nylon or other polyamides",
    "level": 8,
    "chapter": "59",
    "description": "Impregnated with rubber",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "59021090",
+   "hs6": "590210",
+   "hs6_description": "Textile fabrics; tyrecord of high tenacity yarn of nylon or other polyamides",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "590220",
+   "hs6": "590220",
+   "hs6_description": "Textile fabrics; tyrecord of high tenacity yarn of polyester",
    "level": 6,
    "chapter": "59",
    "description": "Of polyesters",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "59022010",
+   "hs6": "590220",
+   "hs6_description": "Textile fabrics; tyrecord of high tenacity yarn of polyester",
    "level": 8,
    "chapter": "59",
    "description": "Impregnated with rubber",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "59022090",
+   "hs6": "590220",
+   "hs6_description": "Textile fabrics; tyrecord of high tenacity yarn of polyester",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "590290",
+   "hs6": "590290",
+   "hs6_description": "Textile fabrics; tyrecord of high tenacity yarn of viscose rayon",
    "level": 6,
    "chapter": "59",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "59029010",
+   "hs6": "590290",
+   "hs6_description": "Textile fabrics; tyrecord of high tenacity yarn of viscose rayon",
    "level": 8,
    "chapter": "59",
    "description": "Impregnated with rubber",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "59029090",
+   "hs6": "590290",
+   "hs6_description": "Textile fabrics; tyrecord of high tenacity yarn of viscose rayon",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "5903",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "59",
    "description": "Textile fabrics impregnated, coated, covered or laminated with plastics, other than those of heading 59.02.",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "590310",
+   "hs6": "590310",
+   "hs6_description": "Textile fabrics; impregnated, coated, covered or laminated with poly(vinyl chloride)",
    "level": 6,
    "chapter": "59",
    "description": "With poly(vinyl chloride)",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "59031010",
+   "hs6": "590310",
+   "hs6_description": "Textile fabrics; impregnated, coated, covered or laminated with poly(vinyl chloride)",
    "level": 8,
    "chapter": "59",
    "description": "Imitation leather fabrics of cotton",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "59031090",
+   "hs6": "590310",
+   "hs6_description": "Textile fabrics; impregnated, coated, covered or laminated with poly(vinyl chloride)",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "590320",
+   "hs6": "590320",
+   "hs6_description": "Textile fabrics; impregnated, coated, covered or laminated with polyurethane",
    "level": 6,
    "chapter": "59",
    "description": "With polyurethane",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "59032010",
+   "hs6": "590320",
+   "hs6_description": "Textile fabrics; impregnated, coated, covered or laminated with polyurethane",
    "level": 8,
    "chapter": "59",
    "description": "Imitation leather fabrics, of cotton",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "59032090",
+   "hs6": "590320",
+   "hs6_description": "Textile fabrics; impregnated, coated, covered or laminated with polyurethane",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "590390",
+   "hs6": "590390",
+   "hs6_description": "Textile fabrics; impregnated, coated, covered or laminated with plastics, (excluding polyvinyl chloride, polyurethane and those of heading no. 5902)",
    "level": 6,
    "chapter": "59",
    "description": "Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "59039010",
+   "hs6": "590390",
+   "hs6_description": "Textile fabrics; impregnated, coated, covered or laminated with plastics, (excluding polyvinyl chloride, polyurethane and those of heading no. 5902)",
    "level": 8,
    "chapter": "59",
    "description": "Of cotton",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "59039020",
+   "hs6": "590390",
+   "hs6_description": "Textile fabrics; impregnated, coated, covered or laminated with plastics, (excluding polyvinyl chloride, polyurethane and those of heading no. 5902)",
    "level": 8,
    "chapter": "59",
    "description": "Polyethylene laminated jute fabrics",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "59039090",
+   "hs6": "590390",
+   "hs6_description": "Textile fabrics; impregnated, coated, covered or laminated with plastics, (excluding polyvinyl chloride, polyurethane and those of heading no. 5902)",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "5904",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "59",
    "description": "Linoleum, whether or not cut to shape; floor coverings consisting of a coating or covering applied on a textile backing, whether or not cut to shape.",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "59041000",
+   "hs6": "590410",
+   "hs6_description": "Linoleum, whether or not cut to shape",
    "level": 8,
    "chapter": "59",
    "description": "Linoleum",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "590490",
+   "hs6": "590490",
+   "hs6_description": "Textiles floor coverings; consisting of a coating or covering applied on a textile backing, whether or not cut to shape, other than linoleum",
    "level": 6,
    "chapter": "59",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "59049010",
+   "hs6": "590490",
+   "hs6_description": "Textiles floor coverings; consisting of a coating or covering applied on a textile backing, whether or not cut to shape, other than linoleum",
    "level": 8,
    "chapter": "59",
    "description": "Floor coverings with jute base",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "59049090",
+   "hs6": "590490",
+   "hs6_description": "Textiles floor coverings; consisting of a coating or covering applied on a textile backing, whether or not cut to shape, other than linoleum",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "5905",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "59",
    "description": "Textile wall coverings.",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "590500",
+   "hs6": "590500",
+   "hs6_description": "Textile wall coverings of fabrics impregnated, coated, covered or laminated",
    "level": 6,
    "chapter": "59",
    "description": "Textile wall coverings :",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "59050010",
+   "hs6": "590500",
+   "hs6_description": "Textile wall coverings of fabrics impregnated, coated, covered or laminated",
    "level": 8,
    "chapter": "59",
    "description": "Fixed on the backing of any material",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "59050090",
+   "hs6": "590500",
+   "hs6_description": "Textile wall coverings of fabrics impregnated, coated, covered or laminated",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "5906",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "59",
    "description": "Rubberised textile fabrics, other than those of heading 59.02.",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "59061000",
+   "hs6": "590610",
+   "hs6_description": "Textile fabrics, rubberised; (excluding those of heading no. 5902), adhesive tape of a width not exceeding 20cm",
    "level": 8,
    "chapter": "59",
    "description": "Adhesive tape of a width not exceeding 20 cm",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "590691",
+   "hs6": "590691",
+   "hs6_description": "Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), knitted or crocheted",
    "level": 6,
    "chapter": "59",
    "description": "Other : -- Knitted or crocheted",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "59069110",
+   "hs6": "590691",
+   "hs6_description": "Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), knitted or crocheted",
    "level": 8,
    "chapter": "59",
    "description": "Of cotton",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "59069190",
+   "hs6": "590691",
+   "hs6_description": "Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), knitted or crocheted",
    "level": 8,
    "chapter": "59",
    "description": "Of other textile materials",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "590699",
+   "hs6": "590699",
+   "hs6_description": "Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), not knitted or crocheted",
    "level": 6,
    "chapter": "59",
    "description": "Other : -- Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "59069910",
+   "hs6": "590699",
+   "hs6_description": "Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), not knitted or crocheted",
    "level": 8,
    "chapter": "59",
    "description": "Insulating tape, electrical of cotton",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "59069920",
+   "hs6": "590699",
+   "hs6_description": "Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), not knitted or crocheted",
    "level": 8,
    "chapter": "59",
    "description": "Rubberised cotton fabrics, other than knitted or crocheted",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "59069990",
+   "hs6": "590699",
+   "hs6_description": "Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), not knitted or crocheted",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "5907",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "59",
    "description": "Textile fabrics otherwise impregnated, coated or covered; painted canvas being theatrical scenery, studio back-cloths or the like.",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "590700",
+   "hs6": "590700",
+   "hs6_description": "Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",
    "level": 6,
    "chapter": "59",
    "description": "Textile fabrics otherwise impregnated, coated or covered; painted canvas being theatrical scenery, studio back-cloths or the like.",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "59070011",
+   "hs6": "590700",
+   "hs6_description": "Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",
    "level": 8,
    "chapter": "59",
    "description": "Fabrics covered partially or fully with textile flocks, or with preparation containing textile flocks: ---- On the base fabrics of cotton",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "59070012",
+   "hs6": "590700",
+   "hs6_description": "Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",
    "level": 8,
    "chapter": "59",
    "description": "Fabrics covered partially or fully with textile flocks, or with preparation containing textile flocks: ---- On the base fabrics of man-made textile material",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "59070019",
+   "hs6": "590700",
+   "hs6_description": "Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",
    "level": 8,
    "chapter": "59",
    "description": "Fabrics covered partially or fully with textile flocks, or with preparation containing textile flocks: ---- Other",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "59070091",
+   "hs6": "590700",
+   "hs6_description": "Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",
    "level": 8,
    "chapter": "59",
    "description": "Other: ---- Cotton fabrics coated or impregnated with oil or preparations with basis of drying oil",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "59070092",
+   "hs6": "590700",
+   "hs6_description": "Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",
    "level": 8,
    "chapter": "59",
    "description": "Other: ---- Other textile fabrics coated or impregnated with oil or oil preparations",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "59070093",
+   "hs6": "590700",
+   "hs6_description": "Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",
    "level": 8,
    "chapter": "59",
    "description": "Other: ---- Jute fabrics otherwise impregnated or coated,",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "59070099",
+   "hs6": "590700",
+   "hs6_description": "Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",
    "level": 8,
    "chapter": "59",
    "description": "Other: ---- Other",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "5908",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "59",
    "description": "Textile wicks, woven, plaited or knitted , for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated.",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "590800",
+   "hs6": "590800",
+   "hs6_description": "Textile wicks, woven, plaited or knitted; for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated",
    "level": 6,
    "chapter": "59",
    "description": "Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated :",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "59080010",
+   "hs6": "590800",
+   "hs6_description": "Textile wicks, woven, plaited or knitted; for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated",
    "level": 8,
    "chapter": "59",
    "description": "Wicks and gas mantle fabrics, of cotton",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "59080020",
+   "hs6": "590800",
+   "hs6_description": "Textile wicks, woven, plaited or knitted; for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated",
    "level": 8,
    "chapter": "59",
    "description": "Gas mantles of rayon",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "59080090",
+   "hs6": "590800",
+   "hs6_description": "Textile wicks, woven, plaited or knitted; for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "5909",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "59",
    "description": "Textile hosepiping and similar textile tubing, with or without lining, armour or accessories of other materials.",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "590900",
+   "hs6": "590900",
+   "hs6_description": "Textile hosepiping and similar textile tubing; with or without lining, armour or accessories of other materials",
    "level": 6,
    "chapter": "59",
    "description": "Textile hose piping and similar textile tubing, with or without lining, armour or accessories of other materials :",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "59090010",
+   "hs6": "590900",
+   "hs6_description": "Textile hosepiping and similar textile tubing; with or without lining, armour or accessories of other materials",
    "level": 8,
    "chapter": "59",
    "description": "Of cotton",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "59090020",
+   "hs6": "590900",
+   "hs6_description": "Textile hosepiping and similar textile tubing; with or without lining, armour or accessories of other materials",
    "level": 8,
    "chapter": "59",
    "description": "Of man-made fibre",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "59090090",
+   "hs6": "590900",
+   "hs6_description": "Textile hosepiping and similar textile tubing; with or without lining, armour or accessories of other materials",
    "level": 8,
    "chapter": "59",
    "description": "Of other textile materials",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "5910",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "59",
    "description": "Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material.",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "591000",
+   "hs6": "591000",
+   "hs6_description": "Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",
    "level": 6,
    "chapter": "59",
    "description": "Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material :",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "59100010",
+   "hs6": "591000",
+   "hs6_description": "Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",
    "level": 8,
    "chapter": "59",
    "description": "Cotton canvas ply belting",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "59100020",
+   "hs6": "591000",
+   "hs6_description": "Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",
    "level": 8,
    "chapter": "59",
    "description": "Rubberised cotton belting",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "59100030",
+   "hs6": "591000",
+   "hs6_description": "Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",
    "level": 8,
    "chapter": "59",
    "description": "Other transmission, conveyer or elevator belts or belting of cotton",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "59100040",
+   "hs6": "591000",
+   "hs6_description": "Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",
    "level": 8,
    "chapter": "59",
    "description": "Hair belting",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "59100050",
+   "hs6": "591000",
+   "hs6_description": "Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",
    "level": 8,
    "chapter": "59",
    "description": "Flax canvas ply belting",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "59100060",
+   "hs6": "591000",
+   "hs6_description": "Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",
    "level": 8,
    "chapter": "59",
    "description": "Fibre belt conveyor",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "59100090",
+   "hs6": "591000",
+   "hs6_description": "Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "5911",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "59",
    "description": "TEXTILE PRODUCTS AND ARTICLES, FOR TECHNICAL USES, SPECIFIED IN NOTE 8 TO THIS CHAPTER",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "59111000",
+   "hs6": "591110",
+   "hs6_description": "Textile fabric, felt & felt-lined woven fabrics, coated/covered/laminated with rubber, leather or other material, for card clothing, similar fabrics used for technical purposes, including rubber impregnated narrow velvet fabrics to cover weaving spindles",
    "level": 8,
    "chapter": "59",
    "description": "Textile products and articles, for technical uses, specified in Note 7 to this Chapter.",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "59112000",
+   "hs6": "591120",
+   "hs6_description": "Textile products and articles for technical uses; bolting cloth, whether or not made up",
    "level": 8,
    "chapter": "59",
    "description": "Bolting cloth, whether or not made up",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "591131",
+   "hs6": "591131",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",
    "level": 6,
    "chapter": "59",
    "description": "Textile fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines (for example, for pulp or asbestos-cement) : -- Weighing less than 650 g/m2",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "59113110",
+   "hs6": "591131",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",
    "level": 8,
    "chapter": "59",
    "description": "Felt for cotton textile industries, woven",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "59113120",
+   "hs6": "591131",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",
    "level": 8,
    "chapter": "59",
    "description": "Woven textiles felt, whether or not impregnated or coated, of a kind commonly used in other machines",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "59113130",
+   "hs6": "591131",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",
    "level": 8,
    "chapter": "59",
    "description": "Cotton fabrics and articles used in machinery and plant",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "59113140",
+   "hs6": "591131",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",
    "level": 8,
    "chapter": "59",
    "description": "Jute fabrics and articles used in machinery or plant",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "59113150",
+   "hs6": "591131",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",
    "level": 8,
    "chapter": "59",
    "description": "Textile fabrics of metalised yarn of a kind commonly used in paper making or other machinery",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "59113190",
+   "hs6": "591131",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "591132",
+   "hs6": "591132",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",
    "level": 6,
    "chapter": "59",
    "description": "Textile fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines (for example, for pulp or asbestos-cement) : -- Weighing 650 g/m2 or more",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "59113210",
+   "hs6": "591132",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",
    "level": 8,
    "chapter": "59",
    "description": "Felt for cotton textile industries, woven",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "59113220",
+   "hs6": "591132",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",
    "level": 8,
    "chapter": "59",
    "description": "Woven textiles felt, whether or not impregnated or coated, of a kind commonly used in other machines",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "59113230",
+   "hs6": "591132",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",
    "level": 8,
    "chapter": "59",
    "description": "Cotton fabrics and articles used in machinery and plant",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "59113240",
+   "hs6": "591132",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",
    "level": 8,
    "chapter": "59",
    "description": "Jute fabrics and articles used in machinery or plant",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "59113250",
+   "hs6": "591132",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",
    "level": 8,
    "chapter": "59",
    "description": "Textile fabrics of metalised yarn of a kind commonly used in paper making or other machinery",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "59113290",
+   "hs6": "591132",
+   "hs6_description": "Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",
    "level": 8,
    "chapter": "59",
    "description": "Other",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "59114000",
+   "hs6": "591140",
+   "hs6_description": "Textile products and articles for technical uses; straining cloth of a kind used in oil presses and the like, including that of human hair",
    "level": 8,
    "chapter": "59",
    "description": "Filtering or straining cloth of a kind used in oil presses or the like, including that of human hair",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "591190",
+   "hs6": "591190",
+   "hs6_description": "Textile products and articles for technical uses; n.e.c. in heading no. 5911",
    "level": 6,
    "chapter": "59",
    "description": "Other",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "59119010",
+   "hs6": "591190",
+   "hs6_description": "Textile products and articles for technical uses; n.e.c. in heading no. 5911",
    "level": 8,
    "chapter": "59",
    "description": "Paper makers felt, woven",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "59119020",
+   "hs6": "591190",
+   "hs6_description": "Textile products and articles for technical uses; n.e.c. in heading no. 5911",
    "level": 8,
    "chapter": "59",
    "description": "Gaskets, washers, polishing discs and other machinery parts of textile articles",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "59119031",
+   "hs6": "591190",
+   "hs6_description": "Textile products and articles for technical uses; n.e.c. in heading no. 5911",
    "level": 8,
    "chapter": "59",
    "description": "Knitted or woven Geo-technical textile:: ---- Geogrid conforming to IS 17373",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "59119032",
+   "hs6": "591190",
+   "hs6_description": "Textile products and articles for technical uses; n.e.c. in heading no. 5911",
    "level": 8,
    "chapter": "59",
    "description": "Knitted or woven Geo-technical textile:: ---- Geotextile conforming to IS 16391, IS 16392",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "59119039",
+   "hs6": "591190",
+   "hs6_description": "Textile products and articles for technical uses; n.e.c. in heading no. 5911",
    "level": 8,
    "chapter": "59",
    "description": "Knitted or woven Geo-technical textile:: ---- Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "59119040",
+   "hs6": "591190",
+   "hs6_description": "Textile products and articles for technical uses; n.e.c. in heading no. 5911",
    "level": 8,
    "chapter": "59",
    "description": "Knitted or woven Geo-technical textile:: ---- Mulch mats, conforming to IS 16202",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "59119090",
+   "hs6": "591190",
+   "hs6_description": "Textile products and articles for technical uses; n.e.c. in heading no. 5911",
    "level": 8,
    "chapter": "59",
    "description": "Other",

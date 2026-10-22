@@ -1,36 +1,36 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-9701,4,97,"PAINTINGS, DRAWINGS AND PASTELS, EXECUTED ENTIRELY BY HAND, OTHER THAN DRAWINGS OF HEADING 4906 AND OTHER THAN HAND-PAINTED OR HANDDECORATED MANUFACTURED ARTICLES; COLLAGES, MOSAICS AND SIMILAR DECORATIVE PLAQUES",,,,,,2026-10-22
-97012100,8,97,"Of an age exceeding 100 years: - - Paintings, drawings and pastels",Free,,,54/2015-2020,2022-02-09,2026-10-22
-97012200,8,97,Of an age exceeding 100 years: - - Mosaics,Free,,,54/2015-2020,2022-02-09,2026-10-22
-97012900,8,97,Of an age exceeding 100 years: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
-97019100,8,97,"Other: - - Paintings, drawings and pastels",Free,,,54/2015-2020,2022-02-09,2026-10-22
-97019200,8,97,Other: - - Mosaics,Free,,,54/2015-2020,2022-02-09,2026-10-22
-97019900,8,97,Other: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
-9702,4,97,"ORIGINAL ENGRAVINGS, PRINTS AND LITHOGRAPHS",,,,,,2026-10-22
-97021000,8,97,"Paintings, drawings and pastels",Free,,,54/2015-2020,2022-02-09,2026-10-22
-97029000,8,97,"Paintings, drawings and pastels",Free,,,54/2015-2020,2022-02-09,2026-10-22
-9703,4,97,"Original sculptures and statuary, in any material.",,,,,,2026-10-22
-970310,6,97,Of an age exceeding 100 years:,,,,,,2026-10-22
-97031010,8,97,Of metal,Free,,,54/2015-2020,2022-02-09,2026-10-22
-97031020,8,97,Of stone,Free,,,2015-2020,2022-02-09,2026-10-22
-97031090,8,97,Other,Free,,,2015-2020,2022-02-09,2026-10-22
-970390,6,97,Other:,,,,,,2026-10-22
-97039010,8,97,Of metal,Free,,,54/2015-2020,2022-02-09,2026-10-22
-97039020,8,97,Of stone,Free,,,54/2015-2020,2022-02-09,2026-10-22
-97039090,8,97,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
-9704,4,97,"Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 49.07.",,,,,,2026-10-22
-970400,6,97,"Postage or revenue stamps, stamp-post marks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 4907 :",,,,,,2026-10-22
-97040010,8,97,Used postal stamp,Free,,,,,2026-10-22
-97040020,8,97,Used or unused first-day covers for philatelists,Free,,,,,2026-10-22
-97040090,8,97,Other,Free,"Import of Philatelic accessories and Postage stamps, Unused, for use of philately (excluding Indian Postage Stamps) is free.",,,,2026-10-22
-9705,4,97,"COLLECTIONS AND COLLECTORS PIECES OF ARCHAEOLOGICAL, ETHNOGRAPHIC, HISTORICAL, ZOOLOGICAL, BOTANICAL, MINERALOGICAL, ANATOMICAL, PALEONTOLOGICAL, OR NUMISMATIC INTEREST",,,,,,2026-10-22
-97050090,8,97,Other,Restricted,"Allowed for import under saving clause 3(1) of Foreign Trade (Exemption from Application of Rules in Certain Cases) Order, 1993, read with Customs Notification 157 dated 28.03.1990.",,,,2026-10-22
-97051000,8,97,"Collections and collectors' pieces of archaeological, ethnographic or historical interest",Restricted,,,54/2015-2020,2022-02-09,2026-10-22
-97052100,8,97,Human specimens and parts thereof,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
-97052200,8,97,Extinct or endangered species and parts thereof,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
-97052900,8,97,Other,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
-97053100,8,97,Collections and collectors' pieces of numismatic interest: - - Of an age exceeding 100 years,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
-97053900,8,97,Collections and collectors' pieces of numismatic interest: - - Other,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
-9706,4,97,ANTIQUES OF AN AGE EXCEEDING 100 YEARS,,,,,,2026-10-22
-97061000,8,97,Of an age exceeding 250 years,Free,"The importer must abide by the laws/rules relating to export of such item, of the country from where imports are sought to be made",,54/2015-2020,2022-02-09,2026-10-22
-97069000,8,97,Other,Free,"The importer must abide by the laws/rules relating to export of such item, of the country from where imports are sought to be made",,54/2015-2020,2022-02-09,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+9701,,,4,97,"PAINTINGS, DRAWINGS AND PASTELS, EXECUTED ENTIRELY BY HAND, OTHER THAN DRAWINGS OF HEADING 4906 AND OTHER THAN HAND-PAINTED OR HANDDECORATED MANUFACTURED ARTICLES; COLLAGES, MOSAICS AND SIMILAR DECORATIVE PLAQUES",,,,,,2026-10-22
+97012100,970121,"Paintings, drawings and pastels; executed entirely by hand, other than drawings of heading no. 4906, of an age exceeding 100 years",8,97,"Of an age exceeding 100 years: - - Paintings, drawings and pastels",Free,,,54/2015-2020,2022-02-09,2026-10-22
+97012200,970122,"Mosaics; executed entirely by hand, other than drawings of heading no. 4906, of an age exceeding 100 years",8,97,Of an age exceeding 100 years: - - Mosaics,Free,,,54/2015-2020,2022-02-09,2026-10-22
+97012900,970129,"Artwork; other than paintings, drawings, pastels mosaics, executed entirely by hand, other than drawings of heading no. 4906, of an age exceeding 100 years",8,97,Of an age exceeding 100 years: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+97019100,970191,"Paintings, drawings and pastels; executed entirely by hand, other than drawings of heading no. 4906, of an age not exceeding 100 years",8,97,"Other: - - Paintings, drawings and pastels",Free,,,54/2015-2020,2022-02-09,2026-10-22
+97019200,970192,"Mosaics; executed entirely by hand, other than drawings of heading no. 4906, of an age not exceeding 100 years",8,97,Other: - - Mosaics,Free,,,54/2015-2020,2022-02-09,2026-10-22
+97019900,970199,"Artwork; other than paintings, drawings, pastels mosaics, executed entirely by hand, other than drawings of heading no. 4906, of an age not exceeding 100 years",8,97,Other: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+9702,,,4,97,"ORIGINAL ENGRAVINGS, PRINTS AND LITHOGRAPHS",,,,,,2026-10-22
+97021000,970210,"Engravings, prints and lithographs; original of an age exceeding 100 years",8,97,"Paintings, drawings and pastels",Free,,,54/2015-2020,2022-02-09,2026-10-22
+97029000,970290,"Engravings, prints and lithographs; original of an age not exceeding 100 years",8,97,"Paintings, drawings and pastels",Free,,,54/2015-2020,2022-02-09,2026-10-22
+9703,,,4,97,"Original sculptures and statuary, in any material.",,,,,,2026-10-22
+970310,970310,"Sculptures and statuary; original, in any material, of an age exceeding 100 years",6,97,Of an age exceeding 100 years:,,,,,,2026-10-22
+97031010,970310,"Sculptures and statuary; original, in any material, of an age exceeding 100 years",8,97,Of metal,Free,,,54/2015-2020,2022-02-09,2026-10-22
+97031020,970310,"Sculptures and statuary; original, in any material, of an age exceeding 100 years",8,97,Of stone,Free,,,2015-2020,2022-02-09,2026-10-22
+97031090,970310,"Sculptures and statuary; original, in any material, of an age exceeding 100 years",8,97,Other,Free,,,2015-2020,2022-02-09,2026-10-22
+970390,970390,"Sculptures and statuary; original, in any material, of an age not exceeding 100 years",6,97,Other:,,,,,,2026-10-22
+97039010,970390,"Sculptures and statuary; original, in any material, of an age not exceeding 100 years",8,97,Of metal,Free,,,54/2015-2020,2022-02-09,2026-10-22
+97039020,970390,"Sculptures and statuary; original, in any material, of an age not exceeding 100 years",8,97,Of stone,Free,,,54/2015-2020,2022-02-09,2026-10-22
+97039090,970390,"Sculptures and statuary; original, in any material, of an age not exceeding 100 years",8,97,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+9704,,,4,97,"Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 49.07.",,,,,,2026-10-22
+970400,970400,"Stamps, postage or revenue; stamp-postmarks, first-day covers, postal stationery (stamped paper) and like, used or unused, other than those of heading 4907",6,97,"Postage or revenue stamps, stamp-post marks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 4907 :",,,,,,2026-10-22
+97040010,970400,"Stamps, postage or revenue; stamp-postmarks, first-day covers, postal stationery (stamped paper) and like, used or unused, other than those of heading 4907",8,97,Used postal stamp,Free,,,,,2026-10-22
+97040020,970400,"Stamps, postage or revenue; stamp-postmarks, first-day covers, postal stationery (stamped paper) and like, used or unused, other than those of heading 4907",8,97,Used or unused first-day covers for philatelists,Free,,,,,2026-10-22
+97040090,970400,"Stamps, postage or revenue; stamp-postmarks, first-day covers, postal stationery (stamped paper) and like, used or unused, other than those of heading 4907",8,97,Other,Free,"Import of Philatelic accessories and Postage stamps, Unused, for use of philately (excluding Indian Postage Stamps) is free.",,,,2026-10-22
+9705,,,4,97,"COLLECTIONS AND COLLECTORS PIECES OF ARCHAEOLOGICAL, ETHNOGRAPHIC, HISTORICAL, ZOOLOGICAL, BOTANICAL, MINERALOGICAL, ANATOMICAL, PALEONTOLOGICAL, OR NUMISMATIC INTEREST",,,,,,2026-10-22
+97050090,970500,,8,97,Other,Restricted,"Allowed for import under saving clause 3(1) of Foreign Trade (Exemption from Application of Rules in Certain Cases) Order, 1993, read with Customs Notification 157 dated 28.03.1990.",,,,2026-10-22
+97051000,970510,"Collections and collectors' pieces; of archaeological, ethnographic or historical interest",8,97,"Collections and collectors' pieces of archaeological, ethnographic or historical interest",Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+97052100,970521,"Collections and collectors' pieces; of zoological, botanical, mineralogical, anatomical or palaeontological interest, human specimens and parts thereof",8,97,Human specimens and parts thereof,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+97052200,970522,"Collections and collectors' pieces; of zoological, botanical, mineralogical, anatomical or palaeontological interest, extinct or endangered species and parts thereof",8,97,Extinct or endangered species and parts thereof,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+97052900,970529,"Collections and collectors' pieces; of zoological, botanical, mineralogical, anatomical or palaeontological interest, other than human species, extinct or endangered species and parts thereof",8,97,Other,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+97053100,970531,"Collections and collectors' pieces; of numismatic interest, of an age exceeding 100 years",8,97,Collections and collectors' pieces of numismatic interest: - - Of an age exceeding 100 years,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+97053900,970539,"Collections and collectors' pieces; of numismatic interest, of an age not exceeding 100 years",8,97,Collections and collectors' pieces of numismatic interest: - - Other,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+9706,,,4,97,ANTIQUES OF AN AGE EXCEEDING 100 YEARS,,,,,,2026-10-22
+97061000,970610,Antiques; of an age exceeding 250 years,8,97,Of an age exceeding 250 years,Free,"The importer must abide by the laws/rules relating to export of such item, of the country from where imports are sought to be made",,54/2015-2020,2022-02-09,2026-10-22
+97069000,970690,Antiques; of an age exceeding 100 years but not exceeding 250 years,8,97,Other,Free,"The importer must abide by the laws/rules relating to export of such item, of the country from where imports are sought to be made",,54/2015-2020,2022-02-09,2026-10-22

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "4901",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "49",
    "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "490110",
+   "hs6": "490110",
+   "hs6_description": "Printed matter; in single sheets, whether or not folded",
    "level": 6,
    "chapter": "49",
    "description": "In single sheets, whether or not folded",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "49011010",
+   "hs6": "490110",
+   "hs6_description": "Printed matter; in single sheets, whether or not folded",
    "level": 8,
    "chapter": "49",
    "description": "Printed books",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "49011020",
+   "hs6": "490110",
+   "hs6_description": "Printed matter; in single sheets, whether or not folded",
    "level": 8,
    "chapter": "49",
    "description": "Pamphlets, booklets, brochures, leaflets and similar printed matter other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "49019100",
+   "hs6": "490191",
+   "hs6_description": "Printed matter; dictionaries, encyclopaedias and serial instalments thereof",
    "level": 8,
    "chapter": "49",
    "description": "Other : -- Dictionaries and encyclopaedias, and serial instalments thereof",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "49019900",
+   "hs6": "490199",
+   "hs6_description": "Printed matter; books, brochures, leaflets and similar printed matter n.e.c. in item no. 4901.10 or 4901.91",
    "level": 8,
    "chapter": "49",
    "description": "Other : -- Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "4902",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "49",
    "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material.",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "490210",
+   "hs6": "490210",
+   "hs6_description": "Newspapers, journals and periodicals; whether or not illustrated or containing advertising material, appearing at least four times a week",
    "level": 6,
    "chapter": "49",
    "description": "Appearing at least four times a week",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "49021010",
+   "hs6": "490210",
+   "hs6_description": "Newspapers, journals and periodicals; whether or not illustrated or containing advertising material, appearing at least four times a week",
    "level": 8,
    "chapter": "49",
    "description": "Newspapers",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "49021020",
+   "hs6": "490210",
+   "hs6_description": "Newspapers, journals and periodicals; whether or not illustrated or containing advertising material, appearing at least four times a week",
    "level": 8,
    "chapter": "49",
    "description": "Journals and periodicals",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "490290",
+   "hs6": "490290",
+   "hs6_description": "Newspapers, journals and periodicals; whether or not illustrated or containing advertising material, appearing less frequently than four times a week",
    "level": 6,
    "chapter": "49",
    "description": "Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "49029010",
+   "hs6": "490290",
+   "hs6_description": "Newspapers, journals and periodicals; whether or not illustrated or containing advertising material, appearing less frequently than four times a week",
    "level": 8,
    "chapter": "49",
    "description": "Newspapers",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "49029020",
+   "hs6": "490290",
+   "hs6_description": "Newspapers, journals and periodicals; whether or not illustrated or containing advertising material, appearing less frequently than four times a week",
    "level": 8,
    "chapter": "49",
    "description": "Journals and periodicals",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "4903",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "49",
    "description": "Childrens picture, drawing or colouring books.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "490300",
+   "hs6": "490300",
+   "hs6_description": "Printed matter; children's picture, drawing or colouring books",
    "level": 6,
    "chapter": "49",
    "description": "Children's picture, drawing or colouring books :",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "49030010",
+   "hs6": "490300",
+   "hs6_description": "Printed matter; children's picture, drawing or colouring books",
    "level": 8,
    "chapter": "49",
    "description": "Picture books",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "49030020",
+   "hs6": "490300",
+   "hs6_description": "Printed matter; children's picture, drawing or colouring books",
    "level": 8,
    "chapter": "49",
    "description": "Drawing or colouring books",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "49040000",
+   "hs6": "490400",
+   "hs6_description": "Music; printed or in manuscript, whether or not bound or illustrated",
    "level": 8,
    "chapter": "49",
    "description": "Music, printed or in manuscript, whether or not bound or illustrated.",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "4905",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "49",
    "description": "Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed.",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "49052000",
+   "hs6": "490520",
+   "hs6_description": "Maps and hydrographic or similar charts; printed in book form, including atlases, topographical plans and similar",
    "level": 8,
    "chapter": "49",
    "description": "In book form",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "490590",
+   "hs6": "490590",
+   "hs6_description": "Maps and hydrographic or similar charts; (printed other than in book form), including wall maps, topographical plans and similar",
    "level": 6,
    "chapter": "49",
    "description": "Other:",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "49059010",
+   "hs6": "490590",
+   "hs6_description": "Maps and hydrographic or similar charts; (printed other than in book form), including wall maps, topographical plans and similar",
    "level": 8,
    "chapter": "49",
    "description": "Geographical, hydrological, astronomical maps or charts",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "49059020",
+   "hs6": "490590",
+   "hs6_description": "Maps and hydrographic or similar charts; (printed other than in book form), including wall maps, topographical plans and similar",
    "level": 8,
    "chapter": "49",
    "description": "Globe",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "49059090",
+   "hs6": "490590",
+   "hs6_description": "Maps and hydrographic or similar charts; (printed other than in book form), including wall maps, topographical plans and similar",
    "level": 8,
    "chapter": "49",
    "description": "Other",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "49060000",
+   "hs6": "490600",
+   "hs6_description": "Plans and drawings; for architectural, engineering, industrial, commercial, topographical or similar, being originals drawn by hand; hand-written texts; photo- graphic reproductions; their carbon copies",
    "level": 8,
    "chapter": "49",
    "description": "Plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, being originals drawn by hand; hand-written texts; photographic reproductions on sensitised paper and carbon copies of the foregoing.",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "4907",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "49",
    "description": "Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; banknotes; cheque forms; stock, share or bond certificates and similar documents of title.",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "490700",
+   "hs6": "490700",
+   "hs6_description": "Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; cheque forms; banknotes, stock, share or bond certificates and the like of similar title",
    "level": 6,
    "chapter": "49",
    "description": "Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognized face value; stamp-impressed paper; bank notes; cheque forms; stock, share or bond certificates and similar documents of title :",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "49070010",
+   "hs6": "490700",
+   "hs6_description": "Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; cheque forms; banknotes, stock, share or bond certificates and the like of similar title",
    "level": 8,
    "chapter": "49",
    "description": "Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognized face value",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "49070020",
+   "hs6": "490700",
+   "hs6_description": "Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; cheque forms; banknotes, stock, share or bond certificates and the like of similar title",
    "level": 8,
    "chapter": "49",
    "description": "Bank notes",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "49070030",
+   "hs6": "490700",
+   "hs6_description": "Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; cheque forms; banknotes, stock, share or bond certificates and the like of similar title",
    "level": 8,
    "chapter": "49",
    "description": "Documents of title conveying the right to use Information Technology software",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "49070090",
+   "hs6": "490700",
+   "hs6_description": "Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; cheque forms; banknotes, stock, share or bond certificates and the like of similar title",
    "level": 8,
    "chapter": "49",
    "description": "Other",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "4908",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "49",
    "description": "Transfers (decalcomanias).",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "49081000",
+   "hs6": "490810",
+   "hs6_description": "Printed matter; transfers (decalcomanias), vitrifiable",
    "level": 8,
    "chapter": "49",
    "description": "Transfers (decalcomanias), vitrifiable",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "49089000",
+   "hs6": "490890",
+   "hs6_description": "Printed matter; transfers (decalcomanias), other than vitrifiable",
    "level": 8,
    "chapter": "49",
    "description": "Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "4909",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "49",
    "description": "Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings.",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "490900",
+   "hs6": "490900",
+   "hs6_description": "Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings",
    "level": 6,
    "chapter": "49",
    "description": "Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings :",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "49090010",
+   "hs6": "490900",
+   "hs6_description": "Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings",
    "level": 8,
    "chapter": "49",
    "description": "Greetings or Wedding cards",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "49090090",
+   "hs6": "490900",
+   "hs6_description": "Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings",
    "level": 8,
    "chapter": "49",
    "description": "Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "4910",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "49",
    "description": "Calendars of any kind, printed, including calendar blocks.",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "491000",
+   "hs6": "491000",
+   "hs6_description": "Calendars; printed, of any kind, including calendar blocks",
    "level": 6,
    "chapter": "49",
    "description": "Calendars of any kind, printed, including calendar blocks :",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "49100010",
+   "hs6": "491000",
+   "hs6_description": "Calendars; printed, of any kind, including calendar blocks",
    "level": 8,
    "chapter": "49",
    "description": "Advertising calendar",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "49100090",
+   "hs6": "491000",
+   "hs6_description": "Calendars; printed, of any kind, including calendar blocks",
    "level": 8,
    "chapter": "49",
    "description": "Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "4911",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "49",
    "description": "Other printed matter, including printed pictures and photographs.",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "491110",
+   "hs6": "491110",
+   "hs6_description": "Printed matter; trade advertising material, commercial catalogues and the like",
    "level": 6,
    "chapter": "49",
    "description": "Trade advertising material, commercial catalogues and the like",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "49111010",
+   "hs6": "491110",
+   "hs6_description": "Printed matter; trade advertising material, commercial catalogues and the like",
    "level": 8,
    "chapter": "49",
    "description": "Posters, printed",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "49111020",
+   "hs6": "491110",
+   "hs6_description": "Printed matter; trade advertising material, commercial catalogues and the like",
    "level": 8,
    "chapter": "49",
    "description": "Commercial catalogues",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "49111030",
+   "hs6": "491110",
+   "hs6_description": "Printed matter; trade advertising material, commercial catalogues and the like",
    "level": 8,
    "chapter": "49",
    "description": "Printed inlay cards",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "49111090",
+   "hs6": "491110",
+   "hs6_description": "Printed matter; trade advertising material, commercial catalogues and the like",
    "level": 8,
    "chapter": "49",
    "description": "Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "49119100",
+   "hs6": "491191",
+   "hs6_description": "Printed matter; pictures, designs and photographs, n.e.c. in item no. 4911.10",
    "level": 8,
    "chapter": "49",
    "description": "Other : -- Pictures, designs and photographs",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "491199",
+   "hs6": "491199",
+   "hs6_description": "Printed matter; n.e.c. in heading no. 4911",
    "level": 6,
    "chapter": "49",
    "description": "Other : -- Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "49119910",
+   "hs6": "491199",
+   "hs6_description": "Printed matter; n.e.c. in heading no. 4911",
    "level": 8,
    "chapter": "49",
    "description": "Hard copy (printed) of computer software",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "49119920",
+   "hs6": "491199",
+   "hs6_description": "Printed matter; n.e.c. in heading no. 4911",
    "level": 8,
    "chapter": "49",
    "description": "Plan and drawings for architectural engineering, industrial, commercial, topographical or similar purposes reproduced with the aid of computer or any other devices",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "49119990",
+   "hs6": "491199",
+   "hs6_description": "Printed matter; n.e.c. in heading no. 4911",
    "level": 8,
    "chapter": "49",
    "description": "Other",

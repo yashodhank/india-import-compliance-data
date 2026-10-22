@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "6501",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "65",
    "description": "Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons), of felt.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "65010010",
+   "hs6": "650100",
+   "hs6_description": "Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons) of felt",
    "level": 8,
    "chapter": "65",
    "description": "Of cotton",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "65010090",
+   "hs6": "650100",
+   "hs6_description": "Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons) of felt",
    "level": 8,
    "chapter": "65",
    "description": "Other",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "6502",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "65",
    "description": "Hat-shapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed.",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "650200",
+   "hs6": "650200",
+   "hs6_description": "Hat-shapes; plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed",
    "level": 6,
    "chapter": "65",
    "description": "Hat-shapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed:",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "65020010",
+   "hs6": "650200",
+   "hs6_description": "Hat-shapes; plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed",
    "level": 8,
    "chapter": "65",
    "description": "Of cotton",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "65020020",
+   "hs6": "650200",
+   "hs6_description": "Hat-shapes; plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed",
    "level": 8,
    "chapter": "65",
    "description": "Of wool",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "65020090",
+   "hs6": "650200",
+   "hs6_description": "Hat-shapes; plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed",
    "level": 8,
    "chapter": "65",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "65040000",
+   "hs6": "650400",
+   "hs6_description": "Hats and other headgear; plaited or made by assembling strips of any material, whether or not lined or trimmed",
    "level": 8,
    "chapter": "65",
    "description": "Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed.",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "6505",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "65",
    "description": "Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed.",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "650500",
+   "hs6": "650500",
+   "hs6_description": "Hats and other headgear; knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",
    "level": 6,
    "chapter": "65",
    "description": "Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "65050010",
+   "hs6": "650500",
+   "hs6_description": "Hats and other headgear; knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",
    "level": 8,
    "chapter": "65",
    "description": "Hair-nets",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "65050090",
+   "hs6": "650500",
+   "hs6_description": "Hats and other headgear; knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",
    "level": 8,
    "chapter": "65",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "6506",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "65",
    "description": "Other headgear, whether or not lined or trimmed.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "650610",
+   "hs6": "650610",
+   "hs6_description": "Headgear; safety, whether or not lined or trimmed",
    "level": 6,
    "chapter": "65",
    "description": "Safety headgear",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "65061010",
+   "hs6": "650610",
+   "hs6_description": "Headgear; safety, whether or not lined or trimmed",
    "level": 8,
    "chapter": "65",
    "description": "Speed glass welding helmets or other helmets meant for industrial use",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "65061020",
+   "hs6": "650610",
+   "hs6_description": "Headgear; safety, whether or not lined or trimmed",
    "level": 8,
    "chapter": "65",
    "description": "Headgear for ballistic protection",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "65061090",
+   "hs6": "650610",
+   "hs6_description": "Headgear; safety, whether or not lined or trimmed",
    "level": 8,
    "chapter": "65",
    "description": "Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "65069100",
+   "hs6": "650691",
+   "hs6_description": "Headgear; (other than safety headgear), of rubber or plastics, whether or not lined or trimmed",
    "level": 8,
    "chapter": "65",
    "description": "Other : -- Of rubber or of plastics",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "65069900",
+   "hs6": "650699",
+   "hs6_description": "Headgear; (other than safety headgear), (of materials other than rubber or plastic), whether or not lined or trimmed",
    "level": 8,
    "chapter": "65",
    "description": "Other : -- Of other materials",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "65070000",
+   "hs6": "650700",
+   "hs6_description": "Head-bands, linings, covers, hat foundations, hat frames, peaks and chinstraps; for headgear",
    "level": 8,
    "chapter": "65",
    "description": "Head-bands, linings, covers, hat foundations, hat frames, peaks and chinstraps, for headgear.",

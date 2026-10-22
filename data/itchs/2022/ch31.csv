@@ -1,43 +1,43 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-3101,4,31,"Animal or vegetable fertilisers, whether or not mixed together or chemically treated; fertilisers produced by the mixing or chemical treatment of animal or vegetable products.",,,,,,2026-10-22
-310100,6,31,"Animal or vegetable fertilisers, whether or not mixed together or chemically treated; fertilisers produced by the mixing or chemical treatment of animal or vegetable products",,,,,,2026-10-22
-31010010,8,31,Guano,Free,,,,,2026-10-22
-31010091,8,31,Other: ---- Animal dung,Restricted,,,,,2026-10-22
-31010092,8,31,Other: ---- Animal excreta,Restricted,,,,,2026-10-22
-31010099,8,31,Other: ---- Other,Free,,,,,2026-10-22
-3102,4,31,"Mineral or chemical fertilisers, nitrogenous.",,,,,,2026-10-22
-310210,6,31,"Urea, whether or not in aqueous solution",,,,,,2026-10-22
-31021010,8,31,"Fertilizer grade, conforming to Standard IS 5406",STE (State Trading Enterprise),"Import allowed through RCF and NFL subject to Para 2.21 of Foreign Trade Policy, 2023. In addition, import of Urea is also allowed through IPL for a period up to 31.3.2027. Import of Urea (for agriculture purpose) on Government Account shall be allowed either by designated STEs itself, or through any entity/entities (Fertilizer Marketing Entities) so authorized by the Department of Fertilizer from time to time, for filing BEs at Indian ports.",,68/2025-26,2026-03-27,2026-10-22
-31021090,8,31,Other,Free,Import of Technical Grade Urea (TGU) meant for non-agricultural purpose/ industrial use/ NPK Manufacturing shall be Free.,,08/2023,2023-05-29,2026-10-22
-31022100,8,31,Ammonium sulphate; double salts and mixtures of ammonium sulphate and ammonium nitrate : -- Ammonium sulphate,Free,,,,,2026-10-22
-310229,6,31,Ammonium sulphate; double salts and mixtures of ammonium sulphate and ammonium nitrate : -- Other,,,,,,2026-10-22
-31022910,8,31,Ammonium sulphonitrate,Free,,,,,2026-10-22
-31022990,8,31,Other,Free,,,,,2026-10-22
-31023000,8,31,"Ammonium nitrate, whether or not in aqueous solution",Free,"However, Import of Ammonium Nitrate having the chemical formula NH4NO3 or any combination containing more than 45percent of Ammonium Nitrate by weight including emulsions, suspensions, melts or gels (with or without inorganic nitrates), and classified as explosive under Explosives Act, 1884, is subject to license from Chief Controller of Explosives under the Ammonium Nitrate Rules, 2012.",,,,2026-10-22
-31024000,8,31,Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances,Free,,,,,2026-10-22
-31025000,8,31,Sodium nitrate,Free,,,,,2026-10-22
-31026000,8,31,Double salts and mixtures of calcium nitrate and ammonium nitrate,Free,,,,,2026-10-22
-31028000,8,31,Mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution,Free,,,,,2026-10-22
-310290,6,31,"Other, including mixtures not specified in the foregoing subheadings",,,,,,2026-10-22
-31029010,8,31,Double salt or mixtures of calcium nitrate and magnesium nitrate,Free,,,,,2026-10-22
-31029090,8,31,Other,Free,,,,,2026-10-22
-3103,4,31,"Mineral or chemical fertilisers, phosphatic.",,,,,,2026-10-22
-31031000,8,31,Straight Phosphatic Fetilizers given below : 1.Single Super Phosphate (16% P2O5) Powdered 2.Single Super Phosphate (14% P2O5) Powdered 3.Single Super Phosphate (16% P2O5) Granulated,,,,,,2026-10-22
-31031100,8,31,Superphosphates : -- Containing by weight 35 percent or more of diphosphorus pentaoxide (P2O5),Free,,,,,2026-10-22
-31031900,8,31,Superphosphates : -- Other,Free,,,,,2026-10-22
-31039000,8,31,Other,Free,,,,,2026-10-22
-3104,4,31,"Mineral or chemical fertilisers, potassic.",,,,,,2026-10-22
-31042000,8,31,Potassium chloride,Free,,,,,2026-10-22
-31043000,8,31,Potassium sulphate,Free,,,,,2026-10-22
-31049000,8,31,Other,Free,,,,,2026-10-22
-3105,4,31,"Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorus and potassium; other fertilisers; goods of this Chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg.",,,,,,2026-10-22
-31051000,8,31,Goods of this Chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg,Free,,,,,2026-10-22
-31052000,8,31,"Mineral or chemical fertilisers containing the three fertilising elements nitrogen, phosphorus and potassium",Free,,,,,2026-10-22
-31053000,8,31,Diammonium hydrogenorthophosphate (diammonium phosphate),Free,,,,,2026-10-22
-31054000,8,31,Ammonium dihydrogenorthophosphate (monoammonium phosphate) and mixtures thereof with diammonium hydrogenorthophosphate (diammonium phosphate),Free,,,,,2026-10-22
-31055100,8,31,Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus : -- Containing nitrates and phosphates,Free,,,,,2026-10-22
-31055900,8,31,Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus : -- Other,Free,,,,,2026-10-22
-31056000,8,31,Mineral or chemical fertilisers containing the two fertilising elements phosphorus and potassium,Free,,,,,2026-10-22
-310590,6,31,Other,,,,,,2026-10-22
-31059010,8,31,Mineral or chemical fertilisers containing two fertilising elements namely nitrogen and potassium,Free,,,,,2026-10-22
-31059090,8,31,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+3101,,,4,31,"Animal or vegetable fertilisers, whether or not mixed together or chemically treated; fertilisers produced by the mixing or chemical treatment of animal or vegetable products.",,,,,,2026-10-22
+310100,310100,"Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products",6,31,"Animal or vegetable fertilisers, whether or not mixed together or chemically treated; fertilisers produced by the mixing or chemical treatment of animal or vegetable products",,,,,,2026-10-22
+31010010,310100,"Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products",8,31,Guano,Free,,,,,2026-10-22
+31010091,310100,"Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products",8,31,Other: ---- Animal dung,Restricted,,,,,2026-10-22
+31010092,310100,"Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products",8,31,Other: ---- Animal excreta,Restricted,,,,,2026-10-22
+31010099,310100,"Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products",8,31,Other: ---- Other,Free,,,,,2026-10-22
+3102,,,4,31,"Mineral or chemical fertilisers, nitrogenous.",,,,,,2026-10-22
+310210,310210,"Fertilizers, mineral or chemical; nitrogenous, urea, whether or not in aqueous solution",6,31,"Urea, whether or not in aqueous solution",,,,,,2026-10-22
+31021010,310210,"Fertilizers, mineral or chemical; nitrogenous, urea, whether or not in aqueous solution",8,31,"Fertilizer grade, conforming to Standard IS 5406",STE (State Trading Enterprise),"Import allowed through RCF and NFL subject to Para 2.21 of Foreign Trade Policy, 2023. In addition, import of Urea is also allowed through IPL for a period up to 31.3.2027. Import of Urea (for agriculture purpose) on Government Account shall be allowed either by designated STEs itself, or through any entity/entities (Fertilizer Marketing Entities) so authorized by the Department of Fertilizer from time to time, for filing BEs at Indian ports.",,68/2025-26,2026-03-27,2026-10-22
+31021090,310210,"Fertilizers, mineral or chemical; nitrogenous, urea, whether or not in aqueous solution",8,31,Other,Free,Import of Technical Grade Urea (TGU) meant for non-agricultural purpose/ industrial use/ NPK Manufacturing shall be Free.,,08/2023,2023-05-29,2026-10-22
+31022100,310221,"Fertilizers, mineral or chemical; nitrogenous, ammonium sulphate",8,31,Ammonium sulphate; double salts and mixtures of ammonium sulphate and ammonium nitrate : -- Ammonium sulphate,Free,,,,,2026-10-22
+310229,310229,"Fertilizers, mineral or chemical; nitrogenous, other than ammonium sulphate",6,31,Ammonium sulphate; double salts and mixtures of ammonium sulphate and ammonium nitrate : -- Other,,,,,,2026-10-22
+31022910,310229,"Fertilizers, mineral or chemical; nitrogenous, other than ammonium sulphate",8,31,Ammonium sulphonitrate,Free,,,,,2026-10-22
+31022990,310229,"Fertilizers, mineral or chemical; nitrogenous, other than ammonium sulphate",8,31,Other,Free,,,,,2026-10-22
+31023000,310230,"Fertilizers, mineral or chemical; nitrogenous, ammonium nitrate, whether or not in aqueous solution",8,31,"Ammonium nitrate, whether or not in aqueous solution",Free,"However, Import of Ammonium Nitrate having the chemical formula NH4NO3 or any combination containing more than 45percent of Ammonium Nitrate by weight including emulsions, suspensions, melts or gels (with or without inorganic nitrates), and classified as explosive under Explosives Act, 1884, is subject to license from Chief Controller of Explosives under the Ammonium Nitrate Rules, 2012.",,,,2026-10-22
+31024000,310240,"Fertilizers, mineral or chemical; ammonium nitrate with calcium carbonate or other inorganic non-fertilizing substances, mixtures thereof",8,31,Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances,Free,,,,,2026-10-22
+31025000,310250,"Fertilizers, mineral or chemical; nitrogenous, sodium nitrate",8,31,Sodium nitrate,Free,,,,,2026-10-22
+31026000,310260,"Fertilizers, mineral or chemical; nitrogenous, double salts and mixtures of calcium nitrate and ammonium nitrate",8,31,Double salts and mixtures of calcium nitrate and ammonium nitrate,Free,,,,,2026-10-22
+31028000,310280,"Fertilizers, mineral or chemical; nitrogenous, mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution",8,31,Mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution,Free,,,,,2026-10-22
+310290,310290,"Fertilizers, mineral or chemical; nitrogenous, other kinds including mixtures not specified in the foregoing subheadings",6,31,"Other, including mixtures not specified in the foregoing subheadings",,,,,,2026-10-22
+31029010,310290,"Fertilizers, mineral or chemical; nitrogenous, other kinds including mixtures not specified in the foregoing subheadings",8,31,Double salt or mixtures of calcium nitrate and magnesium nitrate,Free,,,,,2026-10-22
+31029090,310290,"Fertilizers, mineral or chemical; nitrogenous, other kinds including mixtures not specified in the foregoing subheadings",8,31,Other,Free,,,,,2026-10-22
+3103,,,4,31,"Mineral or chemical fertilisers, phosphatic.",,,,,,2026-10-22
+31031000,310310,,8,31,Straight Phosphatic Fetilizers given below : 1.Single Super Phosphate (16% P2O5) Powdered 2.Single Super Phosphate (14% P2O5) Powdered 3.Single Super Phosphate (16% P2O5) Granulated,,,,,,2026-10-22
+31031100,310311,"Fertilizers, mineral or chemical; phosphatic, superphosphates, containing by weight 35% or more of diphosphorus pentaoxide (P2O5)",8,31,Superphosphates : -- Containing by weight 35 percent or more of diphosphorus pentaoxide (P2O5),Free,,,,,2026-10-22
+31031900,310319,"Fertilizers, mineral or chemical; phosphatic, superphosphates, other than containing by weight 35% or more of diphosphorus pentaoxide (P2O5)",8,31,Superphosphates : -- Other,Free,,,,,2026-10-22
+31039000,310390,"Fertilizers, mineral or chemical; phosphatic, n.e.c. in heading no. 3103",8,31,Other,Free,,,,,2026-10-22
+3104,,,4,31,"Mineral or chemical fertilisers, potassic.",,,,,,2026-10-22
+31042000,310420,"Fertilizers, mineral or chemical; potassic, potassium chloride",8,31,Potassium chloride,Free,,,,,2026-10-22
+31043000,310430,"Fertilizers, mineral or chemical; potassic, potassium sulphate",8,31,Potassium sulphate,Free,,,,,2026-10-22
+31049000,310490,"Fertilizers, mineral or chemical; potassic, n.e.c. in heading no. 3104",8,31,Other,Free,,,,,2026-10-22
+3105,,,4,31,"Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorus and potassium; other fertilisers; goods of this Chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg.",,,,,,2026-10-22
+31051000,310510,"Fertilizers, mineral or chemical; in tablets or similar forms or in packages of a gross weight not exceeding 10kg",8,31,Goods of this Chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg,Free,,,,,2026-10-22
+31052000,310520,"Fertilizers, mineral or chemical; containing the three fertilizing elements nitrogen, phosphorus and potassium",8,31,"Mineral or chemical fertilisers containing the three fertilising elements nitrogen, phosphorus and potassium",Free,,,,,2026-10-22
+31053000,310530,"Fertilizers, mineral or chemical; diammonium hydrogenorthophosphate (diammonium phosphate)",8,31,Diammonium hydrogenorthophosphate (diammonium phosphate),Free,,,,,2026-10-22
+31054000,310540,"Fertilizers, mineral or chemical; ammonium dihydrogenorthophosphate (monoammonium phosphate) and mixtures thereof with diammonium hydrogenorthophosphate (diammonium phosphate)",8,31,Ammonium dihydrogenorthophosphate (monoammonium phosphate) and mixtures thereof with diammonium hydrogenorthophosphate (diammonium phosphate),Free,,,,,2026-10-22
+31055100,310551,"Fertilizers, mineral or chemical; containing nitrates and phosphates",8,31,Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus : -- Containing nitrates and phosphates,Free,,,,,2026-10-22
+31055900,310559,"Fertilizers, mineral or chemical; containing the two fertilizing elements nitrogen and phosphorus, other than nitrates and phosphates",8,31,Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus : -- Other,Free,,,,,2026-10-22
+31056000,310560,"Fertilizers, mineral or chemical; containing the two fertilizing elements phosphorus and potassium",8,31,Mineral or chemical fertilisers containing the two fertilising elements phosphorus and potassium,Free,,,,,2026-10-22
+310590,310590,"Fertilizers, mineral or chemical; n.e.c. in heading no. 3105",6,31,Other,,,,,,2026-10-22
+31059010,310590,"Fertilizers, mineral or chemical; n.e.c. in heading no. 3105",8,31,Mineral or chemical fertilisers containing two fertilising elements namely nitrogen and potassium,Free,,,,,2026-10-22
+31059090,310590,"Fertilizers, mineral or chemical; n.e.c. in heading no. 3105",8,31,Other,Free,,,,,2026-10-22

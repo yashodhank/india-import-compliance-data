@@ -1,34 +1,34 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-3601,4,36,Propellent powders.,,,,,,2026-10-22
-360100,6,36,Propellant powders :,,,,,,2026-10-22
-36010010,8,36,Blasting powder,Restricted,,,,,2026-10-22
-36010020,8,36,Gun powder,Restricted,,,,,2026-10-22
-36010090,8,36,Other,Restricted,,,,,2026-10-22
-3602,4,36,"Prepared explosives, other than propellent powders.",,,,,,2026-10-22
-360200,6,36,"Prepared explosives, other than propellant powders :",,,,,,2026-10-22
-36020010,8,36,Industrial explosives,Restricted,,,,,2026-10-22
-36020090,8,36,Other,Restricted,,,,,2026-10-22
-3603,4,36,SAFETY FUSES; DETONATING CORDS; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS,,,,,,2026-10-22
-36031000,8,36,Safety fuses,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
-36032000,8,36,Detonating cords,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
-36033000,8,36,Percussion caps,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
-36034000,8,36,Detonating caps,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
-36035000,8,36,Igniters,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
-36036000,8,36,Electric detonators,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
-3604,4,36,"Fireworks, signalling flares, rain rockets, fog signals and other pyrotechnic articles.",,,,,,2026-10-22
-36041000,8,36,Fireworks,Restricted,,,,,2026-10-22
-360490,6,36,Other,,,,,,2026-10-22
-36049010,8,36,Ship signals,Restricted,,,,,2026-10-22
-36049090,8,36,Other,Restricted,,,,,2026-10-22
-3605,4,36,"Matches, other than pyrotechnic articles of heading 36.04.",,,,,,2026-10-22
-360500,6,36,"Matches, other than pyrotechnic articles of heading 3604 :",,,,,,2026-10-22
-36050010,8,36,Safety matches,Restricted,,,,,2026-10-22
-36050090,8,36,Other,Restricted,Import subject to Policy Condition 1 of the Chapter,1,,,2026-10-22
-3606,4,36,Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials as specified in Note 2 to this Chapter.,,,,,,2026-10-22
-36061000,8,36,Liquid or liquefied-gas fuels in containers of a kind used for filling or refilling cigarette or similar lighters and of a capacity not exceeding 300 cm3,Free,,,,,2026-10-22
-360690,6,36,Other,,,,,,2026-10-22
-36069010,8,36,Combustible preparations,Restricted,,,,,2026-10-22
-36069091,8,36,"Other: ---- Ferro-cerium, in all forms",Restricted,,,,,2026-10-22
-36069092,8,36,"Other: ---- Pyrophoric alloys, in all forms",Restricted,,,,,2026-10-22
-36069093,8,36,Other: ---- DNPT (Dinitroso-penta-methylene tetramine),Restricted,,,,,2026-10-22
-36069099,8,36,Other: ---- Others,Restricted,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+3601,,,4,36,Propellent powders.,,,,,,2026-10-22
+360100,360100,Explosives; propellent powders,6,36,Propellant powders :,,,,,,2026-10-22
+36010010,360100,Explosives; propellent powders,8,36,Blasting powder,Restricted,,,,,2026-10-22
+36010020,360100,Explosives; propellent powders,8,36,Gun powder,Restricted,,,,,2026-10-22
+36010090,360100,Explosives; propellent powders,8,36,Other,Restricted,,,,,2026-10-22
+3602,,,4,36,"Prepared explosives, other than propellent powders.",,,,,,2026-10-22
+360200,360200,"Explosives, prepared; other than propellent powders",6,36,"Prepared explosives, other than propellant powders :",,,,,,2026-10-22
+36020010,360200,"Explosives, prepared; other than propellent powders",8,36,Industrial explosives,Restricted,,,,,2026-10-22
+36020090,360200,"Explosives, prepared; other than propellent powders",8,36,Other,Restricted,,,,,2026-10-22
+3603,,,4,36,SAFETY FUSES; DETONATING CORDS; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS,,,,,,2026-10-22
+36031000,360310,Safety fuses,8,36,Safety fuses,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+36032000,360320,Detonating cords,8,36,Detonating cords,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+36033000,360330,Percussion caps,8,36,Percussion caps,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+36034000,360340,Detonating caps,8,36,Detonating caps,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+36035000,360350,Igniters,8,36,Igniters,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+36036000,360360,Electric detonators,8,36,Electric detonators,Restricted,,,54/2015-2020,2022-02-09,2026-10-22
+3604,,,4,36,"Fireworks, signalling flares, rain rockets, fog signals and other pyrotechnic articles.",,,,,,2026-10-22
+36041000,360410,Pyrotechnic products; fireworks,8,36,Fireworks,Restricted,,,,,2026-10-22
+360490,360490,"Pyrotechnic products; signalling flares, rain rockets, fog signals and other pyrotechnic articles (excluding fireworks)",6,36,Other,,,,,,2026-10-22
+36049010,360490,"Pyrotechnic products; signalling flares, rain rockets, fog signals and other pyrotechnic articles (excluding fireworks)",8,36,Ship signals,Restricted,,,,,2026-10-22
+36049090,360490,"Pyrotechnic products; signalling flares, rain rockets, fog signals and other pyrotechnic articles (excluding fireworks)",8,36,Other,Restricted,,,,,2026-10-22
+3605,,,4,36,"Matches, other than pyrotechnic articles of heading 36.04.",,,,,,2026-10-22
+360500,360500,Matches; other than pyrotechnic articles of heading no. 3604,6,36,"Matches, other than pyrotechnic articles of heading 3604 :",,,,,,2026-10-22
+36050010,360500,Matches; other than pyrotechnic articles of heading no. 3604,8,36,Safety matches,Restricted,,,,,2026-10-22
+36050090,360500,Matches; other than pyrotechnic articles of heading no. 3604,8,36,Other,Restricted,Import subject to Policy Condition 1 of the Chapter,1,,,2026-10-22
+3606,,,4,36,Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials as specified in Note 2 to this Chapter.,,,,,,2026-10-22
+36061000,360610,"Fuels; liquid or liquefied-gas, in containers, of a kind used for filling or refilling cigarette or similar lighters and of a capacity not exceeding 300cm3",8,36,Liquid or liquefied-gas fuels in containers of a kind used for filling or refilling cigarette or similar lighters and of a capacity not exceeding 300 cm3,Free,,,,,2026-10-22
+360690,360690,Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials n.e.c. in chapter 36,6,36,Other,,,,,,2026-10-22
+36069010,360690,Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials n.e.c. in chapter 36,8,36,Combustible preparations,Restricted,,,,,2026-10-22
+36069091,360690,Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials n.e.c. in chapter 36,8,36,"Other: ---- Ferro-cerium, in all forms",Restricted,,,,,2026-10-22
+36069092,360690,Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials n.e.c. in chapter 36,8,36,"Other: ---- Pyrophoric alloys, in all forms",Restricted,,,,,2026-10-22
+36069093,360690,Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials n.e.c. in chapter 36,8,36,Other: ---- DNPT (Dinitroso-penta-methylene tetramine),Restricted,,,,,2026-10-22
+36069099,360690,Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials n.e.c. in chapter 36,8,36,Other: ---- Others,Restricted,,,,,2026-10-22

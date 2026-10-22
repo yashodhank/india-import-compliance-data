@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "3701",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "37",
    "description": "Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitised, unexposed, whether or not in packs.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "370110",
+   "hs6": "370110",
+   "hs6_description": "Photographic plates and film; for x-ray, in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles",
    "level": 6,
    "chapter": "37",
    "description": "For X-ray",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "37011010",
+   "hs6": "370110",
+   "hs6_description": "Photographic plates and film; for x-ray, in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles",
    "level": 8,
    "chapter": "37",
    "description": "Medical",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "37011090",
+   "hs6": "370110",
+   "hs6_description": "Photographic plates and film; for x-ray, in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "37012000",
+   "hs6": "370120",
+   "hs6_description": "Photographic plates and film; instant print film, in the flat, sensitised, unexposed, whether or not in packs",
    "level": 8,
    "chapter": "37",
    "description": "Instant print film",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "37013000",
+   "hs6": "370130",
+   "hs6_description": "Photographic plates and film; in the flat, sensitised, unexposed, with any side exceeding 225mm, of any materials other than paper, paperboard or textiles",
    "level": 8,
    "chapter": "37",
    "description": "Other plates and film, with any side exceeding 255 mm",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "370191",
+   "hs6": "370191",
+   "hs6_description": "Photographic plates and film; for colour photography (polychrome), in the flat, sensitised, unexposed, with no side exceeding 255mm, of any material other than paper, paperboard or textiles",
    "level": 6,
    "chapter": "37",
    "description": "Other : -- For colour photography (polychrome)",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "37019110",
+   "hs6": "370191",
+   "hs6_description": "Photographic plates and film; for colour photography (polychrome), in the flat, sensitised, unexposed, with no side exceeding 255mm, of any material other than paper, paperboard or textiles",
    "level": 8,
    "chapter": "37",
    "description": "Cinematographic film",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "37019190",
+   "hs6": "370191",
+   "hs6_description": "Photographic plates and film; for colour photography (polychrome), in the flat, sensitised, unexposed, with no side exceeding 255mm, of any material other than paper, paperboard or textiles",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "370199",
+   "hs6": "370199",
+   "hs6_description": "Photographic plates and film; (for other than colour photography), in the flat, sensitised, unexposed, with no side exceeding 255mm, of any material other than paper, paperboard or textiles",
    "level": 6,
    "chapter": "37",
    "description": "Other : -- Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "37019910",
+   "hs6": "370199",
+   "hs6_description": "Photographic plates and film; (for other than colour photography), in the flat, sensitised, unexposed, with no side exceeding 255mm, of any material other than paper, paperboard or textiles",
    "level": 8,
    "chapter": "37",
    "description": "Cinematographic film",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "37019990",
+   "hs6": "370199",
+   "hs6_description": "Photographic plates and film; (for other than colour photography), in the flat, sensitised, unexposed, with no side exceeding 255mm, of any material other than paper, paperboard or textiles",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "3702",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "37",
    "description": "Photographic film in rolls, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in rolls, sensitised, unexposed.",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "37021000",
+   "hs6": "370210",
+   "hs6_description": "Photographic film; for x-rays, in rolls, sensitised and unexposed (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "For X-ray",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "370231",
+   "hs6": "370231",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, without sprocket holes, of a width not exceeding 105mm (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other film, without perforations, of a width not exceeding 105 mm : -- For colour photography (polychrome)",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "37023110",
+   "hs6": "370231",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, without sprocket holes, of a width not exceeding 105mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Cinematographic film",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "37023190",
+   "hs6": "370231",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, without sprocket holes, of a width not exceeding 105mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "370232",
+   "hs6": "370232",
+   "hs6_description": "Photographic film; in rolls, with silver halide emulsion, sensitised, unexposed, without sprocket holes, of a width not exceeding 105mm (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other film, without perforations, of a width not exceeding 105 mm : -- Other, with silver halide emulsion",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "37023210",
+   "hs6": "370232",
+   "hs6_description": "Photographic film; in rolls, with silver halide emulsion, sensitised, unexposed, without sprocket holes, of a width not exceeding 105mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Cinematographic film",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "37023290",
+   "hs6": "370232",
+   "hs6_description": "Photographic film; in rolls, with silver halide emulsion, sensitised, unexposed, without sprocket holes, of a width not exceeding 105mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "370239",
+   "hs6": "370239",
+   "hs6_description": "Photographic film; in rolls, (other than with silver halide emulsion and for colour photography), sensitised, unexposed, without sprocket holes, of a width not exceeding 105mm (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other film, without perforations, of a width not exceeding 105 mm : -- Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "37023910",
+   "hs6": "370239",
+   "hs6_description": "Photographic film; in rolls, (other than with silver halide emulsion and for colour photography), sensitised, unexposed, without sprocket holes, of a width not exceeding 105mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Cinematographic film",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "37023990",
+   "hs6": "370239",
+   "hs6_description": "Photographic film; in rolls, (other than with silver halide emulsion and for colour photography), sensitised, unexposed, without sprocket holes, of a width not exceeding 105mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "370241",
+   "hs6": "370241",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, without sprocket holes, of a width exceeding 610mm and of a length exceeding 200m (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other film, without perforations, of a width exceeding 105 mm : -- Of a width exceeding 610 mm and of a length exceeding 200 m, for colour photography (polychrome)",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "37024110",
+   "hs6": "370241",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, without sprocket holes, of a width exceeding 610mm and of a length exceeding 200m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Cinematographic film",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "37024190",
+   "hs6": "370241",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, without sprocket holes, of a width exceeding 610mm and of a length exceeding 200m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "370242",
+   "hs6": "370242",
+   "hs6_description": "Photographic film; in rolls, (other than for colour photography), sensitised, unexposed, without sprocket holes, of a width exceeding 610mm and of a length exceeding 200m (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other film, without perforations, of a width exceeding 105 mm : -- Of a width exceeding 610 mm and of a length exceeding 200 m, other than for colour photography",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "37024210",
+   "hs6": "370242",
+   "hs6_description": "Photographic film; in rolls, (other than for colour photography), sensitised, unexposed, without sprocket holes, of a width exceeding 610mm and of a length exceeding 200m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Photographic film of a width 620 mm in rolls",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "37024220",
+   "hs6": "370242",
+   "hs6_description": "Photographic film; in rolls, (other than for colour photography), sensitised, unexposed, without sprocket holes, of a width exceeding 610mm and of a length exceeding 200m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Cinematographic film",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "37024290",
+   "hs6": "370242",
+   "hs6_description": "Photographic film; in rolls, (other than for colour photography), sensitised, unexposed, without sprocket holes, of a width exceeding 610mm and of a length exceeding 200m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "370243",
+   "hs6": "370243",
+   "hs6_description": "Photographic film; in rolls, sensitised, unexposed, without sprocket holes, of a width exceeding 610mm and of a length not exceeding 200m (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other film, without perforations, of a width exceeding 105 mm : -- Of a width exceeding 610 mm and of a length not exceeding 200 m",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "37024310",
+   "hs6": "370243",
+   "hs6_description": "Photographic film; in rolls, sensitised, unexposed, without sprocket holes, of a width exceeding 610mm and of a length not exceeding 200m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Photographic films (Black and White) of a width 620 mm",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "37024320",
+   "hs6": "370243",
+   "hs6_description": "Photographic film; in rolls, sensitised, unexposed, without sprocket holes, of a width exceeding 610mm and of a length not exceeding 200m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Cinematographic film",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "37024390",
+   "hs6": "370243",
+   "hs6_description": "Photographic film; in rolls, sensitised, unexposed, without sprocket holes, of a width exceeding 610mm and of a length not exceeding 200m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "370244",
+   "hs6": "370244",
+   "hs6_description": "Photographic film; in rolls, sensitised, unexposed, without sprocket holes, of a width exceeding 105mm but not exceeding 610mm (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other film, without perforations, of a width exceeding 105 mm : -- Of a width exceeding 105 mm but not exceeding 610 mm",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "37024410",
+   "hs6": "370244",
+   "hs6_description": "Photographic film; in rolls, sensitised, unexposed, without sprocket holes, of a width exceeding 105mm but not exceeding 610mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Photographic Films of a width 120 mm in rolls",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "37024420",
+   "hs6": "370244",
+   "hs6_description": "Photographic film; in rolls, sensitised, unexposed, without sprocket holes, of a width exceeding 105mm but not exceeding 610mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Cinematographic film",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "37024490",
+   "hs6": "370244",
+   "hs6_description": "Photographic film; in rolls, sensitised, unexposed, without sprocket holes, of a width exceeding 105mm but not exceeding 610mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "370252",
+   "hs6": "370252",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width not exceeding 16mm (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other film, for colour photography (polychrome) : -- Of a width not exceeding 16 mm",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "37025210",
+   "hs6": "370252",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width not exceeding 16mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Finished rolls of cinematographic positive",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "37025220",
+   "hs6": "370252",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width not exceeding 16mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other cinematographic film",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "37025290",
+   "hs6": "370252",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width not exceeding 16mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "37025300",
+   "hs6": "370253",
+   "hs6_description": "Photographic film; for colour photography (polychrome) slides, in rolls, sensitised, unexposed, of a width exceeding 16mm but not exceeding 35mm and of a length not exceeding 30m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other film, for colour photography (polychrome) : -- Of a width exceeding 16 mm but not exceeding 35 mm and of a length not exceeding 30 m, for slides",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "370254",
+   "hs6": "370254",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width exceeding 16mm but not 35mm and of a length not exceeding 30m, excluding film for slides (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other film, for colour photography (polychrome) : -- Of a width exceeding 16 mm but not exceeding 35 mm and of a length not exceeding 30 m, other than for slides",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "37025410",
+   "hs6": "370254",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width exceeding 16mm but not 35mm and of a length not exceeding 30m, excluding film for slides (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Finished rolls of cinematographic positive",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "37025420",
+   "hs6": "370254",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width exceeding 16mm but not 35mm and of a length not exceeding 30m, excluding film for slides (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other cinematographic film",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "37025490",
+   "hs6": "370254",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width exceeding 16mm but not 35mm and of a length not exceeding 30m, excluding film for slides (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "370255",
+   "hs6": "370255",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width exceeding 16mm but not 35mm and of a length exceeding 30m (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other film, for colour photography (polychrome) : -- Of a width exceeding 16 mm but not exceeding 35 mm and of a length exceeding 30 m",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "37025510",
+   "hs6": "370255",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width exceeding 16mm but not 35mm and of a length exceeding 30m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Finished rolls of cinematographic positive",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "37025520",
+   "hs6": "370255",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width exceeding 16mm but not 35mm and of a length exceeding 30m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other cinematographic film",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "37025590",
+   "hs6": "370255",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width exceeding 16mm but not 35mm and of a length exceeding 30m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "370256",
+   "hs6": "370256",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width exceeding 35mm (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other film, for colour photography (polychrome) : -- Of a width exceeding 35 mm",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "37025610",
+   "hs6": "370256",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width exceeding 35mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Finished rolls of cinematographic positive",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "37025620",
+   "hs6": "370256",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width exceeding 35mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other cinematographic film",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "37025690",
+   "hs6": "370256",
+   "hs6_description": "Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, of a width exceeding 35mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "370296",
+   "hs6": "370296",
+   "hs6_description": "Photographic film; other than for colour photography, in rolls, sensitised, unexposed, of a width not exceeding 35mm and of a length not exceeding 30m (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other : -- Of a width not exceeding 35 mm and of a length not exceeding 30 m",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "37029611",
+   "hs6": "370296",
+   "hs6_description": "Photographic film; other than for colour photography, in rolls, sensitised, unexposed, of a width not exceeding 35mm and of a length not exceeding 30m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Not exceeding 16 mm",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "37029619",
+   "hs6": "370296",
+   "hs6_description": "Photographic film; other than for colour photography, in rolls, sensitised, unexposed, of a width not exceeding 35mm and of a length not exceeding 30m (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "370297",
+   "hs6": "370297",
+   "hs6_description": "Photographic film; other than for colour photography, in rolls, sensitised, unexposed, of a width not exceeding 35mm and of a length exceeding 30m (other than paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other : -- Of a width not exceeding 35 mm and of a length exceeding 30 m",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "37029711",
+   "hs6": "370297",
+   "hs6_description": "Photographic film; other than for colour photography, in rolls, sensitised, unexposed, of a width not exceeding 35mm and of a length exceeding 30m (other than paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Not exceeding 16 mm",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "37029719",
+   "hs6": "370297",
+   "hs6_description": "Photographic film; other than for colour photography, in rolls, sensitised, unexposed, of a width not exceeding 35mm and of a length exceeding 30m (other than paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "370298",
+   "hs6": "370298",
+   "hs6_description": "Photographic film; other than for colour photography, in rolls, sensitised, unexposed, of a width exceeding 35mm (other than of paper, paperboard or textiles)",
    "level": 6,
    "chapter": "37",
    "description": "Other : -- Of a width exceeding 35 mm",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "37029810",
+   "hs6": "370298",
+   "hs6_description": "Photographic film; other than for colour photography, in rolls, sensitised, unexposed, of a width exceeding 35mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Cinematographic film",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "37029890",
+   "hs6": "370298",
+   "hs6_description": "Photographic film; other than for colour photography, in rolls, sensitised, unexposed, of a width exceeding 35mm (other than of paper, paperboard or textiles)",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "3703",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "37",
    "description": "Photographic paper, paperboard and textiles, sensitised, unexposed",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "370310",
+   "hs6": "370310",
+   "hs6_description": "Photographic paper, paperboard and textiles; in rolls, sensitised, unexposed, of a width exceeding 610mm",
    "level": 6,
    "chapter": "37",
    "description": "In rolls of a width exceeding 610 mm",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "37031010",
+   "hs6": "370310",
+   "hs6_description": "Photographic paper, paperboard and textiles; in rolls, sensitised, unexposed, of a width exceeding 610mm",
    "level": 8,
    "chapter": "37",
    "description": "Photographic paper or paperboard",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "37031020",
+   "hs6": "370310",
+   "hs6_description": "Photographic paper, paperboard and textiles; in rolls, sensitised, unexposed, of a width exceeding 610mm",
    "level": 8,
    "chapter": "37",
    "description": "Textiles",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "370320",
+   "hs6": "370320",
+   "hs6_description": "Photographic paper, paperboard and textiles; for colour photography (polychrome), (other than in rolls of a width exceeding 610mm), sensitised, unexposed",
    "level": 6,
    "chapter": "37",
    "description": "Other, for colour photography (polychrome)",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "37032010",
+   "hs6": "370320",
+   "hs6_description": "Photographic paper, paperboard and textiles; for colour photography (polychrome), (other than in rolls of a width exceeding 610mm), sensitised, unexposed",
    "level": 8,
    "chapter": "37",
    "description": "Photographic paper or paperboard",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "37032020",
+   "hs6": "370320",
+   "hs6_description": "Photographic paper, paperboard and textiles; for colour photography (polychrome), (other than in rolls of a width exceeding 610mm), sensitised, unexposed",
    "level": 8,
    "chapter": "37",
    "description": "Textiles",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "370390",
+   "hs6": "370390",
+   "hs6_description": "Photographic paper, paperboard and textiles; (for other than colour photography, other than in rolls of a width exceeding 610mm), sensitised, unexposed",
    "level": 6,
    "chapter": "37",
    "description": "Other",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "37039010",
+   "hs6": "370390",
+   "hs6_description": "Photographic paper, paperboard and textiles; (for other than colour photography, other than in rolls of a width exceeding 610mm), sensitised, unexposed",
    "level": 8,
    "chapter": "37",
    "description": "Photographic paper or paperboard",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "37039020",
+   "hs6": "370390",
+   "hs6_description": "Photographic paper, paperboard and textiles; (for other than colour photography, other than in rolls of a width exceeding 610mm), sensitised, unexposed",
    "level": 8,
    "chapter": "37",
    "description": "Textiles",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "3704",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "37",
    "description": "Photographic plates, film, paper, paperboard and textiles, exposed but not developed.",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "370400",
+   "hs6": "370400",
+   "hs6_description": "Photographic plates, film, paper, paperboard and textiles; exposed but not developed",
    "level": 6,
    "chapter": "37",
    "description": "Photographic plates, film, paper, paper board and textiles, exposed but not developed :",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "37040010",
+   "hs6": "370400",
+   "hs6_description": "Photographic plates, film, paper, paperboard and textiles; exposed but not developed",
    "level": 8,
    "chapter": "37",
    "description": "Photographic paper, or paperboard",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "37040020",
+   "hs6": "370400",
+   "hs6_description": "Photographic plates, film, paper, paperboard and textiles; exposed but not developed",
    "level": 8,
    "chapter": "37",
    "description": "Cinematographic plates and film",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "37040030",
+   "hs6": "370400",
+   "hs6_description": "Photographic plates, film, paper, paperboard and textiles; exposed but not developed",
    "level": 8,
    "chapter": "37",
    "description": "Sensitised Textiles",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "37040090",
+   "hs6": "370400",
+   "hs6_description": "Photographic plates, film, paper, paperboard and textiles; exposed but not developed",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "3705",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "37",
    "description": "PHOTOGRAPHIC PLATES AND FILM, EXPOSED AND DEVELOPED, OTHER THAN CINEMATOGRAPHIC FILM",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "37050000",
+   "hs6": "370500",
+   "hs6_description": "Photographic plates and film; exposed and developed, other than cinematographic film",
    "level": 8,
    "chapter": "37",
    "description": "Photographic plates and film, exposed and developed, other than cinematographic film.",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "3706",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "37",
    "description": "Cinematographic film, exposed and developed, whether or not incorporating sound track or consisting only of sound track.",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "370610",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 6,
    "chapter": "37",
    "description": "Of a width of 35 mm or more",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "37061011",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Made wholly in black and white and of a length not exceeding 4,000 m",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "37061012",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Made wholly in black and white and of a length exceeding 4,000 m",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "37061013",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Made wholly or partly in colour and of a length not exceeding 4,000 m",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "37061014",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Made wholly or partly in colour and of a length exceeding 4,000 m",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "37061015",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Children's films certified by the Central Board of Film Certification to be Children's Film",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "37061020",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Documentary Shorts, and Films certified as such by the Central Board of Film Certification",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "37061030",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "News Reels and clippings",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "37061041",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Advertisement Shorts and Films: ---- Made wholly in black and white",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "37061042",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Advertisement Shorts and Films: ---- Made wholly or partly in colour",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "37061051",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Other Childrens Film: ---- Patch prints, including Logos intended exclusively for the entertainment of children.",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "37061052",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Other Childrens Film: ---- Childrens film certified by the Central Board of Films Certification to be Childrens Film",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "37061059",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Other Childrens Film: ---- Other",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "37061061",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Certified as predominantly educational by the Central Board of Film Certification",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "37061062",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Patch prints, including logos intended exclusively for educational purposes.",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "37061063",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Teaching aids including film strips of educational nature",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "37061069",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "37061070",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Short films not elsewhere specified or included Other:",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "37061091",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Audio-Visual news or Audio-Visual views materials including news clippings",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "37061092",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Master Positives, exposed negatives, dupes and rush prints as are not cleared for Public exhibitions.",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "37061099",
+   "hs6": "370610",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating sound track or consisting only of sound track, of a width of 35cm or more",
    "level": 8,
    "chapter": "37",
    "description": "Other",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "370690",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 6,
    "chapter": "37",
    "description": "Other",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "37069011",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Made wholly in black and white and of a length not exceeding 4,000 m",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "37069012",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Made wholly in black and white and of a length exceeding 4,000 m",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "37069013",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Made wholly or partly in colour and of a length not exceeding 4,000 m",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "37069014",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Made wholly or partly in colour and of a length exceeding 4,000 m",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "37069015",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Children's films certified by the Central Board of Film Certification to be \"Children's Film\"",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "37069020",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Documentary Shorts, and Films certified as such by the Central Board of Film Certification",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "37069030",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "News Reels and clippings",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "37069041",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Advertisement Shorts and Films: ---- Made wholly in black and white",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "37069042",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Advertisement Shorts and Films: ---- Made wholly or partly in colour",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "37069051",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Other Childrens Film: ---- Patch prints, including Logos intended exclusively for the entertainment of children.",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "37069052",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Other Childrens Film: ---- Childrens film certified by the Central Board of Films Certification to be Childrens Film",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "37069059",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Other Childrens Film: ---- Other",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "37069061",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Educational Shorts, and Films: ---- Certified as predominantly educational by the Central Board of Film Certification",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "37069062",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Educational Shorts, and Films: ---- Patch prints, including logos intended exclusively for educational purposes",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "37069063",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Educational Shorts, and Films: ---- Teaching aids including film strips of educational nature",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "37069064",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Educational Shorts, and Films: ---- Certified as predominantly educational, by Central Board of Film Certification, of width below 30 mm",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "37069069",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Educational Shorts, and Films: ---- Other",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "37069070",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Educational Shorts, and Films: ---- Short film not elsewhere specified",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "37069091",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Other: ---- Audio-Visual news or Audio-Visual views materials including news clippings.",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "37069092",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Other: ---- Master Positives, exposed negatives, dupes and rush prints as are not cleared for Public exhibitions.",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "37069099",
+   "hs6": "370690",
+   "hs6_description": "Cinematographic film; exposed and developed, whether or not incorporating a sound track or consisting only of sound track, of a width less than 35mm",
    "level": 8,
    "chapter": "37",
    "description": "Other: ---- Other",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "3707",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "37",
    "description": "Chemical preparations for photographic uses (other than varnishes, glues, adhesives and similar preparations); unmixed products for photographic uses, put up in measured portions or put up for retail sale in a form ready for use.",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "37071000",
+   "hs6": "370710",
+   "hs6_description": "Photographic goods; sensitised emulsions, put up in measured portions or put up for retail sale in a form ready for use",
    "level": 8,
    "chapter": "37",
    "description": "Sensitisin",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "370790",
+   "hs6": "370790",
+   "hs6_description": "Photographic goods; chemical preparations other than sensitised emulsions, put up in measured portions or put up for retail sale in a form ready for use",
    "level": 6,
    "chapter": "37",
    "description": "Other",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "37079010",
+   "hs6": "370790",
+   "hs6_description": "Photographic goods; chemical preparations other than sensitised emulsions, put up in measured portions or put up for retail sale in a form ready for use",
    "level": 8,
    "chapter": "37",
    "description": "Chemical products mixed or compounded for Photographic uses (for example, developers and fixers) whether or not in bulk",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "37079090",
+   "hs6": "370790",
+   "hs6_description": "Photographic goods; chemical preparations other than sensitised emulsions, put up in measured portions or put up for retail sale in a form ready for use",
    "level": 8,
    "chapter": "37",
    "description": "Other",

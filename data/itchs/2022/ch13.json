@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "1301",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "13",
    "description": "Lac; natural gums, resins, gum-resins and oleoresins (for example, balsams).",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "13012000",
+   "hs6": "130120",
+   "hs6_description": "Gum Arabic",
    "level": 8,
    "chapter": "13",
    "description": "Gum Arabic",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "130190",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 6,
    "chapter": "13",
    "description": "Other",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "13019011",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Natural gums: ---- Asian gum",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "13019012",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Natural gums: ---- African gum",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "13019013",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Natural gums: ---- Asafoetida",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "13019014",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Natural gums: ---- Benjamin ras",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "13019015",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Natural gums: ---- Benjamin cowrie",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "13019016",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Natural gums: ---- Karaya gum (Indian tragacanth) hastab",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "13019017",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Natural gums: ---- Tragacanth (adraganth)",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "13019018",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Natural gums: ---- Storax",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "13019019",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Natural gums: ---- Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "13019021",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Resins: ---- Copal",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "13019022",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Resins: ---- Dammar batu",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "13019029",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Resins: ---- Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "13019031",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Gum Resins: ---- Myrrh",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "13019032",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Gum Resins: ---- Oilbanum or frankincense",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "13019033",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Gum Resins: ---- Mastic gum",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "13019034",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Gum Resins: ---- Xanthium gum",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "13019039",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Gum Resins: ---- Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "13019041",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Oleoresins: ---- Of Seeds",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "13019042",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Oleoresins: ---- Of Fruits",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "13019043",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Oleoresins: ---- Of Leaves",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "13019044",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Oleoresins: ---- Of Spices",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "13019045",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Oleoresins: ---- Of Flowers",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "13019046",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Oleoresins: ---- Of Roots",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "13019049",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Oleoresins: ---- Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "13019099",
+   "hs6": "130190",
+   "hs6_description": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
    "level": 8,
    "chapter": "13",
    "description": "Other: ---- Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "1302",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "13",
    "description": "Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products.",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "13021100",
+   "hs6": "130211",
+   "hs6_description": "Vegetable saps and extracts; opium",
    "level": 8,
    "chapter": "13",
    "description": "Vegetable saps and extracts :-- Opium",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "13021200",
+   "hs6": "130212",
+   "hs6_description": "Vegetable saps and extracts; of liquorice",
    "level": 8,
    "chapter": "13",
    "description": "Vegetable saps and extracts :-- Of liquorice",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "13021300",
+   "hs6": "130213",
+   "hs6_description": "Vegetable saps and extracts; of hops",
    "level": 8,
    "chapter": "13",
    "description": "Vegetable saps and extracts :-- Of hops",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "13021400",
+   "hs6": "130214",
+   "hs6_description": "Vegetable saps and extracts; of ephedra",
    "level": 8,
    "chapter": "13",
    "description": "Vegetable saps and extracts :-- Of ephedra",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "130219",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 6,
    "chapter": "13",
    "description": "Vegetable saps and extracts :-- Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "13021911",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "Extracts: ---- Of Belladona",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "13021912",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "Extracts: ---- Of Cascara sagrada",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "13021913",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "Extracts: ---- Of nux vomica",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "13021914",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "Extracts: ---- Of ginseng (including powder)",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "13021915",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "Extracts: ---- Of agarose",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "13021916",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "Extracts: ---- Of neem",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "13021917",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "Extracts: ---- Of gymnema",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "13021918",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "Extracts: ---- Of garacinia and gambodge",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "13021921",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Withania somnifera",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "13021922",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Bacopa monnieri",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "13021923",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Berberis aristata",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "13021924",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Boswellia serrata",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "13021925",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Emblica officinalis",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "13021926",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Ocimum sanctum",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "13021927",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Capsicum annuum",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "13021928",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Phaseolus vulgaris",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "13021931",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Piper nigrum",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "13021932",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Pterocarpus marsupium",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "13021933",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Punica granatum",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "13021934",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Salacia reticulata",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "13021935",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Tagetes erecta",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "13021936",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Terminalia bellirica",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "13021937",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Curcuma longa",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "13021938",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Of Zingiber officinale",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "13021939",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "---- Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "13021950",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "--- Cashew shell liquid (CNSL), crude",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "13021960",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "--- Purified and distilled CNSL (Cardanol)",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "13021990",
+   "hs6": "130219",
+   "hs6_description": "Vegetable saps and extracts; n.e.c. in item no. 1302.1",
    "level": 8,
    "chapter": "13",
    "description": "Extracts: ---- Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "13022000",
+   "hs6": "130220",
+   "hs6_description": "Pectic substances; pectinates and pectates",
    "level": 8,
    "chapter": "13",
    "description": "Pectic substances, pectinates and pectates",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "13023100",
+   "hs6": "130231",
+   "hs6_description": "Mucilages and thickeners; agar-agar, whether or not modified, derived from vegetable products",
    "level": 8,
    "chapter": "13",
    "description": "Mucilages and thickeners, whether or not modified, derived from vegetable products : -- Agar-agar",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "130232",
+   "hs6": "130232",
+   "hs6_description": "Mucilages and thickeners; whether or not modified, derived from locust beans, locust bean seeds or guar seeds",
    "level": 6,
    "chapter": "13",
    "description": "Mucilages and thickeners, whether or not modified, derived from vegetable products : -- Mucilages and thickeners, whether or not modified, derived from locust beans, locust bean seeds or guar seeds",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "13023231",
+   "hs6": "130232",
+   "hs6_description": "Mucilages and thickeners; whether or not modified, derived from locust beans, locust bean seeds or guar seeds",
    "level": 8,
    "chapter": "13",
    "description": "Guargum:---- Chemically treated",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "13023239",
+   "hs6": "130232",
+   "hs6_description": "Mucilages and thickeners; whether or not modified, derived from locust beans, locust bean seeds or guar seeds",
    "level": 8,
    "chapter": "13",
    "description": "Guargum:---- Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "13023290",
+   "hs6": "130232",
+   "hs6_description": "Mucilages and thickeners; whether or not modified, derived from locust beans, locust bean seeds or guar seeds",
    "level": 8,
    "chapter": "13",
    "description": "Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "130239",
+   "hs6": "130239",
+   "hs6_description": "Mucilages and thickeners; whether or not modified, derived from vegetable products, n.e.c. in item no. 1302.3",
    "level": 6,
    "chapter": "13",
    "description": "Other:",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "13023910",
+   "hs6": "130239",
+   "hs6_description": "Mucilages and thickeners; whether or not modified, derived from vegetable products, n.e.c. in item no. 1302.3",
    "level": 8,
    "chapter": "13",
    "description": "Tamarind Kernel Powder",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "13023920",
+   "hs6": "130239",
+   "hs6_description": "Mucilages and thickeners; whether or not modified, derived from vegetable products, n.e.c. in item no. 1302.3",
    "level": 8,
    "chapter": "13",
    "description": "Kappa carrageenan",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "13023990",
+   "hs6": "130239",
+   "hs6_description": "Mucilages and thickeners; whether or not modified, derived from vegetable products, n.e.c. in item no. 1302.3",
    "level": 8,
    "chapter": "13",
    "description": "Other",

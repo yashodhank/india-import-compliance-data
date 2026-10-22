@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "7301",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "73011000",
+   "hs6": "730110",
+   "hs6_description": "Iron or steel; sheet piling, whether or not drilled, punched or made from assembled elements",
    "level": 8,
    "chapter": "73",
    "description": "Sheet piling",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "730120",
+   "hs6": "730120",
+   "hs6_description": "Iron or steel; angles, shapes and sections, welded",
    "level": 6,
    "chapter": "73",
    "description": "Angles, shapes and sections",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "73012010",
+   "hs6": "730120",
+   "hs6_description": "Iron or steel; angles, shapes and sections, welded",
    "level": 8,
    "chapter": "73",
    "description": "Steel slotted angles",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "73012090",
+   "hs6": "730120",
+   "hs6_description": "Iron or steel; angles, shapes and sections, welded",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "7302",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Railway or tramway track construction material of iron or steel, the following : rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers (cross-ties), fish-plates, chairs, chair wedges, sole plates (base plates), rail clips, bedplates, ties and other material specialized for jointing or fixing rails.",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "730210",
+   "hs6": "730210",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; rails",
    "level": 6,
    "chapter": "73",
    "description": "Rails",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "73021011",
+   "hs6": "730210",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; rails",
    "level": 8,
    "chapter": "73",
    "description": "For railways:----Head hardened rails",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "73021012",
+   "hs6": "730210",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; rails",
    "level": 8,
    "chapter": "73",
    "description": "For railways:----Asymmetric rails with end forging",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "73021013",
+   "hs6": "730210",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; rails",
    "level": 8,
    "chapter": "73",
    "description": "For railways:----Asymmetric rails without end forging",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "73021014",
+   "hs6": "730210",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; rails",
    "level": 8,
    "chapter": "73",
    "description": "For railways:----Other than asymmetric rails and head hardened rails",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "73021019",
+   "hs6": "730210",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; rails",
    "level": 8,
    "chapter": "73",
    "description": "For railways:----Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "73021020",
+   "hs6": "730210",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; rails",
    "level": 8,
    "chapter": "73",
    "description": "For Tramways",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "73021090",
+   "hs6": "730210",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; rails",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "73023000",
+   "hs6": "730230",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; switch blades, crossing frogs, point rods and other crossing pieces",
    "level": 8,
    "chapter": "73",
    "description": "Switch blades, crossing frogs, point rods and other crossing pieces",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "73024000",
+   "hs6": "730240",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; fish-plates and sole plates",
    "level": 8,
    "chapter": "73",
    "description": "Fish-plates and sole plates",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "730290",
+   "hs6": "730290",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; n.e.c. in heading no. 7302",
    "level": 6,
    "chapter": "73",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "73029010",
+   "hs6": "730290",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; n.e.c. in heading no. 7302",
    "level": 8,
    "chapter": "73",
    "description": "Material for joining or fixing rails",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "73029090",
+   "hs6": "730290",
+   "hs6_description": "Iron or steel, railway or tramway track construction material; n.e.c. in heading no. 7302",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "7303",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Tubes, pipes and hollow profiles, of cast iron.",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "730300",
+   "hs6": "730300",
+   "hs6_description": "Cast iron; tubes, pipes and hollow profiles",
    "level": 6,
    "chapter": "73",
    "description": "Tubes, pipes and hollow profiles, of cast iron:",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "73030010",
+   "hs6": "730300",
+   "hs6_description": "Cast iron; tubes, pipes and hollow profiles",
    "level": 8,
    "chapter": "73",
    "description": "Rain water pipe",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "73030020",
+   "hs6": "730300",
+   "hs6_description": "Cast iron; tubes, pipes and hollow profiles",
    "level": 8,
    "chapter": "73",
    "description": "Soil pipe",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "73030030",
+   "hs6": "730300",
+   "hs6_description": "Cast iron; tubes, pipes and hollow profiles",
    "level": 8,
    "chapter": "73",
    "description": "Spun pipe",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "73030090",
+   "hs6": "730300",
+   "hs6_description": "Cast iron; tubes, pipes and hollow profiles",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "7304",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel.",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "730411",
+   "hs6": "730411",
+   "hs6_description": "Iron or steel (excluding cast iron); seamless, line pipe of a kind used for oil or gas pipelines, of stainless steel",
    "level": 6,
    "chapter": "73",
    "description": "Line pipe of a kind used for oil or gas pipelines : -- Of stainless steel",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "73041110",
+   "hs6": "730411",
+   "hs6_description": "Iron or steel (excluding cast iron); seamless, line pipe of a kind used for oil or gas pipelines, of stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Tubes and pipes",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "73041120",
+   "hs6": "730411",
+   "hs6_description": "Iron or steel (excluding cast iron); seamless, line pipe of a kind used for oil or gas pipelines, of stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Blanks for tubes and pipes",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "73041190",
+   "hs6": "730411",
+   "hs6_description": "Iron or steel (excluding cast iron); seamless, line pipe of a kind used for oil or gas pipelines, of stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "730419",
+   "hs6": "730419",
+   "hs6_description": "Iron or steel (excluding cast iron or stainless steel); seamless, line pipe of a kind used for oil or gas pipelines",
    "level": 6,
    "chapter": "73",
    "description": "Line pipe of a kind used for oil or gas pipelines : -- Other",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "73041910",
+   "hs6": "730419",
+   "hs6_description": "Iron or steel (excluding cast iron or stainless steel); seamless, line pipe of a kind used for oil or gas pipelines",
    "level": 8,
    "chapter": "73",
    "description": "Tubes and pipes",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "73041920",
+   "hs6": "730419",
+   "hs6_description": "Iron or steel (excluding cast iron or stainless steel); seamless, line pipe of a kind used for oil or gas pipelines",
    "level": 8,
    "chapter": "73",
    "description": "Blanks for tubes and pipes",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "73041990",
+   "hs6": "730419",
+   "hs6_description": "Iron or steel (excluding cast iron or stainless steel); seamless, line pipe of a kind used for oil or gas pipelines",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "73042200",
+   "hs6": "730422",
+   "hs6_description": "Steel, stainless; seamless, drill pipe, of a kind used in drilling for oil or gas",
    "level": 8,
    "chapter": "73",
    "description": "Casing, tubing and drill pipe, of a kind used in drilling for oil or gas --Drill pipe of stainless steel",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "730423",
+   "hs6": "730423",
+   "hs6_description": "Iron or steel (excluding cast iron or stainless steel); seamless, drill pipe, of a kind used in drilling for oil or gas",
    "level": 6,
    "chapter": "73",
    "description": "Casing, tubing and drill pipe, of a kind used in drilling for oil or gas -- Other drill pipe",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "73042310",
+   "hs6": "730423",
+   "hs6_description": "Iron or steel (excluding cast iron or stainless steel); seamless, drill pipe, of a kind used in drilling for oil or gas",
    "level": 8,
    "chapter": "73",
    "description": "Of iron",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "73042390",
+   "hs6": "730423",
+   "hs6_description": "Iron or steel (excluding cast iron or stainless steel); seamless, drill pipe, of a kind used in drilling for oil or gas",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "73042400",
+   "hs6": "730424",
+   "hs6_description": "Steel, stainless; seamless, casing and tubing, of a kind used in drilling for oil or gas",
    "level": 8,
    "chapter": "73",
    "description": "Casing, tubing and drill pipe, of a kind used in drilling for oil or gas -- Other, of stainless steel",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "730429",
+   "hs6": "730429",
+   "hs6_description": "Iron or steel (excluding cast iron or stainless steel); seamless, casing and tubing, of a kind used in drilling for oil or gas",
    "level": 6,
    "chapter": "73",
    "description": "Casing, tubing and drill pipe, of a kind used in drilling for oil or gas -- Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "73042910",
+   "hs6": "730429",
+   "hs6_description": "Iron or steel (excluding cast iron or stainless steel); seamless, casing and tubing, of a kind used in drilling for oil or gas",
    "level": 8,
    "chapter": "73",
    "description": "Of iron",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "73042990",
+   "hs6": "730429",
+   "hs6_description": "Iron or steel (excluding cast iron or stainless steel); seamless, casing and tubing, of a kind used in drilling for oil or gas",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "730431",
+   "hs6": "730431",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",
    "level": 6,
    "chapter": "73",
    "description": "Other, of circular cross-section, of iron or non-alloy steel : -- Cold-drawn or cold-rolled (cold-reduced)",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "73043111",
+   "hs6": "730431",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Of iron",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "73043119",
+   "hs6": "730431",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "73043121",
+   "hs6": "730431",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Above 114.3 mm but up to 219.1 mm outer diameter: ---- Of iron",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "73043129",
+   "hs6": "730431",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Above 114.3 mm but up to 219.1 mm outer diameter: ---- Other",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "73043131",
+   "hs6": "730431",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Above 219.1 mm diameter: ---- Of iron",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "73043139",
+   "hs6": "730431",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Above 219.1 mm diameter: ---- Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "730439",
+   "hs6": "730439",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",
    "level": 6,
    "chapter": "73",
    "description": "Other, of circular cross-section, of iron or non-alloy steel : -- Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "73043911",
+   "hs6": "730439",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Up to 114.3 mm outer diameter: ---- Of iron",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "73043919",
+   "hs6": "730439",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Up to 114.3 mm outer diameter: ----Other",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "73043921",
+   "hs6": "730439",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Above 114.3 mm but up to 219.1 mm outer diameters: ---- Of iron",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "73043929",
+   "hs6": "730439",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Above 114.3 mm but up to 219.1 mm outer diameters: ---- Other",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "73043931",
+   "hs6": "730439",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Above 219.1 mm diameter: ---- Of iron",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "73043939",
+   "hs6": "730439",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Above 219.1 mm diameter: ---- Other",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "73044100",
+   "hs6": "730441",
+   "hs6_description": "Steel, stainless; cold-drawn or cold-rolled (cold-reduced), tubes and pipes of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Other, of circular cross-section, of stainless steel : -- Cold-drawn or cold-rolled (cold-reduced)",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "73044900",
+   "hs6": "730449",
+   "hs6_description": "Steel, stainless; (excluding cold-drawn or cold-rolled), tubes pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Other, of circular cross-section, of stainless steel : -- Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "730451",
+   "hs6": "730451",
+   "hs6_description": "Steel, alloy (not stainless steel); seamless, cold-drawn or cold-rolled (cold-reduced), tubes, pipes and hollow profiles of circular cross-section",
    "level": 6,
    "chapter": "73",
    "description": "Other, of circular cross-section, of other alloy steel : -- Cold-drawn or cold-rolled (cold-reduced)",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "73045110",
+   "hs6": "730451",
+   "hs6_description": "Steel, alloy (not stainless steel); seamless, cold-drawn or cold-rolled (cold-reduced), tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Up to 114.3 mm diameter",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "73045120",
+   "hs6": "730451",
+   "hs6_description": "Steel, alloy (not stainless steel); seamless, cold-drawn or cold-rolled (cold-reduced), tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Above 114.3 mm but up to 219.1 mm outer diameter",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "73045130",
+   "hs6": "730451",
+   "hs6_description": "Steel, alloy (not stainless steel); seamless, cold-drawn or cold-rolled (cold-reduced), tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Above 219.1 mm outer diameter",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "730459",
+   "hs6": "730459",
+   "hs6_description": "Steel, alloy (not stainless steel); (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",
    "level": 6,
    "chapter": "73",
    "description": "Other, of circular cross-section, of other alloy steel : -- Other",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "73045910",
+   "hs6": "730459",
+   "hs6_description": "Steel, alloy (not stainless steel); (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Up to 114.3 mm diameter",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "73045920",
+   "hs6": "730459",
+   "hs6_description": "Steel, alloy (not stainless steel); (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Above 114.3 mm but up to 219.1 mm outer diameter",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "73045930",
+   "hs6": "730459",
+   "hs6_description": "Steel, alloy (not stainless steel); (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",
    "level": 8,
    "chapter": "73",
    "description": "Above 219.1 mm outer diameter",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "73049000",
+   "hs6": "730490",
+   "hs6_description": "Iron or steel (excluding cast iron); seamless, tubes, pipes and hollow profiles, seamless, n.e.c. in heading no. 7304",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "7305",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross-sections, the external diameter of which exceeds 406.4 mm, of iron or steel.",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "730511",
+   "hs6": "730511",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 6,
    "chapter": "73",
    "description": "Line pipe of a kind used for oil or gas pipelines : -- Longitudinally submerged arc welded",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "73051111",
+   "hs6": "730511",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "Galvanised pipes: ---- Of iron",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "73051119",
+   "hs6": "730511",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "----Other---Non-galvanised pipes, of iron :",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "73051131",
+   "hs6": "730511",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "---Non-galvanised pipes, of iron :----Clad, plated or coated",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "73051139",
+   "hs6": "730511",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "--- Non-galvanised pipes: ---- Of iron",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "73051141",
+   "hs6": "730511",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "---Non-galvanised pipes, of iron :----Other",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "73051149",
+   "hs6": "730511",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "--- Non-galvanised pipes: ---- Other",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "730512",
+   "hs6": "730512",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 6,
    "chapter": "73",
    "description": "Line pipe of a kind used for oil or gas pipelines : -- Other, longitudinally welded",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "73051211",
+   "hs6": "730512",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "Galvanised pipes: ---- Of iron",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "73051219",
+   "hs6": "730512",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "-------Non-galvanised pipes, of iron :",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "73051231",
+   "hs6": "730512",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "--- Non-galvanised pipes, other :----Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "73051239",
+   "hs6": "730512",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "--- Non-galvanised pipes: ---- Of iron",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "73051241",
+   "hs6": "730512",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "---Non-galvanised pipes, of iron :----Other",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "73051249",
+   "hs6": "730512",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "--- Non-galvanised pipes: ---- Other",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "730519",
+   "hs6": "730519",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 6,
    "chapter": "73",
    "description": "Line pipe of a kind used for oil or gas pipelines : -- Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "73051911",
+   "hs6": "730519",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "Galvanised pipes: ---- Of iron",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "73051919",
+   "hs6": "730519",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "----Other",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "73051931",
+   "hs6": "730519",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "---Non-galvanised pipes, other :----Other",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "73051939",
+   "hs6": "730519",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "--- Non-galvanised (black) pipes: ---- of Iron",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "73051941",
+   "hs6": "730519",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "---Non-galvanised pipes, of iron :----Other",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "73051949",
+   "hs6": "730519",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "-- Non-galvanised (black) pipes: ----other",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "730520",
+   "hs6": "730520",
+   "hs6_description": "Iron or steel (excluding cast iron); casing of a kind used in drilling for oil or gas (not seamless), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 6,
    "chapter": "73",
    "description": "Casing of a kind used in drilling for oil or gas",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "73052010",
+   "hs6": "730520",
+   "hs6_description": "Iron or steel (excluding cast iron); casing of a kind used in drilling for oil or gas (not seamless), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "Of iron",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "73052090",
+   "hs6": "730520",
+   "hs6_description": "Iron or steel (excluding cast iron); casing of a kind used in drilling for oil or gas (not seamless), having circular cross-sections, external diameter exceeds 406.4mm",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "730531",
+   "hs6": "730531",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 6,
    "chapter": "73",
    "description": "Other, welded : -- Longitudinally welded",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "73053111",
+   "hs6": "730531",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "---Non-galvanised pipes, other :----Other",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "73053119",
+   "hs6": "730531",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "---Non-galvanised, of iron :----Other",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "73053121",
+   "hs6": "730531",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "---Of Iron",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "73053129",
+   "hs6": "730531",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "---Galvanised :----Of iron",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "73053131",
+   "hs6": "730531",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "---Other",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "73053139",
+   "hs6": "730531",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "---Galvanised :----Other",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "730539",
+   "hs6": "730539",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 6,
    "chapter": "73",
    "description": "Other, welded : -- Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "73053911",
+   "hs6": "730539",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "---Non-galvanised, of iron :----Other",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "73053919",
+   "hs6": "730539",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "---Non-galvanised, of iron :----Other",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "73053921",
+   "hs6": "730539",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "---of Iron",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "73053929",
+   "hs6": "730539",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "---Galvanised :----Of iron",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "73053931",
+   "hs6": "730539",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "--- Other",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "73053939",
+   "hs6": "730539",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "---Galvanised :----Other",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "730590",
+   "hs6": "730590",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 6,
    "chapter": "73",
    "description": "Other",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "73059010",
+   "hs6": "730590",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "High pressure hydroelectric conduits of steel",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "73059021",
+   "hs6": "730590",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "ERW precision tubes: ---- Of iron",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "73059029",
+   "hs6": "730590",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "ERW precision tubes: ---- Other",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "73059091",
+   "hs6": "730590",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "Other: ---- Of iron",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "73059099",
+   "hs6": "730590",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "Other: ---- Other",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "7306",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel.",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "73061100",
+   "hs6": "730611",
+   "hs6_description": "Steel; stainless; line pipe of a kind used for oil or gas pipelines n.e.c. in chapter 73, welded, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "Line pipe of a kind used for oil or gas pipelines : -- Welded, of stainless steel",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "730619",
+   "hs6": "730619",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",
    "level": 6,
    "chapter": "73",
    "description": "Line pipe of a kind used for oil or gas pipelines : -- Other",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "73061911",
+   "hs6": "730619",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "Galvanised pipes: ---- Of iron",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "73061919",
+   "hs6": "730619",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "---- Other",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "73061931",
+   "hs6": "730619",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "---Non-galvanised, other :----Other",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "73061939",
+   "hs6": "730619",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "--- Non galvanised pipes: ---- Of iron",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "73061941",
+   "hs6": "730619",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "---Non-galvanised pipes, of iron :----Other",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "73061949",
+   "hs6": "730619",
+   "hs6_description": "Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "--- Non galvanised pipes: ---- Other",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "73062100",
+   "hs6": "730621",
+   "hs6_description": "Steel, stainless; casing and tubing of a kind used in drilling for oil and gas, n.e.c. in chapter 73, welded, (not seamless)",
    "level": 8,
    "chapter": "73",
    "description": "Casing and tubing of a kind used in drilling for oil or gas : -- Welded, of stainless steel",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "730629",
+   "hs6": "730629",
+   "hs6_description": "Iron or steel (excluding cast iron); casing and tubing of a kind used in drilling for oil and gas (other than stainless steel or seamless), n.e.c. in chapter 73",
    "level": 6,
    "chapter": "73",
    "description": "Casing and tubing of a kind used in drilling for oil or gas : -- Other",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "73062911",
+   "hs6": "730629",
+   "hs6_description": "Iron or steel (excluding cast iron); casing and tubing of a kind used in drilling for oil and gas (other than stainless steel or seamless), n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "Of iron",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "73062919",
+   "hs6": "730629",
+   "hs6_description": "Iron or steel (excluding cast iron); casing and tubing of a kind used in drilling for oil and gas (other than stainless steel or seamless), n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "730630",
+   "hs6": "730630",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); tubes and pipes (not seamless), welded, of circular cross-section, n.e.c. in chapter 73",
    "level": 6,
    "chapter": "73",
    "description": "Other, welded, of circular cross-section, of iron or non-alloy steel",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "73063010",
+   "hs6": "730630",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); tubes and pipes (not seamless), welded, of circular cross-section, n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "Of iron",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "73063090",
+   "hs6": "730630",
+   "hs6_description": "Iron or non-alloy steel (excluding cast iron); tubes and pipes (not seamless), welded, of circular cross-section, n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "73064000",
+   "hs6": "730640",
+   "hs6_description": "Steel, stainless; tubes, pipes and hollow profiles, welded, of circular cross-section, n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "Other, welded, of circular cross-section, of stainless steel",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "73065000",
+   "hs6": "730650",
+   "hs6_description": "Steel, alloy; tubes, pipes and hollow profiles (other than stainless steel or seamless), welded, of circular cross-section, n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "Other, welded, of circular cross-section, of other alloy steel",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "73066100",
+   "hs6": "730661",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), welded, of square or rectangular cross-section, n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "Other, welded, of non-circular cross-section : -- Of square or rectangular cross-section",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "73066900",
+   "hs6": "730669",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73, welded, of non-circular cross-section (not square or rectangular cross-section)",
    "level": 8,
    "chapter": "73",
    "description": "Other, welded, of non-circular cross-section : -- Of other non-circular cross-section",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "730690",
+   "hs6": "730690",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
    "level": 6,
    "chapter": "73",
    "description": "Other",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "73069011",
+   "hs6": "730690",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "ERW precision tubes: ---- Of iron",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "73069019",
+   "hs6": "730690",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "ERW precision tubes: ---- Other",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "73069090",
+   "hs6": "730690",
+   "hs6_description": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
    "level": 8,
    "chapter": "73",
    "description": "ERW precision tubes: ---- Other",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "7307",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel.",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "730711",
+   "hs6": "730711",
+   "hs6_description": "Cast iron; cast fittings, of non-malleable cast iron",
    "level": 6,
    "chapter": "73",
    "description": "Cast fittings : -- Of non-malleable cast iron",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "73071110",
+   "hs6": "730711",
+   "hs6_description": "Cast iron; cast fittings, of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Sponge iron cast fittings",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "73071120",
+   "hs6": "730711",
+   "hs6_description": "Cast iron; cast fittings, of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "SG iron cast fittings",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "73071190",
+   "hs6": "730711",
+   "hs6_description": "Cast iron; cast fittings, of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "73071900",
+   "hs6": "730719",
+   "hs6_description": "Iron or steel; cast fittings, other than of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Cast fittings : -- Other",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "73072100",
+   "hs6": "730721",
+   "hs6_description": "Steel, stainless; tube or pipe fittings, flanges, of stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Other, of stainless steel : -- Flanges",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "73072200",
+   "hs6": "730722",
+   "hs6_description": "Steel, stainless; tube or pipe fittings, threaded elbows, bends and sleeves",
    "level": 8,
    "chapter": "73",
    "description": "Other, of stainless steel : -- Threaded elbows, bends and sleeves",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "73072300",
+   "hs6": "730723",
+   "hs6_description": "Steel, stainless; tube or pipe fittings, butt welding fittings",
    "level": 8,
    "chapter": "73",
    "description": "Other, of stainless steel : -- Butt welding fittings",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "73072900",
+   "hs6": "730729",
+   "hs6_description": "Steel, stainless; tube or pipe fittings, n.e.c. in item no. 7307.2",
    "level": 8,
    "chapter": "73",
    "description": "Other, of stainless steel : -- Other",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "730791",
+   "hs6": "730791",
+   "hs6_description": "Iron or steel; tube or pipe fittings, flanges, other than stainless steel",
    "level": 6,
    "chapter": "73",
    "description": "Other : -- Flanges",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "73079110",
+   "hs6": "730791",
+   "hs6_description": "Iron or steel; tube or pipe fittings, flanges, other than stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Galvanised",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "73079190",
+   "hs6": "730791",
+   "hs6_description": "Iron or steel; tube or pipe fittings, flanges, other than stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "730792",
+   "hs6": "730792",
+   "hs6_description": "Iron or steel; tube or pipe fittings, threaded elbows, bends and sleeves, other than stainless steel",
    "level": 6,
    "chapter": "73",
    "description": "Other : -- Threaded elbows, bends and sleeves",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "73079210",
+   "hs6": "730792",
+   "hs6_description": "Iron or steel; tube or pipe fittings, threaded elbows, bends and sleeves, other than stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Galvanised",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "73079290",
+   "hs6": "730792",
+   "hs6_description": "Iron or steel; tube or pipe fittings, threaded elbows, bends and sleeves, other than stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "730793",
+   "hs6": "730793",
+   "hs6_description": "Iron or steel; tube or pipe fittings, butt welding fittings, other than stainless steel",
    "level": 6,
    "chapter": "73",
    "description": "Other : -- Butt welding fittings",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "73079310",
+   "hs6": "730793",
+   "hs6_description": "Iron or steel; tube or pipe fittings, butt welding fittings, other than stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Galvanised",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "73079390",
+   "hs6": "730793",
+   "hs6_description": "Iron or steel; tube or pipe fittings, butt welding fittings, other than stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "730799",
+   "hs6": "730799",
+   "hs6_description": "Iron or steel; tube or pipe fittings, n.e.c. in item no. 7307.9, other than stainless steel",
    "level": 6,
    "chapter": "73",
    "description": "Other : -- Other",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "73079910",
+   "hs6": "730799",
+   "hs6_description": "Iron or steel; tube or pipe fittings, n.e.c. in item no. 7307.9, other than stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Galvanised",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "73079990",
+   "hs6": "730799",
+   "hs6_description": "Iron or steel; tube or pipe fittings, n.e.c. in item no. 7307.9, other than stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "7308",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridge-sections, lock-gates, towers, lattice masts, roofs, roofing frame-works, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel.",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "730810",
+   "hs6": "730810",
+   "hs6_description": "Iron or steel; structures and parts thereof, bridges and bridge-sections",
    "level": 6,
    "chapter": "73",
    "description": "Bridges and bridge-sections :",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "73081010",
+   "hs6": "730810",
+   "hs6_description": "Iron or steel; structures and parts thereof, bridges and bridge-sections",
    "level": 8,
    "chapter": "73",
    "description": "Portable bridge",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "73081090",
+   "hs6": "730810",
+   "hs6_description": "Iron or steel; structures and parts thereof, bridges and bridge-sections",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "730820",
+   "hs6": "730820",
+   "hs6_description": "Iron or steel; structures and parts thereof, towers and lattice masts",
    "level": 6,
    "chapter": "73",
    "description": "Towers and lattice masts",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "73082011",
+   "hs6": "730820",
+   "hs6_description": "Iron or steel; structures and parts thereof, towers and lattice masts",
    "level": 8,
    "chapter": "73",
    "description": "Towers, whether or not assembled: ---- For transmission line",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "73082019",
+   "hs6": "730820",
+   "hs6_description": "Iron or steel; structures and parts thereof, towers and lattice masts",
    "level": 8,
    "chapter": "73",
    "description": "Towers, whether or not assembled: ---- Other",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "73082020",
+   "hs6": "730820",
+   "hs6_description": "Iron or steel; structures and parts thereof, towers and lattice masts",
    "level": 8,
    "chapter": "73",
    "description": "Towers, whether or not assembled: ---- Lattice masts",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "73083000",
+   "hs6": "730830",
+   "hs6_description": "Iron or steel; structures and parts thereof, doors, windows and their frames and thresholds for doors",
    "level": 8,
    "chapter": "73",
    "description": "Doors, windows and their frames and thresholds for doors",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "73084000",
+   "hs6": "730840",
+   "hs6_description": "Iron or steel; structures and parts thereof, props and similar equipment for scaffolding, shuttering or pit-propping",
    "level": 8,
    "chapter": "73",
    "description": "Equipment for scaffolding, shuttering, propping or pitpropping",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "730890",
+   "hs6": "730890",
+   "hs6_description": "Iron or steel; structures and parts thereof, n.e.c. in heading 7308",
    "level": 6,
    "chapter": "73",
    "description": "Other",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "73089010",
+   "hs6": "730890",
+   "hs6_description": "Iron or steel; structures and parts thereof, n.e.c. in heading 7308",
    "level": 8,
    "chapter": "73",
    "description": "Beams, channels, pillars and girders prepared for use in structures",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "73089020",
+   "hs6": "730890",
+   "hs6_description": "Iron or steel; structures and parts thereof, n.e.c. in heading 7308",
    "level": 8,
    "chapter": "73",
    "description": "Drop rods",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "73089030",
+   "hs6": "730890",
+   "hs6_description": "Iron or steel; structures and parts thereof, n.e.c. in heading 7308",
    "level": 8,
    "chapter": "73",
    "description": "Hatchway, rails and bulkheads for ships or boats and parts of hull",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "73089040",
+   "hs6": "730890",
+   "hs6_description": "Iron or steel; structures and parts thereof, n.e.c. in heading 7308",
    "level": 8,
    "chapter": "73",
    "description": "Galvanised tension bars",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "73089050",
+   "hs6": "730890",
+   "hs6_description": "Iron or steel; structures and parts thereof, n.e.c. in heading 7308",
    "level": 8,
    "chapter": "73",
    "description": "Structures and super structures for mining",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "73089060",
+   "hs6": "730890",
+   "hs6_description": "Iron or steel; structures and parts thereof, n.e.c. in heading 7308",
    "level": 8,
    "chapter": "73",
    "description": "Truss rods",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "73089070",
+   "hs6": "730890",
+   "hs6_description": "Iron or steel; structures and parts thereof, n.e.c. in heading 7308",
    "level": 8,
    "chapter": "73",
    "description": "Tubular steel poles for electric transmission and distribution lines",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "73089090",
+   "hs6": "730890",
+   "hs6_description": "Iron or steel; structures and parts thereof, n.e.c. in heading 7308",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "7309",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment.",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "730900",
+   "hs6": "730900",
+   "hs6_description": "Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",
    "level": 6,
    "chapter": "73",
    "description": "Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment :",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "73090010",
+   "hs6": "730900",
+   "hs6_description": "Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",
    "level": 8,
    "chapter": "73",
    "description": "Galvanized iron tanks",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "73090020",
+   "hs6": "730900",
+   "hs6_description": "Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",
    "level": 8,
    "chapter": "73",
    "description": "Galvanized iron barrels and drums",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "73090030",
+   "hs6": "730900",
+   "hs6_description": "Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",
    "level": 8,
    "chapter": "73",
    "description": "Pressed steel tanks",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "73090040",
+   "hs6": "730900",
+   "hs6_description": "Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",
    "level": 8,
    "chapter": "73",
    "description": "Pressure vessels",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "73090090",
+   "hs6": "730900",
+   "hs6_description": "Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "7310",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Tanks, casks, drums, cans, boxes and similar containers, for any of a capacity not exceeding 300 l, whether or not lined or heat-",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "731010",
+   "hs6": "731010",
+   "hs6_description": "Tanks, casks, drums, cans, boxes and similar containers, for any material (excluding compressed or liquefied gas), 50l or more capacity but not exceeding 300l",
    "level": 6,
    "chapter": "73",
    "description": "Of a capacity of 50 l or more",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "73101010",
+   "hs6": "731010",
+   "hs6_description": "Tanks, casks, drums, cans, boxes and similar containers, for any material (excluding compressed or liquefied gas), 50l or more capacity but not exceeding 300l",
    "level": 8,
    "chapter": "73",
    "description": "Tin plate containers",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "73101020",
+   "hs6": "731010",
+   "hs6_description": "Tanks, casks, drums, cans, boxes and similar containers, for any material (excluding compressed or liquefied gas), 50l or more capacity but not exceeding 300l",
    "level": 8,
    "chapter": "73",
    "description": "Trunks and cases",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "73101090",
+   "hs6": "731010",
+   "hs6_description": "Tanks, casks, drums, cans, boxes and similar containers, for any material (excluding compressed or liquefied gas), 50l or more capacity but not exceeding 300l",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "731021",
+   "hs6": "731021",
+   "hs6_description": "Cans; which are to be closed by soldering or crimping, for any material (excluding compressed or liquefied gas), less than 50l capacity, of iron or steel",
    "level": 6,
    "chapter": "73",
    "description": "Of a capacity of less than 50 l : -- Cans which are to be closed by soldering or crimping",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "73102110",
+   "hs6": "731021",
+   "hs6_description": "Cans; which are to be closed by soldering or crimping, for any material (excluding compressed or liquefied gas), less than 50l capacity, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Tin plate containers",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "73102190",
+   "hs6": "731021",
+   "hs6_description": "Cans; which are to be closed by soldering or crimping, for any material (excluding compressed or liquefied gas), less than 50l capacity, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "731029",
+   "hs6": "731029",
+   "hs6_description": "Tanks, casks, drums, boxes and similar containers for any material (excluding compressed or liquefied gas) less than 50l capacity, n.e.c. in item no. 7310.2, of iron or steel",
    "level": 6,
    "chapter": "73",
    "description": "Of a capacity of less than 50 l : -- Other",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "73102910",
+   "hs6": "731029",
+   "hs6_description": "Tanks, casks, drums, boxes and similar containers for any material (excluding compressed or liquefied gas) less than 50l capacity, n.e.c. in item no. 7310.2, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Tin plate containers",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "73102920",
+   "hs6": "731029",
+   "hs6_description": "Tanks, casks, drums, boxes and similar containers for any material (excluding compressed or liquefied gas) less than 50l capacity, n.e.c. in item no. 7310.2, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Trunks and cases",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "73102990",
+   "hs6": "731029",
+   "hs6_description": "Tanks, casks, drums, boxes and similar containers for any material (excluding compressed or liquefied gas) less than 50l capacity, n.e.c. in item no. 7310.2, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "7311",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Containers for compressed or liquefied gas, of iron or steel.",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "731100",
+   "hs6": "731100",
+   "hs6_description": "Containers for compressed or liquefied gas, of iron or steel",
    "level": 6,
    "chapter": "73",
    "description": "Containers for compressed or liquefied gas, of iron or steel :",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "73110010",
+   "hs6": "731100",
+   "hs6_description": "Containers for compressed or liquefied gas, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Liquefied petroleum gas (LPG) cylinder",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "73110020",
+   "hs6": "731100",
+   "hs6_description": "Containers for compressed or liquefied gas, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Low pressure cylinder (working pressure upto 35.2 kg/sq.cm other than LPG)",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "73110030",
+   "hs6": "731100",
+   "hs6_description": "Containers for compressed or liquefied gas, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "High pressure cylinder (working pressure exceeding 35.2 kg/sq.cm)",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "73110090",
+   "hs6": "731100",
+   "hs6_description": "Containers for compressed or liquefied gas, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "7312",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated.",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "731210",
+   "hs6": "731210",
+   "hs6_description": "Iron or steel; stranded wire, ropes and cables, not electrically insulated",
    "level": 6,
    "chapter": "73",
    "description": "Stranded wire, ropes and cables",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "73121010",
+   "hs6": "731210",
+   "hs6_description": "Iron or steel; stranded wire, ropes and cables, not electrically insulated",
    "level": 8,
    "chapter": "73",
    "description": "Wire ropes, black",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "73121020",
+   "hs6": "731210",
+   "hs6_description": "Iron or steel; stranded wire, ropes and cables, not electrically insulated",
    "level": 8,
    "chapter": "73",
    "description": "Wire ropes, galvanised",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "73121030",
+   "hs6": "731210",
+   "hs6_description": "Iron or steel; stranded wire, ropes and cables, not electrically insulated",
    "level": 8,
    "chapter": "73",
    "description": "Stranded wire",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "73121090",
+   "hs6": "731210",
+   "hs6_description": "Iron or steel; stranded wire, ropes and cables, not electrically insulated",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "73129000",
+   "hs6": "731290",
+   "hs6_description": "Iron or steel; plaited bands, slings and the like, not electrically insulated",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "7313",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel.",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "731300",
+   "hs6": "731300",
+   "hs6_description": "Iron of steel; barbed wire, twisted hoop or single flat wire and loosely twisted double wire, used for fencing",
    "level": 6,
    "chapter": "73",
    "description": "Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel :",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "73130010",
+   "hs6": "731300",
+   "hs6_description": "Iron of steel; barbed wire, twisted hoop or single flat wire and loosely twisted double wire, used for fencing",
    "level": 8,
    "chapter": "73",
    "description": "Barbed wire",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "73130020",
+   "hs6": "731300",
+   "hs6_description": "Iron of steel; barbed wire, twisted hoop or single flat wire and loosely twisted double wire, used for fencing",
    "level": 8,
    "chapter": "73",
    "description": "Twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "7314",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel.",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "73141200",
+   "hs6": "731412",
+   "hs6_description": "Iron or steel; woven cloth, endless bands for machinery, of stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Woven cloth : -- Endless bands for machinery, of stainless steel",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "731414",
+   "hs6": "731414",
+   "hs6_description": "Iron or steel; woven cloth, of stainless steel, (other than endless bands for machinery)",
    "level": 6,
    "chapter": "73",
    "description": "Woven cloth : -- Other woven cloth, of stainless steel",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "73141410",
+   "hs6": "731414",
+   "hs6_description": "Iron or steel; woven cloth, of stainless steel, (other than endless bands for machinery)",
    "level": 8,
    "chapter": "73",
    "description": "Wire gauze (wire cloth, wire mesh)",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "73141490",
+   "hs6": "731414",
+   "hs6_description": "Iron or steel; woven cloth, of stainless steel, (other than endless bands for machinery)",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "731419",
+   "hs6": "731419",
+   "hs6_description": "Iron or steel; woven cloth, other than of stainless steel",
    "level": 6,
    "chapter": "73",
    "description": "Woven cloth : -- Other",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "73141910",
+   "hs6": "731419",
+   "hs6_description": "Iron or steel; woven cloth, other than of stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Wire gauze (wire cloth, wire mesh)",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "73141990",
+   "hs6": "731419",
+   "hs6_description": "Iron or steel; woven cloth, other than of stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "731420",
+   "hs6": "731420",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, welded at intersections, of wire with a maximum cross-sectional dimension of 3mm or more and mesh size 100cm2 or more",
    "level": 6,
    "chapter": "73",
    "description": "Grill, netting and fencing, welded at the intersection, of wire with a maximum cross-sectional dimension of 3 mm or more and having a mesh size of 100 cm² or more",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "73142010",
+   "hs6": "731420",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, welded at intersections, of wire with a maximum cross-sectional dimension of 3mm or more and mesh size 100cm2 or more",
    "level": 8,
    "chapter": "73",
    "description": "Wire netting",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "73142090",
+   "hs6": "731420",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, welded at intersections, of wire with a maximum cross-sectional dimension of 3mm or more and mesh size 100cm2 or more",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "73143100",
+   "hs6": "731431",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, welded at the intersection, n.e.c. in item no. 7314.20, plated or coated with zinc",
    "level": 8,
    "chapter": "73",
    "description": "Other grill, netting and fencing, welded at the intersection : -- Plated or coated with zinc",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "73143900",
+   "hs6": "731439",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, welded at the intersection, n.e.c. in item no. 7314.20, (other than plated or coated with zinc)",
    "level": 8,
    "chapter": "73",
    "description": "Other grill, netting and fencing, welded at the intersection : -- Other",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "731441",
+   "hs6": "731441",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, plated or coated with zinc",
    "level": 6,
    "chapter": "73",
    "description": "Other cloth, grill, netting and fencing : -- Plated or coated with zinc",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "73144110",
+   "hs6": "731441",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, plated or coated with zinc",
    "level": 8,
    "chapter": "73",
    "description": "Wire netting",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "73144190",
+   "hs6": "731441",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, plated or coated with zinc",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "731442",
+   "hs6": "731442",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, coated with plastic",
    "level": 6,
    "chapter": "73",
    "description": "Other cloth, grill, netting and fencing : -- Coated with plastics",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "73144210",
+   "hs6": "731442",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, coated with plastic",
    "level": 8,
    "chapter": "73",
    "description": "Wire netting",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "73144290",
+   "hs6": "731442",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, coated with plastic",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "731449",
+   "hs6": "731449",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, coated with materials other than zinc or plastic",
    "level": 6,
    "chapter": "73",
    "description": "Other cloth, grill, netting and fencing : -- Other",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "73144910",
+   "hs6": "731449",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, coated with materials other than zinc or plastic",
    "level": 8,
    "chapter": "73",
    "description": "Wire netting",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "73144990",
+   "hs6": "731449",
+   "hs6_description": "Iron or steel wire; grill, netting and fencing, coated with materials other than zinc or plastic",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "73145000",
+   "hs6": "731450",
+   "hs6_description": "Iron or steel; expanded metal",
    "level": 8,
    "chapter": "73",
    "description": "Expanded metal",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "7315",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Chain and parts thereof, of iron or steel.",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "73151100",
+   "hs6": "731511",
+   "hs6_description": "Chain; articulated link, roller, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Articulated link chain and parts thereof : -- Roller chain",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "731512",
+   "hs6": "731512",
+   "hs6_description": "Chain; articulated link, (other than roller), of iron or steel",
    "level": 6,
    "chapter": "73",
    "description": "Articulated link chain and parts thereof : -- Other chain",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "73151210",
+   "hs6": "731512",
+   "hs6_description": "Chain; articulated link, (other than roller), of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Lifting and hoisting chain",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "73151220",
+   "hs6": "731512",
+   "hs6_description": "Chain; articulated link, (other than roller), of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Ship chain",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "73151290",
+   "hs6": "731512",
+   "hs6_description": "Chain; articulated link, (other than roller), of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "73151900",
+   "hs6": "731519",
+   "hs6_description": "Chain; articulated link parts, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Articulated link chain and parts thereof : -- Parts",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "73152000",
+   "hs6": "731520",
+   "hs6_description": "Chain; skid, articulated link chain and parts thereof, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Skid chain",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "73158100",
+   "hs6": "731581",
+   "hs6_description": "Chain; stud-link chain, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other chain : -- Stud-link",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "73158200",
+   "hs6": "731582",
+   "hs6_description": "Chain; welded link chain, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other chain : -- Other, welded link",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "73158900",
+   "hs6": "731589",
+   "hs6_description": "Chain; n.e.c. in heading no. 7315, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other chain : -- Other",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "73159000",
+   "hs6": "731590",
+   "hs6_description": "Chain; parts n.e.c. in heading no. 7315, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other parts",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "7316",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Anchors, grapnels and parts thereof, of iron or steel.",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "731600",
+   "hs6": "731600",
+   "hs6_description": "Iron or steel; anchors, grapnels and parts thereof",
    "level": 6,
    "chapter": "73",
    "description": "Anchors, grapnels and parts thereof, of iron or steel :",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "73160010",
+   "hs6": "731600",
+   "hs6_description": "Iron or steel; anchors, grapnels and parts thereof",
    "level": 8,
    "chapter": "73",
    "description": "Anchors and grapnels",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "73160090",
+   "hs6": "731600",
+   "hs6_description": "Iron or steel; anchors, grapnels and parts thereof",
    "level": 8,
    "chapter": "73",
    "description": "Parts",
@@ -3033,6 +3537,8 @@
   },
   {
    "hs_code": "7317",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 83.05) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper.",
@@ -3045,6 +3551,8 @@
   },
   {
    "hs_code": "731700",
+   "hs6": "731700",
+   "hs6_description": "Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",
    "level": 6,
    "chapter": "73",
    "description": "Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 8305) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper :",
@@ -3057,6 +3565,8 @@
   },
   {
    "hs_code": "73170011",
+   "hs6": "731700",
+   "hs6_description": "Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",
    "level": 8,
    "chapter": "73",
    "description": "Nails: ---- For animal shoes",
@@ -3069,6 +3579,8 @@
   },
   {
    "hs_code": "73170012",
+   "hs6": "731700",
+   "hs6_description": "Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",
    "level": 8,
    "chapter": "73",
    "description": "Nails: ---- For fixing heel strips and toe plates",
@@ -3081,6 +3593,8 @@
   },
   {
    "hs_code": "73170013",
+   "hs6": "731700",
+   "hs6_description": "Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",
    "level": 8,
    "chapter": "73",
    "description": "Nails: ---- Wire nails",
@@ -3093,6 +3607,8 @@
   },
   {
    "hs_code": "73170019",
+   "hs6": "731700",
+   "hs6_description": "Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",
    "level": 8,
    "chapter": "73",
    "description": "Nails: ---- Other",
@@ -3105,6 +3621,8 @@
   },
   {
    "hs_code": "73170021",
+   "hs6": "731700",
+   "hs6_description": "Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",
    "level": 8,
    "chapter": "73",
    "description": "Spikes: ---- Dog spikes",
@@ -3117,6 +3635,8 @@
   },
   {
    "hs_code": "73170029",
+   "hs6": "731700",
+   "hs6_description": "Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",
    "level": 8,
    "chapter": "73",
    "description": "Spikes: ---- Other",
@@ -3129,6 +3649,8 @@
   },
   {
    "hs_code": "73170030",
+   "hs6": "731700",
+   "hs6_description": "Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",
    "level": 8,
    "chapter": "73",
    "description": "Spikes: ---- Tacks",
@@ -3141,6 +3663,8 @@
   },
   {
    "hs_code": "73170091",
+   "hs6": "731700",
+   "hs6_description": "Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",
    "level": 8,
    "chapter": "73",
    "description": "Other: ---- Staples, other than in strips, and drawing pins",
@@ -3153,6 +3677,8 @@
   },
   {
    "hs_code": "73170099",
+   "hs6": "731700",
+   "hs6_description": "Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",
    "level": 8,
    "chapter": "73",
    "description": "Other: ---- Other",
@@ -3165,6 +3691,8 @@
   },
   {
    "hs_code": "7318",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of iron or steel.",
@@ -3177,6 +3705,8 @@
   },
   {
    "hs_code": "731811",
+   "hs6": "731811",
+   "hs6_description": "Iron or steel; threaded coach screws",
    "level": 6,
    "chapter": "73",
    "description": "Threaded articles : -- Coach screws",
@@ -3189,6 +3719,8 @@
   },
   {
    "hs_code": "73181110",
+   "hs6": "731811",
+   "hs6_description": "Iron or steel; threaded coach screws",
    "level": 8,
    "chapter": "73",
    "description": "Machine screws",
@@ -3201,6 +3733,8 @@
   },
   {
    "hs_code": "73181190",
+   "hs6": "731811",
+   "hs6_description": "Iron or steel; threaded coach screws",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -3213,6 +3747,8 @@
   },
   {
    "hs_code": "73181200",
+   "hs6": "731812",
+   "hs6_description": "Iron or steel; threaded wood screws other than coach screws",
    "level": 8,
    "chapter": "73",
    "description": "Threaded articles : -- Other wood screws",
@@ -3225,6 +3761,8 @@
   },
   {
    "hs_code": "73181300",
+   "hs6": "731813",
+   "hs6_description": "Iron or steel; threaded screw hooks and screw rings",
    "level": 8,
    "chapter": "73",
    "description": "Threaded articles : -- Screw hooks and screw rings",
@@ -3237,6 +3775,8 @@
   },
   {
    "hs_code": "73181400",
+   "hs6": "731814",
+   "hs6_description": "Iron or steel; threaded self-tapping screws",
    "level": 8,
    "chapter": "73",
    "description": "Threaded articles : -- Self-tapping screws",
@@ -3249,6 +3789,8 @@
   },
   {
    "hs_code": "73181500",
+   "hs6": "731815",
+   "hs6_description": "Iron or steel; threaded screws and bolts n.e.c. in item no. 7318.1, whether or not with their nuts or washers",
    "level": 8,
    "chapter": "73",
    "description": "Threaded articles : -- Other screws and bolts, whether or not with their nuts or washers",
@@ -3261,6 +3803,8 @@
   },
   {
    "hs_code": "73181600",
+   "hs6": "731816",
+   "hs6_description": "Iron or steel; threaded nuts",
    "level": 8,
    "chapter": "73",
    "description": "Threaded articles : -- Nuts",
@@ -3273,6 +3817,8 @@
   },
   {
    "hs_code": "73181900",
+   "hs6": "731819",
+   "hs6_description": "Iron or steel; threaded screws, bolts and nuts n.e.c. in item no. 7318.1",
    "level": 8,
    "chapter": "73",
    "description": "Threaded articles : -- Other",
@@ -3285,6 +3831,8 @@
   },
   {
    "hs_code": "73182100",
+   "hs6": "731821",
+   "hs6_description": "Iron or steel; non-threaded spring washers and other lock washers",
    "level": 8,
    "chapter": "73",
    "description": "Non-threaded articles : -- Spring washers and other lock washers",
@@ -3297,6 +3845,8 @@
   },
   {
    "hs_code": "73182200",
+   "hs6": "731822",
+   "hs6_description": "Iron or steel; non-threaded washers, excluding spring and lock",
    "level": 8,
    "chapter": "73",
    "description": "Non-threaded articles : -- Other washers",
@@ -3309,6 +3859,8 @@
   },
   {
    "hs_code": "73182300",
+   "hs6": "731823",
+   "hs6_description": "Iron or steel; non-threaded rivets",
    "level": 8,
    "chapter": "73",
    "description": "Non-threaded articles : -- Rivets",
@@ -3321,6 +3873,8 @@
   },
   {
    "hs_code": "73182400",
+   "hs6": "731824",
+   "hs6_description": "Iron or steel; non-threaded cotters and cotter-pins",
    "level": 8,
    "chapter": "73",
    "description": "Non-threaded articles : -- Cotters and cotter-pins",
@@ -3333,6 +3887,8 @@
   },
   {
    "hs_code": "731829",
+   "hs6": "731829",
+   "hs6_description": "Iron or steel; non-threaded articles, n.e.c. in item no. 7318.2",
    "level": 6,
    "chapter": "73",
    "description": "Non-threaded articles : -- Other",
@@ -3345,6 +3901,8 @@
   },
   {
    "hs_code": "73182910",
+   "hs6": "731829",
+   "hs6_description": "Iron or steel; non-threaded articles, n.e.c. in item no. 7318.2",
    "level": 8,
    "chapter": "73",
    "description": "Circlips",
@@ -3357,6 +3915,8 @@
   },
   {
    "hs_code": "73182990",
+   "hs6": "731829",
+   "hs6_description": "Iron or steel; non-threaded articles, n.e.c. in item no. 7318.2",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -3369,6 +3929,8 @@
   },
   {
    "hs_code": "7319",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles, for use in the hand, of iron or steel; safety pins and other pins of iron or steel, not elsewhere specified or included.",
@@ -3381,6 +3943,8 @@
   },
   {
    "hs_code": "731940",
+   "hs6": "731940",
+   "hs6_description": "Safety pins and other pins; of iron or steel",
    "level": 6,
    "chapter": "73",
    "description": "Safety pins and other pins",
@@ -3393,6 +3957,8 @@
   },
   {
    "hs_code": "73194010",
+   "hs6": "731940",
+   "hs6_description": "Safety pins and other pins; of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Safety pins",
@@ -3405,6 +3971,8 @@
   },
   {
    "hs_code": "73194090",
+   "hs6": "731940",
+   "hs6_description": "Safety pins and other pins; of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other pins",
@@ -3417,6 +3985,8 @@
   },
   {
    "hs_code": "73199000",
+   "hs6": "731990",
+   "hs6_description": "Sewing and knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles, for use in the hand, not elsewhere specified or included, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -3429,6 +3999,8 @@
   },
   {
    "hs_code": "7320",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Springs and leaves for springs, of iron or steel.",
@@ -3441,6 +4013,8 @@
   },
   {
    "hs_code": "732010",
+   "hs6": "732010",
+   "hs6_description": "Iron or steel; leaf-springs and leaves therefor",
    "level": 6,
    "chapter": "73",
    "description": "Leaf-springs and leaves therefor",
@@ -3453,6 +4027,8 @@
   },
   {
    "hs_code": "73201011",
+   "hs6": "732010",
+   "hs6_description": "Iron or steel; leaf-springs and leaves therefor",
    "level": 8,
    "chapter": "73",
    "description": "Leaf spring: ---- For motor vehicles",
@@ -3465,6 +4041,8 @@
   },
   {
    "hs_code": "73201012",
+   "hs6": "732010",
+   "hs6_description": "Iron or steel; leaf-springs and leaves therefor",
    "level": 8,
    "chapter": "73",
    "description": "Leaf spring: ---- For railways and tramways",
@@ -3477,6 +4055,8 @@
   },
   {
    "hs_code": "73201019",
+   "hs6": "732010",
+   "hs6_description": "Iron or steel; leaf-springs and leaves therefor",
    "level": 8,
    "chapter": "73",
    "description": "Leaf spring: ---- Other",
@@ -3489,6 +4069,8 @@
   },
   {
    "hs_code": "73201020",
+   "hs6": "732010",
+   "hs6_description": "Iron or steel; leaf-springs and leaves therefor",
    "level": 8,
    "chapter": "73",
    "description": "Leaf spring: ---- Leaves for springs",
@@ -3501,6 +4083,8 @@
   },
   {
    "hs_code": "73202000",
+   "hs6": "732020",
+   "hs6_description": "Iron or steel; helical springs and leaves for springs",
    "level": 8,
    "chapter": "73",
    "description": "Helical springs",
@@ -3513,6 +4097,8 @@
   },
   {
    "hs_code": "732090",
+   "hs6": "732090",
+   "hs6_description": "Iron or steel; springs n.e.c. in heading no. 7320",
    "level": 6,
    "chapter": "73",
    "description": "Other",
@@ -3525,6 +4111,8 @@
   },
   {
    "hs_code": "73209010",
+   "hs6": "732090",
+   "hs6_description": "Iron or steel; springs n.e.c. in heading no. 7320",
    "level": 8,
    "chapter": "73",
    "description": "Coil spring for railways, tramways",
@@ -3537,6 +4125,8 @@
   },
   {
    "hs_code": "73209020",
+   "hs6": "732090",
+   "hs6_description": "Iron or steel; springs n.e.c. in heading no. 7320",
    "level": 8,
    "chapter": "73",
    "description": "Spring pins",
@@ -3549,6 +4139,8 @@
   },
   {
    "hs_code": "73209090",
+   "hs6": "732090",
+   "hs6_description": "Iron or steel; springs n.e.c. in heading no. 7320",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -3561,6 +4153,8 @@
   },
   {
    "hs_code": "7321",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Stoves, ranges, grates, cookers (including those with subsidiary boilers for central heating), barbecues, braziers, gas-rings, plate warmers and similar non-electric domestic appliances, and parts thereof, of iron or steel.",
@@ -3573,6 +4167,8 @@
   },
   {
    "hs_code": "732111",
+   "hs6": "732111",
+   "hs6_description": "Cooking appliances and plate warmers; for gas fuel or for both gas and other fuels, of iron or steel",
    "level": 6,
    "chapter": "73",
    "description": "Cooking appliances and plate warmers : -- For gas fuel or for both gas and other fuels",
@@ -3585,6 +4181,8 @@
   },
   {
    "hs_code": "73211110",
+   "hs6": "732111",
+   "hs6_description": "Cooking appliances and plate warmers; for gas fuel or for both gas and other fuels, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Cookers and kitchen stoves",
@@ -3597,6 +4195,8 @@
   },
   {
    "hs_code": "73211120",
+   "hs6": "732111",
+   "hs6_description": "Cooking appliances and plate warmers; for gas fuel or for both gas and other fuels, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other stoves",
@@ -3609,6 +4209,8 @@
   },
   {
    "hs_code": "73211190",
+   "hs6": "732111",
+   "hs6_description": "Cooking appliances and plate warmers; for gas fuel or for both gas and other fuels, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -3621,6 +4223,8 @@
   },
   {
    "hs_code": "732112",
+   "hs6": "732112",
+   "hs6_description": "Cooking appliances and plate warmers; for liquid fuel, of iron or steel",
    "level": 6,
    "chapter": "73",
    "description": "Cooking appliances and plate warmers : -- For liquid fuel",
@@ -3633,6 +4237,8 @@
   },
   {
    "hs_code": "73211210",
+   "hs6": "732112",
+   "hs6_description": "Cooking appliances and plate warmers; for liquid fuel, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Cookers and kitchen stoves",
@@ -3645,6 +4251,8 @@
   },
   {
    "hs_code": "73211220",
+   "hs6": "732112",
+   "hs6_description": "Cooking appliances and plate warmers; for liquid fuel, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other stoves",
@@ -3657,6 +4265,8 @@
   },
   {
    "hs_code": "73211290",
+   "hs6": "732112",
+   "hs6_description": "Cooking appliances and plate warmers; for liquid fuel, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -3669,6 +4279,8 @@
   },
   {
    "hs_code": "732119",
+   "hs6": "732119",
+   "hs6_description": "Cooking appliances and plate warmers; for solid fuel and fuels other than gas or liquid, of iron or steel",
    "level": 6,
    "chapter": "73",
    "description": "Cooking appliances and plate warmers : -- Other, including appliances for solid fuel",
@@ -3681,6 +4293,8 @@
   },
   {
    "hs_code": "73211910",
+   "hs6": "732119",
+   "hs6_description": "Cooking appliances and plate warmers; for solid fuel and fuels other than gas or liquid, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Cookers and kitchen stoves",
@@ -3693,6 +4307,8 @@
   },
   {
    "hs_code": "73211990",
+   "hs6": "732119",
+   "hs6_description": "Cooking appliances and plate warmers; for solid fuel and fuels other than gas or liquid, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other stoves and appliances",
@@ -3705,6 +4321,8 @@
   },
   {
    "hs_code": "73218100",
+   "hs6": "732181",
+   "hs6_description": "Domestic appliances; non-electric, (other than cookers and plate warmers), for gas fuel or for both gas and other fuels, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other appliances : -- For gas fuel or for both gas and other fuels",
@@ -3717,6 +4335,8 @@
   },
   {
    "hs_code": "73218200",
+   "hs6": "732182",
+   "hs6_description": "Domestic appliances; non-electric, (other than cookers and plate warmers), for liquid fuel, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other appliances : -- For liquid fuel",
@@ -3729,6 +4349,8 @@
   },
   {
    "hs_code": "732189",
+   "hs6": "732189",
+   "hs6_description": "Domestic appliances; non-electric, (other than cookers and plate warmers), for solid fuel and fuels other than gas or liquid, of iron or steel",
    "level": 6,
    "chapter": "73",
    "description": "Other appliances : -- Other, including appliances for solid fuel",
@@ -3741,6 +4363,8 @@
   },
   {
    "hs_code": "73218910",
+   "hs6": "732189",
+   "hs6_description": "Domestic appliances; non-electric, (other than cookers and plate warmers), for solid fuel and fuels other than gas or liquid, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Clay tandoor (oven with iron or steel body and earthen grates)",
@@ -3753,6 +4377,8 @@
   },
   {
    "hs_code": "73218990",
+   "hs6": "732189",
+   "hs6_description": "Domestic appliances; non-electric, (other than cookers and plate warmers), for solid fuel and fuels other than gas or liquid, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -3765,6 +4391,8 @@
   },
   {
    "hs_code": "73219000",
+   "hs6": "732190",
+   "hs6_description": "Domestic appliances; non-electric, parts thereof, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Parts",
@@ -3777,6 +4405,8 @@
   },
   {
    "hs_code": "7322",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Radiators for central heating, not electrically heated, and parts thereof, of iron or steel; air heaters and hot air distributors (i ncluding distributors which can also distribute fresh or conditioned air), not electrically heated, incorporating a motordriven fan or blower, and parts thereof, of iron or steel.",
@@ -3789,6 +4419,8 @@
   },
   {
    "hs_code": "73221100",
+   "hs6": "732211",
+   "hs6_description": "Radiators and parts thereof; for central heating, (not electrically heated), of cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Radiators and parts thereof : -- Of cast iron",
@@ -3801,6 +4433,8 @@
   },
   {
    "hs_code": "73221900",
+   "hs6": "732219",
+   "hs6_description": "Radiators and parts thereof; for central heating, (not electrically heated), of iron or steel other than cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Radiators and parts thereof : -- Other",
@@ -3813,6 +4447,8 @@
   },
   {
    "hs_code": "732290",
+   "hs6": "732290",
+   "hs6_description": "Air heaters and hot air distributors, (not electrically heated), incorporating a motor-driven fan or blower and parts thereof, of iron or steel",
    "level": 6,
    "chapter": "73",
    "description": "Other",
@@ -3825,6 +4461,8 @@
   },
   {
    "hs_code": "73229010",
+   "hs6": "732290",
+   "hs6_description": "Air heaters and hot air distributors, (not electrically heated), incorporating a motor-driven fan or blower and parts thereof, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Air heaters and hot air distributors",
@@ -3837,6 +4475,8 @@
   },
   {
    "hs_code": "73229090",
+   "hs6": "732290",
+   "hs6_description": "Air heaters and hot air distributors, (not electrically heated), incorporating a motor-driven fan or blower and parts thereof, of iron or steel",
    "level": 8,
    "chapter": "73",
    "description": "Parts of air heaters and hot air distributors",
@@ -3849,6 +4489,8 @@
   },
   {
    "hs_code": "7323",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel.",
@@ -3861,6 +4503,8 @@
   },
   {
    "hs_code": "73231000",
+   "hs6": "732310",
+   "hs6_description": "Iron or steel; wool, pot scourers and scouring or polishing pads, gloves and the like",
    "level": 8,
    "chapter": "73",
    "description": "Iron or steel wool; pot scourers and scouring or polishing pads,",
@@ -3873,6 +4517,8 @@
   },
   {
    "hs_code": "732391",
+   "hs6": "732391",
+   "hs6_description": "Cast iron; table, kitchen and other household articles and parts thereof, of cast iron, not enamelled",
    "level": 6,
    "chapter": "73",
    "description": "Other : -- Of cast iron, not enamelled",
@@ -3885,6 +4531,8 @@
   },
   {
    "hs_code": "73239110",
+   "hs6": "732391",
+   "hs6_description": "Cast iron; table, kitchen and other household articles and parts thereof, of cast iron, not enamelled",
    "level": 8,
    "chapter": "73",
    "description": "Pans",
@@ -3897,6 +4545,8 @@
   },
   {
    "hs_code": "73239190",
+   "hs6": "732391",
+   "hs6_description": "Cast iron; table, kitchen and other household articles and parts thereof, of cast iron, not enamelled",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -3909,6 +4559,8 @@
   },
   {
    "hs_code": "73239200",
+   "hs6": "732392",
+   "hs6_description": "Cast iron; table, kitchen and other household articles and parts thereof, of cast iron, enamelled",
    "level": 8,
    "chapter": "73",
    "description": "Other : -- Of cast iron, enamelled",
@@ -3921,6 +4573,8 @@
   },
   {
    "hs_code": "732393",
+   "hs6": "732393",
+   "hs6_description": "Steel, stainless; table, kitchen and other household articles and parts thereof",
    "level": 6,
    "chapter": "73",
    "description": "Other : -- Of stainless steel",
@@ -3933,6 +4587,8 @@
   },
   {
    "hs_code": "73239310",
+   "hs6": "732393",
+   "hs6_description": "Steel, stainless; table, kitchen and other household articles and parts thereof",
    "level": 8,
    "chapter": "73",
    "description": "Pressure cookers",
@@ -3945,6 +4601,8 @@
   },
   {
    "hs_code": "73239390",
+   "hs6": "732393",
+   "hs6_description": "Steel, stainless; table, kitchen and other household articles and parts thereof",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -3957,6 +4615,8 @@
   },
   {
    "hs_code": "732394",
+   "hs6": "732394",
+   "hs6_description": "Iron (excluding cast) or steel; table, kitchen and other household articles and parts thereof, enamelled",
    "level": 6,
    "chapter": "73",
    "description": "Other : -- Of iron (other than cast iron) or steel, enamelled",
@@ -3969,6 +4629,8 @@
   },
   {
    "hs_code": "73239410",
+   "hs6": "732394",
+   "hs6_description": "Iron (excluding cast) or steel; table, kitchen and other household articles and parts thereof, enamelled",
    "level": 8,
    "chapter": "73",
    "description": "Ghamellas",
@@ -3981,6 +4643,8 @@
   },
   {
    "hs_code": "73239420",
+   "hs6": "732394",
+   "hs6_description": "Iron (excluding cast) or steel; table, kitchen and other household articles and parts thereof, enamelled",
    "level": 8,
    "chapter": "73",
    "description": "Utensils",
@@ -3993,6 +4657,8 @@
   },
   {
    "hs_code": "73239490",
+   "hs6": "732394",
+   "hs6_description": "Iron (excluding cast) or steel; table, kitchen and other household articles and parts thereof, enamelled",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -4005,6 +4671,8 @@
   },
   {
    "hs_code": "732399",
+   "hs6": "732399",
+   "hs6_description": "Iron or steel; table, kitchen and other household articles and parts thereof, of iron or steel n.e.c. in heading no. 7323",
    "level": 6,
    "chapter": "73",
    "description": "Other : -- Other",
@@ -4017,6 +4685,8 @@
   },
   {
    "hs_code": "73239910",
+   "hs6": "732399",
+   "hs6_description": "Iron or steel; table, kitchen and other household articles and parts thereof, of iron or steel n.e.c. in heading no. 7323",
    "level": 8,
    "chapter": "73",
    "description": "Utensils of galvanised iron",
@@ -4029,6 +4699,8 @@
   },
   {
    "hs_code": "73239920",
+   "hs6": "732399",
+   "hs6_description": "Iron or steel; table, kitchen and other household articles and parts thereof, of iron or steel n.e.c. in heading no. 7323",
    "level": 8,
    "chapter": "73",
    "description": "Other utensils",
@@ -4041,6 +4713,8 @@
   },
   {
    "hs_code": "73239990",
+   "hs6": "732399",
+   "hs6_description": "Iron or steel; table, kitchen and other household articles and parts thereof, of iron or steel n.e.c. in heading no. 7323",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -4053,6 +4727,8 @@
   },
   {
    "hs_code": "7324",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Sanitary ware and parts thereof, of iron or steel.",
@@ -4065,6 +4741,8 @@
   },
   {
    "hs_code": "73241000",
+   "hs6": "732410",
+   "hs6_description": "Steel; sinks and wash basins, of stainless steel",
    "level": 8,
    "chapter": "73",
    "description": "Sinks and wash basins, of stainless steel",
@@ -4077,6 +4755,8 @@
   },
   {
    "hs_code": "73242100",
+   "hs6": "732421",
+   "hs6_description": "Cast iron, baths, whether or not enamelled",
    "level": 8,
    "chapter": "73",
    "description": "Baths : -- Of cast iron, whether or not enamelled",
@@ -4089,6 +4769,8 @@
   },
   {
    "hs_code": "73242900",
+   "hs6": "732429",
+   "hs6_description": "Iron (other than cast) or steel; baths",
    "level": 8,
    "chapter": "73",
    "description": "Baths : -- Other",
@@ -4101,6 +4783,8 @@
   },
   {
    "hs_code": "73249000",
+   "hs6": "732490",
+   "hs6_description": "Iron or steel; sanitary ware and parts thereof, excluding sinks, wash basins and baths",
    "level": 8,
    "chapter": "73",
    "description": "Other, including parts",
@@ -4113,6 +4797,8 @@
   },
   {
    "hs_code": "7325",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Other cast articles of iron or steel.",
@@ -4125,6 +4811,8 @@
   },
   {
    "hs_code": "73251000",
+   "hs6": "732510",
+   "hs6_description": "Iron; articles of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Of non-malleable cast iron",
@@ -4137,6 +4825,8 @@
   },
   {
    "hs_code": "73259100",
+   "hs6": "732591",
+   "hs6_description": "Iron; grinding balls and similar articles for mills, other than of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Other : -- Grinding balls and similar articles for mills",
@@ -4149,6 +4839,8 @@
   },
   {
    "hs_code": "732599",
+   "hs6": "732599",
+   "hs6_description": "Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",
    "level": 6,
    "chapter": "73",
    "description": "Other : -- Other",
@@ -4161,6 +4853,8 @@
   },
   {
    "hs_code": "73259910",
+   "hs6": "732599",
+   "hs6_description": "Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Of iron",
@@ -4173,6 +4867,8 @@
   },
   {
    "hs_code": "73259920",
+   "hs6": "732599",
+   "hs6_description": "Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Of alloy steel",
@@ -4185,6 +4881,8 @@
   },
   {
    "hs_code": "73259930",
+   "hs6": "732599",
+   "hs6_description": "Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Of stainless steel",
@@ -4197,6 +4895,8 @@
   },
   {
    "hs_code": "73259991",
+   "hs6": "732599",
+   "hs6_description": "Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Other: ---- Rudders for ships or boats",
@@ -4209,6 +4909,8 @@
   },
   {
    "hs_code": "73259992",
+   "hs6": "732599",
+   "hs6_description": "Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Other: ---- Drain covers",
@@ -4221,6 +4923,8 @@
   },
   {
    "hs_code": "73259993",
+   "hs6": "732599",
+   "hs6_description": "Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Other: ---- Plates and frames for sewage water or similar system",
@@ -4233,6 +4937,8 @@
   },
   {
    "hs_code": "73259999",
+   "hs6": "732599",
+   "hs6_description": "Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",
    "level": 8,
    "chapter": "73",
    "description": "Other: ---- Other",
@@ -4245,6 +4951,8 @@
   },
   {
    "hs_code": "7326",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "73",
    "description": "Other articles of iron or steel.",
@@ -4257,6 +4965,8 @@
   },
   {
    "hs_code": "73261100",
+   "hs6": "732611",
+   "hs6_description": "Iron or steel; grinding balls and similar articles for mills, forged or stamped, but not further worked",
    "level": 8,
    "chapter": "73",
    "description": "Forged or stamped, but not further worked : -- Grinding balls and similar articles for mills",
@@ -4269,6 +4979,8 @@
   },
   {
    "hs_code": "732619",
+   "hs6": "732619",
+   "hs6_description": "Iron or steel; articles n.e.c. in item no. 7326.11, forged or stamped, but not further worked",
    "level": 6,
    "chapter": "73",
    "description": "Forged or stamped, but not further worked : -- Other",
@@ -4281,6 +4993,8 @@
   },
   {
    "hs_code": "73261910",
+   "hs6": "732619",
+   "hs6_description": "Iron or steel; articles n.e.c. in item no. 7326.11, forged or stamped, but not further worked",
    "level": 8,
    "chapter": "73",
    "description": "For automobiles and Earth moving equipments",
@@ -4293,6 +5007,8 @@
   },
   {
    "hs_code": "73261990",
+   "hs6": "732619",
+   "hs6_description": "Iron or steel; articles n.e.c. in item no. 7326.11, forged or stamped, but not further worked",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -4305,6 +5021,8 @@
   },
   {
    "hs_code": "732620",
+   "hs6": "732620",
+   "hs6_description": "Iron or steel; wire articles",
    "level": 6,
    "chapter": "73",
    "description": "Articles of iron or steel wire",
@@ -4317,6 +5035,8 @@
   },
   {
    "hs_code": "73262010",
+   "hs6": "732620",
+   "hs6_description": "Iron or steel; wire articles",
    "level": 8,
    "chapter": "73",
    "description": "Tyre bead wire rings intended for use in the manufacture of tyres for cycles and cycle-rickshaws",
@@ -4329,6 +5049,8 @@
   },
   {
    "hs_code": "73262090",
+   "hs6": "732620",
+   "hs6_description": "Iron or steel; wire articles",
    "level": 8,
    "chapter": "73",
    "description": "Other",
@@ -4341,6 +5063,8 @@
   },
   {
    "hs_code": "732690",
+   "hs6": "732690",
+   "hs6_description": "Iron or steel; articles n.e.c. in heading 7326",
    "level": 6,
    "chapter": "73",
    "description": "Other",
@@ -4353,6 +5077,8 @@
   },
   {
    "hs_code": "73269010",
+   "hs6": "732690",
+   "hs6_description": "Iron or steel; articles n.e.c. in heading 7326",
    "level": 8,
    "chapter": "73",
    "description": "Belt lacing of steel",
@@ -4365,6 +5091,8 @@
   },
   {
    "hs_code": "73269020",
+   "hs6": "732690",
+   "hs6_description": "Iron or steel; articles n.e.c. in heading 7326",
    "level": 8,
    "chapter": "73",
    "description": "Belt fasteners for machinery belts",
@@ -4377,6 +5105,8 @@
   },
   {
    "hs_code": "73269030",
+   "hs6": "732690",
+   "hs6_description": "Iron or steel; articles n.e.c. in heading 7326",
    "level": 8,
    "chapter": "73",
    "description": "Drain covers, plates, and frames for sewages, water or similar system",
@@ -4389,6 +5119,8 @@
   },
   {
    "hs_code": "73269040",
+   "hs6": "732690",
+   "hs6_description": "Iron or steel; articles n.e.c. in heading 7326",
    "level": 8,
    "chapter": "73",
    "description": "Enamelled iron ware",
@@ -4401,6 +5133,8 @@
   },
   {
    "hs_code": "73269050",
+   "hs6": "732690",
+   "hs6_description": "Iron or steel; articles n.e.c. in heading 7326",
    "level": 8,
    "chapter": "73",
    "description": "Grinding media balls and cylpebs",
@@ -4413,6 +5147,8 @@
   },
   {
    "hs_code": "73269060",
+   "hs6": "732690",
+   "hs6_description": "Iron or steel; articles n.e.c. in heading 7326",
    "level": 8,
    "chapter": "73",
    "description": "Manufactures of stainless steel",
@@ -4425,6 +5161,8 @@
   },
   {
    "hs_code": "73269070",
+   "hs6": "732690",
+   "hs6_description": "Iron or steel; articles n.e.c. in heading 7326",
    "level": 8,
    "chapter": "73",
    "description": "Articles of clad metal",
@@ -4437,6 +5175,8 @@
   },
   {
    "hs_code": "73269080",
+   "hs6": "732690",
+   "hs6_description": "Iron or steel; articles n.e.c. in heading 7326",
    "level": 8,
    "chapter": "73",
    "description": "Parts of ships, floating structure and vessels (excluding hull, propellers and paddle-wheels)",
@@ -4449,6 +5189,8 @@
   },
   {
    "hs_code": "73269091",
+   "hs6": "732690",
+   "hs6_description": "Iron or steel; articles n.e.c. in heading 7326",
    "level": 8,
    "chapter": "73",
    "description": "Other: ---- Shanks",
@@ -4461,6 +5203,8 @@
   },
   {
    "hs_code": "73269099",
+   "hs6": "732690",
+   "hs6_description": "Iron or steel; articles n.e.c. in heading 7326",
    "level": 8,
    "chapter": "73",
    "description": "Other: ---- Other",

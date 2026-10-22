@@ -1,59 +1,59 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-8601,4,86,Rail locomotives powered from an external source of electricity or by electric accumulators.,,,,,,2026-10-22
-86011000,8,86,Powered from an external source of electricity,Free,,,,,2026-10-22
-86012000,8,86,Powered by electric accumulators,Free,,,,,2026-10-22
-8602,4,86,Other rail locomotives; locomotive tenders.,,,,,,2026-10-22
-86021000,8,86,Diesel-electric locomotives,Free,,,,,2026-10-22
-860290,6,86,Other,,,,,,2026-10-22
-86029010,8,86,Steam locomotives and tenders thereof,Free,,,,,2026-10-22
-86029090,8,86,Other,Free,,,,,2026-10-22
-8603,4,86,"Self-propelled railway or tramway coaches, vans and trucks, other than those of heading 86.04.",,,,,,2026-10-22
-86031000,8,86,Powered from an external source of electricity,Free,,,,,2026-10-22
-86039000,8,86,Other,Free,,,,,2026-10-22
-86040000,8,86,"Railway or tramway maintenance or service vehicles, whether or not self-propelled (for example, workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles).",Free,,,,,2026-10-22
-86050000,8,86,"Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not self-propelled (excluding those of heading 86.04).",Free,,,,,2026-10-22
-8606,4,86,"Railway or tramway goods vans and wagons, not self-propelled.",,,,,,2026-10-22
-86061010,8,86,Four wheeler tank wagons of pay-load exceeding 23 tonnes,Free,,,,,2026-10-22
-86061020,8,86,Eight wheeler tank wagons of pay-load not exceeding 60 tonnes,Free,,,,,2026-10-22
-86061090,8,86,Other,Free,,,,,2026-10-22
-86063000,8,86,"Self-discharging vans and wagons, other than those of subheading 8606.10",Free,,,,,2026-10-22
-860691,6,86,Other : -- Covered and closed,,,,,,2026-10-22
-86069110,8,86,Meter guage eight wheeler covered wagons of pay-load not exceeding 38 tonnes,Free,,,,,2026-10-22
-86069120,8,86,Broad guage eight wheeler covered wagons of pay-load not exceeding 60 tonnes,Free,,,,,2026-10-22
-86069190,8,86,Other,Free,,,,,2026-10-22
-860692,6,86,"Other : -- Open, with non-removable sides of a height exceeding 60 cm",,,,,,2026-10-22
-86069210,8,86,Bogie eight wheeler wagons of pay-load not exceeding 60 tonnes,Free,,,,,2026-10-22
-86069220,8,86,Broad guage bogie eight wheeler wagons of pay-load exceeding 60 tonnes but not exceeding 67 tonnes,Free,,,,,2026-10-22
-86069290,8,86,Other,Free,,,,,2026-10-22
-86069900,8,86,Other : -- Other,Free,,,,,2026-10-22
-8607,4,86,Parts of railway or tramway locomotives or rolling-stock.,,,,,,2026-10-22
-86071100,8,86,"Bogies, bissel-bogies, axles and wheels, and parts thereof : -- Driving bogies and bissel-bogies",Free,,,,,2026-10-22
-86071200,8,86,"Bogies, bissel-bogies, axles and wheels, and parts thereof : -- Other bogies and bissel-bogies",Free,,,,,2026-10-22
-860719,6,86,"Bogies, bissel-bogies, axles and wheels, and parts thereof : -- Other, including parts",,,,,,2026-10-22
-86071910,8,86,"Axles, wheels for coaches, van and wagons (rolling-stock)",Free,,,,,2026-10-22
-86071920,8,86,Axles and wheels for locomotives,Free,,,,,2026-10-22
-86071930,8,86,Axle boxes (lubricating or grease box),Free,,,,,2026-10-22
-86071990,8,86,Other parts of axles and wheels,Free,,,,,2026-10-22
-86072100,8,86,Brakes and parts thereof : -- Air brakes and parts thereof,Free,,,,,2026-10-22
-86072900,8,86,Brakes and parts thereof : -- Other,Free,,,,,2026-10-22
-860730,6,86,"Hooks and other coupling devices, buffers, and parts thereof",,,,,,2026-10-22
-86073010,8,86,Buffers and coupling devices,Free,,,,,2026-10-22
-86073090,8,86,Other,Free,,,,,2026-10-22
-86079100,8,86,Other : -- Of locomotives,Free,,,,,2026-10-22
-860799,6,86,Other : -- Other,,,,,,2026-10-22
-86079910,8,86,Parts of coach work of railway running stock,Free,,,,,2026-10-22
-86079920,8,86,"Parts of tramway, locomotives and running stock",Free,,,,,2026-10-22
-86079930,8,86,Hydraulic shock absorbers for railway bogies,Free,,,,,2026-10-22
-86079990,8,86,Other,Free,,,,,2026-10-22
-8608,4,86,"Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts of the foregoing.",,,,,,2026-10-22
-860800,6,86,"Railway or tramway track fixtures and fittings; mechanical (including electo-mechanical) signalling, safety or traffic control equipment for railway, tramways, roads, inland waterways, parking facilities, port installation or air-fields; parts of the foregoing :",,,,,,2026-10-22
-86080010,8,86,Railway and tramway track fixtures and fittings,Free,,,,,2026-10-22
-86080020,8,86,"Mechanical equipment, not electrically powered for signalling to, or controlling, road rail or other vehicles, ships or aircraft",Free,,,,,2026-10-22
-86080030,8,86,Other traffic control equipment for railways,Free,,,,,2026-10-22
-86080040,8,86,Other traffic control equipment for roads or inland waterways and including automatic traffic control equipment for use at ports and airports,Free,,,,,2026-10-22
-86080090,8,86,Other,Free,,,,,2026-10-22
-860900,6,86,Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport.,,,,,,2026-10-22
-86090000,8,86,Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport.,Free,,,,,2026-10-22
-86090010,8,86,CONTAINERS (INCLUDING CONTAINERS FOR THE TRANSPORT OF FLUIDS) SPECIALLY DESIGNED AND EQUIPPED FOR CARRIAGE BY ONE OR MORE MODES OF TRANSPORT,Free,,,24/2026-27,2026-07-22,2026-10-22
-86090010,8,86,CONTAINERS (INCLUDING CONTAINERS FOR THE TRANSPORT OF FLUIDS) SPECIALLY DESIGNED AND EQUIPPED FOR CARRIAGE BY ONE OR MORE MODES OF TRANSPORT,Free,,,24/2026-27,2026-07-22,2026-10-22
-86090090,8,86,---Refrigerated containers,Free,,,24/2026-27,2026-07-22,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+8601,,,4,86,Rail locomotives powered from an external source of electricity or by electric accumulators.,,,,,,2026-10-22
+86011000,860110,Rail locomotives; powered from an external source of electricity,8,86,Powered from an external source of electricity,Free,,,,,2026-10-22
+86012000,860120,Rail locomotives; powered by electric accumulators,8,86,Powered by electric accumulators,Free,,,,,2026-10-22
+8602,,,4,86,Other rail locomotives; locomotive tenders.,,,,,,2026-10-22
+86021000,860210,Rail locomotives; diesel-electric powered,8,86,Diesel-electric locomotives,Free,,,,,2026-10-22
+860290,860290,Rail locomotives and locomotive tenders; other than diesel-electric powered,6,86,Other,,,,,,2026-10-22
+86029010,860290,Rail locomotives and locomotive tenders; other than diesel-electric powered,8,86,Steam locomotives and tenders thereof,Free,,,,,2026-10-22
+86029090,860290,Rail locomotives and locomotive tenders; other than diesel-electric powered,8,86,Other,Free,,,,,2026-10-22
+8603,,,4,86,"Self-propelled railway or tramway coaches, vans and trucks, other than those of heading 86.04.",,,,,,2026-10-22
+86031000,860310,"Railway or tramway coaches, vans and trucks; self-propelled, powered from an external source of electricity (excluding those of heading no. 8604)",8,86,Powered from an external source of electricity,Free,,,,,2026-10-22
+86039000,860390,"Railway or tramway coaches, vans and trucks; self-propelled, powered other than from an external source of electricity (excluding those of heading no. 8604)",8,86,Other,Free,,,,,2026-10-22
+86040000,860400,"Railway or tramway maintenance or service vehicles; whether or not self-propelled (e.g. workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles)",8,86,"Railway or tramway maintenance or service vehicles, whether or not self-propelled (for example, workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles).",Free,,,,,2026-10-22
+86050000,860500,"Railway or tramway coaches; passenger coaches, luggage vans, post office coaches and other special purpose railway or tramway coaches, not self-propelled (excluding those of heading no. 8604)",8,86,"Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not self-propelled (excluding those of heading 86.04).",Free,,,,,2026-10-22
+8606,,,4,86,"Railway or tramway goods vans and wagons, not self-propelled.",,,,,,2026-10-22
+86061010,860610,"Railway or tramway goods vans and wagons; tank wagons and the like, not self-propelled",8,86,Four wheeler tank wagons of pay-load exceeding 23 tonnes,Free,,,,,2026-10-22
+86061020,860610,"Railway or tramway goods vans and wagons; tank wagons and the like, not self-propelled",8,86,Eight wheeler tank wagons of pay-load not exceeding 60 tonnes,Free,,,,,2026-10-22
+86061090,860610,"Railway or tramway goods vans and wagons; tank wagons and the like, not self-propelled",8,86,Other,Free,,,,,2026-10-22
+86063000,860630,"Railway or tramway goods vans and wagons; self-discharging, not self-propelled, excluding those of item no. 8606.10",8,86,"Self-discharging vans and wagons, other than those of subheading 8606.10",Free,,,,,2026-10-22
+860691,860691,"Railway or tramway goods vans and wagons; covered and closed, not self-propelled",6,86,Other : -- Covered and closed,,,,,,2026-10-22
+86069110,860691,"Railway or tramway goods vans and wagons; covered and closed, not self-propelled",8,86,Meter guage eight wheeler covered wagons of pay-load not exceeding 38 tonnes,Free,,,,,2026-10-22
+86069120,860691,"Railway or tramway goods vans and wagons; covered and closed, not self-propelled",8,86,Broad guage eight wheeler covered wagons of pay-load not exceeding 60 tonnes,Free,,,,,2026-10-22
+86069190,860691,"Railway or tramway goods vans and wagons; covered and closed, not self-propelled",8,86,Other,Free,,,,,2026-10-22
+860692,860692,"Railway or tramway goods vans and wagons; open, with non-removable sides of a height exceeding 60cm, not self-propelled",6,86,"Other : -- Open, with non-removable sides of a height exceeding 60 cm",,,,,,2026-10-22
+86069210,860692,"Railway or tramway goods vans and wagons; open, with non-removable sides of a height exceeding 60cm, not self-propelled",8,86,Bogie eight wheeler wagons of pay-load not exceeding 60 tonnes,Free,,,,,2026-10-22
+86069220,860692,"Railway or tramway goods vans and wagons; open, with non-removable sides of a height exceeding 60cm, not self-propelled",8,86,Broad guage bogie eight wheeler wagons of pay-load exceeding 60 tonnes but not exceeding 67 tonnes,Free,,,,,2026-10-22
+86069290,860692,"Railway or tramway goods vans and wagons; open, with non-removable sides of a height exceeding 60cm, not self-propelled",8,86,Other,Free,,,,,2026-10-22
+86069900,860699,"Railway or tramway goods vans and wagons; n.e.c. in heading no. 8606, not self-propelled",8,86,Other : -- Other,Free,,,,,2026-10-22
+8607,,,4,86,Parts of railway or tramway locomotives or rolling-stock.,,,,,,2026-10-22
+86071100,860711,"Railway or tramway locomotives or rolling stock; parts, driving bogies and bissel-bogies",8,86,"Bogies, bissel-bogies, axles and wheels, and parts thereof : -- Driving bogies and bissel-bogies",Free,,,,,2026-10-22
+86071200,860712,"Railway or tramway locomotives or rolling stock; parts, bogies and bissel-bogies (excluding driving bogies and bissel-bogies)",8,86,"Bogies, bissel-bogies, axles and wheels, and parts thereof : -- Other bogies and bissel-bogies",Free,,,,,2026-10-22
+860719,860719,"Railway or tramway locomotives or rolling stock; parts, axles and wheels, and parts thereof",6,86,"Bogies, bissel-bogies, axles and wheels, and parts thereof : -- Other, including parts",,,,,,2026-10-22
+86071910,860719,"Railway or tramway locomotives or rolling stock; parts, axles and wheels, and parts thereof",8,86,"Axles, wheels for coaches, van and wagons (rolling-stock)",Free,,,,,2026-10-22
+86071920,860719,"Railway or tramway locomotives or rolling stock; parts, axles and wheels, and parts thereof",8,86,Axles and wheels for locomotives,Free,,,,,2026-10-22
+86071930,860719,"Railway or tramway locomotives or rolling stock; parts, axles and wheels, and parts thereof",8,86,Axle boxes (lubricating or grease box),Free,,,,,2026-10-22
+86071990,860719,"Railway or tramway locomotives or rolling stock; parts, axles and wheels, and parts thereof",8,86,Other parts of axles and wheels,Free,,,,,2026-10-22
+86072100,860721,"Railway or tramway locomotives or rolling stock; parts, air brakes and parts thereof",8,86,Brakes and parts thereof : -- Air brakes and parts thereof,Free,,,,,2026-10-22
+86072900,860729,"Railway or tramway locomotives or rolling stock; parts, brakes (other than air brakes) and parts thereof",8,86,Brakes and parts thereof : -- Other,Free,,,,,2026-10-22
+860730,860730,"Railway or tramway locomotives or rolling stock; parts, hooks and other coupling devices, buffers and parts thereof",6,86,"Hooks and other coupling devices, buffers, and parts thereof",,,,,,2026-10-22
+86073010,860730,"Railway or tramway locomotives or rolling stock; parts, hooks and other coupling devices, buffers and parts thereof",8,86,Buffers and coupling devices,Free,,,,,2026-10-22
+86073090,860730,"Railway or tramway locomotives or rolling stock; parts, hooks and other coupling devices, buffers and parts thereof",8,86,Other,Free,,,,,2026-10-22
+86079100,860791,Railway or tramway locomotives; parts n.e.c. in heading no. 8607,8,86,Other : -- Of locomotives,Free,,,,,2026-10-22
+860799,860799,Railway or tramway rolling stock; parts n.e.c. in heading no. 8607,6,86,Other : -- Other,,,,,,2026-10-22
+86079910,860799,Railway or tramway rolling stock; parts n.e.c. in heading no. 8607,8,86,Parts of coach work of railway running stock,Free,,,,,2026-10-22
+86079920,860799,Railway or tramway rolling stock; parts n.e.c. in heading no. 8607,8,86,"Parts of tramway, locomotives and running stock",Free,,,,,2026-10-22
+86079930,860799,Railway or tramway rolling stock; parts n.e.c. in heading no. 8607,8,86,Hydraulic shock absorbers for railway bogies,Free,,,,,2026-10-22
+86079990,860799,Railway or tramway rolling stock; parts n.e.c. in heading no. 8607,8,86,Other,Free,,,,,2026-10-22
+8608,,,4,86,"Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts of the foregoing.",,,,,,2026-10-22
+860800,860800,"Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",6,86,"Railway or tramway track fixtures and fittings; mechanical (including electo-mechanical) signalling, safety or traffic control equipment for railway, tramways, roads, inland waterways, parking facilities, port installation or air-fields; parts of the foregoing :",,,,,,2026-10-22
+86080010,860800,"Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",8,86,Railway and tramway track fixtures and fittings,Free,,,,,2026-10-22
+86080020,860800,"Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",8,86,"Mechanical equipment, not electrically powered for signalling to, or controlling, road rail or other vehicles, ships or aircraft",Free,,,,,2026-10-22
+86080030,860800,"Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",8,86,Other traffic control equipment for railways,Free,,,,,2026-10-22
+86080040,860800,"Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",8,86,Other traffic control equipment for roads or inland waterways and including automatic traffic control equipment for use at ports and airports,Free,,,,,2026-10-22
+86080090,860800,"Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",8,86,Other,Free,,,,,2026-10-22
+860900,860900,Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport,6,86,Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport.,,,,,,2026-10-22
+86090000,860900,Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport,8,86,Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport.,Free,,,,,2026-10-22
+86090010,860900,Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport,8,86,CONTAINERS (INCLUDING CONTAINERS FOR THE TRANSPORT OF FLUIDS) SPECIALLY DESIGNED AND EQUIPPED FOR CARRIAGE BY ONE OR MORE MODES OF TRANSPORT,Free,,,24/2026-27,2026-07-22,2026-10-22
+86090010,860900,Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport,8,86,CONTAINERS (INCLUDING CONTAINERS FOR THE TRANSPORT OF FLUIDS) SPECIALLY DESIGNED AND EQUIPPED FOR CARRIAGE BY ONE OR MORE MODES OF TRANSPORT,Free,,,24/2026-27,2026-07-22,2026-10-22
+86090090,860900,Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport,8,86,---Refrigerated containers,Free,,,24/2026-27,2026-07-22,2026-10-22

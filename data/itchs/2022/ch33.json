@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "3301",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "33",
    "description": "Essential oils (terpeneless or not), including concretes and absolutes; resinoids; extracted oleoresins; concentrates of essential oils in fats, in fixed oils, in waxes or the like, obtained by enfleurage or maceration; terpenic by-products of the deterpenation of essential oils; aqueous distillates and aqueous solutions of essential oils.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "33011200",
+   "hs6": "330112",
+   "hs6_description": "Oils, essential; of orange (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Essential oils of citrus fruit -- Of orange",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "33011300",
+   "hs6": "330113",
+   "hs6_description": "Oils, essential; of lemon (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Essential oils of citrus fruit -- Of lemon",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "330119",
+   "hs6": "330119",
+   "hs6_description": "Oils, essential; of citrus fruits n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 6,
    "chapter": "33",
    "description": "Essential oils of citrus fruit -- Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "33011910",
+   "hs6": "330119",
+   "hs6_description": "Oils, essential; of citrus fruits n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Citronella oil",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "33011990",
+   "hs6": "330119",
+   "hs6_description": "Oils, essential; of citrus fruits n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Other Essential oils other than those of citrus fruit:",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "330122",
+   "hs6": "330122",
+   "hs6_description": "",
    "level": 6,
    "chapter": "33",
    "description": "Essential oils other than those of citrus fruit:--Of jasmin:",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "33012400",
+   "hs6": "330124",
+   "hs6_description": "Oils, essential; of peppermint (Mentha piperita), terpeneless or not, including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Essential oils other than those of citrus fruit : -- Of peppermint (Mentha piperita)",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "330125",
+   "hs6": "330125",
+   "hs6_description": "Oils, essential; of mints (excluding peppermint), terpeneless or not, including concretes and absolutes",
    "level": 6,
    "chapter": "33",
    "description": "Essential oils other than those of citrus fruit : -- Of other mints",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "33012510",
+   "hs6": "330125",
+   "hs6_description": "Oils, essential; of mints (excluding peppermint), terpeneless or not, including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Spearmint oil (Ex-mentha spicata)",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "33012520",
+   "hs6": "330125",
+   "hs6_description": "Oils, essential; of mints (excluding peppermint), terpeneless or not, including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Water mint-oil (Ex-mentha aquatic)",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "33012530",
+   "hs6": "330125",
+   "hs6_description": "Oils, essential; of mints (excluding peppermint), terpeneless or not, including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Horsemint oil (Ex-mentha sylvestries)",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "33012540",
+   "hs6": "330125",
+   "hs6_description": "Oils, essential; of mints (excluding peppermint), terpeneless or not, including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Bergament oil (Ex-mentha citrate)",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "33012590",
+   "hs6": "330125",
+   "hs6_description": "Oils, essential; of mints (excluding peppermint), terpeneless or not, including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "330129",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 6,
    "chapter": "33",
    "description": "Essential oils other than those of citrus fruit : -- Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "33012911",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Anise oil; Cajeput oil; Cananga oil; Caraway oil; Cassia oil; Cedarwood oil; Cinnamon bark oil; Cinnamon leaf oil: ---- Anise oil (aniseed oil)",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "33012912",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Anise oil; Cajeput oil; Cananga oil; Caraway oil; Cassia oil; Cedarwood oil; Cinnamon bark oil; Cinnamon leaf oil: ---- Cajeput oil",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "33012913",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Anise oil; Cajeput oil; Cananga oil; Caraway oil; Cassia oil; Cedarwood oil; Cinnamon bark oil; Cinnamon leaf oil: ---- Cananga oil",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "33012914",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Anise oil; Cajeput oil; Cananga oil; Caraway oil; Cassia oil; Cedarwood oil; Cinnamon bark oil; Cinnamon leaf oil: ---- Caraway oil",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "33012915",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Anise oil; Cajeput oil; Cananga oil; Caraway oil; Cassia oil; Cedarwood oil; Cinnamon bark oil; Cinnamon leaf oil: ---- Cassia oil",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "33012916",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Anise oil; Cajeput oil; Cananga oil; Caraway oil; Cassia oil; Cedarwood oil; Cinnamon bark oil; Cinnamon leaf oil: ---- Cedarwood oil",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "33012917",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Anise oil; Cajeput oil; Cananga oil; Caraway oil; Cassia oil; Cedarwood oil; Cinnamon bark oil; Cinnamon leaf oil: ---- Cinnamon bark oil",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "33012918",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Anise oil; Cajeput oil; Cananga oil; Caraway oil; Cassia oil; Cedarwood oil; Cinnamon bark oil; Cinnamon leaf oil: ---- Cinnamon leaf oil",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "33012921",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Clove leaf or stem oil; Coriander seed oil; Dill oil; Eucalyptus oil; Fennel seed oil; Ginger oil; Ginger grass oil; Clove bud oil: ---- Clove leaf or stem oil",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "33012922",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Clove leaf or stem oil; Coriander seed oil; Dill oil; Eucalyptus oil; Fennel seed oil; Ginger oil; Ginger grass oil; Clove bud oil: ----Coriander seed oil",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "33012923",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Clove leaf or stem oil; Coriander seed oil; Dill oil; Eucalyptus oil; Fennel seed oil; Ginger oil; Ginger grass oil; Clove bud oil: ----Dill oil (anethum oil)",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "33012924",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Clove leaf or stem oil; Coriander seed oil; Dill oil; Eucalyptus oil; Fennel seed oil; Ginger oil; Ginger grass oil; Clove bud oil: ----Eucalyptus oil",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "33012925",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Clove leaf or stem oil; Coriander seed oil; Dill oil; Eucalyptus oil; Fennel seed oil; Ginger oil; Ginger grass oil; Clove bud oil: ----Fennel seed oil",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "33012926",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Clove leaf or stem oil; Coriander seed oil; Dill oil; Eucalyptus oil; Fennel seed oil; Ginger oil; Ginger grass oil; Clove bud oil: ----Ginger oil",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "33012927",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Clove leaf or stem oil; Coriander seed oil; Dill oil; Eucalyptus oil; Fennel seed oil; Ginger oil; Ginger grass oil; Clove bud oil: ----Ginger grass oil",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "33012928",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Clove leaf or stem oil; Coriander seed oil; Dill oil; Eucalyptus oil; Fennel seed oil; Ginger oil; Ginger grass oil; Clove bud oil: ----Clove bud oil",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "33012931",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Tuberose concentrate; Nutmeg oil; Palmarosa oil; Patchouli oil; Pepper oil; Petitgrain oil; Sandalwood oil; Rose oil: ---- Tuberose concentrate",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "33012932",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Tuberose concentrate; Nutmeg oil; Palmarosa oil; Patchouli oil; Pepper oil; Petitgrain oil; Sandalwood oil; Rose oil: ---- Nutmeg oil",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "33012933",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Tuberose concentrate; Nutmeg oil; Palmarosa oil; Patchouli oil; Pepper oil; Petitgrain oil; Sandalwood oil; Rose oil: ---- Palmarosa oil",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "33012934",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Tuberose concentrate; Nutmeg oil; Palmarosa oil; Patchouli oil; Pepper oil; Petitgrain oil; Sandalwood oil; Rose oil: ---- Patchouli oil",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "33012935",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Tuberose concentrate; Nutmeg oil; Palmarosa oil; Patchouli oil; Pepper oil; Petitgrain oil; Sandalwood oil; Rose oil: ---- Pepper oil",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "33012936",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Tuberose concentrate; Nutmeg oil; Palmarosa oil; Patchouli oil; Pepper oil; Petitgrain oil; Sandalwood oil; Rose oil: ---- Petitgrain oil",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "33012937",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Tuberose concentrate; Nutmeg oil; Palmarosa oil; Patchouli oil; Pepper oil; Petitgrain oil; Sandalwood oil; Rose oil: ---- Sandalwood oil",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "33012938",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Tuberose concentrate; Nutmeg oil; Palmarosa oil; Patchouli oil; Pepper oil; Petitgrain oil; Sandalwood oil; Rose oil: ---- Rose oil",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "33012941",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Camphor oil; Lemon grass oil; Ylang ylang oil; Davana oil; Cumin oil; Celery seed oil; paprika oil; turmeric oil: ---- Camphor oil",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "33012942",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Camphor oil; Lemon grass oil; Ylang ylang oil; Davana oil; Cumin oil; Celery seed oil; paprika oil; turmeric oil: ---- Lemon grass oil",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "33012943",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Camphor oil; Lemon grass oil; Ylang ylang oil; Davana oil; Cumin oil; Celery seed oil; paprika oil; turmeric oil: ---- Ylang ylang oil",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "33012944",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Camphor oil; Lemon grass oil; Ylang ylang oil; Davana oil; Cumin oil; Celery seed oil; paprika oil; turmeric oil: ---- Davana oil",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "33012945",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Camphor oil; Lemon grass oil; Ylang ylang oil; Davana oil; Cumin oil; Celery seed oil; paprika oil; turmeric oil: ---- Cumin oil",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "33012946",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Camphor oil; Lemon grass oil; Ylang ylang oil; Davana oil; Cumin oil; Celery seed oil; paprika oil; turmeric oil: ---- Celery seed oil",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "33012947",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Camphor oil; Lemon grass oil; Ylang ylang oil; Davana oil; Cumin oil; Celery seed oil; paprika oil; turmeric oil: ---- Garlic oil",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "33012948",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Camphor oil; Lemon grass oil; Ylang ylang oil; Davana oil; Cumin oil; Celery seed oil; paprika oil; turmeric oil: ---- Paprika oil",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "33012949",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Camphor oil; Lemon grass oil; Ylang ylang oil; Davana oil; Cumin oil; Celery seed oil; paprika oil; turmeric oil: ---- Turmeric oil",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "33012950",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Camphor oil; Lemon grass oil; Ylang ylang oil; Davana oil; Cumin oil; Celery seed oil; paprika oil; turmeric oil: ---- Spices oils not else where specified or included",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "33012990",
+   "hs6": "330129",
+   "hs6_description": "Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",
    "level": 8,
    "chapter": "33",
    "description": "Camphor oil; Lemon grass oil; Ylang ylang oil; Davana oil; Cumin oil; Celery seed oil; paprika oil; turmeric oil: ---- Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "330130",
+   "hs6": "330130",
+   "hs6_description": "Resinoids",
    "level": 6,
    "chapter": "33",
    "description": "Resinoids",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "33013010",
+   "hs6": "330130",
+   "hs6_description": "Resinoids",
    "level": 8,
    "chapter": "33",
    "description": "Agar oil",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "33013091",
+   "hs6": "330130",
+   "hs6_description": "Resinoids",
    "level": 8,
    "chapter": "33",
    "description": "Other: ---- Flavouring essences, all types, including those for liquors",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "33013099",
+   "hs6": "330130",
+   "hs6_description": "Resinoids",
    "level": 8,
    "chapter": "33",
    "description": "Other: ---- Other",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "330190",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 6,
    "chapter": "33",
    "description": "Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "33019011",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Fenugreek, Ginger, Pepper, Turmeric, Cardamom, Celery seed and Nutmeg Oleoresins: ---- Fennugreek Oleoresins",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "33019012",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Fenugreek, Ginger, Pepper, Turmeric, Cardamom, Celery seed and Nutmeg Oleoresins: ---- Ginger Oleoresins",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "33019013",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Fenugreek, Ginger, Pepper, Turmeric, Cardamom, Celery seed and Nutmeg Oleoresins: ---- Pepper Oleoresins",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "33019014",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Fenugreek, Ginger, Pepper, Turmeric, Cardamom, Celery seed and Nutmeg Oleoresins: ---- Turmeric Oleoresins",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "33019015",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Fenugreek, Ginger, Pepper, Turmeric, Cardamom, Celery seed and Nutmeg Oleoresins: ---- Cardamom Oleoresins",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "33019016",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Fenugreek, Ginger, Pepper, Turmeric, Cardamom, Celery seed and Nutmeg Oleoresins: ---- Celery seed Oleoresins",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "33019017",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Fenugreek, Ginger, Pepper, Turmeric, Cardamom, Celery seed and Nutmeg Oleoresins: ---- Nutmeg Oleoresins",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "33019021",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Clove, Capsicum, Coriander, Cumin and Fennel Oleoreins and oleoresins of spices not elsewhere specified or included: ---- Clove Oleoresins",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "33019022",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Clove, Capsicum, Coriander, Cumin and Fennel Oleoreins and oleoresins of spices not elsewhere specified or included: ---- Capsicum Oleoresins",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "33019023",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Clove, Capsicum, Coriander, Cumin and Fennel Oleoreins and oleoresins of spices not elsewhere specified or included: ---- Coriander Oleoresins",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "33019024",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Clove, Capsicum, Coriander, Cumin and Fennel Oleoreins and oleoresins of spices not elsewhere specified or included: ---- Cumin Oleoresins",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "33019025",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Clove, Capsicum, Coriander, Cumin and Fennel Oleoreins and oleoresins of spices not elsewhere specified or included: ---- Fennel Oleoresins",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "33019029",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Clove, Capsicum, Coriander, Cumin and Fennel Oleoreins and oleoresins of spices not elsewhere specified or included: ---- Oleoresins of spices not elsewhere specified or included",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "33019031",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Attars of all kinds in fixed oil base; mustard oil aroma, essence of ambrettolide (ambrette seed oil essence): ---- Attars of all kinds in fixed oil base",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "33019032",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Attars of all kinds in fixed oil base; mustard oil aroma, essence of ambrettolide (ambrette seed oil essence): ---- Mustard oil aroma",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "33019033",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Attars of all kinds in fixed oil base; mustard oil aroma, essence of ambrettolide (ambrette seed oil essence): ---- Essence of ambrettolide (ambrette seed oil essence)",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "33019041",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Concentrates of essential oils in fats, in fixed oils or in waxes or the like, obtained by cold absorption or by maceration not elsewhere specified or included: ---- Flavouring essences, all types, including those for liquors",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "33019049",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Concentrates of essential oils in fats, in fixed oils or in waxes or the like, obtained by cold absorption or by maceration not elsewhere specified or included: ---- Other",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "33019051",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Terpenic by-products of the deterpenation of essential oils: ---- Flavouring essences, all types, including those for liquors",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "33019059",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Terpenic by-products of the deterpenation of essential oils: ---- Other",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "33019060",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Terpenic by-products of the deterpenation of essential oils: ---- Aqueous distillates of essential oil, not elsewhere specified or included",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "33019071",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Aqueous solutions of essential oils: ---- Flavouring essences, all types, including those for liquors",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "33019079",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Aqueous solutions of essential oils: ---- Other",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "33019090",
+   "hs6": "330190",
+   "hs6_description": "Oils, essential; concentrates in fats, fixed oils, waxes and the like, terpenic by-products, aqueous distillates and solutions, extracted oleoresins, n.e.c. in heading no. 3301",
    "level": 8,
    "chapter": "33",
    "description": "Aqueous solutions of essential oils: ---- Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "3302",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "33",
    "description": "Mixtures of odoriferous substances and mixtures (including alcoholic solutions) with a basis of one or more of these substances, of a kind used as raw materials in industry; other preparations based on odoriferous substances, of a kind used for the manufacture of beverages.",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "330210",
+   "hs6": "330210",
+   "hs6_description": "Odoriferous substances and mixtures; of a kind used in the food or drink industries",
    "level": 6,
    "chapter": "33",
    "description": "Of a kind used in the food or drink industries",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "33021011",
+   "hs6": "330210",
+   "hs6_description": "Odoriferous substances and mixtures; of a kind used in the food or drink industries",
    "level": 8,
    "chapter": "33",
    "description": "--- Synthetic flavouring essences : ---- Compound alcoholic preparations of a kind used for the manufacture of beverages, of an alcoholic strength by volume exceeding 0.5 % vol., determined at 20 ℃",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "33021019",
+   "hs6": "330210",
+   "hs6_description": "Odoriferous substances and mixtures; of a kind used in the food or drink industries",
    "level": 8,
    "chapter": "33",
    "description": "--- Synthetic flavouring essences :---- Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "33021091",
+   "hs6": "330210",
+   "hs6_description": "Odoriferous substances and mixtures; of a kind used in the food or drink industries",
    "level": 8,
    "chapter": "33",
    "description": "--- Other : ---- Compound alcoholic preparations of a kind used for the manufacture of beverages, of an alcoholic strength by volume exceeding 0.5 % vol., determined at 20 ℃",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "33021099",
+   "hs6": "330210",
+   "hs6_description": "Odoriferous substances and mixtures; of a kind used in the food or drink industries",
    "level": 8,
    "chapter": "33",
    "description": "--- Other : ---- Other",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "330290",
+   "hs6": "330290",
+   "hs6_description": "Odoriferous substances and mixtures; used as raw materials in industries other than the food or drink industries",
    "level": 6,
    "chapter": "33",
    "description": "Other",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "33029011",
+   "hs6": "330290",
+   "hs6_description": "Odoriferous substances and mixtures; used as raw materials in industries other than the food or drink industries",
    "level": 8,
    "chapter": "33",
    "description": "Mixtures of Aromatic chemicals and essential oils as perfume base: ---- Synthetic perfumery compounds",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "33029012",
+   "hs6": "330290",
+   "hs6_description": "Odoriferous substances and mixtures; used as raw materials in industries other than the food or drink industries",
    "level": 8,
    "chapter": "33",
    "description": "Mixtures of Aromatic chemicals and essential oils as perfume base: ---- Synthetic essential oil",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "33029019",
+   "hs6": "330290",
+   "hs6_description": "Odoriferous substances and mixtures; used as raw materials in industries other than the food or drink industries",
    "level": 8,
    "chapter": "33",
    "description": "Mixtures of Aromatic chemicals and essential oils as perfume base: ---- Other",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "33029020",
+   "hs6": "330290",
+   "hs6_description": "Odoriferous substances and mixtures; used as raw materials in industries other than the food or drink industries",
    "level": 8,
    "chapter": "33",
    "description": "Mixtures of Aromatic chemicals and essential oils as perfume base: ---- Aleuritic acid",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "33029090",
+   "hs6": "330290",
+   "hs6_description": "Odoriferous substances and mixtures; used as raw materials in industries other than the food or drink industries",
    "level": 8,
    "chapter": "33",
    "description": "Mixtures of Aromatic chemicals and essential oils as perfume base: ---- Other",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "3303",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "33",
    "description": "Perfumes and toilet waters.",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "330300",
+   "hs6": "330300",
+   "hs6_description": "Perfumes and toilet waters",
    "level": 6,
    "chapter": "33",
    "description": "Perfumes and toilet waters:",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "33030010",
+   "hs6": "330300",
+   "hs6_description": "Perfumes and toilet waters",
    "level": 8,
    "chapter": "33",
    "description": "Eau-de-cologne",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "33030020",
+   "hs6": "330300",
+   "hs6_description": "Perfumes and toilet waters",
    "level": 8,
    "chapter": "33",
    "description": "Rose water",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "33030030",
+   "hs6": "330300",
+   "hs6_description": "Perfumes and toilet waters",
    "level": 8,
    "chapter": "33",
    "description": "Keora water",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "33030040",
+   "hs6": "330300",
+   "hs6_description": "Perfumes and toilet waters",
    "level": 8,
    "chapter": "33",
    "description": "Perfumes and perfumery compounds not containing spirit (excluding aqueous distillates)",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "33030050",
+   "hs6": "330300",
+   "hs6_description": "Perfumes and toilet waters",
    "level": 8,
    "chapter": "33",
    "description": "Perfumes containing spirit",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "33030060",
+   "hs6": "330300",
+   "hs6_description": "Perfumes and toilet waters",
    "level": 8,
    "chapter": "33",
    "description": "Spirituous toilet preparations not elsewhere specified or included",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "33030090",
+   "hs6": "330300",
+   "hs6_description": "Perfumes and toilet waters",
    "level": 8,
    "chapter": "33",
    "description": "Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "3304",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "33",
    "description": "Beauty or make-up preparations and preparations for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations.",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "33041000",
+   "hs6": "330410",
+   "hs6_description": "Cosmetic and toilet preparations; lip make-up",
    "level": 8,
    "chapter": "33",
    "description": "Lip make-up preparations",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "33042000",
+   "hs6": "330420",
+   "hs6_description": "Cosmetic and toilet preparations; eye make-up",
    "level": 8,
    "chapter": "33",
    "description": "Eye make-up preparations",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "33043000",
+   "hs6": "330430",
+   "hs6_description": "Cosmetic and toilet preparations; manicure or pedicure preparations",
    "level": 8,
    "chapter": "33",
    "description": "Manicure or pedicure preparations",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "330491",
+   "hs6": "330491",
+   "hs6_description": "Cosmetic and toilet preparations; powders, whether or not compressed (excluding lip, eye, manicure or pedicure preparations)",
    "level": 6,
    "chapter": "33",
    "description": "Other : -- Powders, whether or not compressed",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "33049110",
+   "hs6": "330491",
+   "hs6_description": "Cosmetic and toilet preparations; powders, whether or not compressed (excluding lip, eye, manicure or pedicure preparations)",
    "level": 8,
    "chapter": "33",
    "description": "Face powders",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "33049120",
+   "hs6": "330491",
+   "hs6_description": "Cosmetic and toilet preparations; powders, whether or not compressed (excluding lip, eye, manicure or pedicure preparations)",
    "level": 8,
    "chapter": "33",
    "description": "Talcum powders",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "33049190",
+   "hs6": "330491",
+   "hs6_description": "Cosmetic and toilet preparations; powders, whether or not compressed (excluding lip, eye, manicure or pedicure preparations)",
    "level": 8,
    "chapter": "33",
    "description": "Other",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "330499",
+   "hs6": "330499",
+   "hs6_description": "Cosmetic and toilet preparations; n.e.c. in heading no. 3304, for the care of the skin (excluding medicaments, including sunscreen or sun tan preparations)",
    "level": 6,
    "chapter": "33",
    "description": "Other : -- Other",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "33049910",
+   "hs6": "330499",
+   "hs6_description": "Cosmetic and toilet preparations; n.e.c. in heading no. 3304, for the care of the skin (excluding medicaments, including sunscreen or sun tan preparations)",
    "level": 8,
    "chapter": "33",
    "description": "Face creams",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "33049920",
+   "hs6": "330499",
+   "hs6_description": "Cosmetic and toilet preparations; n.e.c. in heading no. 3304, for the care of the skin (excluding medicaments, including sunscreen or sun tan preparations)",
    "level": 8,
    "chapter": "33",
    "description": "Nail polish or lacquers",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "33049930",
+   "hs6": "330499",
+   "hs6_description": "Cosmetic and toilet preparations; n.e.c. in heading no. 3304, for the care of the skin (excluding medicaments, including sunscreen or sun tan preparations)",
    "level": 8,
    "chapter": "33",
    "description": "Moisturising lotion",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "33049940",
+   "hs6": "330499",
+   "hs6_description": "Cosmetic and toilet preparations; n.e.c. in heading no. 3304, for the care of the skin (excluding medicaments, including sunscreen or sun tan preparations)",
    "level": 8,
    "chapter": "33",
    "description": "Sindur, Bindi, Kum Kum",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "33049950",
+   "hs6": "330499",
+   "hs6_description": "Cosmetic and toilet preparations; n.e.c. in heading no. 3304, for the care of the skin (excluding medicaments, including sunscreen or sun tan preparations)",
    "level": 8,
    "chapter": "33",
    "description": "Turmeric preparations",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "33049990",
+   "hs6": "330499",
+   "hs6_description": "Cosmetic and toilet preparations; n.e.c. in heading no. 3304, for the care of the skin (excluding medicaments, including sunscreen or sun tan preparations)",
    "level": 8,
    "chapter": "33",
    "description": "Other",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "3305",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "33",
    "description": "Preparations for use on the hair.",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "330510",
+   "hs6": "330510",
+   "hs6_description": "Hair preparations; shampoos",
    "level": 6,
    "chapter": "33",
    "description": "Shampoos",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "33051010",
+   "hs6": "330510",
+   "hs6_description": "Hair preparations; shampoos",
    "level": 8,
    "chapter": "33",
    "description": "Containing spirit",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "33051090",
+   "hs6": "330510",
+   "hs6_description": "Hair preparations; shampoos",
    "level": 8,
    "chapter": "33",
    "description": "Other",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "33052000",
+   "hs6": "330520",
+   "hs6_description": "Hair preparations; for permanent waving or straightening",
    "level": 8,
    "chapter": "33",
    "description": "Preparations for permanent waving or straightening",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "33053000",
+   "hs6": "330530",
+   "hs6_description": "Hair preparations; lacquers",
    "level": 8,
    "chapter": "33",
    "description": "Hair lacquers",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "330590",
+   "hs6": "330590",
+   "hs6_description": "Hair preparations; n.e.c. in heading no. 3305",
    "level": 6,
    "chapter": "33",
    "description": "Other",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "33059011",
+   "hs6": "330590",
+   "hs6_description": "Hair preparations; n.e.c. in heading no. 3305",
    "level": 8,
    "chapter": "33",
    "description": "Hair oil: ---- Perfumed",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "33059019",
+   "hs6": "330590",
+   "hs6_description": "Hair preparations; n.e.c. in heading no. 3305",
    "level": 8,
    "chapter": "33",
    "description": "Hair oil: ---- Other",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "33059020",
+   "hs6": "330590",
+   "hs6_description": "Hair preparations; n.e.c. in heading no. 3305",
    "level": 8,
    "chapter": "33",
    "description": "Hair oil: ---- Brilliantines (spirituous)",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "33059030",
+   "hs6": "330590",
+   "hs6_description": "Hair preparations; n.e.c. in heading no. 3305",
    "level": 8,
    "chapter": "33",
    "description": "Hair oil: ---- Hair cream",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "33059040",
+   "hs6": "330590",
+   "hs6_description": "Hair preparations; n.e.c. in heading no. 3305",
    "level": 8,
    "chapter": "33",
    "description": "Hair oil: ---- Hair dyes (natural, herbal or synthetic)",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "33059050",
+   "hs6": "330590",
+   "hs6_description": "Hair preparations; n.e.c. in heading no. 3305",
    "level": 8,
    "chapter": "33",
    "description": "Hair oil: ---- Hair fixers",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "33059090",
+   "hs6": "330590",
+   "hs6_description": "Hair preparations; n.e.c. in heading no. 3305",
    "level": 8,
    "chapter": "33",
    "description": "Hair oil: ---- Other",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "3306",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "33",
    "description": "Preparations for oral or dental hygiene, including denture fixative pastes and powders; yarn used to clean between the teeth (dental floss), in individual retail packages.",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "330610",
+   "hs6": "330610",
+   "hs6_description": "Oral or dental hygiene preparations; dentifrices",
    "level": 6,
    "chapter": "33",
    "description": "Dentifrices",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "33061010",
+   "hs6": "330610",
+   "hs6_description": "Oral or dental hygiene preparations; dentifrices",
    "level": 8,
    "chapter": "33",
    "description": "In powder",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "33061020",
+   "hs6": "330610",
+   "hs6_description": "Oral or dental hygiene preparations; dentifrices",
    "level": 8,
    "chapter": "33",
    "description": "In paste",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "33061090",
+   "hs6": "330610",
+   "hs6_description": "Oral or dental hygiene preparations; dentifrices",
    "level": 8,
    "chapter": "33",
    "description": "Other",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "33062000",
+   "hs6": "330620",
+   "hs6_description": "Oral or dental hygiene preparations; yarn used to clean between the teeth (dental floss)",
    "level": 8,
    "chapter": "33",
    "description": "Yarn used to clean between the teeth (dental floss)",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "33069000",
+   "hs6": "330690",
+   "hs6_description": "Oral or dental hygiene preparations; other than dentifrices",
    "level": 8,
    "chapter": "33",
    "description": "Other",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "3307",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "33",
    "description": "Pre-shave, shaving or after-shave preparations, personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specified or included; prepared room deodorisers, whether or not perfumed or having disinfectant properties.",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "330710",
+   "hs6": "330710",
+   "hs6_description": "Perfumery, cosmetic or toilet preparations; pre-shave, shaving or after-shave preparations",
    "level": 6,
    "chapter": "33",
    "description": "Pre-shave, shaving or after-shave preparations",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "33071010",
+   "hs6": "330710",
+   "hs6_description": "Perfumery, cosmetic or toilet preparations; pre-shave, shaving or after-shave preparations",
    "level": 8,
    "chapter": "33",
    "description": "Shaving cream",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "33071090",
+   "hs6": "330710",
+   "hs6_description": "Perfumery, cosmetic or toilet preparations; pre-shave, shaving or after-shave preparations",
    "level": 8,
    "chapter": "33",
    "description": "Other",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "33072000",
+   "hs6": "330720",
+   "hs6_description": "Perfumery, cosmetic or toilet preparations; personal deodorants and antiperspirants",
    "level": 8,
    "chapter": "33",
    "description": "Personal deodorants and antiperspirants",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "330730",
+   "hs6": "330730",
+   "hs6_description": "Perfumery, cosmetic or toilet preparations; perfumed bath salts and other bath preparations",
    "level": 6,
    "chapter": "33",
    "description": "Perfumed bath salts and other bath preparations",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "33073010",
+   "hs6": "330730",
+   "hs6_description": "Perfumery, cosmetic or toilet preparations; perfumed bath salts and other bath preparations",
    "level": 8,
    "chapter": "33",
    "description": "Bath oil (thailam)",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "33073090",
+   "hs6": "330730",
+   "hs6_description": "Perfumery, cosmetic or toilet preparations; perfumed bath salts and other bath preparations",
    "level": 8,
    "chapter": "33",
    "description": "Other",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "33074100",
+   "hs6": "330741",
+   "hs6_description": "Perfumes and deodorizers; perfuming or deodorizing preparations for rooms, agarbatti and other odoriferous preparations which operate by burning (including those used during religious rites)",
    "level": 8,
    "chapter": "33",
    "description": "preparations for perfuming or deodorizing rooms, including odoriferous preparations used during religious rites : -- Agarbatti and other odoriferous preparations which operate by burning",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "33074900",
+   "hs6": "330749",
+   "hs6_description": "Perfumes and deodorizers; perfuming or deodorizing preparations for rooms, (excluding those which operate by burning)",
    "level": 8,
    "chapter": "33",
    "description": "preparations for perfuming or deodorizing rooms, including odoriferous preparations used during religious rites : -- Other",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "330790",
+   "hs6": "330790",
+   "hs6_description": "Perfumes and deodorizers; perfuming or deodorizing preparations n.e.c. in heading no. 3307",
    "level": 6,
    "chapter": "33",
    "description": "Other",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "33079010",
+   "hs6": "330790",
+   "hs6_description": "Perfumes and deodorizers; perfuming or deodorizing preparations n.e.c. in heading no. 3307",
    "level": 8,
    "chapter": "33",
    "description": "Depilatories",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "33079020",
+   "hs6": "330790",
+   "hs6_description": "Perfumes and deodorizers; perfuming or deodorizing preparations n.e.c. in heading no. 3307",
    "level": 8,
    "chapter": "33",
    "description": "Sterile contact lens care solution",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "33079090",
+   "hs6": "330790",
+   "hs6_description": "Perfumes and deodorizers; perfuming or deodorizing preparations n.e.c. in heading no. 3307",
    "level": 8,
    "chapter": "33",
    "description": "Other",

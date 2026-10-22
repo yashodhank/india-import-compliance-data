@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "68010000",
+   "hs6": "680100",
+   "hs6_description": "Stone; setts, curbstones and flagstones, of natural stone (except slate)",
    "level": 8,
    "chapter": "68",
    "description": "Setts, curbstones and flagstones, of natural stone (except slate).",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "6802",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "68",
    "description": "WORKED MONUMENTAL OR BUILDING STONE (EXCEPT SLATE) AND ARTICLES THEREOF, OTHER THAN GOODS OF HEADING 6801; MOSAICCUBES AND THE LIKE, OF NATURAL STONE (INCLUDING SLATE), WHETHER OR NOT ON A BACKING; ARTIFICIALLY COLOURED GRANULES, CHIPPINGS AND POWDER, OF NATURAL STONE (INCLUDING SLATE)",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "68021000",
+   "hs6": "680210",
+   "hs6_description": "Tiles, cubes and similar articles; whether or not rectangular (including square), largest face of which is capable of being enclosed in square, side less than 7cm, coloured granules, chippings, powder",
    "level": 8,
    "chapter": "68",
    "description": "Tiles, cubes and similar articles, whether or not rectangular (including square), the largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm; artificially coloured granules, chippings and powder",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "680221",
+   "hs6": "680221",
+   "hs6_description": "Marble, travertine and alabaster; simply cut or sawn, with a flat or even surface",
    "level": 6,
    "chapter": "68",
    "description": "Other monumental or building stone and articles thereof, simply cut or sawn, with a flat or even surface : -- Marble, travertine and alabaster",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "68022110",
+   "hs6": "680221",
+   "hs6_description": "Marble, travertine and alabaster; simply cut or sawn, with a flat or even surface",
    "level": 8,
    "chapter": "68",
    "description": "Marble blocks or tiles",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "68022120",
+   "hs6": "680221",
+   "hs6_description": "Marble, travertine and alabaster; simply cut or sawn, with a flat or even surface",
    "level": 8,
    "chapter": "68",
    "description": "Marble monumental stone",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "68022190",
+   "hs6": "680221",
+   "hs6_description": "Marble, travertine and alabaster; simply cut or sawn, with a flat or even surface",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "680223",
+   "hs6": "680223",
+   "hs6_description": "Granite; articles thereof, simply cut or sawn, with a flat or even surface",
    "level": 6,
    "chapter": "68",
    "description": "Other monumental or building stone and articles thereof, simply cut or sawn, with a flat or even surface : -- Granite",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "68022310",
+   "hs6": "680223",
+   "hs6_description": "Granite; articles thereof, simply cut or sawn, with a flat or even surface",
    "level": 8,
    "chapter": "68",
    "description": "Granite blocks or tiles",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "68022390",
+   "hs6": "680223",
+   "hs6_description": "Granite; articles thereof, simply cut or sawn, with a flat or even surface",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "68022900",
+   "hs6": "680229",
+   "hs6_description": "Stone; monumental or building stone, n.e.c. in item no. 6802.2, articles thereof, simply cut or sawn, with a flat or even surface",
    "level": 8,
    "chapter": "68",
    "description": "Other monumental or building stone and articles thereof, simply cut or sawn, with a flat or even surface : -- Other stone",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "68029100",
+   "hs6": "680291",
+   "hs6_description": "Marble, travertine and alabaster; articles thereof, (other than simply cut or sawn, with a flat or even surface)",
    "level": 8,
    "chapter": "68",
    "description": "Other : -- Marble, travertine and alabaster",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "68029200",
+   "hs6": "680292",
+   "hs6_description": "Stone; calcareous (excluding marble, travertine, alabaster) articles thereof, (other than simply cut or sawn, with a flat or even surface)",
    "level": 8,
    "chapter": "68",
    "description": "Other : -- Other calcareous stone",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "68029300",
+   "hs6": "680293",
+   "hs6_description": "Granite; articles thereof, (other than simply cut or sawn, with a flat or even surface)",
    "level": 8,
    "chapter": "68",
    "description": "Other : -- Granite",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "68029900",
+   "hs6": "680299",
+   "hs6_description": "Stone; natural (excluding marble, travertine, alabaster, other calcareous stone or granite), monumental or building stone, (other than simply cut or sawn, with a flat or even surface)",
    "level": 8,
    "chapter": "68",
    "description": "Other : -- Other stone",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "68030000",
+   "hs6": "680300",
+   "hs6_description": "Slate, worked; and articles of slate or of agglomerated slate",
    "level": 8,
    "chapter": "68",
    "description": "Worked slate and articles of slate or of agglomerated slate.",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "6804",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "68",
    "description": "Millstones, grindstones, grinding wheels and the like, without frameworks, for grinding, sharpening, polishing, trueing or cutting, hand sharpening or polishing stones, and parts thereof, of natural stone, of agglomerated natural or artificial abrasives, or of ceramics, with or without parts of other materials.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "68041000",
+   "hs6": "680410",
+   "hs6_description": "Millstones and grindstones; for milling, grinding or pulping",
    "level": 8,
    "chapter": "68",
    "description": "Millstones and grindstones for milling, grinding or pulping",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "680421",
+   "hs6": "680421",
+   "hs6_description": "Millstones, grindstones, grinding wheels and the like; of agglomerated synthetic or natural diamond",
    "level": 6,
    "chapter": "68",
    "description": "Other millstones, grindstones, grinding wheels and the like : -- Of agglomerated synthetic or natural diamond",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "68042110",
+   "hs6": "680421",
+   "hs6_description": "Millstones, grindstones, grinding wheels and the like; of agglomerated synthetic or natural diamond",
    "level": 8,
    "chapter": "68",
    "description": "Diamond impregnated wheels",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "68042190",
+   "hs6": "680421",
+   "hs6_description": "Millstones, grindstones, grinding wheels and the like; of agglomerated synthetic or natural diamond",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "680422",
+   "hs6": "680422",
+   "hs6_description": "Millstones, grindstones, grinding wheels and the like; of other agglomerated abrasives or of ceramics",
    "level": 6,
    "chapter": "68",
    "description": "Other millstones, grindstones, grinding wheels and the like : -- Of other agglomerated abrasives or of ceramics",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "68042210",
+   "hs6": "680422",
+   "hs6_description": "Millstones, grindstones, grinding wheels and the like; of other agglomerated abrasives or of ceramics",
    "level": 8,
    "chapter": "68",
    "description": "Grinding wheels of synthetic abrasive",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "68042220",
+   "hs6": "680422",
+   "hs6_description": "Millstones, grindstones, grinding wheels and the like; of other agglomerated abrasives or of ceramics",
    "level": 8,
    "chapter": "68",
    "description": "Grinding wheels of other materials",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "68042290",
+   "hs6": "680422",
+   "hs6_description": "Millstones, grindstones, grinding wheels and the like; of other agglomerated abrasives or of ceramics",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "680423",
+   "hs6": "680423",
+   "hs6_description": "Millstones, grindstones, grinding wheels and the like; of natural stone",
    "level": 6,
    "chapter": "68",
    "description": "Other millstones, grindstones, grinding wheels and the like : -- Of natural stone",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "68042310",
+   "hs6": "680423",
+   "hs6_description": "Millstones, grindstones, grinding wheels and the like; of natural stone",
    "level": 8,
    "chapter": "68",
    "description": "Grinding wheels made of natural stone",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "68042390",
+   "hs6": "680423",
+   "hs6_description": "Millstones, grindstones, grinding wheels and the like; of natural stone",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "680430",
+   "hs6": "680430",
+   "hs6_description": "Stones; hand sharpening or polishing stones, of natural stone, agglomerated natural or artificial abrasives or ceramics, with or without parts of other materials",
    "level": 6,
    "chapter": "68",
    "description": "Hand sharpening or polishing stones",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "68043010",
+   "hs6": "680430",
+   "hs6_description": "Stones; hand sharpening or polishing stones, of natural stone, agglomerated natural or artificial abrasives or ceramics, with or without parts of other materials",
    "level": 8,
    "chapter": "68",
    "description": "Polishing stones",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "68043020",
+   "hs6": "680430",
+   "hs6_description": "Stones; hand sharpening or polishing stones, of natural stone, agglomerated natural or artificial abrasives or ceramics, with or without parts of other materials",
    "level": 8,
    "chapter": "68",
    "description": "Sharpening stones",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "6805",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "68",
    "description": "Natural or artificial abrasive powder or grain, on a base of textile material, of paper, of paperboard or of other materials, whether or not cut to shape or sewn or otherwise made up.",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "680510",
+   "hs6": "680510",
+   "hs6_description": "Abrasive powder or grain; natural or artificial, on a base of woven textile fabric only, whether or not cut to shape or sewn or otherwise made up",
    "level": 6,
    "chapter": "68",
    "description": "On a base of woven textile fabric only",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "68051010",
+   "hs6": "680510",
+   "hs6_description": "Abrasive powder or grain; natural or artificial, on a base of woven textile fabric only, whether or not cut to shape or sewn or otherwise made up",
    "level": 8,
    "chapter": "68",
    "description": "Abrasive cloths",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "68051090",
+   "hs6": "680510",
+   "hs6_description": "Abrasive powder or grain; natural or artificial, on a base of woven textile fabric only, whether or not cut to shape or sewn or otherwise made up",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "680520",
+   "hs6": "680520",
+   "hs6_description": "Abrasive powder or grain; natural or artificial, on a base of paper or paperboard only, whether or not cut to shape or sewn or otherwise made up",
    "level": 6,
    "chapter": "68",
    "description": "on a base of paper or paperboard only",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "68052010",
+   "hs6": "680520",
+   "hs6_description": "Abrasive powder or grain; natural or artificial, on a base of paper or paperboard only, whether or not cut to shape or sewn or otherwise made up",
    "level": 8,
    "chapter": "68",
    "description": "Emery or corundum coated paper",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "68052020",
+   "hs6": "680520",
+   "hs6_description": "Abrasive powder or grain; natural or artificial, on a base of paper or paperboard only, whether or not cut to shape or sewn or otherwise made up",
    "level": 8,
    "chapter": "68",
    "description": "Flint coated paper",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "68052030",
+   "hs6": "680520",
+   "hs6_description": "Abrasive powder or grain; natural or artificial, on a base of paper or paperboard only, whether or not cut to shape or sewn or otherwise made up",
    "level": 8,
    "chapter": "68",
    "description": "Glass or sand coated paper",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "68052040",
+   "hs6": "680520",
+   "hs6_description": "Abrasive powder or grain; natural or artificial, on a base of paper or paperboard only, whether or not cut to shape or sewn or otherwise made up",
    "level": 8,
    "chapter": "68",
    "description": "Other abrasive paper",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "68052090",
+   "hs6": "680520",
+   "hs6_description": "Abrasive powder or grain; natural or artificial, on a base of paper or paperboard only, whether or not cut to shape or sewn or otherwise made up",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "68053000",
+   "hs6": "680530",
+   "hs6_description": "Abrasive powder or grain; natural or artificial, on a base of materials n.e.c. in heading no. 6805, whether or not cut to shape or sewn or otherwise made up",
    "level": 8,
    "chapter": "68",
    "description": "On a base of other materials",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "6806",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "68",
    "description": "Slag wool, rock wool and similar mineral wools; exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials; mixtures and articles of heat-insulating, sound-insulating or sound-absorbing mineral materials, other than those of heading 68.11 or 68.12 or of Chapter 69.",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "68061000",
+   "hs6": "680610",
+   "hs6_description": "Slag wool, rock wool and similar mineral wools (including intermixtures thereof), in bulk, sheets or rolls",
    "level": 8,
    "chapter": "68",
    "description": "Slag wool, rock wool and similar mineral wools (including intermixtures thereof), in bulk, sheets or rolls",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "68062000",
+   "hs6": "680620",
+   "hs6_description": "Exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials (including intermixtures thereof)",
    "level": 8,
    "chapter": "68",
    "description": "Exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials (including intermixtures thereof)",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "68069000",
+   "hs6": "680690",
+   "hs6_description": "Minerals; mixtures and articles of heat-insulating, sound-insulating or sound-absorbing mineral materials, other than those of heading no. 6811 or 6812 or of chapter 69",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "6807",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "68",
    "description": "Articles of asphalt or of similar material (for example, petroleum bitumen or coal tar pitch).",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "680710",
+   "hs6": "680710",
+   "hs6_description": "Asphalt or similar material; articles (e.g. petroleum bitumen or coal tar pitch) in rolls",
    "level": 6,
    "chapter": "68",
    "description": "In rolls",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "68071010",
+   "hs6": "680710",
+   "hs6_description": "Asphalt or similar material; articles (e.g. petroleum bitumen or coal tar pitch) in rolls",
    "level": 8,
    "chapter": "68",
    "description": "Tarfelt roofing",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "68071090",
+   "hs6": "680710",
+   "hs6_description": "Asphalt or similar material; articles (e.g. petroleum bitumen or coal tar pitch) in rolls",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "680790",
+   "hs6": "680790",
+   "hs6_description": "Asphalt or similar material; articles (e.g. petroleum bitumen or coal tar pitch) other than in rolls",
    "level": 6,
    "chapter": "68",
    "description": "Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "68079010",
+   "hs6": "680790",
+   "hs6_description": "Asphalt or similar material; articles (e.g. petroleum bitumen or coal tar pitch) other than in rolls",
    "level": 8,
    "chapter": "68",
    "description": "Tarfelt roofing",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "68079090",
+   "hs6": "680790",
+   "hs6_description": "Asphalt or similar material; articles (e.g. petroleum bitumen or coal tar pitch) other than in rolls",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "68080000",
+   "hs6": "680800",
+   "hs6_description": "Panels, boards, tiles, blocks and the like; of vegetable fibre, of straw, shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders",
    "level": 8,
    "chapter": "68",
    "description": "Panels, boards, tiles, blocks and similar articles of vegetable fibre, of straw or of shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders.",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "6809",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "68",
    "description": "Articles of plaster or of compositions based on plaster.",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "68091100",
+   "hs6": "680911",
+   "hs6_description": "Plaster, or plaster compositions; boards, sheets, panels, tiles and similar articles, faced or reinforced with paper or paperboard only, not ornamented",
    "level": 8,
    "chapter": "68",
    "description": "Boards, sheets, panels, tiles and similar articles, not ornamented : -- Faced or reinforced with paper or paperboard only",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "68091900",
+   "hs6": "680919",
+   "hs6_description": "Plaster, or plaster compositions; boards, sheets, panels, tiles and similar articles, (other than faced or reinforced with paper or paperboard only), not ornamented",
    "level": 8,
    "chapter": "68",
    "description": "Boards, sheets, panels, tiles and similar articles, not ornamented : -- Other",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "68099000",
+   "hs6": "680990",
+   "hs6_description": "Plaster articles or articles of compositions based on plaster; n.e.c. in heading no. 6809",
    "level": 8,
    "chapter": "68",
    "description": "Other articles",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "6810",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "68",
    "description": "Articles of cement, of concrete or of artificial stone, whether or not reinforced.",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "681011",
+   "hs6": "681011",
+   "hs6_description": "Cement, concrete or artificial stone; building blocks or bricks, whether or not reinforced",
    "level": 6,
    "chapter": "68",
    "description": "Tiles, flagstones, bricks and similar articles : -- Building blocks and bricks",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "68101110",
+   "hs6": "681011",
+   "hs6_description": "Cement, concrete or artificial stone; building blocks or bricks, whether or not reinforced",
    "level": 8,
    "chapter": "68",
    "description": "Cement bricks",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "68101190",
+   "hs6": "681011",
+   "hs6_description": "Cement, concrete or artificial stone; building blocks or bricks, whether or not reinforced",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "681019",
+   "hs6": "681019",
+   "hs6_description": "Cement, concrete or artificial stone; tiles, flagstones and similar, (excluding building blocks and bricks) whether or not reinforced",
    "level": 6,
    "chapter": "68",
    "description": "Tiles, flagstones, bricks and similar articles : -- Other",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "68101910",
+   "hs6": "681019",
+   "hs6_description": "Cement, concrete or artificial stone; tiles, flagstones and similar, (excluding building blocks and bricks) whether or not reinforced",
    "level": 8,
    "chapter": "68",
    "description": "Cement tiles for mosaic",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "68101990",
+   "hs6": "681019",
+   "hs6_description": "Cement, concrete or artificial stone; tiles, flagstones and similar, (excluding building blocks and bricks) whether or not reinforced",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "68109100",
+   "hs6": "681091",
+   "hs6_description": "Cement, concrete or artificial stone; prefabricated structural components for building or civil engineering, whether or not reinforced",
    "level": 8,
    "chapter": "68",
    "description": "Other articles : -- Prefabricated structural components for building or civil engineering",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "681099",
+   "hs6": "681099",
+   "hs6_description": "Cement, concrete or artificial stone; articles (other than prefabricated structural components for building or civil engineering), whether or not reinforced, n.e.c. in heading no. 6810",
    "level": 6,
    "chapter": "68",
    "description": "Other articles : -- Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "68109910",
+   "hs6": "681099",
+   "hs6_description": "Cement, concrete or artificial stone; articles (other than prefabricated structural components for building or civil engineering), whether or not reinforced, n.e.c. in heading no. 6810",
    "level": 8,
    "chapter": "68",
    "description": "Concrete boulder",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "68109990",
+   "hs6": "681099",
+   "hs6_description": "Cement, concrete or artificial stone; articles (other than prefabricated structural components for building or civil engineering), whether or not reinforced, n.e.c. in heading no. 6810",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "6811",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "68",
    "description": "Articles of asbestos-cement, of cellulose fibre-cement or the like.",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "681140",
+   "hs6": "681140",
+   "hs6_description": "Asbestos-cement; articles or the like, containing asbestos",
    "level": 6,
    "chapter": "68",
    "description": "Containing asbestos",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "68114010",
+   "hs6": "681140",
+   "hs6_description": "Asbestos-cement; articles or the like, containing asbestos",
    "level": 8,
    "chapter": "68",
    "description": "Asbestos - cement sheets",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "68114020",
+   "hs6": "681140",
+   "hs6_description": "Asbestos-cement; articles or the like, containing asbestos",
    "level": 8,
    "chapter": "68",
    "description": "Asbestos - cement tiles",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "68114090",
+   "hs6": "681140",
+   "hs6_description": "Asbestos-cement; articles or the like, containing asbestos",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "68118100",
+   "hs6": "681181",
+   "hs6_description": "Cellulose fibre-cement; articles or the like; corrugated sheets, not containing asbestos",
    "level": 8,
    "chapter": "68",
    "description": "Not containing asbestos : -- Corrugated sheets",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "68118200",
+   "hs6": "681182",
+   "hs6_description": "Cellulose fibre-cement; articles or the like, sheets, panels, tiles and similar articles (other than corrugated sheets), not containing asbestos",
    "level": 8,
    "chapter": "68",
    "description": "Not containing asbestos : -- Other sheets, panels, tiles and similar articles",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "681189",
+   "hs6": "681189",
+   "hs6_description": "Cellulose fibre-cement; articles or the like, other than corrugated sheets and other sheets, panels, tiles and similar articles, not containing asbestos",
    "level": 6,
    "chapter": "68",
    "description": "Not containing asbestos : -- Other articles",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "68118910",
+   "hs6": "681189",
+   "hs6_description": "Cellulose fibre-cement; articles or the like, other than corrugated sheets and other sheets, panels, tiles and similar articles, not containing asbestos",
    "level": 8,
    "chapter": "68",
    "description": "Tubes, pipes and tube or pipe fittings",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "68118990",
+   "hs6": "681189",
+   "hs6_description": "Cellulose fibre-cement; articles or the like, other than corrugated sheets and other sheets, panels, tiles and similar articles, not containing asbestos",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "6812",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "68",
    "description": "Fabricated asbestos fibres; mixtures with a basis of asbestos or with a basis of asbestos and magnesium carbonate; articles of such mixtures or of asbestos (for example, thread, woven fabric, clothing, headgear, footwear, gaskets), whether or not reinforced, other than goods of heading 68.11 or 68.13.",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "68128000",
+   "hs6": "681280",
+   "hs6_description": "Fabricated crocidolite (blue asbestos) fibres, mixtures with a basis of crocidolite (blue asbestos), articles of crocidolite (blue asbestos), whether or not reinforced, not goods of heading 6811 or 6813",
    "level": 8,
    "chapter": "68",
    "description": "Of crocidolite",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "68129100",
+   "hs6": "681291",
+   "hs6_description": "Asbestos or mixtures with a basis of asbestos (other than crocidolite); clothing, clothing accessories, footwear and headgear, whether or not reinforced, not goods of heading 6811 or 6813",
    "level": 8,
    "chapter": "68",
    "description": "Other : -- Clothing, clothing accessories, footwear and headgear",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "68129911",
+   "hs6": "681299",
+   "hs6_description": "Asbestos or mixtures with a basis of asbestos (other than crocidolite); fibres, mixtures or articles n.e.c. in heading no. 6812, whether or not reinforced, not goods of heading 6811 or 6813",
    "level": 8,
    "chapter": "68",
    "description": "Lagging compounds: ----Asbestos",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "68129919",
+   "hs6": "681299",
+   "hs6_description": "Asbestos or mixtures with a basis of asbestos (other than crocidolite); fibres, mixtures or articles n.e.c. in heading no. 6812, whether or not reinforced, not goods of heading 6811 or 6813",
    "level": 8,
    "chapter": "68",
    "description": "Lagging compounds: ----Other",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "68129921",
+   "hs6": "681299",
+   "hs6_description": "Asbestos or mixtures with a basis of asbestos (other than crocidolite); fibres, mixtures or articles n.e.c. in heading no. 6812, whether or not reinforced, not goods of heading 6811 or 6813",
    "level": 8,
    "chapter": "68",
    "description": "Asbestos packing joints and gaskets: ----Packing joints",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "68129922",
+   "hs6": "681299",
+   "hs6_description": "Asbestos or mixtures with a basis of asbestos (other than crocidolite); fibres, mixtures or articles n.e.c. in heading no. 6812, whether or not reinforced, not goods of heading 6811 or 6813",
    "level": 8,
    "chapter": "68",
    "description": "Asbestos packing joints and gaskets: ----Gaskets",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "68129990",
+   "hs6": "681299",
+   "hs6_description": "Asbestos or mixtures with a basis of asbestos (other than crocidolite); fibres, mixtures or articles n.e.c. in heading no. 6812, whether or not reinforced, not goods of heading 6811 or 6813",
    "level": 8,
    "chapter": "68",
    "description": "Asbestos packing joints and gaskets: ----Other",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "6813",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "68",
    "description": "Friction material and articles thereof (for example, sheets, rolls, strips, segments, discs, washers, pads), not mounted, for brakes, for clutches or the like, with a basis of asbestos, of other mineral substances or of cellulose, whether or not combined with textile or other materials.",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "681320",
+   "hs6": "681320",
+   "hs6_description": "Friction material and articles thereof (e.g. sheets, rolls, strips, segments, discs, washers, pads) not mounted; for brakes, clutches or the like, with a basis of asbestos",
    "level": 6,
    "chapter": "68",
    "description": "Containing asbestos",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "68132010",
+   "hs6": "681320",
+   "hs6_description": "Friction material and articles thereof (e.g. sheets, rolls, strips, segments, discs, washers, pads) not mounted; for brakes, clutches or the like, with a basis of asbestos",
    "level": 8,
    "chapter": "68",
    "description": "Brake lining and pads",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "68132090",
+   "hs6": "681320",
+   "hs6_description": "Friction material and articles thereof (e.g. sheets, rolls, strips, segments, discs, washers, pads) not mounted; for brakes, clutches or the like, with a basis of asbestos",
    "level": 8,
    "chapter": "68",
    "description": "Asbestos friction materials",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "68138100",
+   "hs6": "681381",
+   "hs6_description": "Brake linings and pads; with a basis of mineral substances or cellulose (other than asbestos)",
    "level": 8,
    "chapter": "68",
    "description": "Not containing asbestos : -- Brake linings and pads",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "68138900",
+   "hs6": "681389",
+   "hs6_description": "Friction material and articles thereof (e.g. sheets, rolls, strips, segments, discs, washers, pads) not mounted; for clutches or the like (not brake linings and pads), with a basis of mineral substances or cellulose (other than asbestos)",
    "level": 8,
    "chapter": "68",
    "description": "Not containing asbestos : -- Other",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "6814",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "68",
    "description": "Worked mica and articles of mica, including agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials.",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "681410",
+   "hs6": "681410",
+   "hs6_description": "Mica; plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials",
    "level": 6,
    "chapter": "68",
    "description": "Plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "68141010",
+   "hs6": "681410",
+   "hs6_description": "Mica; plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials",
    "level": 8,
    "chapter": "68",
    "description": "Cut mica condenser films or plates",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "68141020",
+   "hs6": "681410",
+   "hs6_description": "Mica; plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials",
    "level": 8,
    "chapter": "68",
    "description": "Sheets and strips cut to shape",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "68141030",
+   "hs6": "681410",
+   "hs6_description": "Mica; plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials",
    "level": 8,
    "chapter": "68",
    "description": "Washers and discs",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "68141090",
+   "hs6": "681410",
+   "hs6_description": "Mica; plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "681490",
+   "hs6": "681490",
+   "hs6_description": "Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",
    "level": 6,
    "chapter": "68",
    "description": "Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "68149010",
+   "hs6": "681490",
+   "hs6_description": "Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",
    "level": 8,
    "chapter": "68",
    "description": "Mica stacked units",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "68149020",
+   "hs6": "681490",
+   "hs6_description": "Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",
    "level": 8,
    "chapter": "68",
    "description": "Silvered mica, capacitor plates or silvered mica plates",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "68149030",
+   "hs6": "681490",
+   "hs6_description": "Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",
    "level": 8,
    "chapter": "68",
    "description": "Micanite and all sorts of built up mica",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "68149040",
+   "hs6": "681490",
+   "hs6_description": "Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",
    "level": 8,
    "chapter": "68",
    "description": "Mica paper or reconstituted mica paper",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "68149050",
+   "hs6": "681490",
+   "hs6_description": "Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",
    "level": 8,
    "chapter": "68",
    "description": "Moulded glass bonded or glass bonded mica",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "68149060",
+   "hs6": "681490",
+   "hs6_description": "Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",
    "level": 8,
    "chapter": "68",
    "description": "Mica bricks",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "68149090",
+   "hs6": "681490",
+   "hs6_description": "Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",
    "level": 8,
    "chapter": "68",
    "description": "Other",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "6815",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "68",
    "description": "Articles of stone or of other mineral substances (including carbon fibres, articles of carbon fibres and articles of peat), not elsewhere specified or included.",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "68151100",
+   "hs6": "681511",
+   "hs6_description": "Stone or other mineral substances not elsewhere specified or included; carbon fibres for non-electrical uses",
    "level": 8,
    "chapter": "68",
    "description": "Carbon fibres; articles of carbon fibres for non-electrical uses; other articles of graphite or other carbon for non-electrical uses: - - Carbon fibres",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "68151200",
+   "hs6": "681512",
+   "hs6_description": "Stone or other mineral substances not elsewhere specified or included; fabrics of carbon fibres for non-electrical uses",
    "level": 8,
    "chapter": "68",
    "description": "Fabrics of carbon fibres",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "68151300",
+   "hs6": "681513",
+   "hs6_description": "Stone or other mineral substances not elsewhere specified or included; articles of carbon fibres for non-electrical uses",
    "level": 8,
    "chapter": "68",
    "description": "Carbon fibres; articles of carbon fibres for non-electrical uses; other articles of graphite or other carbon for non-electrical uses: - - Other articles of carbon fibres",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "68151900",
+   "hs6": "681519",
+   "hs6_description": "Stone or other mineral substances not elsewhere specified or included; non-electrical articles of graphite or carbon n.e.c. in heading 6815",
    "level": 8,
    "chapter": "68",
    "description": "Carbon fibres; articles of carbon fibres for non-electrical uses; other articles of graphite or other carbon for non-electrical uses: - - Other",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "68152000",
+   "hs6": "681520",
+   "hs6_description": "Peat; articles of peat n.e.c. or included",
    "level": 8,
    "chapter": "68",
    "description": "Articles of peat",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "68159100",
+   "hs6": "681591",
+   "hs6_description": "Stone articles and articles of other mineral substances; containing magnesite, magnesia in the form of periclase, dolomite including in the form of dolime, or chromite",
    "level": 8,
    "chapter": "68",
    "description": "Other articles :- - Containing magnesite, magnesia in the form of periclase, dolomite including in the form of dolime, or chromite",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "681599",
+   "hs6": "681599",
+   "hs6_description": "Stone articles and articles of other mineral substances; n.e.c. or included in heading no. 6815",
    "level": 6,
    "chapter": "68",
    "description": "Other articles : -- Other",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "68159910",
+   "hs6": "681599",
+   "hs6_description": "Stone articles and articles of other mineral substances; n.e.c. or included in heading no. 6815",
    "level": 8,
    "chapter": "68",
    "description": "Bricks and tiles of fly ash",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "68159920",
+   "hs6": "681599",
+   "hs6_description": "Stone articles and articles of other mineral substances; n.e.c. or included in heading no. 6815",
    "level": 8,
    "chapter": "68",
    "description": "Sanitary wares, kitchen wares and other made up articles of fly ash",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "68159930",
+   "hs6": "681599",
+   "hs6_description": "Stone articles and articles of other mineral substances; n.e.c. or included in heading no. 6815",
    "level": 8,
    "chapter": "68",
    "description": "Basalt fibre, filament and articles thereof conforming to ASTM D3039, C1185",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "68159990",
+   "hs6": "681599",
+   "hs6_description": "Stone articles and articles of other mineral substances; n.e.c. or included in heading no. 6815",
    "level": 8,
    "chapter": "68",
    "description": "Other",

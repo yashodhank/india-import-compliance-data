@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "5501",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Synthetic filament tow.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "55011100",
+   "hs6": "550111",
+   "hs6_description": "Fibres; synthetic filament tow, of nylon or other polyamides, of aramids",
    "level": 8,
    "chapter": "55",
    "description": "Of nylon or other polyamides: - - Of aramids",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "55011900",
+   "hs6": "550119",
+   "hs6_description": "Fibres; synthetic filament tow, of nylon or other polyamides, of other than aramids",
    "level": 8,
    "chapter": "55",
    "description": "Of nylon or other polyamides: - - Other",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "55012000",
+   "hs6": "550120",
+   "hs6_description": "Fibres; synthetic filament tow, of polyesters",
    "level": 8,
    "chapter": "55",
    "description": "Of polyesters",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "55013000",
+   "hs6": "550130",
+   "hs6_description": "Fibres; synthetic filament tow, acrylic or modacrylic",
    "level": 8,
    "chapter": "55",
    "description": "Acrylic or modacrylic",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "55014000",
+   "hs6": "550140",
+   "hs6_description": "Fibres; synthetic filament tow, of polypropylene",
    "level": 8,
    "chapter": "55",
    "description": "Of polypropylene",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "550190",
+   "hs6": "550190",
+   "hs6_description": "Fibres; synthetic filament tow, of synthetic materials n.e.c. in heading no. 5501",
    "level": 6,
    "chapter": "55",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "55019010",
+   "hs6": "550190",
+   "hs6_description": "Fibres; synthetic filament tow, of synthetic materials n.e.c. in heading no. 5501",
    "level": 8,
    "chapter": "55",
    "description": "Of polypropylene",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "55019090",
+   "hs6": "550190",
+   "hs6_description": "Fibres; synthetic filament tow, of synthetic materials n.e.c. in heading no. 5501",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "5502",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Artificial filament tow.",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "550210",
+   "hs6": "550210",
+   "hs6_description": "Fibres; artificial filament tow of cellulose acetate",
    "level": 6,
    "chapter": "55",
    "description": "Of cellulose acetate",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "55021010",
+   "hs6": "550210",
+   "hs6_description": "Fibres; artificial filament tow of cellulose acetate",
    "level": 8,
    "chapter": "55",
    "description": "Viscose rayon tow",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "55021090",
+   "hs6": "550210",
+   "hs6_description": "Fibres; artificial filament tow of cellulose acetate",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "550290",
+   "hs6": "550290",
+   "hs6_description": "Fibres; artificial filament tow, other than cellulose acetate",
    "level": 6,
    "chapter": "55",
    "description": "Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "55029010",
+   "hs6": "550290",
+   "hs6_description": "Fibres; artificial filament tow, other than cellulose acetate",
    "level": 8,
    "chapter": "55",
    "description": "Viscose rayon tow",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "55029090",
+   "hs6": "550290",
+   "hs6_description": "Fibres; artificial filament tow, other than cellulose acetate",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "5503",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Synthetic staple fibres, not carded, combed or otherwise",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "550311",
+   "hs6": "550311",
+   "hs6_description": "Fibres; synthetic staple fibres, of aramids, not carded, combed or otherwise processed for spinning",
    "level": 6,
    "chapter": "55",
    "description": "Of aramids:",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "55031110",
+   "hs6": "550311",
+   "hs6_description": "Fibres; synthetic staple fibres, of aramids, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Aramid Flame Retardant Fibre",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "55031120",
+   "hs6": "550311",
+   "hs6_description": "Fibres; synthetic staple fibres, of aramids, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Para-aramid Fibre",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "55031190",
+   "hs6": "550311",
+   "hs6_description": "Fibres; synthetic staple fibres, of aramids, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "550319",
+   "hs6": "550319",
+   "hs6_description": "Fibres; synthetic staple fibres, of nylon or other polyamides other than aramids, not carded, combed or otherwise processed for spinning",
    "level": 6,
    "chapter": "55",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "55031910",
+   "hs6": "550319",
+   "hs6_description": "Fibres; synthetic staple fibres, of nylon or other polyamides other than aramids, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Nylon Staple Fibre",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "55031920",
+   "hs6": "550319",
+   "hs6_description": "Fibres; synthetic staple fibres, of nylon or other polyamides other than aramids, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Nylon Anti Static Staple Fibre",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "55031930",
+   "hs6": "550319",
+   "hs6_description": "Fibres; synthetic staple fibres, of nylon or other polyamides other than aramids, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Nylon 66 fibre conforming to IS 13464",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "55031990",
+   "hs6": "550319",
+   "hs6_description": "Fibres; synthetic staple fibres, of nylon or other polyamides other than aramids, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "55032000",
+   "hs6": "550320",
+   "hs6_description": "Fibres; synthetic staple fibres, of polyesters, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Of polyesters",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "550330",
+   "hs6": "550330",
+   "hs6_description": "Fibres; synthetic staple fibres, acrylic or modacrylic, not carded, combed or otherwise processed for spinning",
    "level": 6,
    "chapter": "55",
    "description": "Acrylic or modacrylic:",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "55033010",
+   "hs6": "550330",
+   "hs6_description": "Fibres; synthetic staple fibres, acrylic or modacrylic, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Pre Oxidised Fibre, conforming to IS 17308",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "55033090",
+   "hs6": "550330",
+   "hs6_description": "Fibres; synthetic staple fibres, acrylic or modacrylic, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "55034000",
+   "hs6": "550340",
+   "hs6_description": "Fibres; synthetic staple fibres, of polypropylene, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Of polypropylene",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "550390",
+   "hs6": "550390",
+   "hs6_description": "Fibres; synthetic staple fibres, of synthetic materials n.e.c. in heading no. 5503, not carded, combed or otherwise processed for spinning",
    "level": 6,
    "chapter": "55",
    "description": "Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "55039010",
+   "hs6": "550390",
+   "hs6_description": "Fibres; synthetic staple fibres, of synthetic materials n.e.c. in heading no. 5503, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Polyvinyl staple fibre",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "55039020",
+   "hs6": "550390",
+   "hs6_description": "Fibres; synthetic staple fibres, of synthetic materials n.e.c. in heading no. 5503, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Polyvinyl chloride staple fibre",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "55039030",
+   "hs6": "550390",
+   "hs6_description": "Fibres; synthetic staple fibres, of synthetic materials n.e.c. in heading no. 5503, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Ultra high molecular weight poly ethylene staple fibre conforming to ASTM F2848",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "55039090",
+   "hs6": "550390",
+   "hs6_description": "Fibres; synthetic staple fibres, of synthetic materials n.e.c. in heading no. 5503, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "5504",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Artificial staple fibres, not carded, combed or otherwise processed for spinning.",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "550410",
+   "hs6": "550410",
+   "hs6_description": "Fibres; artificial staple fibres, of viscose, not carded, combed or otherwise processed for spinning",
    "level": 6,
    "chapter": "55",
    "description": "Of viscose rayon",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "55041011",
+   "hs6": "550410",
+   "hs6_description": "Fibres; artificial staple fibres, of viscose, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Obtained from wood other than bamboo: ---- Flame retaradant Viscose Rayon fibre",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "55041019",
+   "hs6": "550410",
+   "hs6_description": "Fibres; artificial staple fibres, of viscose, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Obtained from wood other than bamboo: ---- Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "55041021",
+   "hs6": "550410",
+   "hs6_description": "Fibres; artificial staple fibres, of viscose, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Obtained from bamboo: ---- Flame retaradant Viscose Rayon fibre",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "55041029",
+   "hs6": "550410",
+   "hs6_description": "Fibres; artificial staple fibres, of viscose, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Obtained from bamboo: ---- Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "55041090",
+   "hs6": "550410",
+   "hs6_description": "Fibres; artificial staple fibres, of viscose, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "550490",
+   "hs6": "550490",
+   "hs6_description": "Fibres; artificial staple fibres, other than of viscose, not carded, combed or otherwise processed for spinning",
    "level": 6,
    "chapter": "55",
    "description": "Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "55049010",
+   "hs6": "550490",
+   "hs6_description": "Fibres; artificial staple fibres, other than of viscose, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Acetate rayon staple fibres",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "55049020",
+   "hs6": "550490",
+   "hs6_description": "Fibres; artificial staple fibres, other than of viscose, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Polynosic staple fibre",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "55049030",
+   "hs6": "550490",
+   "hs6_description": "Fibres; artificial staple fibres, other than of viscose, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "High wet modulus staple fibre",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "55049090",
+   "hs6": "550490",
+   "hs6_description": "Fibres; artificial staple fibres, other than of viscose, not carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "5505",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Waste (including noils, yarn waste and garnetted stock) of man-made fibres.",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "550510",
+   "hs6": "550510",
+   "hs6_description": "Fibres; waste (including noils, yarn waste and garnetted stock), of synthetic fibres",
    "level": 6,
    "chapter": "55",
    "description": "Of synthetic fibres",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "55051010",
+   "hs6": "550510",
+   "hs6_description": "Fibres; waste (including noils, yarn waste and garnetted stock), of synthetic fibres",
    "level": 8,
    "chapter": "55",
    "description": "Of acrylic",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "55051090",
+   "hs6": "550510",
+   "hs6_description": "Fibres; waste (including noils, yarn waste and garnetted stock), of synthetic fibres",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "55052000",
+   "hs6": "550520",
+   "hs6_description": "Fibres; waste (including noils, yarn waste and garnetted stock), of artificial fibres",
    "level": 8,
    "chapter": "55",
    "description": "Of artificial fibres",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "5506",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Synthetic staple fibres, carded, combed or otherwise processed for spinning.",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "55061000",
+   "hs6": "550610",
+   "hs6_description": "Fibres; synthetic staple fibres, of nylon or other polyamides, carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Of nylon or other polyamides",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "55062000",
+   "hs6": "550620",
+   "hs6_description": "Fibres; synthetic staple fibres, of polyesters, carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Of polyesters",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "55063000",
+   "hs6": "550630",
+   "hs6_description": "Fibres; synthetic staple fibres, acrylic or modacrylic, carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Acrylic or modacrylic",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "55064000",
+   "hs6": "550640",
+   "hs6_description": "Fibres; synthetic staple fibres, of polypropylene, carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Of polypropylene",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "550690",
+   "hs6": "550690",
+   "hs6_description": "Fibres; synthetic staple fibres, n.e.c. in heading no. 5506, carded, combed or otherwise processed for spinning",
    "level": 6,
    "chapter": "55",
    "description": "Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "55069010",
+   "hs6": "550690",
+   "hs6_description": "Fibres; synthetic staple fibres, n.e.c. in heading no. 5506, carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Polypropylene tops",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "55069090",
+   "hs6": "550690",
+   "hs6_description": "Fibres; synthetic staple fibres, n.e.c. in heading no. 5506, carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "5507",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Artificial staple fibres, carded, combed or otherwise processed for spinning.",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "550700",
+   "hs6": "550700",
+   "hs6_description": "Fibres; artificial staple fibres, carded, combed or otherwise processed for spinning",
    "level": 6,
    "chapter": "55",
    "description": "Artificial staple fibres, carded, combed or otherwise processed for spinning :",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "55070010",
+   "hs6": "550700",
+   "hs6_description": "Fibres; artificial staple fibres, carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Acetate rayon tops",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "55070020",
+   "hs6": "550700",
+   "hs6_description": "Fibres; artificial staple fibres, carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Viscose tops",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "55070030",
+   "hs6": "550700",
+   "hs6_description": "Fibres; artificial staple fibres, carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Polynosic tops",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "55070040",
+   "hs6": "550700",
+   "hs6_description": "Fibres; artificial staple fibres, carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "High wet modulus tops",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "55070090",
+   "hs6": "550700",
+   "hs6_description": "Fibres; artificial staple fibres, carded, combed or otherwise processed for spinning",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "5508",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Sewing thread of man-made staple fibres, whether or not put up for retail sale.",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "55081000",
+   "hs6": "550810",
+   "hs6_description": "Sewing thread; of synthetic staple fibres, whether or not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Of synthetic staple fibres",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "55082000",
+   "hs6": "550820",
+   "hs6_description": "Sewing thread; of artificial staple fibres, whether or not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Of artificial staple fibres",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "5509",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Yarn (other than sewing thread) of synthetic staple fibres, not put up for retail sale.",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "55091100",
+   "hs6": "550911",
+   "hs6_description": "Yarn; (not sewing thread), single, of synthetic staple fibres, containing 85% or more by weight of nylon or other polyamides, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of staple fibres of nylon or other polyamides : -- Single yarn",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "55091200",
+   "hs6": "550912",
+   "hs6_description": "Yarn; (not sewing thread), multiple (folded) or cabled yarn, of synthetic staple fibres, containing 85% or more by weight of nylon or other polyamides, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of staple fibres of nylon or other polyamides : -- Multiple (folded) or cabled yarn",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "55092100",
+   "hs6": "550921",
+   "hs6_description": "Yarn; (not sewing thread), single, of synthetic staple fibres, containing 85% or more by weight of polyester, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of polyester staple fibre : -- Single yarn",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "55092200",
+   "hs6": "550922",
+   "hs6_description": "Yarn; (not sewing thread), multiple (folded) or cabled yarn, of synthetic staple fibres, containing 85% or more by weight of polyester, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of polyester staple fibre : -- Multiple (folded) or cabled yarn",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "55093100",
+   "hs6": "550931",
+   "hs6_description": "Yarn; (not sewing thread), single, of synthetic staple fibres, containing 85% or more by weight of acrylic or modacrylic, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of acrylic or modacrylic staple fibre -- Single yarn",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "55093200",
+   "hs6": "550932",
+   "hs6_description": "Yarn; (not sewing thread), multiple (folded) or cabled, of synthetic staple fibres, containing 85% or more by weight of acrylic or modacrylic, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of acrylic or modacrylic staple fibre -- Multiple (folded) or cabled yarn",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "550941",
+   "hs6": "550941",
+   "hs6_description": "Yarn; (not sewing thread), single, containing 85% or more by weight of synthetic staple fibres, n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 6,
    "chapter": "55",
    "description": "Other yarn, containing 85 percent or more by weight of synthetic staple fibre -- Single yarn",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "55094110",
+   "hs6": "550941",
+   "hs6_description": "Yarn; (not sewing thread), single, containing 85% or more by weight of synthetic staple fibres, n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Polypropylene spun yarn",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "55094120",
+   "hs6": "550941",
+   "hs6_description": "Yarn; (not sewing thread), single, containing 85% or more by weight of synthetic staple fibres, n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Polyvinyl acetate spun yarn",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "55094130",
+   "hs6": "550941",
+   "hs6_description": "Yarn; (not sewing thread), single, containing 85% or more by weight of synthetic staple fibres, n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Polyvinyl chloride spun yarn",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "55094190",
+   "hs6": "550941",
+   "hs6_description": "Yarn; (not sewing thread), single, containing 85% or more by weight of synthetic staple fibres, n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "550942",
+   "hs6": "550942",
+   "hs6_description": "Yarn; (not sewing thread), multiple (folded) or cabled yarn, containing 85% or more by weight of synthetic staple fibres, n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 6,
    "chapter": "55",
    "description": "Other yarn, containing 85 percent or more by weight of synthetic staple fibre -- Multiple (folded) or cabled yarn",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "55094210",
+   "hs6": "550942",
+   "hs6_description": "Yarn; (not sewing thread), multiple (folded) or cabled yarn, containing 85% or more by weight of synthetic staple fibres, n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Polypropylene spun yarn",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "55094220",
+   "hs6": "550942",
+   "hs6_description": "Yarn; (not sewing thread), multiple (folded) or cabled yarn, containing 85% or more by weight of synthetic staple fibres, n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Poly Vinyl acetate (PVA) spun yarn",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "55094230",
+   "hs6": "550942",
+   "hs6_description": "Yarn; (not sewing thread), multiple (folded) or cabled yarn, containing 85% or more by weight of synthetic staple fibres, n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Poly Vinyl Chloride (PVC) spun yarn",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "55094290",
+   "hs6": "550942",
+   "hs6_description": "Yarn; (not sewing thread), multiple (folded) or cabled yarn, containing 85% or more by weight of synthetic staple fibres, n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "55095100",
+   "hs6": "550951",
+   "hs6_description": "Yarn; (not sewing thread), of polyester staple fibres, mixed mainly or solely with artificial staple fibres, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other yarn, of polyester staple fibres : -- Mixed mainly or solely with artificial staple fibres",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "55095200",
+   "hs6": "550952",
+   "hs6_description": "Yarn; (not sewing thread), of polyester staple fibres, mixed mainly or solely with wool or fine animal hair, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other yarn, of polyester staple fibres : -- Mixed mainly or solely with wool or fine animal hair",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "55095300",
+   "hs6": "550953",
+   "hs6_description": "Yarn; (not sewing thread), of polyester staple fibres, mixed mainly or solely with cotton, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other yarn, of polyester staple fibres : -- Mixed mainly or solely with cotton",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "55095900",
+   "hs6": "550959",
+   "hs6_description": "Yarn; (not sewing thread), of polyester staple fibres, mixed mainly or solely with fibres n.e.c. in item no. 5509.5, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other yarn, of polyester staple fibres : -- Other",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "55096100",
+   "hs6": "550961",
+   "hs6_description": "Yarn; (not sewing thread), of acrylic or modacrylic staple fibres, mixed mainly or solely with wool or fine animal hair, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other yarn, of acrylic or modacrylic staple fibres : -- Mixed mainly or solely with wool or fine animal hair",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "55096200",
+   "hs6": "550962",
+   "hs6_description": "Yarn; (not sewing thread), of acrylic or modacrylic staple fibres, mixed mainly or solely with cotton, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other yarn, of acrylic or modacrylic staple fibres : -- Mixed mainly or solely with cotton",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "55096900",
+   "hs6": "550969",
+   "hs6_description": "Yarn; (not sewing thread), of acrylic or modacrylic staple fibres, mixed mainly or solely with fibres n.e.c. in item no. 5509.6, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other yarn, of acrylic or modacrylic staple fibres : -- Other",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "55099100",
+   "hs6": "550991",
+   "hs6_description": "Yarn; (not sewing thread), of synthetic staple fibres, mixed mainly or solely with wool or fine animal hair, n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other yarn : -- Mixed mainly or solely with wool or fine animal hair",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "55099200",
+   "hs6": "550992",
+   "hs6_description": "Yarn; (not sewing thread), of synthetic staple fibres, mixed mainly or solely with cotton, n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other yarn : -- Mixed mainly or solely with cotton",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "550999",
+   "hs6": "550999",
+   "hs6_description": "Yarn; (not sewing thread), of synthetic staple fibres, mixed mainly or solely with fibres (other than wool, fine animal hair or cotton), n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 6,
    "chapter": "55",
    "description": "Other:",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "55099910",
+   "hs6": "550999",
+   "hs6_description": "Yarn; (not sewing thread), of synthetic staple fibres, mixed mainly or solely with fibres (other than wool, fine animal hair or cotton), n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Yarn made of 100% inherent FR synthetic fibre",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "55099990",
+   "hs6": "550999",
+   "hs6_description": "Yarn; (not sewing thread), of synthetic staple fibres, mixed mainly or solely with fibres (other than wool, fine animal hair or cotton), n.e.c. in heading no. 5509, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "5510",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Yarn (other than sewing thread) of artificial staple fibres, not put up for retail sale.",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "551011",
+   "hs6": "551011",
+   "hs6_description": "Yarn; (not sewing thread), single, of artificial staple fibres, containing 85% or more by weight of artificial staple fibres, not put up for retail sale",
    "level": 6,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of artificial staple fibres : -- Single yarn",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "55101110",
+   "hs6": "551011",
+   "hs6_description": "Yarn; (not sewing thread), single, of artificial staple fibres, containing 85% or more by weight of artificial staple fibres, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Viscose rayon spun yarn",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "55101120",
+   "hs6": "551011",
+   "hs6_description": "Yarn; (not sewing thread), single, of artificial staple fibres, containing 85% or more by weight of artificial staple fibres, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Acetate rayon spun yarn",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "55101190",
+   "hs6": "551011",
+   "hs6_description": "Yarn; (not sewing thread), single, of artificial staple fibres, containing 85% or more by weight of artificial staple fibres, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "551012",
+   "hs6": "551012",
+   "hs6_description": "Yarn; (not sewing thread), multiple (folded) or cabled yarn, of artificial staple fibres, containing 85% or more by weight of artificial staple fibres, not put up for retail sale",
    "level": 6,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of artificial staple fibres : -- Multiple (folded) or cabled yarn",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "55101210",
+   "hs6": "551012",
+   "hs6_description": "Yarn; (not sewing thread), multiple (folded) or cabled yarn, of artificial staple fibres, containing 85% or more by weight of artificial staple fibres, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Viscose rayon spun yarn",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "55101220",
+   "hs6": "551012",
+   "hs6_description": "Yarn; (not sewing thread), multiple (folded) or cabled yarn, of artificial staple fibres, containing 85% or more by weight of artificial staple fibres, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Acetate rayon spun yarn",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "55101290",
+   "hs6": "551012",
+   "hs6_description": "Yarn; (not sewing thread), multiple (folded) or cabled yarn, of artificial staple fibres, containing 85% or more by weight of artificial staple fibres, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "551020",
+   "hs6": "551020",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with wool or fine animal hair, not put up for retail sale",
    "level": 6,
    "chapter": "55",
    "description": "Other yarn, mixed mainly or solely with wool or fine animal hair",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "55102010",
+   "hs6": "551020",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with wool or fine animal hair, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Viscose rayon spun yarn",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "55102020",
+   "hs6": "551020",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with wool or fine animal hair, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Acetate rayon spun yarn",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "55102090",
+   "hs6": "551020",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with wool or fine animal hair, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "551030",
+   "hs6": "551030",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with cotton, not put up for retail sale",
    "level": 6,
    "chapter": "55",
    "description": "Other yarn, mixed mainly or solely with cotton",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "55103010",
+   "hs6": "551030",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with cotton, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Viscose rayon spun yarn",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "55103020",
+   "hs6": "551030",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with cotton, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Acetate rayon spun yarn",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "55103090",
+   "hs6": "551030",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with cotton, not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "551090",
+   "hs6": "551090",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with fibres (other than wool, fine animal hair or cotton), not put up for retail sale",
    "level": 6,
    "chapter": "55",
    "description": "Other yarn",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "55109010",
+   "hs6": "551090",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with fibres (other than wool, fine animal hair or cotton), not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Viscose rayon spun yarn",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "55109020",
+   "hs6": "551090",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with fibres (other than wool, fine animal hair or cotton), not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Acetate rayon spun yarn",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "55109030",
+   "hs6": "551090",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with fibres (other than wool, fine animal hair or cotton), not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Yarn made of 100% inherent FR artificial fibre",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "55109090",
+   "hs6": "551090",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, mixed mainly or solely with fibres (other than wool, fine animal hair or cotton), not put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "5511",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Yarn (other than sewing thread) of man-made staple fibres, put up for retail sale.",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "55111000",
+   "hs6": "551110",
+   "hs6_description": "Yarn; (not sewing thread), of synthetic staple fibres, containing 85% or more by weight of synthetic staple fibres, put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Of synthetic staple fibres, containing 85 percent or more by weight of such fibres",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "55112000",
+   "hs6": "551120",
+   "hs6_description": "Yarn; (not sewing thread), of synthetic staple fibres, containing less than 85% by weight of synthetic staple fibres, put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Of synthetic staple fibres, containing less than 85 percent by weight of such fibres",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "551130",
+   "hs6": "551130",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, put up for retail sale",
    "level": 6,
    "chapter": "55",
    "description": "Of artificial staple fibres",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "55113010",
+   "hs6": "551130",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Containing more than 85percent by weight of staple fibre",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "55113090",
+   "hs6": "551130",
+   "hs6_description": "Yarn; (not sewing thread), of artificial staple fibres, put up for retail sale",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "5512",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Woven fabrics of synthetic staple fibres, containing 85 percent or more by weight of synthetic staple fibres.",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "551211",
+   "hs6": "551211",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of polyester staple fibres, unbleached or bleached",
    "level": 6,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of polyester staple fibres : -- Unbleached or bleached",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "55121110",
+   "hs6": "551211",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of polyester staple fibres, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "55121120",
+   "hs6": "551211",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of polyester staple fibres, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "551219",
+   "hs6": "551219",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of polyester staple fibres, other than unbleached or bleached",
    "level": 6,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of polyester staple fibres : -- Other",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "55121910",
+   "hs6": "551219",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of polyester staple fibres, other than unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Dyed",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "55121920",
+   "hs6": "551219",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of polyester staple fibres, other than unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Printed",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "55121990",
+   "hs6": "551219",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of polyester staple fibres, other than unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "551221",
+   "hs6": "551221",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of acrylic or modacrylic staple fibres, unbleached or bleached",
    "level": 6,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of acrylic or modacrylic staple fibre: -- Unbleached or bleached",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "55122110",
+   "hs6": "551221",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of acrylic or modacrylic staple fibres, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "55122120",
+   "hs6": "551221",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of acrylic or modacrylic staple fibres, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "551229",
+   "hs6": "551229",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of acrylic or modacrylic staple fibres, other than unbleached or bleached",
    "level": 6,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of acrylic or modacrylic staple fibre: -- Other",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "55122910",
+   "hs6": "551229",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of acrylic or modacrylic staple fibres, other than unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Dyed",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "55122920",
+   "hs6": "551229",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of acrylic or modacrylic staple fibres, other than unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Printed",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "55122990",
+   "hs6": "551229",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of acrylic or modacrylic staple fibres, other than unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "551291",
+   "hs6": "551291",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of such fibres n.e.c. in heading no. 5512, unbleached or bleached",
    "level": 6,
    "chapter": "55",
    "description": "Other : -- Unbleached or bleached",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "55129110",
+   "hs6": "551291",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of such fibres n.e.c. in heading no. 5512, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "55129120",
+   "hs6": "551291",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of such fibres n.e.c. in heading no. 5512, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "551299",
+   "hs6": "551299",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of such fibres n.e.c. in heading no. 5512, other than unbleached or bleached",
    "level": 6,
    "chapter": "55",
    "description": "Other : -- Other",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "55129910",
+   "hs6": "551299",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of such fibres n.e.c. in heading no. 5512, other than unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Dyed",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "55129920",
+   "hs6": "551299",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of such fibres n.e.c. in heading no. 5512, other than unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Printed",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "55129990",
+   "hs6": "551299",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres, containing 85% or more by weight of such fibres n.e.c. in heading no. 5512, other than unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "5513",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Woven fabrics of synthetic staple fibres, containing less than 85percent by weight of such fibres, mixed mainly or solely with cotton, of a weight not exceeding 170 g/m².",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "551311",
+   "hs6": "551311",
+   "hs6_description": "Fabrics, woven; plain weave, of polyester staple fibres, containing less than 85% by weight of such fibres, mixed mainly or solely with cotton, of a weight not exceeding 170g/m2, unbleached or bleached",
    "level": 6,
    "chapter": "55",
    "description": "Unbleached or bleached : -- Of polyester staple fibres, plain weave",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "55131110",
+   "hs6": "551311",
+   "hs6_description": "Fabrics, woven; plain weave, of polyester staple fibres, containing less than 85% by weight of such fibres, mixed mainly or solely with cotton, of a weight not exceeding 170g/m2, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "55131120",
+   "hs6": "551311",
+   "hs6_description": "Fabrics, woven; plain weave, of polyester staple fibres, containing less than 85% by weight of such fibres, mixed mainly or solely with cotton, of a weight not exceeding 170g/m2, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "551312",
+   "hs6": "551312",
+   "hs6_description": "Fabrics, woven; 3-thread or 4-thread twill, of polyester staple fibres, containing less than 85% by weight of such, mixed mainly or solely with cotton, not exceeding 170g/m2, unbleached or bleached",
    "level": 6,
    "chapter": "55",
    "description": "Unbleached or bleached : -- 3-thread or 4-thread twill, including cross twill, of polyester staple fibres",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "55131210",
+   "hs6": "551312",
+   "hs6_description": "Fabrics, woven; 3-thread or 4-thread twill, of polyester staple fibres, containing less than 85% by weight of such, mixed mainly or solely with cotton, not exceeding 170g/m2, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "55131220",
+   "hs6": "551312",
+   "hs6_description": "Fabrics, woven; 3-thread or 4-thread twill, of polyester staple fibres, containing less than 85% by weight of such, mixed mainly or solely with cotton, not exceeding 170g/m2, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "551313",
+   "hs6": "551313",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres, containing less than 85% by weight of such fibres, mixed mainly or solely with cotton, not exceeding 170g/m2, unbleached or bleached",
    "level": 6,
    "chapter": "55",
    "description": "Unbleached or bleached : -- Other woven fabrics of polyester staple fibres",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "55131310",
+   "hs6": "551313",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres, containing less than 85% by weight of such fibres, mixed mainly or solely with cotton, not exceeding 170g/m2, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "55131320",
+   "hs6": "551313",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres, containing less than 85% by weight of such fibres, mixed mainly or solely with cotton, not exceeding 170g/m2, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "551319",
+   "hs6": "551319",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of synthetic staple fibres (other than polyesters), mixed mainly or solely with cotton, not exceeding 170g/m2, unbleached or bleached",
    "level": 6,
    "chapter": "55",
    "description": "Unbleached or bleached : -- Other woven fabrics",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "55131910",
+   "hs6": "551319",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of synthetic staple fibres (other than polyesters), mixed mainly or solely with cotton, not exceeding 170g/m2, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "55131920",
+   "hs6": "551319",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of synthetic staple fibres (other than polyesters), mixed mainly or solely with cotton, not exceeding 170g/m2, unbleached or bleached",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "55132100",
+   "hs6": "551321",
+   "hs6_description": "Fabrics, woven; plain weave, dyed, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, not exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Dyed : -- Of polyester staple fibres, plain weave",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "55132300",
+   "hs6": "551323",
+   "hs6_description": "Fabrics, woven; dyed, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, not exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Dyed : -- Other woven fabrics of polyester staple fibres",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "55132900",
+   "hs6": "551329",
+   "hs6_description": "Fabrics, woven; dyed, containing less than 85% by weight of synthetic staple fibres (other than polyesters), mixed mainly or solely with cotton, not exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Dyed : -- Other woven fabrics",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "55133100",
+   "hs6": "551331",
+   "hs6_description": "Fabrics, woven; plain weave, of yarns of different colours, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, not exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Of yarns of different colours : -- Of polyester staple fibres, plain weave",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "55133900",
+   "hs6": "551339",
+   "hs6_description": "Fabrics, woven; of yarns of different colours, containing less than 85% of synthetic staple fibres (other than polyester, plain weave), mixed mainly or solely with cotton, not exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Of yarns of different colours : -- Other woven fabrics",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "55134100",
+   "hs6": "551341",
+   "hs6_description": "Fabrics, woven; plain weave, printed, of polyester staple fibres, containing less than 85% by weight of such fibres, mixed mainly or solely with cotton, not exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Printed : -- Of polyester staple fibres, plain weave",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "55134900",
+   "hs6": "551349",
+   "hs6_description": "Fabrics, woven; printed, containing less than 85% by weight of synthetic staple fibres (other than polyester, plain weave), mixed mainly or solely with cotton, not exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Printed : -- Other woven fabrics",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "5514",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Woven fabrics of synthetic staple fibres, containing less than 85percent by weight of such fibres, mixed mainly or solely with cotton, of a weight exceeding 170 g/m².",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "551411",
+   "hs6": "551411",
+   "hs6_description": "Fabrics, woven; plain weave, unbleached or bleached, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 6,
    "chapter": "55",
    "description": "Unbleached or bleached : -- Of polyester staple fibres, plain weave",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "55141110",
+   "hs6": "551411",
+   "hs6_description": "Fabrics, woven; plain weave, unbleached or bleached, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "55141120",
+   "hs6": "551411",
+   "hs6_description": "Fabrics, woven; plain weave, unbleached or bleached, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "551412",
+   "hs6": "551412",
+   "hs6_description": "Fabrics, woven; 3- or 4-thread twill, including cross twill, unbleached or bleached, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, over 170g/m2",
    "level": 6,
    "chapter": "55",
    "description": "Unbleached or bleached : -- 3-thread or 4-thread twill, including cross twill, of polyester staple fibre",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "55141210",
+   "hs6": "551412",
+   "hs6_description": "Fabrics, woven; 3- or 4-thread twill, including cross twill, unbleached or bleached, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, over 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "55141220",
+   "hs6": "551412",
+   "hs6_description": "Fabrics, woven; 3- or 4-thread twill, including cross twill, unbleached or bleached, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, over 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "551419",
+   "hs6": "551419",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing less than 85% by weight of synthetic staple fibres n.e.c. in item no. 55.14.1, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 6,
    "chapter": "55",
    "description": "Unbleached or bleached : -- Other woven fabrics",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "55141910",
+   "hs6": "551419",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing less than 85% by weight of synthetic staple fibres n.e.c. in item no. 55.14.1, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "55141920",
+   "hs6": "551419",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing less than 85% by weight of synthetic staple fibres n.e.c. in item no. 55.14.1, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "55142100",
+   "hs6": "551421",
+   "hs6_description": "Fabrics, woven; plain weave, dyed, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Dyed : -- Of polyester staple fibres, plain weave",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "55142200",
+   "hs6": "551422",
+   "hs6_description": "Fabrics, woven; 3- or 4-thread twill, including cross twill, dyed, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Dyed : -- 3-thread or 4-thread twill, including cross twill, of polyester staple fibre",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "55142300",
+   "hs6": "551423",
+   "hs6_description": "Fabrics, woven; dyed, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2, n.e.c. in heading no. 5514",
    "level": 8,
    "chapter": "55",
    "description": "Dyed : -- Other woven fabrics of polyester staple fibres",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "55142900",
+   "hs6": "551429",
+   "hs6_description": "Fabrics, woven; dyed, containing less than 85% by weight of synthetic staple fibres (other than polyesters), mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Dyed : -- Other woven fabrics",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "551430",
+   "hs6": "551430",
+   "hs6_description": "Fabrics, woven; of yarns of different colours, containing less than 85% by weight of synthetic staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 6,
    "chapter": "55",
    "description": "Of yarns of different colours",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "55143011",
+   "hs6": "551430",
+   "hs6_description": "Fabrics, woven; of yarns of different colours, containing less than 85% by weight of synthetic staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Of polyester staple fibres, plain weave",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "55143012",
+   "hs6": "551430",
+   "hs6_description": "Fabrics, woven; of yarns of different colours, containing less than 85% by weight of synthetic staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "3-thread or 4-thread twill, including cross twill, of polyester staple fibres",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "55143013",
+   "hs6": "551430",
+   "hs6_description": "Fabrics, woven; of yarns of different colours, containing less than 85% by weight of synthetic staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Other woven fabrics of polyester staple fibres",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "55143019",
+   "hs6": "551430",
+   "hs6_description": "Fabrics, woven; of yarns of different colours, containing less than 85% by weight of synthetic staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Other woven fabrics",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "55144100",
+   "hs6": "551441",
+   "hs6_description": "Fabrics, woven; plain weave, printed, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Printed : -- Of polyester staple fibres, plain weave",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "55144200",
+   "hs6": "551442",
+   "hs6_description": "Fabrics, woven; 3- or 4-thread twill, including cross twill, printed, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Printed : -- 3-thread or 4-thread twill, including cross twill, of polyester staple fibre",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "55144300",
+   "hs6": "551443",
+   "hs6_description": "Fabrics, woven; printed, containing less than 85% by weight of polyester staple fibres, mixed mainly or solely with cotton, weight exceeding 170g/m2, n.e.c. in heading no. 5514",
    "level": 8,
    "chapter": "55",
    "description": "Printed : -- Other woven fabrics of polyester staple fibres",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "55144900",
+   "hs6": "551449",
+   "hs6_description": "Fabrics, woven; printed, containing less than 85% by weight of synthetic staple fibres (other than polyesters), mixed mainly or solely with cotton, exceeding 170g/m2",
    "level": 8,
    "chapter": "55",
    "description": "Printed : -- Other woven fabrics",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "5515",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Other woven fabrics of synthetic staple fibres.",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "551511",
+   "hs6": "551511",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with viscose rayon staple fibres",
    "level": 6,
    "chapter": "55",
    "description": "Of polyester staple fibres : -- Mixed mainly or solely with viscose rayon staple fibres",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "55151110",
+   "hs6": "551511",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with viscose rayon staple fibres",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "55151120",
+   "hs6": "551511",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with viscose rayon staple fibres",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "55151130",
+   "hs6": "551511",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with viscose rayon staple fibres",
    "level": 8,
    "chapter": "55",
    "description": "Dyed",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "55151140",
+   "hs6": "551511",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with viscose rayon staple fibres",
    "level": 8,
    "chapter": "55",
    "description": "Printed",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "55151190",
+   "hs6": "551511",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with viscose rayon staple fibres",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "551512",
+   "hs6": "551512",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 6,
    "chapter": "55",
    "description": "Of polyester staple fibres : -- Mixed mainly or solely with man-made filaments",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "55151210",
+   "hs6": "551512",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "55151220",
+   "hs6": "551512",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "55151230",
+   "hs6": "551512",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Dyed",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "55151240",
+   "hs6": "551512",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Printed",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "55151290",
+   "hs6": "551512",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "551513",
+   "hs6": "551513",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with wool or fine animal hair",
    "level": 6,
    "chapter": "55",
    "description": "Of polyester staple fibres : -- Mixed mainly or solely with wool or fine animal hair",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "55151310",
+   "hs6": "551513",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "55151320",
+   "hs6": "551513",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "55151330",
+   "hs6": "551513",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Dyed",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "55151340",
+   "hs6": "551513",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Printed",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "55151390",
+   "hs6": "551513",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "551519",
+   "hs6": "551519",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in item no. 5515.1",
    "level": 6,
    "chapter": "55",
    "description": "Of polyester staple fibres : -- Other",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "55151910",
+   "hs6": "551519",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in item no. 5515.1",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "55151920",
+   "hs6": "551519",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in item no. 5515.1",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "55151930",
+   "hs6": "551519",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in item no. 5515.1",
    "level": 8,
    "chapter": "55",
    "description": "Dyed",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "55151940",
+   "hs6": "551519",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in item no. 5515.1",
    "level": 8,
    "chapter": "55",
    "description": "Printed",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "55151990",
+   "hs6": "551519",
+   "hs6_description": "Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in item no. 5515.1",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "551521",
+   "hs6": "551521",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 6,
    "chapter": "55",
    "description": "Of acrylic or modacrylic staple fibres : -- Mixed mainly or solely with man-made filaments",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "55152110",
+   "hs6": "551521",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "55152120",
+   "hs6": "551521",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "55152130",
+   "hs6": "551521",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Dyed",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "55152140",
+   "hs6": "551521",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Printed",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "55152190",
+   "hs6": "551521",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "551522",
+   "hs6": "551522",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with wool or fine animal hair",
    "level": 6,
    "chapter": "55",
    "description": "Of acrylic or modacrylic staple fibres : -- Mixed mainly or solely with wool or fine animal hair",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "55152210",
+   "hs6": "551522",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "55152220",
+   "hs6": "551522",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "55152230",
+   "hs6": "551522",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Dyed",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "55152240",
+   "hs6": "551522",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Printed",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "55152290",
+   "hs6": "551522",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "551529",
+   "hs6": "551529",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in item no. 5515.2",
    "level": 6,
    "chapter": "55",
    "description": "Of acrylic or modacrylic staple fibres : -- Other",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "55152910",
+   "hs6": "551529",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in item no. 5515.2",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "55152920",
+   "hs6": "551529",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in item no. 5515.2",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "55152930",
+   "hs6": "551529",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in item no. 5515.2",
    "level": 8,
    "chapter": "55",
    "description": "Dyed",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "55152940",
+   "hs6": "551529",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in item no. 5515.2",
    "level": 8,
    "chapter": "55",
    "description": "Printed",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "55152990",
+   "hs6": "551529",
+   "hs6_description": "Fabrics, woven; of acrylic or modacrylic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in item no. 5515.2",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "551591",
+   "hs6": "551591",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 6,
    "chapter": "55",
    "description": "Other woven fabrics : -- Mixed mainly or solely with man-made filaments",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "55159110",
+   "hs6": "551591",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "55159120",
+   "hs6": "551591",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "55159130",
+   "hs6": "551591",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Dyed",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "55159140",
+   "hs6": "551591",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Printed",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "55159190",
+   "hs6": "551591",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "551599",
+   "hs6": "551599",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in heading no. 5515",
    "level": 6,
    "chapter": "55",
    "description": "Other woven fabrics : -- Other",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "55159910",
+   "hs6": "551599",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in heading no. 5515",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "55159920",
+   "hs6": "551599",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in heading no. 5515",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "55159930",
+   "hs6": "551599",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in heading no. 5515",
    "level": 8,
    "chapter": "55",
    "description": "Dyed",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "55159940",
+   "hs6": "551599",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in heading no. 5515",
    "level": 8,
    "chapter": "55",
    "description": "Printed",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "55159950",
+   "hs6": "551599",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in heading no. 5515",
    "level": 8,
    "chapter": "55",
    "description": "Fabrics made of 100% inherent FR synthetic fibre",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "55159990",
+   "hs6": "551599",
+   "hs6_description": "Fabrics, woven; of synthetic staple fibres n.e.c. in chapter 55, mixed mainly or solely with fibres n.e.c. in heading no. 5515",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "5516",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "55",
    "description": "Woven fabrics of artificial staple fibres.",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "551611",
+   "hs6": "551611",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing 85% or more by weight of artificial staple fibres",
    "level": 6,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of artificial staple fibres : -- Unbleached or bleached",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "55161110",
+   "hs6": "551611",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing 85% or more by weight of artificial staple fibres",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -3033,6 +3537,8 @@
   },
   {
    "hs_code": "55161120",
+   "hs6": "551611",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing 85% or more by weight of artificial staple fibres",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -3045,6 +3551,8 @@
   },
   {
    "hs_code": "55161200",
+   "hs6": "551612",
+   "hs6_description": "Fabrics, woven; dyed, containing 85% or more by weight of artificial staple fibres",
    "level": 8,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of artificial staple fibres : -- Dyed",
@@ -3057,6 +3565,8 @@
   },
   {
    "hs_code": "55161300",
+   "hs6": "551613",
+   "hs6_description": "Fabrics, woven; of yarns of different colours, containing 85% or more by weight of artificial staple fibres",
    "level": 8,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of artificial staple fibres : -- Of yarns of different colours",
@@ -3069,6 +3579,8 @@
   },
   {
    "hs_code": "551614",
+   "hs6": "551614",
+   "hs6_description": "Fabrics, woven; printed, containing 85% or more by weight of artificial staple fibres",
    "level": 6,
    "chapter": "55",
    "description": "Containing 85 percent or more by weight of artificial staple fibres : -- Printed",
@@ -3081,6 +3593,8 @@
   },
   {
    "hs_code": "55161410",
+   "hs6": "551614",
+   "hs6_description": "Fabrics, woven; printed, containing 85% or more by weight of artificial staple fibres",
    "level": 8,
    "chapter": "55",
    "description": "Spun rayon printed shantung",
@@ -3093,6 +3607,8 @@
   },
   {
    "hs_code": "55161420",
+   "hs6": "551614",
+   "hs6_description": "Fabrics, woven; printed, containing 85% or more by weight of artificial staple fibres",
    "level": 8,
    "chapter": "55",
    "description": "Spun rayon printed linen",
@@ -3105,6 +3621,8 @@
   },
   {
    "hs_code": "55161490",
+   "hs6": "551614",
+   "hs6_description": "Fabrics, woven; printed, containing 85% or more by weight of artificial staple fibres",
    "level": 8,
    "chapter": "55",
    "description": "Other",
@@ -3117,6 +3635,8 @@
   },
   {
    "hs_code": "551621",
+   "hs6": "551621",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with manmade filaments",
    "level": 6,
    "chapter": "55",
    "description": "Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with man-made filaments : -- Unbleached or bleached",
@@ -3129,6 +3649,8 @@
   },
   {
    "hs_code": "55162110",
+   "hs6": "551621",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with manmade filaments",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -3141,6 +3663,8 @@
   },
   {
    "hs_code": "55162120",
+   "hs6": "551621",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with manmade filaments",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -3153,6 +3677,8 @@
   },
   {
    "hs_code": "55162200",
+   "hs6": "551622",
+   "hs6_description": "Fabrics, woven; dyed, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with man-made filaments : -- Dyed",
@@ -3165,6 +3691,8 @@
   },
   {
    "hs_code": "55162300",
+   "hs6": "551623",
+   "hs6_description": "Fabrics, woven; of yarns of different colours, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with man-made filaments",
    "level": 8,
    "chapter": "55",
    "description": "Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with man-made filaments : -- Of yarns of different colours",
@@ -3177,6 +3705,8 @@
   },
   {
    "hs_code": "551631",
+   "hs6": "551631",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair",
    "level": 6,
    "chapter": "55",
    "description": "Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair : -- Unbleached or bleached",
@@ -3189,6 +3719,8 @@
   },
   {
    "hs_code": "55163110",
+   "hs6": "551631",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -3201,6 +3733,8 @@
   },
   {
    "hs_code": "55163120",
+   "hs6": "551631",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -3213,6 +3747,8 @@
   },
   {
    "hs_code": "55163200",
+   "hs6": "551632",
+   "hs6_description": "Fabrics, woven; dyed, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair : -- Dyed",
@@ -3225,6 +3761,8 @@
   },
   {
    "hs_code": "55163300",
+   "hs6": "551633",
+   "hs6_description": "Fabrics, woven; of yarns of different colours, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair : -- Of yarns of different colours",
@@ -3237,6 +3775,8 @@
   },
   {
    "hs_code": "55163400",
+   "hs6": "551634",
+   "hs6_description": "Fabrics, woven; printed, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair",
    "level": 8,
    "chapter": "55",
    "description": "Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair : -- Printed",
@@ -3249,6 +3789,8 @@
   },
   {
    "hs_code": "551641",
+   "hs6": "551641",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with cotton",
    "level": 6,
    "chapter": "55",
    "description": "Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with cotton : -- Unbleached or bleached",
@@ -3261,6 +3803,8 @@
   },
   {
    "hs_code": "55164110",
+   "hs6": "551641",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with cotton",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -3273,6 +3817,8 @@
   },
   {
    "hs_code": "55164120",
+   "hs6": "551641",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with cotton",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -3285,6 +3831,8 @@
   },
   {
    "hs_code": "55164200",
+   "hs6": "551642",
+   "hs6_description": "Fabrics, woven; dyed, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with cotton",
    "level": 8,
    "chapter": "55",
    "description": "Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with cotton : -- Dyed",
@@ -3297,6 +3845,8 @@
   },
   {
    "hs_code": "55164300",
+   "hs6": "551643",
+   "hs6_description": "Fabrics, woven; of yarns of different colours, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with cotton",
    "level": 8,
    "chapter": "55",
    "description": "Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with cotton : -- Of yarns of different colours",
@@ -3309,6 +3859,8 @@
   },
   {
    "hs_code": "55164400",
+   "hs6": "551644",
+   "hs6_description": "Fabrics, woven; printed, containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with cotton",
    "level": 8,
    "chapter": "55",
    "description": "Containing less than 85 percent by weight of artificial staple fibres, mixed mainly or solely with cotton : -- Printed",
@@ -3321,6 +3873,8 @@
   },
   {
    "hs_code": "551691",
+   "hs6": "551691",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, of artificial staple fibres, n.e.c. in heading no. 5516",
    "level": 6,
    "chapter": "55",
    "description": "Other : -- Unbleached or bleached",
@@ -3333,6 +3887,8 @@
   },
   {
    "hs_code": "55169110",
+   "hs6": "551691",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, of artificial staple fibres, n.e.c. in heading no. 5516",
    "level": 8,
    "chapter": "55",
    "description": "Unbleached",
@@ -3345,6 +3901,8 @@
   },
   {
    "hs_code": "55169120",
+   "hs6": "551691",
+   "hs6_description": "Fabrics, woven; unbleached or bleached, of artificial staple fibres, n.e.c. in heading no. 5516",
    "level": 8,
    "chapter": "55",
    "description": "Bleached",
@@ -3357,6 +3915,8 @@
   },
   {
    "hs_code": "55169200",
+   "hs6": "551692",
+   "hs6_description": "Fabrics, woven; dyed, of artificial staple fibres, n.e.c. in heading no. 5516",
    "level": 8,
    "chapter": "55",
    "description": "Other : -- Dyed",
@@ -3369,6 +3929,8 @@
   },
   {
    "hs_code": "55169300",
+   "hs6": "551693",
+   "hs6_description": "Fabrics, woven; of yarns of different colours, of artificial staple fibres, n.e.c. in heading no. 5516",
    "level": 8,
    "chapter": "55",
    "description": "Other : -- Of yarns of different colours",
@@ -3381,6 +3943,8 @@
   },
   {
    "hs_code": "55169400",
+   "hs6": "551694",
+   "hs6_description": "Fabrics, woven; printed, of artificial staple fibres, n.e.c. in heading no. 5516",
    "level": 8,
    "chapter": "55",
    "description": "Other : -- Printed",

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "5601",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "56",
    "description": "Wadding of textile materials and articles thereof; textile fibres, not exceeding 5 mm in length (flock), textile dust and mill neps.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "560121",
+   "hs6": "560121",
+   "hs6_description": "Wadding; other articles thereof, of cotton",
    "level": 6,
    "chapter": "56",
    "description": "Wadding of textile materials and articles thereof : -- Of cotton",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "56012110",
+   "hs6": "560121",
+   "hs6_description": "Wadding; other articles thereof, of cotton",
    "level": 8,
    "chapter": "56",
    "description": "Absorbent cotton wool",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "56012190",
+   "hs6": "560121",
+   "hs6_description": "Wadding; other articles thereof, of cotton",
    "level": 8,
    "chapter": "56",
    "description": "Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "56012200",
+   "hs6": "560122",
+   "hs6_description": "Wadding; other articles thereof, of man-made fibres",
    "level": 8,
    "chapter": "56",
    "description": "Wadding of textile materials and articles thereof : -- Of man-made fibres",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "56012900",
+   "hs6": "560129",
+   "hs6_description": "Wadding; other articles thereof, other than of cotton or man-made fibres",
    "level": 8,
    "chapter": "56",
    "description": "Wadding of textile materials and articles thereof : -- Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "56013000",
+   "hs6": "560130",
+   "hs6_description": "Wadding; textile flock and dust and mill neps",
    "level": 8,
    "chapter": "56",
    "description": "Textile flock and dust and mill neps",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "5602",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "56",
    "description": "Felt, whether or not impregnated, coated, covered or laminated.",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "56021000",
+   "hs6": "560210",
+   "hs6_description": "Felt; needleloom felt and stitch-bonded fibre fabrics, whether or not impregnated, coated, covered or laminated",
    "level": 8,
    "chapter": "56",
    "description": "Needleloom felt and stitch-bonded fibre fabrics",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "56022100",
+   "hs6": "560221",
+   "hs6_description": "Felt; of wool or fine animal hair (excluding needleloom felt or stitch-bonded fibre fabrics), not impregnated, coated, covered nor laminated",
    "level": 8,
    "chapter": "56",
    "description": "Other felt, not impregnated, coated, covered or laminated : -- Of wool or fine animal hair",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "560229",
+   "hs6": "560229",
+   "hs6_description": "Felt; of textile materials other than wool or fine animal hair (excluding needleloom felt and stitch-bonded fibre fabrics), not impregnated, coated, covered or laminated",
    "level": 6,
    "chapter": "56",
    "description": "Other felt, not impregnated, coated, covered or laminated : -- Of other textile materials",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "56022910",
+   "hs6": "560229",
+   "hs6_description": "Felt; of textile materials other than wool or fine animal hair (excluding needleloom felt and stitch-bonded fibre fabrics), not impregnated, coated, covered or laminated",
    "level": 8,
    "chapter": "56",
    "description": "Of machines other than cotton machinery",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "56022920",
+   "hs6": "560229",
+   "hs6_description": "Felt; of textile materials other than wool or fine animal hair (excluding needleloom felt and stitch-bonded fibre fabrics), not impregnated, coated, covered or laminated",
    "level": 8,
    "chapter": "56",
    "description": "Of jute (including blanded or union jute), other than for machinery",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "56022990",
+   "hs6": "560229",
+   "hs6_description": "Felt; of textile materials other than wool or fine animal hair (excluding needleloom felt and stitch-bonded fibre fabrics), not impregnated, coated, covered or laminated",
    "level": 8,
    "chapter": "56",
    "description": "Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "560290",
+   "hs6": "560290",
+   "hs6_description": "Felt; impregnated, coated, covered or laminated (excluding needleloom felt and stitch-bonded fibre fabrics)",
    "level": 6,
    "chapter": "56",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "56029010",
+   "hs6": "560290",
+   "hs6_description": "Felt; impregnated, coated, covered or laminated (excluding needleloom felt and stitch-bonded fibre fabrics)",
    "level": 8,
    "chapter": "56",
    "description": "of Rubberized Coir, needled felt",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "5603",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "56",
    "description": "Nonwovens, whether or not impregnated, coated, covered or laminated.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "560311",
+   "hs6": "560311",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing not more than 25g/m2)",
    "level": 6,
    "chapter": "56",
    "description": "Of man-made filaments : -- Weighing not more than 25 g/m²",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "56031110",
+   "hs6": "560311",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing not more than 25g/m2)",
    "level": 8,
    "chapter": "56",
    "description": "Of man-made filaments : --- Crop covers, conforming to IS 16366",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "56031190",
+   "hs6": "560311",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing not more than 25g/m2)",
    "level": 8,
    "chapter": "56",
    "description": "Of man-made filaments : --- Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "560312",
+   "hs6": "560312",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 25g/m2 but not more than 70g/m2)",
    "level": 6,
    "chapter": "56",
    "description": "Of man-made filaments : -- Weighing more than 25 g/m² but not more than 70 g/m²",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "56031200",
+   "hs6": "560312",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 25g/m2 but not more than 70g/m2)",
    "level": 8,
    "chapter": "56",
    "description": "Of man-made filaments : -- Weighing more than 25 g/m² but not more than 70 g/m²",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "560313",
+   "hs6": "560313",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 70g/m2 but not more than 150g/m2)",
    "level": 6,
    "chapter": "56",
    "description": "Of man-made filaments : --Weighing more than 70 g/m² but not more than 150 g/m²",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "56031300",
+   "hs6": "560313",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 70g/m2 but not more than 150g/m2)",
    "level": 8,
    "chapter": "56",
    "description": "Of man-made filaments : --Weighing more than 70 g/m² but not more than 150 g/m²",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "560314",
+   "hs6": "560314",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 150g/m2)",
    "level": 6,
    "chapter": "56",
    "description": "Of man-made filaments : -- Weighing more than 150 g/m²",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "56031400",
+   "hs6": "560314",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 150g/m2)",
    "level": 8,
    "chapter": "56",
    "description": "Of man-made filaments : -- Weighing more than 150 g/m²",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "560391",
+   "hs6": "560391",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing not more than 25g/m2)",
    "level": 6,
    "chapter": "56",
    "description": "Other : -- Weighing not more than 25 g/m²",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "56039100",
+   "hs6": "560391",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing not more than 25g/m2)",
    "level": 8,
    "chapter": "56",
    "description": "Other : -- Weighing not more than 25 g/m²",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "560392",
+   "hs6": "560392",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 25g/m2 but not more than 70g/m2)",
    "level": 6,
    "chapter": "56",
    "description": "Other : -- Weighing more than 25 g/m² but not more than 70 g/m²",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "56039200",
+   "hs6": "560392",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 25g/m2 but not more than 70g/m2)",
    "level": 8,
    "chapter": "56",
    "description": "Other : -- Weighing more than 25 g/m² but not more than 70 g/m²",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "560393",
+   "hs6": "560393",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 70g/m2 but not more than 150g/m2)",
    "level": 6,
    "chapter": "56",
    "description": "Other : -- Weighing more than 70 g/m² but not more than 150 g/m²",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "56039310",
+   "hs6": "560393",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 70g/m2 but not more than 150g/m2)",
    "level": 8,
    "chapter": "56",
    "description": "Mulch Mats, conforming to IS 17355",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "56039390",
+   "hs6": "560393",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 70g/m2 but not more than 150g/m2)",
    "level": 8,
    "chapter": "56",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "560394",
+   "hs6": "560394",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 150g/m2)",
    "level": 6,
    "chapter": "56",
    "description": "Other : -- Weighing more than 150 g/m²",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "56039410",
+   "hs6": "560394",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 150g/m2)",
    "level": 8,
    "chapter": "56",
    "description": "Non-woven Geotextile and articles thereof, Conforming to IS 16391, IS 16392",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "56039420",
+   "hs6": "560394",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 150g/m2)",
    "level": 8,
    "chapter": "56",
    "description": "Mulch Mats, conforming to IS 17355",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "56039490",
+   "hs6": "560394",
+   "hs6_description": "Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 150g/m2)",
    "level": 8,
    "chapter": "56",
    "description": "Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "5604",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "56",
    "description": "Rubber thread and cord, textile covered; textile yarn, and strip and the like of heading 54.04 or 54.05, impregnated, coated, covered or sheathed with rubber or plastics.",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "56041000",
+   "hs6": "560410",
+   "hs6_description": "Rubber thread and cord; textile covered",
    "level": 8,
    "chapter": "56",
    "description": "Rubber thread and cord, textile covered",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "56049000",
+   "hs6": "560490",
+   "hs6_description": "Yarn; textile yarn, strip, and the like of heading no. 5404 or 5405, impregnated, coated, covered, or sheathed with rubber or plastics, n.e.c. in heading no. 5604",
    "level": 8,
    "chapter": "56",
    "description": "Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "5605",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "56",
    "description": "Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading 54.04 or 54.05, combined with metal in the form of thread, strip or powder or covered with metal.",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "560500",
+   "hs6": "560500",
+   "hs6_description": "Yarn; metallised, whether or not gimped, of textile yarn, or strip or the like of heading no. 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal",
    "level": 6,
    "chapter": "56",
    "description": "Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal :",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "56050010",
+   "hs6": "560500",
+   "hs6_description": "Yarn; metallised, whether or not gimped, of textile yarn, or strip or the like of heading no. 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal",
    "level": 8,
    "chapter": "56",
    "description": "Real zari thread (gold) and silver thread combined with textile thread",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "56050020",
+   "hs6": "560500",
+   "hs6_description": "Yarn; metallised, whether or not gimped, of textile yarn, or strip or the like of heading no. 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal",
    "level": 8,
    "chapter": "56",
    "description": "Imitation zari thread",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "56050090",
+   "hs6": "560500",
+   "hs6_description": "Yarn; metallised, whether or not gimped, of textile yarn, or strip or the like of heading no. 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal",
    "level": 8,
    "chapter": "56",
    "description": "Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "5606",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "56",
    "description": "Gimped yarn, and strip and the like of heading 54.04 or 54.05, gimped (other than those of heading 56.05 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop waleyarn.",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "560600",
+   "hs6": "560600",
+   "hs6_description": "Yarn and strip and the like of heading no. 5404 or 5405; gimped, (other than those of heading no. 5406 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn",
    "level": 6,
    "chapter": "56",
    "description": "Gimped yarn, and strip and the like of heading 5404 or 5405, gimped (other than those of heading 5605 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn :",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "56060010",
+   "hs6": "560600",
+   "hs6_description": "Yarn and strip and the like of heading no. 5404 or 5405; gimped, (other than those of heading no. 5406 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn",
    "level": 8,
    "chapter": "56",
    "description": "Trimmings, of cotton",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "56060020",
+   "hs6": "560600",
+   "hs6_description": "Yarn and strip and the like of heading no. 5404 or 5405; gimped, (other than those of heading no. 5406 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn",
    "level": 8,
    "chapter": "56",
    "description": "Trimmings, of man-made fibres",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "56060030",
+   "hs6": "560600",
+   "hs6_description": "Yarn and strip and the like of heading no. 5404 or 5405; gimped, (other than those of heading no. 5406 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn",
    "level": 8,
    "chapter": "56",
    "description": "Trimmings, of zari",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "56060090",
+   "hs6": "560600",
+   "hs6_description": "Yarn and strip and the like of heading no. 5404 or 5405; gimped, (other than those of heading no. 5406 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn",
    "level": 8,
    "chapter": "56",
    "description": "Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "5607",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "56",
    "description": "Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, coated, covered or sheathed with rubber or plastics.",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "56072100",
+   "hs6": "560721",
+   "hs6_description": "Twine; binder or baler twine, of sisal or other textile fibres of the genus agave",
    "level": 8,
    "chapter": "56",
    "description": "Of sisal or other textile fibres of the genus Agave : -- Binder or baler twine",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "56072900",
+   "hs6": "560729",
+   "hs6_description": "Twine, cordage, ropes, cables; of sisal or other textile fibres of the genus agave (excluding binder or baler twine), whether or not plaited, braided or rubber or plastic impregnated, coated, covered or sheathed",
    "level": 8,
    "chapter": "56",
    "description": "Of sisal or other textile fibres of the genus Agave : -- Other",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "56074100",
+   "hs6": "560741",
+   "hs6_description": "Twine; binder or baler twine, of polyethylene or polypropylene",
    "level": 8,
    "chapter": "56",
    "description": "Of polyethylene or polypropylene : -- Binder or baler twine",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "56074900",
+   "hs6": "560749",
+   "hs6_description": "Twine, cordage, ropes, cables; of polyethylene or polypropylene (excluding binder or baler twine), whether or not plaited, braided or rubber or plastic impregnated, coated, covered or sheathed",
    "level": 8,
    "chapter": "56",
    "description": "Of polyethylene or polypropylene : -- Other",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "560750",
+   "hs6": "560750",
+   "hs6_description": "Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",
    "level": 6,
    "chapter": "56",
    "description": "Of other synthetic fibres",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "56075010",
+   "hs6": "560750",
+   "hs6_description": "Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",
    "level": 8,
    "chapter": "56",
    "description": "Nylon fish net twine",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "56075020",
+   "hs6": "560750",
+   "hs6_description": "Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",
    "level": 8,
    "chapter": "56",
    "description": "Nylon tyre cord",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "56075030",
+   "hs6": "560750",
+   "hs6_description": "Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",
    "level": 8,
    "chapter": "56",
    "description": "Viscose tyre cord",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "56075040",
+   "hs6": "560750",
+   "hs6_description": "Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",
    "level": 8,
    "chapter": "56",
    "description": "Nylon rope",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "56075090",
+   "hs6": "560750",
+   "hs6_description": "Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",
    "level": 8,
    "chapter": "56",
    "description": "Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "560790",
+   "hs6": "560790",
+   "hs6_description": "Twine, cordage, ropes, cables; of materials n.e.c. in heading no. 5607, whether or not plaited, braided or impregnated, coated, covered, or sheathed with rubber or plastics",
    "level": 6,
    "chapter": "56",
    "description": "Other",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "56079010",
+   "hs6": "560790",
+   "hs6_description": "Twine, cordage, ropes, cables; of materials n.e.c. in heading no. 5607, whether or not plaited, braided or impregnated, coated, covered, or sheathed with rubber or plastics",
    "level": 8,
    "chapter": "56",
    "description": "Coir, cordage and ropes, other than of cotton",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "56079020",
+   "hs6": "560790",
+   "hs6_description": "Twine, cordage, ropes, cables; of materials n.e.c. in heading no. 5607, whether or not plaited, braided or impregnated, coated, covered, or sheathed with rubber or plastics",
    "level": 8,
    "chapter": "56",
    "description": "Cordage, cable, ropes and twine, of cotton",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "56079090",
+   "hs6": "560790",
+   "hs6_description": "Twine, cordage, ropes, cables; of materials n.e.c. in heading no. 5607, whether or not plaited, braided or impregnated, coated, covered, or sheathed with rubber or plastics",
    "level": 8,
    "chapter": "56",
    "description": "Other",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "5608",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "56",
    "description": "Knotted netting of twine, cordage or rope; made up fishing nets and other made up nets, of textile materials.",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "560811",
+   "hs6": "560811",
+   "hs6_description": "Twine, cordage or rope; fishing nets, made up, of man made textile materials",
    "level": 6,
    "chapter": "56",
    "description": "Of man-made textile materials : --Made up fishing nets",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "56081110",
+   "hs6": "560811",
+   "hs6_description": "Twine, cordage or rope; fishing nets, made up, of man made textile materials",
    "level": 8,
    "chapter": "56",
    "description": "Made up fishing nets of nylon",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "56081190",
+   "hs6": "560811",
+   "hs6_description": "Twine, cordage or rope; fishing nets, made up, of man made textile materials",
    "level": 8,
    "chapter": "56",
    "description": "Other",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "56081900",
+   "hs6": "560819",
+   "hs6_description": "Twine, cordage or rope; knotted netting, for other than fishing, of man-made textile materials",
    "level": 8,
    "chapter": "56",
    "description": "Of man-made textile materials : -- Other",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "560890",
+   "hs6": "560890",
+   "hs6_description": "Twine, cordage or rope; knotted netting, of other than man-made textiles",
    "level": 6,
    "chapter": "56",
    "description": "Other",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "56089010",
+   "hs6": "560890",
+   "hs6_description": "Twine, cordage or rope; knotted netting, of other than man-made textiles",
    "level": 8,
    "chapter": "56",
    "description": "Of cotton",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "56089020",
+   "hs6": "560890",
+   "hs6_description": "Twine, cordage or rope; knotted netting, of other than man-made textiles",
    "level": 8,
    "chapter": "56",
    "description": "Of jute",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "56089090",
+   "hs6": "560890",
+   "hs6_description": "Twine, cordage or rope; knotted netting, of other than man-made textiles",
    "level": 8,
    "chapter": "56",
    "description": "Other",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "5609",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "56",
    "description": "Articles of yarn, strip or the like of heading 54.04 or 54.05, twine, cordage, rope or cables, not elsewhere specified or included.",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "560900",
+   "hs6": "560900",
+   "hs6_description": "Yarn; articles of yarn, strip or the like of heading no. 5404 and 5405, twine, cordage, rope or cables n.e.c. or included",
    "level": 6,
    "chapter": "56",
    "description": "Articles of yarn, strip or the like of heading 5404 or 5405, twine, cordage, rope or cables, not elsewhere specified or included:",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "56090010",
+   "hs6": "560900",
+   "hs6_description": "Yarn; articles of yarn, strip or the like of heading no. 5404 and 5405, twine, cordage, rope or cables n.e.c. or included",
    "level": 8,
    "chapter": "56",
    "description": "Products of coir",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "56090020",
+   "hs6": "560900",
+   "hs6_description": "Yarn; articles of yarn, strip or the like of heading no. 5404 and 5405, twine, cordage, rope or cables n.e.c. or included",
    "level": 8,
    "chapter": "56",
    "description": "Articles made up of cotton yarn",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "56090030",
+   "hs6": "560900",
+   "hs6_description": "Yarn; articles of yarn, strip or the like of heading no. 5404 and 5405, twine, cordage, rope or cables n.e.c. or included",
    "level": 8,
    "chapter": "56",
    "description": "Articles made up of jute",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "56090090",
+   "hs6": "560900",
+   "hs6_description": "Yarn; articles of yarn, strip or the like of heading no. 5404 and 5405, twine, cordage, rope or cables n.e.c. or included",
    "level": 8,
    "chapter": "56",
    "description": "Other",

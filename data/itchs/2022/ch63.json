@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "6301",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "63",
    "description": "Blankets and travelling rugs",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "63011000",
+   "hs6": "630110",
+   "hs6_description": "Blankets; electric",
    "level": 8,
    "chapter": "63",
    "description": "Electric blankets",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "63012000",
+   "hs6": "630120",
+   "hs6_description": "Blankets (other than electric blankets) and travelling rugs; of wool or of fine animal hair",
    "level": 8,
    "chapter": "63",
    "description": "Blankets (other than electric blankets) and travelling rugs, of wool or of fine animal hair",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "63013000",
+   "hs6": "630130",
+   "hs6_description": "Blankets (other than electric blankets) and travelling rugs; of cotton",
    "level": 8,
    "chapter": "63",
    "description": "Blankets (other than electric blankets) and travelling rugs, of cotton",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "63014000",
+   "hs6": "630140",
+   "hs6_description": "Blankets (other than electric blankets) and travelling rugs; of synthetic fibres",
    "level": 8,
    "chapter": "63",
    "description": "Blankets (other than electric blankets) and travelling rugs, of synthetic fibres",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "630190",
+   "hs6": "630190",
+   "hs6_description": "Blankets and travelling rugs; n.e.c. in heading no. 6301",
    "level": 6,
    "chapter": "63",
    "description": "Other blankets and travelling rugs",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "63019010",
+   "hs6": "630190",
+   "hs6_description": "Blankets and travelling rugs; n.e.c. in heading no. 6301",
    "level": 8,
    "chapter": "63",
    "description": "Jute blankets including blankets of blended jute",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "63019090",
+   "hs6": "630190",
+   "hs6_description": "Blankets and travelling rugs; n.e.c. in heading no. 6301",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "6302",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "63",
    "description": "Bed linen, table linen, toilet linen and kitchen linen.",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "630210",
+   "hs6": "630210",
+   "hs6_description": "Bed linen; knitted or crocheted",
    "level": 6,
    "chapter": "63",
    "description": "Bed linen, knitted or crocheted",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "63021010",
+   "hs6": "630210",
+   "hs6_description": "Bed linen; knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Of cotton",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "63021090",
+   "hs6": "630210",
+   "hs6_description": "Bed linen; knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "630221",
+   "hs6": "630221",
+   "hs6_description": "Bed linen; of cotton, printed, not knitted or crocheted",
    "level": 6,
    "chapter": "63",
    "description": "Other bed linen, printed :--Of cotton",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "63022110",
+   "hs6": "630221",
+   "hs6_description": "Bed linen; of cotton, printed, not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Handloom",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "63022190",
+   "hs6": "630221",
+   "hs6_description": "Bed linen; of cotton, printed, not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "63022200",
+   "hs6": "630222",
+   "hs6_description": "Bed linen; of man-made fibres, printed, not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other bed linen, printed : -- Of man-made fibres",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "63022900",
+   "hs6": "630229",
+   "hs6_description": "Bed linen; of textile materials (other than cotton or man-made fibres), printed, not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other bed linen, printed : -- Of other textile materials",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "63023100",
+   "hs6": "630231",
+   "hs6_description": "Bed linen; of cotton (not printed, knitted or crocheted)",
    "level": 8,
    "chapter": "63",
    "description": "Other bed linen : -- Of cotton",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "63023200",
+   "hs6": "630232",
+   "hs6_description": "Bed linen; of man-made fibres (not printed, knitted or crocheted)",
    "level": 8,
    "chapter": "63",
    "description": "Other bed linen : -- Of man-made fibres",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "63023900",
+   "hs6": "630239",
+   "hs6_description": "Bed linen; of textile materials other than cotton or man-made fibres (not printed, knitted or crocheted)",
    "level": 8,
    "chapter": "63",
    "description": "Other bed linen : -- Of other textile materials",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "630240",
+   "hs6": "630240",
+   "hs6_description": "Table linen; knitted or crocheted",
    "level": 6,
    "chapter": "63",
    "description": "Table linen, knitted or crocheted",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "63024010",
+   "hs6": "630240",
+   "hs6_description": "Table linen; knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Of silk",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "63024020",
+   "hs6": "630240",
+   "hs6_description": "Table linen; knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Of wool or fine animal hair",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "63024030",
+   "hs6": "630240",
+   "hs6_description": "Table linen; knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Of cotton",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "63024040",
+   "hs6": "630240",
+   "hs6_description": "Table linen; knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Of man-made fibres",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "63024090",
+   "hs6": "630240",
+   "hs6_description": "Table linen; knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "630251",
+   "hs6": "630251",
+   "hs6_description": "Table linen; of cotton, not knitted or crocheted",
    "level": 6,
    "chapter": "63",
    "description": "Other table linen:--Of cotton",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "63025110",
+   "hs6": "630251",
+   "hs6_description": "Table linen; of cotton, not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other table linen: ---- Handloom",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "63025300",
+   "hs6": "630253",
+   "hs6_description": "Table linen; of man-made fibres, not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other table linen : -- Of man-made fibres",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "63025900",
+   "hs6": "630259",
+   "hs6_description": "Table linen; of textile materials (other than cotton or man-made fibres), not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other table linen : -- Of other textile materials",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "630260",
+   "hs6": "630260",
+   "hs6_description": "Kitchen and toilet linen; of terry towelling or similar terry fabrics, of cotton",
    "level": 6,
    "chapter": "63",
    "description": "Toilet linen and kitchen linen, of terry towelling or similar terry fabrics, of cotton",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "63026010",
+   "hs6": "630260",
+   "hs6_description": "Kitchen and toilet linen; of terry towelling or similar terry fabrics, of cotton",
    "level": 8,
    "chapter": "63",
    "description": "Handloom",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "63026090",
+   "hs6": "630260",
+   "hs6_description": "Kitchen and toilet linen; of terry towelling or similar terry fabrics, of cotton",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "630291",
+   "hs6": "630291",
+   "hs6_description": "Toilet and kitchen linen; of cotton, excluding terry towelling or similar terry fabrics",
    "level": 6,
    "chapter": "63",
    "description": "Other :-- Of cotton",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "63029110",
+   "hs6": "630291",
+   "hs6_description": "Toilet and kitchen linen; of cotton, excluding terry towelling or similar terry fabrics",
    "level": 8,
    "chapter": "63",
    "description": "Other: ---- Handloom",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "63029190",
+   "hs6": "630291",
+   "hs6_description": "Toilet and kitchen linen; of cotton, excluding terry towelling or similar terry fabrics",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "63029300",
+   "hs6": "630293",
+   "hs6_description": "Toilet and kitchen linen; of man-made fibres",
    "level": 8,
    "chapter": "63",
    "description": "Other : -- Of man-made fibres",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "63029900",
+   "hs6": "630299",
+   "hs6_description": "Toilet and kitchen linen; of textile materials (other than cotton or man-made fibres)",
    "level": 8,
    "chapter": "63",
    "description": "Other : -- Of other textile materials",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "6303",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "63",
    "description": "Curtains (including drapes) and interior blinds; curtain or bed valances.",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "63031200",
+   "hs6": "630312",
+   "hs6_description": "Curtains (including drapes) and interior blinds; curtain or bed valances, knitted or crocheted, of synthetic fibres",
    "level": 8,
    "chapter": "63",
    "description": "Knitted or crocheted : -- Of synthetic fibres",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "63031900",
+   "hs6": "630319",
+   "hs6_description": "Curtains (including drapes) and interior blinds; curtain or bed valances, knitted or crocheted, of textile materials other than synthetic fibres",
    "level": 8,
    "chapter": "63",
    "description": "Knitted or crocheted : -- Of other textile materials",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "63039100",
+   "hs6": "630391",
+   "hs6_description": "Curtains (including drapes) and interior blinds, curtain or bed valances; of cotton, not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other : -- Of cotton",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "63039200",
+   "hs6": "630392",
+   "hs6_description": "Curtains (including drapes) and interior blinds, curtain or bed valances; of synthetic fibres, not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other : -- Of synthetic fibres",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "630399",
+   "hs6": "630399",
+   "hs6_description": "Curtains (including drapes) and interior blinds, curtain or bed valances; of textile materials other than cotton or synthetic fibres, not knitted or crocheted",
    "level": 6,
    "chapter": "63",
    "description": "Other : -- Of other textile materials",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "63039910",
+   "hs6": "630399",
+   "hs6_description": "Curtains (including drapes) and interior blinds, curtain or bed valances; of textile materials other than cotton or synthetic fibres, not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Silk shower curtains",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "63039990",
+   "hs6": "630399",
+   "hs6_description": "Curtains (including drapes) and interior blinds, curtain or bed valances; of textile materials other than cotton or synthetic fibres, not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "6304",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "63",
    "description": "Other furnishing articles, excluding those of heading 94.04.",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "63041100",
+   "hs6": "630411",
+   "hs6_description": "Bedspreads; knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Bedspreads : -- Knitted or crocheted",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "630419",
+   "hs6": "630419",
+   "hs6_description": "Bedspreads; not knitted or crocheted",
    "level": 6,
    "chapter": "63",
    "description": "Bedspreads : -- Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "63041910",
+   "hs6": "630419",
+   "hs6_description": "Bedspreads; not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Bedsheets and bed covers, of cotton",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "63041920",
+   "hs6": "630419",
+   "hs6_description": "Bedspreads; not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Bedspreads of silk",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "63041930",
+   "hs6": "630419",
+   "hs6_description": "Bedspreads; not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Bedsheets and bed covers of man-made fibres",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "63041940",
+   "hs6": "630419",
+   "hs6_description": "Bedspreads; not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Bedsheets and Bed Covers of cotton, Handloom",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "63041990",
+   "hs6": "630419",
+   "hs6_description": "Bedspreads; not knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "63042000",
+   "hs6": "630420",
+   "hs6_description": "Furnishing articles; excluding those of heading no. 9404, bed nets, specified in Subheading Note 1 to this Chapter",
    "level": 8,
    "chapter": "63",
    "description": "Bed nets, specified in Sub- heading Note 1 to this Chapter",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "630491",
+   "hs6": "630491",
+   "hs6_description": "Furnishing articles; excluding those of heading no. 9404, n.e.c. in heading 6304, knitted or crocheted",
    "level": 6,
    "chapter": "63",
    "description": "Other : -- Knitted or crocheted",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "63049110",
+   "hs6": "630491",
+   "hs6_description": "Furnishing articles; excluding those of heading no. 9404, n.e.c. in heading 6304, knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Silk belt",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "63049120",
+   "hs6": "630491",
+   "hs6_description": "Furnishing articles; excluding those of heading no. 9404, n.e.c. in heading 6304, knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Woollen cushion cover",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "63049190",
+   "hs6": "630491",
+   "hs6_description": "Furnishing articles; excluding those of heading no. 9404, n.e.c. in heading 6304, knitted or crocheted",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "630492",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 6,
    "chapter": "63",
    "description": "Other : -- Not knitted or crocheted, of cotton",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "63049211",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Counterpanes ---- Of Handloom",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "63049221",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Napkins ---- Of Handloom",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "63049229",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Napkins ---- Other",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "63049231",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Pillow cases and pillow slips ---- Of Handloom",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "63049239",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Pillow cases and pillow slips ---- Other",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "63049241",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Table cloth and Table Covers ---- of Handloom",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "63049249",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Table cloth and Table Covers ---- Others",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "63049250",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Terry towel",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "63049260",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Towels, other than terry towel",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "63049270",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Mosquito nets",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "63049281",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Cushion covers ---- Of Handloom",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "63049289",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Cushion covers ---- Others",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "63049291",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Other furnishing articles ---- Of Handloom",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "63049299",
+   "hs6": "630492",
+   "hs6_description": "Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Other furnishing articles ---- Others",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "63049300",
+   "hs6": "630493",
+   "hs6_description": "Furnishing articles; of synthetic fibres, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Other : -- Not knitted or crocheted, of synthetic fibres",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "630499",
+   "hs6": "630499",
+   "hs6_description": "Furnishing articles; of textile materials other than cotton or synthetic fibres, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 6,
    "chapter": "63",
    "description": "Other : -- Not knitted or crocheted, of other textile materials",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "63049910",
+   "hs6": "630499",
+   "hs6_description": "Furnishing articles; of textile materials other than cotton or synthetic fibres, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Silk cushion covers",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "63049991",
+   "hs6": "630499",
+   "hs6_description": "Furnishing articles; of textile materials other than cotton or synthetic fibres, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "of silk, Handloom",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "63049992",
+   "hs6": "630499",
+   "hs6_description": "Furnishing articles; of textile materials other than cotton or synthetic fibres, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "of wool, Handloom",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "63049999",
+   "hs6": "630499",
+   "hs6_description": "Furnishing articles; of textile materials other than cotton or synthetic fibres, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "6305",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "63",
    "description": "Sacks and bags, of a kind used for the packing of goods.",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "630510",
+   "hs6": "630510",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of jute or of other textile bast fibres of heading no. 5303",
    "level": 6,
    "chapter": "63",
    "description": "Of jute or of other textile bast fibres of heading 53.03",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "63051010",
+   "hs6": "630510",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of jute or of other textile bast fibres of heading no. 5303",
    "level": 8,
    "chapter": "63",
    "description": "Jute bagging for raw cotton",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "63051020",
+   "hs6": "630510",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of jute or of other textile bast fibres of heading no. 5303",
    "level": 8,
    "chapter": "63",
    "description": "Jute corn (grains) sacks",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "63051030",
+   "hs6": "630510",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of jute or of other textile bast fibres of heading no. 5303",
    "level": 8,
    "chapter": "63",
    "description": "Jute hessian bags",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "63051040",
+   "hs6": "630510",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of jute or of other textile bast fibres of heading no. 5303",
    "level": 8,
    "chapter": "63",
    "description": "Jute sacking bags",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "63051050",
+   "hs6": "630510",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of jute or of other textile bast fibres of heading no. 5303",
    "level": 8,
    "chapter": "63",
    "description": "Jute wool sacks",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "63051060",
+   "hs6": "630510",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of jute or of other textile bast fibres of heading no. 5303",
    "level": 8,
    "chapter": "63",
    "description": "Plastic coated or paper cum polythene lined jute bags and sacks",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "63051070",
+   "hs6": "630510",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of jute or of other textile bast fibres of heading no. 5303",
    "level": 8,
    "chapter": "63",
    "description": "Paper laminated hessian jute",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "63051080",
+   "hs6": "630510",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of jute or of other textile bast fibres of heading no. 5303",
    "level": 8,
    "chapter": "63",
    "description": "Jute soil savers",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "63051090",
+   "hs6": "630510",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of jute or of other textile bast fibres of heading no. 5303",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "63052000",
+   "hs6": "630520",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of cotton",
    "level": 8,
    "chapter": "63",
    "description": "Of cotton",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "630532",
+   "hs6": "630532",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of man-made textile materials, flexible intermediate bulk containers",
    "level": 6,
    "chapter": "63",
    "description": "--- Of man-made textile materials : -- Flexible intermediate bulk containers",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "63053200",
+   "hs6": "630532",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of man-made textile materials, flexible intermediate bulk containers",
    "level": 8,
    "chapter": "63",
    "description": "Of man-made textile materials : -- Flexible intermediate bulk containers",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "63053300",
+   "hs6": "630533",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of man-made textile materials, of polyethylene or polypropylene strip or the like, not flexible intermediate bulk containers",
    "level": 8,
    "chapter": "63",
    "description": "Of man-made textile materials : -- Other, of polyethylene or polypropylene strip or the like",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "63053900",
+   "hs6": "630539",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of man-made textile materials, not of polyethylene or polypropylene strip or the like, not flexible intermediate bulk containers",
    "level": 8,
    "chapter": "63",
    "description": "Of man-made textile materials : -- Other",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "63059000",
+   "hs6": "630590",
+   "hs6_description": "Sacks and bags; of a kind used for the packing of goods, of textile materials (other than jute, cotton or man-made textile materials)",
    "level": 8,
    "chapter": "63",
    "description": "Of other textile materials",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "6306",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "63",
    "description": "TARPAULINS, AWNINGS ANDSUNBLINDS; TENTS (INCLUDING TEMPORARY CANOPIES AND SIMILAR ARTICLES); SAILS FOR BOATS, SAILBOARDS OR LANDCRAFT; CAMPING GOODS",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "63061200",
+   "hs6": "630612",
+   "hs6_description": "Tarpaulins, awnings and sunblinds; of synthetic fibres",
    "level": 8,
    "chapter": "63",
    "description": "Tarpaulins, awnings and sunblinds : -- Of synthetic fibres",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "630619",
+   "hs6": "630619",
+   "hs6_description": "Tarpaulins, awnings and sunblinds; of textile materials other than synthetic fibres",
    "level": 6,
    "chapter": "63",
    "description": "Tarpaulins, awnings and sunblinds : -- Of other textile materials",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "63061910",
+   "hs6": "630619",
+   "hs6_description": "Tarpaulins, awnings and sunblinds; of textile materials other than synthetic fibres",
    "level": 8,
    "chapter": "63",
    "description": "Jute tarpaulins (including DW tarpaulin)",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "63061920",
+   "hs6": "630619",
+   "hs6_description": "Tarpaulins, awnings and sunblinds; of textile materials other than synthetic fibres",
    "level": 8,
    "chapter": "63",
    "description": "Blinds or awnings of coir",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "63061930",
+   "hs6": "630619",
+   "hs6_description": "Tarpaulins, awnings and sunblinds; of textile materials other than synthetic fibres",
    "level": 8,
    "chapter": "63",
    "description": "Venetian or Austrian blinds",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "63061990",
+   "hs6": "630619",
+   "hs6_description": "Tarpaulins, awnings and sunblinds; of textile materials other than synthetic fibres",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "63062200",
+   "hs6": "630622",
+   "hs6_description": "Tents (including temporary canopies and similar articles); of synthetic fibres",
    "level": 8,
    "chapter": "63",
    "description": "Tents (including temporary canopies and similar articles): -- Of synthetic fibres",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "630629",
+   "hs6": "630629",
+   "hs6_description": "Tents (including temporary canopies and similar articles); of textile materials other than synthetic fibres",
    "level": 6,
    "chapter": "63",
    "description": "Tents (including temporary canopies and similar articles): -- Of other textile materials",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "63062910",
+   "hs6": "630629",
+   "hs6_description": "Tents (including temporary canopies and similar articles); of textile materials other than synthetic fibres",
    "level": 8,
    "chapter": "63",
    "description": "Of jute",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "63062990",
+   "hs6": "630629",
+   "hs6_description": "Tents (including temporary canopies and similar articles); of textile materials other than synthetic fibres",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "63063000",
+   "hs6": "630630",
+   "hs6_description": "Sails; for boats, sailboards or landcraft",
    "level": 8,
    "chapter": "63",
    "description": "Sails",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "63064000",
+   "hs6": "630640",
+   "hs6_description": "Camping goods; pneumatic mattresses",
    "level": 8,
    "chapter": "63",
    "description": "Pneumatic Mattresses",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "630690",
+   "hs6": "630690",
+   "hs6_description": "Camping goods; (of textile materials), n.e.c in heading no. 6306",
    "level": 6,
    "chapter": "63",
    "description": "Other",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "63069010",
+   "hs6": "630690",
+   "hs6_description": "Camping goods; (of textile materials), n.e.c in heading no. 6306",
    "level": 8,
    "chapter": "63",
    "description": "Of cotton",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "63069090",
+   "hs6": "630690",
+   "hs6_description": "Camping goods; (of textile materials), n.e.c in heading no. 6306",
    "level": 8,
    "chapter": "63",
    "description": "Of other textile materials",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "6307",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "63",
    "description": "Other made up articles, including dress patterns.",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "630710",
+   "hs6": "630710",
+   "hs6_description": "Cloths; floor cloths, dish-cloths, dusters and similar cleaning cloths",
    "level": 6,
    "chapter": "63",
    "description": "Floor-cloths, dish-cloths, dusters and similar cleaning cloths",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "63071010",
+   "hs6": "630710",
+   "hs6_description": "Cloths; floor cloths, dish-cloths, dusters and similar cleaning cloths",
    "level": 8,
    "chapter": "63",
    "description": "Of cotton",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "63071020",
+   "hs6": "630710",
+   "hs6_description": "Cloths; floor cloths, dish-cloths, dusters and similar cleaning cloths",
    "level": 8,
    "chapter": "63",
    "description": "Of man-made fibres",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "63071030",
+   "hs6": "630710",
+   "hs6_description": "Cloths; floor cloths, dish-cloths, dusters and similar cleaning cloths",
    "level": 8,
    "chapter": "63",
    "description": "of Cotton, Handloom",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "63071090",
+   "hs6": "630710",
+   "hs6_description": "Cloths; floor cloths, dish-cloths, dusters and similar cleaning cloths",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "630720",
+   "hs6": "630720",
+   "hs6_description": "Life-jackets and life-belts",
    "level": 6,
    "chapter": "63",
    "description": "Life-jackets and life-belts",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "63072010",
+   "hs6": "630720",
+   "hs6_description": "Life-jackets and life-belts",
    "level": 8,
    "chapter": "63",
    "description": "Of cotton",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "63072090",
+   "hs6": "630720",
+   "hs6_description": "Life-jackets and life-belts",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "630790",
+   "hs6": "630790",
+   "hs6_description": "Textiles; made up articles (including dress patterns), n.e.c. in chapter 63, n.e.c. in heading no. 6307",
    "level": 6,
    "chapter": "63",
    "description": "Other",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "63079011",
+   "hs6": "630790",
+   "hs6_description": "Textiles; made up articles (including dress patterns), n.e.c. in chapter 63, n.e.c. in heading no. 6307",
    "level": 8,
    "chapter": "63",
    "description": "Dress materials hand printed: ---- Of cotton",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "63079012",
+   "hs6": "630790",
+   "hs6_description": "Textiles; made up articles (including dress patterns), n.e.c. in chapter 63, n.e.c. in heading no. 6307",
    "level": 8,
    "chapter": "63",
    "description": "Dress materials hand printed: ---- Of silk",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "63079013",
+   "hs6": "630790",
+   "hs6_description": "Textiles; made up articles (including dress patterns), n.e.c. in chapter 63, n.e.c. in heading no. 6307",
    "level": 8,
    "chapter": "63",
    "description": "Dress materials hand printed: ---- Of man-made fibres",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "63079019",
+   "hs6": "630790",
+   "hs6_description": "Textiles; made up articles (including dress patterns), n.e.c. in chapter 63, n.e.c. in heading no. 6307",
    "level": 8,
    "chapter": "63",
    "description": "Dress materials hand printed: ---- Other",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "63079020",
+   "hs6": "630790",
+   "hs6_description": "Textiles; made up articles (including dress patterns), n.e.c. in chapter 63, n.e.c. in heading no. 6307",
    "level": 8,
    "chapter": "63",
    "description": "Dress materials hand printed: ---- Made up articles of cotton",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "63079091",
+   "hs6": "630790",
+   "hs6_description": "Textiles; made up articles (including dress patterns), n.e.c. in chapter 63, n.e.c. in heading no. 6307",
    "level": 8,
    "chapter": "63",
    "description": "Textile face masks, without a replaceable filter or mechanical parts, including surgical mask and",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "63079092",
+   "hs6": "630790",
+   "hs6_description": "Textiles; made up articles (including dress patterns), n.e.c. in chapter 63, n.e.c. in heading no. 6307",
    "level": 8,
    "chapter": "63",
    "description": "Armour for ballistic protection",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "63079099",
+   "hs6": "630790",
+   "hs6_description": "Textiles; made up articles (including dress patterns), n.e.c. in chapter 63, n.e.c. in heading no. 6307",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "63080000",
+   "hs6": "630800",
+   "hs6_description": "Fabrics, woven and yarn; in sets, whether or not with accessories, for making up into rugs, tapestries, embroidered table cloths or serviettes or similar textile articles, packaged for retail sale",
    "level": 8,
    "chapter": "63",
    "description": "Sets consisting of woven fabric and yarn, whether or not with accessories, for making up into rugs, tapestries, embroidered table cloths or serviettes, or similar textile articles, put up in packings for retail sale.",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "63090000",
+   "hs6": "630900",
+   "hs6_description": "Clothing; worn, and other worn articles",
    "level": 8,
    "chapter": "63",
    "description": "Worn clothing and other worn articles.",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "6310",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "63",
    "description": "Used or new rags, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials.",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "631010",
+   "hs6": "631010",
+   "hs6_description": "Rags; used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials; sorted",
    "level": 6,
    "chapter": "63",
    "description": "Sorted",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "63101010",
+   "hs6": "631010",
+   "hs6_description": "Rags; used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials; sorted",
    "level": 8,
    "chapter": "63",
    "description": "Woolen rags",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "63101020",
+   "hs6": "631010",
+   "hs6_description": "Rags; used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials; sorted",
    "level": 8,
    "chapter": "63",
    "description": "Cotton rags",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "63101030",
+   "hs6": "631010",
+   "hs6_description": "Rags; used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials; sorted",
    "level": 8,
    "chapter": "63",
    "description": "Gunny cuttings",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "63101090",
+   "hs6": "631010",
+   "hs6_description": "Rags; used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials; sorted",
    "level": 8,
    "chapter": "63",
    "description": "Other",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "631090",
+   "hs6": "631090",
+   "hs6_description": "Rags; used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials; other than sorted",
    "level": 6,
    "chapter": "63",
    "description": "Other:",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "63109010",
+   "hs6": "631090",
+   "hs6_description": "Rags; used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials; other than sorted",
    "level": 8,
    "chapter": "63",
    "description": "Other: ---- Woolen rags",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "63109020",
+   "hs6": "631090",
+   "hs6_description": "Rags; used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials; other than sorted",
    "level": 8,
    "chapter": "63",
    "description": "Other: ---- Cotton rags",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "63109030",
+   "hs6": "631090",
+   "hs6_description": "Rags; used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials; other than sorted",
    "level": 8,
    "chapter": "63",
    "description": "Other: ---- Gunny cuttings",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "63109040",
+   "hs6": "631090",
+   "hs6_description": "Rags; used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials; other than sorted",
    "level": 8,
    "chapter": "63",
    "description": "Other: ---- Synthetic rags",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "63109090",
+   "hs6": "631090",
+   "hs6_description": "Rags; used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials; other than sorted",
    "level": 8,
    "chapter": "63",
    "description": "Other: ---- Other",

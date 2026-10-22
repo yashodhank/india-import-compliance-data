@@ -1,81 +1,81 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-4101,4,41,"Raw hides and skins of bovine (including buffalo) or equine animals (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split.",,,,,,2026-10-22
-410120,6,41,"Whole hides and skins, unsplit, of a weight per skin not exceeding 8 kg when simply dried, 10 kg when dry-salted, or 16 kg when fresh, wet-salted or otherwise preserved",,,,,,2026-10-22
-41012010,8,41,"Of cow, including cow calf",Free,,,,,2026-10-22
-41012020,8,41,"Of buffalo, including buffalo calf",Free,,,,,2026-10-22
-41012090,8,41,Other,Free,,,,,2026-10-22
-410150,6,41,"Whole hides and skins, of a weight exceeding 16 kg",,,,,,2026-10-22
-41015010,8,41,"Of cow, including cow calf",Free,,,,,2026-10-22
-41015020,8,41,"Of buffalo, including buffalo calf",Free,,,,,2026-10-22
-41015090,8,41,Other,Free,,,,,2026-10-22
-410190,6,41,"Other, including butts, bends and bellies",,,,,,2026-10-22
-41019010,8,41,"Of cow, including cow calf",Free,,,,,2026-10-22
-41019020,8,41,"Of buffalo, including buffalo calf",Free,,,,,2026-10-22
-41019090,8,41,Other,Free,,,,,2026-10-22
-4102,4,41,"Raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchmentdressed or further prepared), whether or not with wool on or split, other than those excluded by Note 1 (c) to this Chapter.",,,,,,2026-10-22
-410210,6,41,With wool on,,,,,,2026-10-22
-41021010,8,41,Sheep skins,Free,,,,,2026-10-22
-41021020,8,41,Pelts of baby lambs,Free,,,,,2026-10-22
-41021030,8,41,Lamb skins other than pelts Without wool on:,Free,,,,,2026-10-22
-410221,6,41,Without wool on : -- Pickled,,,,,,2026-10-22
-41022110,8,41,Sheep skins,Free,,,,,2026-10-22
-41022120,8,41,Lamb skins,Free,,,,,2026-10-22
-41022130,8,41,Lamb pelt,Free,,,,,2026-10-22
-410229,6,41,Without wool on : -- Other,,,,,,2026-10-22
-41022910,8,41,Sheep skins,Free,,,,,2026-10-22
-41022920,8,41,Lamb skins,Free,,,,,2026-10-22
-4103,4,41,"Other raw hides and skins (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split, other than those excluded by Note 1 (b) or 1 (c) to this Chapter.",,,,,,2026-10-22
-41032000,8,41,Of reptiles,Free,"Import subject to Wild Life (Protection) Act, 1972 (as amended from time to time) and CITES.",,,,2026-10-22
-41033000,8,41,Of swine,Free,,,,,2026-10-22
-41039000,8,41,Other,Free,"Import subject to Wild Life (Protection) Act, 1972 as amended from time to time) and CITES.",,,,2026-10-22
-4104,4,41,"Tanned or crust hides and skins of bovine (including buffalo) or equine animals, without hair on, whether or not split, but not further prepared.",,,,,,2026-10-22
-410411,6,41,"In the wet state (including wet-blue) : -- Full grains, unsplit; grain splits",,,,,,2026-10-22
-41041110,8,41,--- Wet blues,Free,,,24/2026-27,2026-07-22,2026-10-22
-41041190,8,41,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-410419,6,41,In the wet state (including wet-blue) : -- Other,,,,,,2026-10-22
-41041910,8,41,--- Wet blues,Free,,,24/2026-27,2026-07-22,2026-10-22
-41041990,8,41,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-41044100,8,41,"In the dry state (crust) : -- Full grains, unsplit; grain splits",Free,,,,,2026-10-22
-41044900,8,41,In the dry state (crust) : -- Other,Free,,,,,2026-10-22
-4105,4,41,"Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared.",,,,,,2026-10-22
-410510,6,41,In the wet state (including wet-blue),,,,,,2026-10-22
-41051010,8,41,--- Wet blues,Free,,,24/2026-27,2026-07-22,2026-10-22
-41051090,8,41,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-41053000,8,41,In the dry state (crust),Free,,,,,2026-10-22
-4106,4,41,"Tanned or crust hides and skins of other animals, without wool or hair on, whether or not split, but not further prepared.",,,,,,2026-10-22
-410621,6,41,Of goats or kids : -- In the wet state (including wet-blue),,,,,,2026-10-22
-41062110,8,41,--- Wet blues,Free,,,24/2026-27,2026-07-22,2026-10-22
-41062190,8,41,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-41062200,8,41,Of goats or kids : -- In the dry state (crust),Free,,,,,2026-10-22
-410631,6,41,Of swine : -- In the wet state (including wet-blue),,,,,,2026-10-22
-41063110,8,41,--- Wet blues,Free,,,24/2026-27,2026-07-22,2026-10-22
-41063190,8,41,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-41063200,8,41,Of swine : -- In the dry state (crust),Free,,,,,2026-10-22
-41064000,8,41,Of reptiles,Free,"Import subject to Wild Life (Protection) Act, 1972 as amended from time to time) and CITES.",,,,2026-10-22
-410691,6,41,Other : -- In the wet state (including wet-blue),,,,,,2026-10-22
-41069110,8,41,--- Wet blues,Free,,,24/2026-27,2026-07-22,2026-10-22
-41069190,8,41,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-41069200,8,41,Other : -- In the dry state (crust),Free,,,,,2026-10-22
-4107,4,41,"Leather further prepared after tanning or crusting, including parchment-dressed leather, of bovine (including buffalo) or equine animals, without hair on, whether or not split, other than leather of heading 41.14.",,,,,,2026-10-22
-41071100,8,41,"Whole hides and skins : -- Full grains, unsplit",Free,,,,,2026-10-22
-41071200,8,41,Whole hides and skins : -- Grain splits,Free,,,,,2026-10-22
-41071900,8,41,Whole hides and skins : -- Other,Free,,,,,2026-10-22
-41079100,8,41,"Other, including sides : -- Full grains, unsplit",Free,,,,,2026-10-22
-41079200,8,41,"Other, including sides : -- Grain splits",Free,,,,,2026-10-22
-41079900,8,41,"Other, including sides : -- Other",Free,,,,,2026-10-22
-41120000,8,41,"Leather further prepared after tanning or crusting, including parchment-dressed leather, of sheep or lamb, without wool on, whether or not split, other than leather of heading 41.14.",Free,,,,,2026-10-22
-4113,4,41,"Leather further prepared after tanning or crusting, including parchment-dressed leather, of other animals, without wool or hair on, whether or not split, other than leather of heading 41.14.",,,,,,2026-10-22
-41131000,8,41,Of goats or kids,Free,,,,,2026-10-22
-41132000,8,41,Of swine,Free,,,,,2026-10-22
-41133000,8,41,Of reptiles,Free,"Imports are subject to Wildlife (Protection)Act, 1972 and CITES besides Policy condition No. 4 of the Chapter",4,55/2015-2020,2021-01-07,2026-10-22
-41139000,8,41,Other,Free,,,,,2026-10-22
-4114,4,41,Chamois (including combination chamois) leather; patent leather and patent laminated leather; metallised leather.,,,,,,2026-10-22
-41141000,8,41,Chamois (including combination chamois) leather,Free,,,,,2026-10-22
-411420,6,41,Patent leather and patent laminated leather; metallised leather,,,,,,2026-10-22
-41142010,8,41,Patent leather and patent laminated leather,Free,,,,,2026-10-22
-41142020,8,41,Metallised leather,Free,,,,,2026-10-22
-4115,4,41,"Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls; parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour.",,,,,,2026-10-22
-41151000,8,41,"Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls",Free,,,,,2026-10-22
-411520,6,41,"Parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour",,,,,,2026-10-22
-41152010,8,41,Cuttings of leather,Free,,,,,2026-10-22
-41152090,8,41,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+4101,,,4,41,"Raw hides and skins of bovine (including buffalo) or equine animals (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split.",,,,,,2026-10-22
+410120,410120,"Raw hides and skins; whole, unsplit, of bovine or equine animals, of a weight per skin not exceeding 8kg when simply dried, 10kg when dry-salted or 16kg when fresh, wet-salted or otherwise preserved",6,41,"Whole hides and skins, unsplit, of a weight per skin not exceeding 8 kg when simply dried, 10 kg when dry-salted, or 16 kg when fresh, wet-salted or otherwise preserved",,,,,,2026-10-22
+41012010,410120,"Raw hides and skins; whole, unsplit, of bovine or equine animals, of a weight per skin not exceeding 8kg when simply dried, 10kg when dry-salted or 16kg when fresh, wet-salted or otherwise preserved",8,41,"Of cow, including cow calf",Free,,,,,2026-10-22
+41012020,410120,"Raw hides and skins; whole, unsplit, of bovine or equine animals, of a weight per skin not exceeding 8kg when simply dried, 10kg when dry-salted or 16kg when fresh, wet-salted or otherwise preserved",8,41,"Of buffalo, including buffalo calf",Free,,,,,2026-10-22
+41012090,410120,"Raw hides and skins; whole, unsplit, of bovine or equine animals, of a weight per skin not exceeding 8kg when simply dried, 10kg when dry-salted or 16kg when fresh, wet-salted or otherwise preserved",8,41,Other,Free,,,,,2026-10-22
+410150,410150,"Hides and skins; raw, whole, of bovine or equine animals, of a weight per skin exceeding 16 kg",6,41,"Whole hides and skins, of a weight exceeding 16 kg",,,,,,2026-10-22
+41015010,410150,"Hides and skins; raw, whole, of bovine or equine animals, of a weight per skin exceeding 16 kg",8,41,"Of cow, including cow calf",Free,,,,,2026-10-22
+41015020,410150,"Hides and skins; raw, whole, of bovine or equine animals, of a weight per skin exceeding 16 kg",8,41,"Of buffalo, including buffalo calf",Free,,,,,2026-10-22
+41015090,410150,"Hides and skins; raw, whole, of bovine or equine animals, of a weight per skin exceeding 16 kg",8,41,Other,Free,,,,,2026-10-22
+410190,410190,"Hides and skins; other than whole, but including butts, bends and bellies, of bovine (including. buffalo) and equine animals, fresh, salted or preserved, but not tanned, parchment dressed or further prepared, whether or not dehaired or split",6,41,"Other, including butts, bends and bellies",,,,,,2026-10-22
+41019010,410190,"Hides and skins; other than whole, but including butts, bends and bellies, of bovine (including. buffalo) and equine animals, fresh, salted or preserved, but not tanned, parchment dressed or further prepared, whether or not dehaired or split",8,41,"Of cow, including cow calf",Free,,,,,2026-10-22
+41019020,410190,"Hides and skins; other than whole, but including butts, bends and bellies, of bovine (including. buffalo) and equine animals, fresh, salted or preserved, but not tanned, parchment dressed or further prepared, whether or not dehaired or split",8,41,"Of buffalo, including buffalo calf",Free,,,,,2026-10-22
+41019090,410190,"Hides and skins; other than whole, but including butts, bends and bellies, of bovine (including. buffalo) and equine animals, fresh, salted or preserved, but not tanned, parchment dressed or further prepared, whether or not dehaired or split",8,41,Other,Free,,,,,2026-10-22
+4102,,,4,41,"Raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchmentdressed or further prepared), whether or not with wool on or split, other than those excluded by Note 1 (c) to this Chapter.",,,,,,2026-10-22
+410210,410210,"Skins; raw, of sheep or lambs, fresh, or salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), with wool on",6,41,With wool on,,,,,,2026-10-22
+41021010,410210,"Skins; raw, of sheep or lambs, fresh, or salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), with wool on",8,41,Sheep skins,Free,,,,,2026-10-22
+41021020,410210,"Skins; raw, of sheep or lambs, fresh, or salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), with wool on",8,41,Pelts of baby lambs,Free,,,,,2026-10-22
+41021030,410210,"Skins; raw, of sheep or lambs, fresh, or salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), with wool on",8,41,Lamb skins other than pelts Without wool on:,Free,,,,,2026-10-22
+410221,410221,"Skins; raw, of sheep or lambs, pickled (but not tanned, parchment-dressed or further preserved), without wool on",6,41,Without wool on : -- Pickled,,,,,,2026-10-22
+41022110,410221,"Skins; raw, of sheep or lambs, pickled (but not tanned, parchment-dressed or further preserved), without wool on",8,41,Sheep skins,Free,,,,,2026-10-22
+41022120,410221,"Skins; raw, of sheep or lambs, pickled (but not tanned, parchment-dressed or further preserved), without wool on",8,41,Lamb skins,Free,,,,,2026-10-22
+41022130,410221,"Skins; raw, of sheep or lambs, pickled (but not tanned, parchment-dressed or further preserved), without wool on",8,41,Lamb pelt,Free,,,,,2026-10-22
+410229,410229,"Hides and skins; raw, of animals n.e.c. in this chapter, fresh, salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",6,41,Without wool on : -- Other,,,,,,2026-10-22
+41022910,410229,"Hides and skins; raw, of animals n.e.c. in this chapter, fresh, salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",8,41,Sheep skins,Free,,,,,2026-10-22
+41022920,410229,"Hides and skins; raw, of animals n.e.c. in this chapter, fresh, salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",8,41,Lamb skins,Free,,,,,2026-10-22
+4103,,,4,41,"Other raw hides and skins (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split, other than those excluded by Note 1 (b) or 1 (c) to this Chapter.",,,,,,2026-10-22
+41032000,410320,"Hides and skins; raw, of reptiles (fresh or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",8,41,Of reptiles,Free,"Import subject to Wild Life (Protection) Act, 1972 (as amended from time to time) and CITES.",,,,2026-10-22
+41033000,410330,"Hides and skins; raw, of swine, (fresh or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",8,41,Of swine,Free,,,,,2026-10-22
+41039000,410390,"Hides and skins; raw, of animals n.e.c. in this chapter, fresh, salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",8,41,Other,Free,"Import subject to Wild Life (Protection) Act, 1972 as amended from time to time) and CITES.",,,,2026-10-22
+4104,,,4,41,"Tanned or crust hides and skins of bovine (including buffalo) or equine animals, without hair on, whether or not split, but not further prepared.",,,,,,2026-10-22
+410411,410411,"Tanned or crust hides and skins; without hair on, bovine or equine, in the wet state (including wet-blue), full grains, unsplit; grain splits",6,41,"In the wet state (including wet-blue) : -- Full grains, unsplit; grain splits",,,,,,2026-10-22
+41041110,410411,"Tanned or crust hides and skins; without hair on, bovine or equine, in the wet state (including wet-blue), full grains, unsplit; grain splits",8,41,--- Wet blues,Free,,,24/2026-27,2026-07-22,2026-10-22
+41041190,410411,"Tanned or crust hides and skins; without hair on, bovine or equine, in the wet state (including wet-blue), full grains, unsplit; grain splits",8,41,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+410419,410419,"Tanned or crust hides and skins; bovine or equine, without hair on, in the wet state (including wet-blue), excluding full grains, unsplit; grain splits",6,41,In the wet state (including wet-blue) : -- Other,,,,,,2026-10-22
+41041910,410419,"Tanned or crust hides and skins; bovine or equine, without hair on, in the wet state (including wet-blue), excluding full grains, unsplit; grain splits",8,41,--- Wet blues,Free,,,24/2026-27,2026-07-22,2026-10-22
+41041990,410419,"Tanned or crust hides and skins; bovine or equine, without hair on, in the wet state (including wet-blue), excluding full grains, unsplit; grain splits",8,41,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+41044100,410441,"Tanned or crust hides and skins; bovine or equine, without hair on, in the dry state (crust), full grains, unsplit; grain splits",8,41,"In the dry state (crust) : -- Full grains, unsplit; grain splits",Free,,,,,2026-10-22
+41044900,410449,"Tanned or crust hides and skins; bovine or equine, without hair on, in the dry state (crust), (other than full grains, unsplit; grain splits)",8,41,In the dry state (crust) : -- Other,Free,,,,,2026-10-22
+4105,,,4,41,"Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared.",,,,,,2026-10-22
+410510,410510,"Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared, in the wet state (including wet-blue)",6,41,In the wet state (including wet-blue),,,,,,2026-10-22
+41051010,410510,"Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared, in the wet state (including wet-blue)",8,41,--- Wet blues,Free,,,24/2026-27,2026-07-22,2026-10-22
+41051090,410510,"Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared, in the wet state (including wet-blue)",8,41,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+41053000,410530,"Tanned or crust skins; of sheep or lambs, without wool on, whether or not split, but not further prepared, in the dry state (crust)",8,41,In the dry state (crust),Free,,,,,2026-10-22
+4106,,,4,41,"Tanned or crust hides and skins of other animals, without wool or hair on, whether or not split, but not further prepared.",,,,,,2026-10-22
+410621,410621,"Tanned or crust hides and skins; of goats or kids, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",6,41,Of goats or kids : -- In the wet state (including wet-blue),,,,,,2026-10-22
+41062110,410621,"Tanned or crust hides and skins; of goats or kids, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",8,41,--- Wet blues,Free,,,24/2026-27,2026-07-22,2026-10-22
+41062190,410621,"Tanned or crust hides and skins; of goats or kids, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",8,41,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+41062200,410622,"Tanned or crust hides and skins; of goats or kids, without hair on, whether or not split, but not further prepared, in the dry state (crust)",8,41,Of goats or kids : -- In the dry state (crust),Free,,,,,2026-10-22
+410631,410631,"Tanned or crust hides and skins; of swine, without hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",6,41,Of swine : -- In the wet state (including wet-blue),,,,,,2026-10-22
+41063110,410631,"Tanned or crust hides and skins; of swine, without hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",8,41,--- Wet blues,Free,,,24/2026-27,2026-07-22,2026-10-22
+41063190,410631,"Tanned or crust hides and skins; of swine, without hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",8,41,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+41063200,410632,"Tanned or crust hides and skins; of swine, without hair on, whether or not split, but not further prepared, in the dry state (crust)",8,41,Of swine : -- In the dry state (crust),Free,,,,,2026-10-22
+41064000,410640,"Tanned or crust hides and skins; of reptiles, whether or not split, but not further prepared",8,41,Of reptiles,Free,"Import subject to Wild Life (Protection) Act, 1972 as amended from time to time) and CITES.",,,,2026-10-22
+410691,410691,"Tanned or crust hides and skins; of animals other than equine, ovine, bovine, goats or kids, swine and reptiles, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",6,41,Other : -- In the wet state (including wet-blue),,,,,,2026-10-22
+41069110,410691,"Tanned or crust hides and skins; of animals other than equine, ovine, bovine, goats or kids, swine and reptiles, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",8,41,--- Wet blues,Free,,,24/2026-27,2026-07-22,2026-10-22
+41069190,410691,"Tanned or crust hides and skins; of animals other than equine, ovine, bovine, goats or kids, swine and reptiles, without wool or hair on, whether or not split, but not further prepared, in the wet state (including wet-blue)",8,41,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+41069200,410692,"Tanned or crust hides and skins; of animals other than equine, ovine, bovine, goats or kids, swine and reptiles, without wool or hair on, whether or not split, but not further prepared, in the dry state (crust)",8,41,Other : -- In the dry state (crust),Free,,,,,2026-10-22
+4107,,,4,41,"Leather further prepared after tanning or crusting, including parchment-dressed leather, of bovine (including buffalo) or equine animals, without hair on, whether or not split, other than leather of heading 41.14.",,,,,,2026-10-22
+41071100,410711,"Leather; further prepared after tanning or crusting, including parchment-dressed leather, of bovine (including buffalo) or equine animals, without hair on, other than leather of heading 41.14, whole hides and skins, full grain, unsplit",8,41,"Whole hides and skins : -- Full grains, unsplit",Free,,,,,2026-10-22
+41071200,410712,"Leather; further prepared after tanning or crusting, including parchment-dressed leather, of bovine (including buffalo) or equine animals, without hair on, other than leather of heading 41.14, whole hides and skins, grain splits",8,41,Whole hides and skins : -- Grain splits,Free,,,,,2026-10-22
+41071900,410719,"Leather; further prepared after tanning or crusting, including parchment-dressed, of bovine (including buffalo) or equine animals, without hair on, split or not, other than leather of heading 41.14, (other than grain splits and full grains, unsplit)",8,41,Whole hides and skins : -- Other,Free,,,,,2026-10-22
+41079100,410791,"Leather; further prepared after tanning or crusting, including parchment-dressed, of bovine (including buffalo) or equine animals, without hair on, other than leather of heading 41.14, not whole hides and skins, but including sides, full grain, unsplit",8,41,"Other, including sides : -- Full grains, unsplit",Free,,,,,2026-10-22
+41079200,410792,"Leather; further prepared after tanning or crusting, including parchment-dressed, of bovine (including buffalo) or equine animals, without hair on, other than leather of heading 41.14, not whole hides and skins, but including sides, grain splits",8,41,"Other, including sides : -- Grain splits",Free,,,,,2026-10-22
+41079900,410799,"Leather; further prepared after tanning or crusting, incl. parchment-dressed, of bovine (including buffalo) or equine animals, no hair, excluding leather of heading 41.14, and whole hides and skins, and sides, (full grains, unsplit and grain splits)",8,41,"Other, including sides : -- Other",Free,,,,,2026-10-22
+41120000,411200,"Leather; further prepared after tanning or crusting, including parchment dressed leather, of sheep or lamb, without wool on, whether or not split, other than leather of heading 41.14",8,41,"Leather further prepared after tanning or crusting, including parchment-dressed leather, of sheep or lamb, without wool on, whether or not split, other than leather of heading 41.14.",Free,,,,,2026-10-22
+4113,,,4,41,"Leather further prepared after tanning or crusting, including parchment-dressed leather, of other animals, without wool or hair on, whether or not split, other than leather of heading 41.14.",,,,,,2026-10-22
+41131000,411310,"Leather; further prepared after tanning or crusting, including parchment-dressed leather, without hair on, whether or not split, other than leather of heading 41.14, of goats and kids",8,41,Of goats or kids,Free,,,,,2026-10-22
+41132000,411320,"Leather; further prepared after tanning or crusting, including parchment-dressed leather, without hair on, whether or not split, other than leather of heading 41.14, of swine",8,41,Of swine,Free,,,,,2026-10-22
+41133000,411330,"Leather; further prepared after tanning or crusting, including parchment-dressed leather, of reptiles, whether or not split, other than leather of heading 41.14",8,41,Of reptiles,Free,"Imports are subject to Wildlife (Protection)Act, 1972 and CITES besides Policy condition No. 4 of the Chapter",4,55/2015-2020,2021-01-07,2026-10-22
+41139000,411390,"Leather; further prepared after tanning or crusting, including parchment-dressed leather, of animals (other than sheep and lambs, goats and kids, swine and reptiles), without wool or hair on, whether or not split, other than leather of heading 41.14",8,41,Other,Free,,,,,2026-10-22
+4114,,,4,41,Chamois (including combination chamois) leather; patent leather and patent laminated leather; metallised leather.,,,,,,2026-10-22
+41141000,411410,Leather; chamois (including combination chamois),8,41,Chamois (including combination chamois) leather,Free,,,,,2026-10-22
+411420,411420,Leather; patent leather and laminated patent leather; metallised leather,6,41,Patent leather and patent laminated leather; metallised leather,,,,,,2026-10-22
+41142010,411420,Leather; patent leather and laminated patent leather; metallised leather,8,41,Patent leather and patent laminated leather,Free,,,,,2026-10-22
+41142020,411420,Leather; patent leather and laminated patent leather; metallised leather,8,41,Metallised leather,Free,,,,,2026-10-22
+4115,,,4,41,"Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls; parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour.",,,,,,2026-10-22
+41151000,411510,"Leather; composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls",8,41,"Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls",Free,,,,,2026-10-22
+411520,411520,"Leather; parings and other waste, of leather or composition leather; not suitable for the manufacture of leather articles; leather dust, powder and flour",6,41,"Parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour",,,,,,2026-10-22
+41152010,411520,"Leather; parings and other waste, of leather or composition leather; not suitable for the manufacture of leather articles; leather dust, powder and flour",8,41,Cuttings of leather,Free,,,,,2026-10-22
+41152090,411520,"Leather; parings and other waste, of leather or composition leather; not suitable for the manufacture of leather articles; leather dust, powder and flour",8,41,Other,Free,,,,,2026-10-22

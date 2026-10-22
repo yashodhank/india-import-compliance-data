@@ -13,6 +13,19 @@
    }
   },
   {
+   "name": "hs6",
+   "type": "string",
+   "description": "First six digits of hs_code (the WCO Harmonized System subheading); blank on 4-digit heading lines. Join key to data/hs6/harmonized-system.csv",
+   "constraints": {
+    "pattern": "^\\d{6}$"
+   }
+  },
+  {
+   "name": "hs6_description",
+   "type": "string",
+   "description": "WCO HS 2022 description of hs6, from data/hs6/harmonized-system.csv; blank where hs6 is not in that table (listed in BUILD-REPORT.json hs6_not_in_wco_table)"
+  },
+  {
    "name": "level",
    "type": "integer",
    "description": "Digits in hs_code",

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "5301",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "53",
    "description": "Flax, raw or processed but not spun; flax tow and waste (including yarn waste and garnetted stock).",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "53011000",
+   "hs6": "530110",
+   "hs6_description": "Flax; raw or retted, but not spun",
    "level": 8,
    "chapter": "53",
    "description": "Flax, raw or retted",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "53012100",
+   "hs6": "530121",
+   "hs6_description": "Flax; broken or scutched, but not spun",
    "level": 8,
    "chapter": "53",
    "description": "Flax, broken, scutched, hackled or otherwise processed, but not spun : -- broken or scutched",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "53012900",
+   "hs6": "530129",
+   "hs6_description": "Flax; hackled or otherwise processed, but not spun",
    "level": 8,
    "chapter": "53",
    "description": "Flax, broken, scutched, hackled or otherwise processed, but not spun : -- Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "53013000",
+   "hs6": "530130",
+   "hs6_description": "Flax; tow and waste, including yarn waste and garnetted stock",
    "level": 8,
    "chapter": "53",
    "description": "Flax tow and waste",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "5302",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "53",
    "description": "True hemp (Cannabis sativa L.), raw or processed but not spun; tow and waste of true hemp (including yarn waste and garnetted stock).",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "53021000",
+   "hs6": "530210",
+   "hs6_description": "Hemp (cannabis sativa L.); raw or retted, but not spun",
    "level": 8,
    "chapter": "53",
    "description": "True hemp, raw or retted",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "53029000",
+   "hs6": "530290",
+   "hs6_description": "Hemp (cannabis sativa L.); processed (other than retted) (but not spun), true hemp tow and waste (including yarn waste and garnetted stock)",
    "level": 8,
    "chapter": "53",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "5303",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "53",
    "description": "Jute and other textile bast fibres (excluding flax, true hemp and ramie), raw or processed but not spun; tow and waste of these fibres (including yarn waste and garnetted stock).",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "530310",
+   "hs6": "530310",
+   "hs6_description": "Jute and other textile bast fibres; raw or retted, but not spun, (excluding flax, hemp (cannabis sativa L.), and ramie)",
    "level": 6,
    "chapter": "53",
    "description": "Jute and other textile bast fibres, raw or retted",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "53031010",
+   "hs6": "530310",
+   "hs6_description": "Jute and other textile bast fibres; raw or retted, but not spun, (excluding flax, hemp (cannabis sativa L.), and ramie)",
    "level": 8,
    "chapter": "53",
    "description": "Jute, raw or retted",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "53031090",
+   "hs6": "530310",
+   "hs6_description": "Jute and other textile bast fibres; raw or retted, but not spun, (excluding flax, hemp (cannabis sativa L.), and ramie)",
    "level": 8,
    "chapter": "53",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "530390",
+   "hs6": "530390",
+   "hs6_description": "Jute and other textile bast fibres; processed but not spun, tow and waste of these fibres, including yarn waste and garnetted stock (excluding flax, hemp (cannabis sativa L.), and ramie)",
    "level": 6,
    "chapter": "53",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "53039010",
+   "hs6": "530390",
+   "hs6_description": "Jute and other textile bast fibres; processed but not spun, tow and waste of these fibres, including yarn waste and garnetted stock (excluding flax, hemp (cannabis sativa L.), and ramie)",
    "level": 8,
    "chapter": "53",
    "description": "Jute cutting",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "53039090",
+   "hs6": "530390",
+   "hs6_description": "Jute and other textile bast fibres; processed but not spun, tow and waste of these fibres, including yarn waste and garnetted stock (excluding flax, hemp (cannabis sativa L.), and ramie)",
    "level": 8,
    "chapter": "53",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "5305",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "53",
    "description": "Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres, not elsewhere specified or included, raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock).",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "530500",
+   "hs6": "530500",
+   "hs6_description": "Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",
    "level": 6,
    "chapter": "53",
    "description": "Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres, not elsewhere specified or included, raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garneted stock):",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "53050010",
+   "hs6": "530500",
+   "hs6_description": "Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",
    "level": 8,
    "chapter": "53",
    "description": "Coir bristles fibre",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "53050030",
+   "hs6": "530500",
+   "hs6_description": "Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",
    "level": 8,
    "chapter": "53",
    "description": "Curled or machine twisted coir fibre",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "53050040",
+   "hs6": "530500",
+   "hs6_description": "Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",
    "level": 8,
    "chapter": "53",
    "description": "Coir pith",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "53050050",
+   "hs6": "530500",
+   "hs6_description": "Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",
    "level": 8,
    "chapter": "53",
    "description": "Of Abaca",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "53050090",
+   "hs6": "530500",
+   "hs6_description": "Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",
    "level": 8,
    "chapter": "53",
    "description": "Of others",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "5306",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "53",
    "description": "Flax yarn.",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "530610",
+   "hs6": "530610",
+   "hs6_description": "Yarn; of flax, single",
    "level": 6,
    "chapter": "53",
    "description": "Single",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "53061010",
+   "hs6": "530610",
+   "hs6_description": "Yarn; of flax, single",
    "level": 8,
    "chapter": "53",
    "description": "Put up for retail sale",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "53061090",
+   "hs6": "530610",
+   "hs6_description": "Yarn; of flax, single",
    "level": 8,
    "chapter": "53",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "530620",
+   "hs6": "530620",
+   "hs6_description": "Yarn; of flax, multiple (folded) or cabled",
    "level": 6,
    "chapter": "53",
    "description": "Multiple (folded) or cabled",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "53062010",
+   "hs6": "530620",
+   "hs6_description": "Yarn; of flax, multiple (folded) or cabled",
    "level": 8,
    "chapter": "53",
    "description": "Put up for retail sale",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "53062090",
+   "hs6": "530620",
+   "hs6_description": "Yarn; of flax, multiple (folded) or cabled",
    "level": 8,
    "chapter": "53",
    "description": "Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "5307",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "53",
    "description": "Yarn of jute or of other textile bast fibres of heading 53.03.",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "530710",
+   "hs6": "530710",
+   "hs6_description": "Yarn; of jute or of other textile bast fibres, single",
    "level": 6,
    "chapter": "53",
    "description": "Single",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "53071010",
+   "hs6": "530710",
+   "hs6_description": "Yarn; of jute or of other textile bast fibres, single",
    "level": 8,
    "chapter": "53",
    "description": "Of jute",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "53071090",
+   "hs6": "530710",
+   "hs6_description": "Yarn; of jute or of other textile bast fibres, single",
    "level": 8,
    "chapter": "53",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "53072000",
+   "hs6": "530720",
+   "hs6_description": "Yarn; of jute or of other textile bast fibres, multiple (folded) or cabled",
    "level": 8,
    "chapter": "53",
    "description": "Multiple (folded) or cabled",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "5308",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "53",
    "description": "Yarn of other vegetable textile fibres; paper yarn.",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "530810",
+   "hs6": "530810",
+   "hs6_description": "Yarn; of coir",
    "level": 6,
    "chapter": "53",
    "description": "Coir yarn",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "53081010",
+   "hs6": "530810",
+   "hs6_description": "Yarn; of coir",
    "level": 8,
    "chapter": "53",
    "description": "Baled",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "53081020",
+   "hs6": "530810",
+   "hs6_description": "Yarn; of coir",
    "level": 8,
    "chapter": "53",
    "description": "Spooled hanks",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "53081090",
+   "hs6": "530810",
+   "hs6_description": "Yarn; of coir",
    "level": 8,
    "chapter": "53",
    "description": "Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "53082000",
+   "hs6": "530820",
+   "hs6_description": "Yarn; of hemp (cannabis sativa L.)",
    "level": 8,
    "chapter": "53",
    "description": "True hemp yarn",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "530890",
+   "hs6": "530890",
+   "hs6_description": "Yarn; of vegetable textile fibres n.e.c. in heading no. 5306, 5307 and 5308",
    "level": 6,
    "chapter": "53",
    "description": "Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "53089010",
+   "hs6": "530890",
+   "hs6_description": "Yarn; of vegetable textile fibres n.e.c. in heading no. 5306, 5307 and 5308",
    "level": 8,
    "chapter": "53",
    "description": "Ramie yarn",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "53089090",
+   "hs6": "530890",
+   "hs6_description": "Yarn; of vegetable textile fibres n.e.c. in heading no. 5306, 5307 and 5308",
    "level": 8,
    "chapter": "53",
    "description": "Other",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "5309",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "53",
    "description": "Woven fabrics of flax.",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "530911",
+   "hs6": "530911",
+   "hs6_description": "Fabrics, woven; of flax, containing 85% or more flax, unbleached or bleached",
    "level": 6,
    "chapter": "53",
    "description": "Containing 85 percent or more by weight of flax : -- Unbleached or bleached",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "53091110",
+   "hs6": "530911",
+   "hs6_description": "Fabrics, woven; of flax, containing 85% or more flax, unbleached or bleached",
    "level": 8,
    "chapter": "53",
    "description": "Unbleached",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "53091120",
+   "hs6": "530911",
+   "hs6_description": "Fabrics, woven; of flax, containing 85% or more flax, unbleached or bleached",
    "level": 8,
    "chapter": "53",
    "description": "Bleached",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "530919",
+   "hs6": "530919",
+   "hs6_description": "Fabrics, woven; of flax, containing 85% or more flax, other than bleached or unbleached",
    "level": 6,
    "chapter": "53",
    "description": "Containing 85 percent or more by weight of flax : -- Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "53091910",
+   "hs6": "530919",
+   "hs6_description": "Fabrics, woven; of flax, containing 85% or more flax, other than bleached or unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Dyed",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "53091920",
+   "hs6": "530919",
+   "hs6_description": "Fabrics, woven; of flax, containing 85% or more flax, other than bleached or unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Printed",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "53091990",
+   "hs6": "530919",
+   "hs6_description": "Fabrics, woven; of flax, containing 85% or more flax, other than bleached or unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "530921",
+   "hs6": "530921",
+   "hs6_description": "Fabrics, woven; of flax, containing less than 85% flax, unbleached or bleached",
    "level": 6,
    "chapter": "53",
    "description": "Containing less than 85 percent by weight of flax : -- Unbleached or bleached",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "53092110",
+   "hs6": "530921",
+   "hs6_description": "Fabrics, woven; of flax, containing less than 85% flax, unbleached or bleached",
    "level": 8,
    "chapter": "53",
    "description": "Unbleached",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "53092120",
+   "hs6": "530921",
+   "hs6_description": "Fabrics, woven; of flax, containing less than 85% flax, unbleached or bleached",
    "level": 8,
    "chapter": "53",
    "description": "Bleached",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "530929",
+   "hs6": "530929",
+   "hs6_description": "Fabrics, woven; of flax, containing less than 85% flax, other than unbleached or bleached",
    "level": 6,
    "chapter": "53",
    "description": "Containing less than 85 percent by weight of flax : -- Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "53092910",
+   "hs6": "530929",
+   "hs6_description": "Fabrics, woven; of flax, containing less than 85% flax, other than unbleached or bleached",
    "level": 8,
    "chapter": "53",
    "description": "Dyed",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "53092920",
+   "hs6": "530929",
+   "hs6_description": "Fabrics, woven; of flax, containing less than 85% flax, other than unbleached or bleached",
    "level": 8,
    "chapter": "53",
    "description": "Printed",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "53092990",
+   "hs6": "530929",
+   "hs6_description": "Fabrics, woven; of flax, containing less than 85% flax, other than unbleached or bleached",
    "level": 8,
    "chapter": "53",
    "description": "Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "5310",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "53",
    "description": "Woven fabrics of jute or of other textile bast fibres of heading 53.03.",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "531010",
+   "hs6": "531010",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",
    "level": 6,
    "chapter": "53",
    "description": "Unbleached",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "53101011",
+   "hs6": "531010",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Containing 100percent by weight of jute: ---- Carpet backing fabrics",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "53101012",
+   "hs6": "531010",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Containing 100percent by weight of jute: ---- Sacking fabrics",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "53101013",
+   "hs6": "531010",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Containing 100percent by weight of jute: ---- Hessian fabrics",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "53101014",
+   "hs6": "531010",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Containing 100percent by weight of jute: ---- Jute canvas",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "53101019",
+   "hs6": "531010",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Containing 100percent by weight of jute: ---- Other",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "53101091",
+   "hs6": "531010",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Other: ---- Woven blended fabrics containing more than 50percent by weight of Jute",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "53101092",
+   "hs6": "531010",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Other: ---- Stranded woven fabrics of jute containing 50percent or more by weight jute",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "53101093",
+   "hs6": "531010",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Other: ---- Jute swim fabrics",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "53101099",
+   "hs6": "531010",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Other: ---- Other",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "531090",
+   "hs6": "531090",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",
    "level": 6,
    "chapter": "53",
    "description": "Other",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "53109010",
+   "hs6": "531090",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Bleached",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "53109020",
+   "hs6": "531090",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Decorative Fabrics",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "53109091",
+   "hs6": "531090",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Other: ---- Bleached",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "53109092",
+   "hs6": "531090",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Other: ---- Dyed",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "53109093",
+   "hs6": "531090",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Other: ---- Printed",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "53109099",
+   "hs6": "531090",
+   "hs6_description": "Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",
    "level": 8,
    "chapter": "53",
    "description": "Other: ---- Other",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "5311",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "53",
    "description": "Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn.",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "531100",
+   "hs6": "531100",
+   "hs6_description": "Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",
    "level": 6,
    "chapter": "53",
    "description": "Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn :",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "53110011",
+   "hs6": "531100",
+   "hs6_description": "Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",
    "level": 8,
    "chapter": "53",
    "description": "Of other vegetable textile fibres: ---- Unbleached",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "53110012",
+   "hs6": "531100",
+   "hs6_description": "Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",
    "level": 8,
    "chapter": "53",
    "description": "Of other vegetable textile fibres: ---- Bleached",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "53110013",
+   "hs6": "531100",
+   "hs6_description": "Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",
    "level": 8,
    "chapter": "53",
    "description": "Of other vegetable textile fibres: ---- Dyed",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "53110014",
+   "hs6": "531100",
+   "hs6_description": "Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",
    "level": 8,
    "chapter": "53",
    "description": "Of other vegetable textile fibres: ---- Printed",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "53110015",
+   "hs6": "531100",
+   "hs6_description": "Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",
    "level": 8,
    "chapter": "53",
    "description": "Of other vegetable textile fibres: ---- of coir including log form and geotextiles",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "53110019",
+   "hs6": "531100",
+   "hs6_description": "Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",
    "level": 8,
    "chapter": "53",
    "description": "Of other vegetable textile fibres: ---- Other",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "53110021",
+   "hs6": "531100",
+   "hs6_description": "Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",
    "level": 8,
    "chapter": "53",
    "description": "Of paper yarn: ---- Unbleached",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "53110022",
+   "hs6": "531100",
+   "hs6_description": "Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",
    "level": 8,
    "chapter": "53",
    "description": "Of paper yarn: ---- Bleached",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "53110023",
+   "hs6": "531100",
+   "hs6_description": "Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",
    "level": 8,
    "chapter": "53",
    "description": "Of paper yarn: ---- Dyed",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "53110024",
+   "hs6": "531100",
+   "hs6_description": "Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",
    "level": 8,
    "chapter": "53",
    "description": "Of paper yarn: ---- Printed",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "53110029",
+   "hs6": "531100",
+   "hs6_description": "Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",
    "level": 8,
    "chapter": "53",
    "description": "Of paper yarn: ---- Other",

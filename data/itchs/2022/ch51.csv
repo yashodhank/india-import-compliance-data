@@ -1,143 +1,143 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-5101,4,51,"Wool, not carded or combed.",,,,,,2026-10-22
-51011100,8,51,"Greasy, including fleece-washed wool : -- Shorn wool",Free,,,,,2026-10-22
-51011900,8,51,"Greasy, including fleece-washed wool : -- Other",Free,,,,,2026-10-22
-51012100,8,51,"Degreased, not carbonised : -- Shorn wool",Free,,,,,2026-10-22
-51012900,8,51,"Degreased, not carbonised : -- Other",Free,,,,,2026-10-22
-51013000,8,51,Carbonised,Free,,,,,2026-10-22
-5102,4,51,"Fine or coarse animal hair, not carded or combed.",,,,,,2026-10-22
-510211,6,51,Fine animal hair : -- Of Kashmir (cashmere) goats,,,,,,2026-10-22
-51021110,8,51,Marine Angora,Free,,,,,2026-10-22
-51021190,8,51,Other,Free,,,,,2026-10-22
-510219,6,51,Fine animal hair : -- Other,,,,,,2026-10-22
-51021910,8,51,Marine Angora,Free,,,,,2026-10-22
-51021990,8,51,Other,Free,,,,,2026-10-22
-510220,6,51,Coarse animal hair,,,,,,2026-10-22
-51022010,8,51,Goat hair (other than Angora),Free,,,,,2026-10-22
-51022090,8,51,Other (excluding pig and boar bristles),Free,,,,,2026-10-22
-5103,4,51,"Waste of wool or of fine or coarse animal hair, including yarn waste but excluding garnetted stock.",,,,,,2026-10-22
-510310,6,51,Noils of wool or of fine animal hair,,,,,,2026-10-22
-51031010,8,51,Noils of wool,Free,,,,,2026-10-22
-51031090,8,51,Other,Free,,,,,2026-10-22
-510320,6,51,Other waste of wool or of fine animal hair,,,,,,2026-10-22
-51032010,8,51,Waste of sheeps and lambs wool,Free,,,,,2026-10-22
-51032020,8,51,Yarn waste,Free,,,,,2026-10-22
-51032090,8,51,Other,Free,,,,,2026-10-22
-51033000,8,51,Waste of coarse animal hair,Free,,,,,2026-10-22
-5104,4,51,Garnetted stock of wool or of fine or coarse animal hair.,,,,,,2026-10-22
-510400,6,51,Garnetted stock of wool or of fine or coarse animal hair :,,,,,,2026-10-22
-51040010,8,51,Shoddy wool,Free,,,,,2026-10-22
-51040090,8,51,Other,Free,,,,,2026-10-22
-5105,4,51,"Wool and fine or coarse animal hair, carded or combed (including combed wool in fragments).",,,,,,2026-10-22
-51051000,8,51,Carded wool,Free,,,,,2026-10-22
-51052100,8,51,Wool tops and other combed wool : -- Combed wool in fragments,Free,,,,,2026-10-22
-510529,6,51,Wool tops and other combed wool : -- Other,,,,,,2026-10-22
-51052910,8,51,Wool tops,Free,,,,,2026-10-22
-51052990,8,51,Othe,Free,,,,,2026-10-22
-51053100,8,51,"Fine animal hair, carded or combed : -- Of Kashmir (cashmere) goats",Free,,,,,2026-10-22
-51053900,8,51,"Fine animal hair, carded or combed : -- Other",Free,,,,,2026-10-22
-51054000,8,51,"Coarse animal hair, carded or combed",Free,,,,,2026-10-22
-5106,4,51,"Yarn of carded wool, not put up for retail sale.",,,,,,2026-10-22
-510610,6,51,Containing 85 percent or more by weight of wool,,,,,,2026-10-22
-51061010,8,51,Shoddy woollen yarn,Free,,,,,2026-10-22
-51061020,8,51,Mungo woollen yarn,Free,,,,,2026-10-22
-51061090,8,51,Other,Free,,,,,2026-10-22
-510620,6,51,Containing less than 85 percent by weight of wool,,,,,,2026-10-22
-51062010,8,51,Shoddy woollen yarn,Free,,,,,2026-10-22
-51062020,8,51,Mungo woollen yarn,Free,,,,,2026-10-22
-51062090,8,51,Other,Free,,,,,2026-10-22
-5107,4,51,"Yarn of combed wool, not put up for retail sale.",,,,,,2026-10-22
-510710,6,51,Containing 85 percent or more by weight of wool,,,,,,2026-10-22
-51071010,8,51,Worsted hosiery yarn,Free,,,,,2026-10-22
-51071020,8,51,Worsted knitted yarn,Free,,,,,2026-10-22
-51071030,8,51,Worsted weaving yarn,Free,,,,,2026-10-22
-51071040,8,51,Woollen carpet yarn,Free,,,,,2026-10-22
-51071090,8,51,Other,Free,,,,,2026-10-22
-510720,6,51,Containing less than 85 percent by weight of wool,,,,,,2026-10-22
-51072010,8,51,Worsted hosiery yarn,Free,,,,,2026-10-22
-51072020,8,51,Worsted knitted yarn,Free,,,,,2026-10-22
-51072030,8,51,Worsted weaving yarn,Free,,,,,2026-10-22
-51072040,8,51,Woollen carpet yarn,Free,,,,,2026-10-22
-51072090,8,51,Other,Free,,,,,2026-10-22
-5108,4,51,"Yarn of fine animal hair (carded or combed), not put up for retail sale.",,,,,,2026-10-22
-51081000,8,51,Carded,Free,,,,,2026-10-22
-51082000,8,51,Combed,Free,,,,,2026-10-22
-5109,4,51,"Yarn of wool or of fine animal hair, put up for retail sale.",,,,,,2026-10-22
-510910,6,51,Containing 85 percent or more by weight of wool or of fine animal hair,,,,,,2026-10-22
-51091010,8,51,Hoisery wool,Free,,,,,2026-10-22
-51091090,8,51,Other,Free,,,,,2026-10-22
-51099000,8,51,Other,Free,,,,,2026-10-22
-5110,4,51,"Yarn of coarse animal hair or of horsehair (including gimped horsehair yarn), whether or not put up for retail sale.",,,,,,2026-10-22
-511000,6,51,"Yarn of coarse animal hair or of horsehair (including gimped horsehair yarn), whether or not put up for retail sale :",,,,,,2026-10-22
-51100010,8,51,Put up for retail sale,Free,,,,,2026-10-22
-51100020,8,51,Other,Free,,,,,2026-10-22
-5111,4,51,Woven fabrics of carded wool or of carded fine animal hair.,,,,,,2026-10-22
-511111,6,51,Containing 85 percent or more by weight of wool or of fine animal hair : -- Of a weight not exceeding 300 g/m²,,,,,,2026-10-22
-51111110,8,51,Unbleached,Free,,,,,2026-10-22
-51111120,8,51,Bleached,Free,,,,,2026-10-22
-51111130,8,51,Dyed,Free,,,,,2026-10-22
-51111140,8,51,Printed,Free,,,,,2026-10-22
-51111190,8,51,Other,Free,,,,,2026-10-22
-511119,6,51,Containing 85 percent or more by weight of wool or of fine animal hair : -- Other,,,,,,2026-10-22
-51111910,8,51,Unbleached,Free,,,,,2026-10-22
-51111920,8,51,Bleached,Free,,,,,2026-10-22
-51111930,8,51,Dyed,Free,,,,,2026-10-22
-51111940,8,51,Printed,Free,,,,,2026-10-22
-51111990,8,51,Other,Free,,,,,2026-10-22
-511120,6,51,"Other, mixed mainly or solely with man-made filaments",,,,,,2026-10-22
-51112010,8,51,Unbleached,Free,,,,,2026-10-22
-51112020,8,51,Bleached,Free,,,,,2026-10-22
-51112030,8,51,Dyed,Free,,,,,2026-10-22
-51112040,8,51,Printed,Free,,,,,2026-10-22
-51112090,8,51,Other,Free,,,,,2026-10-22
-511130,6,51,"Other, mixed mainly or solely with man-made staple fibres",,,,,,2026-10-22
-51113010,8,51,Unbleached,Free,,,,,2026-10-22
-51113020,8,51,Bleached,Free,,,,,2026-10-22
-51113030,8,51,Dyed,Free,,,,,2026-10-22
-51113040,8,51,Printed,Free,,,,,2026-10-22
-51113090,8,51,Other,Free,,,,,2026-10-22
-511190,6,51,Other,,,,,,2026-10-22
-51119010,8,51,Unbleached,Free,,,,,2026-10-22
-51119020,8,51,Bleached,Free,,,,,2026-10-22
-51119030,8,51,Dyed,Free,,,,,2026-10-22
-51119040,8,51,Printed,Free,,,,,2026-10-22
-51119090,8,51,Other,Free,,,,,2026-10-22
-5112,4,51,Woven fabrics of combed wool or of combed fine animal hair.,,,,,,2026-10-22
-511211,6,51,Containing 85 percent or more by weight of wool or of fine animal hair : -- Of a weight not exceeding 200 g/m²,,,,,,2026-10-22
-51121110,8,51,Unbleached,Free,,,,,2026-10-22
-51121120,8,51,Bleached,Free,,,,,2026-10-22
-51121130,8,51,Dyed,Free,,,,,2026-10-22
-51121140,8,51,Printed,Free,,,,,2026-10-22
-51121190,8,51,Other,Free,,,,,2026-10-22
-511219,6,51,Containing 85 percent or more by weight of wool or of fine animal hair : -- Other,,,,,,2026-10-22
-51121910,8,51,Unbleached,Free,,,,,2026-10-22
-51121920,8,51,Bleached,Free,,,,,2026-10-22
-51121930,8,51,Dyed,Free,,,,,2026-10-22
-51121940,8,51,Printed,Free,,,,,2026-10-22
-51121990,8,51,Other,Free,,,,,2026-10-22
-511220,6,51,"Other, mixed mainly or solely with man-made filaments",,,,,,2026-10-22
-51122010,8,51,Unbleached,Free,,,,,2026-10-22
-51122020,8,51,Bleached,Free,,,,,2026-10-22
-51122030,8,51,Dyed,Free,,,,,2026-10-22
-51122040,8,51,Printed,Free,,,,,2026-10-22
-51122090,8,51,Other,Free,,,,,2026-10-22
-511230,6,51,"Other, mixed mainly or solely with man-made staple fibres",,,,,,2026-10-22
-51123010,8,51,Unbleached,Free,,,,,2026-10-22
-51123020,8,51,Bleached,Free,,,,,2026-10-22
-51123030,8,51,Dyed,Free,,,,,2026-10-22
-51123040,8,51,Printed,Free,,,,,2026-10-22
-51123090,8,51,Other,Free,,,,,2026-10-22
-511290,6,51,Other,,,,,,2026-10-22
-51129010,8,51,Unbleached,Free,,,,,2026-10-22
-51129020,8,51,Bleached,Free,,,,,2026-10-22
-51129030,8,51,Dyed,Free,,,,,2026-10-22
-51129040,8,51,Printed,Free,,,,,2026-10-22
-51129050,8,51,of Handloom,Free,,,,,2026-10-22
-51129090,8,51,Other,Free,,,,,2026-10-22
-5113,4,51,Woven fabrics of coarse animal hair or of horsehair.,,,,,,2026-10-22
-511300,6,51,Woven fabrics of coarse animal hair or of horse hair :,,,,,,2026-10-22
-51130010,8,51,Unbleached,Free,,,,,2026-10-22
-51130020,8,51,Bleached,Free,,,,,2026-10-22
-51130030,8,51,Dyed,Free,,,,,2026-10-22
-51130040,8,51,Printed,Free,,,,,2026-10-22
-51130090,8,51,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+5101,,,4,51,"Wool, not carded or combed.",,,,,,2026-10-22
+51011100,510111,"Wool; (not carded or combed), greasy (including fleece-washed wool), shorn",8,51,"Greasy, including fleece-washed wool : -- Shorn wool",Free,,,,,2026-10-22
+51011900,510119,"Wool; (other than shorn), greasy (including fleece-washed wool), not carded or combed",8,51,"Greasy, including fleece-washed wool : -- Other",Free,,,,,2026-10-22
+51012100,510121,"Wool; (not carded or combed), degreased, (not carbonised), shorn",8,51,"Degreased, not carbonised : -- Shorn wool",Free,,,,,2026-10-22
+51012900,510129,"Wool; (not carded or combed), degreased, (not carbonised), (other than shorn)",8,51,"Degreased, not carbonised : -- Other",Free,,,,,2026-10-22
+51013000,510130,"Wool; (not carded or combed), carbonised",8,51,Carbonised,Free,,,,,2026-10-22
+5102,,,4,51,"Fine or coarse animal hair, not carded or combed.",,,,,,2026-10-22
+510211,510211,"Hair; fine animal hair, not carded or combed, of kashmir (cashmere) goats",6,51,Fine animal hair : -- Of Kashmir (cashmere) goats,,,,,,2026-10-22
+51021110,510211,"Hair; fine animal hair, not carded or combed, of kashmir (cashmere) goats",8,51,Marine Angora,Free,,,,,2026-10-22
+51021190,510211,"Hair; fine animal hair, not carded or combed, of kashmir (cashmere) goats",8,51,Other,Free,,,,,2026-10-22
+510219,510219,"Hair; fine animal hair, not carded or combed, other than of kashmir (cashmere) goats",6,51,Fine animal hair : -- Other,,,,,,2026-10-22
+51021910,510219,"Hair; fine animal hair, not carded or combed, other than of kashmir (cashmere) goats",8,51,Marine Angora,Free,,,,,2026-10-22
+51021990,510219,"Hair; fine animal hair, not carded or combed, other than of kashmir (cashmere) goats",8,51,Other,Free,,,,,2026-10-22
+510220,510220,"Hair; coarse animal hair, not carded or combed",6,51,Coarse animal hair,,,,,,2026-10-22
+51022010,510220,"Hair; coarse animal hair, not carded or combed",8,51,Goat hair (other than Angora),Free,,,,,2026-10-22
+51022090,510220,"Hair; coarse animal hair, not carded or combed",8,51,Other (excluding pig and boar bristles),Free,,,,,2026-10-22
+5103,,,4,51,"Waste of wool or of fine or coarse animal hair, including yarn waste but excluding garnetted stock.",,,,,,2026-10-22
+510310,510310,"Wool and hair; noils of wool or of fine animal hair, including yarn waste, but excluding garnetted stock",6,51,Noils of wool or of fine animal hair,,,,,,2026-10-22
+51031010,510310,"Wool and hair; noils of wool or of fine animal hair, including yarn waste, but excluding garnetted stock",8,51,Noils of wool,Free,,,,,2026-10-22
+51031090,510310,"Wool and hair; noils of wool or of fine animal hair, including yarn waste, but excluding garnetted stock",8,51,Other,Free,,,,,2026-10-22
+510320,510320,"Wool and hair; waste of wool or of fine animal hair, including yarn waste, but excluding garnetted stock and noils of wool or of fine animal hair",6,51,Other waste of wool or of fine animal hair,,,,,,2026-10-22
+51032010,510320,"Wool and hair; waste of wool or of fine animal hair, including yarn waste, but excluding garnetted stock and noils of wool or of fine animal hair",8,51,Waste of sheeps and lambs wool,Free,,,,,2026-10-22
+51032020,510320,"Wool and hair; waste of wool or of fine animal hair, including yarn waste, but excluding garnetted stock and noils of wool or of fine animal hair",8,51,Yarn waste,Free,,,,,2026-10-22
+51032090,510320,"Wool and hair; waste of wool or of fine animal hair, including yarn waste, but excluding garnetted stock and noils of wool or of fine animal hair",8,51,Other,Free,,,,,2026-10-22
+51033000,510330,"Wool and hair; waste of coarse animal hair, including yarn waste, but excluding garnetted stock",8,51,Waste of coarse animal hair,Free,,,,,2026-10-22
+5104,,,4,51,Garnetted stock of wool or of fine or coarse animal hair.,,,,,,2026-10-22
+510400,510400,Wool and hair; garnetted stock of wool or of fine or coarse animal hair,6,51,Garnetted stock of wool or of fine or coarse animal hair :,,,,,,2026-10-22
+51040010,510400,Wool and hair; garnetted stock of wool or of fine or coarse animal hair,8,51,Shoddy wool,Free,,,,,2026-10-22
+51040090,510400,Wool and hair; garnetted stock of wool or of fine or coarse animal hair,8,51,Other,Free,,,,,2026-10-22
+5105,,,4,51,"Wool and fine or coarse animal hair, carded or combed (including combed wool in fragments).",,,,,,2026-10-22
+51051000,510510,Wool; carded,8,51,Carded wool,Free,,,,,2026-10-22
+51052100,510521,"Wool; wool tops and other combed wool, in fragments",8,51,Wool tops and other combed wool : -- Combed wool in fragments,Free,,,,,2026-10-22
+510529,510529,"Wool; wool tops and other combed wool, other than in fragments",6,51,Wool tops and other combed wool : -- Other,,,,,,2026-10-22
+51052910,510529,"Wool; wool tops and other combed wool, other than in fragments",8,51,Wool tops,Free,,,,,2026-10-22
+51052990,510529,"Wool; wool tops and other combed wool, other than in fragments",8,51,Othe,Free,,,,,2026-10-22
+51053100,510531,"Hair; fine animal hair, carded or combed, of kashmir (cashmere) goats",8,51,"Fine animal hair, carded or combed : -- Of Kashmir (cashmere) goats",Free,,,,,2026-10-22
+51053900,510539,"Hair; fine animal hair, carded or combed, other than of kashmir (cashmere) goats",8,51,"Fine animal hair, carded or combed : -- Other",Free,,,,,2026-10-22
+51054000,510540,"Hair; coarse animal hair, carded or combed",8,51,"Coarse animal hair, carded or combed",Free,,,,,2026-10-22
+5106,,,4,51,"Yarn of carded wool, not put up for retail sale.",,,,,,2026-10-22
+510610,510610,"Yarn; of carded wool, containing 85% or more by weight of wool, not put up for retail sale",6,51,Containing 85 percent or more by weight of wool,,,,,,2026-10-22
+51061010,510610,"Yarn; of carded wool, containing 85% or more by weight of wool, not put up for retail sale",8,51,Shoddy woollen yarn,Free,,,,,2026-10-22
+51061020,510610,"Yarn; of carded wool, containing 85% or more by weight of wool, not put up for retail sale",8,51,Mungo woollen yarn,Free,,,,,2026-10-22
+51061090,510610,"Yarn; of carded wool, containing 85% or more by weight of wool, not put up for retail sale",8,51,Other,Free,,,,,2026-10-22
+510620,510620,"Yarn; of carded wool, containing less than 85% by weight of wool, not put up for retail sale",6,51,Containing less than 85 percent by weight of wool,,,,,,2026-10-22
+51062010,510620,"Yarn; of carded wool, containing less than 85% by weight of wool, not put up for retail sale",8,51,Shoddy woollen yarn,Free,,,,,2026-10-22
+51062020,510620,"Yarn; of carded wool, containing less than 85% by weight of wool, not put up for retail sale",8,51,Mungo woollen yarn,Free,,,,,2026-10-22
+51062090,510620,"Yarn; of carded wool, containing less than 85% by weight of wool, not put up for retail sale",8,51,Other,Free,,,,,2026-10-22
+5107,,,4,51,"Yarn of combed wool, not put up for retail sale.",,,,,,2026-10-22
+510710,510710,"Yarn; of combed wool, containing 85% or more by weight of wool, not put up for retail sale",6,51,Containing 85 percent or more by weight of wool,,,,,,2026-10-22
+51071010,510710,"Yarn; of combed wool, containing 85% or more by weight of wool, not put up for retail sale",8,51,Worsted hosiery yarn,Free,,,,,2026-10-22
+51071020,510710,"Yarn; of combed wool, containing 85% or more by weight of wool, not put up for retail sale",8,51,Worsted knitted yarn,Free,,,,,2026-10-22
+51071030,510710,"Yarn; of combed wool, containing 85% or more by weight of wool, not put up for retail sale",8,51,Worsted weaving yarn,Free,,,,,2026-10-22
+51071040,510710,"Yarn; of combed wool, containing 85% or more by weight of wool, not put up for retail sale",8,51,Woollen carpet yarn,Free,,,,,2026-10-22
+51071090,510710,"Yarn; of combed wool, containing 85% or more by weight of wool, not put up for retail sale",8,51,Other,Free,,,,,2026-10-22
+510720,510720,"Yarn; of combed wool, containing less than 85% by weight of wool, not put up for retail sale",6,51,Containing less than 85 percent by weight of wool,,,,,,2026-10-22
+51072010,510720,"Yarn; of combed wool, containing less than 85% by weight of wool, not put up for retail sale",8,51,Worsted hosiery yarn,Free,,,,,2026-10-22
+51072020,510720,"Yarn; of combed wool, containing less than 85% by weight of wool, not put up for retail sale",8,51,Worsted knitted yarn,Free,,,,,2026-10-22
+51072030,510720,"Yarn; of combed wool, containing less than 85% by weight of wool, not put up for retail sale",8,51,Worsted weaving yarn,Free,,,,,2026-10-22
+51072040,510720,"Yarn; of combed wool, containing less than 85% by weight of wool, not put up for retail sale",8,51,Woollen carpet yarn,Free,,,,,2026-10-22
+51072090,510720,"Yarn; of combed wool, containing less than 85% by weight of wool, not put up for retail sale",8,51,Other,Free,,,,,2026-10-22
+5108,,,4,51,"Yarn of fine animal hair (carded or combed), not put up for retail sale.",,,,,,2026-10-22
+51081000,510810,"Yarn; of fine animal hair, carded, not put up for retail sale",8,51,Carded,Free,,,,,2026-10-22
+51082000,510820,"Yarn; of fine animal hair, combed, not put up for retail sale",8,51,Combed,Free,,,,,2026-10-22
+5109,,,4,51,"Yarn of wool or of fine animal hair, put up for retail sale.",,,,,,2026-10-22
+510910,510910,"Yarn; of wool or of fine animal hair, containing 85% or more by weight of wool or fine animal hair, put up for retail sale",6,51,Containing 85 percent or more by weight of wool or of fine animal hair,,,,,,2026-10-22
+51091010,510910,"Yarn; of wool or of fine animal hair, containing 85% or more by weight of wool or fine animal hair, put up for retail sale",8,51,Hoisery wool,Free,,,,,2026-10-22
+51091090,510910,"Yarn; of wool or of fine animal hair, containing 85% or more by weight of wool or fine animal hair, put up for retail sale",8,51,Other,Free,,,,,2026-10-22
+51099000,510990,"Yarn; of wool or of fine animal hair, containing less than 85% by weight of wool or fine animal hair, put up for retail sale",8,51,Other,Free,,,,,2026-10-22
+5110,,,4,51,"Yarn of coarse animal hair or of horsehair (including gimped horsehair yarn), whether or not put up for retail sale.",,,,,,2026-10-22
+511000,511000,"Yarn; of coarse animal hair or of horsehair (including gimped horsehair yarn), whether or not put up for retail sale",6,51,"Yarn of coarse animal hair or of horsehair (including gimped horsehair yarn), whether or not put up for retail sale :",,,,,,2026-10-22
+51100010,511000,"Yarn; of coarse animal hair or of horsehair (including gimped horsehair yarn), whether or not put up for retail sale",8,51,Put up for retail sale,Free,,,,,2026-10-22
+51100020,511000,"Yarn; of coarse animal hair or of horsehair (including gimped horsehair yarn), whether or not put up for retail sale",8,51,Other,Free,,,,,2026-10-22
+5111,,,4,51,Woven fabrics of carded wool or of carded fine animal hair.,,,,,,2026-10-22
+511111,511111,"Fabrics, woven; of carded wool or of carded fine animal hair, containing 85% or more by weight of wool or of fine animal hair, of a weight not exceeding 300g/m2",6,51,Containing 85 percent or more by weight of wool or of fine animal hair : -- Of a weight not exceeding 300 g/m²,,,,,,2026-10-22
+51111110,511111,"Fabrics, woven; of carded wool or of carded fine animal hair, containing 85% or more by weight of wool or of fine animal hair, of a weight not exceeding 300g/m2",8,51,Unbleached,Free,,,,,2026-10-22
+51111120,511111,"Fabrics, woven; of carded wool or of carded fine animal hair, containing 85% or more by weight of wool or of fine animal hair, of a weight not exceeding 300g/m2",8,51,Bleached,Free,,,,,2026-10-22
+51111130,511111,"Fabrics, woven; of carded wool or of carded fine animal hair, containing 85% or more by weight of wool or of fine animal hair, of a weight not exceeding 300g/m2",8,51,Dyed,Free,,,,,2026-10-22
+51111140,511111,"Fabrics, woven; of carded wool or of carded fine animal hair, containing 85% or more by weight of wool or of fine animal hair, of a weight not exceeding 300g/m2",8,51,Printed,Free,,,,,2026-10-22
+51111190,511111,"Fabrics, woven; of carded wool or of carded fine animal hair, containing 85% or more by weight of wool or of fine animal hair, of a weight not exceeding 300g/m2",8,51,Other,Free,,,,,2026-10-22
+511119,511119,"Fabrics, woven; of carded wool or of carded fine animal hair, containing 85% or more by weight of wool or of fine animal hair, of a weight exceeding 300g/m2",6,51,Containing 85 percent or more by weight of wool or of fine animal hair : -- Other,,,,,,2026-10-22
+51111910,511119,"Fabrics, woven; of carded wool or of carded fine animal hair, containing 85% or more by weight of wool or of fine animal hair, of a weight exceeding 300g/m2",8,51,Unbleached,Free,,,,,2026-10-22
+51111920,511119,"Fabrics, woven; of carded wool or of carded fine animal hair, containing 85% or more by weight of wool or of fine animal hair, of a weight exceeding 300g/m2",8,51,Bleached,Free,,,,,2026-10-22
+51111930,511119,"Fabrics, woven; of carded wool or of carded fine animal hair, containing 85% or more by weight of wool or of fine animal hair, of a weight exceeding 300g/m2",8,51,Dyed,Free,,,,,2026-10-22
+51111940,511119,"Fabrics, woven; of carded wool or of carded fine animal hair, containing 85% or more by weight of wool or of fine animal hair, of a weight exceeding 300g/m2",8,51,Printed,Free,,,,,2026-10-22
+51111990,511119,"Fabrics, woven; of carded wool or of carded fine animal hair, containing 85% or more by weight of wool or of fine animal hair, of a weight exceeding 300g/m2",8,51,Other,Free,,,,,2026-10-22
+511120,511120,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made filaments",6,51,"Other, mixed mainly or solely with man-made filaments",,,,,,2026-10-22
+51112010,511120,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made filaments",8,51,Unbleached,Free,,,,,2026-10-22
+51112020,511120,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made filaments",8,51,Bleached,Free,,,,,2026-10-22
+51112030,511120,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made filaments",8,51,Dyed,Free,,,,,2026-10-22
+51112040,511120,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made filaments",8,51,Printed,Free,,,,,2026-10-22
+51112090,511120,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made filaments",8,51,Other,Free,,,,,2026-10-22
+511130,511130,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made staple fibres",6,51,"Other, mixed mainly or solely with man-made staple fibres",,,,,,2026-10-22
+51113010,511130,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made staple fibres",8,51,Unbleached,Free,,,,,2026-10-22
+51113020,511130,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made staple fibres",8,51,Bleached,Free,,,,,2026-10-22
+51113030,511130,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made staple fibres",8,51,Dyed,Free,,,,,2026-10-22
+51113040,511130,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made staple fibres",8,51,Printed,Free,,,,,2026-10-22
+51113090,511130,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made staple fibres",8,51,Other,Free,,,,,2026-10-22
+511190,511190,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5111",6,51,Other,,,,,,2026-10-22
+51119010,511190,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5111",8,51,Unbleached,Free,,,,,2026-10-22
+51119020,511190,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5111",8,51,Bleached,Free,,,,,2026-10-22
+51119030,511190,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5111",8,51,Dyed,Free,,,,,2026-10-22
+51119040,511190,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5111",8,51,Printed,Free,,,,,2026-10-22
+51119090,511190,"Fabrics, woven; of carded wool or carded fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5111",8,51,Other,Free,,,,,2026-10-22
+5112,,,4,51,Woven fabrics of combed wool or of combed fine animal hair.,,,,,,2026-10-22
+511211,511211,"Fabrics, woven; of combed wool or combed fine animal hair, containing 85% or more by weight of wool or fine animal hair, of a weight not exceeding 200g/m2",6,51,Containing 85 percent or more by weight of wool or of fine animal hair : -- Of a weight not exceeding 200 g/m²,,,,,,2026-10-22
+51121110,511211,"Fabrics, woven; of combed wool or combed fine animal hair, containing 85% or more by weight of wool or fine animal hair, of a weight not exceeding 200g/m2",8,51,Unbleached,Free,,,,,2026-10-22
+51121120,511211,"Fabrics, woven; of combed wool or combed fine animal hair, containing 85% or more by weight of wool or fine animal hair, of a weight not exceeding 200g/m2",8,51,Bleached,Free,,,,,2026-10-22
+51121130,511211,"Fabrics, woven; of combed wool or combed fine animal hair, containing 85% or more by weight of wool or fine animal hair, of a weight not exceeding 200g/m2",8,51,Dyed,Free,,,,,2026-10-22
+51121140,511211,"Fabrics, woven; of combed wool or combed fine animal hair, containing 85% or more by weight of wool or fine animal hair, of a weight not exceeding 200g/m2",8,51,Printed,Free,,,,,2026-10-22
+51121190,511211,"Fabrics, woven; of combed wool or combed fine animal hair, containing 85% or more by weight of wool or fine animal hair, of a weight not exceeding 200g/m2",8,51,Other,Free,,,,,2026-10-22
+511219,511219,"Fabrics, woven; of combed wool or combed fine animal hair, containing 85% or more by weight of wool or fine animal hair, of a weight exceeding 200g/m2",6,51,Containing 85 percent or more by weight of wool or of fine animal hair : -- Other,,,,,,2026-10-22
+51121910,511219,"Fabrics, woven; of combed wool or combed fine animal hair, containing 85% or more by weight of wool or fine animal hair, of a weight exceeding 200g/m2",8,51,Unbleached,Free,,,,,2026-10-22
+51121920,511219,"Fabrics, woven; of combed wool or combed fine animal hair, containing 85% or more by weight of wool or fine animal hair, of a weight exceeding 200g/m2",8,51,Bleached,Free,,,,,2026-10-22
+51121930,511219,"Fabrics, woven; of combed wool or combed fine animal hair, containing 85% or more by weight of wool or fine animal hair, of a weight exceeding 200g/m2",8,51,Dyed,Free,,,,,2026-10-22
+51121940,511219,"Fabrics, woven; of combed wool or combed fine animal hair, containing 85% or more by weight of wool or fine animal hair, of a weight exceeding 200g/m2",8,51,Printed,Free,,,,,2026-10-22
+51121990,511219,"Fabrics, woven; of combed wool or combed fine animal hair, containing 85% or more by weight of wool or fine animal hair, of a weight exceeding 200g/m2",8,51,Other,Free,,,,,2026-10-22
+511220,511220,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made filaments",6,51,"Other, mixed mainly or solely with man-made filaments",,,,,,2026-10-22
+51122010,511220,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made filaments",8,51,Unbleached,Free,,,,,2026-10-22
+51122020,511220,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made filaments",8,51,Bleached,Free,,,,,2026-10-22
+51122030,511220,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made filaments",8,51,Dyed,Free,,,,,2026-10-22
+51122040,511220,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made filaments",8,51,Printed,Free,,,,,2026-10-22
+51122090,511220,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made filaments",8,51,Other,Free,,,,,2026-10-22
+511230,511230,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made staple fibres",6,51,"Other, mixed mainly or solely with man-made staple fibres",,,,,,2026-10-22
+51123010,511230,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made staple fibres",8,51,Unbleached,Free,,,,,2026-10-22
+51123020,511230,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made staple fibres",8,51,Bleached,Free,,,,,2026-10-22
+51123030,511230,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made staple fibres",8,51,Dyed,Free,,,,,2026-10-22
+51123040,511230,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made staple fibres",8,51,Printed,Free,,,,,2026-10-22
+51123090,511230,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with man-made staple fibres",8,51,Other,Free,,,,,2026-10-22
+511290,511290,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5112",6,51,Other,,,,,,2026-10-22
+51129010,511290,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5112",8,51,Unbleached,Free,,,,,2026-10-22
+51129020,511290,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5112",8,51,Bleached,Free,,,,,2026-10-22
+51129030,511290,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5112",8,51,Dyed,Free,,,,,2026-10-22
+51129040,511290,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5112",8,51,Printed,Free,,,,,2026-10-22
+51129050,511290,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5112",8,51,of Handloom,Free,,,,,2026-10-22
+51129090,511290,"Fabrics, woven; of combed wool or combed fine animal hair, containing less than 85% by weight of wool or fine animal hair, mixed mainly or solely with fibres n.e.c. in heading no. 5112",8,51,Other,Free,,,,,2026-10-22
+5113,,,4,51,Woven fabrics of coarse animal hair or of horsehair.,,,,,,2026-10-22
+511300,511300,"Fabrics, woven; of coarse animal hair or of horsehair",6,51,Woven fabrics of coarse animal hair or of horse hair :,,,,,,2026-10-22
+51130010,511300,"Fabrics, woven; of coarse animal hair or of horsehair",8,51,Unbleached,Free,,,,,2026-10-22
+51130020,511300,"Fabrics, woven; of coarse animal hair or of horsehair",8,51,Bleached,Free,,,,,2026-10-22
+51130030,511300,"Fabrics, woven; of coarse animal hair or of horsehair",8,51,Dyed,Free,,,,,2026-10-22
+51130040,511300,"Fabrics, woven; of coarse animal hair or of horsehair",8,51,Printed,Free,,,,,2026-10-22
+51130090,511300,"Fabrics, woven; of coarse animal hair or of horsehair",8,51,Other,Free,,,,,2026-10-22

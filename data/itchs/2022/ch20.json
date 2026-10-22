@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "2001",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "20",
    "description": "Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "20011000",
+   "hs6": "200110",
+   "hs6_description": "Vegetable preparations; cucumbers and gherkins, prepared or preserved by vinegar or acetic acid",
    "level": 8,
    "chapter": "20",
    "description": "Cucumbers and gherkins",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "20019000",
+   "hs6": "200190",
+   "hs6_description": "Vegetable preparations; vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid (excluding cucumbers and gherkins)",
    "level": 8,
    "chapter": "20",
    "description": "Other",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "2002",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "20",
    "description": "Tomatoes prepared or preserved otherwise than by vinegar or acetic acid.",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "20021000",
+   "hs6": "200210",
+   "hs6_description": "Vegetable preparations; tomatoes, whole or in pieces, prepared or preserved otherwise than by vinegar or acetic acid",
    "level": 8,
    "chapter": "20",
    "description": "Tomatoes, whole or in pieces",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "20029000",
+   "hs6": "200290",
+   "hs6_description": "Vegetable preparations; tomatoes, (other than whole or in pieces), prepared or preserved otherwise than by vinegar or acetic acid",
    "level": 8,
    "chapter": "20",
    "description": "Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "2003",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "20",
    "description": "Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid.",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "20031000",
+   "hs6": "200310",
+   "hs6_description": "Vegetable preparations; mushrooms of the genus Agaricus, prepared or preserved otherwise than by vinegar or acetic acid",
    "level": 8,
    "chapter": "20",
    "description": "Mushrooms of the genus Agaricus",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "200390",
+   "hs6": "200390",
+   "hs6_description": "Vegetable preparations; mushrooms and truffles, other than mushrooms of the genus Agaricus, prepared or preserved otherwise than by vinegar or acetic acid",
    "level": 6,
    "chapter": "20",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "20039010",
+   "hs6": "200390",
+   "hs6_description": "Vegetable preparations; mushrooms and truffles, other than mushrooms of the genus Agaricus, prepared or preserved otherwise than by vinegar or acetic acid",
    "level": 8,
    "chapter": "20",
    "description": "Truffles",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "20039090",
+   "hs6": "200390",
+   "hs6_description": "Vegetable preparations; mushrooms and truffles, other than mushrooms of the genus Agaricus, prepared or preserved otherwise than by vinegar or acetic acid",
    "level": 8,
    "chapter": "20",
    "description": "Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "2004",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "20",
    "description": "Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 20.06.",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "20041000",
+   "hs6": "200410",
+   "hs6_description": "Vegetable preparations; potatoes, prepared or preserved otherwise than by vinegar or acetic acid, frozen",
    "level": 8,
    "chapter": "20",
    "description": "Potatoes",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "20049000",
+   "hs6": "200490",
+   "hs6_description": "Vegetable preparations; vegetables and mixtures of vegetables (excluding potatoes), prepared or preserved otherwise than by vinegar or acetic acid, frozen",
    "level": 8,
    "chapter": "20",
    "description": "Other vegetables and mixtures of vegetables",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "2005",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "20",
    "description": "Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 20.06.",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "20051000",
+   "hs6": "200510",
+   "hs6_description": "Vegetable preparations; homogenised vegetables, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",
    "level": 8,
    "chapter": "20",
    "description": "Homogenised vegetables",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "20052000",
+   "hs6": "200520",
+   "hs6_description": "Vegetable preparations; potatoes, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",
    "level": 8,
    "chapter": "20",
    "description": "Potatoes",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "20054000",
+   "hs6": "200540",
+   "hs6_description": "Vegetable preparations; peas (pisum sativum), prepared or preserved otherwise than by vinegar or acetic acid, not frozen",
    "level": 8,
    "chapter": "20",
    "description": "Peas (Pisum sativum)",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "20055100",
+   "hs6": "200551",
+   "hs6_description": "Vegetable preparations; beans, shelled, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",
    "level": 8,
    "chapter": "20",
    "description": "Beans (Vigna spp., Phaseolus spp.) : -- Beans, shelled",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "20055900",
+   "hs6": "200559",
+   "hs6_description": "Vegetable preparations; beans, (not shelled), prepared or preserved otherwise than by vinegar or acetic acid, not frozen",
    "level": 8,
    "chapter": "20",
    "description": "Beans (Vigna spp., Phaseolus spp.) : --Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "20056000",
+   "hs6": "200560",
+   "hs6_description": "Vegetable preparations; asparagus, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",
    "level": 8,
    "chapter": "20",
    "description": "Asparagus",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "20057000",
+   "hs6": "200570",
+   "hs6_description": "Vegetable preparations; olives, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",
    "level": 8,
    "chapter": "20",
    "description": "Olives",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "20058000",
+   "hs6": "200580",
+   "hs6_description": "Vegetable preparations; sweetcorn (zea mays var. saccharata), prepared or preserved otherwise than by vinegar or acetic acid, not frozen",
    "level": 8,
    "chapter": "20",
    "description": "Sweet corn (Zea mays var. saccharata)",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "20059100",
+   "hs6": "200591",
+   "hs6_description": "Vegetable preparations; bamboo shoots, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",
    "level": 8,
    "chapter": "20",
    "description": "Other vegetables and mixtures of vegetables : -- Bamboo shoots",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "20059900",
+   "hs6": "200599",
+   "hs6_description": "Vegetable preparations; vegetables and mixtures of vegetables n.e.c. in heading no. 2005, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",
    "level": 8,
    "chapter": "20",
    "description": "Other vegetables and mixtures of vegetables : -- Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "20060000",
+   "hs6": "200600",
+   "hs6_description": "Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glace or crystallised)",
    "level": 8,
    "chapter": "20",
    "description": "Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glacé or crystallised).",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "2007",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "20",
    "description": "Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter.",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "20071000",
+   "hs6": "200710",
+   "hs6_description": "Jams, fruit jellies, marmalades, fruit or nut puree and fruit or nut pastes; homogenised, cooked preparations, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Homogenised preparations",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "20079100",
+   "hs6": "200791",
+   "hs6_description": "Jams, jellies, marmalades, purees and pastes; of citrus fruit, being cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Other : -- Citrus fruit",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "200799",
+   "hs6": "200799",
+   "hs6_description": "Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",
    "level": 6,
    "chapter": "20",
    "description": "Other : -- Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "20079910",
+   "hs6": "200799",
+   "hs6_description": "Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Mango",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "20079920",
+   "hs6": "200799",
+   "hs6_description": "Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Guava",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "20079930",
+   "hs6": "200799",
+   "hs6_description": "Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Pine apple",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "20079940",
+   "hs6": "200799",
+   "hs6_description": "Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Apple",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "20079990",
+   "hs6": "200799",
+   "hs6_description": "Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "2008",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "20",
    "description": "Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or sweetening matter or spirit, not elsewhere specified or included.other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "20081100",
+   "hs6": "200811",
+   "hs6_description": "Nuts; ground-nuts, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 8,
    "chapter": "20",
    "description": "Nuts, ground-nuts and other seeds, whether or not mixed together : -- Ground-nuts",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "200819",
+   "hs6": "200819",
+   "hs6_description": "Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",
    "level": 6,
    "chapter": "20",
    "description": "Nuts, ground-nuts and other seeds, whether or not mixed together : -- Other, including mixtures",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "20081910",
+   "hs6": "200819",
+   "hs6_description": "Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",
    "level": 8,
    "chapter": "20",
    "description": "Cashew nut, roasted, salted or roasted and salted",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "20081921",
+   "hs6": "200819",
+   "hs6_description": "Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",
    "level": 8,
    "chapter": "20",
    "description": "--- Makhana: ---- Popped",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "20081922",
+   "hs6": "200819",
+   "hs6_description": "Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",
    "level": 8,
    "chapter": "20",
    "description": "--- Makhana: ---- Flour and powder",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "20081929",
+   "hs6": "200819",
+   "hs6_description": "Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",
    "level": 8,
    "chapter": "20",
    "description": "--- Makhana: ---- Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "20081991",
+   "hs6": "200819",
+   "hs6_description": "Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",
    "level": 8,
    "chapter": "20",
    "description": "--- Other: ---- Other roasted nuts and seeds",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "20081992",
+   "hs6": "200819",
+   "hs6_description": "Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",
    "level": 8,
    "chapter": "20",
    "description": "--- Other: ---- Other nuts, otherwise prepared or preserved",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "20081993",
+   "hs6": "200819",
+   "hs6_description": "Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",
    "level": 8,
    "chapter": "20",
    "description": "--- Other: ---- Other roasted and fried vegetable products",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "20081999",
+   "hs6": "200819",
+   "hs6_description": "Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",
    "level": 8,
    "chapter": "20",
    "description": "--- Other: ---- Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "20082000",
+   "hs6": "200820",
+   "hs6_description": "Fruit; pineapples, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 8,
    "chapter": "20",
    "description": "Pineapples",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "200830",
+   "hs6": "200830",
+   "hs6_description": "Fruit; citrus, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 6,
    "chapter": "20",
    "description": "Citrus fruit",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "20083010",
+   "hs6": "200830",
+   "hs6_description": "Fruit; citrus, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 8,
    "chapter": "20",
    "description": "Orange",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "20083090",
+   "hs6": "200830",
+   "hs6_description": "Fruit; citrus, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 8,
    "chapter": "20",
    "description": "Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "20084000",
+   "hs6": "200840",
+   "hs6_description": "Fruit; pears, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 8,
    "chapter": "20",
    "description": "Pears",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "20085000",
+   "hs6": "200850",
+   "hs6_description": "Fruit; apricots, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 8,
    "chapter": "20",
    "description": "Apricots",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "20086000",
+   "hs6": "200860",
+   "hs6_description": "Fruit; cherries, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 8,
    "chapter": "20",
    "description": "Cherries",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "20087000",
+   "hs6": "200870",
+   "hs6_description": "Fruit; peaches, including nectarines, prepared or preserved in ways n.e.c. in heading no. 2007 and 2008, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 8,
    "chapter": "20",
    "description": "Peaches, including nectarines",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "20088000",
+   "hs6": "200880",
+   "hs6_description": "Fruit; strawberries, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 8,
    "chapter": "20",
    "description": "Strawberries",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "20089100",
+   "hs6": "200891",
+   "hs6_description": "Fruit, palm hearts; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 8,
    "chapter": "20",
    "description": "Other, including mixtures other than those of subheading 2008.19 : -- Palm hearts",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "200893",
+   "hs6": "200893",
+   "hs6_description": "Fruit; cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos); Iingonberries (Vaccinium vitis-idaea), prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 6,
    "chapter": "20",
    "description": "-- Cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos); lingonberries (Vaccinium vitis-idaea) :",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "20089310",
+   "hs6": "200893",
+   "hs6_description": "Fruit; cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos); Iingonberries (Vaccinium vitis-idaea), prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 8,
    "chapter": "20",
    "description": "--- Cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos)",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "20089390",
+   "hs6": "200893",
+   "hs6_description": "Fruit; cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos); Iingonberries (Vaccinium vitis-idaea), prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit",
    "level": 8,
    "chapter": "20",
    "description": "--- Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "20089700",
+   "hs6": "200897",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; mixtures (other than those of subheading no 2008.19); prepared or preserved in ways n.e.c. in headings 2007 and 2008, whether or not containing added sugar, or other sweetening matter or spirit, n.e.c.",
    "level": 8,
    "chapter": "20",
    "description": "Other, including mixtures other than those of subheading 2008.19 : -- Mixtures",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "200899",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 6,
    "chapter": "20",
    "description": "Other, including mixtures other than those of subheading 2008.19 : --Other",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "20089911",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 8,
    "chapter": "20",
    "description": "Squash: ---- Mango",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "20089912",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 8,
    "chapter": "20",
    "description": "Squash: ---- Lemon",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "20089913",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 8,
    "chapter": "20",
    "description": "Squash: ---- Orange",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "20089914",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 8,
    "chapter": "20",
    "description": "Squash: ---- Pineapple",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "20089915",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 8,
    "chapter": "20",
    "description": "---- Blueberries",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "20089919",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 8,
    "chapter": "20",
    "description": "Squash: ---- Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "20089991",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 8,
    "chapter": "20",
    "description": "Other: ---- Fruit cocktail",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "20089992",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 8,
    "chapter": "20",
    "description": "Other: ---- Grapes",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "20089993",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 8,
    "chapter": "20",
    "description": "Other: ---- Apples",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "20089994",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 8,
    "chapter": "20",
    "description": "Other: ---- Guava",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "20089995",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 8,
    "chapter": "20",
    "description": "---- Blueberries",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "20089999",
+   "hs6": "200899",
+   "hs6_description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
    "level": 8,
    "chapter": "20",
    "description": "Other: ---- Other",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "2009",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "20",
    "description": "FRUIT OR NUT JUICES (INCLUDING GRAPE MUST AND COCONUT WATER) AND VEGETABLE JUICES, UNFERMENTED AND NOT CONTAINING ADDED SPIRIT, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "20091100",
+   "hs6": "200911",
+   "hs6_description": "Juice; orange, frozen, unfermented, (not containing added spirit), whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Orange juice : -- Frozen",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "20091200",
+   "hs6": "200912",
+   "hs6_description": "Juice; orange, not frozen, of a Brix value not exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Orange juice : -- Not frozen, of a Brix value not exceeding 20",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "20091900",
+   "hs6": "200919",
+   "hs6_description": "Juice; orange, not frozen, of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Orange juice :--Other",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "20092100",
+   "hs6": "200921",
+   "hs6_description": "Juice; grapefruit or pomelo, of a Brix value not exceeding 20, unfermented, (not containing added spirit), whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Grapefruit juice; pomelo juice: -- Of a Brix value not exceeding 20",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "20092900",
+   "hs6": "200929",
+   "hs6_description": "Juice; grapefruit or pomelo, of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Grapefruit juice; pomelo juice: -- Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "20093100",
+   "hs6": "200931",
+   "hs6_description": "Juice; of single citrus fruit (excluding orange, grapefruit or pomelo), of a Brix value not exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Juice of any other single citrus fruit : -- Of a Brix value not exceeding 20",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "20093900",
+   "hs6": "200939",
+   "hs6_description": "Juice; of single citrus fruit (excluding orange, grapefruit or pomelo), of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Juice of any other single citrus fruit : -- Other",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "20094100",
+   "hs6": "200941",
+   "hs6_description": "Juice; pineapple, of a Brix value not exceeding 20, unfermented, (not containing added spirit), whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Pineapple juice : -- Of a Brix value not exceeding 20",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "20094900",
+   "hs6": "200949",
+   "hs6_description": "Juice; pineapple, of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Pineapple juice : -- Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "20095000",
+   "hs6": "200950",
+   "hs6_description": "Juice; tomato, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Tomato juice",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "20096100",
+   "hs6": "200961",
+   "hs6_description": "Juice; grape, of a Brix value not exceeding 30, unfermented, (not containing added spirit), whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Grape juice (including grape must) : -- Of a Brix value not exceeding 30",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "20096900",
+   "hs6": "200969",
+   "hs6_description": "Juice; grape, of a Brix value exceeding 30, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Grape juice (including grape must): -- Other",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "20097100",
+   "hs6": "200971",
+   "hs6_description": "Juice; apple, of a Brix value not exceeding 20, unfermented, (not containing added spirit), whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Apple juice: -- Of a Brix value not exceeding 20",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "20097900",
+   "hs6": "200979",
+   "hs6_description": "Juice; apple, of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Apple juice :--Other",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "20098100",
+   "hs6": "200981",
+   "hs6_description": "Juice; cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos); Iingonberry (Vaccinium vitis-idaea), unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Juice of any other single fruit, nut or vegetable:- - Cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos) juice; lingon berry (Vaccinium vitis-idaea) juice",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "200989",
+   "hs6": "200989",
+   "hs6_description": "Juice; of any single fruit, nut or vegetable n.e.c. in heading no. 2009, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 6,
    "chapter": "20",
    "description": "Juice of any other single fruit or vegetable : -- Other",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "20098910",
+   "hs6": "200989",
+   "hs6_description": "Juice; of any single fruit, nut or vegetable n.e.c. in heading no. 2009, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Mango Juice",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "20098990",
+   "hs6": "200989",
+   "hs6_description": "Juice; of any single fruit, nut or vegetable n.e.c. in heading no. 2009, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Other",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "20099000",
+   "hs6": "200990",
+   "hs6_description": "Juices; mixtures of fruits or vegetables (but not nut juice), unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
    "level": 8,
    "chapter": "20",
    "description": "Mixtures of juices",

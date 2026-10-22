@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "3801",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Artificial graphite; colloidal or semi-colloidal graphite; preparations based on graphite or other carbon in the form of pastes, blocks, plates or other semi-manufactures.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "38011000",
+   "hs6": "380110",
+   "hs6_description": "Graphite; artificial",
    "level": 8,
    "chapter": "38",
    "description": "Artificial graphite",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "38012000",
+   "hs6": "380120",
+   "hs6_description": "Graphite; colloidal or semi-colloidal",
    "level": 8,
    "chapter": "38",
    "description": "Colloidal or semi-colloidal graphite",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "38013000",
+   "hs6": "380130",
+   "hs6_description": "Carbonaceous pastes; for electrodes and similar pastes for furnace linings",
    "level": 8,
    "chapter": "38",
    "description": "Carbonaceous pastes for electrodes and similar pastes for furnace linings",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "38019000",
+   "hs6": "380190",
+   "hs6_description": "Graphite or other carbon based preparations; in the form of pastes, blocks, plates or other semi-manufactures",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "3802",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Activated carbon; activated natural mineral products; animal black, including spent animal black.",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "38021000",
+   "hs6": "380210",
+   "hs6_description": "Carbon; activated",
    "level": 8,
    "chapter": "38",
    "description": "Activated carbon",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "380290",
+   "hs6": "380290",
+   "hs6_description": "Chemical products; activated natural mineral products, animal black, including spent animal black",
    "level": 6,
    "chapter": "38",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "38029011",
+   "hs6": "380290",
+   "hs6_description": "Chemical products; activated natural mineral products, animal black, including spent animal black",
    "level": 8,
    "chapter": "38",
    "description": "Activated natural mineral products: ---- Activated alumina",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "38029012",
+   "hs6": "380290",
+   "hs6_description": "Chemical products; activated natural mineral products, animal black, including spent animal black",
    "level": 8,
    "chapter": "38",
    "description": "Activated natural mineral products: ---- Activated bauxite",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "38029019",
+   "hs6": "380290",
+   "hs6_description": "Chemical products; activated natural mineral products, animal black, including spent animal black",
    "level": 8,
    "chapter": "38",
    "description": "Activated natural mineral products: ---- Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "38029020",
+   "hs6": "380290",
+   "hs6_description": "Chemical products; activated natural mineral products, animal black, including spent animal black",
    "level": 8,
    "chapter": "38",
    "description": "Activated natural mineral products: ---- Animal black (for example, bone black and ivory black), including spent animal black",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "38030000",
+   "hs6": "380300",
+   "hs6_description": "Chemical products; tall oil, whether or not refined",
    "level": 8,
    "chapter": "38",
    "description": "Tall oil, whether or not refined.",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "3804",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Residual lyes from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates, but excluding tall oil of heading 38.03.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "380400",
+   "hs6": "380400",
+   "hs6_description": "Lyes, residual; from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates but excluding tall oil of heading no. 3803",
    "level": 6,
    "chapter": "38",
    "description": "Residual lyes from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates, but excluding tall oil of heading 3803:",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "38040010",
+   "hs6": "380400",
+   "hs6_description": "Lyes, residual; from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates but excluding tall oil of heading no. 3803",
    "level": 8,
    "chapter": "38",
    "description": "Lignin sulphonates",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "38040020",
+   "hs6": "380400",
+   "hs6_description": "Lyes, residual; from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates but excluding tall oil of heading no. 3803",
    "level": 8,
    "chapter": "38",
    "description": "Concentrated sulphate lye",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "38040090",
+   "hs6": "380400",
+   "hs6_description": "Lyes, residual; from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates but excluding tall oil of heading no. 3803",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "3805",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Gum, wood or sulphate turpentine and other terpenic oils produced by the distillation or other treatment of coniferous woods; crude dipentene; sulphite turpentine and other crude para-cymene; pine oil containing alpha-terpineol as the main constituent.",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "380510",
+   "hs6": "380510",
+   "hs6_description": "Terpenic oils; gum, wood or sulphate turpentine oils",
    "level": 6,
    "chapter": "38",
    "description": "Gum, wood or sulphate turpentine oils",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "38051010",
+   "hs6": "380510",
+   "hs6_description": "Terpenic oils; gum, wood or sulphate turpentine oils",
    "level": 8,
    "chapter": "38",
    "description": "Wood turpentine oil and spirit of turpentine",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "38051020",
+   "hs6": "380510",
+   "hs6_description": "Terpenic oils; gum, wood or sulphate turpentine oils",
    "level": 8,
    "chapter": "38",
    "description": "Gum turpentine oil",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "38051030",
+   "hs6": "380510",
+   "hs6_description": "Terpenic oils; gum, wood or sulphate turpentine oils",
    "level": 8,
    "chapter": "38",
    "description": "Sulphate turpentine oil",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "380590",
+   "hs6": "380590",
+   "hs6_description": "Terpenic oils; produced by the treatment of coniferous woods, crude dipentene, sulphite turpentine and other crude para-cymene, n.e.c. in heading no. 3805",
    "level": 6,
    "chapter": "38",
    "description": "Other",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "38059010",
+   "hs6": "380590",
+   "hs6_description": "Terpenic oils; produced by the treatment of coniferous woods, crude dipentene, sulphite turpentine and other crude para-cymene, n.e.c. in heading no. 3805",
    "level": 8,
    "chapter": "38",
    "description": "Terpenic oils produced by the distillation or other treatment of coniferous woods",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "38059020",
+   "hs6": "380590",
+   "hs6_description": "Terpenic oils; produced by the treatment of coniferous woods, crude dipentene, sulphite turpentine and other crude para-cymene, n.e.c. in heading no. 3805",
    "level": 8,
    "chapter": "38",
    "description": "Crude dipentene",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "38059030",
+   "hs6": "380590",
+   "hs6_description": "Terpenic oils; produced by the treatment of coniferous woods, crude dipentene, sulphite turpentine and other crude para-cymene, n.e.c. in heading no. 3805",
    "level": 8,
    "chapter": "38",
    "description": "Sulphite turpentine",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "38059090",
+   "hs6": "380590",
+   "hs6_description": "Terpenic oils; produced by the treatment of coniferous woods, crude dipentene, sulphite turpentine and other crude para-cymene, n.e.c. in heading no. 3805",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "3806",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Rosin and resin acids, and derivatives thereof; rosin spirit and rosin oils; run gums.",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "380610",
+   "hs6": "380610",
+   "hs6_description": "Rosin and resin acids",
    "level": 6,
    "chapter": "38",
    "description": "Rosin and resin acids",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "38061010",
+   "hs6": "380610",
+   "hs6_description": "Rosin and resin acids",
    "level": 8,
    "chapter": "38",
    "description": "Gum rosin",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "38061090",
+   "hs6": "380610",
+   "hs6_description": "Rosin and resin acids",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "38062000",
+   "hs6": "380620",
+   "hs6_description": "Rosin and resin; salts of rosin, of resin acids or of derivatives of rosin or resin acids, other than salts of rosin adducts",
    "level": 8,
    "chapter": "38",
    "description": "Salts of rosin, of resin acids or of derivatives of rosin or resin acids, other than salts of rosin adducts",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "38063000",
+   "hs6": "380630",
+   "hs6_description": "Ester gums",
    "level": 8,
    "chapter": "38",
    "description": "Ester gums",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "380690",
+   "hs6": "380690",
+   "hs6_description": "Rosin; spirit and oils, n.e.c. in heading no. 3806",
    "level": 6,
    "chapter": "38",
    "description": "Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "38069010",
+   "hs6": "380690",
+   "hs6_description": "Rosin; spirit and oils, n.e.c. in heading no. 3806",
    "level": 8,
    "chapter": "38",
    "description": "Run gums",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "38069090",
+   "hs6": "380690",
+   "hs6_description": "Rosin; spirit and oils, n.e.c. in heading no. 3806",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "3807",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewers pitch and similar preparations based on rosin, resin acids or on vegetable pitch.",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "380700",
+   "hs6": "380700",
+   "hs6_description": "Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewers' pitch and similar preparations based on rosin, resin acids or on vegetable pitch",
    "level": 6,
    "chapter": "38",
    "description": "Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewers pitch and similar preparations based on rosin, resin acids or on vegetable pitch:",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "38070010",
+   "hs6": "380700",
+   "hs6_description": "Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewers' pitch and similar preparations based on rosin, resin acids or on vegetable pitch",
    "level": 8,
    "chapter": "38",
    "description": "Wood Tar",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "38070020",
+   "hs6": "380700",
+   "hs6_description": "Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewers' pitch and similar preparations based on rosin, resin acids or on vegetable pitch",
    "level": 8,
    "chapter": "38",
    "description": "Wood Tar oils, wood creosote, wood naphtha",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "38070030",
+   "hs6": "380700",
+   "hs6_description": "Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewers' pitch and similar preparations based on rosin, resin acids or on vegetable pitch",
    "level": 8,
    "chapter": "38",
    "description": "Vegetable pitch, brewers pitch and similar preparations based on rosin, resin acids or on vegetable pitch",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "3808",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Insecticides, rodenticides, fungicides, herbicides, anti-sprouting products and plant-growth regulators, disinfectants and similar products, put up in forms or packings for retail sale or as preparations or articles (for example, sulphur-treated bands, wicks and candles, and fly-papers).",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "38085200",
+   "hs6": "380852",
+   "hs6_description": "Insecticides and the like; containing goods specified in Subheading Note 1 to this Chapter; for retail sale or as preparations or articles; DDT (ISO) (clofenotane (INN)), in packings of 300g or less",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Subheading Note 1 to this Chapter : -- DDT (ISO) (clofenotane (INN)), in packings of a net weight content not exceeding 300 g",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "38085900",
+   "hs6": "380859",
+   "hs6_description": "Insecticides, rodenticides, fungicides, disinfectants, herbicides and the like; containing goods specified in Subheading Note 1 to this Chapter; not DDT (ISO) (clofenotane (INN)), put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Subheading Note 1 to this Chapter : -- Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "38086100",
+   "hs6": "380861",
+   "hs6_description": "Insecticides and the like; containing goods specified in Subheading Note 2 to this Chapter; in packings of a net weight content not exceeding 300g; for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Subheading Note 2 to this Chapter : -- In packings of a net weight content not exceeding 300 g",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "38086200",
+   "hs6": "380862",
+   "hs6_description": "Insecticides; containing goods specified in Subheading Note 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles, in packings of a net weight content exceeding 300g but not exceeding 7.5kg",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Subheading Note 2 to this Chapter : -- In packings of a net weight content exceeding 300 g but not exceeding 7.5 kg",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "38086900",
+   "hs6": "380869",
+   "hs6_description": "Insecticides; containing goods named in Subheading Note 2 to this Chapter, put up in forms or packings for retail sale or as preparations or articles, in packings of a net weight content exceeding 7.5kg",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Subheading Note 2 to this Chapter : -- Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "380891",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 6,
    "chapter": "38",
    "description": "Other : -- Insecticides",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "38089111",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Aluminium phosphate (for example phostoxin)",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "38089112",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Calcium cyanide)",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "38089113",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "D.D.V.P. (Dimethyle-dichloro-vinyl-phosphate)",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "38089121",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Diaginal",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "38089122",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Methyl bromide",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "38089123",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Dimethoate, technical grade",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "38089124",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Melathion",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "38089131",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Endosulphan, technical grade",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "38089132",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Quinal phos",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "38089133",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Isoproturon",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "38089134",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Fenthion",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "38089135",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Cipermethrin, technical grade",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "38089136",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Allethrin",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "38089137",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Synthetic pyrethrum",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "38089141",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Supplementary Note 1 and 2 to this Chapter: ---- Goods specified in Supplementary Note 1 to this Chapter",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "38089142",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Supplementary Note 1 and 2 to this Chapter: ---- Goods specified in Supplementary Note 2 to this Chapter",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "38089151",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Supplementary Note 3 and 4 to this Chapter: ---- Goods specified in Supplementary Note 3 to this Chapter",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "38089152",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Supplementary Note 3 and 4 to this Chapter: ---- Goods specified in Supplementary Note 4 to this Chapter",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "38089191",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Other ---- Repellants for insects such as flies, mosquito",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "38089192",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Other ---- Paper impregnated or coated with insecticides such as D.D.T coated paper",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "38089193",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Containing bromomethane (methyl bromide) or bromochloromethane",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "38089199",
+   "hs6": "380891",
+   "hs6_description": "Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Other ---- Other",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "380892",
+   "hs6": "380892",
+   "hs6_description": "Fungicides; other than containing goods specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 6,
    "chapter": "38",
    "description": "Other : -- Fungicides",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "38089210",
+   "hs6": "380892",
+   "hs6_description": "Fungicides; other than containing goods specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Maneb",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "38089220",
+   "hs6": "380892",
+   "hs6_description": "Fungicides; other than containing goods specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Sodium penta chlorophenate (santrobrite)",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "38089230",
+   "hs6": "380892",
+   "hs6_description": "Fungicides; other than containing goods specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Thiram (tetra methyl thiuram disulphide)",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "38089240",
+   "hs6": "380892",
+   "hs6_description": "Fungicides; other than containing goods specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Zineb",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "38089250",
+   "hs6": "380892",
+   "hs6_description": "Fungicides; other than containing goods specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Copper oxychloride",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "38089260",
+   "hs6": "380892",
+   "hs6_description": "Fungicides; other than containing goods specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Supplementary Note 5 to this Chapter",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "38089270",
+   "hs6": "380892",
+   "hs6_description": "Fungicides; other than containing goods specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Supplementary Note 6 to this Chapter",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "38089280",
+   "hs6": "380892",
+   "hs6_description": "Fungicides; other than containing goods specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Containing bromomethane (methyl bromide) or bromochloromethane",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "38089291",
+   "hs6": "380892",
+   "hs6_description": "Fungicides; other than containing goods specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "--- Other: ---- Containing bromomethane (methyl bromide) or bromochloromethane",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "38089299",
+   "hs6": "380892",
+   "hs6_description": "Fungicides; other than containing goods specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "--- Other: ---- Other",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "380893",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 6,
    "chapter": "38",
    "description": "Other : -- Herbicides, anti-sprouting products and plant-growth regulators",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "38089310",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Chloromethyl phenozy acetic acid (M.C.P.A)",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "38089320",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "2:4 Dichloro phenozy acetic acid and its esters",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "38089330",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Gibberellic acid",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "38089341",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "--- Plant growth regulators: ---- Goods specified in Supplementary Note 12 to this Chapter",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "38089342",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "--- Plant growth regulators: ---- Goods specified in Supplementary Note 13 to this Chapter",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "38089349",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "--- Plant growth regulators: ---- Other:",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "38089350",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Weedicides and weed killing agents",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "38089361",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Supplementary Note 7 and 8 to this Chapter: ---- Goods specified in Supplementary Note 7 to this Chapter",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "38089362",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Supplementary Note 7 and 8 to this Chapter: ---- Goods specified in Supplementary Note 8 to this Chapter",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "38089371",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Supplementary Note 9 and10 to this Chapter: ---- Goods specified in Supplementary Note 9 to this Chapter",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "38089372",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Supplementary Note 9 and10 to this Chapter: ---- Goods specified in Supplementary Note 10 to this Chapter",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "38089391",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "--- Other: ---- Containing bromomethane (methyl bromide) or bromochloromethane",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "38089399",
+   "hs6": "380893",
+   "hs6_description": "Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "--- Other: ---- Other",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "380894",
+   "hs6": "380894",
+   "hs6_description": "Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 6,
    "chapter": "38",
    "description": "Other : -- Disinfectants",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "38089410",
+   "hs6": "380894",
+   "hs6_description": "Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Containing bromomethane (methyl bromide) or bromochloromethane",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "38089420",
+   "hs6": "380894",
+   "hs6_description": "Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Supplementary Note 14 to this Chapter",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "38089490",
+   "hs6": "380894",
+   "hs6_description": "Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "380899",
+   "hs6": "380899",
+   "hs6_description": "Rodenticides and other similar products n.e.c. in heading no. 3808.9; other than containing goods specified in Subheading Note 1 in this Chapter, put up in forms or packings for retail sale or as preparations or articles",
    "level": 6,
    "chapter": "38",
    "description": "Other : -- Other",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "38089911",
+   "hs6": "380899",
+   "hs6_description": "Rodenticides and other similar products n.e.c. in heading no. 3808.9; other than containing goods specified in Subheading Note 1 in this Chapter, put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "--- Goods specified in Supplementary Note 15 and 16 to this Chapter: ---- Goods specified in Supplementary Note 15 to this Chapter",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "38089912",
+   "hs6": "380899",
+   "hs6_description": "Rodenticides and other similar products n.e.c. in heading no. 3808.9; other than containing goods specified in Subheading Note 1 in this Chapter, put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "--- Goods specified in Supplementary Note 15 and 16 to this Chapter: ---- Goods specified in Supplementary Note 16 to this Chapter",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "38089991",
+   "hs6": "380899",
+   "hs6_description": "Rodenticides and other similar products n.e.c. in heading no. 3808.9; other than containing goods specified in Subheading Note 1 in this Chapter, put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "--- Other: ---- Containing bromomethane (methyl bromide) or bromochloromethane",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "38089992",
+   "hs6": "380899",
+   "hs6_description": "Rodenticides and other similar products n.e.c. in heading no. 3808.9; other than containing goods specified in Subheading Note 1 in this Chapter, put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "--- Other: ---- Pesticides, not elsewhere specified or included",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "38089999",
+   "hs6": "380899",
+   "hs6_description": "Rodenticides and other similar products n.e.c. in heading no. 3808.9; other than containing goods specified in Subheading Note 1 in this Chapter, put up in forms or packings for retail sale or as preparations or articles",
    "level": 8,
    "chapter": "38",
    "description": "--- Other: ---- Other",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "3809",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products and preparations (for example, dressings and mordants), of a kind used in the textile, paper, leather or like industries, not elsewhere specified or included.",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "38091000",
+   "hs6": "380910",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in textile, paper, leather etc industries, with basis of amylaceous substances, n.e.c.",
    "level": 8,
    "chapter": "38",
    "description": "With a basis of amylaceous substances",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "380991",
+   "hs6": "380991",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the textile industry (excluding those with a basis of amylaceous substances)",
    "level": 6,
    "chapter": "38",
    "description": "Other : -- Of a kind used in the textile or like industries",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "38099110",
+   "hs6": "380991",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the textile industry (excluding those with a basis of amylaceous substances)",
    "level": 8,
    "chapter": "38",
    "description": "Textile assistant mordanting agents",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "38099120",
+   "hs6": "380991",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the textile industry (excluding those with a basis of amylaceous substances)",
    "level": 8,
    "chapter": "38",
    "description": "Textile assistants desizing agents",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "38099130",
+   "hs6": "380991",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the textile industry (excluding those with a basis of amylaceous substances)",
    "level": 8,
    "chapter": "38",
    "description": "Textile assistants dispersing agents",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "38099140",
+   "hs6": "380991",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the textile industry (excluding those with a basis of amylaceous substances)",
    "level": 8,
    "chapter": "38",
    "description": "Textile assistants emulsifying agents",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "38099150",
+   "hs6": "380991",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the textile industry (excluding those with a basis of amylaceous substances)",
    "level": 8,
    "chapter": "38",
    "description": "Textile assistants - hydro sulphite formaldehyde compound (Rongalite or formusul)",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "38099160",
+   "hs6": "380991",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the textile industry (excluding those with a basis of amylaceous substances)",
    "level": 8,
    "chapter": "38",
    "description": "Textile assistants textile preservatives",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "38099170",
+   "hs6": "380991",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the textile industry (excluding those with a basis of amylaceous substances)",
    "level": 8,
    "chapter": "38",
    "description": "Textile assistants water proofing agents",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "38099180",
+   "hs6": "380991",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the textile industry (excluding those with a basis of amylaceous substances)",
    "level": 8,
    "chapter": "38",
    "description": "Prepared textile glazings, dressings and mordants",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "38099190",
+   "hs6": "380991",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the textile industry (excluding those with a basis of amylaceous substances)",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "38099200",
+   "hs6": "380992",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the paper industry (excluding those with a basis of amylaceous substances)",
    "level": 8,
    "chapter": "38",
    "description": "Other : -- Of a kind used in the paper or like industries",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "380993",
+   "hs6": "380993",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the leather or like (excluding paper and textile) industries, (excluding those with a basis of amylaceous substances)",
    "level": 6,
    "chapter": "38",
    "description": "Other : -- Of a kind used in the leather or like industries",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "38099310",
+   "hs6": "380993",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the leather or like (excluding paper and textile) industries, (excluding those with a basis of amylaceous substances)",
    "level": 8,
    "chapter": "38",
    "description": "Fatty oil or pull up oil",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "38099390",
+   "hs6": "380993",
+   "hs6_description": "Finishing agents and dye carriers; to accelerate dyeing or fixing of dye-stuffs, other products and preparations, used in the leather or like (excluding paper and textile) industries, (excluding those with a basis of amylaceous substances)",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "3810",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Pickling preparations for metal surfaces; fluxes and other auxiliary preparations for soldering, brazing or welding; auxiliary preparations for soldering, brazing or welding; soldering, brazing or welding powders and pastes consisting of metal and other materials; preparations of a kind used as cores or coatings for welding electrodes or rods.",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "381010",
+   "hs6": "381010",
+   "hs6_description": "Pickling preparations for metal surfaces; soldering, brazing or welding powders and pastes consisting of metal and other materials",
    "level": 6,
    "chapter": "38",
    "description": "Pickling preparations for metal surfaces; soldering, brazing or welding powders and pastes consisting of metal and other materials",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "38101010",
+   "hs6": "381010",
+   "hs6_description": "Pickling preparations for metal surfaces; soldering, brazing or welding powders and pastes consisting of metal and other materials",
    "level": 8,
    "chapter": "38",
    "description": "Pickling preparation and other soldering, brazing or welding powder or pastes",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "38101020",
+   "hs6": "381010",
+   "hs6_description": "Pickling preparations for metal surfaces; soldering, brazing or welding powders and pastes consisting of metal and other materials",
    "level": 8,
    "chapter": "38",
    "description": "Thermite portion for welding (alumina thermic heat generators)",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "38101090",
+   "hs6": "381010",
+   "hs6_description": "Pickling preparations for metal surfaces; soldering, brazing or welding powders and pastes consisting of metal and other materials",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "381090",
+   "hs6": "381090",
+   "hs6_description": "Fluxes and other auxiliary preparations; for soldering, brazing or welding, or preparations used as cores or coatings for welding electrodes or rods",
    "level": 6,
    "chapter": "38",
    "description": "Other",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "38109010",
+   "hs6": "381090",
+   "hs6_description": "Fluxes and other auxiliary preparations; for soldering, brazing or welding, or preparations used as cores or coatings for welding electrodes or rods",
    "level": 8,
    "chapter": "38",
    "description": "Preparation of a kind used as cores or coatings for welding electrodes and rods",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "38109090",
+   "hs6": "381090",
+   "hs6_description": "Fluxes and other auxiliary preparations; for soldering, brazing or welding, or preparations used as cores or coatings for welding electrodes or rods",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "3811",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Anti-knock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive preparations and other prepared additives, for mineral oils (including gasoline) or for other liquids used for the same purposes as mineral oils.",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "38111100",
+   "hs6": "381111",
+   "hs6_description": "Anti-knock preparations; based on lead compounds",
    "level": 8,
    "chapter": "38",
    "description": "Anti-knock preparations : -- Based on lead compounds",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "38111900",
+   "hs6": "381119",
+   "hs6_description": "Anti-knock preparations; other than those based on lead compounds",
    "level": 8,
    "chapter": "38",
    "description": "Anti-knock preparations : -- Other",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "38112100",
+   "hs6": "381121",
+   "hs6_description": "Lubricating oil additives; containing petroleum oils or oils obtained from bituminous minerals",
    "level": 8,
    "chapter": "38",
    "description": "Additives for lubricating oils : -- Containing petroleum oils or oils obtained from bituminous minerals",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "38112900",
+   "hs6": "381129",
+   "hs6_description": "Lubricating oil additives; not containing petroleum oils or oils obtained from bituminous minerals",
    "level": 8,
    "chapter": "38",
    "description": "Additives for lubricating oils : -- Other",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "38119000",
+   "hs6": "381190",
+   "hs6_description": "Oxidation and gum inhibitors, viscosity improvers, anti-corrosive preparations, other prepared additives for mineral oils or liquids used as mineral oils (including gasoline), n.e.c. in heading no. 3811",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "3812",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Prepared rubber accelerators; compound plasticisers for rubber or plastics, not elsewhere specified or included; anti-oxidising preparations and other compound stabilisers for rubber or plastics.",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "38121000",
+   "hs6": "381210",
+   "hs6_description": "Rubber accelerators; prepared",
    "level": 8,
    "chapter": "38",
    "description": "Prepared rubber accelerators",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "381220",
+   "hs6": "381220",
+   "hs6_description": "Plasticisers, compound; for rubber or plastics",
    "level": 6,
    "chapter": "38",
    "description": "Compound plasticisers for rubber or plastics",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "38122010",
+   "hs6": "381220",
+   "hs6_description": "Plasticisers, compound; for rubber or plastics",
    "level": 8,
    "chapter": "38",
    "description": "Phthalate plasticizers",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "38122090",
+   "hs6": "381220",
+   "hs6_description": "Plasticisers, compound; for rubber or plastics",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "38123100",
+   "hs6": "381231",
+   "hs6_description": "Anti-oxidising preparations and other compound stabilisers; for rubber or plastics, mixtures of oligomers of 2,2,4-trimethyl-1,2-dihydroquinoline (TMQ)",
    "level": 8,
    "chapter": "38",
    "description": "Anti-oxidising preparations and other compound stabilizers for rubber or plastics : -- Mixtures of oligomers of 2,2,4-trimethyl-1,2-dihydroquinoline (TMQ)",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "381239",
+   "hs6": "381239",
+   "hs6_description": "Anti-oxidising preparations and other compound stabilisers; for rubber or plastics, other than mixtures of oligomers of 2,2,4-trimethyl-1,2-dihydroquinoline (TMQ)",
    "level": 6,
    "chapter": "38",
    "description": "Anti-oxidising preparations and other compound stabilizers for rubber or plastics : -- Other",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "38123910",
+   "hs6": "381239",
+   "hs6_description": "Anti-oxidising preparations and other compound stabilisers; for rubber or plastics, other than mixtures of oligomers of 2,2,4-trimethyl-1,2-dihydroquinoline (TMQ)",
    "level": 8,
    "chapter": "38",
    "description": "Anti-oxidants for rubber",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "38123920",
+   "hs6": "381239",
+   "hs6_description": "Anti-oxidising preparations and other compound stabilisers; for rubber or plastics, other than mixtures of oligomers of 2,2,4-trimethyl-1,2-dihydroquinoline (TMQ)",
    "level": 8,
    "chapter": "38",
    "description": "Softeners for rubber",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "38123930",
+   "hs6": "381239",
+   "hs6_description": "Anti-oxidising preparations and other compound stabilisers; for rubber or plastics, other than mixtures of oligomers of 2,2,4-trimethyl-1,2-dihydroquinoline (TMQ)",
    "level": 8,
    "chapter": "38",
    "description": "Vulcanizing agents for rubber",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "38123990",
+   "hs6": "381239",
+   "hs6_description": "Anti-oxidising preparations and other compound stabilisers; for rubber or plastics, other than mixtures of oligomers of 2,2,4-trimethyl-1,2-dihydroquinoline (TMQ)",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "3813",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "PREPARATIONS AND CHARGES FOR FIRE-EXTINGUISHERS: CHARGED FIRE-EXTINGUISHING GRENADES",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "38130010",
+   "hs6": "381300",
+   "hs6_description": "Fire-extinguishers; preparations and charges and charged fire-extinguishing grenades",
    "level": 8,
    "chapter": "38",
    "description": "Containing bromochlorodifluoromethane, bromotrifluoromethane or dibromotetrafluoroethanes",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "38130020",
+   "hs6": "381300",
+   "hs6_description": "Fire-extinguishers; preparations and charges and charged fire-extinguishing grenades",
    "level": 8,
    "chapter": "38",
    "description": "Containing methane, ethane or propane hydrobromofluorocarbons (HBFCs)",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "38130030",
+   "hs6": "381300",
+   "hs6_description": "Fire-extinguishers; preparations and charges and charged fire-extinguishing grenades",
    "level": 8,
    "chapter": "38",
    "description": "Containing methane, ethane or propane hydrochlorofluorocarbons (HCFCs)",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "38130040",
+   "hs6": "381300",
+   "hs6_description": "Fire-extinguishers; preparations and charges and charged fire-extinguishing grenades",
    "level": 8,
    "chapter": "38",
    "description": "Containing bromochloromethane",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "38130090",
+   "hs6": "381300",
+   "hs6_description": "Fire-extinguishers; preparations and charges and charged fire-extinguishing grenades",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "3814",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Organic composite solvents and thinners, not elsewhere specified or included; prepared paint or varnish removers.",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "381400",
+   "hs6": "381400",
+   "hs6_description": "Solvents and thinners; organic composite solvents and thinners, n.e.c. or included, prepared paint or varnish removers",
    "level": 6,
    "chapter": "38",
    "description": "Organic composite solvents and thinners, not elsewhere specified or included; prepared paint or varnish removers :",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "38140011",
+   "hs6": "381400",
+   "hs6_description": "Solvents and thinners; organic composite solvents and thinners, n.e.c. or included, prepared paint or varnish removers",
    "level": 8,
    "chapter": "38",
    "description": "--- Organic composite solvents and thinners, not elsewhere specified or included: ---- Containing methane, ethane or propane chlorofluorocarbons (CFCs), whether not containing hydrochlorofluorocarbons (HCFCs)",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "38140012",
+   "hs6": "381400",
+   "hs6_description": "Solvents and thinners; organic composite solvents and thinners, n.e.c. or included, prepared paint or varnish removers",
    "level": 8,
    "chapter": "38",
    "description": "--- Organic composite solvents and thinners, not elsewhere specified or included: ---- Containing methane, ethane or propane hydrochlorofluorocarbons (HCFCs), but not containing chlorofluorocarbons (CFCs)",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "38140013",
+   "hs6": "381400",
+   "hs6_description": "Solvents and thinners; organic composite solvents and thinners, n.e.c. or included, prepared paint or varnish removers",
    "level": 8,
    "chapter": "38",
    "description": "--- Organic composite solvents and thinners, not elsewhere specified or included: ---- Containing carbon tetrachloride, bromochloromethane or 1,1,1-trichloroethane (methyl chloroform)",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "38140019",
+   "hs6": "381400",
+   "hs6_description": "Solvents and thinners; organic composite solvents and thinners, n.e.c. or included, prepared paint or varnish removers",
    "level": 8,
    "chapter": "38",
    "description": "--- Organic composite solvents and thinners, not elsewhere specified or included: ---- Other",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "38140021",
+   "hs6": "381400",
+   "hs6_description": "Solvents and thinners; organic composite solvents and thinners, n.e.c. or included, prepared paint or varnish removers",
    "level": 8,
    "chapter": "38",
    "description": "--- Prepared paint or varnish removers : ---- Containing methane, ethane or propane chlorofluorocarbons (CFCs), whether not containing hydrochlorofluorocarbons (HCFCs)",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "38140022",
+   "hs6": "381400",
+   "hs6_description": "Solvents and thinners; organic composite solvents and thinners, n.e.c. or included, prepared paint or varnish removers",
    "level": 8,
    "chapter": "38",
    "description": "--- Prepared paint or varnish removers : ---- Containing methane, ethane or propane hydrochlorofluorocarbons (HCFCs), but not containing chlorofluorocarbons (CFCs)",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "38140023",
+   "hs6": "381400",
+   "hs6_description": "Solvents and thinners; organic composite solvents and thinners, n.e.c. or included, prepared paint or varnish removers",
    "level": 8,
    "chapter": "38",
    "description": "--- Prepared paint or varnish removers : ---- Containing carbon tetrachloride, bromochloromethane or 1,1,1-trichloroethane (methyl chloroform)",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "38140029",
+   "hs6": "381400",
+   "hs6_description": "Solvents and thinners; organic composite solvents and thinners, n.e.c. or included, prepared paint or varnish removers",
    "level": 8,
    "chapter": "38",
    "description": "--- Prepared paint or varnish removers : ---- Other",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "3815",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Reaction initiators, reaction accelerators and catalytic preparations, not elsewhere specified or included.",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "38151100",
+   "hs6": "381511",
+   "hs6_description": "Catalysts, supported; reaction initiators, reaction accelerators and catalytic preparations, with nickel or nickel compounds as the active substance, n.e.c. or included",
    "level": 8,
    "chapter": "38",
    "description": "Supported catalysts : -- With nickel or nickel compounds as the active substance",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "381512",
+   "hs6": "381512",
+   "hs6_description": "Catalysts, supported; reaction initiators, reaction accelerators and catalytic preparations, with precious metal or precious metal compounds as the active substance, n.e.c. or included",
    "level": 6,
    "chapter": "38",
    "description": "Supported catalysts : -- With precious metal or precious metal compounds as the active substance",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "38151210",
+   "hs6": "381512",
+   "hs6_description": "Catalysts, supported; reaction initiators, reaction accelerators and catalytic preparations, with precious metal or precious metal compounds as the active substance, n.e.c. or included",
    "level": 8,
    "chapter": "38",
    "description": "Platinum or palladium catalysts with a base of activated carbon",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "38151290",
+   "hs6": "381512",
+   "hs6_description": "Catalysts, supported; reaction initiators, reaction accelerators and catalytic preparations, with precious metal or precious metal compounds as the active substance, n.e.c. or included",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "38151900",
+   "hs6": "381519",
+   "hs6_description": "Catalysts, supported; reaction initiators, reaction accelerators and catalytic preparations, with an active substance other than nickel or precious metals or their compounds, n.e.c. or included",
    "level": 8,
    "chapter": "38",
    "description": "Supported catalysts : -- Other",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "38159000",
+   "hs6": "381590",
+   "hs6_description": "Reaction initiators, reaction accelerators and catalytic preparations, unsupported, n.e.c. or included",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "38160000",
+   "hs6": "381600",
+   "hs6_description": "Refractory cements, mortars, concretes and similar compositions, including dolomite ramming mix, other than products of heading 38.01",
    "level": 8,
    "chapter": "38",
    "description": "refractory cements, mortars, concretes and similar compositions, including dolomite ramming mix, other than products of heading 3801",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "3817",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "MIXED ALKYLBENZENES AND MIXED ALKYLNAPHTHALENES, OTHER THAN THOSE OF HEADING 2707 OR 2902",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "381700",
+   "hs6": "381700",
+   "hs6_description": "Mixed alkylbenzenes and mixed alkylnaphthalenes, other than those of heading no. 2707 or 2902",
    "level": 6,
    "chapter": "38",
    "description": "Mixed alkylbenzenes and mixed alkylnaphthalenes, other than those of heading 27.07 or 29.02.",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "38170011",
+   "hs6": "381700",
+   "hs6_description": "Mixed alkylbenzenes and mixed alkylnaphthalenes, other than those of heading no. 2707 or 2902",
    "level": 8,
    "chapter": "38",
    "description": "Mixed alkylbenzenes: ---- Linear alkylbenzenes",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "38170019",
+   "hs6": "381700",
+   "hs6_description": "Mixed alkylbenzenes and mixed alkylnaphthalenes, other than those of heading no. 2707 or 2902",
    "level": 8,
    "chapter": "38",
    "description": "Mixed alkylbenzenes: ---- Other",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "38170020",
+   "hs6": "381700",
+   "hs6_description": "Mixed alkylbenzenes and mixed alkylnaphthalenes, other than those of heading no. 2707 or 2902",
    "level": 8,
    "chapter": "38",
    "description": "Mixed alkylbenzenes: ---- Mixed alkylnaphthalenes",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "3818",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Chemical elements doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics.",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "381800",
+   "hs6": "381800",
+   "hs6_description": "Chemical elements; doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics",
    "level": 6,
    "chapter": "38",
    "description": "Chemical elements doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics:",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "38180010",
+   "hs6": "381800",
+   "hs6_description": "Chemical elements; doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics",
    "level": 8,
    "chapter": "38",
    "description": "Undefused silicon wafers",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "38180020",
+   "hs6": "381800",
+   "hs6_description": "Chemical elements; doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics",
    "level": 8,
    "chapter": "38",
    "description": "Silicon carbide epitaxial thin film on substrate",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "38180030",
+   "hs6": "381800",
+   "hs6_description": "Chemical elements; doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics",
    "level": 8,
    "chapter": "38",
    "description": "Gallium nitride epitaxial thin film on substrate",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "38180090",
+   "hs6": "381800",
+   "hs6_description": "Chemical elements; doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "3819",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "HYDRAULIC BRAKE FLUIDS AND OTHER PREPARED LIQUIDS FOR HYDRAULIC TRANSMISSION, NOT CONTAINING OR CONTAINING LESS THAN 70% BY WEIGHT OF PETROLEUM OILS OR OILS OBTAINED FROM BITUMINOUS MINERALS",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "38190010",
+   "hs6": "381900",
+   "hs6_description": "Hydraulic fluids; for brakes and other prepared liquids for hydraulic transmission, not containing or containing less than 70% by weight of petroleum oils or oils obtained from bituminous minerals",
    "level": 8,
    "chapter": "38",
    "description": "Hydraulic brake fluids",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "38190090",
+   "hs6": "381900",
+   "hs6_description": "Hydraulic fluids; for brakes and other prepared liquids for hydraulic transmission, not containing or containing less than 70% by weight of petroleum oils or oils obtained from bituminous minerals",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "38200000",
+   "hs6": "382000",
+   "hs6_description": "Anti-freezing preparations and prepared de-icing fluids",
    "level": 8,
    "chapter": "38",
    "description": "Anti-freezing preparations and prepared de-icing fluids.",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "38210000",
+   "hs6": "382100",
+   "hs6_description": "Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",
    "level": 8,
    "chapter": "38",
    "description": "Prepared culture media for the development or maintenance of human or animal cells.",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "3822",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "DIAGNOSTICS OR LABORATORY REAGENTS ON A BACKING, PREPARED DIAGNOSTIC OR LABORATORY REAGENTS WHETHER OR NOT ON A BACKING, WHETHER OR NOT PUT UP IN THE FORM OF KITS, OTHER THAN THOSE OF HEADING 3006; CERTIFIED REFERENCE MATERIALS",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "38221100",
+   "hs6": "382211",
+   "hs6_description": "Reagents; diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; for malaria",
    "level": 8,
    "chapter": "38",
    "description": "Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits: - - For malaria",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "38221200",
+   "hs6": "382212",
+   "hs6_description": "Reagents; diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; for zika and other diseases transmitted by mosquitoes of the genus Aedes",
    "level": 8,
    "chapter": "38",
    "description": "Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits: - - For Zika and other diseases transmitted by mosquitoes of the genus Aedes",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "38221300",
+   "hs6": "382213",
+   "hs6_description": "Reagents; diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; for blood grouping",
    "level": 8,
    "chapter": "38",
    "description": "Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits: - - For blood-grouping",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "382219",
+   "hs6": "382219",
+   "hs6_description": "Reagents; diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; n.e.c.in item 3822.1",
    "level": 6,
    "chapter": "38",
    "description": "Other:",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "38221910",
+   "hs6": "382219",
+   "hs6_description": "Reagents; diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; n.e.c.in item 3822.1",
    "level": 8,
    "chapter": "38",
    "description": "Pregnancy test kit",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "38221990",
+   "hs6": "382219",
+   "hs6_description": "Reagents; diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; n.e.c.in item 3822.1",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "382290",
+   "hs6": "382290",
+   "hs6_description": "Reagents; diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, or put up in the form of kits, other than those of heading 30.06; certified reference materials, n.e.c. in heading 3822",
    "level": 6,
    "chapter": "38",
    "description": "- Other:",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "38229010",
+   "hs6": "382290",
+   "hs6_description": "Reagents; diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, or put up in the form of kits, other than those of heading 30.06; certified reference materials, n.e.c. in heading 3822",
    "level": 8,
    "chapter": "38",
    "description": "Certified reference materials",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "38229090",
+   "hs6": "382290",
+   "hs6_description": "Reagents; diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, or put up in the form of kits, other than those of heading 30.06; certified reference materials, n.e.c. in heading 3822",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "3823",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Industrial monocarboxylic fatty acids; acid oils from refining; industrial fatty alcohols.",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "382311",
+   "hs6": "382311",
+   "hs6_description": "Industrial monocarboxylic fatty acids, acid oils from refining; stearic acid",
    "level": 6,
    "chapter": "38",
    "description": "Industrial monocarboxylic fatty acids; acid oils from refining :-- Stearic acid :",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "38231100",
+   "hs6": "382311",
+   "hs6_description": "Industrial monocarboxylic fatty acids, acid oils from refining; stearic acid",
    "level": 8,
    "chapter": "38",
    "description": "Industrial monocarboxylic fatty acids; acid oils from refining : -- Stearic acid",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "38231200",
+   "hs6": "382312",
+   "hs6_description": "Industrial monocarboxylic fatty acids, acid oils from refining; oleic acid",
    "level": 8,
    "chapter": "38",
    "description": "Industrial monocarboxylic fatty acids; acid oils from refining : -- Oleic acid",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "38231300",
+   "hs6": "382313",
+   "hs6_description": "Industrial monocarboxylic fatty acids, acid oils from refining; tall oil fatty acids",
    "level": 8,
    "chapter": "38",
    "description": "Industrial monocarboxylic fatty acids; acid oils from refining : -- Tall oil fatty acids",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "38231900",
+   "hs6": "382319",
+   "hs6_description": "Industrial monocarboxylic fatty acids; acid oils from refining; (other than stearic acid, oleic acid or tall oil fatty acids)",
    "level": 8,
    "chapter": "38",
    "description": "Industrial monocarboxylic fatty acids; acid oils from refining : -- Other",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "382370",
+   "hs6": "382370",
+   "hs6_description": "Industrial fatty alcohols",
    "level": 6,
    "chapter": "38",
    "description": "Industrial fatty alcohols",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "38237010",
+   "hs6": "382370",
+   "hs6_description": "Industrial fatty alcohols",
    "level": 8,
    "chapter": "38",
    "description": "Cetyl alcohol",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "38237020",
+   "hs6": "382370",
+   "hs6_description": "Industrial fatty alcohols",
    "level": 8,
    "chapter": "38",
    "description": "Lauryl alcohol",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "38237030",
+   "hs6": "382370",
+   "hs6_description": "Industrial fatty alcohols",
    "level": 8,
    "chapter": "38",
    "description": "Oleyl alcohol",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "38237040",
+   "hs6": "382370",
+   "hs6_description": "Industrial fatty alcohols",
    "level": 8,
    "chapter": "38",
    "description": "Stearyl alcohol",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "38237090",
+   "hs6": "382370",
+   "hs6_description": "Industrial fatty alcohols",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "3824",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Prepared binders for foundry moulds or cores; chemical products and preparations of the chemical or allied industries (including those consisting of mixtures of natural products), not elsewhere specified or included.",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "38241000",
+   "hs6": "382410",
+   "hs6_description": "Binders, prepared; for foundry moulds or cores",
    "level": 8,
    "chapter": "38",
    "description": "Prepared binders for foundry moulds or cores",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "38243000",
+   "hs6": "382430",
+   "hs6_description": "Metal carbides, non-agglomerated; mixed together or with metallic binders",
    "level": 8,
    "chapter": "38",
    "description": "Non-agglomerated metal carbides mixed together or with metallic binders",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "382440",
+   "hs6": "382440",
+   "hs6_description": "Cements, mortars or concretes; their prepared additives",
    "level": 6,
    "chapter": "38",
    "description": "Prepared additives for cements, mortars or concretes",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "38244010",
+   "hs6": "382440",
+   "hs6_description": "Cements, mortars or concretes; their prepared additives",
    "level": 8,
    "chapter": "38",
    "description": "Damp proof or Water proof compounds",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "38244090",
+   "hs6": "382440",
+   "hs6_description": "Cements, mortars or concretes; their prepared additives",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "382450",
+   "hs6": "382450",
+   "hs6_description": "Mortars and concretes; non-refractory",
    "level": 6,
    "chapter": "38",
    "description": "Non-refractory mortars and concretes",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "38245010",
+   "hs6": "382450",
+   "hs6_description": "Mortars and concretes; non-refractory",
    "level": 8,
    "chapter": "38",
    "description": "Concretes ready to use known as Ready-mix concrete (RMC)",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "38245090",
+   "hs6": "382450",
+   "hs6_description": "Mortars and concretes; non-refractory",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "382460",
+   "hs6": "382460",
+   "hs6_description": "Sorbitol; other than that of subheading no. 2905.44",
    "level": 6,
    "chapter": "38",
    "description": "Sorbitol other than that of subheading 2905.44",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "38246010",
+   "hs6": "382460",
+   "hs6_description": "Sorbitol; other than that of subheading no. 2905.44",
    "level": 8,
    "chapter": "38",
    "description": "In aqueous solution",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "38246090",
+   "hs6": "382460",
+   "hs6_description": "Sorbitol; other than that of subheading no. 2905.44",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "38248100",
+   "hs6": "382481",
+   "hs6_description": "Chemical products, mixtures and preparations; containing goods specified in Subheading Note 3 to this Chapter; containing oxirane (ethylene oxide)",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Subheading Note 3 to this Chapter : -- Containing oxirane (ethylene oxide)",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "38248200",
+   "hs6": "382482",
+   "hs6_description": "Chemical products, mixtures and preparations; containing goods specified in Subheading Note 3 to this Chapter; containing polychlorinated biphenyls (PCBs), polychlorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs)",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Subheading Note 3 to this Chapter : -- Containing polychlorinated biphenyls (PCBs), polychlorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs)",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "38248300",
+   "hs6": "382483",
+   "hs6_description": "Chemical products, mixtures and preparations; containing goods specified in Subheading Note 3 to this Chapter; containing tris(2,3-dibromopropyl) phosphate",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Subheading Note 3 to this Chapter : -- Containing tris(2,3-dibromopropyl) phosphate",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "38248400",
+   "hs6": "382484",
+   "hs6_description": "Chemical products, mixtures and preparations; containing aldrin, camphechlor (toxaphene), chlordane, chlordecone, DDT (chlorfenotane, 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane), dieldrin, endosulfan, endrin, heptachlor or mirex",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Subheading Note 3 to this Chapter : -- Containing aldrin (ISO), camphechlor (ISO) (toxaphene), chlordane (ISO), chlordecone (ISO), DDT (ISO) (clofenotane (INN), 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane), dieldrin (ISO, INN), endosulfan (ISO), endrin (ISO), heptachlor (ISO) or mirex (ISO)",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "38248500",
+   "hs6": "382485",
+   "hs6_description": "Chemical products, mixtures and preparations; containing goods specified in Subheading Note 3 to this Chapter; containing 1,2,3,4,5,6-hexachlorocyclohexane (HCH (ISO)), including lindane (ISO, INN)",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Subheading Note 3 to this Chapter : -- Containing 1,2,3,4,5,6-hexachlorocyclohexane (HCH (ISO)), including lindane (ISO, INN)",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "38248600",
+   "hs6": "382486",
+   "hs6_description": "Chemical products, mixtures and preparations; containing goods specified in Subheading Note 3 to this Chapter; containing pentachlorobenzene (ISO) or hexachlorobenzene (ISO)",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Subheading Note 3 to this Chapter : -- Containing pentachlorobenzene (ISO) or hexachlorobenzene (ISO)",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "38248700",
+   "hs6": "382487",
+   "hs6_description": "Chemical products, mixtures and preparations; containing goods specified in Subheading Note 3 to this Chapter; containing perfluorooctane sulphonic acid, its salts, perfluorooctane sulphonamides, or perfluorooctane sulphonyl fluoride",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Subheading Note 3 to this Chapter : -- Containing perfluorooctane sulphonic acid, its salts, perfluorooctane sulphonamides, or perfluorooctane sulphonyl fluoride",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "38248800",
+   "hs6": "382488",
+   "hs6_description": "Chemical products, mixtures and preparations; containing goods specified in Subheading Note 3 to this Chapter; containing tetra-, penta-, hexa-, hepta- or octabromodiphenyl ethers",
    "level": 8,
    "chapter": "38",
    "description": "Goods specified in Sub-heading Note 3 to this Chapter:-- Containing tetra-, penta-, hexa-, hepta- or octabromo-diphenyl ethers\"",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "38248900",
+   "hs6": "382489",
+   "hs6_description": "Chemical products, mixtures and preparations; containing goods specified in Subheading Note 3 to this Chapter; containing short-chain chlorinated paraffins",
    "level": 8,
    "chapter": "38",
    "description": "Containing short-chain chlorinated paraffins",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "38249100",
+   "hs6": "382491",
+   "hs6_description": "Chemical products, mixtures and preparations; consisting mainly of (5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl methyl methylphosphonate and bis[(5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl] methylphosphonate",
    "level": 8,
    "chapter": "38",
    "description": "Other -- Mixtures and preparations consisting mainly of (5-ethyl-2-methyl- 2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl methyl methylphosphonate and bis[(5-ethyl-2-methyl-2-oxido-1,3,2- dioxaphosphinan-5-yl)methyl] methylphosphonate",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "38249200",
+   "hs6": "382492",
+   "hs6_description": "Chemical products, mixtures and preparations; polyglycol esters of methylphosphonic acid",
    "level": 8,
    "chapter": "38",
    "description": "Polyglycol esters of methylphosphonic acid",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "38249900",
+   "hs6": "382499",
+   "hs6_description": "Chemical products, mixtures and preparations; n.e.c. heading 3824",
    "level": 8,
    "chapter": "38",
    "description": "Other -- Other",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "3825",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "Residual products of the chemical or allied industries, not elsewhere specified or included; municipal waste; sewage sludge; other wastes specified in Note 6 to this Chapter.",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "38251000",
+   "hs6": "382510",
+   "hs6_description": "Residual products of the chemical or allied industries, not elsewhere specified or included; municipal waste",
    "level": 8,
    "chapter": "38",
    "description": "Municipal waste",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "38252000",
+   "hs6": "382520",
+   "hs6_description": "Residual products of the chemical or allied industries, not elsewhere specified or included; sewage sludge",
    "level": 8,
    "chapter": "38",
    "description": "Sewage sludge",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "38253000",
+   "hs6": "382530",
+   "hs6_description": "Residual products of the chemical or allied industries, not elsewhere specified or included; clinical waste",
    "level": 8,
    "chapter": "38",
    "description": "Clinical waste",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "38254100",
+   "hs6": "382541",
+   "hs6_description": "Residual products of the chemical or allied industries, not elsewhere specified or included; halogenated waste organic solvents",
    "level": 8,
    "chapter": "38",
    "description": "Waste organic solvents : -- Halogenated",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "38254900",
+   "hs6": "382549",
+   "hs6_description": "Residual products of the chemical or allied industries, not elsewhere specified or included; waste organic solvents, other than halogenated",
    "level": 8,
    "chapter": "38",
    "description": "Waste organic solvents : -- Other",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "38255000",
+   "hs6": "382550",
+   "hs6_description": "Residual products of chemical or allied industries, not elsewhere specified or included; wastes of metal pickling liquors, hydraulic fluids, brake fluids and anti-freeze fluids",
    "level": 8,
    "chapter": "38",
    "description": "Wastes of metal pickling liquors, hydraulic fluids, brake fluids and anti-freeze fluids",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "38256100",
+   "hs6": "382561",
+   "hs6_description": "Residual products of the chemical or allied industries, not elsewhere specified or included; (other than sewage sludge, municipal waste or waste covered in 27.10); other wastes n.e.c. in 3825; those mainly containing organic constituents",
    "level": 8,
    "chapter": "38",
    "description": "Other wastes from chemical or allied industries : -- Mainly containing organic constituents",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "38256900",
+   "hs6": "382569",
+   "hs6_description": "Residual products of the chemical or allied industries, not elsewhere specified or included; (other than sewage sludge, municipal waste or waste covered by 27.10); other wastes n.e.c. in 3825; except those mainly containing organic constituents",
    "level": 8,
    "chapter": "38",
    "description": "Other wastes from chemical or allied industries : -- Other",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "38259000",
+   "hs6": "382590",
+   "hs6_description": "Residual products of the chemical or allied industries, not elsewhere specified or included; n.e.c. in 3825 or 27.10",
    "level": 8,
    "chapter": "38",
    "description": "Other",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "38260000",
+   "hs6": "382600",
+   "hs6_description": "Biodiesel and mixtures thereof; not containing or containing less than 70% by weight of petroleum oils or oils obtained from bituminous minerals",
    "level": 8,
    "chapter": "38",
    "description": "Biodiesel and mixtures thereof, not containing or containing less than 70 percent by weight of petroleum oils or oils obtained from bituminous minerals.",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "3827",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "38",
    "description": "MIXTURES CONTAINING HALOGENATED DERIVATIVES OF METHANE, ETHANE OR PROPANE, NOT ELSEWHERE SPECIFIED OR INCLUDED",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "38271100",
+   "hs6": "382711",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane, not elsewhere specified or included; containing chlorofluorocarbons (CFCs), whether or not containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbon",
    "level": 8,
    "chapter": "38",
    "description": "Containing chlorofluorocarbons (CFCs), whether or not containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs); containing hydrobromofluorocarbons (HBFCs); containing carbon tetrachloride; containing 1,1,1-trichloroethane (methyl chloroform): - - Containing chlorofluorocarbons (CFCs), whether or not containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs)",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "38271200",
+   "hs6": "382712",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane, not elsewhere specified or included; containing hydrobromofluorocarbons (HBFCs)",
    "level": 8,
    "chapter": "38",
    "description": "Containing chlorofluorocarbons (CFCs), whether or not containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs); containing hydrobromofluorocarbons (HBFCs); containing carbon tetrachloride; containing 1,1,1-trichloroethane (methyl chloroform): - - Containing hydrobromofluorocarbons (HBFCs)",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "38271300",
+   "hs6": "382713",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane, not elsewhere specified or included; containing carbon tetrachloride",
    "level": 8,
    "chapter": "38",
    "description": "Containing chlorofluorocarbons (CFCs), whether or not containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs); containing hydrobromofluorocarbons (HBFCs); containing carbon tetrachloride; containing 1,1,1-trichloroethane (methyl chloroform): - - Containing carbon tetrachloride",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "38271400",
+   "hs6": "382714",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane, not elsewhere specified or included; containing 1,1,1-trichloroethane (methyl chloroform)",
    "level": 8,
    "chapter": "38",
    "description": "Containing chlorofluorocarbons (CFCs), whether or not containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs); containing hydrobromofluorocarbons (HBFCs); containing carbon tetrachloride; containing 1,1,1-trichloroethane (methyl chloroform): - - Containing 1,1,1-trichloroethane (methyl chloroform)",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "38272000",
+   "hs6": "382720",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane, not elsewhere specified or included; containing bromochlorodifluoromethane (Halon-1211), bromotrifluoromethane (Halon-1301) or dibromotetrafluoroethanes (Halon-2402)",
    "level": 8,
    "chapter": "38",
    "description": "Containing chlorofluorocarbons (CFCs), whether or not containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs); containing hydrobromofluorocarbons (HBFCs); containing carbon tetrachloride; containing 1,1,1-trichloroethane (methyl chloroform): - Containing bromochlorodifluoromethane (Halon-1211), bromotrifluoromethane (Halon1301) or dibromotetrafluoroethanes (Halon2402)",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "38273100",
+   "hs6": "382731",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane; containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs) or not, but not containing chlorofluorocarbons (CFCs); containing substances of su",
    "level": 8,
    "chapter": "38",
    "description": "Containing hydrochlorofluorocarbons (HCFCs), whether or not containing perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs), but not containing chlorofluorocarbons (CFCs): - - Containing substances of sub-headings 2903 41 to 2903 48",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "38273200",
+   "hs6": "382732",
+   "hs6_description": "Mixtures containing halogenated methane, ethane, propane; containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs) or not, not chlorofluorocarbons (CFCs); containing substances of subheadings 2903.71 to 2903.75",
    "level": 8,
    "chapter": "38",
    "description": "Containing hydrochlorofluorocarbons (HCFCs), whether or not containing perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs), but not containing chlorofluorocarbons (CFCs):",
@@ -3033,6 +3537,8 @@
   },
   {
    "hs_code": "38273900",
+   "hs6": "382739",
+   "hs6_description": "Mixtures containing halogenated methane, ethane, or propane; containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs) or not, but not chlorofluorocarbons (CFCs); n.e.c. in subheading 3827.3",
    "level": 8,
    "chapter": "38",
    "description": "Containing hydrochlorofluorocarbons (HCFCs), whether or not containing perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs), but not containing chlorofluorocarbons (CFCs): - - Other",
@@ -3045,6 +3551,8 @@
   },
   {
    "hs_code": "38274000",
+   "hs6": "382740",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane; containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs) or not, but not containing chlorofluorocarbons (CFCs); containing bromomethane (me",
    "level": 8,
    "chapter": "38",
    "description": "Containing hydrochlorofluorocarbons (HCFCs), whether or not containing perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs), but not containing chlorofluorocarbons (CFCs): - Containing methyl bromide (bromomethane) or bromochloromethane",
@@ -3057,6 +3565,8 @@
   },
   {
    "hs_code": "38275100",
+   "hs6": "382751",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane; containing trifluoromethan (HFC-23) or perfluorocarbons (PFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs); containing trifluoromethane (HFC-2",
    "level": 8,
    "chapter": "38",
    "description": "Containing trifluoromethane (HFC-23) or perfluorocarbons (PFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs): - - Containing trifluoromethane (HFC-23)",
@@ -3069,6 +3579,8 @@
   },
   {
    "hs_code": "38275900",
+   "hs6": "382759",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane; containing trifluoromethan (HFC-23) or perfluorocarbons (PFCs) not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs); other mixtures n.e.c. in subheading 38",
    "level": 8,
    "chapter": "38",
    "description": "Containing trifluoromethane (HFC-23) or perfluorocarbons (PFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs): - - Other",
@@ -3081,6 +3593,8 @@
   },
   {
    "hs_code": "38276100",
+   "hs6": "382761",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane; containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs); containing 15% or more by mass of 1,1,1-trifluoroethan",
    "level": 8,
    "chapter": "38",
    "description": "Containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs): - - Containing 15% or more by mass of 1,1,1- trifluoroethane (HFC-143a)",
@@ -3093,6 +3607,8 @@
   },
   {
    "hs_code": "38276200",
+   "hs6": "382762",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane; containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs); other mixtures, not included in the subheading above, ",
    "level": 8,
    "chapter": "38",
    "description": "Containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs): - - Other, not included in the sub-heading above, containing 55% or more by mass of pentafluoroethane (HFC-125) but not containing unsaturated fluorinated derivatives of acyclic hydrocarbons (HFOs)b",
@@ -3105,6 +3621,8 @@
   },
   {
    "hs_code": "38276300",
+   "hs6": "382763",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane; containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs); other mixtures not included in the subheadings above, ",
    "level": 8,
    "chapter": "38",
    "description": "Containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs): - - Other, not included in the sub-headings above, containing 40% or more by mass of pentafluoroethane (HFC-125)",
@@ -3117,6 +3635,8 @@
   },
   {
    "hs_code": "38276400",
+   "hs6": "382764",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane; containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs); other mixtures, not included in the subheadings above,",
    "level": 8,
    "chapter": "38",
    "description": "Containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs): -- Other, not included in the sub-headings above, containing 30% or more by mass of 1,1,1,2- tetrafluoroethane (HFC-134a) but not containing unsaturated fluorinated derivatives of acyclic hydrocarbons (HFOs)",
@@ -3129,6 +3649,8 @@
   },
   {
    "hs_code": "38276500",
+   "hs6": "382765",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane; containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs); other mixtures, not included in the subheadings above,",
    "level": 8,
    "chapter": "38",
    "description": "Containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs): - - Other, not included in the sub-headings above, containing 20% or more by mass of difluoromethane (HFC-32) and 20% or more by mass of pentafluoroethane (HFC-125)",
@@ -3141,6 +3663,8 @@
   },
   {
    "hs_code": "38276800",
+   "hs6": "382768",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane; containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs); other mixtures, not included in the subheadings above,",
    "level": 8,
    "chapter": "38",
    "description": "Containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs): - - Other, not included in the sub-headings above, containing substances of sub-headings 2903 41 to 2903 48",
@@ -3153,6 +3677,8 @@
   },
   {
    "hs_code": "38276900",
+   "hs6": "382769",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane; containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs); n.e.c. in items no. 3827.5 and 3827.6, not containing ",
    "level": 8,
    "chapter": "38",
    "description": "Containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs): - - Other",
@@ -3165,6 +3691,8 @@
   },
   {
    "hs_code": "38279000",
+   "hs6": "382790",
+   "hs6_description": "Mixtures containing halogenated derivatives of methane, ethane or propane; n.e.c. in subheading no 3827",
    "level": 8,
    "chapter": "38",
    "description": "Containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs): - Other",

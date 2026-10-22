@@ -1,26 +1,26 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-6701,4,67,"Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and articles thereof (other than goods of heading 05.05 and worked quills and scapes).",,,,,,2026-10-22
-670100,6,67,"Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and",,,,,,2026-10-22
-67010010,8,67,Feather dusters,Free,,,,,2026-10-22
-67010090,8,67,Other,Free,"Import subject to Wild Life (Protection) Act, 1972 (as amended from time to time ) and CITES.",,,,2026-10-22
-6702,4,67,"Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit.",,,,,,2026-10-22
-670210,6,67,Of plastics,,,,,,2026-10-22
-67021010,8,67,Decorative plants,Free,,,,,2026-10-22
-67021090,8,67,Other,Free,,,,,2026-10-22
-670290,6,67,Of other materials,,,,,,2026-10-22
-67029010,8,67,Of jute,Free,,,,,2026-10-22
-67029090,8,67,Other,Free,,,,,2026-10-22
-6703,4,67,"Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like.",,,,,,2026-10-22
-670300,6,67,"Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like :",,,,,,2026-10-22
-67030010,8,67,"Human hair, dressed, thinned, bleached or otherwise worked",Free,,,,,2026-10-22
-67030020,8,67,"Wool or other animal hair or other textile materials, prepared for use in making wigs or the like",Free,,,,,2026-10-22
-6704,4,67,"Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of textile materials; articles of human hair not elsewhere specified or included.",,,,,,2026-10-22
-67041100,8,67,Of synthetic textile materials : -- Complete wigs,Free,,,,,2026-10-22
-670419,6,67,Of synthetic textile materials : -- Other,,,,,,2026-10-22
-67041910,8,67,Hair nets,Free,,,,,2026-10-22
-67041990,8,67,Other,Free,,,,,2026-10-22
-670420,6,67,Of human hair,,,,,,2026-10-22
-67042010,8,67,Wigs,Free,,,,,2026-10-22
-67042020,8,67,Hair nets,Free,,,,,2026-10-22
-67042090,8,67,Other,Free,,,,,2026-10-22
-67049000,8,67,Of other materials,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+6701,,,4,67,"Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and articles thereof (other than goods of heading 05.05 and worked quills and scapes).",,,,,,2026-10-22
+670100,670100,"Skins and other parts of birds with their feathers or down; feathers, parts of feathers, down and articles thereof (other than goods of heading no. 0505 and worked quills and scapes)",6,67,"Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and",,,,,,2026-10-22
+67010010,670100,"Skins and other parts of birds with their feathers or down; feathers, parts of feathers, down and articles thereof (other than goods of heading no. 0505 and worked quills and scapes)",8,67,Feather dusters,Free,,,,,2026-10-22
+67010090,670100,"Skins and other parts of birds with their feathers or down; feathers, parts of feathers, down and articles thereof (other than goods of heading no. 0505 and worked quills and scapes)",8,67,Other,Free,"Import subject to Wild Life (Protection) Act, 1972 (as amended from time to time ) and CITES.",,,,2026-10-22
+6702,,,4,67,"Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit.",,,,,,2026-10-22
+670210,670210,"Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit, of plastics",6,67,Of plastics,,,,,,2026-10-22
+67021010,670210,"Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit, of plastics",8,67,Decorative plants,Free,,,,,2026-10-22
+67021090,670210,"Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit, of plastics",8,67,Other,Free,,,,,2026-10-22
+670290,670290,"Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit, of materials other than plastics",6,67,Of other materials,,,,,,2026-10-22
+67029010,670290,"Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit, of materials other than plastics",8,67,Of jute,Free,,,,,2026-10-22
+67029090,670290,"Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit, of materials other than plastics",8,67,Other,Free,,,,,2026-10-22
+6703,,,4,67,"Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like.",,,,,,2026-10-22
+670300,670300,"Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like",6,67,"Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like :",,,,,,2026-10-22
+67030010,670300,"Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like",8,67,"Human hair, dressed, thinned, bleached or otherwise worked",Free,,,,,2026-10-22
+67030020,670300,"Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like",8,67,"Wool or other animal hair or other textile materials, prepared for use in making wigs or the like",Free,,,,,2026-10-22
+6704,,,4,67,"Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of textile materials; articles of human hair not elsewhere specified or included.",,,,,,2026-10-22
+67041100,670411,"Wigs; complete, of synthetic textile materials",8,67,Of synthetic textile materials : -- Complete wigs,Free,,,,,2026-10-22
+670419,670419,"False beards, eyebrows and eyelashes, switches and the like; of synthetic textile materials",6,67,Of synthetic textile materials : -- Other,,,,,,2026-10-22
+67041910,670419,"False beards, eyebrows and eyelashes, switches and the like; of synthetic textile materials",8,67,Hair nets,Free,,,,,2026-10-22
+67041990,670419,"False beards, eyebrows and eyelashes, switches and the like; of synthetic textile materials",8,67,Other,Free,,,,,2026-10-22
+670420,670420,"Wigs, false beards, eyebrows and eyelashes, switches and the like and other articles n.e.c.; of human hair",6,67,Of human hair,,,,,,2026-10-22
+67042010,670420,"Wigs, false beards, eyebrows and eyelashes, switches and the like and other articles n.e.c.; of human hair",8,67,Wigs,Free,,,,,2026-10-22
+67042020,670420,"Wigs, false beards, eyebrows and eyelashes, switches and the like and other articles n.e.c.; of human hair",8,67,Hair nets,Free,,,,,2026-10-22
+67042090,670420,"Wigs, false beards, eyebrows and eyelashes, switches and the like and other articles n.e.c.; of human hair",8,67,Other,Free,,,,,2026-10-22
+67049000,670490,"Wigs, false beards, eyebrows and eyelashes, switches and the like and other articles n.e.c.; of animal hair or of textile materials other than synthetic",8,67,Of other materials,Free,,,,,2026-10-22

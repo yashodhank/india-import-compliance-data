@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "9301",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "93",
    "description": "MILITARY WEAPONS, OTHER THAN REVOLVERS, PISTOLS AND THE ARMS OF HEADING",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "930110",
+   "hs6": "930110",
+   "hs6_description": "Military weapons; artillery weapons (e.g. guns, howitzers, and mortars)",
    "level": 6,
    "chapter": "93",
    "description": "Artillery weapons (for example, guns, howitzers and mortars)",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "93011010",
+   "hs6": "930110",
+   "hs6_description": "Military weapons; artillery weapons (e.g. guns, howitzers, and mortars)",
    "level": 8,
    "chapter": "93",
    "description": "Self propelled",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "93011090",
+   "hs6": "930110",
+   "hs6_description": "Military weapons; artillery weapons (e.g. guns, howitzers, and mortars)",
    "level": 8,
    "chapter": "93",
    "description": "Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "930120",
+   "hs6": "930120",
+   "hs6_description": "Military weapons; rocket launchers, flame-throwers, grenade launchers, torpedo tubes and similar projectors",
    "level": 6,
    "chapter": "93",
    "description": "Rocket launchers; flame-throwers; grenade launchers; torpedo tubes and similar projectors",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "93012000",
+   "hs6": "930120",
+   "hs6_description": "Military weapons; rocket launchers, flame-throwers, grenade launchers, torpedo tubes and similar projectors",
    "level": 8,
    "chapter": "93",
    "description": "Rocket launchers; flame-throwers; grenade launchers; torpedo tubes and similar projectors",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "93019000",
+   "hs6": "930190",
+   "hs6_description": "Military weapons; other than revolvers, pistols, and arms of heading 9307, n.e.c. in heading 9301",
    "level": 8,
    "chapter": "93",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "93020000",
+   "hs6": "930200",
+   "hs6_description": "Revolvers and pistols; other than those of heading no. 9303 or 9304",
    "level": 8,
    "chapter": "93",
    "description": "Revolvers and Pistols, other than those of heading 9303 or 9304",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "9303",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "93",
    "description": "Other firearms and similar devices which operate by the firing of an explosive charge (for example, sporting shotguns and rifles, muzzle-loading firearms, Very pistols and other devices designed to project only signal flares, pistols and revolvers for firing blank ammunition, captive-bolt humane killers, line-throwing guns).",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "93031000",
+   "hs6": "930310",
+   "hs6_description": "Firearms; muzzle-loading",
    "level": 8,
    "chapter": "93",
    "description": "Muzzle-loading firearms",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "93032000",
+   "hs6": "930320",
+   "hs6_description": "Firearms; sporting, hunting or target-shooting shotguns, including combination shotgun-rifles",
    "level": 8,
    "chapter": "93",
    "description": "Other sporting, hunting or target-shooting shotguns, including combination shotgun-rifles",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "93033000",
+   "hs6": "930330",
+   "hs6_description": "Firearms; sporting, hunting or target-shooting rifles n.e.c. in heading no. 9303",
    "level": 8,
    "chapter": "93",
    "description": "Other sporting, hunting or target-shooting rifles",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "93039000",
+   "hs6": "930390",
+   "hs6_description": "Firearms; n.e.c. in heading no. 9303",
    "level": 8,
    "chapter": "93",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "93040000",
+   "hs6": "930400",
+   "hs6_description": "Firearms; (e.g. spring, air or gas guns and pistols, truncheons), excluding those of heading no. 9307",
    "level": 8,
    "chapter": "93",
    "description": "Other Arms (for example, spring, air or gas guns and pistols, truncheons), excluding those of heading 9307",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "9305",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "93",
    "description": "PARTS AND ACCESSORIES OF ARTICLES OF HEADINGS 9301 TO 9304",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "93051000",
+   "hs6": "930510",
+   "hs6_description": "Firearms; parts and accessories, of revolvers or pistols",
    "level": 8,
    "chapter": "93",
    "description": "Of revolvers or pistols",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "930520",
+   "hs6": "930520",
+   "hs6_description": "Firearms; parts and accessories, of shotguns or rifles of heading 9303",
    "level": 6,
    "chapter": "93",
    "description": "Of shotguns or rifles of heading 9303 :",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "93052010",
+   "hs6": "930520",
+   "hs6_description": "Firearms; parts and accessories, of shotguns or rifles of heading 9303",
    "level": 8,
    "chapter": "93",
    "description": "Shotgun barrels",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "93052090",
+   "hs6": "930520",
+   "hs6_description": "Firearms; parts and accessories, of shotguns or rifles of heading 9303",
    "level": 8,
    "chapter": "93",
    "description": "Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "930591",
+   "hs6": "930591",
+   "hs6_description": "Firearms; parts and accessories, of military weapons of heading 9301",
    "level": 6,
    "chapter": "93",
    "description": "Other --Of military weapons of heading 93.01",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "93059100",
+   "hs6": "930591",
+   "hs6_description": "Firearms; parts and accessories, of military weapons of heading 9301",
    "level": 8,
    "chapter": "93",
    "description": "Other : -- Of military weapons of heading 9301",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "930599",
+   "hs6": "930599",
+   "hs6_description": "Firearms; parts and accessories, of firearms other than the military weapons of heading 9301",
    "level": 6,
    "chapter": "93",
    "description": "Other:",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "93059910",
+   "hs6": "930599",
+   "hs6_description": "Firearms; parts and accessories, of firearms other than the military weapons of heading 9301",
    "level": 8,
    "chapter": "93",
    "description": "Of goods of heading 9304",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "93059990",
+   "hs6": "930599",
+   "hs6_description": "Firearms; parts and accessories, of firearms other than the military weapons of heading 9301",
    "level": 8,
    "chapter": "93",
    "description": "Other",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "9306",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "93",
    "description": "Bombs, grenades, torpedoes, mines, missiles and similar munitions of war and parts thereof; cartridges and other ammunition and projectiles and parts thereof, including shot and cartridge wads.",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "93062100",
+   "hs6": "930621",
+   "hs6_description": "Ammunition; shotgun cartridges",
    "level": 8,
    "chapter": "93",
    "description": "Shotgun cartridges and parts thereof; air gun pellets : -- Cartridges",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "93062900",
+   "hs6": "930629",
+   "hs6_description": "Ammunition; parts of shotgun cartridges",
    "level": 8,
    "chapter": "93",
    "description": "Shotgun cartridges and parts thereof; air gun pellets : -- Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "93063000",
+   "hs6": "930630",
+   "hs6_description": "Ammunition; cartridges and parts thereof n.e.c. in heading no. 9306",
    "level": 8,
    "chapter": "93",
    "description": "Other cartridges and parts thereof",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "93069000",
+   "hs6": "930690",
+   "hs6_description": "Ammunition; n.e.c. in chapter 93",
    "level": 8,
    "chapter": "93",
    "description": "Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "93070000",
+   "hs6": "930700",
+   "hs6_description": "Arms; swords, cutlasses, bayonets, lances and the like, parts thereof and scabbards and sheaths therefor",
    "level": 8,
    "chapter": "93",
    "description": "Swords, cutlasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor.",

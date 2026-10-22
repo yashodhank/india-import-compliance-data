@@ -1,40 +1,40 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-7501,4,75,"Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy.",,,,,,2026-10-22
-75011000,8,75,Nickel mattes,Free,,,,,2026-10-22
-75012000,8,75,Nickel oxide sinters and other intermediate products of nickel metallurgy,Free,,,,,2026-10-22
-7502,4,75,Unwrought nickel.,,,,,,2026-10-22
-75021000,8,75,"Nickel, not alloyed",Free,,,,,2026-10-22
-750220,6,75,Nickel alloys,,,,,,2026-10-22
-75022010,8,75,Cupro-nickel containing more than 40 percent by weight of nickel,Free,,,,,2026-10-22
-75022020,8,75,Monel metal including K monel,Free,,,,,2026-10-22
-75022030,8,75,Nickel alloys containing more than 40 percent by weight of nickel,Free,,,,,2026-10-22
-75022040,8,75,Nickel alloys containing more than 10 percent but not more than 40percent by weight of nickel,Free,,,,,2026-10-22
-75022090,8,75,Other,Free,,,,,2026-10-22
-7503,4,75,NICKEL WASTE AND SCRAP,,,,,,2026-10-22
-750300,6,75,Nickel waste and scrap.,,,,,,2026-10-22
-75030010,8,75,"Nickel scrap, namely the following: New nickel scrap covered by ISRI code word Aroma; Old nickel scrap covered by ISRI code word Burly; New R-monel clippings solids covered by ISRI code word Hitch; New mixed monel solids and clippings covered by ISRI code word House; Old monel sheet and solids covered by ISRI code word Ideal; k-monel solids covered by ISRI code word Indian; Soldered monel sheet and solids covered by ISRI code word Junto; Monel castings covered by ISRI code word Lemon; Monel turnings covered by ISRI code word Lemur; Nickel scrap obtained by breaking up of ships, boats and other floating structures; Nickel-iron batteries to be sold free of crates, copper terminal connectors and excess liquid, must be free of nickel cadmium batteries covered by ISRI code word Vaunt",Free,,,,,2026-10-22
-75030090,8,75,Other,Restricted,,,,,2026-10-22
-75040000,8,75,Nickel powders and flakes.,Free,,,,,2026-10-22
-7505,4,75,"Nickel bars, rods, profiles and wire.",,,,,,2026-10-22
-750511,6,75,"Bars, rods and profiles : -- Of nickel, not alloyed",,,,,,2026-10-22
-75051110,8,75,Hollow bars,Free,,,,,2026-10-22
-75051120,8,75,Other bar rods and profiles,Free,,,,,2026-10-22
-750512,6,75,"Bars, rods and profiles : -- Of nickel alloys",,,,,,2026-10-22
-75051210,8,75,Hollow bars,Free,,,,,2026-10-22
-75051220,8,75,Other bars; rods and profiles,Free,,,,,2026-10-22
-75052100,8,75,"Wire : -- Of nickel, not alloyed",Free,,,,,2026-10-22
-75052200,8,75,Wire : -- Of nickel alloys,Free,,,,,2026-10-22
-7506,4,75,"Nickel plates, sheets, strip and foil.",,,,,,2026-10-22
-75061000,8,75,"Of nickel, not alloyed",Free,,,,,2026-10-22
-75062000,8,75,Of nickel alloys,Free,,,,,2026-10-22
-7507,4,75,"Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves).",,,,,,2026-10-22
-75071100,8,75,"Tubes and pipes : -- Of nickel, not alloyed",Free,,,,,2026-10-22
-75071200,8,75,Tubes and pipes : -- Of nickel alloys,Free,,,,,2026-10-22
-75072000,8,75,Tube or pipe fittings,Free,,,,,2026-10-22
-7508,4,75,Other articles of nickel.,,,,,,2026-10-22
-75081000,8,75,"Cloth, grill and netting, of nickel wire",Free,,,,,2026-10-22
-750890,6,75,Other,,,,,,2026-10-22
-75089010,8,75,Electroplating anodes of nickel,Free,,,,,2026-10-22
-75089020,8,75,Blanks ordinarily used for manufacturing tubes and pipes of nickel,Free,,,,,2026-10-22
-75089030,8,75,Nickel screen,Free,,,,,2026-10-22
-75089090,8,75,Other articles of nickel and nickel alloy,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+7501,,,4,75,"Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy.",,,,,,2026-10-22
+75011000,750110,Nickel; nickel mattes,8,75,Nickel mattes,Free,,,,,2026-10-22
+75012000,750120,Nickel; oxide sinters and other intermediate products of nickel metallurgy,8,75,Nickel oxide sinters and other intermediate products of nickel metallurgy,Free,,,,,2026-10-22
+7502,,,4,75,Unwrought nickel.,,,,,,2026-10-22
+75021000,750210,"Nickel; unwrought, not alloyed",8,75,"Nickel, not alloyed",Free,,,,,2026-10-22
+750220,750220,"Nickel; unwrought, alloys",6,75,Nickel alloys,,,,,,2026-10-22
+75022010,750220,"Nickel; unwrought, alloys",8,75,Cupro-nickel containing more than 40 percent by weight of nickel,Free,,,,,2026-10-22
+75022020,750220,"Nickel; unwrought, alloys",8,75,Monel metal including K monel,Free,,,,,2026-10-22
+75022030,750220,"Nickel; unwrought, alloys",8,75,Nickel alloys containing more than 40 percent by weight of nickel,Free,,,,,2026-10-22
+75022040,750220,"Nickel; unwrought, alloys",8,75,Nickel alloys containing more than 10 percent but not more than 40percent by weight of nickel,Free,,,,,2026-10-22
+75022090,750220,"Nickel; unwrought, alloys",8,75,Other,Free,,,,,2026-10-22
+7503,,,4,75,NICKEL WASTE AND SCRAP,,,,,,2026-10-22
+750300,750300,Nickel; waste and scrap,6,75,Nickel waste and scrap.,,,,,,2026-10-22
+75030010,750300,Nickel; waste and scrap,8,75,"Nickel scrap, namely the following: New nickel scrap covered by ISRI code word Aroma; Old nickel scrap covered by ISRI code word Burly; New R-monel clippings solids covered by ISRI code word Hitch; New mixed monel solids and clippings covered by ISRI code word House; Old monel sheet and solids covered by ISRI code word Ideal; k-monel solids covered by ISRI code word Indian; Soldered monel sheet and solids covered by ISRI code word Junto; Monel castings covered by ISRI code word Lemon; Monel turnings covered by ISRI code word Lemur; Nickel scrap obtained by breaking up of ships, boats and other floating structures; Nickel-iron batteries to be sold free of crates, copper terminal connectors and excess liquid, must be free of nickel cadmium batteries covered by ISRI code word Vaunt",Free,,,,,2026-10-22
+75030090,750300,Nickel; waste and scrap,8,75,Other,Restricted,,,,,2026-10-22
+75040000,750400,Nickel; powders and flakes,8,75,Nickel powders and flakes.,Free,,,,,2026-10-22
+7505,,,4,75,"Nickel bars, rods, profiles and wire.",,,,,,2026-10-22
+750511,750511,"Nickel; bars, rods and profiles, not alloyed",6,75,"Bars, rods and profiles : -- Of nickel, not alloyed",,,,,,2026-10-22
+75051110,750511,"Nickel; bars, rods and profiles, not alloyed",8,75,Hollow bars,Free,,,,,2026-10-22
+75051120,750511,"Nickel; bars, rods and profiles, not alloyed",8,75,Other bar rods and profiles,Free,,,,,2026-10-22
+750512,750512,"Nickel; bars, rods and profiles, of nickel alloys",6,75,"Bars, rods and profiles : -- Of nickel alloys",,,,,,2026-10-22
+75051210,750512,"Nickel; bars, rods and profiles, of nickel alloys",8,75,Hollow bars,Free,,,,,2026-10-22
+75051220,750512,"Nickel; bars, rods and profiles, of nickel alloys",8,75,Other bars; rods and profiles,Free,,,,,2026-10-22
+75052100,750521,"Nickel; wire, not alloyed",8,75,"Wire : -- Of nickel, not alloyed",Free,,,,,2026-10-22
+75052200,750522,"Nickel; wire, of nickel alloys",8,75,Wire : -- Of nickel alloys,Free,,,,,2026-10-22
+7506,,,4,75,"Nickel plates, sheets, strip and foil.",,,,,,2026-10-22
+75061000,750610,"Nickel; plates, sheets, strip and foil, not alloyed",8,75,"Of nickel, not alloyed",Free,,,,,2026-10-22
+75062000,750620,"Nickel; plates, sheets, strip and foil, of nickel alloys",8,75,Of nickel alloys,Free,,,,,2026-10-22
+7507,,,4,75,"Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves).",,,,,,2026-10-22
+75071100,750711,"Nickel; tubes and pipes, not alloyed",8,75,"Tubes and pipes : -- Of nickel, not alloyed",Free,,,,,2026-10-22
+75071200,750712,"Nickel; tubes and pipes, of nickel alloys",8,75,Tubes and pipes : -- Of nickel alloys,Free,,,,,2026-10-22
+75072000,750720,Nickel; tube and pipe fittings,8,75,Tube or pipe fittings,Free,,,,,2026-10-22
+7508,,,4,75,Other articles of nickel.,,,,,,2026-10-22
+75081000,750810,"Nickel; cloth, grill and netting, of nickel wire",8,75,"Cloth, grill and netting, of nickel wire",Free,,,,,2026-10-22
+750890,750890,Nickel; articles thereof n.e.c. in item no. 7508.1,6,75,Other,,,,,,2026-10-22
+75089010,750890,Nickel; articles thereof n.e.c. in item no. 7508.1,8,75,Electroplating anodes of nickel,Free,,,,,2026-10-22
+75089020,750890,Nickel; articles thereof n.e.c. in item no. 7508.1,8,75,Blanks ordinarily used for manufacturing tubes and pipes of nickel,Free,,,,,2026-10-22
+75089030,750890,Nickel; articles thereof n.e.c. in item no. 7508.1,8,75,Nickel screen,Free,,,,,2026-10-22
+75089090,750890,Nickel; articles thereof n.e.c. in item no. 7508.1,8,75,Other articles of nickel and nickel alloy,Free,,,,,2026-10-22

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "0701",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "07",
    "description": "Potatoes, fresh or chilled.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "07011000",
+   "hs6": "070110",
+   "hs6_description": "Vegetables; seed potatoes, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Seed",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "07019000",
+   "hs6": "070190",
+   "hs6_description": "Vegetables; potatoes (other than seed), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "07020000",
+   "hs6": "070200",
+   "hs6_description": "Vegetables; tomatoes, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Tomatoes, fresh or chilled.",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "0703",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "07",
    "description": "Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "070310",
+   "hs6": "070310",
+   "hs6_description": "Vegetables, alliaceous; onions and shallots, fresh or chilled",
    "level": 6,
    "chapter": "07",
    "description": "Onions and shallots",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "07031011",
+   "hs6": "070310",
+   "hs6_description": "Vegetables, alliaceous; onions and shallots, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Onions: ----Rose onion",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "07031019",
+   "hs6": "070310",
+   "hs6_description": "Vegetables, alliaceous; onions and shallots, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Onions: ----Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "07031020",
+   "hs6": "070310",
+   "hs6_description": "Vegetables, alliaceous; onions and shallots, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Shallots",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "07032000",
+   "hs6": "070320",
+   "hs6_description": "Vegetables, alliaceous; garlic, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Garlic",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "07039000",
+   "hs6": "070390",
+   "hs6_description": "Vegetables, alliaceous; leeks and other kinds n.e.c. in heading no. 0703, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Leeks and other alliaceous vegetables",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "0704",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "07",
    "description": "Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "07041000",
+   "hs6": "070410",
+   "hs6_description": "Vegetables, brassica; cauliflowers and broccoli, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "- Cauliflowers and broccoli",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "07042000",
+   "hs6": "070420",
+   "hs6_description": "Vegetables, brassica; brussel sprouts, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Brussels sprouts",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "07049000",
+   "hs6": "070490",
+   "hs6_description": "Vegetables, brassica; edible, n.e.c. in heading no. 0704, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "0705",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "07",
    "description": "Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled.",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "07051100",
+   "hs6": "070511",
+   "hs6_description": "Vegetables; cabbage (head) lettuce (lactuca sativa), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Lettuce : -- Cabbage lettuce (head lettuce)",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "07051900",
+   "hs6": "070519",
+   "hs6_description": "Vegetables; lettuce (lactuca sativa), (other than cabbage lettuce), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Lettuce : -- Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "07052100",
+   "hs6": "070521",
+   "hs6_description": "Vegetables; witloff chicory (cichorium intybus var. foliosum), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Chicory : --Witloof chicory (Cichorium intybus var. foliosum)",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "07052900",
+   "hs6": "070529",
+   "hs6_description": "Vegetables; chicory (cichorium spp.), (other than witloof chicory), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Chicory : --Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "0706",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "07",
    "description": "Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "07061000",
+   "hs6": "070610",
+   "hs6_description": "Vegetables, root; carrots and turnips, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Carrots and turnips",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "070690",
+   "hs6": "070690",
+   "hs6_description": "Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",
    "level": 6,
    "chapter": "07",
    "description": "Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "07069010",
+   "hs6": "070690",
+   "hs6_description": "Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Horse radish",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "07069020",
+   "hs6": "070690",
+   "hs6_description": "Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Other Radish",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "07069030",
+   "hs6": "070690",
+   "hs6_description": "Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Salad beetroot",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "07069090",
+   "hs6": "070690",
+   "hs6_description": "Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "07070000",
+   "hs6": "070700",
+   "hs6_description": "Vegetables; cucumbers and gherkins, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Cucumbers and gherkins, fresh or chilled.",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "0708",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "07",
    "description": "Leguminous vegetables, shelled or unshelled, fresh or chilled.",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "07081000",
+   "hs6": "070810",
+   "hs6_description": "Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Peas (Pisum sativum)",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "07082000",
+   "hs6": "070820",
+   "hs6_description": "Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Beans (Vigna spp., Phaseolus spp.)",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "07089000",
+   "hs6": "070890",
+   "hs6_description": "Vegetables, leguminous; (other than peas and beans), shelled or unshelled, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Other leguminous vegetables",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "0709",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "07",
    "description": "Other vegetables, fresh or chilled.",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "07092000",
+   "hs6": "070920",
+   "hs6_description": "Vegetables; asparagus, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Asparagus",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "07093000",
+   "hs6": "070930",
+   "hs6_description": "Vegetables; aubergines, (e.g. plants), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Aubergines (egg-plants)",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "07094000",
+   "hs6": "070940",
+   "hs6_description": "Vegetables; celery (other than celeriac), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Celery other than celeriac",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "07095100",
+   "hs6": "070951",
+   "hs6_description": "Vegetables; mushrooms of the genus Agaricus, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms and truffles : -- Mushrooms of the genus Agaricus",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "07095200",
+   "hs6": "070952",
+   "hs6_description": "Vegetables; mushrooms of the genus Boletus, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms and truffles:- - Mushrooms of the genus Boletus",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "07095300",
+   "hs6": "070953",
+   "hs6_description": "Vegetables; mushrooms of the genus Cantharellus, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms and truffles:- - Mushrooms of the genus Cantharellus",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "07095400",
+   "hs6": "070954",
+   "hs6_description": "Vegetables; shiitake mushrooms (Lentinus edodes), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms and truffles:- - Shiitake (Lentinus edodes)",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "07095500",
+   "hs6": "070955",
+   "hs6_description": "Vegetables; matsutake mushrooms (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms and truffles:- - Matsutake (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum)",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "07095600",
+   "hs6": "070956",
+   "hs6_description": "Vegetables; truffles (Tuber spp.), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms and truffles:- - Truffles (Tuber spp.)",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "07095900",
+   "hs6": "070959",
+   "hs6_description": "Vegetables; truffles and mushrooms n.e.c. in heading 0709, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms and truffles : -- Other",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "070960",
+   "hs6": "070960",
+   "hs6_description": "Vegetables; fruits of the genus capsicum or of the genus pimenta, fresh or chilled",
    "level": 6,
    "chapter": "07",
    "description": "Fruits of the genus Capsicum or of the genus Pimenta",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "07096010",
+   "hs6": "070960",
+   "hs6_description": "Vegetables; fruits of the genus capsicum or of the genus pimenta, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Green chilly",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "07096090",
+   "hs6": "070960",
+   "hs6_description": "Vegetables; fruits of the genus capsicum or of the genus pimenta, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "07097000",
+   "hs6": "070970",
+   "hs6_description": "Vegetables; spinach, New Zealand spinach and orache spinach (garden spinach), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Spinach, New Zealand spinach and orache spinach (garden spinach)",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "07099100",
+   "hs6": "070991",
+   "hs6_description": "Vegetables; globe artichokes, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Other : -- Globe artichokes",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "07099200",
+   "hs6": "070992",
+   "hs6_description": "Vegetables; olives, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Other : -- Olives",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "070993",
+   "hs6": "070993",
+   "hs6_description": "Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",
    "level": 6,
    "chapter": "07",
    "description": "Other: -- Pumpkins, squash and gourds (Cucurbita spp.)",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "07099310",
+   "hs6": "070993",
+   "hs6_description": "Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Pumpkins",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "07099320",
+   "hs6": "070993",
+   "hs6_description": "Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Squash",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "07099330",
+   "hs6": "070993",
+   "hs6_description": "Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Bitter gourd",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "07099340",
+   "hs6": "070993",
+   "hs6_description": "Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Bottle gourd",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "07099350",
+   "hs6": "070993",
+   "hs6_description": "Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Snake gourd",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "07099360",
+   "hs6": "070993",
+   "hs6_description": "Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Coccinia (Kundru)",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "07099390",
+   "hs6": "070993",
+   "hs6_description": "Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "070999",
+   "hs6": "070999",
+   "hs6_description": "Vegetables; edible, n.e.c. in chapter 07, fresh or chilled",
    "level": 6,
    "chapter": "07",
    "description": "Other : -- Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "07099910",
+   "hs6": "070999",
+   "hs6_description": "Vegetables; edible, n.e.c. in chapter 07, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Green Pepper",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "07099930",
+   "hs6": "070999",
+   "hs6_description": "Vegetables; edible, n.e.c. in chapter 07, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Okra/lady finger (Bhindi)",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "07099990",
+   "hs6": "070999",
+   "hs6_description": "Vegetables; edible, n.e.c. in chapter 07, fresh or chilled",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "0710",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "07",
    "description": "Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "07101000",
+   "hs6": "071010",
+   "hs6_description": "Vegetables; potatoes, uncooked or cooked by steaming or boiling in water, frozen",
    "level": 8,
    "chapter": "07",
    "description": "Potatoes",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "07102100",
+   "hs6": "071021",
+   "hs6_description": "Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, uncooked or cooked by steaming or boiling in water, frozen",
    "level": 8,
    "chapter": "07",
    "description": "Leguminous vegetables, shelled or unshelled : -- Peas (Pisum sativum)",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "07102200",
+   "hs6": "071022",
+   "hs6_description": "Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, uncooked or cooked by steaming or boiling in water, frozen",
    "level": 8,
    "chapter": "07",
    "description": "Leguminous vegetables, shelled or unshelled : -- Beans (Vigna spp., Phaseolus spp.)",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "07102900",
+   "hs6": "071029",
+   "hs6_description": "Vegetables, leguminous; (other than peas or beans), shelled or unshelled, uncooked or cooked by steaming or boiling in water, frozen",
    "level": 8,
    "chapter": "07",
    "description": "Leguminous vegetables, shelled or unshelled : -- Other",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "07103000",
+   "hs6": "071030",
+   "hs6_description": "Vegetables; spinach, New Zealand spinach and orache spinach (garden spinach), uncooked or cooked by steaming or boiling in water, frozen",
    "level": 8,
    "chapter": "07",
    "description": "Spinach, New Zealand spinach and orache spinach (garden spinach)",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "07104000",
+   "hs6": "071040",
+   "hs6_description": "Vegetables; sweetcorn, uncooked or cooked by steaming or boiling in water, frozen",
    "level": 8,
    "chapter": "07",
    "description": "Sweet corn",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "071080",
+   "hs6": "071080",
+   "hs6_description": "Vegetables; uncooked or cooked by steaming or boiling in water, n.e.c. in heading no. 0710, frozen",
    "level": 6,
    "chapter": "07",
    "description": "Other vegetables",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "07108010",
+   "hs6": "071080",
+   "hs6_description": "Vegetables; uncooked or cooked by steaming or boiling in water, n.e.c. in heading no. 0710, frozen",
    "level": 8,
    "chapter": "07",
    "description": "Terragon",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "07108090",
+   "hs6": "071080",
+   "hs6_description": "Vegetables; uncooked or cooked by steaming or boiling in water, n.e.c. in heading no. 0710, frozen",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "07109000",
+   "hs6": "071090",
+   "hs6_description": "Vegetable mixtures; uncooked or cooked by steaming or boiling in water, frozen",
    "level": 8,
    "chapter": "07",
    "description": "Mixtures of vegetables",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "0711",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "07",
    "description": "VEGETABLES PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "07112000",
+   "hs6": "071120",
+   "hs6_description": "Vegetables; olives, provisionally preserved but unsuitable in that state for immediate consumption",
    "level": 8,
    "chapter": "07",
    "description": "Olives",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "07114000",
+   "hs6": "071140",
+   "hs6_description": "Vegetables; cucumbers and gherkins, provisionally preserved but unsuitable in that state for immediate consumption",
    "level": 8,
    "chapter": "07",
    "description": "Cucumbers and gherkins",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "07115100",
+   "hs6": "071151",
+   "hs6_description": "Vegetables; mushrooms of the genus Agaricus, provisionally preserved but unsuitable in that state for immediate consumption",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms and truffles : -- Mushrooms of the genus Agaricus",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "07115900",
+   "hs6": "071159",
+   "hs6_description": "Vegetables; mushrooms other than of the genus Agaricus, provisionally preserved but unsuitable in that state for immediate consumption",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms and truffles : -- Other",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "071190",
+   "hs6": "071190",
+   "hs6_description": "Vegetables and mixed vegetables; n.e.c. in heading no. 0711, provisionally preserved but unsuitable in that state for immediate consumption",
    "level": 6,
    "chapter": "07",
    "description": "Other vegetables; mixtures of vegetables",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "07119010",
+   "hs6": "071190",
+   "hs6_description": "Vegetables and mixed vegetables; n.e.c. in heading no. 0711, provisionally preserved but unsuitable in that state for immediate consumption",
    "level": 8,
    "chapter": "07",
    "description": "Green pepper in brine",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "07119020",
+   "hs6": "071190",
+   "hs6_description": "Vegetables and mixed vegetables; n.e.c. in heading no. 0711, provisionally preserved but unsuitable in that state for immediate consumption",
    "level": 8,
    "chapter": "07",
    "description": "Assorted canned vegetables",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "07119090",
+   "hs6": "071190",
+   "hs6_description": "Vegetables and mixed vegetables; n.e.c. in heading no. 0711, provisionally preserved but unsuitable in that state for immediate consumption",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "0712",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "07",
    "description": "Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "07122000",
+   "hs6": "071220",
+   "hs6_description": "Vegetables; onions, whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Onions",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "07123100",
+   "hs6": "071231",
+   "hs6_description": "Vegetables; mushrooms of the genus Agaricus, whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : -- Mushrooms of the genus lgaricus",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "07123200",
+   "hs6": "071232",
+   "hs6_description": "Vegetables; wood ears (Auricularia spp), whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : -- Wood ears (Auricularia spp.)",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "07123300",
+   "hs6": "071233",
+   "hs6_description": "Vegetables; jelly fungi (Tremella spp)), whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : -- Jelly fungi (Tremella spp.)",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "07123400",
+   "hs6": "071234",
+   "hs6_description": "Vegetables; shiitake mushrooms (Lentinus edodes), whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : - - Shiitake (Lentinus edodes)",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "07123900",
+   "hs6": "071239",
+   "hs6_description": "Vegetables; mushrooms and truffles n.e.c. in item 0712.3, whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : -- Other",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "071290",
+   "hs6": "071290",
+   "hs6_description": "Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 6,
    "chapter": "07",
    "description": "Other vegetables; mixtures of vegetables",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "07129010",
+   "hs6": "071290",
+   "hs6_description": "Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Asparagus",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "07129020",
+   "hs6": "071290",
+   "hs6_description": "Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Dehydrated garlic powder",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "07129030",
+   "hs6": "071290",
+   "hs6_description": "Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Dehydrated garlic flakes",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "07129040",
+   "hs6": "071290",
+   "hs6_description": "Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Dried garlic",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "07129050",
+   "hs6": "071290",
+   "hs6_description": "Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Marjoram, Oregano",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "07129060",
+   "hs6": "071290",
+   "hs6_description": "Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Potatoes",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "07129090",
+   "hs6": "071290",
+   "hs6_description": "Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "0713",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "07",
    "description": "Dried leguminous vegetables, shelled, whether or not skinned or split.",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "071310",
+   "hs6": "071310",
+   "hs6_description": "Vegetables, leguminous; peas (pisum sativum), shelled, whether or not skinned or split, dried",
    "level": 6,
    "chapter": "07",
    "description": "Peas (Pisum sativum)",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "07131010",
+   "hs6": "071310",
+   "hs6_description": "Vegetables, leguminous; peas (pisum sativum), shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Yellow peas",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "07131020",
+   "hs6": "071310",
+   "hs6_description": "Vegetables, leguminous; peas (pisum sativum), shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Green peas",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "07131090",
+   "hs6": "071310",
+   "hs6_description": "Vegetables, leguminous; peas (pisum sativum), shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "071320",
+   "hs6": "071320",
+   "hs6_description": "Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",
    "level": 6,
    "chapter": "07",
    "description": "Chickpeas (garbanzos):",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "07132010",
+   "hs6": "071320",
+   "hs6_description": "Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Kabuli chana",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "07132020",
+   "hs6": "071320",
+   "hs6_description": "Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Bengal gram (desi chana)",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "07132090",
+   "hs6": "071320",
+   "hs6_description": "Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "071331",
+   "hs6": "071331",
+   "hs6_description": "Vegetables, leguminous; beans of the species vigna mungo (l.) hepper or vigna radiata (l.) wilczek, shelled, whether or not skinned or split, dried",
    "level": 6,
    "chapter": "07",
    "description": "Beans (Vigna spp., Phaseolus spp.) : -- Beans of the species Vigna mungo (L.) Hepper or Vigna radiata (L.) Wilczek",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "07133110",
+   "hs6": "071331",
+   "hs6_description": "Vegetables, leguminous; beans of the species vigna mungo (l.) hepper or vigna radiata (l.) wilczek, shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Beans of the species Vigna mungo (L.) Hepper",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "07133190",
+   "hs6": "071331",
+   "hs6_description": "Vegetables, leguminous; beans of the species vigna mungo (l.) hepper or vigna radiata (l.) wilczek, shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Beans of the species Vigna radiata (L.) Wilczek",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "07133200",
+   "hs6": "071332",
+   "hs6_description": "Vegetables, leguminous; small red (adzuki) beans (phaseolus or vigna angularis), shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Beans (Vigna spp., Phaseolus spp.):- Small red (Adzuki) beans (Phaseolus or Vigna angularis)",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "07133300",
+   "hs6": "071333",
+   "hs6_description": "Vegetables, leguminous; kidney beans, including white pea beans (phaseolus vulgaris), shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Beans (Vigna spp., Phaseolus spp.):-- Kidney beans, including white pea beans (Phaseolus vulgaris)",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "07133400",
+   "hs6": "071334",
+   "hs6_description": "Vegetables, leguminous; bambara beans (Vigna subterranea or Voandzeia subterranea), shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Beans (Vigna spp., Phaseolus spp.):-- Bambara beans (Vigna subterranea or Voandzeia subterranea)",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "07133500",
+   "hs6": "071335",
+   "hs6_description": "Vegetables, leguminous; cow peas (Vigna unguiculata), shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Beans (Vigna spp., Phaseolus spp.):-- Cow peas (Vigna unguiculata)",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "071339",
+   "hs6": "071339",
+   "hs6_description": "Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",
    "level": 6,
    "chapter": "07",
    "description": "Beans (Vigna spp., Phaseolus spp.):-- Other",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "07133910",
+   "hs6": "071339",
+   "hs6_description": "Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Guar Seeds",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "07133990",
+   "hs6": "071339",
+   "hs6_description": "Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "07134000",
+   "hs6": "071340",
+   "hs6_description": "Vegetables, leguminous; lentils, shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Lentils",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "07135000",
+   "hs6": "071350",
+   "hs6_description": "Vegetables, leguminous; broad beans (vicia faba var. major) and horse beans (vicia faba var. equina, vicia faba var. minor), shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Broad beans (Vicia faba var. major) and horse beans (Vicia faba var. equina, Vicia faba var. minor)",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "07136000",
+   "hs6": "071360",
+   "hs6_description": "Vegetables, leguminous; pigeon peas (Cajanus cajan), shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Pigeon peas (Cajanus cajan)",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "071390",
+   "hs6": "071390",
+   "hs6_description": "Vegetables, leguminous; n.e.c. in heading no. 0713, shelled, whether or not skinned or split, dried",
    "level": 6,
    "chapter": "07",
    "description": "Other",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "07139010",
+   "hs6": "071390",
+   "hs6_description": "Vegetables, leguminous; n.e.c. in heading no. 0713, shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Split",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "07139090",
+   "hs6": "071390",
+   "hs6_description": "Vegetables, leguminous; n.e.c. in heading no. 0713, shelled, whether or not skinned or split, dried",
    "level": 8,
    "chapter": "07",
    "description": "Other",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "0714",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "07",
    "description": "Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "07141000",
+   "hs6": "071410",
+   "hs6_description": "Vegetable roots and tubers; manioc (cassava), with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets",
    "level": 8,
    "chapter": "07",
    "description": "Manioc (cassava)",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "07142000",
+   "hs6": "071420",
+   "hs6_description": "Vegetable roots and tubers; sweet potatoes, with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets",
    "level": 8,
    "chapter": "07",
    "description": "Sweet potatoes",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "07143000",
+   "hs6": "071430",
+   "hs6_description": "Vegetable roots and tubers; yams (Dioscorea spp.) with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets",
    "level": 8,
    "chapter": "07",
    "description": "Yams (Dioscorea spp.)",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "07144000",
+   "hs6": "071440",
+   "hs6_description": "Vegetable roots and tubers; taro (Colocasia spp.) with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets",
    "level": 8,
    "chapter": "07",
    "description": "Taro (Colocasia spp.)",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "07145000",
+   "hs6": "071450",
+   "hs6_description": "Vegetable roots and tubers; yautia (Xanthosoma spp.) with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets",
    "level": 8,
    "chapter": "07",
    "description": "Yautia (Xanthosoma spp.)",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "071490",
+   "hs6": "071490",
+   "hs6_description": "Vegetable roots and tubers; arrowroot, salep, Jerusalem artichokes and similar roots and tubers (not manioc, sweet potatoes, yams, taro or yautia), high starch or inulin content, fresh, chilled, frozen, dried, sliced or not, or in pellet form; sago pith",
    "level": 6,
    "chapter": "07",
    "description": "Other",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "07149010",
+   "hs6": "071490",
+   "hs6_description": "Vegetable roots and tubers; arrowroot, salep, Jerusalem artichokes and similar roots and tubers (not manioc, sweet potatoes, yams, taro or yautia), high starch or inulin content, fresh, chilled, frozen, dried, sliced or not, or in pellet form; sago pith",
    "level": 8,
    "chapter": "07",
    "description": "Sago pith",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "07149090",
+   "hs6": "071490",
+   "hs6_description": "Vegetable roots and tubers; arrowroot, salep, Jerusalem artichokes and similar roots and tubers (not manioc, sweet potatoes, yams, taro or yautia), high starch or inulin content, fresh, chilled, frozen, dried, sliced or not, or in pellet form; sago pith",
    "level": 8,
    "chapter": "07",
    "description": "Other",

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "2201",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "22",
    "description": "Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavoured; ice and snow.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "220110",
+   "hs6": "220110",
+   "hs6_description": "Waters; mineral and aerated, including natural or artificial, (not containing added sugar or other sweetening matter nor flavoured)",
    "level": 6,
    "chapter": "22",
    "description": "Mineral waters and aerated waters",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "22011010",
+   "hs6": "220110",
+   "hs6_description": "Waters; mineral and aerated, including natural or artificial, (not containing added sugar or other sweetening matter nor flavoured)",
    "level": 8,
    "chapter": "22",
    "description": "Mineral Water",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "22011020",
+   "hs6": "220110",
+   "hs6_description": "Waters; mineral and aerated, including natural or artificial, (not containing added sugar or other sweetening matter nor flavoured)",
    "level": 8,
    "chapter": "22",
    "description": "Aerated water",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "220190",
+   "hs6": "220190",
+   "hs6_description": "Waters; other than mineral and aerated, (not containing added sugar or other sweetening matter nor flavoured), ice and snow",
    "level": 6,
    "chapter": "22",
    "description": "Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "22019010",
+   "hs6": "220190",
+   "hs6_description": "Waters; other than mineral and aerated, (not containing added sugar or other sweetening matter nor flavoured), ice and snow",
    "level": 8,
    "chapter": "22",
    "description": "Ice and snow",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "22019090",
+   "hs6": "220190",
+   "hs6_description": "Waters; other than mineral and aerated, (not containing added sugar or other sweetening matter nor flavoured), ice and snow",
    "level": 8,
    "chapter": "22",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "2202",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "22",
    "description": "WATERS, INCLUDING MINERAL WATERS AND AERATED WATERS, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER OR FLAVOURED, AND OTHER NON-ALCOHOLIC BEVERAGES, NOT INCLUDING FRUIT, NUT OR VEGETABLE JUICES OF HEADING 2009",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "220210",
+   "hs6": "220210",
+   "hs6_description": "Waters; including mineral and aerated, containing added sugar or other sweetening matter or flavoured",
    "level": 6,
    "chapter": "22",
    "description": "Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured :",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "22021010",
+   "hs6": "220210",
+   "hs6_description": "Waters; including mineral and aerated, containing added sugar or other sweetening matter or flavoured",
    "level": 8,
    "chapter": "22",
    "description": "Aerated waters",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "22021020",
+   "hs6": "220210",
+   "hs6_description": "Waters; including mineral and aerated, containing added sugar or other sweetening matter or flavoured",
    "level": 8,
    "chapter": "22",
    "description": "Lemonade",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "22021090",
+   "hs6": "220210",
+   "hs6_description": "Waters; including mineral and aerated, containing added sugar or other sweetening matter or flavoured",
    "level": 8,
    "chapter": "22",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "22029100",
+   "hs6": "220291",
+   "hs6_description": "Non-alcoholic beverages; non-alcoholic beer",
    "level": 8,
    "chapter": "22",
    "description": "Other : -- Non-alcoholic beer",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "220299",
+   "hs6": "220299",
+   "hs6_description": "Non-alcoholic beverages; other than non-alcoholic beer, n.e.c. in item no. 2202.10, not including fruit, nut or vegetable juices of heading no. 2009",
    "level": 6,
    "chapter": "22",
    "description": "Other -- Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "22029910",
+   "hs6": "220299",
+   "hs6_description": "Non-alcoholic beverages; other than non-alcoholic beer, n.e.c. in item no. 2202.10, not including fruit, nut or vegetable juices of heading no. 2009",
    "level": 8,
    "chapter": "22",
    "description": "Soya milk drinks, whether or not sweetened or flavoured",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "22029921",
+   "hs6": "220299",
+   "hs6_description": "Non-alcoholic beverages; other than non-alcoholic beer, n.e.c. in item no. 2202.10, not including fruit, nut or vegetable juices of heading no. 2009",
    "level": 8,
    "chapter": "22",
    "description": "--- Fruit pu l p or fru i t juice based dr i nks : ---- Cranberry products",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "22029929",
+   "hs6": "220299",
+   "hs6_description": "Non-alcoholic beverages; other than non-alcoholic beer, n.e.c. in item no. 2202.10, not including fruit, nut or vegetable juices of heading no. 2009",
    "level": 8,
    "chapter": "22",
    "description": "--- Fru i t pu l p or fr ui t j uice based drinks : ---- Other </span",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "22029931",
+   "hs6": "220299",
+   "hs6_description": "Non-alcoholic beverages; other than non-alcoholic beer, n.e.c. in item no. 2202.10, not including fruit, nut or vegetable juices of heading no. 2009",
    "level": 8,
    "chapter": "22",
    "description": "--- Beverages containing milk :---- Cranberry products",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "22029939",
+   "hs6": "220299",
+   "hs6_description": "Non-alcoholic beverages; other than non-alcoholic beer, n.e.c. in item no. 2202.10, not including fruit, nut or vegetable juices of heading no. 2009",
    "level": 8,
    "chapter": "22",
    "description": "--- Beverages containing milk : ---- Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "22029991",
+   "hs6": "220299",
+   "hs6_description": "Non-alcoholic beverages; other than non-alcoholic beer, n.e.c. in item no. 2202.10, not including fruit, nut or vegetable juices of heading no. 2009",
    "level": 8,
    "chapter": "22",
    "description": "---Other : ---- Cranberry products",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "22029999",
+   "hs6": "220299",
+   "hs6_description": "Non-alcoholic beverages; other than non-alcoholic beer, n.e.c. in item no. 2202.10, not including fruit, nut or vegetable juices of heading no. 2009",
    "level": 8,
    "chapter": "22",
    "description": "--- Other : ---- Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "22030000",
+   "hs6": "220300",
+   "hs6_description": "Beer; made from malt",
    "level": 8,
    "chapter": "22",
    "description": "Beer made from malt.",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "2204",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "22",
    "description": "Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "22041000",
+   "hs6": "220410",
+   "hs6_description": "Wine; sparkling",
    "level": 8,
    "chapter": "22",
    "description": "Sparkling wine",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "220421",
+   "hs6": "220421",
+   "hs6_description": "Wine; still, in containers holding 2 litres or less",
    "level": 6,
    "chapter": "22",
    "description": "Other wine; grape must with fermentation prevented or arrested by the addition of alcohol : -- In containers holding 2 l or less",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "22042110",
+   "hs6": "220421",
+   "hs6_description": "Wine; still, in containers holding 2 litres or less",
    "level": 8,
    "chapter": "22",
    "description": "Port and other red wines",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "22042120",
+   "hs6": "220421",
+   "hs6_description": "Wine; still, in containers holding 2 litres or less",
    "level": 8,
    "chapter": "22",
    "description": "Sherry and other white wines",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "22042190",
+   "hs6": "220421",
+   "hs6_description": "Wine; still, in containers holding 2 litres or less",
    "level": 8,
    "chapter": "22",
    "description": "Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "220422",
+   "hs6": "220422",
+   "hs6_description": "Wine; still, in containers holding more than 2 litres but not more than 10 litres",
    "level": 6,
    "chapter": "22",
    "description": "Other wine; grape must with fermentation prevented or arrested by the addition of alcohol : -- In containers holding more than 2 l but not more than 10 l",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "22042210",
+   "hs6": "220422",
+   "hs6_description": "Wine; still, in containers holding more than 2 litres but not more than 10 litres",
    "level": 8,
    "chapter": "22",
    "description": "Port and other red wines",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "22042220",
+   "hs6": "220422",
+   "hs6_description": "Wine; still, in containers holding more than 2 litres but not more than 10 litres",
    "level": 8,
    "chapter": "22",
    "description": "Sherry and other white wines",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "22042290",
+   "hs6": "220422",
+   "hs6_description": "Wine; still, in containers holding more than 2 litres but not more than 10 litres",
    "level": 8,
    "chapter": "22",
    "description": "Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "220429",
+   "hs6": "220429",
+   "hs6_description": "Wine; still, in containers holding more than 10 litres",
    "level": 6,
    "chapter": "22",
    "description": "Other wine; grape must with fermentation prevented or arrested by the addition of alcohol : -- Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "22042910",
+   "hs6": "220429",
+   "hs6_description": "Wine; still, in containers holding more than 10 litres",
    "level": 8,
    "chapter": "22",
    "description": "Port and other red wines",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "22042920",
+   "hs6": "220429",
+   "hs6_description": "Wine; still, in containers holding more than 10 litres",
    "level": 8,
    "chapter": "22",
    "description": "Sherry and other white wines",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "22042990",
+   "hs6": "220429",
+   "hs6_description": "Wine; still, in containers holding more than 10 litres",
    "level": 8,
    "chapter": "22",
    "description": "Other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "22043000",
+   "hs6": "220430",
+   "hs6_description": "Grape must; n.e.c. in heading no. 2009, n.e.c. in item no. 2204.2",
    "level": 8,
    "chapter": "22",
    "description": "Other grape must",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "2205",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "22",
    "description": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances.",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "22051000",
+   "hs6": "220510",
+   "hs6_description": "Vermouth and other wine of fresh grapes, flavoured with plants or aromatic substances, in containers holding 2 litres or less",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "22059000",
+   "hs6": "220590",
+   "hs6_description": "Vermouth and other wine of fresh grapes, flavoured with plants or aromatic substances, in containers holding more than 2 litres",
    "level": 8,
    "chapter": "22",
    "description": "Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "22060000",
+   "hs6": "220600",
+   "hs6_description": "Beverages, fermented; (e.g. cider, perry, mead, sake)",
    "level": 8,
    "chapter": "22",
    "description": "Other fermented beverages (for example, cider, perry, mead, sake); mixtures of fermented beverages and mixtures of fermented beverages and non-alcoholic beverages, not elsewhere specified or included",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "2207",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "22",
    "description": "Undenatured ethyl alcohol of an alcoholic strength by volume of 80 percent vol. or higher; ethyl alcohol and other spirits, denatured, of any strength.",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "220710",
+   "hs6": "220710",
+   "hs6_description": "Undenatured ethyl alcohol; of an alcoholic strength by volume of 80% vol. or higher",
    "level": 6,
    "chapter": "22",
    "description": "Undenatured ethyl alcohol of an alcoholic strength by volume of 80% vol. or higher:",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "22071011",
+   "hs6": "220710",
+   "hs6_description": "Undenatured ethyl alcohol; of an alcoholic strength by volume of 80% vol. or higher",
    "level": 8,
    "chapter": "22",
    "description": "Rectified spirit: ---- Concentrates of alcoholic beverages",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "22071019",
+   "hs6": "220710",
+   "hs6_description": "Undenatured ethyl alcohol; of an alcoholic strength by volume of 80% vol. or higher",
    "level": 8,
    "chapter": "22",
    "description": "Rectified spirit: ---- Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "22071090",
+   "hs6": "220710",
+   "hs6_description": "Undenatured ethyl alcohol; of an alcoholic strength by volume of 80% vol. or higher",
    "level": 8,
    "chapter": "22",
    "description": "Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "22072000",
+   "hs6": "220720",
+   "hs6_description": "Ethyl alcohol and other spirits; denatured, of any strength",
    "level": 8,
    "chapter": "22",
    "description": "Ethyl alcohol and other spirits, denatured, of any strength",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "2208",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "22",
    "description": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 percent vol.; spirits, liqueurs and other spirituous beverages.",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "220820",
+   "hs6": "220820",
+   "hs6_description": "Spirits obtained by distilling grape wine or grape marc",
    "level": 6,
    "chapter": "22",
    "description": "Spirits obtained by distilling grape wine or grape marc",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "22082011",
+   "hs6": "220820",
+   "hs6_description": "Spirits obtained by distilling grape wine or grape marc",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Brandy",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "22082019",
+   "hs6": "220820",
+   "hs6_description": "Spirits obtained by distilling grape wine or grape marc",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "22082091",
+   "hs6": "220820",
+   "hs6_description": "Spirits obtained by distilling grape wine or grape marc",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Brandy",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "22082099",
+   "hs6": "220820",
+   "hs6_description": "Spirits obtained by distilling grape wine or grape marc",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Other",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "220830",
+   "hs6": "220830",
+   "hs6_description": "Whiskies",
    "level": 6,
    "chapter": "22",
    "description": "Whiskies",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "22083011",
+   "hs6": "220830",
+   "hs6_description": "Whiskies",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Bourbon whiskey",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "22083012",
+   "hs6": "220830",
+   "hs6_description": "Whiskies",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Scotch",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "22083013",
+   "hs6": "220830",
+   "hs6_description": "Whiskies",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Blended",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "22083019",
+   "hs6": "220830",
+   "hs6_description": "Whiskies",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "22083091",
+   "hs6": "220830",
+   "hs6_description": "Whiskies",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Bourbon whiskey",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "22083092",
+   "hs6": "220830",
+   "hs6_description": "Whiskies",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Scotch",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "22083093",
+   "hs6": "220830",
+   "hs6_description": "Whiskies",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Blended",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "22083099",
+   "hs6": "220830",
+   "hs6_description": "Whiskies",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "220840",
+   "hs6": "220840",
+   "hs6_description": "Rum and other spirits obtained by distilling fermented sugar-cane products",
    "level": 6,
    "chapter": "22",
    "description": "Rum and other spirits obtained by distilling fermented sugar-cane products.",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "22084011",
+   "hs6": "220840",
+   "hs6_description": "Rum and other spirits obtained by distilling fermented sugar-cane products",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Rum",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "22084012",
+   "hs6": "220840",
+   "hs6_description": "Rum and other spirits obtained by distilling fermented sugar-cane products",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Other",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "22084091",
+   "hs6": "220840",
+   "hs6_description": "Rum and other spirits obtained by distilling fermented sugar-cane products",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Rum",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "22084092",
+   "hs6": "220840",
+   "hs6_description": "Rum and other spirits obtained by distilling fermented sugar-cane products",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "220850",
+   "hs6": "220850",
+   "hs6_description": "Gin and geneva",
    "level": 6,
    "chapter": "22",
    "description": "Gin and Geneva",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "22085011",
+   "hs6": "220850",
+   "hs6_description": "Gin and geneva",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Gin",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "22085012",
+   "hs6": "220850",
+   "hs6_description": "Gin and geneva",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Geneva",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "22085091",
+   "hs6": "220850",
+   "hs6_description": "Gin and geneva",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Gin",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "22085092",
+   "hs6": "220850",
+   "hs6_description": "Gin and geneva",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Geneva",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "22086000",
+   "hs6": "220860",
+   "hs6_description": "Vodka",
    "level": 8,
    "chapter": "22",
    "description": "Vodka",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "220870",
+   "hs6": "220870",
+   "hs6_description": "Liqueurs and cordials",
    "level": 6,
    "chapter": "22",
    "description": "Liqueurs and cordials",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "22087011",
+   "hs6": "220870",
+   "hs6_description": "Liqueurs and cordials",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Liqueurs",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "22087012",
+   "hs6": "220870",
+   "hs6_description": "Liqueurs and cordials",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Cordials",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "22087091",
+   "hs6": "220870",
+   "hs6_description": "Liqueurs and cordials",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Liqueurs",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "22087092",
+   "hs6": "220870",
+   "hs6_description": "Liqueurs and cordials",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Cordials",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "220890",
+   "hs6": "220890",
+   "hs6_description": "Spirits, liqueurs and other spirituous beverages; n.e.c. in heading no. 2208",
    "level": 6,
    "chapter": "22",
    "description": "Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "22089011",
+   "hs6": "220890",
+   "hs6_description": "Spirits, liqueurs and other spirituous beverages; n.e.c. in heading no. 2208",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Tequila",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "22089012",
+   "hs6": "220890",
+   "hs6_description": "Spirits, liqueurs and other spirituous beverages; n.e.c. in heading no. 2208",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Indenatured ethyl alcohol",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "22089019",
+   "hs6": "220890",
+   "hs6_description": "Spirits, liqueurs and other spirituous beverages; n.e.c. in heading no. 2208",
    "level": 8,
    "chapter": "22",
    "description": "In containers holding 2 l or less: ---- Other",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "22089091",
+   "hs6": "220890",
+   "hs6_description": "Spirits, liqueurs and other spirituous beverages; n.e.c. in heading no. 2208",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Tequila",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "22089092",
+   "hs6": "220890",
+   "hs6_description": "Spirits, liqueurs and other spirituous beverages; n.e.c. in heading no. 2208",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Indenatured ethyl alcohol",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "22089099",
+   "hs6": "220890",
+   "hs6_description": "Spirits, liqueurs and other spirituous beverages; n.e.c. in heading no. 2208",
    "level": 8,
    "chapter": "22",
    "description": "Other: ---- Other",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "2209",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "22",
    "description": "Vinegar and substitutes for vinegar obtained from acetic acid.",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "220900",
+   "hs6": "220900",
+   "hs6_description": "Vinegar and substitutes for vinegar; obtained from acetic acid",
    "level": 6,
    "chapter": "22",
    "description": "Vinegar and substitutes for vinegar obtained from acetic acid:",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "22090010",
+   "hs6": "220900",
+   "hs6_description": "Vinegar and substitutes for vinegar; obtained from acetic acid",
    "level": 8,
    "chapter": "22",
    "description": "Brewed vinegar",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "22090020",
+   "hs6": "220900",
+   "hs6_description": "Vinegar and substitutes for vinegar; obtained from acetic acid",
    "level": 8,
    "chapter": "22",
    "description": "Synthetic vinegar",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "22090090",
+   "hs6": "220900",
+   "hs6_description": "Vinegar and substitutes for vinegar; obtained from acetic acid",
    "level": 8,
    "chapter": "22",
    "description": "Other",

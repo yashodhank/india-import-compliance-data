@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "6401",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "64",
    "description": "Waterproof footwear with outer soles and uppers of rubber or of plastics, the uppers of which are neither fixed to the sole nor assembled by stitching, riveting, nailing, screwing, plugging or similar processes.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "640110",
+   "hs6": "640110",
+   "hs6_description": "Footwear; waterproof with metal toe-cap, rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)",
    "level": 6,
    "chapter": "64",
    "description": "Footwear incorporating a protective metal toe-cap",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "64011010",
+   "hs6": "640110",
+   "hs6_description": "Footwear; waterproof with metal toe-cap, rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)",
    "level": 8,
    "chapter": "64",
    "description": "Of rubber",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "64011090",
+   "hs6": "640110",
+   "hs6_description": "Footwear; waterproof with metal toe-cap, rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "640192",
+   "hs6": "640192",
+   "hs6_description": "Footwear; waterproof, covering the ankle (but not the knee), rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)",
    "level": 6,
    "chapter": "64",
    "description": "Other footwear : -- Covering the ankle but not covering the knee",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "64019210",
+   "hs6": "640192",
+   "hs6_description": "Footwear; waterproof, covering the ankle (but not the knee), rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)",
    "level": 8,
    "chapter": "64",
    "description": "Of rubber",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "64019290",
+   "hs6": "640192",
+   "hs6_description": "Footwear; waterproof, covering the ankle (but not the knee), rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "640199",
+   "hs6": "640199",
+   "hs6_description": "Footwear; waterproof, n.e.c. in heading no. 6401, rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)",
    "level": 6,
    "chapter": "64",
    "description": "Other footwear : -- Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "64019910",
+   "hs6": "640199",
+   "hs6_description": "Footwear; waterproof, n.e.c. in heading no. 6401, rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)",
    "level": 8,
    "chapter": "64",
    "description": "Of rubber",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "64019990",
+   "hs6": "640199",
+   "hs6_description": "Footwear; waterproof, n.e.c. in heading no. 6401, rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "6402",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "64",
    "description": "Other footwear with outer soles and uppers of rubber or plastics.",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "640212",
+   "hs6": "640212",
+   "hs6_description": "Sports footwear; with outer soles and uppers of rubber or plastics, ski-boots, cross-country ski footwear and snowboard boots",
    "level": 6,
    "chapter": "64",
    "description": "Sports footwear : -- Ski-boots, cross-country ski footwear and snowboard boots",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "64021210",
+   "hs6": "640212",
+   "hs6_description": "Sports footwear; with outer soles and uppers of rubber or plastics, ski-boots, cross-country ski footwear and snowboard boots",
    "level": 8,
    "chapter": "64",
    "description": "Of rubber",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "64021290",
+   "hs6": "640212",
+   "hs6_description": "Sports footwear; with outer soles and uppers of rubber or plastics, ski-boots, cross-country ski footwear and snowboard boots",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "640219",
+   "hs6": "640219",
+   "hs6_description": "Sports footwear; (other than ski-boots, snowboard boots or cross-country ski footwear), with outer soles and uppers of rubber or plastics",
    "level": 6,
    "chapter": "64",
    "description": "Sports footwear : -- Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "64021910",
+   "hs6": "640219",
+   "hs6_description": "Sports footwear; (other than ski-boots, snowboard boots or cross-country ski footwear), with outer soles and uppers of rubber or plastics",
    "level": 8,
    "chapter": "64",
    "description": "Of rubber",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "64021990",
+   "hs6": "640219",
+   "hs6_description": "Sports footwear; (other than ski-boots, snowboard boots or cross-country ski footwear), with outer soles and uppers of rubber or plastics",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "640220",
+   "hs6": "640220",
+   "hs6_description": "Footwear; with outer soles and uppers of rubber or plastics, upper straps or thongs assembled to the sole by plugs",
    "level": 6,
    "chapter": "64",
    "description": "Footwear with upper straps or thongs assembled to the sole by means of plugs",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "64022010",
+   "hs6": "640220",
+   "hs6_description": "Footwear; with outer soles and uppers of rubber or plastics, upper straps or thongs assembled to the sole by plugs",
    "level": 8,
    "chapter": "64",
    "description": "Of rubber",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "64022090",
+   "hs6": "640220",
+   "hs6_description": "Footwear; with outer soles and uppers of rubber or plastics, upper straps or thongs assembled to the sole by plugs",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "64029110",
+   "hs6": "640291",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6402, covering the ankle, with outer soles and uppers of rubber or plastics",
    "level": 8,
    "chapter": "64",
    "description": "Of rubber",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "64029190",
+   "hs6": "640291",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6402, covering the ankle, with outer soles and uppers of rubber or plastics",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "640299",
+   "hs6": "640299",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6402, (other than just covering the ankle), with outer soles and uppers of rubber or plastics",
    "level": 6,
    "chapter": "64",
    "description": "Other footwear : -- Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "64029910",
+   "hs6": "640299",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6402, (other than just covering the ankle), with outer soles and uppers of rubber or plastics",
    "level": 8,
    "chapter": "64",
    "description": "Of rubber",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "64029990",
+   "hs6": "640299",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6402, (other than just covering the ankle), with outer soles and uppers of rubber or plastics",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "6403",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "64",
    "description": "Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of leather.",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "64031200",
+   "hs6": "640312",
+   "hs6_description": "Sports footwear; with outer soles of rubber, plastics, leather or composition leather and uppers of leather, ski-boots, snowboard boots and cross-country ski footwear",
    "level": 8,
    "chapter": "64",
    "description": "Sports footwear : -- Ski-boots, cross-country ski footwear and snowboard boots",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "640319",
+   "hs6": "640319",
+   "hs6_description": "Sports footwear; (other than ski-boots, snowboard boots or cross-country ski footwear), with outer soles of rubber, plastics, leather or composition leather and uppers of leather",
    "level": 6,
    "chapter": "64",
    "description": "Sports footwear : -- Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "64031910",
+   "hs6": "640319",
+   "hs6_description": "Sports footwear; (other than ski-boots, snowboard boots or cross-country ski footwear), with outer soles of rubber, plastics, leather or composition leather and uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "With outer soles of leather",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "64031920",
+   "hs6": "640319",
+   "hs6_description": "Sports footwear; (other than ski-boots, snowboard boots or cross-country ski footwear), with outer soles of rubber, plastics, leather or composition leather and uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "With outer soles of rubber",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "64031990",
+   "hs6": "640319",
+   "hs6_description": "Sports footwear; (other than ski-boots, snowboard boots or cross-country ski footwear), with outer soles of rubber, plastics, leather or composition leather and uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "640320",
+   "hs6": "640320",
+   "hs6_description": "Footwear; with outer soles of leather, uppers consisting of leather straps across instep and around the big toe",
    "level": 6,
    "chapter": "64",
    "description": "Footwear with outer soles of leather, and uppers which consist of leather straps across the instep and around the big toe",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "64032011",
+   "hs6": "640320",
+   "hs6_description": "Footwear; with outer soles of leather, uppers consisting of leather straps across instep and around the big toe",
    "level": 8,
    "chapter": "64",
    "description": "All leather, closed toe: ---- For men",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "64032012",
+   "hs6": "640320",
+   "hs6_description": "Footwear; with outer soles of leather, uppers consisting of leather straps across instep and around the big toe",
    "level": 8,
    "chapter": "64",
    "description": "All leather, closed toe: ---- For women",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "64032013",
+   "hs6": "640320",
+   "hs6_description": "Footwear; with outer soles of leather, uppers consisting of leather straps across instep and around the big toe",
    "level": 8,
    "chapter": "64",
    "description": "All leather, closed toe: ---- For children",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "64032019",
+   "hs6": "640320",
+   "hs6_description": "Footwear; with outer soles of leather, uppers consisting of leather straps across instep and around the big toe",
    "level": 8,
    "chapter": "64",
    "description": "All leather, closed toe: ---- Others",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "64032021",
+   "hs6": "640320",
+   "hs6_description": "Footwear; with outer soles of leather, uppers consisting of leather straps across instep and around the big toe",
    "level": 8,
    "chapter": "64",
    "description": "All leather, open toe: ---- For men",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "64032022",
+   "hs6": "640320",
+   "hs6_description": "Footwear; with outer soles of leather, uppers consisting of leather straps across instep and around the big toe",
    "level": 8,
    "chapter": "64",
    "description": "All leather, open toe: ---- For women",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "64032023",
+   "hs6": "640320",
+   "hs6_description": "Footwear; with outer soles of leather, uppers consisting of leather straps across instep and around the big toe",
    "level": 8,
    "chapter": "64",
    "description": "All leather, open toe: ---- For children",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "64032029",
+   "hs6": "640320",
+   "hs6_description": "Footwear; with outer soles of leather, uppers consisting of leather straps across instep and around the big toe",
    "level": 8,
    "chapter": "64",
    "description": "All leather, open toe: ---- Others",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "64032030",
+   "hs6": "640320",
+   "hs6_description": "Footwear; with outer soles of leather, uppers consisting of leather straps across instep and around the big toe",
    "level": 8,
    "chapter": "64",
    "description": "All leather, open toe: ---- Of leather soles with embroidered uppers",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "64032040",
+   "hs6": "640320",
+   "hs6_description": "Footwear; with outer soles of leather, uppers consisting of leather straps across instep and around the big toe",
    "level": 8,
    "chapter": "64",
    "description": "All leather, open toe: ---- Kolapuri chappals and similar footwear",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "64032090",
+   "hs6": "640320",
+   "hs6_description": "Footwear; with outer soles of leather, uppers consisting of leather straps across instep and around the big toe",
    "level": 8,
    "chapter": "64",
    "description": "All leather, open toe: ---- Other",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "64034000",
+   "hs6": "640340",
+   "hs6_description": "Footwear; with metal toe-cap, outer soles of rubber, plastics, leather or composition leather, uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "Other footwear, incorporating a protective metal toe-cap",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "640351",
+   "hs6": "640351",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, with outer soles and uppers of leather, covering the ankle",
    "level": 6,
    "chapter": "64",
    "description": "Other footwear with outer soles of leather : -- Covering the ankle",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "64035111",
+   "hs6": "640351",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, with outer soles and uppers of leather, covering the ankle",
    "level": 8,
    "chapter": "64",
    "description": "All leather, open toe: ---- For men",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "64035112",
+   "hs6": "640351",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, with outer soles and uppers of leather, covering the ankle",
    "level": 8,
    "chapter": "64",
    "description": "All leather, open toe: ---- For women",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "64035113",
+   "hs6": "640351",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, with outer soles and uppers of leather, covering the ankle",
    "level": 8,
    "chapter": "64",
    "description": "All leather, open toe: ---- For children",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "64035119",
+   "hs6": "640351",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, with outer soles and uppers of leather, covering the ankle",
    "level": 8,
    "chapter": "64",
    "description": "All leather, open toe: ---- Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "64035190",
+   "hs6": "640351",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, with outer soles and uppers of leather, covering the ankle",
    "level": 8,
    "chapter": "64",
    "description": "All leather, open toe: ---- Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "640359",
+   "hs6": "640359",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, (not covering the ankle), outer soles and uppers of leather",
    "level": 6,
    "chapter": "64",
    "description": "Other footwear with outer soles of leather : -- Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "64035910",
+   "hs6": "640359",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, (not covering the ankle), outer soles and uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "For men",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "64035920",
+   "hs6": "640359",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, (not covering the ankle), outer soles and uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "For women",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "64035930",
+   "hs6": "640359",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, (not covering the ankle), outer soles and uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "For children",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "64035990",
+   "hs6": "640359",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, (not covering the ankle), outer soles and uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "640391",
+   "hs6": "640391",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, covering the ankle, outer soles of rubber, plastics or composition leather, uppers of leather",
    "level": 6,
    "chapter": "64",
    "description": "Other footwear : -- Covering the ankle",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "64039110",
+   "hs6": "640391",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, covering the ankle, outer soles of rubber, plastics or composition leather, uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "Leather boots and other footwear with rubber sole",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "64039120",
+   "hs6": "640391",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, covering the ankle, outer soles of rubber, plastics or composition leather, uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "Leather footwear with plastic and synthetic sole",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "64039190",
+   "hs6": "640391",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, covering the ankle, outer soles of rubber, plastics or composition leather, uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "640399",
+   "hs6": "640399",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, (not covering the ankle), outer soles of rubber, plastics or composition leather, uppers of leather",
    "level": 6,
    "chapter": "64",
    "description": "Other footwear : -- Other",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "64039910",
+   "hs6": "640399",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, (not covering the ankle), outer soles of rubber, plastics or composition leather, uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "Leather sandals with rubber sole",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "64039920",
+   "hs6": "640399",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, (not covering the ankle), outer soles of rubber, plastics or composition leather, uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "Leather sandals with plastic or synthetic sole",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "64039990",
+   "hs6": "640399",
+   "hs6_description": "Footwear; n.e.c. in heading no. 6403, (not covering the ankle), outer soles of rubber, plastics or composition leather, uppers of leather",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "6404",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "64",
    "description": "Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials.",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "640411",
+   "hs6": "640411",
+   "hs6_description": "Sports footwear; tennis shoes, basketball shoes, gym shoes, training shoes and the like, with outer soles of rubber or plastics and uppers of textile materials",
    "level": 6,
    "chapter": "64",
    "description": "Footwear with outer soles of rubber or plastics : -- Sports footwear; tennis shoes, basketball shoes, gym shoes, training shoes and the like training shoes and the like",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "64041110",
+   "hs6": "640411",
+   "hs6_description": "Sports footwear; tennis shoes, basketball shoes, gym shoes, training shoes and the like, with outer soles of rubber or plastics and uppers of textile materials",
    "level": 8,
    "chapter": "64",
    "description": "Of rubber sole with canvas upper",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "64041120",
+   "hs6": "640411",
+   "hs6_description": "Sports footwear; tennis shoes, basketball shoes, gym shoes, training shoes and the like, with outer soles of rubber or plastics and uppers of textile materials",
    "level": 8,
    "chapter": "64",
    "description": "Of rubber sole with leather cloth uppers",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "64041190",
+   "hs6": "640411",
+   "hs6_description": "Sports footwear; tennis shoes, basketball shoes, gym shoes, training shoes and the like, with outer soles of rubber or plastics and uppers of textile materials",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "640419",
+   "hs6": "640419",
+   "hs6_description": "Footwear; (other than sportswear), with outer soles of rubber or plastics and uppers of textile materials",
    "level": 6,
    "chapter": "64",
    "description": "Footwear with outer soles of rubber or plastics : --Other",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "64041910",
+   "hs6": "640419",
+   "hs6_description": "Footwear; (other than sportswear), with outer soles of rubber or plastics and uppers of textile materials",
    "level": 8,
    "chapter": "64",
    "description": "Of rubber sole with canvas upper",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "64041920",
+   "hs6": "640419",
+   "hs6_description": "Footwear; (other than sportswear), with outer soles of rubber or plastics and uppers of textile materials",
    "level": 8,
    "chapter": "64",
    "description": "Of rubber sole with leather cloth uppers",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "64041990",
+   "hs6": "640419",
+   "hs6_description": "Footwear; (other than sportswear), with outer soles of rubber or plastics and uppers of textile materials",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "64042000",
+   "hs6": "640420",
+   "hs6_description": "Footwear; outer soles of leather or composition leather, uppers of textile materials",
    "level": 8,
    "chapter": "64",
    "description": "Footwear with outer soles of leather or composition leather",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "6405",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "64",
    "description": "Other footwear.",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "64051000",
+   "hs6": "640510",
+   "hs6_description": "Footwear; with uppers of leather or composition leather, n.e.c. in chapter 64",
    "level": 8,
    "chapter": "64",
    "description": "With uppers of leather or composition leather",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "64052000",
+   "hs6": "640520",
+   "hs6_description": "Footwear; with uppers of textile materials, n.e.c. in chapter 64",
    "level": 8,
    "chapter": "64",
    "description": "With uppers of textile materials",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "64059000",
+   "hs6": "640590",
+   "hs6_description": "Footwear; n.e.c. in chapter 64",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "6406",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "64",
    "description": "Parts of footwear (including uppers whether or not attached to soles other than outer soles); removable in-soles, heel cushions and similar articles; gaiters, leggings and similar articles, and parts thereof.",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "640610",
+   "hs6": "640610",
+   "hs6_description": "Footwear; parts, uppers and parts thereof, other than stiffeners",
    "level": 6,
    "chapter": "64",
    "description": "Uppers and parts thereof, other than stiffeners",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "64061010",
+   "hs6": "640610",
+   "hs6_description": "Footwear; parts, uppers and parts thereof, other than stiffeners",
    "level": 8,
    "chapter": "64",
    "description": "Embroidered uppers of textile materials",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "64061020",
+   "hs6": "640610",
+   "hs6_description": "Footwear; parts, uppers and parts thereof, other than stiffeners",
    "level": 8,
    "chapter": "64",
    "description": "Leather uppers (prepared)",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "64061030",
+   "hs6": "640610",
+   "hs6_description": "Footwear; parts, uppers and parts thereof, other than stiffeners",
    "level": 8,
    "chapter": "64",
    "description": "Goat lining",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "64061040",
+   "hs6": "640610",
+   "hs6_description": "Footwear; parts, uppers and parts thereof, other than stiffeners",
    "level": 8,
    "chapter": "64",
    "description": "Sheep lining",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "64061090",
+   "hs6": "640610",
+   "hs6_description": "Footwear; parts, uppers and parts thereof, other than stiffeners",
    "level": 8,
    "chapter": "64",
    "description": "Other",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "64062000",
+   "hs6": "640620",
+   "hs6_description": "Footwear; parts, outer soles and heels, of rubber or plastics",
    "level": 8,
    "chapter": "64",
    "description": "Outer soles and heels, of rubber or plastics",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "640690",
+   "hs6": "640690",
+   "hs6_description": "Footwear; parts, n.e.c. in heading 6406",
    "level": 6,
    "chapter": "64",
    "description": "Other",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "64069010",
+   "hs6": "640690",
+   "hs6_description": "Footwear; parts, n.e.c. in heading 6406",
    "level": 8,
    "chapter": "64",
    "description": "Of wood",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "64069020",
+   "hs6": "640690",
+   "hs6_description": "Footwear; parts, n.e.c. in heading 6406",
    "level": 8,
    "chapter": "64",
    "description": "Leather parts of footwear, other than soles and prepared uppers",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "64069030",
+   "hs6": "640690",
+   "hs6_description": "Footwear; parts, n.e.c. in heading 6406",
    "level": 8,
    "chapter": "64",
    "description": "Leather soles",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "64069040",
+   "hs6": "640690",
+   "hs6_description": "Footwear; parts, n.e.c. in heading 6406",
    "level": 8,
    "chapter": "64",
    "description": "Gaiters, leggings and similar articles",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "64069050",
+   "hs6": "640690",
+   "hs6_description": "Footwear; parts, n.e.c. in heading 6406",
    "level": 8,
    "chapter": "64",
    "description": "Parts of gaiters, leggings and similar articles",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "64069090",
+   "hs6": "640690",
+   "hs6_description": "Footwear; parts, n.e.c. in heading 6406",
    "level": 8,
    "chapter": "64",
    "description": "Other",

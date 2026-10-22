@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "0501",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "05",
    "description": "Human hair, unworked, whether or not washed or scoured; waste of human hair.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "050100",
+   "hs6": "050100",
+   "hs6_description": "Animal products; hair, human, unworked, whether or not washed or scoured, and waste of human hair",
    "level": 6,
    "chapter": "05",
    "description": "Human hair, unworked, whether or not washed or scoured; Waste of human hair :",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "05010010",
+   "hs6": "050100",
+   "hs6_description": "Animal products; hair, human, unworked, whether or not washed or scoured, and waste of human hair",
    "level": 8,
    "chapter": "05",
    "description": "Human hair unworked, whether or not washed or scoured",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "05010020",
+   "hs6": "050100",
+   "hs6_description": "Animal products; hair, human, unworked, whether or not washed or scoured, and waste of human hair",
    "level": 8,
    "chapter": "05",
    "description": "Waste of human hair",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "0502",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "05",
    "description": "Pigs, hogs or boars bristles and hair; badger hair and other brush making hair; waste of such bristles or hair.",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "050210",
+   "hs6": "050210",
+   "hs6_description": "Animal products; hair and bristles, of pigs, hogs or boars, and waste thereof",
    "level": 6,
    "chapter": "05",
    "description": "Pigs, hogs or boars bristles and hair and waste thereof",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "05021010",
+   "hs6": "050210",
+   "hs6_description": "Animal products; hair and bristles, of pigs, hogs or boars, and waste thereof",
    "level": 8,
    "chapter": "05",
    "description": "Pigs, hogs or boars bristles and hair",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "05021020",
+   "hs6": "050210",
+   "hs6_description": "Animal products; hair and bristles, of pigs, hogs or boars, and waste thereof",
    "level": 8,
    "chapter": "05",
    "description": "Waste of pigs hogs or boars bristles and hair",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "050290",
+   "hs6": "050290",
+   "hs6_description": "Animal products; badger hair and other brush making hair and waste of such bristles or hair, n.e.c. in heading no. 0502 (excluding horsehair)",
    "level": 6,
    "chapter": "05",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "05029010",
+   "hs6": "050290",
+   "hs6_description": "Animal products; badger hair and other brush making hair and waste of such bristles or hair, n.e.c. in heading no. 0502 (excluding horsehair)",
    "level": 8,
    "chapter": "05",
    "description": "Badger hair and other brush making hair",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "05029020",
+   "hs6": "050290",
+   "hs6_description": "Animal products; badger hair and other brush making hair and waste of such bristles or hair, n.e.c. in heading no. 0502 (excluding horsehair)",
    "level": 8,
    "chapter": "05",
    "description": "Yak tail hair",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "05029090",
+   "hs6": "050290",
+   "hs6_description": "Animal products; badger hair and other brush making hair and waste of such bristles or hair, n.e.c. in heading no. 0502 (excluding horsehair)",
    "level": 8,
    "chapter": "05",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "0504",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "05",
    "description": "Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked.",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "050400",
+   "hs6": "050400",
+   "hs6_description": "Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",
    "level": 6,
    "chapter": "05",
    "description": "Guts, bladders and stomachs of animals(other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked:",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "05040010",
+   "hs6": "050400",
+   "hs6_description": "Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",
    "level": 8,
    "chapter": "05",
    "description": "Guts of cattle for natural food casings",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "05040020",
+   "hs6": "050400",
+   "hs6_description": "Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",
    "level": 8,
    "chapter": "05",
    "description": "Guts of sheep and goats for natural food casings",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "05040031",
+   "hs6": "050400",
+   "hs6_description": "Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",
    "level": 8,
    "chapter": "05",
    "description": "Guts of other animals for natural food casings :---- Of wild animals",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "05040039",
+   "hs6": "050400",
+   "hs6_description": "Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",
    "level": 8,
    "chapter": "05",
    "description": "Guts of other animals for natural food casings :---- Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "05040041",
+   "hs6": "050400",
+   "hs6_description": "Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",
    "level": 8,
    "chapter": "05",
    "description": "Guts other than for natural food casings: ---- Of wild animals",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "05040049",
+   "hs6": "050400",
+   "hs6_description": "Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",
    "level": 8,
    "chapter": "05",
    "description": "Guts other than for natural food casings: ---- Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "05040051",
+   "hs6": "050400",
+   "hs6_description": "Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",
    "level": 8,
    "chapter": "05",
    "description": "Bladders and stomachs: ---- Of wild animals",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "05040059",
+   "hs6": "050400",
+   "hs6_description": "Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",
    "level": 8,
    "chapter": "05",
    "description": "Bladders and stomachs: ---- Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "0505",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "05",
    "description": "Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disinfected or treated for preservation; powder and waste of feathers or parts of feathers.",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "050510",
+   "hs6": "050510",
+   "hs6_description": "Animal products; feathers and down used for stuffing, not further worked than cleaned, disinfected or treated for preservation",
    "level": 6,
    "chapter": "05",
    "description": "Feathers of a kind used for stuffing; down",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "05051010",
+   "hs6": "050510",
+   "hs6_description": "Animal products; feathers and down used for stuffing, not further worked than cleaned, disinfected or treated for preservation",
    "level": 8,
    "chapter": "05",
    "description": "Of wild birds",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "05051090",
+   "hs6": "050510",
+   "hs6_description": "Animal products; feathers and down used for stuffing, not further worked than cleaned, disinfected or treated for preservation",
    "level": 8,
    "chapter": "05",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "050590",
+   "hs6": "050590",
+   "hs6_description": "Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",
    "level": 6,
    "chapter": "05",
    "description": "Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "05059010",
+   "hs6": "050590",
+   "hs6_description": "Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",
    "level": 8,
    "chapter": "05",
    "description": "Peacock tail and wing feather (trimmed or not)",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "05059021",
+   "hs6": "050590",
+   "hs6_description": "Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",
    "level": 8,
    "chapter": "05",
    "description": "Other feather (excluding for stuffing purpose): ---- Of wild birds",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "05059029",
+   "hs6": "050590",
+   "hs6_description": "Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",
    "level": 8,
    "chapter": "05",
    "description": "Other feather (excluding for stuffing purpose): ---- Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "05059031",
+   "hs6": "050590",
+   "hs6_description": "Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",
    "level": 8,
    "chapter": "05",
    "description": "Powder and waste of feathers or parts of feathers: ---- Of wild birds",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "05059039",
+   "hs6": "050590",
+   "hs6_description": "Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",
    "level": 8,
    "chapter": "05",
    "description": "Powder and waste of feathers or parts of feathers: ---- Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "05059091",
+   "hs6": "050590",
+   "hs6_description": "Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",
    "level": 8,
    "chapter": "05",
    "description": "Skins and other parts: ---- Of wild birds",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "05059099",
+   "hs6": "050590",
+   "hs6_description": "Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation",
    "level": 8,
    "chapter": "05",
    "description": "Skins and other parts: ---- Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "0506",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "05",
    "description": "Bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinised; powder and waste of these products.",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "050610",
+   "hs6": "050610",
+   "hs6_description": "Animal products; ossein and bones treated with acid",
    "level": 6,
    "chapter": "05",
    "description": "Ossein and bones treated with acid",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "05061011",
+   "hs6": "050610",
+   "hs6_description": "Animal products; ossein and bones treated with acid",
    "level": 8,
    "chapter": "05",
    "description": "Bones, including horn-cores, crushed: ---- Of wild animals",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "05061019",
+   "hs6": "050610",
+   "hs6_description": "Animal products; ossein and bones treated with acid",
    "level": 8,
    "chapter": "05",
    "description": "Bones, including horn-cores, crushed: ---- Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "05061021",
+   "hs6": "050610",
+   "hs6_description": "Animal products; ossein and bones treated with acid",
    "level": 8,
    "chapter": "05",
    "description": "Bone grist: ---- Of wild animals",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "05061029",
+   "hs6": "050610",
+   "hs6_description": "Animal products; ossein and bones treated with acid",
    "level": 8,
    "chapter": "05",
    "description": "Bone grist: ---- Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "05061031",
+   "hs6": "050610",
+   "hs6_description": "Animal products; ossein and bones treated with acid",
    "level": 8,
    "chapter": "05",
    "description": "Ossein: ---- Of wild animals",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "05061039",
+   "hs6": "050610",
+   "hs6_description": "Animal products; ossein and bones treated with acid",
    "level": 8,
    "chapter": "05",
    "description": "Ossein: ---- Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "05061041",
+   "hs6": "050610",
+   "hs6_description": "Animal products; ossein and bones treated with acid",
    "level": 8,
    "chapter": "05",
    "description": "Bones, horn cones and parts thereof, not crushed: ---- Of wild animals",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "05061049",
+   "hs6": "050610",
+   "hs6_description": "Animal products; ossein and bones treated with acid",
    "level": 8,
    "chapter": "05",
    "description": "Bones, horn cones and parts thereof, not crushed: ---- Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "050690",
+   "hs6": "050690",
+   "hs6_description": "Animal products; bones and horn-cores and powder or waste of such, unworked, defatted, simply prepared (not cut to shape), or treated with acid or degelatinised, n.e.c. in heading no. 0506",
    "level": 6,
    "chapter": "05",
    "description": "Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "05069011",
+   "hs6": "050690",
+   "hs6_description": "Animal products; bones and horn-cores and powder or waste of such, unworked, defatted, simply prepared (not cut to shape), or treated with acid or degelatinised, n.e.c. in heading no. 0506",
    "level": 8,
    "chapter": "05",
    "description": "Bone meal: ---- Of wild animals",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "05069019",
+   "hs6": "050690",
+   "hs6_description": "Animal products; bones and horn-cores and powder or waste of such, unworked, defatted, simply prepared (not cut to shape), or treated with acid or degelatinised, n.e.c. in heading no. 0506",
    "level": 8,
    "chapter": "05",
    "description": "Bone meal: ---- Other",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "05069091",
+   "hs6": "050690",
+   "hs6_description": "Animal products; bones and horn-cores and powder or waste of such, unworked, defatted, simply prepared (not cut to shape), or treated with acid or degelatinised, n.e.c. in heading no. 0506",
    "level": 8,
    "chapter": "05",
    "description": "Other: ---- Of wild animals",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "05069099",
+   "hs6": "050690",
+   "hs6_description": "Animal products; bones and horn-cores and powder or waste of such, unworked, defatted, simply prepared (not cut to shape), or treated with acid or degelatinised, n.e.c. in heading no. 0506",
    "level": 8,
    "chapter": "05",
    "description": "Other: ---- Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "0507",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "05",
    "description": "Ivory, tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape; powder and waste of these products.",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "050710",
+   "hs6": "050710",
+   "hs6_description": "Animal products; ivory, unworked or simply prepared but not cut to shape, ivory powder and waste",
    "level": 6,
    "chapter": "05",
    "description": "Ivory; ivory powder and waste",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "05071010",
+   "hs6": "050710",
+   "hs6_description": "Animal products; ivory, unworked or simply prepared but not cut to shape, ivory powder and waste",
    "level": 8,
    "chapter": "05",
    "description": "Ivory",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "05071020",
+   "hs6": "050710",
+   "hs6_description": "Animal products; ivory, unworked or simply prepared but not cut to shape, ivory powder and waste",
    "level": 8,
    "chapter": "05",
    "description": "Ivory powder and waste",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "050790",
+   "hs6": "050790",
+   "hs6_description": "Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",
    "level": 6,
    "chapter": "05",
    "description": "Other",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "05079010",
+   "hs6": "050790",
+   "hs6_description": "Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",
    "level": 8,
    "chapter": "05",
    "description": "Hoof meal",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "05079020",
+   "hs6": "050790",
+   "hs6_description": "Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",
    "level": 8,
    "chapter": "05",
    "description": "Horn meal",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "05079030",
+   "hs6": "050790",
+   "hs6_description": "Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",
    "level": 8,
    "chapter": "05",
    "description": "Hooves, claws, nails and beaks",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "05079040",
+   "hs6": "050790",
+   "hs6_description": "Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",
    "level": 8,
    "chapter": "05",
    "description": "Antlers",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "05079050",
+   "hs6": "050790",
+   "hs6_description": "Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",
    "level": 8,
    "chapter": "05",
    "description": "Buffalo horns",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "05079060",
+   "hs6": "050790",
+   "hs6_description": "Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",
    "level": 8,
    "chapter": "05",
    "description": "Tortoise-shell",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "05079070",
+   "hs6": "050790",
+   "hs6_description": "Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",
    "level": 8,
    "chapter": "05",
    "description": "Claws and waste of tortoise shell",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "05079090",
+   "hs6": "050790",
+   "hs6_description": "Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products",
    "level": 8,
    "chapter": "05",
    "description": "Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "0508",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "05",
    "description": "Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof.",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "050800",
+   "hs6": "050800",
+   "hs6_description": "Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",
    "level": 6,
    "chapter": "05",
    "description": "Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof :",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "05080010",
+   "hs6": "050800",
+   "hs6_description": "Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",
    "level": 8,
    "chapter": "05",
    "description": "Coral",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "05080020",
+   "hs6": "050800",
+   "hs6_description": "Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",
    "level": 8,
    "chapter": "05",
    "description": "Chanks",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "05080030",
+   "hs6": "050800",
+   "hs6_description": "Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",
    "level": 8,
    "chapter": "05",
    "description": "Cowries",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "05080040",
+   "hs6": "050800",
+   "hs6_description": "Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",
    "level": 8,
    "chapter": "05",
    "description": "Cuttlefish bones",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "05080050",
+   "hs6": "050800",
+   "hs6_description": "Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",
    "level": 8,
    "chapter": "05",
    "description": "Shells",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "05080090",
+   "hs6": "050800",
+   "hs6_description": "Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof",
    "level": 8,
    "chapter": "05",
    "description": "Other",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "0510",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "05",
    "description": "Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved.",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "051000",
+   "hs6": "051000",
+   "hs6_description": "Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",
    "level": 6,
    "chapter": "05",
    "description": "Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "05100010",
+   "hs6": "051000",
+   "hs6_description": "Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",
    "level": 8,
    "chapter": "05",
    "description": "Bezoar, cow (goolochan)",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "05100020",
+   "hs6": "051000",
+   "hs6_description": "Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",
    "level": 8,
    "chapter": "05",
    "description": "Ox Gallstone",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "05100030",
+   "hs6": "051000",
+   "hs6_description": "Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",
    "level": 8,
    "chapter": "05",
    "description": "Placenta, frozen",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "05100091",
+   "hs6": "051000",
+   "hs6_description": "Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",
    "level": 8,
    "chapter": "05",
    "description": "Other :---- Of wild animals",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "05100099",
+   "hs6": "051000",
+   "hs6_description": "Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",
    "level": 8,
    "chapter": "05",
    "description": "Other :---- Other",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "0511",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "05",
    "description": "Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption.",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "05111000",
+   "hs6": "051110",
+   "hs6_description": "Animal products; bovine semen",
    "level": 8,
    "chapter": "05",
    "description": "Bovine semen",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "051191",
+   "hs6": "051191",
+   "hs6_description": "Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption",
    "level": 6,
    "chapter": "05",
    "description": "Other : -- Products of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of Chapter 3",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "05119110",
+   "hs6": "051191",
+   "hs6_description": "Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption",
    "level": 8,
    "chapter": "05",
    "description": "Fish nails",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "05119120",
+   "hs6": "051191",
+   "hs6_description": "Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption",
    "level": 8,
    "chapter": "05",
    "description": "Fish tails",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "05119130",
+   "hs6": "051191",
+   "hs6_description": "Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption",
    "level": 8,
    "chapter": "05",
    "description": "Other fish waste",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "05119140",
+   "hs6": "051191",
+   "hs6_description": "Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption",
    "level": 8,
    "chapter": "05",
    "description": "Artemia cyst",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "05119190",
+   "hs6": "051191",
+   "hs6_description": "Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption",
    "level": 8,
    "chapter": "05",
    "description": "Other",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "051199",
+   "hs6": "051199",
+   "hs6_description": "Animal products; n.e.c. in chapter 5",
    "level": 6,
    "chapter": "05",
    "description": "other -- Other",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "05119910",
+   "hs6": "051199",
+   "hs6_description": "Animal products; n.e.c. in chapter 5",
    "level": 8,
    "chapter": "05",
    "description": "Silkworm pupae",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "05119921",
+   "hs6": "051199",
+   "hs6_description": "Animal products; n.e.c. in chapter 5",
    "level": 8,
    "chapter": "05",
    "description": "Sinews and tendons: ---- Of wild life",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "05119929",
+   "hs6": "051199",
+   "hs6_description": "Animal products; n.e.c. in chapter 5",
    "level": 8,
    "chapter": "05",
    "description": "Sinews and tendons: ---- Other",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "05119991",
+   "hs6": "051199",
+   "hs6_description": "Animal products; n.e.c. in chapter 5",
    "level": 8,
    "chapter": "05",
    "description": "Other: ---- Frozen semen, other than bovine :bovine embryo:",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "05119992",
+   "hs6": "051199",
+   "hs6_description": "Animal products; n.e.c. in chapter 5",
    "level": 8,
    "chapter": "05",
    "description": "Other: ---- Of wild life",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "05119999",
+   "hs6": "051199",
+   "hs6_description": "Animal products; n.e.c. in chapter 5",
    "level": 8,
    "chapter": "05",
    "description": "Other: ---- Other",

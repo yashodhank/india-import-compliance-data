@@ -1,178 +1,178 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-0901,4,09,"Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion.",,,,,,2026-10-22
-090111,6,09,"Coffee, not roasted : --Not decaffeinated",,,,,,2026-10-22
-09011111,8,09,Arabica plantation: ---- A Grade,Free,,,,,2026-10-22
-09011112,8,09,Arabica plantation: ---- B Grade,Free,,,,,2026-10-22
-09011113,8,09,Arabica plantation: ---- C Grade,Free,,,,,2026-10-22
-09011119,8,09,Arabica plantation: ---- Other,Free,,,,,2026-10-22
-09011121,8,09,Arabica Cherry: ---- AB Grade,Free,,,,,2026-10-22
-09011122,8,09,Arabica Cherry: ---- PB Grade,Free,,,,,2026-10-22
-09011123,8,09,Arabica Cherry: ---- C Grade,Free,,,,,2026-10-22
-09011124,8,09,Arabica Cherry: ---- B/B/B Grade,Free,,,,,2026-10-22
-09011129,8,09,Arabica Cherry: ---- Other,Free,,,,,2026-10-22
-09011131,8,09,Rob Parchment: ---- AB Grade,Free,,,,,2026-10-22
-09011132,8,09,Rob Parchment: ---- PB Grade,Free,,,,,2026-10-22
-09011133,8,09,Rob Parchment: ---- C Grade,Free,,,,,2026-10-22
-09011139,8,09,Rob Parchment: ---- Other,Free,,,,,2026-10-22
-09011141,8,09,Rob cherry: ---- AB Grade,Free,,,,,2026-10-22
-09011142,8,09,Rob cherry: ---- PB Grade,Free,,,,,2026-10-22
-09011143,8,09,Rob cherry: ---- C Grade,Free,,,,,2026-10-22
-09011144,8,09,Rob cherry: ---- B/B/B Grade,Free,,,,,2026-10-22
-09011145,8,09,Rob cherry: ---- Bulk,Free,,,,,2026-10-22
-09011149,8,09,Rob cherry: ---- Other,Free,,,,,2026-10-22
-09011190,8,09,Other,Free,,,,,2026-10-22
-09011200,8,09,"Coffee, not roasted : --Decaffeinated",Free,,,,,2026-10-22
-090121,6,09,Coffee roasted : --Not decaffeinated,,,,,,2026-10-22
-09012110,8,09,In bulk packing,Free,,,,,2026-10-22
-09012190,8,09,Other,Free,,,,,2026-10-22
-090122,6,09,Coffee roasted : --Decaffeinated,,,,,,2026-10-22
-09012210,8,09,In bulk packing,Free,,,,,2026-10-22
-09012290,8,09,Other,Free,,,,,2026-10-22
-090190,6,09,Other,,,,,,2026-10-22
-09019010,8,09,Coffee husks and skins,Free,,,,,2026-10-22
-09019020,8,09,Coffee substitutes containing coffee,Free,,,,,2026-10-22
-09019090,8,09,Other,Free,,,,,2026-10-22
-0902,4,09,"Tea, whether or not flavoured.",,,,,,2026-10-22
-090210,6,09,Green tea (not fermented) in immediate packings of a content not exceeding 3 kg,,,,,,2026-10-22
-09021010,8,09,Contents not exceeding 25 g.,Free,,,,,2026-10-22
-09021020,8,09,Contents exceeding 25 g. but not exceeding 1 kg.,Free,,,,,2026-10-22
-09021030,8,09,Contents exceeding 1 kg but not exceeding 3 kg.,Free,,,,,2026-10-22
-09021090,8,09,Other,Free,,,,,2026-10-22
-090220,6,09,Other green tea (not fermented),,,,,,2026-10-22
-09022010,8,09,Green Tea in packets exceeding content 3 kg. but not exceeding 20 kg.,Free,,,,,2026-10-22
-09022020,8,09,Green Tea in bulk,Free,,,,,2026-10-22
-09022030,8,09,"Green Tea agglomerated in forms such as ball, brick and tablets",Free,,,,,2026-10-22
-09022040,8,09,Green Tea waste,Free,,,,,2026-10-22
-09022090,8,09,Other,Free,,,,,2026-10-22
-090230,6,09,"Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",,,,,,2026-10-22
-09023010,8,09,Contents not exceeding 25 g.,Free,,,,,2026-10-22
-09023020,8,09,Contents exceeding 25 g. but not exceeding 1 kg.,Free,,,,,2026-10-22
-09023030,8,09,Contents exceeding 1 kg. but not exceeding 3 kg.,Free,,,,,2026-10-22
-09023090,8,09,Other,Free,,,,,2026-10-22
-090240,6,09,Other black tea (fermented) and other partly fermented tea,,,,,,2026-10-22
-09024010,8,09,Content exceeding 3 kg. but not exceeding 20 kg.,Free,,,,,2026-10-22
-09024020,8,09,"Black Tea, leaf in bulk",Free,,,,,2026-10-22
-09024030,8,09,"Black Tea, dust in bulk",Free,,,,,2026-10-22
-09024040,8,09,Tea bags,Free,,,,,2026-10-22
-09024050,8,09,"Black Tea, agglomerated in forms such as ball, brick and tablets",Free,,,,,2026-10-22
-09024060,8,09,Black Tea waste,Free,,,,,2026-10-22
-09024090,8,09,Other,Free,,,,,2026-10-22
-09030000,8,09,Mate,Free,,,,,2026-10-22
-0904,4,09,Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta.,,,,,,2026-10-22
-090411,6,09,Pepper : --Neither crushed nor ground,,,,,,2026-10-22
-09041110,8,09,"Pepper, long",Free,,,33/2015-2020,2018-09-17,2026-10-22
-09041120,8,09,Light black pepper,Prohibited,"However, import is free if CIF value is above Rs. 500 per kg. MIP conditions, however will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Orient Units (EOUs) and units in the SEZ. Further, import under Advance Authorisation Scheme is Free and are exempted from the MIP condition when import is for extraction of oleoresin, for re-export by the manufacturer exporters only, subject to Policy condition No. 3 of the Chapter.",3,21/2015-2020,2018-07-25,2026-10-22
-09041130,8,09,"Black pepper, garbled",Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
-09041140,8,09,Black pepper ungarbled,Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
-09041150,8,09,"Green pepper, dehydrated",Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
-09041160,8,09,Pepper pinheads,Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
-09041170,8,09,"Green pepper, frozen or dried",Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
-09041180,8,09,"Pepper other than green, frozen",Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
-09041190,8,09,Other,Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
-09041200,8,09,Pepper : --Crushed or ground,Prohibited,"However, import is free if CIF value is above Rs. 500 per kg. MIP conditions, however will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Orient Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
-090421,6,09,"Fruits of the genus Capsicum or of the genus Pimenta : --Dried, neither crushed nor ground",,,,,,2026-10-22
-09042110,8,09,Of genus Capsicum,Free,,,,,2026-10-22
-09042120,8,09,Of genus Pimenta,Free,,,,,2026-10-22
-090422,6,09,Fruits of the genus Capsicum or of the genus Pimenta : --Crushed or ground,,,,,,2026-10-22
-09042211,8,09,Chilly Powder,Free,,,,,2026-10-22
-09042219,8,09,Other,Free,,,,,2026-10-22
-09042221,8,09,Of genus Pimenta :----Powder,Free,,,,,2026-10-22
-09042229,8,09,Of genus Pimenta :----Other,Free,,,,,2026-10-22
-0905,4,09,Vanilla.,,,,,,2026-10-22
-09051000,8,09,Neither crushed nor ground,Free,,,,,2026-10-22
-09052000,8,09,Crushed or ground,Free,,,,,2026-10-22
-0906,4,09,Cinnamon and cinnamon-tree flowers.,,,,,,2026-10-22
-090611,6,09,Neither crushed nor ground : --Cinnamon (Cinnamomum zeylanicum Blume),,,,,,2026-10-22
-09061110,8,09,Cinnamon bark,Free,,,,,2026-10-22
-09061120,8,09,Cinnamon tree flowers,Free,,,,,2026-10-22
-09061190,8,09,Other,Free,,,,,2026-10-22
-090619,6,09,Neither crushed nor ground : --Other,,,,,,2026-10-22
-09061910,8,09,cassia,Free,,,,,2026-10-22
-09061990,8,09,other,Free,,,,,2026-10-22
-09062000,8,09,Crushed or ground,Free,,,,,2026-10-22
-0907,4,09,"Cloves (whole fruit, cloves and stems).",,,,,,2026-10-22
-090710,6,09,Neither crushed nor ground,,,,,,2026-10-22
-09071010,8,09,Extracted,Free,,,,,2026-10-22
-09071020,8,09,Not Extracted (other than stem),Free,,,,,2026-10-22
-09071030,8,09,Stem,Free,,,,,2026-10-22
-09071090,8,09,Other,Free,,,,,2026-10-22
-09072000,8,09,Crushed or ground,Free,,,,,2026-10-22
-0908,4,09,"Nutmeg, mace and cardamoms.",,,,,,2026-10-22
-090811,6,09,Nutmeg : -- Neither crushed nor ground,,,,,,2026-10-22
-09081110,8,09,In shell,Free,,,,,2026-10-22
-09081120,8,09,Shelled,Free,,,,,2026-10-22
-09081200,8,09,Nutmeg : -- Crushed or ground,Free,,,,,2026-10-22
-09082100,8,09,Mace : --Neither crushed nor ground,Free,,,,,2026-10-22
-09082200,8,09,Mace : -- Crushed or ground,Free,,,,,2026-10-22
-090831,6,09,Cardamoms : -- Neither crushed nor ground,,,,,,2026-10-22
-09083110,8,09,Large ( amomum),Free,"Subject to CIF value of Rs. 500/- and above per Kilogram and provision of FSSAI Act, 2006. Notification No. 109 /(RE-2013)/2009-2014",,,,2026-10-22
-09083120,8,09,"Small (ellettaria),alleppey green",Free,"Subject to CIF value of Rs. 500/- and above per Kilogram and provision of FSSAI Act, 2006. Notification No. 109 /(RE-2013)/2009-2014",,,,2026-10-22
-09083130,8,09,"Small, coorg green",Free,"Subject to CIF value of Rs. 500/- and above per Kilogram and provision of FSSAI Act, 2006. Notification No. 109 /(RE-2013)/2009-2014",,,,2026-10-22
-09083140,8,09,"Small, bleached,half bleached or bleachable",Free,"Subject to CIF value of Rs. 500/- and above per Kilogram and provision of FSSAI Act, 2006. Notification No. 109 /(RE-2013)/2009-2014",,,,2026-10-22
-09083150,8,09,Small mixed,Free,"Subject to CIF value of Rs. 500/- and above per Kilogram and provision of FSSAI Act, 2006. Notification No. 109 /(RE-2013)/2009-2014",,,,2026-10-22
-09083190,8,09,Other,Free,"Subject to CIF value of Rs. 500/- and above per Kilogram and provision of FSSAI Act, 2006. Notification No. 109 /(RE-2013)/2009-2014",,,,2026-10-22
-090832,6,09,Cardamoms : --Crushed or ground,,,,,,2026-10-22
-09083210,8,09,Powder,Free,,,,,2026-10-22
-09083220,8,09,Small cardamom seeds,Free,,,,,2026-10-22
-09083230,8,09,Cardamom husk,Free,,,,,2026-10-22
-09083290,8,09,Other,Free,,,,,2026-10-22
-0909,4,09,"Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries.",,,,,,2026-10-22
-090921,6,09,Seeds of coriander : --Neither crushed nor ground,,,,,,2026-10-22
-09092110,8,09,Of seed quality,Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-09092190,8,09,Other,Free,,,,,2026-10-22
-09092200,8,09,Seeds of coriander : --Crushed or ground,Free,,,,,2026-10-22
-090931,6,09,Seeds of cumin : --Neither crushed nor ground,,,,,,2026-10-22
-09093111,8,09,"Cumin, black :---- Of seed quality",Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-09093119,8,09,"Cumin, black :----Other",Free,,,,,2026-10-22
-09093121,8,09,"Cumin, other than black: ---- Of seed quality",Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-09093129,8,09,"Cumin, other than black: ---- Other",Free,,,,,2026-10-22
-09093200,8,09,Seeds of cumin : --Crushed or ground,Free,,,,,2026-10-22
-090961,6,09,"Seeds of anise, badian, caraway or fennel; juniper berries : --Neither crushed nor ground",,,,,,2026-10-22
-09096111,8,09,Seeds of anise :---- Of seed quality,Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-09096119,8,09,Seeds of anise :----Other,Free,,,,,2026-10-22
-09096121,8,09,Seeds of badian: ---- Of seed quality,Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-09096129,8,09,Seeds of badian: ---- Other,Free,,,,,2026-10-22
-09096131,8,09,Seeds of caraway or fennel: ---- Of seed quality,Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-09096139,8,09,Seeds of caraway or fennel: ---- Other,Free,,,,,2026-10-22
-09096141,8,09,Juniper berries: ----- Of seed quality,Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-09096149,8,09,Juniper berries: ----- Other,Free,,,,,2026-10-22
-090962,6,09,"Seeds of anise, badian, caraway or fennel; juniper berries : -- Crushed or ground",,,,,,2026-10-22
-09096210,8,09,Anise,Free,,,,,2026-10-22
-09096220,8,09,Badian,Free,,,,,2026-10-22
-09096230,8,09,Caraway or fennel,Free,,,,,2026-10-22
-09096240,8,09,Juniper berries,Free,,,,,2026-10-22
-0910,4,09,"Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices.",,,,,,2026-10-22
-091011,6,09,Ginger : -- Neither crushed nor ground,,,,,,2026-10-22
-09101110,8,09,Fresh,Restricted,"a) Import of wholly produced ginger from Nepal is Free Subject to Article IV & V of Indo- Nepal Treaty of Trade. b) Import of wholly produced ginger from Bhutan is Free Subject to Article-I of Agreement on Trade, Commerce and Transit between India and Bhutan.",,07/2015-2020,2022-05-19,2026-10-22
-09101120,8,09,"Dried, unbleached",Free,,,,,2026-10-22
-09101130,8,09,"Dried, bleached",Free,,,,,2026-10-22
-09101190,8,09,Other,Free,,,,,2026-10-22
-091012,6,09,Ginger : -- Crushed or ground,,,,,,2026-10-22
-09101210,8,09,Powder,Free,,,,,2026-10-22
-09101290,8,09,Other,Free,,,,,2026-10-22
-091020,6,09,Saffron,,,,,,2026-10-22
-09102010,8,09,Saffron stigma,Free,,,,,2026-10-22
-09102020,8,09,Saffron stamen,Free,,,,,2026-10-22
-09102090,8,09,Other,Free,,,,,2026-10-22
-091030,6,09,Turmeric (curcuma),,,,,,2026-10-22
-09103010,8,09,Fresh,Free,,,,,2026-10-22
-09103020,8,09,Dried,Free,,,,,2026-10-22
-09103030,8,09,Powder,Free,,,,,2026-10-22
-09103090,8,09,Other,Free,,,,,2026-10-22
-09109100,8,09,Other spices : -- Mixtures referred to in Note 1 (b) to this Chapter,Free,,,,,2026-10-22
-091099,6,09,Other spices : -- Other,,,,,,2026-10-22
-09109911,8,09,Seed: ---- Celery,Free,,,,,2026-10-22
-09109912,8,09,Seed: ---- Fenugreek,Free,,,,,2026-10-22
-09109913,8,09,Seed: ---- Dill,Free,,,,,2026-10-22
-09109914,8,09,Seed: ---- Ajwain,Free,,,,,2026-10-22
-09109915,8,09,Seed: ---- Cassia torea,Free,,,,,2026-10-22
-09109919,8,09,Seed: ---- Other,Free,,,,,2026-10-22
-09109921,8,09,Powder: ---- Cassia,Free,,,,,2026-10-22
-09109923,8,09,Powder: ---- Celery,Free,,,,,2026-10-22
-09109924,8,09,Powder: ---- Fenugreek,Free,,,,,2026-10-22
-09109925,8,09,Powder: ---- Dill,Free,,,,,2026-10-22
-09109926,8,09,Powder: ---- Poppy,Restricted,,,,,2026-10-22
-09109927,8,09,Powder: ---- Mustard,Free,,,,,2026-10-22
-09109929,8,09,Powder: ---- Other,Free,,,,,2026-10-22
-09109930,8,09,Husk,Free,.,,08/2023,2023-05-29,2026-10-22
-09109990,8,09,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+0901,,,4,09,"Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion.",,,,,,2026-10-22
+090111,090111,Coffee; not roasted or decaffeinated,6,09,"Coffee, not roasted : --Not decaffeinated",,,,,,2026-10-22
+09011111,090111,Coffee; not roasted or decaffeinated,8,09,Arabica plantation: ---- A Grade,Free,,,,,2026-10-22
+09011112,090111,Coffee; not roasted or decaffeinated,8,09,Arabica plantation: ---- B Grade,Free,,,,,2026-10-22
+09011113,090111,Coffee; not roasted or decaffeinated,8,09,Arabica plantation: ---- C Grade,Free,,,,,2026-10-22
+09011119,090111,Coffee; not roasted or decaffeinated,8,09,Arabica plantation: ---- Other,Free,,,,,2026-10-22
+09011121,090111,Coffee; not roasted or decaffeinated,8,09,Arabica Cherry: ---- AB Grade,Free,,,,,2026-10-22
+09011122,090111,Coffee; not roasted or decaffeinated,8,09,Arabica Cherry: ---- PB Grade,Free,,,,,2026-10-22
+09011123,090111,Coffee; not roasted or decaffeinated,8,09,Arabica Cherry: ---- C Grade,Free,,,,,2026-10-22
+09011124,090111,Coffee; not roasted or decaffeinated,8,09,Arabica Cherry: ---- B/B/B Grade,Free,,,,,2026-10-22
+09011129,090111,Coffee; not roasted or decaffeinated,8,09,Arabica Cherry: ---- Other,Free,,,,,2026-10-22
+09011131,090111,Coffee; not roasted or decaffeinated,8,09,Rob Parchment: ---- AB Grade,Free,,,,,2026-10-22
+09011132,090111,Coffee; not roasted or decaffeinated,8,09,Rob Parchment: ---- PB Grade,Free,,,,,2026-10-22
+09011133,090111,Coffee; not roasted or decaffeinated,8,09,Rob Parchment: ---- C Grade,Free,,,,,2026-10-22
+09011139,090111,Coffee; not roasted or decaffeinated,8,09,Rob Parchment: ---- Other,Free,,,,,2026-10-22
+09011141,090111,Coffee; not roasted or decaffeinated,8,09,Rob cherry: ---- AB Grade,Free,,,,,2026-10-22
+09011142,090111,Coffee; not roasted or decaffeinated,8,09,Rob cherry: ---- PB Grade,Free,,,,,2026-10-22
+09011143,090111,Coffee; not roasted or decaffeinated,8,09,Rob cherry: ---- C Grade,Free,,,,,2026-10-22
+09011144,090111,Coffee; not roasted or decaffeinated,8,09,Rob cherry: ---- B/B/B Grade,Free,,,,,2026-10-22
+09011145,090111,Coffee; not roasted or decaffeinated,8,09,Rob cherry: ---- Bulk,Free,,,,,2026-10-22
+09011149,090111,Coffee; not roasted or decaffeinated,8,09,Rob cherry: ---- Other,Free,,,,,2026-10-22
+09011190,090111,Coffee; not roasted or decaffeinated,8,09,Other,Free,,,,,2026-10-22
+09011200,090112,"Coffee; decaffeinated, not roasted",8,09,"Coffee, not roasted : --Decaffeinated",Free,,,,,2026-10-22
+090121,090121,"Coffee; roasted, not decaffeinated",6,09,Coffee roasted : --Not decaffeinated,,,,,,2026-10-22
+09012110,090121,"Coffee; roasted, not decaffeinated",8,09,In bulk packing,Free,,,,,2026-10-22
+09012190,090121,"Coffee; roasted, not decaffeinated",8,09,Other,Free,,,,,2026-10-22
+090122,090122,"Coffee; roasted, decaffeinated",6,09,Coffee roasted : --Decaffeinated,,,,,,2026-10-22
+09012210,090122,"Coffee; roasted, decaffeinated",8,09,In bulk packing,Free,,,,,2026-10-22
+09012290,090122,"Coffee; roasted, decaffeinated",8,09,Other,Free,,,,,2026-10-22
+090190,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",6,09,Other,,,,,,2026-10-22
+09019010,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,09,Coffee husks and skins,Free,,,,,2026-10-22
+09019020,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,09,Coffee substitutes containing coffee,Free,,,,,2026-10-22
+09019090,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,09,Other,Free,,,,,2026-10-22
+0902,,,4,09,"Tea, whether or not flavoured.",,,,,,2026-10-22
+090210,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6,09,Green tea (not fermented) in immediate packings of a content not exceeding 3 kg,,,,,,2026-10-22
+09021010,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,09,Contents not exceeding 25 g.,Free,,,,,2026-10-22
+09021020,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,09,Contents exceeding 25 g. but not exceeding 1 kg.,Free,,,,,2026-10-22
+09021030,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,09,Contents exceeding 1 kg but not exceeding 3 kg.,Free,,,,,2026-10-22
+09021090,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,09,Other,Free,,,,,2026-10-22
+090220,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",6,09,Other green tea (not fermented),,,,,,2026-10-22
+09022010,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,09,Green Tea in packets exceeding content 3 kg. but not exceeding 20 kg.,Free,,,,,2026-10-22
+09022020,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,09,Green Tea in bulk,Free,,,,,2026-10-22
+09022030,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,09,"Green Tea agglomerated in forms such as ball, brick and tablets",Free,,,,,2026-10-22
+09022040,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,09,Green Tea waste,Free,,,,,2026-10-22
+09022090,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,09,Other,Free,,,,,2026-10-22
+090230,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",6,09,"Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",,,,,,2026-10-22
+09023010,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,09,Contents not exceeding 25 g.,Free,,,,,2026-10-22
+09023020,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,09,Contents exceeding 25 g. but not exceeding 1 kg.,Free,,,,,2026-10-22
+09023030,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,09,Contents exceeding 1 kg. but not exceeding 3 kg.,Free,,,,,2026-10-22
+09023090,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,09,Other,Free,,,,,2026-10-22
+090240,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",6,09,Other black tea (fermented) and other partly fermented tea,,,,,,2026-10-22
+09024010,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,09,Content exceeding 3 kg. but not exceeding 20 kg.,Free,,,,,2026-10-22
+09024020,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,09,"Black Tea, leaf in bulk",Free,,,,,2026-10-22
+09024030,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,09,"Black Tea, dust in bulk",Free,,,,,2026-10-22
+09024040,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,09,Tea bags,Free,,,,,2026-10-22
+09024050,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,09,"Black Tea, agglomerated in forms such as ball, brick and tablets",Free,,,,,2026-10-22
+09024060,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,09,Black Tea waste,Free,,,,,2026-10-22
+09024090,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,09,Other,Free,,,,,2026-10-22
+09030000,090300,Mate,8,09,Mate,Free,,,,,2026-10-22
+0904,,,4,09,Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta.,,,,,,2026-10-22
+090411,090411,"Spices; pepper (of the genus piper), neither crushed nor ground",6,09,Pepper : --Neither crushed nor ground,,,,,,2026-10-22
+09041110,090411,"Spices; pepper (of the genus piper), neither crushed nor ground",8,09,"Pepper, long",Free,,,33/2015-2020,2018-09-17,2026-10-22
+09041120,090411,"Spices; pepper (of the genus piper), neither crushed nor ground",8,09,Light black pepper,Prohibited,"However, import is free if CIF value is above Rs. 500 per kg. MIP conditions, however will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Orient Units (EOUs) and units in the SEZ. Further, import under Advance Authorisation Scheme is Free and are exempted from the MIP condition when import is for extraction of oleoresin, for re-export by the manufacturer exporters only, subject to Policy condition No. 3 of the Chapter.",3,21/2015-2020,2018-07-25,2026-10-22
+09041130,090411,"Spices; pepper (of the genus piper), neither crushed nor ground",8,09,"Black pepper, garbled",Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
+09041140,090411,"Spices; pepper (of the genus piper), neither crushed nor ground",8,09,Black pepper ungarbled,Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
+09041150,090411,"Spices; pepper (of the genus piper), neither crushed nor ground",8,09,"Green pepper, dehydrated",Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
+09041160,090411,"Spices; pepper (of the genus piper), neither crushed nor ground",8,09,Pepper pinheads,Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
+09041170,090411,"Spices; pepper (of the genus piper), neither crushed nor ground",8,09,"Green pepper, frozen or dried",Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
+09041180,090411,"Spices; pepper (of the genus piper), neither crushed nor ground",8,09,"Pepper other than green, frozen",Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
+09041190,090411,"Spices; pepper (of the genus piper), neither crushed nor ground",8,09,Other,Prohibited,"However, import is free if value is above Rs.500/ per kg. Rs.500/ per kg. MIP, however, will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Oriented Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
+09041200,090412,"Spices; pepper (of the genus piper), crushed or ground",8,09,Pepper : --Crushed or ground,Prohibited,"However, import is free if CIF value is above Rs. 500 per kg. MIP conditions, however will not be applicable for imports under Advance Authorisation Scheme, imports by 100percent Export Orient Units (EOUs) and units in the SEZ.",,21/2015-2020,2018-07-25,2026-10-22
+090421,090421,"Spices; fruits of the genus Capsicum or Pimenta, dried, neither crushed nor ground",6,09,"Fruits of the genus Capsicum or of the genus Pimenta : --Dried, neither crushed nor ground",,,,,,2026-10-22
+09042110,090421,"Spices; fruits of the genus Capsicum or Pimenta, dried, neither crushed nor ground",8,09,Of genus Capsicum,Free,,,,,2026-10-22
+09042120,090421,"Spices; fruits of the genus Capsicum or Pimenta, dried, neither crushed nor ground",8,09,Of genus Pimenta,Free,,,,,2026-10-22
+090422,090422,"Spices; fruits of the genus Capsicum or Pimenta, crushed or ground",6,09,Fruits of the genus Capsicum or of the genus Pimenta : --Crushed or ground,,,,,,2026-10-22
+09042211,090422,"Spices; fruits of the genus Capsicum or Pimenta, crushed or ground",8,09,Chilly Powder,Free,,,,,2026-10-22
+09042219,090422,"Spices; fruits of the genus Capsicum or Pimenta, crushed or ground",8,09,Other,Free,,,,,2026-10-22
+09042221,090422,"Spices; fruits of the genus Capsicum or Pimenta, crushed or ground",8,09,Of genus Pimenta :----Powder,Free,,,,,2026-10-22
+09042229,090422,"Spices; fruits of the genus Capsicum or Pimenta, crushed or ground",8,09,Of genus Pimenta :----Other,Free,,,,,2026-10-22
+0905,,,4,09,Vanilla.,,,,,,2026-10-22
+09051000,090510,"Spices; vanilla, neither crushed nor ground",8,09,Neither crushed nor ground,Free,,,,,2026-10-22
+09052000,090520,"Spices; vanilla, crushed or ground",8,09,Crushed or ground,Free,,,,,2026-10-22
+0906,,,4,09,Cinnamon and cinnamon-tree flowers.,,,,,,2026-10-22
+090611,090611,"Spices; cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",6,09,Neither crushed nor ground : --Cinnamon (Cinnamomum zeylanicum Blume),,,,,,2026-10-22
+09061110,090611,"Spices; cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",8,09,Cinnamon bark,Free,,,,,2026-10-22
+09061120,090611,"Spices; cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",8,09,Cinnamon tree flowers,Free,,,,,2026-10-22
+09061190,090611,"Spices; cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",8,09,Other,Free,,,,,2026-10-22
+090619,090619,"Spices; cinnamon and cinnamon-tree flowers, other than cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",6,09,Neither crushed nor ground : --Other,,,,,,2026-10-22
+09061910,090619,"Spices; cinnamon and cinnamon-tree flowers, other than cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",8,09,cassia,Free,,,,,2026-10-22
+09061990,090619,"Spices; cinnamon and cinnamon-tree flowers, other than cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",8,09,other,Free,,,,,2026-10-22
+09062000,090620,"Spices; cinnamon and cinnamon-tree flowers, crushed or ground",8,09,Crushed or ground,Free,,,,,2026-10-22
+0907,,,4,09,"Cloves (whole fruit, cloves and stems).",,,,,,2026-10-22
+090710,090710,"Spices; cloves (whole fruit, cloves and stems), neither crushed nor ground",6,09,Neither crushed nor ground,,,,,,2026-10-22
+09071010,090710,"Spices; cloves (whole fruit, cloves and stems), neither crushed nor ground",8,09,Extracted,Free,,,,,2026-10-22
+09071020,090710,"Spices; cloves (whole fruit, cloves and stems), neither crushed nor ground",8,09,Not Extracted (other than stem),Free,,,,,2026-10-22
+09071030,090710,"Spices; cloves (whole fruit, cloves and stems), neither crushed nor ground",8,09,Stem,Free,,,,,2026-10-22
+09071090,090710,"Spices; cloves (whole fruit, cloves and stems), neither crushed nor ground",8,09,Other,Free,,,,,2026-10-22
+09072000,090720,"Spices; cloves (whole fruit, cloves and stems), crushed or ground",8,09,Crushed or ground,Free,,,,,2026-10-22
+0908,,,4,09,"Nutmeg, mace and cardamoms.",,,,,,2026-10-22
+090811,090811,"Spices; nutmeg, neither crushed nor ground",6,09,Nutmeg : -- Neither crushed nor ground,,,,,,2026-10-22
+09081110,090811,"Spices; nutmeg, neither crushed nor ground",8,09,In shell,Free,,,,,2026-10-22
+09081120,090811,"Spices; nutmeg, neither crushed nor ground",8,09,Shelled,Free,,,,,2026-10-22
+09081200,090812,"Spices; nutmeg, crushed or ground",8,09,Nutmeg : -- Crushed or ground,Free,,,,,2026-10-22
+09082100,090821,"Spices; mace, neither crushed nor ground",8,09,Mace : --Neither crushed nor ground,Free,,,,,2026-10-22
+09082200,090822,"Spices; mace, crushed or ground",8,09,Mace : -- Crushed or ground,Free,,,,,2026-10-22
+090831,090831,"Spices; cardamoms, neither crushed nor ground",6,09,Cardamoms : -- Neither crushed nor ground,,,,,,2026-10-22
+09083110,090831,"Spices; cardamoms, neither crushed nor ground",8,09,Large ( amomum),Free,"Subject to CIF value of Rs. 500/- and above per Kilogram and provision of FSSAI Act, 2006. Notification No. 109 /(RE-2013)/2009-2014",,,,2026-10-22
+09083120,090831,"Spices; cardamoms, neither crushed nor ground",8,09,"Small (ellettaria),alleppey green",Free,"Subject to CIF value of Rs. 500/- and above per Kilogram and provision of FSSAI Act, 2006. Notification No. 109 /(RE-2013)/2009-2014",,,,2026-10-22
+09083130,090831,"Spices; cardamoms, neither crushed nor ground",8,09,"Small, coorg green",Free,"Subject to CIF value of Rs. 500/- and above per Kilogram and provision of FSSAI Act, 2006. Notification No. 109 /(RE-2013)/2009-2014",,,,2026-10-22
+09083140,090831,"Spices; cardamoms, neither crushed nor ground",8,09,"Small, bleached,half bleached or bleachable",Free,"Subject to CIF value of Rs. 500/- and above per Kilogram and provision of FSSAI Act, 2006. Notification No. 109 /(RE-2013)/2009-2014",,,,2026-10-22
+09083150,090831,"Spices; cardamoms, neither crushed nor ground",8,09,Small mixed,Free,"Subject to CIF value of Rs. 500/- and above per Kilogram and provision of FSSAI Act, 2006. Notification No. 109 /(RE-2013)/2009-2014",,,,2026-10-22
+09083190,090831,"Spices; cardamoms, neither crushed nor ground",8,09,Other,Free,"Subject to CIF value of Rs. 500/- and above per Kilogram and provision of FSSAI Act, 2006. Notification No. 109 /(RE-2013)/2009-2014",,,,2026-10-22
+090832,090832,"Spices; cardamoms, crushed or ground",6,09,Cardamoms : --Crushed or ground,,,,,,2026-10-22
+09083210,090832,"Spices; cardamoms, crushed or ground",8,09,Powder,Free,,,,,2026-10-22
+09083220,090832,"Spices; cardamoms, crushed or ground",8,09,Small cardamom seeds,Free,,,,,2026-10-22
+09083230,090832,"Spices; cardamoms, crushed or ground",8,09,Cardamom husk,Free,,,,,2026-10-22
+09083290,090832,"Spices; cardamoms, crushed or ground",8,09,Other,Free,,,,,2026-10-22
+0909,,,4,09,"Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries.",,,,,,2026-10-22
+090921,090921,"Spices; coriander seeds, neither crushed nor ground",6,09,Seeds of coriander : --Neither crushed nor ground,,,,,,2026-10-22
+09092110,090921,"Spices; coriander seeds, neither crushed nor ground",8,09,Of seed quality,Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+09092190,090921,"Spices; coriander seeds, neither crushed nor ground",8,09,Other,Free,,,,,2026-10-22
+09092200,090922,"Spices; coriander seeds, crushed or ground",8,09,Seeds of coriander : --Crushed or ground,Free,,,,,2026-10-22
+090931,090931,"Spices; cumin seeds, neither crushed nor ground",6,09,Seeds of cumin : --Neither crushed nor ground,,,,,,2026-10-22
+09093111,090931,"Spices; cumin seeds, neither crushed nor ground",8,09,"Cumin, black :---- Of seed quality",Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+09093119,090931,"Spices; cumin seeds, neither crushed nor ground",8,09,"Cumin, black :----Other",Free,,,,,2026-10-22
+09093121,090931,"Spices; cumin seeds, neither crushed nor ground",8,09,"Cumin, other than black: ---- Of seed quality",Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+09093129,090931,"Spices; cumin seeds, neither crushed nor ground",8,09,"Cumin, other than black: ---- Other",Free,,,,,2026-10-22
+09093200,090932,"Spices; cumin seeds, crushed or ground",8,09,Seeds of cumin : --Crushed or ground,Free,,,,,2026-10-22
+090961,090961,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",6,09,"Seeds of anise, badian, caraway or fennel; juniper berries : --Neither crushed nor ground",,,,,,2026-10-22
+09096111,090961,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",8,09,Seeds of anise :---- Of seed quality,Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+09096119,090961,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",8,09,Seeds of anise :----Other,Free,,,,,2026-10-22
+09096121,090961,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",8,09,Seeds of badian: ---- Of seed quality,Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+09096129,090961,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",8,09,Seeds of badian: ---- Other,Free,,,,,2026-10-22
+09096131,090961,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",8,09,Seeds of caraway or fennel: ---- Of seed quality,Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+09096139,090961,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",8,09,Seeds of caraway or fennel: ---- Other,Free,,,,,2026-10-22
+09096141,090961,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",8,09,Juniper berries: ----- Of seed quality,Restricted,"Import permitted for sowing without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+09096149,090961,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",8,09,Juniper berries: ----- Other,Free,,,,,2026-10-22
+090962,090962,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, crushed or ground",6,09,"Seeds of anise, badian, caraway or fennel; juniper berries : -- Crushed or ground",,,,,,2026-10-22
+09096210,090962,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, crushed or ground",8,09,Anise,Free,,,,,2026-10-22
+09096220,090962,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, crushed or ground",8,09,Badian,Free,,,,,2026-10-22
+09096230,090962,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, crushed or ground",8,09,Caraway or fennel,Free,,,,,2026-10-22
+09096240,090962,"Spices; seeds of anise, badian, caraway or fennel; juniper berries, crushed or ground",8,09,Juniper berries,Free,,,,,2026-10-22
+0910,,,4,09,"Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices.",,,,,,2026-10-22
+091011,091011,"Spices; ginger, neither crushed nor ground",6,09,Ginger : -- Neither crushed nor ground,,,,,,2026-10-22
+09101110,091011,"Spices; ginger, neither crushed nor ground",8,09,Fresh,Restricted,"a) Import of wholly produced ginger from Nepal is Free Subject to Article IV & V of Indo- Nepal Treaty of Trade. b) Import of wholly produced ginger from Bhutan is Free Subject to Article-I of Agreement on Trade, Commerce and Transit between India and Bhutan.",,07/2015-2020,2022-05-19,2026-10-22
+09101120,091011,"Spices; ginger, neither crushed nor ground",8,09,"Dried, unbleached",Free,,,,,2026-10-22
+09101130,091011,"Spices; ginger, neither crushed nor ground",8,09,"Dried, bleached",Free,,,,,2026-10-22
+09101190,091011,"Spices; ginger, neither crushed nor ground",8,09,Other,Free,,,,,2026-10-22
+091012,091012,"Spices; ginger, crushed or ground",6,09,Ginger : -- Crushed or ground,,,,,,2026-10-22
+09101210,091012,"Spices; ginger, crushed or ground",8,09,Powder,Free,,,,,2026-10-22
+09101290,091012,"Spices; ginger, crushed or ground",8,09,Other,Free,,,,,2026-10-22
+091020,091020,Spices; saffron,6,09,Saffron,,,,,,2026-10-22
+09102010,091020,Spices; saffron,8,09,Saffron stigma,Free,,,,,2026-10-22
+09102020,091020,Spices; saffron,8,09,Saffron stamen,Free,,,,,2026-10-22
+09102090,091020,Spices; saffron,8,09,Other,Free,,,,,2026-10-22
+091030,091030,Spices; turmeric (curcuma),6,09,Turmeric (curcuma),,,,,,2026-10-22
+09103010,091030,Spices; turmeric (curcuma),8,09,Fresh,Free,,,,,2026-10-22
+09103020,091030,Spices; turmeric (curcuma),8,09,Dried,Free,,,,,2026-10-22
+09103030,091030,Spices; turmeric (curcuma),8,09,Powder,Free,,,,,2026-10-22
+09103090,091030,Spices; turmeric (curcuma),8,09,Other,Free,,,,,2026-10-22
+09109100,091091,Spices; mixtures of 2 or more products of different headings,8,09,Other spices : -- Mixtures referred to in Note 1 (b) to this Chapter,Free,,,,,2026-10-22
+091099,091099,Spices; n.e.c. in heading no. 0910,6,09,Other spices : -- Other,,,,,,2026-10-22
+09109911,091099,Spices; n.e.c. in heading no. 0910,8,09,Seed: ---- Celery,Free,,,,,2026-10-22
+09109912,091099,Spices; n.e.c. in heading no. 0910,8,09,Seed: ---- Fenugreek,Free,,,,,2026-10-22
+09109913,091099,Spices; n.e.c. in heading no. 0910,8,09,Seed: ---- Dill,Free,,,,,2026-10-22
+09109914,091099,Spices; n.e.c. in heading no. 0910,8,09,Seed: ---- Ajwain,Free,,,,,2026-10-22
+09109915,091099,Spices; n.e.c. in heading no. 0910,8,09,Seed: ---- Cassia torea,Free,,,,,2026-10-22
+09109919,091099,Spices; n.e.c. in heading no. 0910,8,09,Seed: ---- Other,Free,,,,,2026-10-22
+09109921,091099,Spices; n.e.c. in heading no. 0910,8,09,Powder: ---- Cassia,Free,,,,,2026-10-22
+09109923,091099,Spices; n.e.c. in heading no. 0910,8,09,Powder: ---- Celery,Free,,,,,2026-10-22
+09109924,091099,Spices; n.e.c. in heading no. 0910,8,09,Powder: ---- Fenugreek,Free,,,,,2026-10-22
+09109925,091099,Spices; n.e.c. in heading no. 0910,8,09,Powder: ---- Dill,Free,,,,,2026-10-22
+09109926,091099,Spices; n.e.c. in heading no. 0910,8,09,Powder: ---- Poppy,Restricted,,,,,2026-10-22
+09109927,091099,Spices; n.e.c. in heading no. 0910,8,09,Powder: ---- Mustard,Free,,,,,2026-10-22
+09109929,091099,Spices; n.e.c. in heading no. 0910,8,09,Powder: ---- Other,Free,,,,,2026-10-22
+09109930,091099,Spices; n.e.c. in heading no. 0910,8,09,Husk,Free,.,,08/2023,2023-05-29,2026-10-22
+09109990,091099,Spices; n.e.c. in heading no. 0910,8,09,Other,Free,,,,,2026-10-22

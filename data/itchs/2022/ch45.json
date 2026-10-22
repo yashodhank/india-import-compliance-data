@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "4501",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "45",
    "description": "Natural cork, raw or simply prepared; waste cork; crushed,",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "45011000",
+   "hs6": "450110",
+   "hs6_description": "Cork; natural cork, raw or simply prepared",
    "level": 8,
    "chapter": "45",
    "description": "Natural cork, raw or simply prepared",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "45019000",
+   "hs6": "450190",
+   "hs6_description": "Cork; waste cork, crushed, granulated or ground cork",
    "level": 8,
    "chapter": "45",
    "description": "Other",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "45020000",
+   "hs6": "450200",
+   "hs6_description": "Cork; natural cork, debacked or roughly squared, or in rectangular (including square) blocks, plates, sheets or strip, (including sharp-edged blanks for corks or stoppers)",
    "level": 8,
    "chapter": "45",
    "description": "Natural cork, debacked or roughly squared, or in rectangular (including square) blocks, plates, sheets or strip (including sharpedged blanks for corks or stoppers).",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "4503",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "45",
    "description": "Articles of natural cork.",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "45031000",
+   "hs6": "450310",
+   "hs6_description": "Cork; corks and stoppers, of natural cork",
    "level": 8,
    "chapter": "45",
    "description": "Corks and stoppers",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "450390",
+   "hs6": "450390",
+   "hs6_description": "Cork; articles of natural cork other than corks and stoppers",
    "level": 6,
    "chapter": "45",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "45039010",
+   "hs6": "450390",
+   "hs6_description": "Cork; articles of natural cork other than corks and stoppers",
    "level": 8,
    "chapter": "45",
    "description": "Shuttlecock cork bottom",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "45039090",
+   "hs6": "450390",
+   "hs6_description": "Cork; articles of natural cork other than corks and stoppers",
    "level": 8,
    "chapter": "45",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "4504",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "45",
    "description": "Agglomerated cork (with or without a binding substance) and",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "450410",
+   "hs6": "450410",
+   "hs6_description": "Cork; blocks, plates, sheets and strip, tiles of any shape, solid cylinders (including discs), of agglomerated cork (with or without a binding substance)",
    "level": 6,
    "chapter": "45",
    "description": "Blocks, plates, sheets and strip; tiles of any shape; solid cylinders, including discs",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "45041010",
+   "hs6": "450410",
+   "hs6_description": "Cork; blocks, plates, sheets and strip, tiles of any shape, solid cylinders (including discs), of agglomerated cork (with or without a binding substance)",
    "level": 8,
    "chapter": "45",
    "description": "Sheets",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "45041020",
+   "hs6": "450410",
+   "hs6_description": "Cork; blocks, plates, sheets and strip, tiles of any shape, solid cylinders (including discs), of agglomerated cork (with or without a binding substance)",
    "level": 8,
    "chapter": "45",
    "description": "Slabs",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "45041090",
+   "hs6": "450410",
+   "hs6_description": "Cork; blocks, plates, sheets and strip, tiles of any shape, solid cylinders (including discs), of agglomerated cork (with or without a binding substance)",
    "level": 8,
    "chapter": "45",
    "description": "Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "45049000",
+   "hs6": "450490",
+   "hs6_description": "Cork; articles of agglomerated cork (with or without a binding substance), n.e.c. in heading no. 4504",
    "level": 8,
    "chapter": "45",
    "description": "other",

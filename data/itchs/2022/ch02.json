@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "0201",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "02",
    "description": "Meat of bovine animals, fresh or chilled.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "02011000",
+   "hs6": "020110",
+   "hs6_description": "Meat; of bovine animals, carcasses and half-carcasses, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Carcasses and half-carcasses",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "02012000",
+   "hs6": "020120",
+   "hs6_description": "Meat; of bovine animals, cuts with bone in (excluding carcasses and half-carcasses), fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Other cuts with bone in",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "02013000",
+   "hs6": "020130",
+   "hs6_description": "Meat; of bovine animals, boneless cuts, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Boneless",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "0202",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "02",
    "description": "Meat of bovine animals, frozen.",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "02021000",
+   "hs6": "020210",
+   "hs6_description": "Meat; of bovine animals, carcasses and half-carcasses, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Carcasses and half-carcasses",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "02022000",
+   "hs6": "020220",
+   "hs6_description": "Meat; of bovine animals, cuts with bone in (excluding carcasses and half-carcasses), frozen",
    "level": 8,
    "chapter": "02",
    "description": "Other cuts with bone in",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "02023000",
+   "hs6": "020230",
+   "hs6_description": "Meat; of bovine animals, boneless cuts, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Boneless",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "0203",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "02",
    "description": "Meat of swine, fresh, chilled or frozen.",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "02031100",
+   "hs6": "020311",
+   "hs6_description": "Meat; of swine, carcasses and half-carcasses, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Fresh or chilled : -- Carcasses and half-carcasses",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "02031200",
+   "hs6": "020312",
+   "hs6_description": "Meat; of swine, hams, shoulders and cuts thereof, with bone in, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Fresh or chilled : -- Hams, shoulders and cuts thereof, with bone in",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "02031900",
+   "hs6": "020319",
+   "hs6_description": "Meat; of swine, n.e.c. in item no. 0203.1, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Fresh or chilled : -- Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "02032100",
+   "hs6": "020321",
+   "hs6_description": "Meat; of swine, carcasses and half-carcasses, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Frozen : -- Carcasses and half-carcasses",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "02032200",
+   "hs6": "020322",
+   "hs6_description": "Meat; of swine, hams, shoulders and cuts thereof, with bone in, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Frozen : -- Hams, shoulders and cuts thereof, with bone in",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "02032900",
+   "hs6": "020329",
+   "hs6_description": "Meat; of swine, n.e.c. in item no. 0203.2, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Frozen : -- Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "0204",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "02",
    "description": "Meat of sheep or goats, fresh, chilled or frozen.",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "02041000",
+   "hs6": "020410",
+   "hs6_description": "Meat; of sheep, lamb carcasses and half-carcasses, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Carcasses and half-carcasses of lamb, fresh or chilled",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "02042100",
+   "hs6": "020421",
+   "hs6_description": "Meat; of sheep, carcasses and half-carcasses (excluding carcasses and half-carcasses of lamb), fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Carcasses and half-carcasses",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "02042200",
+   "hs6": "020422",
+   "hs6_description": "Meat; of sheep (including lamb), cuts with bone in (excluding carcasses and half-carcasses), fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Other cuts with bone in",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "02042300",
+   "hs6": "020423",
+   "hs6_description": "Meat; of sheep (including lamb), boneless cuts, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Boneless",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "02043000",
+   "hs6": "020430",
+   "hs6_description": "Meat; of sheep, lamb carcasses and half-carcasses, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Carcasses and half-carcasses of lamb, frozen",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "02044100",
+   "hs6": "020441",
+   "hs6_description": "Meat; of sheep, carcasses and half-carcasses (excluding carcasses and half-carcasses of lamb), frozen",
    "level": 8,
    "chapter": "02",
    "description": "Other meat of sheep, frozen : -- Carcasses and half-carcasses",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "02044200",
+   "hs6": "020442",
+   "hs6_description": "Meat; of sheep (including lamb), cuts with bone in (excluding carcasses and half-carcasses), frozen",
    "level": 8,
    "chapter": "02",
    "description": "Other meat of sheep, frozen : -- Other cuts with bone in",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "02044300",
+   "hs6": "020443",
+   "hs6_description": "Meat; of sheep (including lamb), boneless cuts, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Other meat of sheep, frozen : -- Boneless",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "02045000",
+   "hs6": "020450",
+   "hs6_description": "Meat; of goats, fresh, chilled or frozen",
    "level": 8,
    "chapter": "02",
    "description": "Meat of goats",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "02050000",
+   "hs6": "020500",
+   "hs6_description": "Meat; of horses, asses, mules or hinnies, fresh, chilled or frozen",
    "level": 8,
    "chapter": "02",
    "description": "Meat of horses, asses, mules or hinnies, fresh, chilled or frozen",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "0206",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "02",
    "description": "Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen.",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "02061000",
+   "hs6": "020610",
+   "hs6_description": "Offal, edible; of bovine animals, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of bovine animals, fresh or chilled",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "02062100",
+   "hs6": "020621",
+   "hs6_description": "Offal, edible; of bovine animals, tongues, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of bovine animals, frozen : -- Tongues",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "02062200",
+   "hs6": "020622",
+   "hs6_description": "Offal, edible; of bovine animals, livers, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of bovine animals, frozen : -- Livers",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "02062900",
+   "hs6": "020629",
+   "hs6_description": "Offal, edible; of bovine animals, (other than tongues and livers), frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of bovine animals, frozen : -- Other",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "02063000",
+   "hs6": "020630",
+   "hs6_description": "Offal, edible; of swine, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of swine, fresh or chilled",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "02064100",
+   "hs6": "020641",
+   "hs6_description": "Offal, edible; of swine, livers, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of swine, frozen : -- Livers",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "02064900",
+   "hs6": "020649",
+   "hs6_description": "Offal, edible; of swine, (other than livers), frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of swine, frozen : -- Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "020680",
+   "hs6": "020680",
+   "hs6_description": "Offal, edible; of sheep, goats, horses, asses, mules or hinnies, fresh or chilled",
    "level": 6,
    "chapter": "02",
    "description": "Other, fresh or chilled",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "02068010",
+   "hs6": "020680",
+   "hs6_description": "Offal, edible; of sheep, goats, horses, asses, mules or hinnies, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of sheep or goats",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "02068090",
+   "hs6": "020680",
+   "hs6_description": "Offal, edible; of sheep, goats, horses, asses, mules or hinnies, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "020690",
+   "hs6": "020690",
+   "hs6_description": "Offal, edible; of sheep, goats, horses, asses, mules or hinnies, frozen",
    "level": 6,
    "chapter": "02",
    "description": "Other, frozen",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "02069010",
+   "hs6": "020690",
+   "hs6_description": "Offal, edible; of sheep, goats, horses, asses, mules or hinnies, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of sheep or goats",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "02069090",
+   "hs6": "020690",
+   "hs6_description": "Offal, edible; of sheep, goats, horses, asses, mules or hinnies, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "0207",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "02",
    "description": "Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "02071100",
+   "hs6": "020711",
+   "hs6_description": "Meat and edible offal; of fowls of the species Gallus domesticus, not cut in pieces, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of fowls of the species Gallus domesticus : -- Not cut in pieces, fresh or chilled",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "02071200",
+   "hs6": "020712",
+   "hs6_description": "Meat and edible offal; of fowls of the species Gallus domesticus, not cut in pieces, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of fowls of the species Gallus domesticus : -- Not cut in pieces, frozen",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "02071300",
+   "hs6": "020713",
+   "hs6_description": "Meat and edible offal; of fowls of the species Gallus domesticus, cuts and offal, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of fowls of the species Gallus domesticus : -- Cuts and offal, fresh or chilled",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "02071400",
+   "hs6": "020714",
+   "hs6_description": "Meat and edible offal; of fowls of the species Gallus domesticus, cuts and offal, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of fowls of the species Gallus domesticus : -- Cuts and offal, frozen",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "02072400",
+   "hs6": "020724",
+   "hs6_description": "Meat and edible offal; of turkeys, not cut in pieces, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of turkeys : --Not cut in pieces, fresh or chilled",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "02072500",
+   "hs6": "020725",
+   "hs6_description": "Meat and edible offal; of turkeys, not cut in pieces, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of turkeys : --Not cut in pieces, frozen",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "02072600",
+   "hs6": "020726",
+   "hs6_description": "Meat and edible offal; of turkeys, cuts and offal, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of turkeys : --Cuts and offal, fresh or chilled",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "02072700",
+   "hs6": "020727",
+   "hs6_description": "Meat and edible offal; of turkeys, cuts and offal, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of turkeys : --Cuts and offal, frozen",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "02074100",
+   "hs6": "020741",
+   "hs6_description": "Meat and edible offal; of ducks, not cut in pieces, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of ducks : --Not cut in pieces, fresh or chilled",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "02074200",
+   "hs6": "020742",
+   "hs6_description": "Meat and edible offal; of ducks, not cut in pieces, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of ducks : --Not cut in pieces, frozen",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "02074300",
+   "hs6": "020743",
+   "hs6_description": "Meat and edible offal; of ducks, fatty livers (foie gras), fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of ducks : --Fatty livers, fresh or chilled",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "02074400",
+   "hs6": "020744",
+   "hs6_description": "Meat and edible offal; of ducks, cuts and offal, excluding fatty livers, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of ducks : --Other, fresh or chilled",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "02074500",
+   "hs6": "020745",
+   "hs6_description": "Meat and edible offal; of ducks, cuts and offal, excluding fatty livers, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of ducks : --Other, frozen",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "02075100",
+   "hs6": "020751",
+   "hs6_description": "Meat and edible offal; of geese, not cut in pieces, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of geese : -- Not cut in pieces, fresh or chilled",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "02075200",
+   "hs6": "020752",
+   "hs6_description": "Meat and edible offal; of geese, not cut in pieces, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of geese : -- Not cut in pieces, frozen",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "02075300",
+   "hs6": "020753",
+   "hs6_description": "Meat and edible offal; of geese, fatty livers (foie gras), fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of geese : -- Fatty livers, fresh or chilled",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "02075400",
+   "hs6": "020754",
+   "hs6_description": "Meat and edible offal; of geese, cuts and offal, excluding fatty livers, fresh or chilled",
    "level": 8,
    "chapter": "02",
    "description": "Of geese : -- Other, fresh or chilled",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "02075500",
+   "hs6": "020755",
+   "hs6_description": "Meat and edible offal; of geese, cuts and offal, excluding fatty livers, frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of geese : -- Other, frozen",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "02076000",
+   "hs6": "020760",
+   "hs6_description": "Meat and edible offal; of guinea fowls, fresh, chilled or frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of guinea fowls",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "0208",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "02",
    "description": "Other meat and edible meat offal, fresh, chilled or frozen.",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "02081000",
+   "hs6": "020810",
+   "hs6_description": "Meat and edible meat offal; of rabbits or hares, fresh, chilled or frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of rabbits or hares",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "02083000",
+   "hs6": "020830",
+   "hs6_description": "Meat and edible meat offal; of primates, fresh, chilled or frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of primates",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "02084000",
+   "hs6": "020840",
+   "hs6_description": "Meat and edible meat offal; of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia), fresh, chilled or frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of whales, dolphines and porpoises (mammals of the order cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the sub-order Pinnipedia)",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "02085000",
+   "hs6": "020850",
+   "hs6_description": "Meat and edible meat offal; of reptiles (including snakes and turtles), fresh, chilled or frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of reptiles (including snakes and turtles)",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "02086000",
+   "hs6": "020860",
+   "hs6_description": "Meat and edible meat offal; of camels and other camelids (Camelidae), fresh, chilled or frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of camels and other camelids (Camelidae)",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "020890",
+   "hs6": "020890",
+   "hs6_description": "Meat and edible meat offal; n.e.c. in chapter 2, fresh, chilled or frozen",
    "level": 6,
    "chapter": "02",
    "description": "Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "02089010",
+   "hs6": "020890",
+   "hs6_description": "Meat and edible meat offal; n.e.c. in chapter 2, fresh, chilled or frozen",
    "level": 8,
    "chapter": "02",
    "description": "Of wild animals",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "02089090",
+   "hs6": "020890",
+   "hs6_description": "Meat and edible meat offal; n.e.c. in chapter 2, fresh, chilled or frozen",
    "level": 8,
    "chapter": "02",
    "description": "Other",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "0209",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "02",
    "description": "PIG FAT, FREE OF LEAN MEAT AND POUTRY FAT, NOT RENDERED OR OTHERWISE EXTRACTED, FRESH, CHILLED, FROZEN, SALTED, IN BRINE, DRIED OR SMOKED",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "02091000",
+   "hs6": "020910",
+   "hs6_description": "Fat; pig fat, free of lean meat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked",
    "level": 8,
    "chapter": "02",
    "description": "Of pigs",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "02099000",
+   "hs6": "020990",
+   "hs6_description": "Fat; poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked",
    "level": 8,
    "chapter": "02",
    "description": "Other",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "0210",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "02",
    "description": "MEAT AND EDIBLE MEAT OFFAL, SALTED, IN BRINE, DRIED OR SMOKED; EDIBLE FLOURS AND MEALS OF MEAT OR MEAT OFFAL",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "02101100",
+   "hs6": "021011",
+   "hs6_description": "Meat; salted, in brine, dried or smoked, of swine, hams, shoulders and cuts thereof, with bone in",
    "level": 8,
    "chapter": "02",
    "description": "Meat of swine : -- Hams, shoulders and cuts thereof, with bone in",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "02101200",
+   "hs6": "021012",
+   "hs6_description": "Meat; salted, in brine, dried or smoked, of swine, bellies (streaky) and cuts thereof",
    "level": 8,
    "chapter": "02",
    "description": "Meat of swine : -- Bellies (streaky) and cuts thereof",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "02101900",
+   "hs6": "021019",
+   "hs6_description": "Meat; salted in brine, dried or smoked, of swine, n.e.c. in item no. 0210.1",
    "level": 8,
    "chapter": "02",
    "description": "Meat of swine : -- Other",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "02102000",
+   "hs6": "021020",
+   "hs6_description": "Meat; salted, in brine, dried or smoked, of bovine animals",
    "level": 8,
    "chapter": "02",
    "description": "Meat of bovine animals",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "02109100",
+   "hs6": "021091",
+   "hs6_description": "Meat and edible meat offal; salted, in brine, dried or smoked, and edible flours and meals of meat or meat offal, of primates",
    "level": 8,
    "chapter": "02",
    "description": "Other, including edible flours and meals of meat or meat offal : -- Of primates",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "02109200",
+   "hs6": "021092",
+   "hs6_description": "Meat and edible meat offal; salted, in brine, dried or smoked; edible flours, meals of meat or meat offal, of whales, dolphins, porpoises (of order Cetacea); manatees, dugongs (of order Sirenia); seals, sea lions, and walruses (of suborder Pinnipedia)",
    "level": 8,
    "chapter": "02",
    "description": "Other, including edible flours and meals of meat or meat offal:-- Of whales, dolphins and porpoises (mammals of the order cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the sub-order Pinnipedia)",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "02109300",
+   "hs6": "021093",
+   "hs6_description": "Meat and edible meat offal; salted, in brine, dried or smoked, and edible flours and meals of meat or meat offal, of reptiles (including snakes and turtles)",
    "level": 8,
    "chapter": "02",
    "description": "Other, including edible flours and meals of meat or meat offal : -- Of reptiles (including snakes and turtles)",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "02109900",
+   "hs6": "021099",
+   "hs6_description": "Meat and edible meat offal; salted, in brine, dried or smoked, and edible flours and meals of meat or meat offal, other than of primates, whales, dolphins, porpoises, manatees, dugongs, seals, sea lions, walruses, reptiles (including snakes and turtles)",
    "level": 8,
    "chapter": "02",
    "description": "Other, including edible flours and meals of meat or meat offal : -- Other",

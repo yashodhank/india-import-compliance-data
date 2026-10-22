@@ -1,94 +1,94 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-2001,4,20,"Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid.",,,,,,2026-10-22
-20011000,8,20,Cucumbers and gherkins,Free,,,,,2026-10-22
-20019000,8,20,Other,Free,,,,,2026-10-22
-2002,4,20,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid.,,,,,,2026-10-22
-20021000,8,20,"Tomatoes, whole or in pieces",Free,,,,,2026-10-22
-20029000,8,20,Other,Free,,,,,2026-10-22
-2003,4,20,"Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid.",,,,,,2026-10-22
-20031000,8,20,Mushrooms of the genus Agaricus,Free,,,,,2026-10-22
-200390,6,20,Other,,,,,,2026-10-22
-20039010,8,20,Truffles,Free,,,,,2026-10-22
-20039090,8,20,Other,Free,,,,,2026-10-22
-2004,4,20,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 20.06.",,,,,,2026-10-22
-20041000,8,20,Potatoes,Free,,,,,2026-10-22
-20049000,8,20,Other vegetables and mixtures of vegetables,Free,,,,,2026-10-22
-2005,4,20,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 20.06.",,,,,,2026-10-22
-20051000,8,20,Homogenised vegetables,Free,,,,,2026-10-22
-20052000,8,20,Potatoes,Free,,,,,2026-10-22
-20054000,8,20,Peas (Pisum sativum),Free,,,,,2026-10-22
-20055100,8,20,"Beans (Vigna spp., Phaseolus spp.) : -- Beans, shelled",Free,,,,,2026-10-22
-20055900,8,20,"Beans (Vigna spp., Phaseolus spp.) : --Other",Free,,,,,2026-10-22
-20056000,8,20,Asparagus,Free,,,,,2026-10-22
-20057000,8,20,Olives,Free,,,,,2026-10-22
-20058000,8,20,Sweet corn (Zea mays var. saccharata),Free,,,,,2026-10-22
-20059100,8,20,Other vegetables and mixtures of vegetables : -- Bamboo shoots,Free,,,,,2026-10-22
-20059900,8,20,Other vegetables and mixtures of vegetables : -- Other,Free,,,,,2026-10-22
-20060000,8,20,"Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glacé or crystallised).",Free,,,,,2026-10-22
-2007,4,20,"Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter.",,,,,,2026-10-22
-20071000,8,20,Homogenised preparations,Free,,,,,2026-10-22
-20079100,8,20,Other : -- Citrus fruit,Free,,,,,2026-10-22
-200799,6,20,Other : -- Other,,,,,,2026-10-22
-20079910,8,20,Mango,Free,,,,,2026-10-22
-20079920,8,20,Guava,Free,,,,,2026-10-22
-20079930,8,20,Pine apple,Free,,,,,2026-10-22
-20079940,8,20,Apple,Free,,,,,2026-10-22
-20079990,8,20,Other,Free,,,,,2026-10-22
-2008,4,20,"Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or sweetening matter or spirit, not elsewhere specified or included.other",,,,,,2026-10-22
-20081100,8,20,"Nuts, ground-nuts and other seeds, whether or not mixed together : -- Ground-nuts",Free,,,,,2026-10-22
-200819,6,20,"Nuts, ground-nuts and other seeds, whether or not mixed together : -- Other, including mixtures",,,,,,2026-10-22
-20081910,8,20,"Cashew nut, roasted, salted or roasted and salted",Free,,,,,2026-10-22
-20081921,8,20,--- Makhana: ---- Popped,Free,-,,44/2025-26,2025-10-15,2026-10-22
-20081922,8,20,--- Makhana: ---- Flour and powder,Free,-,,44/2025-26,2025-10-15,2026-10-22
-20081929,8,20,--- Makhana: ---- Other,Free,-,,44/2025-26,2025-10-15,2026-10-22
-20081991,8,20,--- Other: ---- Other roasted nuts and seeds,Free,"(a) However, import of Roasted Areca Nuts having CIF value less than Rs. 351/- per Kilogram is Prohibited. (b) Import of all other roasted nuts and seeds remains Free. (c) The Minimum Import Price mentioned at (a), however, will not be applicable for the import of Roasted Areca Nuts by 100% Export Oriented Units (EOUs), units in the SEZ and imports under the Advance Authorization Scheme.",,43/2025-26,2025-10-15,2026-10-22
-20081992,8,20,"--- Other: ---- Other nuts, otherwise prepared or preserved",Free,-,,44/2025-26,2025-10-15,2026-10-22
-20081993,8,20,--- Other: ---- Other roasted and fried vegetable products,Free,-,,44/2025-26,2025-10-15,2026-10-22
-20081999,8,20,--- Other: ---- Other,,,,,,2026-10-22
-20082000,8,20,Pineapples,Free,,,,,2026-10-22
-200830,6,20,Citrus fruit,,,,,,2026-10-22
-20083010,8,20,Orange,Free,,,,,2026-10-22
-20083090,8,20,Other,Free,,,,,2026-10-22
-20084000,8,20,Pears,Free,,,,,2026-10-22
-20085000,8,20,Apricots,Free,,,,,2026-10-22
-20086000,8,20,Cherries,Free,,,,,2026-10-22
-20087000,8,20,"Peaches, including nectarines",Free,,,,,2026-10-22
-20088000,8,20,Strawberries,Free,,,,,2026-10-22
-20089100,8,20,"Other, including mixtures other than those of subheading 2008.19 : -- Palm hearts",Free,,,,,2026-10-22
-200893,6,20,"-- Cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos); lingonberries (Vaccinium vitis-idaea) :",,,,,,2026-10-22
-20089310,8,20,"--- Cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos)",Free,,,24/2026-27,2026-07-22,2026-10-22
-20089390,8,20,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-20089700,8,20,"Other, including mixtures other than those of subheading 2008.19 : -- Mixtures",Free,,,,,2026-10-22
-200899,6,20,"Other, including mixtures other than those of subheading 2008.19 : --Other",,,,,,2026-10-22
-20089911,8,20,Squash: ---- Mango,Free,,,,,2026-10-22
-20089912,8,20,Squash: ---- Lemon,Free,,,,,2026-10-22
-20089913,8,20,Squash: ---- Orange,Free,,,,,2026-10-22
-20089914,8,20,Squash: ---- Pineapple,Free,,,,,2026-10-22
-20089915,8,20,---- Blueberries,Free,,,24/2026-27,2026-07-22,2026-10-22
-20089919,8,20,Squash: ---- Other,Free,,,,,2026-10-22
-20089991,8,20,Other: ---- Fruit cocktail,Free,,,,,2026-10-22
-20089992,8,20,Other: ---- Grapes,Free,,,,,2026-10-22
-20089993,8,20,Other: ---- Apples,Free,,,,,2026-10-22
-20089994,8,20,Other: ---- Guava,Free,,,,,2026-10-22
-20089995,8,20,---- Blueberries,Free,,,24/2026-27,2026-07-22,2026-10-22
-20089999,8,20,Other: ---- Other,Free,,,,,2026-10-22
-2009,4,20,"FRUIT OR NUT JUICES (INCLUDING GRAPE MUST AND COCONUT WATER) AND VEGETABLE JUICES, UNFERMENTED AND NOT CONTAINING ADDED SPIRIT, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER",,,,,,2026-10-22
-20091100,8,20,Orange juice : -- Frozen,Free,,,,,2026-10-22
-20091200,8,20,"Orange juice : -- Not frozen, of a Brix value not exceeding 20",Free,,,,,2026-10-22
-20091900,8,20,Orange juice :--Other,Free,,,,,2026-10-22
-20092100,8,20,Grapefruit juice; pomelo juice: -- Of a Brix value not exceeding 20,Free,,,,,2026-10-22
-20092900,8,20,Grapefruit juice; pomelo juice: -- Other,Free,,,,,2026-10-22
-20093100,8,20,Juice of any other single citrus fruit : -- Of a Brix value not exceeding 20,Free,,,,,2026-10-22
-20093900,8,20,Juice of any other single citrus fruit : -- Other,Free,,,,,2026-10-22
-20094100,8,20,Pineapple juice : -- Of a Brix value not exceeding 20,Free,,,,,2026-10-22
-20094900,8,20,Pineapple juice : -- Other,Free,,,,,2026-10-22
-20095000,8,20,Tomato juice,Free,,,,,2026-10-22
-20096100,8,20,Grape juice (including grape must) : -- Of a Brix value not exceeding 30,Free,,,,,2026-10-22
-20096900,8,20,Grape juice (including grape must): -- Other,Free,,,,,2026-10-22
-20097100,8,20,Apple juice: -- Of a Brix value not exceeding 20,Free,,,,,2026-10-22
-20097900,8,20,Apple juice :--Other,Free,,,,,2026-10-22
-20098100,8,20,"Juice of any other single fruit, nut or vegetable:- - Cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos) juice; lingon berry (Vaccinium vitis-idaea) juice",Free,,,,,2026-10-22
-200989,6,20,Juice of any other single fruit or vegetable : -- Other,,,,,,2026-10-22
-20098910,8,20,Mango Juice,,,,,,2026-10-22
-20098990,8,20,Other,Free,Free,,,,2026-10-22
-20099000,8,20,Mixtures of juices,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+2001,,,4,20,"Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid.",,,,,,2026-10-22
+20011000,200110,"Vegetable preparations; cucumbers and gherkins, prepared or preserved by vinegar or acetic acid",8,20,Cucumbers and gherkins,Free,,,,,2026-10-22
+20019000,200190,"Vegetable preparations; vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid (excluding cucumbers and gherkins)",8,20,Other,Free,,,,,2026-10-22
+2002,,,4,20,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid.,,,,,,2026-10-22
+20021000,200210,"Vegetable preparations; tomatoes, whole or in pieces, prepared or preserved otherwise than by vinegar or acetic acid",8,20,"Tomatoes, whole or in pieces",Free,,,,,2026-10-22
+20029000,200290,"Vegetable preparations; tomatoes, (other than whole or in pieces), prepared or preserved otherwise than by vinegar or acetic acid",8,20,Other,Free,,,,,2026-10-22
+2003,,,4,20,"Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid.",,,,,,2026-10-22
+20031000,200310,"Vegetable preparations; mushrooms of the genus Agaricus, prepared or preserved otherwise than by vinegar or acetic acid",8,20,Mushrooms of the genus Agaricus,Free,,,,,2026-10-22
+200390,200390,"Vegetable preparations; mushrooms and truffles, other than mushrooms of the genus Agaricus, prepared or preserved otherwise than by vinegar or acetic acid",6,20,Other,,,,,,2026-10-22
+20039010,200390,"Vegetable preparations; mushrooms and truffles, other than mushrooms of the genus Agaricus, prepared or preserved otherwise than by vinegar or acetic acid",8,20,Truffles,Free,,,,,2026-10-22
+20039090,200390,"Vegetable preparations; mushrooms and truffles, other than mushrooms of the genus Agaricus, prepared or preserved otherwise than by vinegar or acetic acid",8,20,Other,Free,,,,,2026-10-22
+2004,,,4,20,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 20.06.",,,,,,2026-10-22
+20041000,200410,"Vegetable preparations; potatoes, prepared or preserved otherwise than by vinegar or acetic acid, frozen",8,20,Potatoes,Free,,,,,2026-10-22
+20049000,200490,"Vegetable preparations; vegetables and mixtures of vegetables (excluding potatoes), prepared or preserved otherwise than by vinegar or acetic acid, frozen",8,20,Other vegetables and mixtures of vegetables,Free,,,,,2026-10-22
+2005,,,4,20,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 20.06.",,,,,,2026-10-22
+20051000,200510,"Vegetable preparations; homogenised vegetables, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",8,20,Homogenised vegetables,Free,,,,,2026-10-22
+20052000,200520,"Vegetable preparations; potatoes, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",8,20,Potatoes,Free,,,,,2026-10-22
+20054000,200540,"Vegetable preparations; peas (pisum sativum), prepared or preserved otherwise than by vinegar or acetic acid, not frozen",8,20,Peas (Pisum sativum),Free,,,,,2026-10-22
+20055100,200551,"Vegetable preparations; beans, shelled, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",8,20,"Beans (Vigna spp., Phaseolus spp.) : -- Beans, shelled",Free,,,,,2026-10-22
+20055900,200559,"Vegetable preparations; beans, (not shelled), prepared or preserved otherwise than by vinegar or acetic acid, not frozen",8,20,"Beans (Vigna spp., Phaseolus spp.) : --Other",Free,,,,,2026-10-22
+20056000,200560,"Vegetable preparations; asparagus, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",8,20,Asparagus,Free,,,,,2026-10-22
+20057000,200570,"Vegetable preparations; olives, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",8,20,Olives,Free,,,,,2026-10-22
+20058000,200580,"Vegetable preparations; sweetcorn (zea mays var. saccharata), prepared or preserved otherwise than by vinegar or acetic acid, not frozen",8,20,Sweet corn (Zea mays var. saccharata),Free,,,,,2026-10-22
+20059100,200591,"Vegetable preparations; bamboo shoots, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",8,20,Other vegetables and mixtures of vegetables : -- Bamboo shoots,Free,,,,,2026-10-22
+20059900,200599,"Vegetable preparations; vegetables and mixtures of vegetables n.e.c. in heading no. 2005, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",8,20,Other vegetables and mixtures of vegetables : -- Other,Free,,,,,2026-10-22
+20060000,200600,"Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glace or crystallised)",8,20,"Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glacé or crystallised).",Free,,,,,2026-10-22
+2007,,,4,20,"Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter.",,,,,,2026-10-22
+20071000,200710,"Jams, fruit jellies, marmalades, fruit or nut puree and fruit or nut pastes; homogenised, cooked preparations, whether or not containing added sugar or other sweetening matter",8,20,Homogenised preparations,Free,,,,,2026-10-22
+20079100,200791,"Jams, jellies, marmalades, purees and pastes; of citrus fruit, being cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",8,20,Other : -- Citrus fruit,Free,,,,,2026-10-22
+200799,200799,"Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",6,20,Other : -- Other,,,,,,2026-10-22
+20079910,200799,"Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",8,20,Mango,Free,,,,,2026-10-22
+20079920,200799,"Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",8,20,Guava,Free,,,,,2026-10-22
+20079930,200799,"Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",8,20,Pine apple,Free,,,,,2026-10-22
+20079940,200799,"Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",8,20,Apple,Free,,,,,2026-10-22
+20079990,200799,"Jams, fruit jellies, marmalades, purees and pastes; of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised), whether or not containing added sugar or other sweetening matter",8,20,Other,Free,,,,,2026-10-22
+2008,,,4,20,"Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or sweetening matter or spirit, not elsewhere specified or included.other",,,,,,2026-10-22
+20081100,200811,"Nuts; ground-nuts, whether or not containing added sugar, other sweetening matter or spirit",8,20,"Nuts, ground-nuts and other seeds, whether or not mixed together : -- Ground-nuts",Free,,,,,2026-10-22
+200819,200819,"Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",6,20,"Nuts, ground-nuts and other seeds, whether or not mixed together : -- Other, including mixtures",,,,,,2026-10-22
+20081910,200819,"Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",8,20,"Cashew nut, roasted, salted or roasted and salted",Free,,,,,2026-10-22
+20081921,200819,"Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",8,20,--- Makhana: ---- Popped,Free,-,,44/2025-26,2025-10-15,2026-10-22
+20081922,200819,"Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",8,20,--- Makhana: ---- Flour and powder,Free,-,,44/2025-26,2025-10-15,2026-10-22
+20081929,200819,"Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",8,20,--- Makhana: ---- Other,Free,-,,44/2025-26,2025-10-15,2026-10-22
+20081991,200819,"Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",8,20,--- Other: ---- Other roasted nuts and seeds,Free,"(a) However, import of Roasted Areca Nuts having CIF value less than Rs. 351/- per Kilogram is Prohibited. (b) Import of all other roasted nuts and seeds remains Free. (c) The Minimum Import Price mentioned at (a), however, will not be applicable for the import of Roasted Areca Nuts by 100% Export Oriented Units (EOUs), units in the SEZ and imports under the Advance Authorization Scheme.",,43/2025-26,2025-10-15,2026-10-22
+20081992,200819,"Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",8,20,"--- Other: ---- Other nuts, otherwise prepared or preserved",Free,-,,44/2025-26,2025-10-15,2026-10-22
+20081993,200819,"Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",8,20,--- Other: ---- Other roasted and fried vegetable products,Free,-,,44/2025-26,2025-10-15,2026-10-22
+20081999,200819,"Nuts and other seeds; whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures)",8,20,--- Other: ---- Other,,,,,,2026-10-22
+20082000,200820,"Fruit; pineapples, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",8,20,Pineapples,Free,,,,,2026-10-22
+200830,200830,"Fruit; citrus, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",6,20,Citrus fruit,,,,,,2026-10-22
+20083010,200830,"Fruit; citrus, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",8,20,Orange,Free,,,,,2026-10-22
+20083090,200830,"Fruit; citrus, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",8,20,Other,Free,,,,,2026-10-22
+20084000,200840,"Fruit; pears, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",8,20,Pears,Free,,,,,2026-10-22
+20085000,200850,"Fruit; apricots, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",8,20,Apricots,Free,,,,,2026-10-22
+20086000,200860,"Fruit; cherries, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",8,20,Cherries,Free,,,,,2026-10-22
+20087000,200870,"Fruit; peaches, including nectarines, prepared or preserved in ways n.e.c. in heading no. 2007 and 2008, whether or not containing added sugar, other sweetening matter or spirit",8,20,"Peaches, including nectarines",Free,,,,,2026-10-22
+20088000,200880,"Fruit; strawberries, prepared or preserved in ways n.e.c. in heading no. 2007, whether or not containing added sugar, other sweetening matter or spirit",8,20,Strawberries,Free,,,,,2026-10-22
+20089100,200891,"Fruit, palm hearts; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit",8,20,"Other, including mixtures other than those of subheading 2008.19 : -- Palm hearts",Free,,,,,2026-10-22
+200893,200893,"Fruit; cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos); Iingonberries (Vaccinium vitis-idaea), prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit",6,20,"-- Cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos); lingonberries (Vaccinium vitis-idaea) :",,,,,,2026-10-22
+20089310,200893,"Fruit; cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos); Iingonberries (Vaccinium vitis-idaea), prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit",8,20,"--- Cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos)",Free,,,24/2026-27,2026-07-22,2026-10-22
+20089390,200893,"Fruit; cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos); Iingonberries (Vaccinium vitis-idaea), prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit",8,20,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+20089700,200897,"Fruit, nuts and other edible parts of plants; mixtures (other than those of subheading no 2008.19); prepared or preserved in ways n.e.c. in headings 2007 and 2008, whether or not containing added sugar, or other sweetening matter or spirit, n.e.c.",8,20,"Other, including mixtures other than those of subheading 2008.19 : -- Mixtures",Free,,,,,2026-10-22
+200899,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",6,20,"Other, including mixtures other than those of subheading 2008.19 : --Other",,,,,,2026-10-22
+20089911,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",8,20,Squash: ---- Mango,Free,,,,,2026-10-22
+20089912,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",8,20,Squash: ---- Lemon,Free,,,,,2026-10-22
+20089913,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",8,20,Squash: ---- Orange,Free,,,,,2026-10-22
+20089914,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",8,20,Squash: ---- Pineapple,Free,,,,,2026-10-22
+20089915,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",8,20,---- Blueberries,Free,,,24/2026-27,2026-07-22,2026-10-22
+20089919,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",8,20,Squash: ---- Other,Free,,,,,2026-10-22
+20089991,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",8,20,Other: ---- Fruit cocktail,Free,,,,,2026-10-22
+20089992,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",8,20,Other: ---- Grapes,Free,,,,,2026-10-22
+20089993,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",8,20,Other: ---- Apples,Free,,,,,2026-10-22
+20089994,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",8,20,Other: ---- Guava,Free,,,,,2026-10-22
+20089995,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",8,20,---- Blueberries,Free,,,24/2026-27,2026-07-22,2026-10-22
+20089999,200899,"Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",8,20,Other: ---- Other,Free,,,,,2026-10-22
+2009,,,4,20,"FRUIT OR NUT JUICES (INCLUDING GRAPE MUST AND COCONUT WATER) AND VEGETABLE JUICES, UNFERMENTED AND NOT CONTAINING ADDED SPIRIT, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER",,,,,,2026-10-22
+20091100,200911,"Juice; orange, frozen, unfermented, (not containing added spirit), whether or not containing added sugar or other sweetening matter",8,20,Orange juice : -- Frozen,Free,,,,,2026-10-22
+20091200,200912,"Juice; orange, not frozen, of a Brix value not exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,"Orange juice : -- Not frozen, of a Brix value not exceeding 20",Free,,,,,2026-10-22
+20091900,200919,"Juice; orange, not frozen, of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,Orange juice :--Other,Free,,,,,2026-10-22
+20092100,200921,"Juice; grapefruit or pomelo, of a Brix value not exceeding 20, unfermented, (not containing added spirit), whether or not containing added sugar or other sweetening matter",8,20,Grapefruit juice; pomelo juice: -- Of a Brix value not exceeding 20,Free,,,,,2026-10-22
+20092900,200929,"Juice; grapefruit or pomelo, of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,Grapefruit juice; pomelo juice: -- Other,Free,,,,,2026-10-22
+20093100,200931,"Juice; of single citrus fruit (excluding orange, grapefruit or pomelo), of a Brix value not exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,Juice of any other single citrus fruit : -- Of a Brix value not exceeding 20,Free,,,,,2026-10-22
+20093900,200939,"Juice; of single citrus fruit (excluding orange, grapefruit or pomelo), of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,Juice of any other single citrus fruit : -- Other,Free,,,,,2026-10-22
+20094100,200941,"Juice; pineapple, of a Brix value not exceeding 20, unfermented, (not containing added spirit), whether or not containing added sugar or other sweetening matter",8,20,Pineapple juice : -- Of a Brix value not exceeding 20,Free,,,,,2026-10-22
+20094900,200949,"Juice; pineapple, of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,Pineapple juice : -- Other,Free,,,,,2026-10-22
+20095000,200950,"Juice; tomato, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,Tomato juice,Free,,,,,2026-10-22
+20096100,200961,"Juice; grape, of a Brix value not exceeding 30, unfermented, (not containing added spirit), whether or not containing added sugar or other sweetening matter",8,20,Grape juice (including grape must) : -- Of a Brix value not exceeding 30,Free,,,,,2026-10-22
+20096900,200969,"Juice; grape, of a Brix value exceeding 30, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,Grape juice (including grape must): -- Other,Free,,,,,2026-10-22
+20097100,200971,"Juice; apple, of a Brix value not exceeding 20, unfermented, (not containing added spirit), whether or not containing added sugar or other sweetening matter",8,20,Apple juice: -- Of a Brix value not exceeding 20,Free,,,,,2026-10-22
+20097900,200979,"Juice; apple, of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,Apple juice :--Other,Free,,,,,2026-10-22
+20098100,200981,"Juice; cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos); Iingonberry (Vaccinium vitis-idaea), unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,"Juice of any other single fruit, nut or vegetable:- - Cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos) juice; lingon berry (Vaccinium vitis-idaea) juice",Free,,,,,2026-10-22
+200989,200989,"Juice; of any single fruit, nut or vegetable n.e.c. in heading no. 2009, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",6,20,Juice of any other single fruit or vegetable : -- Other,,,,,,2026-10-22
+20098910,200989,"Juice; of any single fruit, nut or vegetable n.e.c. in heading no. 2009, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,Mango Juice,,,,,,2026-10-22
+20098990,200989,"Juice; of any single fruit, nut or vegetable n.e.c. in heading no. 2009, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,Other,Free,Free,,,,2026-10-22
+20099000,200990,"Juices; mixtures of fruits or vegetables (but not nut juice), unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",8,20,Mixtures of juices,Free,,,,,2026-10-22

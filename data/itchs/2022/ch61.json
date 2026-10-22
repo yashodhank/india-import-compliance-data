@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "6101",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Mens or boys overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, knitted or crocheted, other than those of heading 61.03.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "61012000",
+   "hs6": "610120",
+   "hs6_description": "Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of cotton, knitted or crocheted (excluding those of heading no. 6103)",
    "level": 8,
    "chapter": "61",
    "description": "Of cotton",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "610130",
+   "hs6": "610130",
+   "hs6_description": "Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted, (excluding those of heading no. 6103)",
    "level": 6,
    "chapter": "61",
    "description": "Of man-made fibres",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "61013010",
+   "hs6": "610130",
+   "hs6_description": "Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted, (excluding those of heading no. 6103)",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "61013020",
+   "hs6": "610130",
+   "hs6_description": "Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted, (excluding those of heading no. 6103)",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "610190",
+   "hs6": "610190",
+   "hs6_description": "Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of textile materials n.e.c. in heading no. 6101, knitted or crocheted (excluding those of heading no. 6103)",
    "level": 6,
    "chapter": "61",
    "description": "Of other textile materials",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "61019010",
+   "hs6": "610190",
+   "hs6_description": "Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of textile materials n.e.c. in heading no. 6101, knitted or crocheted (excluding those of heading no. 6103)",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "61019090",
+   "hs6": "610190",
+   "hs6_description": "Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of textile materials n.e.c. in heading no. 6101, knitted or crocheted (excluding those of heading no. 6103)",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "6102",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Womens or girls overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind- jackets and similar articles, knitted or crocheted, other than those of heading 61.04.",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "61021000",
+   "hs6": "610210",
+   "hs6_description": "Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of wool or fine animal hair, knitted or crocheted (excluding those of heading no. 6104)",
    "level": 8,
    "chapter": "61",
    "description": "Of wool or fine animal hair",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "61022000",
+   "hs6": "610220",
+   "hs6_description": "Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of cotton, knitted or crocheted (excluding those of heading no. 6104)",
    "level": 8,
    "chapter": "61",
    "description": "Of cotton",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "610230",
+   "hs6": "610230",
+   "hs6_description": "Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted (excluding those of heading no. 6104)",
    "level": 6,
    "chapter": "61",
    "description": "Of man-made fibres",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "61023010",
+   "hs6": "610230",
+   "hs6_description": "Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted (excluding those of heading no. 6104)",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "61023020",
+   "hs6": "610230",
+   "hs6_description": "Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted (excluding those of heading no. 6104)",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "610290",
+   "hs6": "610290",
+   "hs6_description": "Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of textile materials n.e.c. in heading no. 6102, knitted or crocheted (excluding those of heading no. 6104)",
    "level": 6,
    "chapter": "61",
    "description": "Of other textile materials",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "61029010",
+   "hs6": "610290",
+   "hs6_description": "Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of textile materials n.e.c. in heading no. 6102, knitted or crocheted (excluding those of heading no. 6104)",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "61029090",
+   "hs6": "610290",
+   "hs6_description": "Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of textile materials n.e.c. in heading no. 6102, knitted or crocheted (excluding those of heading no. 6104)",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "6103",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Mens or boys suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted.",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "610310",
+   "hs6": "610310",
+   "hs6_description": "Suits; men's or boys', knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Suits",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "61031010",
+   "hs6": "610310",
+   "hs6_description": "Suits; men's or boys', knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "61031020",
+   "hs6": "610310",
+   "hs6_description": "Suits; men's or boys', knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of cotton",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "61031030",
+   "hs6": "610310",
+   "hs6_description": "Suits; men's or boys', knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "61031090",
+   "hs6": "610310",
+   "hs6_description": "Suits; men's or boys', knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other Ensembles",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "61032200",
+   "hs6": "610322",
+   "hs6_description": "Ensembles; men's or boys', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Ensembles : -- Of cotton",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "61032300",
+   "hs6": "610323",
+   "hs6_description": "Ensembles; men's or boys', of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Ensembles : -- Of synthetic fibres",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "610329",
+   "hs6": "610329",
+   "hs6_description": "Ensembles; men's or boys', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Ensembles : -- of Other textile materials",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "61032910",
+   "hs6": "610329",
+   "hs6_description": "Ensembles; men's or boys', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "61032920",
+   "hs6": "610329",
+   "hs6_description": "Ensembles; men's or boys', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "61032990",
+   "hs6": "610329",
+   "hs6_description": "Ensembles; men's or boys', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "61033100",
+   "hs6": "610331",
+   "hs6_description": "Jackets and blazers; men's or boys', of wool or fine animal hair, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Jackets and blazers : -- Of wool or fine animal hair",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "61033200",
+   "hs6": "610332",
+   "hs6_description": "Jackets and blazers; men's or boys', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Jackets and blazers : -- of cotton",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "61033300",
+   "hs6": "610333",
+   "hs6_description": "Jackets and blazers; men's or boys', of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Jackets and blazers : -- Of synthetic fibres",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "610339",
+   "hs6": "610339",
+   "hs6_description": "Jackets and blazers; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Jackets and blazers : -- Of other textile materials",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "61033910",
+   "hs6": "610339",
+   "hs6_description": "Jackets and blazers; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "61033920",
+   "hs6": "610339",
+   "hs6_description": "Jackets and blazers; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "61033990",
+   "hs6": "610339",
+   "hs6_description": "Jackets and blazers; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "61034100",
+   "hs6": "610341",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; men's or boys', of wool or fine animal hair, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Trousers, bib and brace overalls, breeches and shorts : -- Of wool or fine animal hair",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "61034200",
+   "hs6": "610342",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; men's or boys', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Trousers, bib and brace overalls, breeches and shorts : --Of cotton",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "61034300",
+   "hs6": "610343",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; men's or boys', of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Trousers, bib and brace overalls, breeches and shorts : -- Of synthetic fibres",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "610349",
+   "hs6": "610349",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Trousers, bib and brace overalls, breeches and shorts : -- Of other textile materials",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "61034910",
+   "hs6": "610349",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "61034920",
+   "hs6": "610349",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "61034990",
+   "hs6": "610349",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "6104",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Womens or girls suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted.",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "61041300",
+   "hs6": "610413",
+   "hs6_description": "Suits; women's or girls', of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Suits : -- Of synthetic fibres",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "610419",
+   "hs6": "610419",
+   "hs6_description": "Suits; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Suits : -- Of other textile materials",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "61041910",
+   "hs6": "610419",
+   "hs6_description": "Suits; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "61041920",
+   "hs6": "610419",
+   "hs6_description": "Suits; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "61041990",
+   "hs6": "610419",
+   "hs6_description": "Suits; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "61042200",
+   "hs6": "610422",
+   "hs6_description": "Ensembles; women's or girls', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Ensembles : -- Of cotton",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "61042300",
+   "hs6": "610423",
+   "hs6_description": "Ensembles; women's or girls', of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Ensembles : -- Of synthetic fibres",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "610429",
+   "hs6": "610429",
+   "hs6_description": "Ensembles; women's or girls', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Ensembles : -- Of other textile materials",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "61042910",
+   "hs6": "610429",
+   "hs6_description": "Ensembles; women's or girls', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "61042920",
+   "hs6": "610429",
+   "hs6_description": "Ensembles; women's or girls', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "61042990",
+   "hs6": "610429",
+   "hs6_description": "Ensembles; women's or girls', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "61043100",
+   "hs6": "610431",
+   "hs6_description": "Jackets; women's or girls', of wool or fine animal hair, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Jackets and blazers : -- Of wool or fine animal hair",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "61043200",
+   "hs6": "610432",
+   "hs6_description": "Jackets; women's or girls', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Jackets and blazers : -- Of cotton",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "61043300",
+   "hs6": "610433",
+   "hs6_description": "Jackets; women's or girls', of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Jackets and blazers : -- Of synthetic fibres",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "610439",
+   "hs6": "610439",
+   "hs6_description": "Jackets; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Jackets and blazers : -- Of other textile materials",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "61043910",
+   "hs6": "610439",
+   "hs6_description": "Jackets; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "61043920",
+   "hs6": "610439",
+   "hs6_description": "Jackets; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "61043990",
+   "hs6": "610439",
+   "hs6_description": "Jackets; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "61044100",
+   "hs6": "610441",
+   "hs6_description": "Dresses; women's or girls', of wool or fine animal hair, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Dresses : -- Of wool or fine animal hair",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "61044200",
+   "hs6": "610442",
+   "hs6_description": "Dresses; women's or girls', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Dresses : -- Of cotton",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "61044300",
+   "hs6": "610443",
+   "hs6_description": "Dresses; women's or girls', of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Dresses : -- Of synthetic fibres",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "61044400",
+   "hs6": "610444",
+   "hs6_description": "Dresses; women's or girls', of artificial fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Dresses : -- Of artificial fibres",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "610449",
+   "hs6": "610449",
+   "hs6_description": "Dresses; women's or girls', of textile materials (other than wool or fine animal hair, cotton, synthetic or artificial fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Dresses : -- Of other textile materials",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "61044910",
+   "hs6": "610449",
+   "hs6_description": "Dresses; women's or girls', of textile materials (other than wool or fine animal hair, cotton, synthetic or artificial fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "61044990",
+   "hs6": "610449",
+   "hs6_description": "Dresses; women's or girls', of textile materials (other than wool or fine animal hair, cotton, synthetic or artificial fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of other fibres",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "61045100",
+   "hs6": "610451",
+   "hs6_description": "Skirts and divided skirts; women's or girls', of wool or fine animal hair, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Skirts and divided skirts : -- Of wool or fine animal hair",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "61045200",
+   "hs6": "610452",
+   "hs6_description": "Skirts and divided skirts; women's or girls', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Skirts and divided skirts : -- Of cotton",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "61045300",
+   "hs6": "610453",
+   "hs6_description": "Skirts and divided skirts; women's or girls', of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Skirts and divided skirts : -- Of synthetic fibres",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "610459",
+   "hs6": "610459",
+   "hs6_description": "Skirts and divided skirts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Skirts and divided skirts : -- Of other textile materials",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "61045910",
+   "hs6": "610459",
+   "hs6_description": "Skirts and divided skirts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "61045920",
+   "hs6": "610459",
+   "hs6_description": "Skirts and divided skirts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "61045990",
+   "hs6": "610459",
+   "hs6_description": "Skirts and divided skirts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of other fibres",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "61046100",
+   "hs6": "610461",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; women's or girls', of wool or fine animal hair, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Trousers, bib and brace overalls, breeches and shorts : -- Of wool or fine animal hair",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "61046200",
+   "hs6": "610462",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; women's or girls', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Trousers, bib and brace overalls, breeches and shorts : -- Of cotton",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "61046300",
+   "hs6": "610463",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; women's or girls', of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Trousers, bib and brace overalls, breeches and shorts : -- Of synthetic fibres",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "610469",
+   "hs6": "610469",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Trousers, bib and brace overalls, breeches and shorts : -- Of other textile materials",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "61046910",
+   "hs6": "610469",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "61046920",
+   "hs6": "610469",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "61046990",
+   "hs6": "610469",
+   "hs6_description": "Trousers, bib and brace overalls, breeches and shorts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "6105",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Mens or boys shirts, knitted or crocheted.",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "610510",
+   "hs6": "610510",
+   "hs6_description": "Shirts; men's or boys', of cotton, knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Of cotton",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "61051010",
+   "hs6": "610510",
+   "hs6_description": "Shirts; men's or boys', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Shirts, hand crocheted",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "61051090",
+   "hs6": "610510",
+   "hs6_description": "Shirts; men's or boys', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "610520",
+   "hs6": "610520",
+   "hs6_description": "Shirts; men's or boys', of man-made fibres, knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Of man-made fibres",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "61052010",
+   "hs6": "610520",
+   "hs6_description": "Shirts; men's or boys', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "61052020",
+   "hs6": "610520",
+   "hs6_description": "Shirts; men's or boys', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "610590",
+   "hs6": "610590",
+   "hs6_description": "Shirts; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Of other textile materials",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "61059010",
+   "hs6": "610590",
+   "hs6_description": "Shirts; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "61059090",
+   "hs6": "610590",
+   "hs6_description": "Shirts; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "6106",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Womens or girls blouses, shirts and shirt-blouses, Womens or girls blouses, shirts and shirt-blouses, knitted or crocheted.",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "61061000",
+   "hs6": "610610",
+   "hs6_description": "Blouses, shirts and shirt-blouses; women's or girls', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of cotton",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "610620",
+   "hs6": "610620",
+   "hs6_description": "Blouses, shirts and shirt-blouses; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Of man-made fibres",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "61062010",
+   "hs6": "610620",
+   "hs6_description": "Blouses, shirts and shirt-blouses; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "61062020",
+   "hs6": "610620",
+   "hs6_description": "Blouses, shirts and shirt-blouses; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "610690",
+   "hs6": "610690",
+   "hs6_description": "Blouses, shirts and shirt-blouses; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Of other textile materials",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "61069010",
+   "hs6": "610690",
+   "hs6_description": "Blouses, shirts and shirt-blouses; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "61069020",
+   "hs6": "610690",
+   "hs6_description": "Blouses, shirts and shirt-blouses; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of wool or fine animal hair",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "61069090",
+   "hs6": "610690",
+   "hs6_description": "Blouses, shirts and shirt-blouses; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "6107",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Mens or boys underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles, knitted or crocheted.",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "61071100",
+   "hs6": "610711",
+   "hs6_description": "Underpants and briefs; men's or boys', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Underpants and briefs : -- Of cotton",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "610712",
+   "hs6": "610712",
+   "hs6_description": "Underpants and briefs; men's or boys', of man-made fibres, knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Underpants and briefs : -- Of man-made fibres",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "61071210",
+   "hs6": "610712",
+   "hs6_description": "Underpants and briefs; men's or boys', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "61071220",
+   "hs6": "610712",
+   "hs6_description": "Underpants and briefs; men's or boys', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "610719",
+   "hs6": "610719",
+   "hs6_description": "Underpants and briefs; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Underpants and briefs : -- Of other textile materials",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "61071910",
+   "hs6": "610719",
+   "hs6_description": "Underpants and briefs; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "61071990",
+   "hs6": "610719",
+   "hs6_description": "Underpants and briefs; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "61072100",
+   "hs6": "610721",
+   "hs6_description": "Nightshirts and pyjamas; men's or boys', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Nightshirts and pyjamas : -- Of cotton",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "610722",
+   "hs6": "610722",
+   "hs6_description": "Nightshirts and pyjamas; men's or boys', of man-made fibres, knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Nightshirts and pyjamas : -- Of man-made fibres",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "61072210",
+   "hs6": "610722",
+   "hs6_description": "Nightshirts and pyjamas; men's or boys', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "61072220",
+   "hs6": "610722",
+   "hs6_description": "Nightshirts and pyjamas; men's or boys', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "610729",
+   "hs6": "610729",
+   "hs6_description": "Nightshirts and pyjamas; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Nightshirts and pyjamas : -- Of other textile materials",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "61072910",
+   "hs6": "610729",
+   "hs6_description": "Nightshirts and pyjamas; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "61072920",
+   "hs6": "610729",
+   "hs6_description": "Nightshirts and pyjamas; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of wool or fine animal hair",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "61072990",
+   "hs6": "610729",
+   "hs6_description": "Nightshirts and pyjamas; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "610791",
+   "hs6": "610791",
+   "hs6_description": "Bathrobes, dressing gowns and similar articles; men's or boys', of cotton, knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Other : -- Of cotton",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "61079110",
+   "hs6": "610791",
+   "hs6_description": "Bathrobes, dressing gowns and similar articles; men's or boys', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Gengis (Vests), other than hand crocheted",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "61079190",
+   "hs6": "610791",
+   "hs6_description": "Bathrobes, dressing gowns and similar articles; men's or boys', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "610799",
+   "hs6": "610799",
+   "hs6_description": "Bathrobes, dressing gowns and similar articles; men's or boys', of textile materials (other than cotton), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Other : -- Of other textile materials",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "61079910",
+   "hs6": "610799",
+   "hs6_description": "Bathrobes, dressing gowns and similar articles; men's or boys', of textile materials (other than cotton), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "61079920",
+   "hs6": "610799",
+   "hs6_description": "Bathrobes, dressing gowns and similar articles; men's or boys', of textile materials (other than cotton), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of wool or fine animal hair",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "61079990",
+   "hs6": "610799",
+   "hs6_description": "Bathrobes, dressing gowns and similar articles; men's or boys', of textile materials (other than cotton), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "6108",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Womens or girls slips, petticoats, briefs, panties, nightdresses, pyjamas, negligees, bathrobes, dressing gowns and similar articles, knitted or crocheted.",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "610811",
+   "hs6": "610811",
+   "hs6_description": "Slips and petticoats; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Slips and petticoats : -- Of man-made fibres",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "61081110",
+   "hs6": "610811",
+   "hs6_description": "Slips and petticoats; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "61081120",
+   "hs6": "610811",
+   "hs6_description": "Slips and petticoats; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "610819",
+   "hs6": "610819",
+   "hs6_description": "Slips and petticoats; women's or girls', of textile materials (other than man-made fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Slips and petticoats : -- Of other textile materials",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "61081910",
+   "hs6": "610819",
+   "hs6_description": "Slips and petticoats; women's or girls', of textile materials (other than man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "61081920",
+   "hs6": "610819",
+   "hs6_description": "Slips and petticoats; women's or girls', of textile materials (other than man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of cotton",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "61081990",
+   "hs6": "610819",
+   "hs6_description": "Slips and petticoats; women's or girls', of textile materials (other than man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of other fibres",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "61082100",
+   "hs6": "610821",
+   "hs6_description": "Briefs and panties; women's or girls', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Briefs and panties : -- Of cotton",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "610822",
+   "hs6": "610822",
+   "hs6_description": "Briefs and panties; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Briefs and panties : -- Of man-made fibres",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "61082210",
+   "hs6": "610822",
+   "hs6_description": "Briefs and panties; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "61082220",
+   "hs6": "610822",
+   "hs6_description": "Briefs and panties; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "610829",
+   "hs6": "610829",
+   "hs6_description": "Briefs and panties; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Briefs and panties : -- Of other textile materials",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "61082910",
+   "hs6": "610829",
+   "hs6_description": "Briefs and panties; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "61082990",
+   "hs6": "610829",
+   "hs6_description": "Briefs and panties; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "61083100",
+   "hs6": "610831",
+   "hs6_description": "Nightdresses and pyjamas; women's or girls', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Nightdresses and pyjamas : -- Of cotton",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "610832",
+   "hs6": "610832",
+   "hs6_description": "Nightdresses and pyjamas; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Nightdresses and pyjamas : -- Of man-made fibres",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "61083210",
+   "hs6": "610832",
+   "hs6_description": "Nightdresses and pyjamas; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "61083220",
+   "hs6": "610832",
+   "hs6_description": "Nightdresses and pyjamas; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "610839",
+   "hs6": "610839",
+   "hs6_description": "Nightdresses and pyjamas; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Nightdresses and pyjamas : -- Of other textile materials",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "61083910",
+   "hs6": "610839",
+   "hs6_description": "Nightdresses and pyjamas; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "61083990",
+   "hs6": "610839",
+   "hs6_description": "Nightdresses and pyjamas; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "61089100",
+   "hs6": "610891",
+   "hs6_description": "Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other : -- Of cotton",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "610892",
+   "hs6": "610892",
+   "hs6_description": "Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Other : -- Of man-made fibres",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "61089210",
+   "hs6": "610892",
+   "hs6_description": "Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "61089220",
+   "hs6": "610892",
+   "hs6_description": "Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "610899",
+   "hs6": "610899",
+   "hs6_description": "Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Other : -- Of other textile materials",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "61089910",
+   "hs6": "610899",
+   "hs6_description": "Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "61089920",
+   "hs6": "610899",
+   "hs6_description": "Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of wool or fine animal hair",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "61089990",
+   "hs6": "610899",
+   "hs6_description": "Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of other textile material",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "6109",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "T-shirts, singlets and other vests, knitted or crocheted.",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "61091000",
+   "hs6": "610910",
+   "hs6_description": "T-shirts, singlets and other vests; of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of cotton",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "610990",
+   "hs6": "610990",
+   "hs6_description": "T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Of other textile materials",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "61099010",
+   "hs6": "610990",
+   "hs6_description": "T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "61099020",
+   "hs6": "610990",
+   "hs6_description": "T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "61099030",
+   "hs6": "610990",
+   "hs6_description": "T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "61099040",
+   "hs6": "610990",
+   "hs6_description": "T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of wool or fine animal hair",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "61099090",
+   "hs6": "610990",
+   "hs6_description": "T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "6110",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted.",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "611011",
+   "hs6": "611011",
+   "hs6_description": "Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted, of wool or fine animal hair",
    "level": 6,
    "chapter": "61",
    "description": "Of wool or fine animal hair : -- Of wool",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "61101110",
+   "hs6": "611011",
+   "hs6_description": "Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted, of wool or fine animal hair",
    "level": 8,
    "chapter": "61",
    "description": "Jerseys",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "61101120",
+   "hs6": "611011",
+   "hs6_description": "Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted, of wool or fine animal hair",
    "level": 8,
    "chapter": "61",
    "description": "Sweaters and cardigans",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "61101190",
+   "hs6": "611011",
+   "hs6_description": "Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted, of wool or fine animal hair",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "61101200",
+   "hs6": "611012",
+   "hs6_description": "Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted, of fibres from kashmir (cashmere) goats",
    "level": 8,
    "chapter": "61",
    "description": "Of wool or fine animal hair : -- Of Kashmir (cashmere) goats",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "61101900",
+   "hs6": "611019",
+   "hs6_description": "Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted, of fine animal hair other than that of kashmir (cashmere) goats",
    "level": 8,
    "chapter": "61",
    "description": "Of wool or fine animal hair : -- Other",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "61102000",
+   "hs6": "611020",
+   "hs6_description": "Jerseys, pullovers, cardigans, waistcoats and similar articles; of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of cotton",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "611030",
+   "hs6": "611030",
+   "hs6_description": "Jerseys, pullovers, cardigans, waistcoats and similar articles; of man-made fibres, knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Of man-made fibres",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "61103010",
+   "hs6": "611030",
+   "hs6_description": "Jerseys, pullovers, cardigans, waistcoats and similar articles; of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "61103020",
+   "hs6": "611030",
+   "hs6_description": "Jerseys, pullovers, cardigans, waistcoats and similar articles; of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "61109000",
+   "hs6": "611090",
+   "hs6_description": "Jerseys, pullovers, cardigans, waistcoats and similar articles; of textile materials (other than wool or fine animal hair, cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of other textile materials",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "6111",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Babies garments and clothing accessories, knitted or crocheted.",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "61112000",
+   "hs6": "611120",
+   "hs6_description": "Garments and clothing accessories; babies', of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of cotton",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "61113000",
+   "hs6": "611130",
+   "hs6_description": "Garments and clothing accessories; babies', of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "611190",
+   "hs6": "611190",
+   "hs6_description": "Garments and clothing accessories; babies', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Of other textile materials",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "61119010",
+   "hs6": "611190",
+   "hs6_description": "Garments and clothing accessories; babies', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "61119020",
+   "hs6": "611190",
+   "hs6_description": "Garments and clothing accessories; babies', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "61119090",
+   "hs6": "611190",
+   "hs6_description": "Garments and clothing accessories; babies', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "6112",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Track suits, ski suits and swimwear, knitted or crocheted.",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "61121100",
+   "hs6": "611211",
+   "hs6_description": "Track suits; of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Track suits : -- Of cotton",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "61121200",
+   "hs6": "611212",
+   "hs6_description": "Track suits; of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Track suits : -- Of synthetic fibres",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "611219",
+   "hs6": "611219",
+   "hs6_description": "Track suits; of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Track suits : -- Of other textile materials",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "61121910",
+   "hs6": "611219",
+   "hs6_description": "Track suits; of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "61121920",
+   "hs6": "611219",
+   "hs6_description": "Track suits; of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of wool or fine animal hair",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "61121930",
+   "hs6": "611219",
+   "hs6_description": "Track suits; of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "61121990",
+   "hs6": "611219",
+   "hs6_description": "Track suits; of textile materials (other than cotton or synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "611220",
+   "hs6": "611220",
+   "hs6_description": "Ski suits; knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Ski suits",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "61122010",
+   "hs6": "611220",
+   "hs6_description": "Ski suits; knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "61122020",
+   "hs6": "611220",
+   "hs6_description": "Ski suits; knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of wool or fine animal hair",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "61122030",
+   "hs6": "611220",
+   "hs6_description": "Ski suits; knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of cotton",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "61122040",
+   "hs6": "611220",
+   "hs6_description": "Ski suits; knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "61122050",
+   "hs6": "611220",
+   "hs6_description": "Ski suits; knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "61122090",
+   "hs6": "611220",
+   "hs6_description": "Ski suits; knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "61123100",
+   "hs6": "611231",
+   "hs6_description": "Swimwear; men's or boys', of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Mens or boys swimwear : -- Of synthetic fibres",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "611239",
+   "hs6": "611239",
+   "hs6_description": "Swimwear; men's or boys', of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Mens or boys swimwear : -- Of other textile materials",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "61123910",
+   "hs6": "611239",
+   "hs6_description": "Swimwear; men's or boys', of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "61123920",
+   "hs6": "611239",
+   "hs6_description": "Swimwear; men's or boys', of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "61123990",
+   "hs6": "611239",
+   "hs6_description": "Swimwear; men's or boys', of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "61124100",
+   "hs6": "611241",
+   "hs6_description": "Swimwear; women's or girls', of synthetic fibres, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Womens or girls swimwear : -- Of synthetic fibres",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "611249",
+   "hs6": "611249",
+   "hs6_description": "Swimwear; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Womens or girls swimwear : -- Of other textile materials",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "61124910",
+   "hs6": "611249",
+   "hs6_description": "Swimwear; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "61124920",
+   "hs6": "611249",
+   "hs6_description": "Swimwear; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "61124990",
+   "hs6": "611249",
+   "hs6_description": "Swimwear; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "61130000",
+   "hs6": "611300",
+   "hs6_description": "Garments made up of knitted or crocheted fabrics of heading no. 5903, 5906 and 5907",
    "level": 8,
    "chapter": "61",
    "description": "Garments, made up of knitted or crocheted fabrics of heading 59.03, 59.06 or 59.07.",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "6114",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Other garments, knitted or crocheted.",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "61142000",
+   "hs6": "611420",
+   "hs6_description": "Garments; of cotton, knitted or crocheted, n.e.c. in chapter 61",
    "level": 8,
    "chapter": "61",
    "description": "Of cotton",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "611430",
+   "hs6": "611430",
+   "hs6_description": "Garments; of man-made fibres, knitted or crocheted, n.e.c. in chapter 61",
    "level": 6,
    "chapter": "61",
    "description": "Of man-made fibres",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "61143010",
+   "hs6": "611430",
+   "hs6_description": "Garments; of man-made fibres, knitted or crocheted, n.e.c. in chapter 61",
    "level": 8,
    "chapter": "61",
    "description": "Of synthetic fibres",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "61143020",
+   "hs6": "611430",
+   "hs6_description": "Garments; of man-made fibres, knitted or crocheted, n.e.c. in chapter 61",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "611490",
+   "hs6": "611490",
+   "hs6_description": "Garments; of textile materials (other than cotton or man-made fibres), knitted or crocheted, n.e.c. in chapter 61",
    "level": 6,
    "chapter": "61",
    "description": "Of other textile materials",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "61149010",
+   "hs6": "611490",
+   "hs6_description": "Garments; of textile materials (other than cotton or man-made fibres), knitted or crocheted, n.e.c. in chapter 61",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "61149090",
+   "hs6": "611490",
+   "hs6_description": "Garments; of textile materials (other than cotton or man-made fibres), knitted or crocheted, n.e.c. in chapter 61",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "6115",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Panty hose, tights, stockings, socks and other hosiery, including graduated compression hosiery (for example, stockings for varicose veins) and footwear without applied soles, knitted or crocheted.",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "61151000",
+   "hs6": "611510",
+   "hs6_description": "Graduated compression hosiery (for example, stockings for varicose veins), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Graduated compression hosiery (for example, stockings for varicose veins)",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "611521",
+   "hs6": "611521",
+   "hs6_description": "Hosiery; panty hose and tights (other than graduated compression hosiery), of synthetic fibres, measuring per single yarn less than 67 decitex, knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Other panty hose and tights :",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "61152100",
+   "hs6": "611521",
+   "hs6_description": "Hosiery; panty hose and tights (other than graduated compression hosiery), of synthetic fibres, measuring per single yarn less than 67 decitex, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other panty hose and tights : -- Of synthetic fibres, measuring per single yarn less than 67 decitex",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "61152200",
+   "hs6": "611522",
+   "hs6_description": "Hosiery; panty hose and tights (other than graduated compression hosiery), of synthetic fibres, measuring per single yarn 67 decitex or more, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other panty hose and tights : -- Of synthetic fibres, measuring per single yarn 67 decitex or more",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "611529",
+   "hs6": "611529",
+   "hs6_description": "Hosiery; panty hose and tights (other than graduated compression hosiery), of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Other panty hose and tights : -- Of other textile materials",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "61152910",
+   "hs6": "611529",
+   "hs6_description": "Hosiery; panty hose and tights (other than graduated compression hosiery), of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "61152920",
+   "hs6": "611529",
+   "hs6_description": "Hosiery; panty hose and tights (other than graduated compression hosiery), of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of wool or fine animal hair",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "61152930",
+   "hs6": "611529",
+   "hs6_description": "Hosiery; panty hose and tights (other than graduated compression hosiery), of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "61152990",
+   "hs6": "611529",
+   "hs6_description": "Hosiery; panty hose and tights (other than graduated compression hosiery), of textile materials (other than synthetic fibres), knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "61153000",
+   "hs6": "611530",
+   "hs6_description": "Hosiery; women's, full-length or knee-length (other than graduated compression hosiery), measuring per single yarn less than 67 decitex, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other womens full-length or knee-length hosiery, measuring per single yarn less than 67 decitex",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "61159400",
+   "hs6": "611594",
+   "hs6_description": "Hosiery and footwear; without applied soles, of wool or fine animal hair, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, women's full or knee-length hosiery measuring per single yarn less than 67 decitex)",
    "level": 8,
    "chapter": "61",
    "description": "Other : -- Of wool or fine animal hair",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "61159500",
+   "hs6": "611595",
+   "hs6_description": "Hosiery and footwear; without applied soles, of cotton, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, full or knee-length hosiery measuring per single yarn less than 67 decitex)",
    "level": 8,
    "chapter": "61",
    "description": "Other : -- Of cotton",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "61159600",
+   "hs6": "611596",
+   "hs6_description": "Hosiery and footwear; without applied soles, of synthetic fibres, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, full or knee-length hosiery measuring per single yarn less than 67 decitex)",
    "level": 8,
    "chapter": "61",
    "description": "Other : -- Of synthetic fibres",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "611599",
+   "hs6": "611599",
+   "hs6_description": "Hosiery and footwear; without applied soles, of textile materials n.e.c. in item no. 6115.9, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, full or knee-length hosiery measuring per single yarn less than 67 decitex)",
    "level": 6,
    "chapter": "61",
    "description": "Other : -- Of other textile materials",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "61159910",
+   "hs6": "611599",
+   "hs6_description": "Hosiery and footwear; without applied soles, of textile materials n.e.c. in item no. 6115.9, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, full or knee-length hosiery measuring per single yarn less than 67 decitex)",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "61159990",
+   "hs6": "611599",
+   "hs6_description": "Hosiery and footwear; without applied soles, of textile materials n.e.c. in item no. 6115.9, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, full or knee-length hosiery measuring per single yarn less than 67 decitex)",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "6116",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Gloves, mittens and mitts, knitted or crocheted.",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "61161000",
+   "hs6": "611610",
+   "hs6_description": "Gloves, mittens and mitts; knitted or crocheted, impregnated, coated, covered or laminated with plastics or rubber",
    "level": 8,
    "chapter": "61",
    "description": "Impregnated, coated, covered or laminated with plastics or rubber",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "61169100",
+   "hs6": "611691",
+   "hs6_description": "Gloves, mittens and mitts; of wool or fine animal hair, knitted or crocheted, (other than impregnated, coated, covered or laminated with plastics or rubber)",
    "level": 8,
    "chapter": "61",
    "description": "Other : -- Of wool or fine animal hair",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "61169200",
+   "hs6": "611692",
+   "hs6_description": "Gloves, mittens and mitts; of cotton, knitted or crocheted, (other than impregnated, coated, covered or laminated with plastics or rubber)",
    "level": 8,
    "chapter": "61",
    "description": "Other : -- Of cotton",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "61169300",
+   "hs6": "611693",
+   "hs6_description": "Gloves, mittens and mitts; of synthetic fibres, knitted or crocheted, (other than impregnated, coated, covered or laminated with plastics or rubber)",
    "level": 8,
    "chapter": "61",
    "description": "Other : -- Of synthetic fibres",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "611699",
+   "hs6": "611699",
+   "hs6_description": "Gloves, mittens and mitts; of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted, (other than impregnated, coated, covered or laminated with plastics or rubber)",
    "level": 6,
    "chapter": "61",
    "description": "Other : -- Of other textile materials",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "61169910",
+   "hs6": "611699",
+   "hs6_description": "Gloves, mittens and mitts; of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted, (other than impregnated, coated, covered or laminated with plastics or rubber)",
    "level": 8,
    "chapter": "61",
    "description": "Of artificial fibres",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "61169990",
+   "hs6": "611699",
+   "hs6_description": "Gloves, mittens and mitts; of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted, (other than impregnated, coated, covered or laminated with plastics or rubber)",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "6117",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "61",
    "description": "Other made up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories.",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "611710",
+   "hs6": "611710",
+   "hs6_description": "Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",
    "level": 6,
    "chapter": "61",
    "description": "Shawls, scarves, mufflers, mantillas, veils and the like",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "61171010",
+   "hs6": "611710",
+   "hs6_description": "Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "61171020",
+   "hs6": "611710",
+   "hs6_description": "Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of wool",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "61171030",
+   "hs6": "611710",
+   "hs6_description": "Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of cotton",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "61171040",
+   "hs6": "611710",
+   "hs6_description": "Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Of man-made fibres",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "61171090",
+   "hs6": "611710",
+   "hs6_description": "Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "611780",
+   "hs6": "611780",
+   "hs6_description": "Clothing accessories; knitted or crocheted, n.e.c. in heading no. 6117",
    "level": 6,
    "chapter": "61",
    "description": "Other accessories",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "61178010",
+   "hs6": "611780",
+   "hs6_description": "Clothing accessories; knitted or crocheted, n.e.c. in heading no. 6117",
    "level": 8,
    "chapter": "61",
    "description": "Of silk",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "61178020",
+   "hs6": "611780",
+   "hs6_description": "Clothing accessories; knitted or crocheted, n.e.c. in heading no. 6117",
    "level": 8,
    "chapter": "61",
    "description": "Of wool",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "61178030",
+   "hs6": "611780",
+   "hs6_description": "Clothing accessories; knitted or crocheted, n.e.c. in heading no. 6117",
    "level": 8,
    "chapter": "61",
    "description": "Of cotton",
@@ -3033,6 +3537,8 @@
   },
   {
    "hs_code": "61178040",
+   "hs6": "611780",
+   "hs6_description": "Clothing accessories; knitted or crocheted, n.e.c. in heading no. 6117",
    "level": 8,
    "chapter": "61",
    "description": "Of man-made fibres",
@@ -3045,6 +3551,8 @@
   },
   {
    "hs_code": "61178090",
+   "hs6": "611780",
+   "hs6_description": "Clothing accessories; knitted or crocheted, n.e.c. in heading no. 6117",
    "level": 8,
    "chapter": "61",
    "description": "Other",
@@ -3057,6 +3565,8 @@
   },
   {
    "hs_code": "61179000",
+   "hs6": "611790",
+   "hs6_description": "Clothing; parts, knitted or crocheted",
    "level": 8,
    "chapter": "61",
    "description": "Parts",

@@ -1,256 +1,256 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-6101,4,61,"Mens or boys overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, knitted or crocheted, other than those of heading 61.03.",,,,,,2026-10-22
-61012000,8,61,Of cotton,Free,,,,,2026-10-22
-610130,6,61,Of man-made fibres,,,,,,2026-10-22
-61013010,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61013020,8,61,Of artificial fibres,Free,,,,,2026-10-22
-610190,6,61,Of other textile materials,,,,,,2026-10-22
-61019010,8,61,Of silk,Free,,,,,2026-10-22
-61019090,8,61,Other,Free,,,,,2026-10-22
-6102,4,61,"Womens or girls overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind- jackets and similar articles, knitted or crocheted, other than those of heading 61.04.",,,,,,2026-10-22
-61021000,8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
-61022000,8,61,Of cotton,Free,,,,,2026-10-22
-610230,6,61,Of man-made fibres,,,,,,2026-10-22
-61023010,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61023020,8,61,Of artificial fibres,Free,,,,,2026-10-22
-610290,6,61,Of other textile materials,,,,,,2026-10-22
-61029010,8,61,Of silk,Free,,,,,2026-10-22
-61029090,8,61,Other,Free,,,,,2026-10-22
-6103,4,61,"Mens or boys suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted.",,,,,,2026-10-22
-610310,6,61,Suits,,,,,,2026-10-22
-61031010,8,61,Of silk,Free,,,,,2026-10-22
-61031020,8,61,Of cotton,Free,,,,,2026-10-22
-61031030,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61031090,8,61,Other Ensembles,Free,,,,,2026-10-22
-61032200,8,61,Ensembles : -- Of cotton,Free,,,,,2026-10-22
-61032300,8,61,Ensembles : -- Of synthetic fibres,Free,,,,,2026-10-22
-610329,6,61,Ensembles : -- of Other textile materials,,,,,,2026-10-22
-61032910,8,61,Of silk,Free,,,,,2026-10-22
-61032920,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61032990,8,61,Other,Free,,,,,2026-10-22
-61033100,8,61,Jackets and blazers : -- Of wool or fine animal hair,Free,,,,,2026-10-22
-61033200,8,61,Jackets and blazers : -- of cotton,Free,,,,,2026-10-22
-61033300,8,61,Jackets and blazers : -- Of synthetic fibres,Free,,,,,2026-10-22
-610339,6,61,Jackets and blazers : -- Of other textile materials,,,,,,2026-10-22
-61033910,8,61,Of silk,Free,,,,,2026-10-22
-61033920,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61033990,8,61,Other,Free,,,,,2026-10-22
-61034100,8,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of wool or fine animal hair",Free,,,,,2026-10-22
-61034200,8,61,"Trousers, bib and brace overalls, breeches and shorts : --Of cotton",Free,,,,,2026-10-22
-61034300,8,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of synthetic fibres",Free,,,,,2026-10-22
-610349,6,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of other textile materials",,,,,,2026-10-22
-61034910,8,61,Of silk,Free,,,,,2026-10-22
-61034920,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61034990,8,61,Other,Free,,,,,2026-10-22
-6104,4,61,"Womens or girls suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted.",,,,,,2026-10-22
-61041300,8,61,Suits : -- Of synthetic fibres,Free,,,,,2026-10-22
-610419,6,61,Suits : -- Of other textile materials,,,,,,2026-10-22
-61041910,8,61,Of silk,Free,,,,,2026-10-22
-61041920,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61041990,8,61,Other,Free,,,,,2026-10-22
-61042200,8,61,Ensembles : -- Of cotton,Free,,,,,2026-10-22
-61042300,8,61,Ensembles : -- Of synthetic fibres,Free,,,,,2026-10-22
-610429,6,61,Ensembles : -- Of other textile materials,,,,,,2026-10-22
-61042910,8,61,Of silk,Free,,,,,2026-10-22
-61042920,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61042990,8,61,Other,Free,,,,,2026-10-22
-61043100,8,61,Jackets and blazers : -- Of wool or fine animal hair,Free,,,,,2026-10-22
-61043200,8,61,Jackets and blazers : -- Of cotton,Free,,,,,2026-10-22
-61043300,8,61,Jackets and blazers : -- Of synthetic fibres,Free,,,,,2026-10-22
-610439,6,61,Jackets and blazers : -- Of other textile materials,,,,,,2026-10-22
-61043910,8,61,Of silk,Free,,,,,2026-10-22
-61043920,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61043990,8,61,Other,Free,,,,,2026-10-22
-61044100,8,61,Dresses : -- Of wool or fine animal hair,Free,,,,,2026-10-22
-61044200,8,61,Dresses : -- Of cotton,Free,,,,,2026-10-22
-61044300,8,61,Dresses : -- Of synthetic fibres,Free,,,,,2026-10-22
-61044400,8,61,Dresses : -- Of artificial fibres,Free,,,,,2026-10-22
-610449,6,61,Dresses : -- Of other textile materials,,,,,,2026-10-22
-61044910,8,61,Of silk,Free,,,,,2026-10-22
-61044990,8,61,Of other fibres,Free,,,,,2026-10-22
-61045100,8,61,Skirts and divided skirts : -- Of wool or fine animal hair,Free,,,,,2026-10-22
-61045200,8,61,Skirts and divided skirts : -- Of cotton,Free,,,,,2026-10-22
-61045300,8,61,Skirts and divided skirts : -- Of synthetic fibres,Free,,,,,2026-10-22
-610459,6,61,Skirts and divided skirts : -- Of other textile materials,,,,,,2026-10-22
-61045910,8,61,Of silk,Free,,,,,2026-10-22
-61045920,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61045990,8,61,Of other fibres,Free,,,,,2026-10-22
-61046100,8,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of wool or fine animal hair",Free,,,,,2026-10-22
-61046200,8,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of cotton",Free,,,,,2026-10-22
-61046300,8,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of synthetic fibres",Free,,,,,2026-10-22
-610469,6,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of other textile materials",,,,,,2026-10-22
-61046910,8,61,Of silk,Free,,,,,2026-10-22
-61046920,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61046990,8,61,Other,Free,,,,,2026-10-22
-6105,4,61,"Mens or boys shirts, knitted or crocheted.",,,,,,2026-10-22
-610510,6,61,Of cotton,,,,,,2026-10-22
-61051010,8,61,"Shirts, hand crocheted",Free,,,,,2026-10-22
-61051090,8,61,Other,Free,,,,,2026-10-22
-610520,6,61,Of man-made fibres,,,,,,2026-10-22
-61052010,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61052020,8,61,Of artificial fibres,Free,,,,,2026-10-22
-610590,6,61,Of other textile materials,,,,,,2026-10-22
-61059010,8,61,Of silk,Free,,,,,2026-10-22
-61059090,8,61,Other,Free,,,,,2026-10-22
-6106,4,61,"Womens or girls blouses, shirts and shirt-blouses, Womens or girls blouses, shirts and shirt-blouses, knitted or crocheted.",,,,,,2026-10-22
-61061000,8,61,Of cotton,Free,,,,,2026-10-22
-610620,6,61,Of man-made fibres,,,,,,2026-10-22
-61062010,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61062020,8,61,Of artificial fibres,Free,,,,,2026-10-22
-610690,6,61,Of other textile materials,,,,,,2026-10-22
-61069010,8,61,Of silk,Free,,,,,2026-10-22
-61069020,8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
-61069090,8,61,Other,Free,,,,,2026-10-22
-6107,4,61,"Mens or boys underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles, knitted or crocheted.",,,,,,2026-10-22
-61071100,8,61,Underpants and briefs : -- Of cotton,Free,,,,,2026-10-22
-610712,6,61,Underpants and briefs : -- Of man-made fibres,,,,,,2026-10-22
-61071210,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61071220,8,61,Of artificial fibres,Free,,,,,2026-10-22
-610719,6,61,Underpants and briefs : -- Of other textile materials,,,,,,2026-10-22
-61071910,8,61,Of silk,Free,,,,,2026-10-22
-61071990,8,61,Other,Free,,,,,2026-10-22
-61072100,8,61,Nightshirts and pyjamas : -- Of cotton,Free,,,,,2026-10-22
-610722,6,61,Nightshirts and pyjamas : -- Of man-made fibres,,,,,,2026-10-22
-61072210,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61072220,8,61,Of artificial fibres,Free,,,,,2026-10-22
-610729,6,61,Nightshirts and pyjamas : -- Of other textile materials,,,,,,2026-10-22
-61072910,8,61,Of silk,Free,,,,,2026-10-22
-61072920,8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
-61072990,8,61,Other,Free,,,,,2026-10-22
-610791,6,61,Other : -- Of cotton,,,,,,2026-10-22
-61079110,8,61,"Gengis (Vests), other than hand crocheted",Free,,,,,2026-10-22
-61079190,8,61,Other,Free,,,,,2026-10-22
-610799,6,61,Other : -- Of other textile materials,,,,,,2026-10-22
-61079910,8,61,Of silk,Free,,,,,2026-10-22
-61079920,8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
-61079990,8,61,Other,Free,,,,,2026-10-22
-6108,4,61,"Womens or girls slips, petticoats, briefs, panties, nightdresses, pyjamas, negligees, bathrobes, dressing gowns and similar articles, knitted or crocheted.",,,,,,2026-10-22
-610811,6,61,Slips and petticoats : -- Of man-made fibres,,,,,,2026-10-22
-61081110,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61081120,8,61,Of artificial fibres,Free,,,,,2026-10-22
-610819,6,61,Slips and petticoats : -- Of other textile materials,,,,,,2026-10-22
-61081910,8,61,Of silk,Free,,,,,2026-10-22
-61081920,8,61,Of cotton,Free,,,,,2026-10-22
-61081990,8,61,Of other fibres,Free,,,,,2026-10-22
-61082100,8,61,Briefs and panties : -- Of cotton,Free,,,,,2026-10-22
-610822,6,61,Briefs and panties : -- Of man-made fibres,,,,,,2026-10-22
-61082210,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61082220,8,61,Of artificial fibres,Free,,,,,2026-10-22
-610829,6,61,Briefs and panties : -- Of other textile materials,,,,,,2026-10-22
-61082910,8,61,Of silk,Free,,,,,2026-10-22
-61082990,8,61,Other,Free,,,,,2026-10-22
-61083100,8,61,Nightdresses and pyjamas : -- Of cotton,Free,,,,,2026-10-22
-610832,6,61,Nightdresses and pyjamas : -- Of man-made fibres,,,,,,2026-10-22
-61083210,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61083220,8,61,Of artificial fibres,Free,,,,,2026-10-22
-610839,6,61,Nightdresses and pyjamas : -- Of other textile materials,,,,,,2026-10-22
-61083910,8,61,Of silk,Free,,,,,2026-10-22
-61083990,8,61,Other,Free,,,,,2026-10-22
-61089100,8,61,Other : -- Of cotton,Free,,,,,2026-10-22
-610892,6,61,Other : -- Of man-made fibres,,,,,,2026-10-22
-61089210,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61089220,8,61,Of artificial fibres,Free,,,,,2026-10-22
-610899,6,61,Other : -- Of other textile materials,,,,,,2026-10-22
-61089910,8,61,Of silk,Free,,,,,2026-10-22
-61089920,8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
-61089990,8,61,Of other textile material,Free,,,,,2026-10-22
-6109,4,61,"T-shirts, singlets and other vests, knitted or crocheted.",,,,,,2026-10-22
-61091000,8,61,Of cotton,Free,,,,,2026-10-22
-610990,6,61,Of other textile materials,,,,,,2026-10-22
-61099010,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61099020,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61099030,8,61,Of silk,Free,,,,,2026-10-22
-61099040,8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
-61099090,8,61,Other,Free,,,,,2026-10-22
-6110,4,61,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted.",,,,,,2026-10-22
-611011,6,61,Of wool or fine animal hair : -- Of wool,,,,,,2026-10-22
-61101110,8,61,Jerseys,Free,,,,,2026-10-22
-61101120,8,61,Sweaters and cardigans,Free,,,,,2026-10-22
-61101190,8,61,Other,Free,,,,,2026-10-22
-61101200,8,61,Of wool or fine animal hair : -- Of Kashmir (cashmere) goats,Free,,,,,2026-10-22
-61101900,8,61,Of wool or fine animal hair : -- Other,Free,,,,,2026-10-22
-61102000,8,61,Of cotton,Free,,,,,2026-10-22
-611030,6,61,Of man-made fibres,,,,,,2026-10-22
-61103010,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61103020,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61109000,8,61,Of other textile materials,Free,,,,,2026-10-22
-6111,4,61,"Babies garments and clothing accessories, knitted or crocheted.",,,,,,2026-10-22
-61112000,8,61,Of cotton,Free,,,,,2026-10-22
-61113000,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-611190,6,61,Of other textile materials,,,,,,2026-10-22
-61119010,8,61,Of silk,Free,,,,,2026-10-22
-61119020,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61119090,8,61,Other,Free,,,,,2026-10-22
-6112,4,61,"Track suits, ski suits and swimwear, knitted or crocheted.",,,,,,2026-10-22
-61121100,8,61,Track suits : -- Of cotton,Free,,,,,2026-10-22
-61121200,8,61,Track suits : -- Of synthetic fibres,Free,,,,,2026-10-22
-611219,6,61,Track suits : -- Of other textile materials,,,,,,2026-10-22
-61121910,8,61,Of silk,Free,,,,,2026-10-22
-61121920,8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
-61121930,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61121990,8,61,Other,Free,,,,,2026-10-22
-611220,6,61,Ski suits,,,,,,2026-10-22
-61122010,8,61,Of silk,Free,,,,,2026-10-22
-61122020,8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
-61122030,8,61,Of cotton,Free,,,,,2026-10-22
-61122040,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61122050,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61122090,8,61,Other,Free,,,,,2026-10-22
-61123100,8,61,Mens or boys swimwear : -- Of synthetic fibres,Free,,,,,2026-10-22
-611239,6,61,Mens or boys swimwear : -- Of other textile materials,,,,,,2026-10-22
-61123910,8,61,Of silk,Free,,,,,2026-10-22
-61123920,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61123990,8,61,Other,Free,,,,,2026-10-22
-61124100,8,61,Womens or girls swimwear : -- Of synthetic fibres,Free,,,,,2026-10-22
-611249,6,61,Womens or girls swimwear : -- Of other textile materials,,,,,,2026-10-22
-61124910,8,61,Of silk,Free,,,,,2026-10-22
-61124920,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61124990,8,61,Other,Free,,,,,2026-10-22
-61130000,8,61,"Garments, made up of knitted or crocheted fabrics of heading 59.03, 59.06 or 59.07.",Free,,,,,2026-10-22
-6114,4,61,"Other garments, knitted or crocheted.",,,,,,2026-10-22
-61142000,8,61,Of cotton,Free,,,,,2026-10-22
-611430,6,61,Of man-made fibres,,,,,,2026-10-22
-61143010,8,61,Of synthetic fibres,Free,,,,,2026-10-22
-61143020,8,61,Of artificial fibres,Free,,,,,2026-10-22
-611490,6,61,Of other textile materials,,,,,,2026-10-22
-61149010,8,61,Of silk,Free,,,,,2026-10-22
-61149090,8,61,Other,Free,,,,,2026-10-22
-6115,4,61,"Panty hose, tights, stockings, socks and other hosiery, including graduated compression hosiery (for example, stockings for varicose veins) and footwear without applied soles, knitted or crocheted.",,,,,,2026-10-22
-61151000,8,61,"Graduated compression hosiery (for example, stockings for varicose veins)",Free,,,,,2026-10-22
-611521,6,61,Other panty hose and tights :,,,,,,2026-10-22
-61152100,8,61,"Other panty hose and tights : -- Of synthetic fibres, measuring per single yarn less than 67 decitex",Free,,,,,2026-10-22
-61152200,8,61,"Other panty hose and tights : -- Of synthetic fibres, measuring per single yarn 67 decitex or more",Free,,,,,2026-10-22
-611529,6,61,Other panty hose and tights : -- Of other textile materials,,,,,,2026-10-22
-61152910,8,61,Of silk,Free,,,,,2026-10-22
-61152920,8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
-61152930,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61152990,8,61,Other,Free,,,,,2026-10-22
-61153000,8,61,"Other womens full-length or knee-length hosiery, measuring per single yarn less than 67 decitex",Free,,,,,2026-10-22
-61159400,8,61,Other : -- Of wool or fine animal hair,Free,,,,,2026-10-22
-61159500,8,61,Other : -- Of cotton,Free,,,,,2026-10-22
-61159600,8,61,Other : -- Of synthetic fibres,Free,,,,,2026-10-22
-611599,6,61,Other : -- Of other textile materials,,,,,,2026-10-22
-61159910,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61159990,8,61,Other,Free,,,,,2026-10-22
-6116,4,61,"Gloves, mittens and mitts, knitted or crocheted.",,,,,,2026-10-22
-61161000,8,61,"Impregnated, coated, covered or laminated with plastics or rubber",Free,,,,,2026-10-22
-61169100,8,61,Other : -- Of wool or fine animal hair,Free,,,,,2026-10-22
-61169200,8,61,Other : -- Of cotton,Free,,,,,2026-10-22
-61169300,8,61,Other : -- Of synthetic fibres,Free,,,,,2026-10-22
-611699,6,61,Other : -- Of other textile materials,,,,,,2026-10-22
-61169910,8,61,Of artificial fibres,Free,,,,,2026-10-22
-61169990,8,61,Other,Free,,,,,2026-10-22
-6117,4,61,"Other made up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories.",,,,,,2026-10-22
-611710,6,61,"Shawls, scarves, mufflers, mantillas, veils and the like",,,,,,2026-10-22
-61171010,8,61,Of silk,Free,,,,,2026-10-22
-61171020,8,61,Of wool,Free,,,,,2026-10-22
-61171030,8,61,Of cotton,Free,,,,,2026-10-22
-61171040,8,61,Of man-made fibres,Free,,,,,2026-10-22
-61171090,8,61,Other,Free,,,,,2026-10-22
-611780,6,61,Other accessories,,,,,,2026-10-22
-61178010,8,61,Of silk,Free,,,,,2026-10-22
-61178020,8,61,Of wool,Free,,,,,2026-10-22
-61178030,8,61,Of cotton,Free,,,,,2026-10-22
-61178040,8,61,Of man-made fibres,Free,,,,,2026-10-22
-61178090,8,61,Other,Free,,,,,2026-10-22
-61179000,8,61,Parts,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+6101,,,4,61,"Mens or boys overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, knitted or crocheted, other than those of heading 61.03.",,,,,,2026-10-22
+61012000,610120,"Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of cotton, knitted or crocheted (excluding those of heading no. 6103)",8,61,Of cotton,Free,,,,,2026-10-22
+610130,610130,"Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted, (excluding those of heading no. 6103)",6,61,Of man-made fibres,,,,,,2026-10-22
+61013010,610130,"Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted, (excluding those of heading no. 6103)",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61013020,610130,"Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted, (excluding those of heading no. 6103)",8,61,Of artificial fibres,Free,,,,,2026-10-22
+610190,610190,"Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of textile materials n.e.c. in heading no. 6101, knitted or crocheted (excluding those of heading no. 6103)",6,61,Of other textile materials,,,,,,2026-10-22
+61019010,610190,"Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of textile materials n.e.c. in heading no. 6101, knitted or crocheted (excluding those of heading no. 6103)",8,61,Of silk,Free,,,,,2026-10-22
+61019090,610190,"Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of textile materials n.e.c. in heading no. 6101, knitted or crocheted (excluding those of heading no. 6103)",8,61,Other,Free,,,,,2026-10-22
+6102,,,4,61,"Womens or girls overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind- jackets and similar articles, knitted or crocheted, other than those of heading 61.04.",,,,,,2026-10-22
+61021000,610210,"Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of wool or fine animal hair, knitted or crocheted (excluding those of heading no. 6104)",8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
+61022000,610220,"Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of cotton, knitted or crocheted (excluding those of heading no. 6104)",8,61,Of cotton,Free,,,,,2026-10-22
+610230,610230,"Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted (excluding those of heading no. 6104)",6,61,Of man-made fibres,,,,,,2026-10-22
+61023010,610230,"Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted (excluding those of heading no. 6104)",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61023020,610230,"Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted (excluding those of heading no. 6104)",8,61,Of artificial fibres,Free,,,,,2026-10-22
+610290,610290,"Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of textile materials n.e.c. in heading no. 6102, knitted or crocheted (excluding those of heading no. 6104)",6,61,Of other textile materials,,,,,,2026-10-22
+61029010,610290,"Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of textile materials n.e.c. in heading no. 6102, knitted or crocheted (excluding those of heading no. 6104)",8,61,Of silk,Free,,,,,2026-10-22
+61029090,610290,"Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of textile materials n.e.c. in heading no. 6102, knitted or crocheted (excluding those of heading no. 6104)",8,61,Other,Free,,,,,2026-10-22
+6103,,,4,61,"Mens or boys suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted.",,,,,,2026-10-22
+610310,610310,"Suits; men's or boys', knitted or crocheted",6,61,Suits,,,,,,2026-10-22
+61031010,610310,"Suits; men's or boys', knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61031020,610310,"Suits; men's or boys', knitted or crocheted",8,61,Of cotton,Free,,,,,2026-10-22
+61031030,610310,"Suits; men's or boys', knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61031090,610310,"Suits; men's or boys', knitted or crocheted",8,61,Other Ensembles,Free,,,,,2026-10-22
+61032200,610322,"Ensembles; men's or boys', of cotton, knitted or crocheted",8,61,Ensembles : -- Of cotton,Free,,,,,2026-10-22
+61032300,610323,"Ensembles; men's or boys', of synthetic fibres, knitted or crocheted",8,61,Ensembles : -- Of synthetic fibres,Free,,,,,2026-10-22
+610329,610329,"Ensembles; men's or boys', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",6,61,Ensembles : -- of Other textile materials,,,,,,2026-10-22
+61032910,610329,"Ensembles; men's or boys', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61032920,610329,"Ensembles; men's or boys', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61032990,610329,"Ensembles; men's or boys', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+61033100,610331,"Jackets and blazers; men's or boys', of wool or fine animal hair, knitted or crocheted",8,61,Jackets and blazers : -- Of wool or fine animal hair,Free,,,,,2026-10-22
+61033200,610332,"Jackets and blazers; men's or boys', of cotton, knitted or crocheted",8,61,Jackets and blazers : -- of cotton,Free,,,,,2026-10-22
+61033300,610333,"Jackets and blazers; men's or boys', of synthetic fibres, knitted or crocheted",8,61,Jackets and blazers : -- Of synthetic fibres,Free,,,,,2026-10-22
+610339,610339,"Jackets and blazers; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",6,61,Jackets and blazers : -- Of other textile materials,,,,,,2026-10-22
+61033910,610339,"Jackets and blazers; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61033920,610339,"Jackets and blazers; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61033990,610339,"Jackets and blazers; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+61034100,610341,"Trousers, bib and brace overalls, breeches and shorts; men's or boys', of wool or fine animal hair, knitted or crocheted",8,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of wool or fine animal hair",Free,,,,,2026-10-22
+61034200,610342,"Trousers, bib and brace overalls, breeches and shorts; men's or boys', of cotton, knitted or crocheted",8,61,"Trousers, bib and brace overalls, breeches and shorts : --Of cotton",Free,,,,,2026-10-22
+61034300,610343,"Trousers, bib and brace overalls, breeches and shorts; men's or boys', of synthetic fibres, knitted or crocheted",8,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of synthetic fibres",Free,,,,,2026-10-22
+610349,610349,"Trousers, bib and brace overalls, breeches and shorts; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",6,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of other textile materials",,,,,,2026-10-22
+61034910,610349,"Trousers, bib and brace overalls, breeches and shorts; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61034920,610349,"Trousers, bib and brace overalls, breeches and shorts; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61034990,610349,"Trousers, bib and brace overalls, breeches and shorts; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+6104,,,4,61,"Womens or girls suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted.",,,,,,2026-10-22
+61041300,610413,"Suits; women's or girls', of synthetic fibres, knitted or crocheted",8,61,Suits : -- Of synthetic fibres,Free,,,,,2026-10-22
+610419,610419,"Suits; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",6,61,Suits : -- Of other textile materials,,,,,,2026-10-22
+61041910,610419,"Suits; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61041920,610419,"Suits; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61041990,610419,"Suits; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+61042200,610422,"Ensembles; women's or girls', of cotton, knitted or crocheted",8,61,Ensembles : -- Of cotton,Free,,,,,2026-10-22
+61042300,610423,"Ensembles; women's or girls', of synthetic fibres, knitted or crocheted",8,61,Ensembles : -- Of synthetic fibres,Free,,,,,2026-10-22
+610429,610429,"Ensembles; women's or girls', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",6,61,Ensembles : -- Of other textile materials,,,,,,2026-10-22
+61042910,610429,"Ensembles; women's or girls', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61042920,610429,"Ensembles; women's or girls', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61042990,610429,"Ensembles; women's or girls', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+61043100,610431,"Jackets; women's or girls', of wool or fine animal hair, knitted or crocheted",8,61,Jackets and blazers : -- Of wool or fine animal hair,Free,,,,,2026-10-22
+61043200,610432,"Jackets; women's or girls', of cotton, knitted or crocheted",8,61,Jackets and blazers : -- Of cotton,Free,,,,,2026-10-22
+61043300,610433,"Jackets; women's or girls', of synthetic fibres, knitted or crocheted",8,61,Jackets and blazers : -- Of synthetic fibres,Free,,,,,2026-10-22
+610439,610439,"Jackets; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",6,61,Jackets and blazers : -- Of other textile materials,,,,,,2026-10-22
+61043910,610439,"Jackets; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61043920,610439,"Jackets; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61043990,610439,"Jackets; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+61044100,610441,"Dresses; women's or girls', of wool or fine animal hair, knitted or crocheted",8,61,Dresses : -- Of wool or fine animal hair,Free,,,,,2026-10-22
+61044200,610442,"Dresses; women's or girls', of cotton, knitted or crocheted",8,61,Dresses : -- Of cotton,Free,,,,,2026-10-22
+61044300,610443,"Dresses; women's or girls', of synthetic fibres, knitted or crocheted",8,61,Dresses : -- Of synthetic fibres,Free,,,,,2026-10-22
+61044400,610444,"Dresses; women's or girls', of artificial fibres, knitted or crocheted",8,61,Dresses : -- Of artificial fibres,Free,,,,,2026-10-22
+610449,610449,"Dresses; women's or girls', of textile materials (other than wool or fine animal hair, cotton, synthetic or artificial fibres), knitted or crocheted",6,61,Dresses : -- Of other textile materials,,,,,,2026-10-22
+61044910,610449,"Dresses; women's or girls', of textile materials (other than wool or fine animal hair, cotton, synthetic or artificial fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61044990,610449,"Dresses; women's or girls', of textile materials (other than wool or fine animal hair, cotton, synthetic or artificial fibres), knitted or crocheted",8,61,Of other fibres,Free,,,,,2026-10-22
+61045100,610451,"Skirts and divided skirts; women's or girls', of wool or fine animal hair, knitted or crocheted",8,61,Skirts and divided skirts : -- Of wool or fine animal hair,Free,,,,,2026-10-22
+61045200,610452,"Skirts and divided skirts; women's or girls', of cotton, knitted or crocheted",8,61,Skirts and divided skirts : -- Of cotton,Free,,,,,2026-10-22
+61045300,610453,"Skirts and divided skirts; women's or girls', of synthetic fibres, knitted or crocheted",8,61,Skirts and divided skirts : -- Of synthetic fibres,Free,,,,,2026-10-22
+610459,610459,"Skirts and divided skirts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",6,61,Skirts and divided skirts : -- Of other textile materials,,,,,,2026-10-22
+61045910,610459,"Skirts and divided skirts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61045920,610459,"Skirts and divided skirts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61045990,610459,"Skirts and divided skirts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Of other fibres,Free,,,,,2026-10-22
+61046100,610461,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of wool or fine animal hair, knitted or crocheted",8,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of wool or fine animal hair",Free,,,,,2026-10-22
+61046200,610462,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of cotton, knitted or crocheted",8,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of cotton",Free,,,,,2026-10-22
+61046300,610463,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of synthetic fibres, knitted or crocheted",8,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of synthetic fibres",Free,,,,,2026-10-22
+610469,610469,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",6,61,"Trousers, bib and brace overalls, breeches and shorts : -- Of other textile materials",,,,,,2026-10-22
+61046910,610469,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61046920,610469,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61046990,610469,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+6105,,,4,61,"Mens or boys shirts, knitted or crocheted.",,,,,,2026-10-22
+610510,610510,"Shirts; men's or boys', of cotton, knitted or crocheted",6,61,Of cotton,,,,,,2026-10-22
+61051010,610510,"Shirts; men's or boys', of cotton, knitted or crocheted",8,61,"Shirts, hand crocheted",Free,,,,,2026-10-22
+61051090,610510,"Shirts; men's or boys', of cotton, knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+610520,610520,"Shirts; men's or boys', of man-made fibres, knitted or crocheted",6,61,Of man-made fibres,,,,,,2026-10-22
+61052010,610520,"Shirts; men's or boys', of man-made fibres, knitted or crocheted",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61052020,610520,"Shirts; men's or boys', of man-made fibres, knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+610590,610590,"Shirts; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",6,61,Of other textile materials,,,,,,2026-10-22
+61059010,610590,"Shirts; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61059090,610590,"Shirts; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+6106,,,4,61,"Womens or girls blouses, shirts and shirt-blouses, Womens or girls blouses, shirts and shirt-blouses, knitted or crocheted.",,,,,,2026-10-22
+61061000,610610,"Blouses, shirts and shirt-blouses; women's or girls', of cotton, knitted or crocheted",8,61,Of cotton,Free,,,,,2026-10-22
+610620,610620,"Blouses, shirts and shirt-blouses; women's or girls', of man-made fibres, knitted or crocheted",6,61,Of man-made fibres,,,,,,2026-10-22
+61062010,610620,"Blouses, shirts and shirt-blouses; women's or girls', of man-made fibres, knitted or crocheted",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61062020,610620,"Blouses, shirts and shirt-blouses; women's or girls', of man-made fibres, knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+610690,610690,"Blouses, shirts and shirt-blouses; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",6,61,Of other textile materials,,,,,,2026-10-22
+61069010,610690,"Blouses, shirts and shirt-blouses; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61069020,610690,"Blouses, shirts and shirt-blouses; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
+61069090,610690,"Blouses, shirts and shirt-blouses; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+6107,,,4,61,"Mens or boys underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles, knitted or crocheted.",,,,,,2026-10-22
+61071100,610711,"Underpants and briefs; men's or boys', of cotton, knitted or crocheted",8,61,Underpants and briefs : -- Of cotton,Free,,,,,2026-10-22
+610712,610712,"Underpants and briefs; men's or boys', of man-made fibres, knitted or crocheted",6,61,Underpants and briefs : -- Of man-made fibres,,,,,,2026-10-22
+61071210,610712,"Underpants and briefs; men's or boys', of man-made fibres, knitted or crocheted",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61071220,610712,"Underpants and briefs; men's or boys', of man-made fibres, knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+610719,610719,"Underpants and briefs; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",6,61,Underpants and briefs : -- Of other textile materials,,,,,,2026-10-22
+61071910,610719,"Underpants and briefs; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61071990,610719,"Underpants and briefs; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+61072100,610721,"Nightshirts and pyjamas; men's or boys', of cotton, knitted or crocheted",8,61,Nightshirts and pyjamas : -- Of cotton,Free,,,,,2026-10-22
+610722,610722,"Nightshirts and pyjamas; men's or boys', of man-made fibres, knitted or crocheted",6,61,Nightshirts and pyjamas : -- Of man-made fibres,,,,,,2026-10-22
+61072210,610722,"Nightshirts and pyjamas; men's or boys', of man-made fibres, knitted or crocheted",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61072220,610722,"Nightshirts and pyjamas; men's or boys', of man-made fibres, knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+610729,610729,"Nightshirts and pyjamas; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",6,61,Nightshirts and pyjamas : -- Of other textile materials,,,,,,2026-10-22
+61072910,610729,"Nightshirts and pyjamas; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61072920,610729,"Nightshirts and pyjamas; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
+61072990,610729,"Nightshirts and pyjamas; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+610791,610791,"Bathrobes, dressing gowns and similar articles; men's or boys', of cotton, knitted or crocheted",6,61,Other : -- Of cotton,,,,,,2026-10-22
+61079110,610791,"Bathrobes, dressing gowns and similar articles; men's or boys', of cotton, knitted or crocheted",8,61,"Gengis (Vests), other than hand crocheted",Free,,,,,2026-10-22
+61079190,610791,"Bathrobes, dressing gowns and similar articles; men's or boys', of cotton, knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+610799,610799,"Bathrobes, dressing gowns and similar articles; men's or boys', of textile materials (other than cotton), knitted or crocheted",6,61,Other : -- Of other textile materials,,,,,,2026-10-22
+61079910,610799,"Bathrobes, dressing gowns and similar articles; men's or boys', of textile materials (other than cotton), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61079920,610799,"Bathrobes, dressing gowns and similar articles; men's or boys', of textile materials (other than cotton), knitted or crocheted",8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
+61079990,610799,"Bathrobes, dressing gowns and similar articles; men's or boys', of textile materials (other than cotton), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+6108,,,4,61,"Womens or girls slips, petticoats, briefs, panties, nightdresses, pyjamas, negligees, bathrobes, dressing gowns and similar articles, knitted or crocheted.",,,,,,2026-10-22
+610811,610811,"Slips and petticoats; women's or girls', of man-made fibres, knitted or crocheted",6,61,Slips and petticoats : -- Of man-made fibres,,,,,,2026-10-22
+61081110,610811,"Slips and petticoats; women's or girls', of man-made fibres, knitted or crocheted",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61081120,610811,"Slips and petticoats; women's or girls', of man-made fibres, knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+610819,610819,"Slips and petticoats; women's or girls', of textile materials (other than man-made fibres), knitted or crocheted",6,61,Slips and petticoats : -- Of other textile materials,,,,,,2026-10-22
+61081910,610819,"Slips and petticoats; women's or girls', of textile materials (other than man-made fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61081920,610819,"Slips and petticoats; women's or girls', of textile materials (other than man-made fibres), knitted or crocheted",8,61,Of cotton,Free,,,,,2026-10-22
+61081990,610819,"Slips and petticoats; women's or girls', of textile materials (other than man-made fibres), knitted or crocheted",8,61,Of other fibres,Free,,,,,2026-10-22
+61082100,610821,"Briefs and panties; women's or girls', of cotton, knitted or crocheted",8,61,Briefs and panties : -- Of cotton,Free,,,,,2026-10-22
+610822,610822,"Briefs and panties; women's or girls', of man-made fibres, knitted or crocheted",6,61,Briefs and panties : -- Of man-made fibres,,,,,,2026-10-22
+61082210,610822,"Briefs and panties; women's or girls', of man-made fibres, knitted or crocheted",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61082220,610822,"Briefs and panties; women's or girls', of man-made fibres, knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+610829,610829,"Briefs and panties; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",6,61,Briefs and panties : -- Of other textile materials,,,,,,2026-10-22
+61082910,610829,"Briefs and panties; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61082990,610829,"Briefs and panties; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+61083100,610831,"Nightdresses and pyjamas; women's or girls', of cotton, knitted or crocheted",8,61,Nightdresses and pyjamas : -- Of cotton,Free,,,,,2026-10-22
+610832,610832,"Nightdresses and pyjamas; women's or girls', of man-made fibres, knitted or crocheted",6,61,Nightdresses and pyjamas : -- Of man-made fibres,,,,,,2026-10-22
+61083210,610832,"Nightdresses and pyjamas; women's or girls', of man-made fibres, knitted or crocheted",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61083220,610832,"Nightdresses and pyjamas; women's or girls', of man-made fibres, knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+610839,610839,"Nightdresses and pyjamas; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",6,61,Nightdresses and pyjamas : -- Of other textile materials,,,,,,2026-10-22
+61083910,610839,"Nightdresses and pyjamas; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61083990,610839,"Nightdresses and pyjamas; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+61089100,610891,"Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of cotton, knitted or crocheted",8,61,Other : -- Of cotton,Free,,,,,2026-10-22
+610892,610892,"Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of man-made fibres, knitted or crocheted",6,61,Other : -- Of man-made fibres,,,,,,2026-10-22
+61089210,610892,"Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of man-made fibres, knitted or crocheted",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61089220,610892,"Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of man-made fibres, knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+610899,610899,"Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",6,61,Other : -- Of other textile materials,,,,,,2026-10-22
+61089910,610899,"Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61089920,610899,"Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
+61089990,610899,"Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",8,61,Of other textile material,Free,,,,,2026-10-22
+6109,,,4,61,"T-shirts, singlets and other vests, knitted or crocheted.",,,,,,2026-10-22
+61091000,610910,"T-shirts, singlets and other vests; of cotton, knitted or crocheted",8,61,Of cotton,Free,,,,,2026-10-22
+610990,610990,"T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",6,61,Of other textile materials,,,,,,2026-10-22
+61099010,610990,"T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61099020,610990,"T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61099030,610990,"T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61099040,610990,"T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
+61099090,610990,"T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+6110,,,4,61,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted.",,,,,,2026-10-22
+611011,611011,"Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted, of wool or fine animal hair",6,61,Of wool or fine animal hair : -- Of wool,,,,,,2026-10-22
+61101110,611011,"Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted, of wool or fine animal hair",8,61,Jerseys,Free,,,,,2026-10-22
+61101120,611011,"Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted, of wool or fine animal hair",8,61,Sweaters and cardigans,Free,,,,,2026-10-22
+61101190,611011,"Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted, of wool or fine animal hair",8,61,Other,Free,,,,,2026-10-22
+61101200,611012,"Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted, of fibres from kashmir (cashmere) goats",8,61,Of wool or fine animal hair : -- Of Kashmir (cashmere) goats,Free,,,,,2026-10-22
+61101900,611019,"Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted, of fine animal hair other than that of kashmir (cashmere) goats",8,61,Of wool or fine animal hair : -- Other,Free,,,,,2026-10-22
+61102000,611020,"Jerseys, pullovers, cardigans, waistcoats and similar articles; of cotton, knitted or crocheted",8,61,Of cotton,Free,,,,,2026-10-22
+611030,611030,"Jerseys, pullovers, cardigans, waistcoats and similar articles; of man-made fibres, knitted or crocheted",6,61,Of man-made fibres,,,,,,2026-10-22
+61103010,611030,"Jerseys, pullovers, cardigans, waistcoats and similar articles; of man-made fibres, knitted or crocheted",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61103020,611030,"Jerseys, pullovers, cardigans, waistcoats and similar articles; of man-made fibres, knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61109000,611090,"Jerseys, pullovers, cardigans, waistcoats and similar articles; of textile materials (other than wool or fine animal hair, cotton or man-made fibres), knitted or crocheted",8,61,Of other textile materials,Free,,,,,2026-10-22
+6111,,,4,61,"Babies garments and clothing accessories, knitted or crocheted.",,,,,,2026-10-22
+61112000,611120,"Garments and clothing accessories; babies', of cotton, knitted or crocheted",8,61,Of cotton,Free,,,,,2026-10-22
+61113000,611130,"Garments and clothing accessories; babies', of synthetic fibres, knitted or crocheted",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+611190,611190,"Garments and clothing accessories; babies', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",6,61,Of other textile materials,,,,,,2026-10-22
+61119010,611190,"Garments and clothing accessories; babies', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61119020,611190,"Garments and clothing accessories; babies', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61119090,611190,"Garments and clothing accessories; babies', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+6112,,,4,61,"Track suits, ski suits and swimwear, knitted or crocheted.",,,,,,2026-10-22
+61121100,611211,"Track suits; of cotton, knitted or crocheted",8,61,Track suits : -- Of cotton,Free,,,,,2026-10-22
+61121200,611212,"Track suits; of synthetic fibres, knitted or crocheted",8,61,Track suits : -- Of synthetic fibres,Free,,,,,2026-10-22
+611219,611219,"Track suits; of textile materials (other than cotton or synthetic fibres), knitted or crocheted",6,61,Track suits : -- Of other textile materials,,,,,,2026-10-22
+61121910,611219,"Track suits; of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61121920,611219,"Track suits; of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
+61121930,611219,"Track suits; of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61121990,611219,"Track suits; of textile materials (other than cotton or synthetic fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+611220,611220,Ski suits; knitted or crocheted,6,61,Ski suits,,,,,,2026-10-22
+61122010,611220,Ski suits; knitted or crocheted,8,61,Of silk,Free,,,,,2026-10-22
+61122020,611220,Ski suits; knitted or crocheted,8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
+61122030,611220,Ski suits; knitted or crocheted,8,61,Of cotton,Free,,,,,2026-10-22
+61122040,611220,Ski suits; knitted or crocheted,8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61122050,611220,Ski suits; knitted or crocheted,8,61,Of artificial fibres,Free,,,,,2026-10-22
+61122090,611220,Ski suits; knitted or crocheted,8,61,Other,Free,,,,,2026-10-22
+61123100,611231,"Swimwear; men's or boys', of synthetic fibres, knitted or crocheted",8,61,Mens or boys swimwear : -- Of synthetic fibres,Free,,,,,2026-10-22
+611239,611239,"Swimwear; men's or boys', of textile materials (other than synthetic fibres), knitted or crocheted",6,61,Mens or boys swimwear : -- Of other textile materials,,,,,,2026-10-22
+61123910,611239,"Swimwear; men's or boys', of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61123920,611239,"Swimwear; men's or boys', of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61123990,611239,"Swimwear; men's or boys', of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+61124100,611241,"Swimwear; women's or girls', of synthetic fibres, knitted or crocheted",8,61,Womens or girls swimwear : -- Of synthetic fibres,Free,,,,,2026-10-22
+611249,611249,"Swimwear; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",6,61,Womens or girls swimwear : -- Of other textile materials,,,,,,2026-10-22
+61124910,611249,"Swimwear; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61124920,611249,"Swimwear; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61124990,611249,"Swimwear; women's or girls', of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+61130000,611300,"Garments made up of knitted or crocheted fabrics of heading no. 5903, 5906 and 5907",8,61,"Garments, made up of knitted or crocheted fabrics of heading 59.03, 59.06 or 59.07.",Free,,,,,2026-10-22
+6114,,,4,61,"Other garments, knitted or crocheted.",,,,,,2026-10-22
+61142000,611420,"Garments; of cotton, knitted or crocheted, n.e.c. in chapter 61",8,61,Of cotton,Free,,,,,2026-10-22
+611430,611430,"Garments; of man-made fibres, knitted or crocheted, n.e.c. in chapter 61",6,61,Of man-made fibres,,,,,,2026-10-22
+61143010,611430,"Garments; of man-made fibres, knitted or crocheted, n.e.c. in chapter 61",8,61,Of synthetic fibres,Free,,,,,2026-10-22
+61143020,611430,"Garments; of man-made fibres, knitted or crocheted, n.e.c. in chapter 61",8,61,Of artificial fibres,Free,,,,,2026-10-22
+611490,611490,"Garments; of textile materials (other than cotton or man-made fibres), knitted or crocheted, n.e.c. in chapter 61",6,61,Of other textile materials,,,,,,2026-10-22
+61149010,611490,"Garments; of textile materials (other than cotton or man-made fibres), knitted or crocheted, n.e.c. in chapter 61",8,61,Of silk,Free,,,,,2026-10-22
+61149090,611490,"Garments; of textile materials (other than cotton or man-made fibres), knitted or crocheted, n.e.c. in chapter 61",8,61,Other,Free,,,,,2026-10-22
+6115,,,4,61,"Panty hose, tights, stockings, socks and other hosiery, including graduated compression hosiery (for example, stockings for varicose veins) and footwear without applied soles, knitted or crocheted.",,,,,,2026-10-22
+61151000,611510,"Graduated compression hosiery (for example, stockings for varicose veins), knitted or crocheted",8,61,"Graduated compression hosiery (for example, stockings for varicose veins)",Free,,,,,2026-10-22
+611521,611521,"Hosiery; panty hose and tights (other than graduated compression hosiery), of synthetic fibres, measuring per single yarn less than 67 decitex, knitted or crocheted",6,61,Other panty hose and tights :,,,,,,2026-10-22
+61152100,611521,"Hosiery; panty hose and tights (other than graduated compression hosiery), of synthetic fibres, measuring per single yarn less than 67 decitex, knitted or crocheted",8,61,"Other panty hose and tights : -- Of synthetic fibres, measuring per single yarn less than 67 decitex",Free,,,,,2026-10-22
+61152200,611522,"Hosiery; panty hose and tights (other than graduated compression hosiery), of synthetic fibres, measuring per single yarn 67 decitex or more, knitted or crocheted",8,61,"Other panty hose and tights : -- Of synthetic fibres, measuring per single yarn 67 decitex or more",Free,,,,,2026-10-22
+611529,611529,"Hosiery; panty hose and tights (other than graduated compression hosiery), of textile materials (other than synthetic fibres), knitted or crocheted",6,61,Other panty hose and tights : -- Of other textile materials,,,,,,2026-10-22
+61152910,611529,"Hosiery; panty hose and tights (other than graduated compression hosiery), of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61152920,611529,"Hosiery; panty hose and tights (other than graduated compression hosiery), of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Of wool or fine animal hair,Free,,,,,2026-10-22
+61152930,611529,"Hosiery; panty hose and tights (other than graduated compression hosiery), of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61152990,611529,"Hosiery; panty hose and tights (other than graduated compression hosiery), of textile materials (other than synthetic fibres), knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+61153000,611530,"Hosiery; women's, full-length or knee-length (other than graduated compression hosiery), measuring per single yarn less than 67 decitex, knitted or crocheted",8,61,"Other womens full-length or knee-length hosiery, measuring per single yarn less than 67 decitex",Free,,,,,2026-10-22
+61159400,611594,"Hosiery and footwear; without applied soles, of wool or fine animal hair, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, women's full or knee-length hosiery measuring per single yarn less than 67 decitex)",8,61,Other : -- Of wool or fine animal hair,Free,,,,,2026-10-22
+61159500,611595,"Hosiery and footwear; without applied soles, of cotton, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, full or knee-length hosiery measuring per single yarn less than 67 decitex)",8,61,Other : -- Of cotton,Free,,,,,2026-10-22
+61159600,611596,"Hosiery and footwear; without applied soles, of synthetic fibres, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, full or knee-length hosiery measuring per single yarn less than 67 decitex)",8,61,Other : -- Of synthetic fibres,Free,,,,,2026-10-22
+611599,611599,"Hosiery and footwear; without applied soles, of textile materials n.e.c. in item no. 6115.9, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, full or knee-length hosiery measuring per single yarn less than 67 decitex)",6,61,Other : -- Of other textile materials,,,,,,2026-10-22
+61159910,611599,"Hosiery and footwear; without applied soles, of textile materials n.e.c. in item no. 6115.9, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, full or knee-length hosiery measuring per single yarn less than 67 decitex)",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61159990,611599,"Hosiery and footwear; without applied soles, of textile materials n.e.c. in item no. 6115.9, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, full or knee-length hosiery measuring per single yarn less than 67 decitex)",8,61,Other,Free,,,,,2026-10-22
+6116,,,4,61,"Gloves, mittens and mitts, knitted or crocheted.",,,,,,2026-10-22
+61161000,611610,"Gloves, mittens and mitts; knitted or crocheted, impregnated, coated, covered or laminated with plastics or rubber",8,61,"Impregnated, coated, covered or laminated with plastics or rubber",Free,,,,,2026-10-22
+61169100,611691,"Gloves, mittens and mitts; of wool or fine animal hair, knitted or crocheted, (other than impregnated, coated, covered or laminated with plastics or rubber)",8,61,Other : -- Of wool or fine animal hair,Free,,,,,2026-10-22
+61169200,611692,"Gloves, mittens and mitts; of cotton, knitted or crocheted, (other than impregnated, coated, covered or laminated with plastics or rubber)",8,61,Other : -- Of cotton,Free,,,,,2026-10-22
+61169300,611693,"Gloves, mittens and mitts; of synthetic fibres, knitted or crocheted, (other than impregnated, coated, covered or laminated with plastics or rubber)",8,61,Other : -- Of synthetic fibres,Free,,,,,2026-10-22
+611699,611699,"Gloves, mittens and mitts; of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted, (other than impregnated, coated, covered or laminated with plastics or rubber)",6,61,Other : -- Of other textile materials,,,,,,2026-10-22
+61169910,611699,"Gloves, mittens and mitts; of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted, (other than impregnated, coated, covered or laminated with plastics or rubber)",8,61,Of artificial fibres,Free,,,,,2026-10-22
+61169990,611699,"Gloves, mittens and mitts; of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted, (other than impregnated, coated, covered or laminated with plastics or rubber)",8,61,Other,Free,,,,,2026-10-22
+6117,,,4,61,"Other made up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories.",,,,,,2026-10-22
+611710,611710,"Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",6,61,"Shawls, scarves, mufflers, mantillas, veils and the like",,,,,,2026-10-22
+61171010,611710,"Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",8,61,Of silk,Free,,,,,2026-10-22
+61171020,611710,"Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",8,61,Of wool,Free,,,,,2026-10-22
+61171030,611710,"Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",8,61,Of cotton,Free,,,,,2026-10-22
+61171040,611710,"Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",8,61,Of man-made fibres,Free,,,,,2026-10-22
+61171090,611710,"Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",8,61,Other,Free,,,,,2026-10-22
+611780,611780,"Clothing accessories; knitted or crocheted, n.e.c. in heading no. 6117",6,61,Other accessories,,,,,,2026-10-22
+61178010,611780,"Clothing accessories; knitted or crocheted, n.e.c. in heading no. 6117",8,61,Of silk,Free,,,,,2026-10-22
+61178020,611780,"Clothing accessories; knitted or crocheted, n.e.c. in heading no. 6117",8,61,Of wool,Free,,,,,2026-10-22
+61178030,611780,"Clothing accessories; knitted or crocheted, n.e.c. in heading no. 6117",8,61,Of cotton,Free,,,,,2026-10-22
+61178040,611780,"Clothing accessories; knitted or crocheted, n.e.c. in heading no. 6117",8,61,Of man-made fibres,Free,,,,,2026-10-22
+61178090,611780,"Clothing accessories; knitted or crocheted, n.e.c. in heading no. 6117",8,61,Other,Free,,,,,2026-10-22
+61179000,611790,"Clothing; parts, knitted or crocheted",8,61,Parts,Free,,,,,2026-10-22

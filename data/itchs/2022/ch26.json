@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "2601",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "Iron ores and concentrates, including roasted iron pyrites.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "260111",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 6,
    "chapter": "26",
    "description": "Iron ores and concentrates, other than roasted iron pyrites : -- Non-agglomerated",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "26011111",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "60percent Fe or more but below 62percent Fe",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "26011112",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "62percent Fe or more but below 65percent Fe",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "26011119",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "65percent Fe and above",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "26011121",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "Iron ore lumps (below 60percent Fe, including black iron ore containing up to 10percent Mn) ---- Iron ore lumps below 55percent Fe",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "26011122",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "Iron ore lumps (below 60percent Fe, including black iron ore containing up to 10percent Mn) ---- Iron ore lumps 55percent Fe or more but below 58 percent Fe",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "26011129",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "Iron ore lumps (below 60percent Fe, including black iron ore containing up to 10percent Mn) ---- 58 percent Fe or more but below 60 percent Fe",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "26011131",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "Iron ore fines (62percent Fe or more) --- - 62percent Fe or more but below 65percent Fe",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "26011139",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "Iron ore fines (62percent Fe or more) --- - 65percent Fe and above",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "26011141",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "Iron ore Fines (below 62percent Fe) ---- below 55percent Fe",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "26011142",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "Iron ore Fines (below 62percent Fe) ---- 55percent Fe or more but below 58percent Fe",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "26011143",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "Iron ore Fines (below 62percent Fe) ---- 58percent Fe or more but below 60percent Fe",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "26011149",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "Iron ore Fines (below 62percent Fe) ---- 60percent Fe or more but below 62percent Fe",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "26011150",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "Iron ore concentrates",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "26011190",
+   "hs6": "260111",
+   "hs6_description": "Iron ores and concentrates; non-agglomerated",
    "level": 8,
    "chapter": "26",
    "description": "Others",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "260112",
+   "hs6": "260112",
+   "hs6_description": "Iron ores and concentrates; agglomerated (excluding roasted iron pyrites)",
    "level": 6,
    "chapter": "26",
    "description": "Iron ores and concentrates, other than roasted iron pyrites : -- Agglomerated",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "26011210",
+   "hs6": "260112",
+   "hs6_description": "Iron ores and concentrates; agglomerated (excluding roasted iron pyrites)",
    "level": 8,
    "chapter": "26",
    "description": "Iron ore pellets",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "26011290",
+   "hs6": "260112",
+   "hs6_description": "Iron ores and concentrates; agglomerated (excluding roasted iron pyrites)",
    "level": 8,
    "chapter": "26",
    "description": "Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "26012000",
+   "hs6": "260120",
+   "hs6_description": "Iron pyrites; roasted",
    "level": 8,
    "chapter": "26",
    "description": "Roasted iron pyrites",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "2602",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "MANGANESE ORES AND CONCENTRATES, INCLUDING FERRUGINOUS MANGANESE ORES AND CONCENTRATES WITH A MANGANESE CONTENT OF 20% OR MORE, CALCULATED ON THE DRY WEIGHT",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "260200",
+   "hs6": "260200",
+   "hs6_description": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",
    "level": 6,
    "chapter": "26",
    "description": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20percentor more, calculated on the dry weight.",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "26020010",
+   "hs6": "260200",
+   "hs6_description": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",
    "level": 8,
    "chapter": "26",
    "description": "Manganese ore (46percent or more)",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "26020020",
+   "hs6": "260200",
+   "hs6_description": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",
    "level": 8,
    "chapter": "26",
    "description": "Manganese ore (44percent or more but below 46percent)",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "26020030",
+   "hs6": "260200",
+   "hs6_description": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",
    "level": 8,
    "chapter": "26",
    "description": "Manganese ore (40percent or more but below 44percent)",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "26020040",
+   "hs6": "260200",
+   "hs6_description": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",
    "level": 8,
    "chapter": "26",
    "description": "Manganese ore (35percent or more but below 40percent)",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "26020050",
+   "hs6": "260200",
+   "hs6_description": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",
    "level": 8,
    "chapter": "26",
    "description": "Manganese ore (30percent or more but below 35percent)",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "26020060",
+   "hs6": "260200",
+   "hs6_description": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",
    "level": 8,
    "chapter": "26",
    "description": "Ferruginous (10percent or more but below 30percent)",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "26020070",
+   "hs6": "260200",
+   "hs6_description": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",
    "level": 8,
    "chapter": "26",
    "description": "Manganese ore sinters, agglomerated",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "26020090",
+   "hs6": "260200",
+   "hs6_description": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight",
    "level": 8,
    "chapter": "26",
    "description": "Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "26030000",
+   "hs6": "260300",
+   "hs6_description": "Copper ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Copper ores and concentrates",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "26040000",
+   "hs6": "260400",
+   "hs6_description": "Nickel ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Nickel ores and concentrates",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "26050000",
+   "hs6": "260500",
+   "hs6_description": "Cobalt ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Cobalt ores and concentrates",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "2606",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "Aluminium ores and concentrates.",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "260600",
+   "hs6": "260600",
+   "hs6_description": "Aluminium ores and concentrates",
    "level": 6,
    "chapter": "26",
    "description": "Aluminium ores and concentrates :",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "26060010",
+   "hs6": "260600",
+   "hs6_description": "Aluminium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Bauxite (natural), not calcined",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "26060020",
+   "hs6": "260600",
+   "hs6_description": "Aluminium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Bauxite (natural), calcined",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "26060090",
+   "hs6": "260600",
+   "hs6_description": "Aluminium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Other aluminium ores and concentrates",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "26070000",
+   "hs6": "260700",
+   "hs6_description": "Lead ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Lead ores and concentrates",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "26080000",
+   "hs6": "260800",
+   "hs6_description": "Zinc ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Zinc ores and concentrates",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "26090000",
+   "hs6": "260900",
+   "hs6_description": "Tin ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Tin ores and concentrates.",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "2610",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "CHROMIUM ORES AND CONCENTRATES",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "261000",
+   "hs6": "261000",
+   "hs6_description": "Chromium ores and concentrates",
    "level": 6,
    "chapter": "26",
    "description": "Chromium ores and concentrates.",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "26100010",
+   "hs6": "261000",
+   "hs6_description": "Chromium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Chrome ore lumps, containing 47percent Cr2O3 and above",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "26100020",
+   "hs6": "261000",
+   "hs6_description": "Chromium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Chrome ore lumps, containing 40percent or more but less than 47percent Cr2O3",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "26100030",
+   "hs6": "261000",
+   "hs6_description": "Chromium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Chrome ore lumps below 40percent Cr2O3",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "26100040",
+   "hs6": "261000",
+   "hs6_description": "Chromium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Chrome ore friable and concentrates fixes containing 47percent Cr2O3 and above",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "26100090",
+   "hs6": "261000",
+   "hs6_description": "Chromium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "26110000",
+   "hs6": "261100",
+   "hs6_description": "Tungsten ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Tungsten ores and concentrates",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "2612",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "Uranium or thorium ores and concentrates.",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "26121000",
+   "hs6": "261210",
+   "hs6_description": "Uranium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Uranium ores and concentrates",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "26122000",
+   "hs6": "261220",
+   "hs6_description": "Thorium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Thorium ores and concentrates",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "2613",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "Molybdenum ores and concentrates.",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "26131000",
+   "hs6": "261310",
+   "hs6_description": "Molybdenum ores and concentrates; roasted",
    "level": 8,
    "chapter": "26",
    "description": "Roasted",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "26139000",
+   "hs6": "261390",
+   "hs6_description": "Molybdenum ores and concentrates; other than roasted",
    "level": 8,
    "chapter": "26",
    "description": "Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "2614",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "Titanium ores and concentrates.",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "261400",
+   "hs6": "261400",
+   "hs6_description": "Titanium ores and concentrates",
    "level": 6,
    "chapter": "26",
    "description": "Titanium ores and concentrates :",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "26140010",
+   "hs6": "261400",
+   "hs6_description": "Titanium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Ilmenite, unprocessed",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "26140020",
+   "hs6": "261400",
+   "hs6_description": "Titanium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Ilmenite, upgraded (beneficiated ilmenite including ilmenite ground)",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "26140031",
+   "hs6": "261400",
+   "hs6_description": "Titanium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Rutile: ---- Rare earth oxides including rutile sand",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "26140039",
+   "hs6": "261400",
+   "hs6_description": "Titanium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Rutile: ----Other",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "26140090",
+   "hs6": "261400",
+   "hs6_description": "Titanium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "2615",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "Niobium, tantalum, vanadium or zirconium ores and concentrates.",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "261510",
+   "hs6": "261510",
+   "hs6_description": "Zirconium ores and concentrates",
    "level": 6,
    "chapter": "26",
    "description": "Zirconium ores and concentrates",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "26151010",
+   "hs6": "261510",
+   "hs6_description": "Zirconium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "--- Hafnium",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "26151090",
+   "hs6": "261510",
+   "hs6_description": "Zirconium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "--- Other",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "261590",
+   "hs6": "261590",
+   "hs6_description": "Niobium, tantalum, vanadium ores and concentrates",
    "level": 6,
    "chapter": "26",
    "description": "Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "26159010",
+   "hs6": "261590",
+   "hs6_description": "Niobium, tantalum, vanadium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Vanadium ores and concentrates",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "26159020",
+   "hs6": "261590",
+   "hs6_description": "Niobium, tantalum, vanadium ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Niobium tantalum ores and concentrates",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "2616",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "Precious metal ores and concentrates.",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "26161000",
+   "hs6": "261610",
+   "hs6_description": "Silver ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Silver ores and concentrates",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "261690",
+   "hs6": "261690",
+   "hs6_description": "Precious metal ores and concentrates; (excluding silver)",
    "level": 6,
    "chapter": "26",
    "description": "Other",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "26169010",
+   "hs6": "261690",
+   "hs6_description": "Precious metal ores and concentrates; (excluding silver)",
    "level": 8,
    "chapter": "26",
    "description": "Gold ores and concentrates",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "26169090",
+   "hs6": "261690",
+   "hs6_description": "Precious metal ores and concentrates; (excluding silver)",
    "level": 8,
    "chapter": "26",
    "description": "Other",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "2617",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "Other ores and concentrates.",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "26171000",
+   "hs6": "261710",
+   "hs6_description": "Antimony ores and concentrates",
    "level": 8,
    "chapter": "26",
    "description": "Antimony ores and concentrates",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "26179000",
+   "hs6": "261790",
+   "hs6_description": "Ores and concentrates n.e.c. in chapter 26; other than antimony",
    "level": 8,
    "chapter": "26",
    "description": "Other",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "26180000",
+   "hs6": "261800",
+   "hs6_description": "Slag, granulated (slag sand); from the manufacture or iron or steel",
    "level": 8,
    "chapter": "26",
    "description": "Granulated slag (slag sand) from the manufacture of iron or steel",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "2619",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel.",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "261900",
+   "hs6": "261900",
+   "hs6_description": "Slag, dross; (other than granulated slag), scalings and other waste from the manufacture of iron or steel",
    "level": 6,
    "chapter": "26",
    "description": "Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel :",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "26190010",
+   "hs6": "261900",
+   "hs6_description": "Slag, dross; (other than granulated slag), scalings and other waste from the manufacture of iron or steel",
    "level": 8,
    "chapter": "26",
    "description": "Converted slag (scull) of blast furnace",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "26190090",
+   "hs6": "261900",
+   "hs6_description": "Slag, dross; (other than granulated slag), scalings and other waste from the manufacture of iron or steel",
    "level": 8,
    "chapter": "26",
    "description": "Other",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "2620",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "Slag, ash and residues (other than from the manufacture of iron or steel) containing metals, arsenic or their compounds.",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "26201100",
+   "hs6": "262011",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly zinc, hard zinc spelter",
    "level": 8,
    "chapter": "26",
    "description": "Containing mainly zinc : -- Hard zinc spelter",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "262019",
+   "hs6": "262019",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly zinc, other than hard zinc spelter",
    "level": 6,
    "chapter": "26",
    "description": "Containing mainly zinc : -- Other",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "26201910",
+   "hs6": "262019",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly zinc, other than hard zinc spelter",
    "level": 8,
    "chapter": "26",
    "description": "Zinc dross",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "26201990",
+   "hs6": "262019",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly zinc, other than hard zinc spelter",
    "level": 8,
    "chapter": "26",
    "description": "Other",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "26202100",
+   "hs6": "262021",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly lead; leaded gasoline sludges and leaded anti-knock compound sludges",
    "level": 8,
    "chapter": "26",
    "description": "Containing mainly lead : -- Leaded gasoline sludges and leaded anti-knock compound sludges",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "262029",
+   "hs6": "262029",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly lead; excluding leaded gasoline sludges and leaded anti-knock compound sludges",
    "level": 6,
    "chapter": "26",
    "description": "Containing mainly lead : -- Other",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "26202910",
+   "hs6": "262029",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly lead; excluding leaded gasoline sludges and leaded anti-knock compound sludges",
    "level": 8,
    "chapter": "26",
    "description": "Lead dross",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "26202990",
+   "hs6": "262029",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly lead; excluding leaded gasoline sludges and leaded anti-knock compound sludges",
    "level": 8,
    "chapter": "26",
    "description": "Other",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "262030",
+   "hs6": "262030",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly copper",
    "level": 6,
    "chapter": "26",
    "description": "Containing mainly copper",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "26203010",
+   "hs6": "262030",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly copper",
    "level": 8,
    "chapter": "26",
    "description": "Brass dross",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "26203090",
+   "hs6": "262030",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly copper",
    "level": 8,
    "chapter": "26",
    "description": "Other",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "262040",
+   "hs6": "262040",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly aluminium",
    "level": 6,
    "chapter": "26",
    "description": "Containing mainly aluminium",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "26204010",
+   "hs6": "262040",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly aluminium",
    "level": 8,
    "chapter": "26",
    "description": "Aluminum dross",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "26204090",
+   "hs6": "262040",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly aluminium",
    "level": 8,
    "chapter": "26",
    "description": "Other",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "26206000",
+   "hs6": "262060",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing arsenic, mercury, thallium or their mixtures, of a kind used for the extraction of arsenic or those metals or for the manufacture of their chemical compounds",
    "level": 8,
    "chapter": "26",
    "description": "Containing arsenic, mercury, thallium or their mixtures, of a kind used for the extraction of arsenic or those metals or for the manufacture of their chemical compounds",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "26209100",
+   "hs6": "262091",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing antimony, beryllium, cadmium, chromium or their mixtures",
    "level": 8,
    "chapter": "26",
    "description": "Other : -- Containing antimony, beryllium, cadmium, chromium or their mixtures",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "26209900",
+   "hs6": "262099",
+   "hs6_description": "Slag, ash and residues; (not from the manufacture of iron or steel), containing mainly metals or their compounds, n.e.c. in heading no. 2620",
    "level": 8,
    "chapter": "26",
    "description": "Other : --Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "2621",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "26",
    "description": "Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste.",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "26211000",
+   "hs6": "262110",
+   "hs6_description": "Slag and ash; ash and residues from the incineration of municipal waste",
    "level": 8,
    "chapter": "26",
    "description": "Ash and residues from the incineration of municipal waste",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "26219000",
+   "hs6": "262190",
+   "hs6_description": "Slag and ash n.e.c. in chapter 26; including seaweed ash (kelp) but excluding ash and residues from the incineration of municipal waste",
    "level": 8,
    "chapter": "26",
    "description": "Other",

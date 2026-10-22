@@ -1,44 +1,44 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-50010000,8,50,Silk-worm cocoons suitable for reeling.,Free,,,,,2026-10-22
-5002,4,50,Raw silk (not thrown).,,,,,,2026-10-22
-500200,6,50,Raw silk (not thrown) :,,,,,,2026-10-22
-50020010,8,50,Mulberry raw silk,Free,,,,,2026-10-22
-50020020,8,50,Mulberry dupion silk,Free,,,,,2026-10-22
-50020030,8,50,Non-mulberry silk,Free,,,,,2026-10-22
-5003,4,50,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock).",,,,,,2026-10-22
-500300,6,50,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garneted stock):",,,,,,2026-10-22
-50030010,8,50,Mulberry silk waste,Free,,,,,2026-10-22
-50030020,8,50,Tussar silk waste,Free,,,,,2026-10-22
-50030030,8,50,Eri waste,Free,,,,,2026-10-22
-50030040,8,50,Munga waste,Free,,,,,2026-10-22
-50030090,8,50,Other,Free,,,,,2026-10-22
-5004,4,50,Silk yarn (other than yarn spun from silk waste) not put up for retail sale.,,,,,,2026-10-22
-500400,6,50,Silk yarn (other than yarn spun from silk waste) not put up for retail sale :,,,,,,2026-10-22
-50040010,8,50,100percent mulberry dupion silk yarn,Free,,,,,2026-10-22
-50040090,8,50,Other,Free,,,,,2026-10-22
-5005,4,50,"Yarn spun from silk waste, not put up for retail sale.",,,,,,2026-10-22
-500500,6,50,"Yarn spun from silk waste, not put up for retail sale :",,,,,,2026-10-22
-50050011,8,50,Containing 85percent or more by weight of silk waste: ---- Other than noil silk,Free,,,,,2026-10-22
-50050012,8,50,Containing 85percent or more by weight of silk waste: ---- From noil silk,Free,,,,,2026-10-22
-50050021,8,50,Containing less than 85percent by weight of silk: ---- Other than noil silk,Free,,,,,2026-10-22
-50050022,8,50,Containing less than 85percent by weight of silk: ---- From noil silk,Free,,,,,2026-10-22
-5006,4,50,"Silk yarn and yarn spun from silk waste, put up for retail sale; silk-worm gut.",,,,,,2026-10-22
-500600,6,50,"Silk yarn and yarn spun from silk waste, put up for retail sale; silk worm gut :",,,,,,2026-10-22
-50060011,8,50,Silk embroidery thread,Free,,,,,2026-10-22
-50060019,8,50,Other,Free,,,,,2026-10-22
-50060021,8,50,Yarn spun from silk waste containing 85percent or more by weight of silk: ---- Silk embroidery thread,Free,,,,,2026-10-22
-50060029,8,50,Yarn spun from silk waste containing 85percent or more by weight of silk: ---- Other,Free,,,,,2026-10-22
-50060031,8,50,Spun from silk waste other than noil silk,Free,,,,,2026-10-22
-50060032,8,50,Yarn spun from noil silk,Free,,,,,2026-10-22
-50060033,8,50,Silk embroidery thread,Free,,,,,2026-10-22
-50060039,8,50,Other,Free,,,,,2026-10-22
-50060090,8,50,Other,Free,,,,,2026-10-22
-5007,4,50,Woven fabrics of silk or of silk waste.,,,,,,2026-10-22
-50071000,8,50,Fabrics of noil silk,Free,,,,,2026-10-22
-500720,6,50,"Other fabrics, containing 85 percent or more by weight of silk or of silk waste other than noil silk",,,,,,2026-10-22
-50072010,8,50,Sarees,Free,,,,,2026-10-22
-50072090,8,50,Other,Free,,,,,2026-10-22
-500790,6,50,Other,,,,,,2026-10-22
-50079000,8,50,Other fabrics,Free,,,,,2026-10-22
-50079010,8,50,of Handloom woven,Free,,,,,2026-10-22
-50079090,8,50,Other Fabrics,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+50010000,500100,Silk; silk-worm cocoons suitable for reeling,8,50,Silk-worm cocoons suitable for reeling.,Free,,,,,2026-10-22
+5002,,,4,50,Raw silk (not thrown).,,,,,,2026-10-22
+500200,500200,Silk; raw silk (not thrown),6,50,Raw silk (not thrown) :,,,,,,2026-10-22
+50020010,500200,Silk; raw silk (not thrown),8,50,Mulberry raw silk,Free,,,,,2026-10-22
+50020020,500200,Silk; raw silk (not thrown),8,50,Mulberry dupion silk,Free,,,,,2026-10-22
+50020030,500200,Silk; raw silk (not thrown),8,50,Non-mulberry silk,Free,,,,,2026-10-22
+5003,,,4,50,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock).",,,,,,2026-10-22
+500300,500300,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",6,50,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garneted stock):",,,,,,2026-10-22
+50030010,500300,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",8,50,Mulberry silk waste,Free,,,,,2026-10-22
+50030020,500300,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",8,50,Tussar silk waste,Free,,,,,2026-10-22
+50030030,500300,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",8,50,Eri waste,Free,,,,,2026-10-22
+50030040,500300,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",8,50,Munga waste,Free,,,,,2026-10-22
+50030090,500300,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",8,50,Other,Free,,,,,2026-10-22
+5004,,,4,50,Silk yarn (other than yarn spun from silk waste) not put up for retail sale.,,,,,,2026-10-22
+500400,500400,"Silk; yarn (other than yarn spun from silk waste), not put up for retail sale",6,50,Silk yarn (other than yarn spun from silk waste) not put up for retail sale :,,,,,,2026-10-22
+50040010,500400,"Silk; yarn (other than yarn spun from silk waste), not put up for retail sale",8,50,100percent mulberry dupion silk yarn,Free,,,,,2026-10-22
+50040090,500400,"Silk; yarn (other than yarn spun from silk waste), not put up for retail sale",8,50,Other,Free,,,,,2026-10-22
+5005,,,4,50,"Yarn spun from silk waste, not put up for retail sale.",,,,,,2026-10-22
+500500,500500,"Silk; yarn spun from silk waste, not put up for retail sale",6,50,"Yarn spun from silk waste, not put up for retail sale :",,,,,,2026-10-22
+50050011,500500,"Silk; yarn spun from silk waste, not put up for retail sale",8,50,Containing 85percent or more by weight of silk waste: ---- Other than noil silk,Free,,,,,2026-10-22
+50050012,500500,"Silk; yarn spun from silk waste, not put up for retail sale",8,50,Containing 85percent or more by weight of silk waste: ---- From noil silk,Free,,,,,2026-10-22
+50050021,500500,"Silk; yarn spun from silk waste, not put up for retail sale",8,50,Containing less than 85percent by weight of silk: ---- Other than noil silk,Free,,,,,2026-10-22
+50050022,500500,"Silk; yarn spun from silk waste, not put up for retail sale",8,50,Containing less than 85percent by weight of silk: ---- From noil silk,Free,,,,,2026-10-22
+5006,,,4,50,"Silk yarn and yarn spun from silk waste, put up for retail sale; silk-worm gut.",,,,,,2026-10-22
+500600,500600,"Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",6,50,"Silk yarn and yarn spun from silk waste, put up for retail sale; silk worm gut :",,,,,,2026-10-22
+50060011,500600,"Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",8,50,Silk embroidery thread,Free,,,,,2026-10-22
+50060019,500600,"Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",8,50,Other,Free,,,,,2026-10-22
+50060021,500600,"Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",8,50,Yarn spun from silk waste containing 85percent or more by weight of silk: ---- Silk embroidery thread,Free,,,,,2026-10-22
+50060029,500600,"Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",8,50,Yarn spun from silk waste containing 85percent or more by weight of silk: ---- Other,Free,,,,,2026-10-22
+50060031,500600,"Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",8,50,Spun from silk waste other than noil silk,Free,,,,,2026-10-22
+50060032,500600,"Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",8,50,Yarn spun from noil silk,Free,,,,,2026-10-22
+50060033,500600,"Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",8,50,Silk embroidery thread,Free,,,,,2026-10-22
+50060039,500600,"Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",8,50,Other,Free,,,,,2026-10-22
+50060090,500600,"Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",8,50,Other,Free,,,,,2026-10-22
+5007,,,4,50,Woven fabrics of silk or of silk waste.,,,,,,2026-10-22
+50071000,500710,Silk; woven fabrics of noil silk,8,50,Fabrics of noil silk,Free,,,,,2026-10-22
+500720,500720,"Silk; woven fabrics, containing 85% or more by weight of silk or of silk waste other than noil silk",6,50,"Other fabrics, containing 85 percent or more by weight of silk or of silk waste other than noil silk",,,,,,2026-10-22
+50072010,500720,"Silk; woven fabrics, containing 85% or more by weight of silk or of silk waste other than noil silk",8,50,Sarees,Free,,,,,2026-10-22
+50072090,500720,"Silk; woven fabrics, containing 85% or more by weight of silk or of silk waste other than noil silk",8,50,Other,Free,,,,,2026-10-22
+500790,500790,Silk; woven fabrics n.e.c. in heading no. 5007,6,50,Other,,,,,,2026-10-22
+50079000,500790,Silk; woven fabrics n.e.c. in heading no. 5007,8,50,Other fabrics,Free,,,,,2026-10-22
+50079010,500790,Silk; woven fabrics n.e.c. in heading no. 5007,8,50,of Handloom woven,Free,,,,,2026-10-22
+50079090,500790,Silk; woven fabrics n.e.c. in heading no. 5007,8,50,Other Fabrics,Free,,,,,2026-10-22

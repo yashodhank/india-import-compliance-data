@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "7901",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "79",
    "description": "Unwrought zinc.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "79011100",
+   "hs6": "790111",
+   "hs6_description": "Zinc; unwrought, (not alloyed), containing by weight 99.99% or more of zinc",
    "level": 8,
    "chapter": "79",
    "description": "Zinc, not alloyed : -- Containing by weight 99.99 percent or more of zinc",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "79011200",
+   "hs6": "790112",
+   "hs6_description": "Zinc; unwrought, (not alloyed), containing by weight less than 99.99% of zinc",
    "level": 8,
    "chapter": "79",
    "description": "Zinc, not alloyed : -- Containing by weight less than 99.99 percent of zinc",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "790120",
+   "hs6": "790120",
+   "hs6_description": "Zinc; unwrought, alloys",
    "level": 6,
    "chapter": "79",
    "description": "Zinc alloys",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "79012010",
+   "hs6": "790120",
+   "hs6_description": "Zinc; unwrought, alloys",
    "level": 8,
    "chapter": "79",
    "description": "Mozak or alloys of zinc and aluminium containing not less than 94percent by weight of zinc",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "79012090",
+   "hs6": "790120",
+   "hs6_description": "Zinc; unwrought, alloys",
    "level": 8,
    "chapter": "79",
    "description": "Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "7902",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "79",
    "description": "Zinc waste and scrap",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "790200",
+   "hs6": "790200",
+   "hs6_description": "Zinc; waste and scrap",
    "level": 6,
    "chapter": "79",
    "description": "Zinc waste and scrap :",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "79020010",
+   "hs6": "790200",
+   "hs6_description": "Zinc; waste and scrap",
    "level": 8,
    "chapter": "79",
    "description": "Zinc scrap, namely the following: Old zinc die cast scrap covered by ISRI Code word Saves; New zinc die cast scrap covered by ISRI Code word Scabs; New plated zinc die cast scrap covered by ISRI Code word Scope; Zinc die cast automotive grills covered by ISRI Code word Scoot; Old scrap zinc covered by ISRI Code word Score; New zinc clippings covered by ISRI Code word Screen; Crushed clean sorted fragmentizers die cast scrap, as produced from automobile fragmentizers covered by ISRI Code word Scribe; Unsorted zinc die cast scrap produced from automobile fragmentizers containing about 55percent zinc-bearing scrap covered by ISRI code word Scroll",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "79020090",
+   "hs6": "790200",
+   "hs6_description": "Zinc; waste and scrap",
    "level": 8,
    "chapter": "79",
    "description": "Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "7903",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "79",
    "description": "Zinc dust, powders and flakes.",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "79031000",
+   "hs6": "790310",
+   "hs6_description": "Zinc dust",
    "level": 8,
    "chapter": "79",
    "description": "Zinc dust",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "79039000",
+   "hs6": "790390",
+   "hs6_description": "Zinc; powders and flakes",
    "level": 8,
    "chapter": "79",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "7904",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "79",
    "description": "Zinc bars, rods, profiles and wire.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "790400",
+   "hs6": "790400",
+   "hs6_description": "Zinc; bars, rods, profiles and wire",
    "level": 6,
    "chapter": "79",
    "description": "Zinc bars, rods, profiles and wire :",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "79040011",
+   "hs6": "790400",
+   "hs6_description": "Zinc; bars, rods, profiles and wire",
    "level": 8,
    "chapter": "79",
    "description": "Bars and rods: ----Hollow bars",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "79040012",
+   "hs6": "790400",
+   "hs6_description": "Zinc; bars, rods, profiles and wire",
    "level": 8,
    "chapter": "79",
    "description": "Bars and rods: ----Rods, including wire rods",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "79040019",
+   "hs6": "790400",
+   "hs6_description": "Zinc; bars, rods, profiles and wire",
    "level": 8,
    "chapter": "79",
    "description": "Bars and rods: ----Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "79040021",
+   "hs6": "790400",
+   "hs6_description": "Zinc; bars, rods, profiles and wire",
    "level": 8,
    "chapter": "79",
    "description": "Profiles: ----Hollow",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "79040022",
+   "hs6": "790400",
+   "hs6_description": "Zinc; bars, rods, profiles and wire",
    "level": 8,
    "chapter": "79",
    "description": "Profiles: ----Angles, shapes and sections",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "79040029",
+   "hs6": "790400",
+   "hs6_description": "Zinc; bars, rods, profiles and wire",
    "level": 8,
    "chapter": "79",
    "description": "Profiles: ----Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "79040030",
+   "hs6": "790400",
+   "hs6_description": "Zinc; bars, rods, profiles and wire",
    "level": 8,
    "chapter": "79",
    "description": "Profiles: ----Wire",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "7905",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "79",
    "description": "Zinc plates, sheets, strip and foil.",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "790500",
+   "hs6": "790500",
+   "hs6_description": "Zinc; plates, sheets, strip and foil",
    "level": 6,
    "chapter": "79",
    "description": "Zinc plates, sheets, strip and foil :",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "79050010",
+   "hs6": "790500",
+   "hs6_description": "Zinc; plates, sheets, strip and foil",
    "level": 8,
    "chapter": "79",
    "description": "Calots",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "79050020",
+   "hs6": "790500",
+   "hs6_description": "Zinc; plates, sheets, strip and foil",
    "level": 8,
    "chapter": "79",
    "description": "Plates",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "79050030",
+   "hs6": "790500",
+   "hs6_description": "Zinc; plates, sheets, strip and foil",
    "level": 8,
    "chapter": "79",
    "description": "Sheets, strip and circles",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "79050040",
+   "hs6": "790500",
+   "hs6_description": "Zinc; plates, sheets, strip and foil",
    "level": 8,
    "chapter": "79",
    "description": "Foil",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "7907",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "79",
    "description": "Other articles of zinc.",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "790700",
+   "hs6": "790700",
+   "hs6_description": "Zinc; articles n.e.c. in chapter 79",
    "level": 6,
    "chapter": "79",
    "description": "Other articles of zinc :",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "79070010",
+   "hs6": "790700",
+   "hs6_description": "Zinc; articles n.e.c. in chapter 79",
    "level": 8,
    "chapter": "79",
    "description": "Sanitary fixtures",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "79070090",
+   "hs6": "790700",
+   "hs6_description": "Zinc; articles n.e.c. in chapter 79",
    "level": 8,
    "chapter": "79",
    "description": "Other",

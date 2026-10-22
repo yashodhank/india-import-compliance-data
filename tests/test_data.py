@@ -20,6 +20,21 @@ def rows(rel):
 class ItchsTest(unittest.TestCase):
     D = 'data/itchs/2022'
 
+    def test_every_hs6_is_in_the_wco_table_or_listed_as_india_specific(self):
+        table = {r['hs6']: r['description'] for r in rows('data/hs6/harmonized-system.csv')}
+        rep = json.load(open(os.path.join(REPO, self.D, 'BUILD-REPORT.json'), encoding='utf-8'))
+        listed = set(rep['hs6_not_in_wco_table'])
+        seen = set()
+        for r in rows(self.D + '/all.csv'):
+            if int(r['level']) == 4:
+                self.assertEqual(('', ''), (r['hs6'], r['hs6_description']), r['hs_code'])
+                continue
+            self.assertEqual(r['hs_code'][:6], r['hs6'])
+            seen.add(r['hs6'])
+            self.assertEqual(table.get(r['hs6'], ''), r['hs6_description'], r['hs_code'])
+        self.assertEqual(listed, {c for c in seen if c not in table})
+        self.assertGreater(len(seen & set(table)), 5000)
+
     def test_ninety_seven_chapters_and_the_build_report_passed(self):
         rep = json.load(open(os.path.join(REPO, self.D, 'BUILD-REPORT.json'), encoding='utf-8'))
         self.assertEqual(97, rep['chapters'])

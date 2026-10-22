@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "4601",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "46",
    "description": "Plaits and similar products of plaiting materials, whether or not assembled into strips; plaiting materials, plaits and similar products of plaiting materials, bound together in parallel strands or woven, in sheet form, whether or not being finished articles (for example, mats, matting, screens).",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "46012100",
+   "hs6": "460121",
+   "hs6_description": "Plaiting materials, plaits and similar products of plaiting materials; mats, matting and screens, of bamboo",
    "level": 8,
    "chapter": "46",
    "description": "Mats, matting and screens of vegetable materials : -- Of bamboo",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "46012200",
+   "hs6": "460122",
+   "hs6_description": "Plaiting materials, plaits and similar products of plaiting materials; mats, matting and screens, of rattan",
    "level": 8,
    "chapter": "46",
    "description": "Mats, matting and screens of vegetable materials : -- Of rattan",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "46012900",
+   "hs6": "460129",
+   "hs6_description": "Plaiting materials, plaits and similar products of plaiting materials; mats, matting and screens, of vegetable materials other than bamboo or rattan",
    "level": 8,
    "chapter": "46",
    "description": "Mats, matting and screens of vegetable materials : -- Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "46019200",
+   "hs6": "460192",
+   "hs6_description": "Plaiting materials, plaits and similar products of plaiting materials; (not mats, matting or screens), of bamboo",
    "level": 8,
    "chapter": "46",
    "description": "Other : -- Of bamboo",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "46019300",
+   "hs6": "460193",
+   "hs6_description": "Plaiting materials, plaits and similar products of plaiting materials; (not mats, matting or screens), of rattan",
    "level": 8,
    "chapter": "46",
    "description": "Other : -- Of rattan",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "46019400",
+   "hs6": "460194",
+   "hs6_description": "Plaiting materials, plaits and similar products of plaiting materials; (not mats, matting or screens), of vegetable materials other than bamboo or rattan",
    "level": 8,
    "chapter": "46",
    "description": "Other : -- Of other vegetable materials",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "46019900",
+   "hs6": "460199",
+   "hs6_description": "Plaiting materials, plaits and similar products of plaiting materials; products of non-vegetable materials",
    "level": 8,
    "chapter": "46",
    "description": "Other : -- Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "4602",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "46",
    "description": "Basketwork, wickerwork and other articles, made directly to shape from plaiting materials or made up from goods of heading 46.01; articles of loofah.",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "46021100",
+   "hs6": "460211",
+   "hs6_description": "Basketwork, wickerwork and other articles; of bamboo, made directly to shape from plaiting materials or made up from goods of heading no. 4601",
    "level": 8,
    "chapter": "46",
    "description": "Of vegetable materials : -- Of bamboo",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "46021200",
+   "hs6": "460212",
+   "hs6_description": "Basketwork, wickerwork and other articles; of rattan, made directly to shape from plaiting materials or made up from goods of heading no. 4601",
    "level": 8,
    "chapter": "46",
    "description": "Of vegetable materials : -- Of rattan",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "460219",
+   "hs6": "460219",
+   "hs6_description": "Basketwork, wickerwork and other articles; of vegetable materials (not bamboo or rattan), made directly to shape from plaiting materials or made up from goods of heading no. 4601; articles of loofah",
    "level": 6,
    "chapter": "46",
    "description": "Of vegetable materials : -- Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "46021911",
+   "hs6": "460219",
+   "hs6_description": "Basketwork, wickerwork and other articles; of vegetable materials (not bamboo or rattan), made directly to shape from plaiting materials or made up from goods of heading no. 4601; articles of loofah",
    "level": 8,
    "chapter": "46",
    "description": "Of palm leaves: ---- Baskets",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "46021919",
+   "hs6": "460219",
+   "hs6_description": "Basketwork, wickerwork and other articles; of vegetable materials (not bamboo or rattan), made directly to shape from plaiting materials or made up from goods of heading no. 4601; articles of loofah",
    "level": 8,
    "chapter": "46",
    "description": "Of palm leaves: ---- Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "46021990",
+   "hs6": "460219",
+   "hs6_description": "Basketwork, wickerwork and other articles; of vegetable materials (not bamboo or rattan), made directly to shape from plaiting materials or made up from goods of heading no. 4601; articles of loofah",
    "level": 8,
    "chapter": "46",
    "description": "Of palm leaves: ---- Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "46029000",
+   "hs6": "460290",
+   "hs6_description": "Basketwork, wickerwork and other articles; of non-vegetable materials, made directly to shape from plaiting materials or made up from goods of heading no. 4601",
    "level": 8,
    "chapter": "46",
    "description": "Other",

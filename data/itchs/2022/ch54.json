@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "5401",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "54",
    "description": "Sewing thread of man-made filaments, whether or not put up for retail sale.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "54011000",
+   "hs6": "540110",
+   "hs6_description": "Sewing thread; of synthetic filaments, whether or not put up for retail sale",
    "level": 8,
    "chapter": "54",
    "description": "of synthetic filaments",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "54012000",
+   "hs6": "540120",
+   "hs6_description": "Sewing thread; of artificial filaments, whether or not put up for retail sale",
    "level": 8,
    "chapter": "54",
    "description": "of Artificial filaments",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "5402",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "54",
    "description": "Synthetic filament yarn (other than sewing thread), not put up for retail sale, including synthetic monofilament of less than 67 decitex.",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "54021100",
+   "hs6": "540211",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity yarn of nylon or other polyamides, textured or not; of aramids, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "High tenacity yarn of nylon or other polyamides, whether or not textured: -- Of aramids",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "540219",
+   "hs6": "540219",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity nylon or other polyamides, textured or not; other than aramids, not for retail sale, not sewing thread",
    "level": 6,
    "chapter": "54",
    "description": "High tenacity yarn of nylon or Other polyamides, whether or not textured : -- Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "54021910",
+   "hs6": "540219",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity nylon or other polyamides, textured or not; other than aramids, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Nylon tyre yarn",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "54021920",
+   "hs6": "540219",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity nylon or other polyamides, textured or not; other than aramids, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Nylon 66 filament yarn confirming to IS 13464",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "54021990",
+   "hs6": "540219",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity nylon or other polyamides, textured or not; other than aramids, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "540220",
+   "hs6": "540220",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity yarn of polyesters, whether or not textured, not for retail sale, not sewing thread",
    "level": 6,
    "chapter": "54",
    "description": "High tenacity yarn of polyesters, whether or not textured",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "54022010",
+   "hs6": "540220",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity yarn of polyesters, whether or not textured, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Of terylene dacron",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "54022090",
+   "hs6": "540220",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity yarn of polyesters, whether or not textured, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "54023100",
+   "hs6": "540231",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, of nylon or other polyamides, measuring per single yarn not more than 50 decitex, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Textured yarn : -- of nylon or other polyamides, Measuring per single yarn not more than 50 tex",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "54023200",
+   "hs6": "540232",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, of nylon or other polyamides, measuring per single yarn more than 50 decitex, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Textured yarn : -- of nylon or other polyamides, Measuring per single yarn more than 50 tex",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "54023300",
+   "hs6": "540233",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, of polyesters, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Textured yarn : -- Of polyesters",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "54023400",
+   "hs6": "540234",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, of polypropylene, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Textured yarn : -- Of polypropylene",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "540239",
+   "hs6": "540239",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, other than of nylon or other polymides, polyesters, or polypropylene, not for retail sale, not sewing thread",
    "level": 6,
    "chapter": "54",
    "description": "Textured yarn : -- Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "54023910",
+   "hs6": "540239",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, other than of nylon or other polymides, polyesters, or polypropylene, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Polypropylene filament yarn",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "54023920",
+   "hs6": "540239",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, other than of nylon or other polymides, polyesters, or polypropylene, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Acrylic filament yarn",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "54023990",
+   "hs6": "540239",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, other than of nylon or other polymides, polyesters, or polypropylene, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "54024400",
+   "hs6": "540244",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, elastomeric, single, untwisted or twisted 50 turns or less per metre, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Elastomeric",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "54024500",
+   "hs6": "540245",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of nylon or other polymides (not high tenacity or textured), single, untwisted or twisted 50 turns or less per metre, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other, of nylon or other polyamides",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "54024600",
+   "hs6": "540246",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of polyesters (not high tenacity or textured), partially oriented, single, untwisted or twisted 50 turns or less per metre, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other, of polyesters, partially oriented",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "54024700",
+   "hs6": "540247",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), polyesters (not high tenacity or textured), not partially oriented, single, untwisted or twisted 50 turns or less per metre, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other, of polyesters",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "54024800",
+   "hs6": "540248",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of polypropylene (not high tenacity or textured), single, untwisted or twisted 50 turns or less per metre, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other, of polypropylene",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "54024900",
+   "hs6": "540249",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, single, untwisted or twisted 50 turns or less per metre, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "54025100",
+   "hs6": "540251",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of nylon or other polymides (not high tenacity or textured), single, twisted more than 50 turns per metre, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, single, with a twist exceeding 50 turns per metre : -- Of nylon or other polyamides",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "540252",
+   "hs6": "540252",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of polyesters (not high tenacity or textured), single, twisted more than 50 turns per metre, not for retail sale, not sewing thread",
    "level": 6,
    "chapter": "54",
    "description": "Of polyesters",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "54025210",
+   "hs6": "540252",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of polyesters (not high tenacity or textured), single, twisted more than 50 turns per metre, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Polyester yarn-Anti Static Filament",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "54025290",
+   "hs6": "540252",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of polyesters (not high tenacity or textured), single, twisted more than 50 turns per metre, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "54025300",
+   "hs6": "540253",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of polypropylene (not high tenacity or textured), single, twisted more than 50 turns per metre, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, single, with a twist exceeding 50 turns per metre : -- Of polypropylene",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "540259",
+   "hs6": "540259",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, single, twisted more than 50 turns per metre, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",
    "level": 6,
    "chapter": "54",
    "description": "Other yarn, single, with a twist exceeding 50 turns per metre : -- Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "54025900",
+   "hs6": "540259",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, single, twisted more than 50 turns per metre, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, single, with a twist exceeding 50 turns per metre: -- Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "54026100",
+   "hs6": "540261",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of nylon or other polymides (not high tenacity or textured), multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, multiple (folded) or cabled : -- Of nylon or other polyamides",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "54026200",
+   "hs6": "540262",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of polyesters (not high tenacity or textured), multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, multiple (folded) or cabled : -- Of polyesters",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "54026300",
+   "hs6": "540263",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), of polypropylene, other than high tenacity or textured yarn, multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, multiple (folded) or cabled : -- Of polypropylene",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "540269",
+   "hs6": "540269",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",
    "level": 6,
    "chapter": "54",
    "description": "Other yarn, multiple (folded) or cabled : -- Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "54026910",
+   "hs6": "540269",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Polyvinyl acetate filament yarn",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "54026920",
+   "hs6": "540269",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Polyvinyl chloride filament yarn",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "54026930",
+   "hs6": "540269",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Polypropylene filament yarn",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "54026940",
+   "hs6": "540269",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Acrylic filament yarn",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "54026950",
+   "hs6": "540269",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Polytetrafluoroethylene yarn",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "54026960",
+   "hs6": "540269",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Ultra high molecular weight poly ethylene filament yarn conforming to ASTM F2848",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "54026990",
+   "hs6": "540269",
+   "hs6_description": "Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "5403",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "54",
    "description": "Artificial filament yarn (other than sewing thread), not put up for retail sale, including artificial monofilament of less than 67 decitex.",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "540310",
+   "hs6": "540310",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of high tenacity viscose rayon, not for retail sale, not sewing thread",
    "level": 6,
    "chapter": "54",
    "description": "High tenacity yarn of viscose rayon",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "54031010",
+   "hs6": "540310",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of high tenacity viscose rayon, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Viscose rayon tyre yarn - 1,233 decitex",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "54031020",
+   "hs6": "540310",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of high tenacity viscose rayon, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Viscose rayon tyre yarn - 1,833 decitex",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "54031090",
+   "hs6": "540310",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of high tenacity viscose rayon, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "54033100",
+   "hs6": "540331",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), single, untwisted or twisted 120 turns per metre or less, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, single : -- Of viscose rayon, untwisted or with a twist not exceeding 120",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "54033200",
+   "hs6": "540332",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), single, twisted more than 120 turns per metre, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, single : -- Of viscose rayon, with a twist exceeding 120 turns per metre",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "54033300",
+   "hs6": "540333",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, single, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other yarn, single : -- Of cellulose acetate",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "540339",
+   "hs6": "540339",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), single, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",
    "level": 6,
    "chapter": "54",
    "description": "Other",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "54033910",
+   "hs6": "540339",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), single, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Cuprammonium rayon",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "54033990",
+   "hs6": "540339",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), single, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "540341",
+   "hs6": "540341",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 6,
    "chapter": "54",
    "description": "Other yarn, multiple (folded) or cabled : -- Of viscose rayon",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "54034110",
+   "hs6": "540341",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Upto 67 decitex",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "54034120",
+   "hs6": "540341",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Of 83 decitex",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "54034130",
+   "hs6": "540341",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Of 111 decitex, bright",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "54034140",
+   "hs6": "540341",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Of 111 decitex, dull",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "54034150",
+   "hs6": "540341",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Of 133 decitex, bright",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "54034160",
+   "hs6": "540341",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Of 133 decitex, dull",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "54034170",
+   "hs6": "540341",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Of 167 decitex, bright",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "54034180",
+   "hs6": "540341",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Of 167 decitex, dull",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "54034190",
+   "hs6": "540341",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "540342",
+   "hs6": "540342",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 6,
    "chapter": "54",
    "description": "Other yarn, multiple (folded) or cabled : -- Of cellulose acetate",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "54034210",
+   "hs6": "540342",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Acetate rayon filament yarn, 83 decitex",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "54034220",
+   "hs6": "540342",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Acetate rayon filament yarn, 111 decitex",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "54034230",
+   "hs6": "540342",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Acetate rayon filament yarn, 133 decitex",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "54034240",
+   "hs6": "540342",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Acetate rayon filament yarn, 167 decitex",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "54034250",
+   "hs6": "540342",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Acetate rayon filament yarn, 333 decitex",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "54034290",
+   "hs6": "540342",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "540349",
+   "hs6": "540349",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",
    "level": 6,
    "chapter": "54",
    "description": "Other yarn, multiple (folded) or cabled : -- Other",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "54034911",
+   "hs6": "540349",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Cuprammonium filament yarn ---- Of 33 decitex",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "54034912",
+   "hs6": "540349",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Cuprammonium filament yarn ---- Of 44 decitex",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "54034913",
+   "hs6": "540349",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Cuprammonium filament yarn ---- Of 67 decitex",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "54034914",
+   "hs6": "540349",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Cuprammonium filament yarn ---- Of 83 decitex",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "54034915",
+   "hs6": "540349",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Cuprammonium filament yarn ---- Of 89 decitex",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "54034919",
+   "hs6": "540349",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Cuprammonium filament yarn ---- Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "54034990",
+   "hs6": "540349",
+   "hs6_description": "Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",
    "level": 8,
    "chapter": "54",
    "description": "Cuprammonium filament yarn ---- Other",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "5404",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "54",
    "description": "Synthetic monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of synthetic textile materials of an apparent width not exceeding 5 mm.",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "54041100",
+   "hs6": "540411",
+   "hs6_description": "Elastomeric monofilament; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm",
    "level": 8,
    "chapter": "54",
    "description": "Monofilament : -- Elastomeric",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "54041200",
+   "hs6": "540412",
+   "hs6_description": "Monofilament of polypropylene; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm",
    "level": 8,
    "chapter": "54",
    "description": "Monofilament : -- Other, of polypropylene",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "540419",
+   "hs6": "540419",
+   "hs6_description": "Monofilament n.e.c. in heading no 5404; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm",
    "level": 6,
    "chapter": "54",
    "description": "Monofilament : -- Other",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "54041910",
+   "hs6": "540419",
+   "hs6_description": "Monofilament n.e.c. in heading no 5404; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm",
    "level": 8,
    "chapter": "54",
    "description": "Catgut imitation of synthetic yarn, non-sterile",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "54041920",
+   "hs6": "540419",
+   "hs6_description": "Monofilament n.e.c. in heading no 5404; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm",
    "level": 8,
    "chapter": "54",
    "description": "Strip and the like of synthetic fibre material",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "54041990",
+   "hs6": "540419",
+   "hs6_description": "Monofilament n.e.c. in heading no 5404; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "540490",
+   "hs6": "540490",
+   "hs6_description": "Filament, synthetic; strip and the like (e.g.. artificial straw), of synthetic textile materials of an apparent width not exceeding 5mm",
    "level": 6,
    "chapter": "54",
    "description": "Other",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "54049010",
+   "hs6": "540490",
+   "hs6_description": "Filament, synthetic; strip and the like (e.g.. artificial straw), of synthetic textile materials of an apparent width not exceeding 5mm",
    "level": 8,
    "chapter": "54",
    "description": "Catgut imitation of synthetic yarn, non-sterile",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "54049020",
+   "hs6": "540490",
+   "hs6_description": "Filament, synthetic; strip and the like (e.g.. artificial straw), of synthetic textile materials of an apparent width not exceeding 5mm",
    "level": 8,
    "chapter": "54",
    "description": "Strip and the like of synthetic fibre materials",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "54049090",
+   "hs6": "540490",
+   "hs6_description": "Filament, synthetic; strip and the like (e.g.. artificial straw), of synthetic textile materials of an apparent width not exceeding 5mm",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "54050000",
+   "hs6": "540500",
+   "hs6_description": "Monofilament, synthetic; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm, strip and the like (e.g. artificial straw), of synthetic textile materials with width not over 5mm",
    "level": 8,
    "chapter": "54",
    "description": "Artificial monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of artificial textile materials of an apparent width not exceeding 5 mm.",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "540600",
+   "hs6": "540600",
+   "hs6_description": "Man-made filament yarn (other than sewing thread), put up for retail sale",
    "level": 6,
    "chapter": "54",
    "description": "MAN-MADE FILAMENT YARN (OTHER THAN SEWING THREAD), PUT UP FOR RETAIL SALE",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "54060010",
+   "hs6": "540600",
+   "hs6_description": "Man-made filament yarn (other than sewing thread), put up for retail sale",
    "level": 8,
    "chapter": "54",
    "description": "Synthetic filament yarn",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "54060020",
+   "hs6": "540600",
+   "hs6_description": "Man-made filament yarn (other than sewing thread), put up for retail sale",
    "level": 8,
    "chapter": "54",
    "description": "Artificial filament yarn",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "5407",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "54",
    "description": "Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials of heading 54.04.",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "540710",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 6,
    "chapter": "54",
    "description": "Woven fabrics obtained from high tenacity yarn of nylon or other polyamides or of polyesters",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "54071011",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Unbleached: ----Parachute fabric",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "54071012",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Unbleached: ----Tent fabrics",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "54071013",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Unbleached: ----Nylon furnishing fabrics",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "54071014",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Unbleached: ----Umbrella cloth panel fabrics",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "54071015",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Unbleached: ----Other nylon and polyamide fabrics (filament)",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "54071016",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Unbleached: ----Polyester suitings",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "54071019",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Unbleached: ----Other polyester fabrics",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "54071021",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Parachute fabrics",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "54071022",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Tent fabrics",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "54071023",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Nylon furnishing fabrics",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "54071024",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Umbrella cloth panel fabrics",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "54071025",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Other nylon and polyamide fabrics of filament yarn",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "54071026",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Polyester suitings",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "54071029",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "54071031",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Dyed: ---- Parachute Fabrics",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "54071032",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Dyed: ---- Tent fabrics",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "54071033",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Dyed: ---- Nylon furnishing fabrics",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "54071034",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Dyed: ---- Umbrella cloth panel fabrics",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "54071035",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Dyed: ---- Other nylon and polyamide fabrics (filament)",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "54071036",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Dyed: ---- Polyester suitings",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "54071039",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Dyed: ---- Other",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "54071041",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Printed: ---- Parachute fabrics",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "54071042",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Printed: ---- Tent fabrics",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "54071043",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Printed: ---- Nylon furnishing fabrics",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "54071044",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Printed: ---- Umbrella cloth panel fabrics",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "54071045",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Printed: ---- Other nylon and polyamide fabrics (filament)",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "54071046",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Printed: ---- Polyester suitings",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "54071049",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Printed: ---- Other",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "54071091",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Other: ---- Parachute fabrics",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "54071092",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Other: ---- Tent fabrics",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "54071093",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Other: ---- Nylon furnishing fabrics",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "54071094",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Other: ---- Umbrella cloth panel fabrics",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "54071095",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Other: ---- Other nylon and polyamide fabrics of filament yarn",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "54071096",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Other: ---- Polyester suitings",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "54071099",
+   "hs6": "540710",
+   "hs6_description": "Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",
    "level": 8,
    "chapter": "54",
    "description": "Other: ---- Other",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "540720",
+   "hs6": "540720",
+   "hs6_description": "Fabrics, woven; from strip or the like, of synthetic textile materials",
    "level": 6,
    "chapter": "54",
    "description": "Woven fabrics obtained from strip or the like",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "54072010",
+   "hs6": "540720",
+   "hs6_description": "Fabrics, woven; from strip or the like, of synthetic textile materials",
    "level": 8,
    "chapter": "54",
    "description": "Unbleached",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "54072020",
+   "hs6": "540720",
+   "hs6_description": "Fabrics, woven; from strip or the like, of synthetic textile materials",
    "level": 8,
    "chapter": "54",
    "description": "Bleached",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "54072030",
+   "hs6": "540720",
+   "hs6_description": "Fabrics, woven; from strip or the like, of synthetic textile materials",
    "level": 8,
    "chapter": "54",
    "description": "Dyed",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "54072040",
+   "hs6": "540720",
+   "hs6_description": "Fabrics, woven; from strip or the like, of synthetic textile materials",
    "level": 8,
    "chapter": "54",
    "description": "Printed",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "54072090",
+   "hs6": "540720",
+   "hs6_description": "Fabrics, woven; from strip or the like, of synthetic textile materials",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "540730",
+   "hs6": "540730",
+   "hs6_description": "Fabrics, woven; from synthetic filament yarn, adhesive or thermal bonded",
    "level": 6,
    "chapter": "54",
    "description": "Fabrics specified in Note 9 to Section XI",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "54073010",
+   "hs6": "540730",
+   "hs6_description": "Fabrics, woven; from synthetic filament yarn, adhesive or thermal bonded",
    "level": 8,
    "chapter": "54",
    "description": "Unbleached",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "54073020",
+   "hs6": "540730",
+   "hs6_description": "Fabrics, woven; from synthetic filament yarn, adhesive or thermal bonded",
    "level": 8,
    "chapter": "54",
    "description": "Bleached",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "54073030",
+   "hs6": "540730",
+   "hs6_description": "Fabrics, woven; from synthetic filament yarn, adhesive or thermal bonded",
    "level": 8,
    "chapter": "54",
    "description": "Dyed",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "54073040",
+   "hs6": "540730",
+   "hs6_description": "Fabrics, woven; from synthetic filament yarn, adhesive or thermal bonded",
    "level": 8,
    "chapter": "54",
    "description": "Printed",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "54073090",
+   "hs6": "540730",
+   "hs6_description": "Fabrics, woven; from synthetic filament yarn, adhesive or thermal bonded",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "540741",
+   "hs6": "540741",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides : -- Unbleached or bleached",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "54074111",
+   "hs6": "540741",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Nylon brasso",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "54074112",
+   "hs6": "540741",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Nylon georgette",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "54074113",
+   "hs6": "540741",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Nylon tafetta",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "54074114",
+   "hs6": "540741",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Nylon sarees",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "54074119",
+   "hs6": "540741",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "54074121",
+   "hs6": "540741",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Nylon brasso",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "54074122",
+   "hs6": "540741",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Nylon georgette",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "54074123",
+   "hs6": "540741",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Nylon tafetta",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "54074124",
+   "hs6": "540741",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Nylon sarees",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "54074129",
+   "hs6": "540741",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Other",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "540742",
+   "hs6": "540742",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, dyed",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides : -- Dyed",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "54074210",
+   "hs6": "540742",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Nylon brasso",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "54074220",
+   "hs6": "540742",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Nylon georgette",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "54074230",
+   "hs6": "540742",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Nylon tafetta",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "54074240",
+   "hs6": "540742",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Nylon sarees",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "54074290",
+   "hs6": "540742",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "54074300",
+   "hs6": "540743",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, of yarns of different colours",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides : -- Of yarns of different colours",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "540744",
+   "hs6": "540744",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, printed",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides : -- Printed",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "54074410",
+   "hs6": "540744",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, printed",
    "level": 8,
    "chapter": "54",
    "description": "Nylon brasso",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "54074420",
+   "hs6": "540744",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, printed",
    "level": 8,
    "chapter": "54",
    "description": "Nylon georgette",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "54074430",
+   "hs6": "540744",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, printed",
    "level": 8,
    "chapter": "54",
    "description": "Nylon tafetta",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "54074440",
+   "hs6": "540744",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, printed",
    "level": 8,
    "chapter": "54",
    "description": "Nylon sarees,",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "54074490",
+   "hs6": "540744",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, printed",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "540751",
+   "hs6": "540751",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, unbleached or bleached",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments : -- Unbleached or bleached",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "54075111",
+   "hs6": "540751",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Polyester shirtings",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "54075119",
+   "hs6": "540751",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "54075121",
+   "hs6": "540751",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Polyester shirtings",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "54075129",
+   "hs6": "540751",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Other",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "540752",
+   "hs6": "540752",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, dyed",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments : -- Dyed",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "54075210",
+   "hs6": "540752",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Polyester shirtings",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "54075220",
+   "hs6": "540752",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Polyester suitings",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "54075230",
+   "hs6": "540752",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Terylene and dacron sarees",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "54075240",
+   "hs6": "540752",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Polyester sarees",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "54075290",
+   "hs6": "540752",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "54075300",
+   "hs6": "540753",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, of yarns of different colours",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments : -- Of yarns of different colours",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "540754",
+   "hs6": "540754",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, printed",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments : -- Printed",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "54075410",
+   "hs6": "540754",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, printed",
    "level": 8,
    "chapter": "54",
    "description": "Terylene and dacron sarees",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "54075420",
+   "hs6": "540754",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, printed",
    "level": 8,
    "chapter": "54",
    "description": "Polyester shirtings",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "54075430",
+   "hs6": "540754",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, printed",
    "level": 8,
    "chapter": "54",
    "description": "Polyester sarees",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "54075490",
+   "hs6": "540754",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of textured polyester filaments, printed",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "540761",
+   "hs6": "540761",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of non-textured polyester filaments",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of polyester filaments : -- Containing 85 percent or more by weight of non-textured polyester filaments",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "54076110",
+   "hs6": "540761",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of non-textured polyester filaments",
    "level": 8,
    "chapter": "54",
    "description": "Polyester shirtings",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "54076120",
+   "hs6": "540761",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of non-textured polyester filaments",
    "level": 8,
    "chapter": "54",
    "description": "Polyester suitings",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "54076190",
+   "hs6": "540761",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of non-textured polyester filaments",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "54076900",
+   "hs6": "540769",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of non-textured polyester filaments",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of polyester filaments : -- Other",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "540771",
+   "hs6": "540771",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of synthetic filaments (excluding nylon or other polyamides and polyesters), unbleached or bleached",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of synthetic filaments : -- Unbleached or bleached",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "54077110",
+   "hs6": "540771",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of synthetic filaments (excluding nylon or other polyamides and polyesters), unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Unbleached",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "54077120",
+   "hs6": "540771",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of synthetic filaments (excluding nylon or other polyamides and polyesters), unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "54077200",
+   "hs6": "540772",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of synthetic filaments (excluding nylon or other polyamides and polyesters), dyed",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of synthetic filaments : -- Dyed",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "54077300",
+   "hs6": "540773",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of synthetic filaments (excluding nylon or other polyamides and polyesters), of yarns of different colours",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of synthetic filaments : -- Of yarns of different colours",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "54077400",
+   "hs6": "540774",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of synthetic filaments (excluding nylon or other polyamides and polyesters), printed",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of synthetic filaments : --Printed",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "540781",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton : -- Unbleached or bleached",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "54078111",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Nylon georgette",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "54078112",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Nylon sarees",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "54078113",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Polyester shirtings",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "54078114",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Polyester suitings",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "54078115",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Terylene and dacron sarees",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "54078116",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Polyester dhoti",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "54078119",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "54078121",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Nylon georgette",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "54078122",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Nylon sarees",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "54078123",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Polyester shirtings",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "54078124",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Polyester suitings",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "54078125",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Terylene and dacron sarees",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "54078126",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Polyester dhoti",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "54078129",
+   "hs6": "540781",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached: ---- Other",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "540782",
+   "hs6": "540782",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton : -- Dyed",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "54078210",
+   "hs6": "540782",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Nylon georgette",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "54078220",
+   "hs6": "540782",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Nylon sarees",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "54078230",
+   "hs6": "540782",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Polyester shirtings",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "54078240",
+   "hs6": "540782",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Polyester suitings",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "54078250",
+   "hs6": "540782",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Terylene and dacron sarees",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "54078260",
+   "hs6": "540782",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Lungies",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "54078290",
+   "hs6": "540782",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "54078300",
+   "hs6": "540783",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, of yarns of different colours",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton : -- Of yarns of different colours",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "540784",
+   "hs6": "540784",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton : -- Printed",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "54078410",
+   "hs6": "540784",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",
    "level": 8,
    "chapter": "54",
    "description": "Nylon georgette",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "54078420",
+   "hs6": "540784",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",
    "level": 8,
    "chapter": "54",
    "description": "Nylon sarees",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "54078430",
+   "hs6": "540784",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",
    "level": 8,
    "chapter": "54",
    "description": "Polyester shirtings",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "54078440",
+   "hs6": "540784",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",
    "level": 8,
    "chapter": "54",
    "description": "Polyester suitings",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "54078450",
+   "hs6": "540784",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",
    "level": 8,
    "chapter": "54",
    "description": "Terylene and dacron sarees",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "54078460",
+   "hs6": "540784",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",
    "level": 8,
    "chapter": "54",
    "description": "Lungies",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "54078470",
+   "hs6": "540784",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",
    "level": 8,
    "chapter": "54",
    "description": "Polyester sarees",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "54078490",
+   "hs6": "540784",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "540791",
+   "hs6": "540791",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, bleached or unbleached, n.e.c. in heading no. 5407",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics : -- Unbleached or bleached x",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "54079110",
+   "hs6": "540791",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, bleached or unbleached, n.e.c. in heading no. 5407",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics: ---- Unbleached",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "54079120",
+   "hs6": "540791",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, bleached or unbleached, n.e.c. in heading no. 5407",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics: ---- Bleached",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "54079200",
+   "hs6": "540792",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, dyed, n.e.c. in heading 5407",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics : -- Dyed",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "54079300",
+   "hs6": "540793",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, of yarns of different colours, n.e.c. in heading no. 5407",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics : -- Of yarns of different colours",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "54079400",
+   "hs6": "540794",
+   "hs6_description": "Fabrics, woven; of synthetic filament yarn, printed, n.e.c. in heading no. 5407",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics : -- Printed",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "5408",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "54",
    "description": "Woven fabrics of artificial filament yarn, including woven fabrics obtained from materials of heading 54.05.",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "54081000",
+   "hs6": "540810",
+   "hs6_description": "Fabrics, woven; of viscose rayon, high tenacity, artificial filament yarn",
    "level": 8,
    "chapter": "54",
    "description": "Woven fabrics obtained from high tenacity yarn of viscose rayon",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "540821",
+   "hs6": "540821",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, bleached or unbleached",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like : -- Unbleached or bleached",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "54082110",
+   "hs6": "540821",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Unbleached",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "54082120",
+   "hs6": "540821",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, bleached or unbleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "540822",
+   "hs6": "540822",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like : -- Dyed",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "54082211",
+   "hs6": "540822",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon crepe fabrics",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "54082212",
+   "hs6": "540822",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon jacquards",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "54082213",
+   "hs6": "540822",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon brocades",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "54082214",
+   "hs6": "540822",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon georgette",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "54082215",
+   "hs6": "540822",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon tafetta",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "54082216",
+   "hs6": "540822",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon suitings",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "54082217",
+   "hs6": "540822",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon shirtings",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "54082218",
+   "hs6": "540822",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon sarees",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "54082219",
+   "hs6": "540822",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Other",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "54082220",
+   "hs6": "540822",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of continuous filament, other than rayon",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "54082290",
+   "hs6": "540822",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Other than rayon",
@@ -3033,6 +3537,8 @@
   },
   {
    "hs_code": "54082300",
+   "hs6": "540823",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of artificial filament, strip or the like, of yarns of different colours",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like : -- Of yarns of different colours",
@@ -3045,6 +3551,8 @@
   },
   {
    "hs_code": "540824",
+   "hs6": "540824",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like : --Printed",
@@ -3057,6 +3565,8 @@
   },
   {
    "hs_code": "54082411",
+   "hs6": "540824",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",
    "level": 8,
    "chapter": "54",
    "description": "Of rayon: ---- Rayon crepe fabrics",
@@ -3069,6 +3579,8 @@
   },
   {
    "hs_code": "54082412",
+   "hs6": "540824",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",
    "level": 8,
    "chapter": "54",
    "description": "Of rayon: ---- Rayon jacquards",
@@ -3081,6 +3593,8 @@
   },
   {
    "hs_code": "54082413",
+   "hs6": "540824",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",
    "level": 8,
    "chapter": "54",
    "description": "Of rayon: ---- Rayon brocades",
@@ -3093,6 +3607,8 @@
   },
   {
    "hs_code": "54082414",
+   "hs6": "540824",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",
    "level": 8,
    "chapter": "54",
    "description": "Of rayon: ---- Rayon georgette",
@@ -3105,6 +3621,8 @@
   },
   {
    "hs_code": "54082415",
+   "hs6": "540824",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",
    "level": 8,
    "chapter": "54",
    "description": "Of rayon: ---- Rayon tafetta",
@@ -3117,6 +3635,8 @@
   },
   {
    "hs_code": "54082416",
+   "hs6": "540824",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",
    "level": 8,
    "chapter": "54",
    "description": "Of rayon: ---- Rayon suitings",
@@ -3129,6 +3649,8 @@
   },
   {
    "hs_code": "54082417",
+   "hs6": "540824",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",
    "level": 8,
    "chapter": "54",
    "description": "Of rayon: ---- Rayon shirtings",
@@ -3141,6 +3663,8 @@
   },
   {
    "hs_code": "54082418",
+   "hs6": "540824",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",
    "level": 8,
    "chapter": "54",
    "description": "Of rayon: ---- Rayon sarees",
@@ -3153,6 +3677,8 @@
   },
   {
    "hs_code": "54082419",
+   "hs6": "540824",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",
    "level": 8,
    "chapter": "54",
    "description": "Of rayon: ---- Other",
@@ -3165,6 +3691,8 @@
   },
   {
    "hs_code": "54082490",
+   "hs6": "540824",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -3177,6 +3705,8 @@
   },
   {
    "hs_code": "540831",
+   "hs6": "540831",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, unbleached or bleached",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics : -- Unbleached or bleached",
@@ -3189,6 +3719,8 @@
   },
   {
    "hs_code": "54083110",
+   "hs6": "540831",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Unbleached",
@@ -3201,6 +3733,8 @@
   },
   {
    "hs_code": "54083120",
+   "hs6": "540831",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, unbleached or bleached",
    "level": 8,
    "chapter": "54",
    "description": "Bleached",
@@ -3213,6 +3747,8 @@
   },
   {
    "hs_code": "540832",
+   "hs6": "540832",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics : -- Dyed",
@@ -3225,6 +3761,8 @@
   },
   {
    "hs_code": "54083211",
+   "hs6": "540832",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon brocades",
@@ -3237,6 +3775,8 @@
   },
   {
    "hs_code": "54083212",
+   "hs6": "540832",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon georgette",
@@ -3249,6 +3789,8 @@
   },
   {
    "hs_code": "54083213",
+   "hs6": "540832",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon tafetta",
@@ -3261,6 +3803,8 @@
   },
   {
    "hs_code": "54083214",
+   "hs6": "540832",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon suitings",
@@ -3273,6 +3817,8 @@
   },
   {
    "hs_code": "54083215",
+   "hs6": "540832",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon shirtings",
@@ -3285,6 +3831,8 @@
   },
   {
    "hs_code": "54083219",
+   "hs6": "540832",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Other",
@@ -3297,6 +3845,8 @@
   },
   {
    "hs_code": "54083290",
+   "hs6": "540832",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",
    "level": 8,
    "chapter": "54",
    "description": "Other",
@@ -3309,6 +3859,8 @@
   },
   {
    "hs_code": "54083300",
+   "hs6": "540833",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, of yarns of different colours",
    "level": 8,
    "chapter": "54",
    "description": "Other woven fabrics : -- Of yarns of different colours",
@@ -3321,6 +3873,8 @@
   },
   {
    "hs_code": "540834",
+   "hs6": "540834",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",
    "level": 6,
    "chapter": "54",
    "description": "Other woven fabrics : -- Printed",
@@ -3333,6 +3887,8 @@
   },
   {
    "hs_code": "54083411",
+   "hs6": "540834",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon crepe fabrics",
@@ -3345,6 +3901,8 @@
   },
   {
    "hs_code": "54083412",
+   "hs6": "540834",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon jacquards",
@@ -3357,6 +3915,8 @@
   },
   {
    "hs_code": "54083413",
+   "hs6": "540834",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon brocades",
@@ -3369,6 +3929,8 @@
   },
   {
    "hs_code": "54083414",
+   "hs6": "540834",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon georgette",
@@ -3381,6 +3943,8 @@
   },
   {
    "hs_code": "54083415",
+   "hs6": "540834",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon tafetta",
@@ -3393,6 +3957,8 @@
   },
   {
    "hs_code": "54083416",
+   "hs6": "540834",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon suitings",
@@ -3405,6 +3971,8 @@
   },
   {
    "hs_code": "54083417",
+   "hs6": "540834",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon shirtings",
@@ -3417,6 +3985,8 @@
   },
   {
    "hs_code": "54083418",
+   "hs6": "540834",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Rayon sarees",
@@ -3429,6 +3999,8 @@
   },
   {
    "hs_code": "54083419",
+   "hs6": "540834",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of rayon: ---- Other",
@@ -3441,6 +4013,8 @@
   },
   {
    "hs_code": "54083420",
+   "hs6": "540834",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",
    "level": 8,
    "chapter": "54",
    "description": "Fabrics of continuous filament, other than rayon",
@@ -3453,6 +4027,8 @@
   },
   {
    "hs_code": "54083490",
+   "hs6": "540834",
+   "hs6_description": "Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",
    "level": 8,
    "chapter": "54",
    "description": "Other",

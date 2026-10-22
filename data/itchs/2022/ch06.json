@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "0601",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "06",
    "description": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower; chicory plants and roots other than roots of heading 12.12.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "06011000",
+   "hs6": "060110",
+   "hs6_description": "Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant",
    "level": 8,
    "chapter": "06",
    "description": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "060120",
+   "hs6": "060120",
+   "hs6_description": "Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower, chicory plants and roots other than of heading no. 1212",
    "level": 6,
    "chapter": "06",
    "description": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower; chicory plants and roots",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "06012010",
+   "hs6": "060120",
+   "hs6_description": "Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower, chicory plants and roots other than of heading no. 1212",
    "level": 8,
    "chapter": "06",
    "description": "Bulbs, horticultural",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "06012021",
+   "hs6": "060120",
+   "hs6_description": "Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower, chicory plants and roots other than of heading no. 1212",
    "level": 8,
    "chapter": "06",
    "description": "Chicory plants and roots: ---- Plants",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "06012022",
+   "hs6": "060120",
+   "hs6_description": "Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower, chicory plants and roots other than of heading no. 1212",
    "level": 8,
    "chapter": "06",
    "description": "Chicory plants and roots: ---- Roots",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "06012090",
+   "hs6": "060120",
+   "hs6_description": "Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower, chicory plants and roots other than of heading no. 1212",
    "level": 8,
    "chapter": "06",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "0602",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "06",
    "description": "Other live plants (including their roots), cuttings and slips; mushroom spawn.",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "06021000",
+   "hs6": "060210",
+   "hs6_description": "Plants, live; unrooted cuttings and slips",
    "level": 8,
    "chapter": "06",
    "description": "Unrooted cuttings and slips",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "060220",
+   "hs6": "060220",
+   "hs6_description": "Plants, live; edible fruit or nut trees, shrubs and bushes, grafted or not",
    "level": 6,
    "chapter": "06",
    "description": "Trees, shrubs and bushes, grafted or not, of kinds which bear edible furit or nuts",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "06022010",
+   "hs6": "060220",
+   "hs6_description": "Plants, live; edible fruit or nut trees, shrubs and bushes, grafted or not",
    "level": 8,
    "chapter": "06",
    "description": "Edible fruit or nut trees, grafted or not",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "06022020",
+   "hs6": "060220",
+   "hs6_description": "Plants, live; edible fruit or nut trees, shrubs and bushes, grafted or not",
    "level": 8,
    "chapter": "06",
    "description": "Cactus",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "06022090",
+   "hs6": "060220",
+   "hs6_description": "Plants, live; edible fruit or nut trees, shrubs and bushes, grafted or not",
    "level": 8,
    "chapter": "06",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "06023000",
+   "hs6": "060230",
+   "hs6_description": "Plants, live; rhododendrons and azaleas, grafted or not",
    "level": 8,
    "chapter": "06",
    "description": "Rhododendrons and azaleas, grafted or not",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "06024000",
+   "hs6": "060240",
+   "hs6_description": "Plants, live; roses, grafted or not",
    "level": 8,
    "chapter": "06",
    "description": "Roses, grafted or not",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "060290",
+   "hs6": "060290",
+   "hs6_description": "Plants, live; n.e.c. in heading no. 0602",
    "level": 6,
    "chapter": "06",
    "description": "Other",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "06029010",
+   "hs6": "060290",
+   "hs6_description": "Plants, live; n.e.c. in heading no. 0602",
    "level": 8,
    "chapter": "06",
    "description": "Mushroom spawn",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "06029020",
+   "hs6": "060290",
+   "hs6_description": "Plants, live; n.e.c. in heading no. 0602",
    "level": 8,
    "chapter": "06",
    "description": "Flowering plants (excluding roses and rhododendrons)",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "06029030",
+   "hs6": "060290",
+   "hs6_description": "Plants, live; n.e.c. in heading no. 0602",
    "level": 8,
    "chapter": "06",
    "description": "Tissue culture plant",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "06029090",
+   "hs6": "060290",
+   "hs6_description": "Plants, live; n.e.c. in heading no. 0602",
    "level": 8,
    "chapter": "06",
    "description": "Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "0603",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "06",
    "description": "Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "06031100",
+   "hs6": "060311",
+   "hs6_description": "Flowers, cut; roses, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh",
    "level": 8,
    "chapter": "06",
    "description": "Fresh : -- Roses",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "06031200",
+   "hs6": "060312",
+   "hs6_description": "Flowers, cut; carnations, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh",
    "level": 8,
    "chapter": "06",
    "description": "Fresh : -- Carnations",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "06031300",
+   "hs6": "060313",
+   "hs6_description": "Flowers, cut; orchids, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh",
    "level": 8,
    "chapter": "06",
    "description": "Fresh : -- Orchids",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "06031400",
+   "hs6": "060314",
+   "hs6_description": "Flowers, cut; chrysanthemums, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh",
    "level": 8,
    "chapter": "06",
    "description": "Fresh : --Chrysanthemums",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "06031500",
+   "hs6": "060315",
+   "hs6_description": "Flowers, cut; lilies (Lilium spp.), flowers and flower buds of a kind suitable for bouquets or ornamental purposes, fresh",
    "level": 8,
    "chapter": "06",
    "description": "Fresh : --Lilies (Lilium spp.)",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "06031900",
+   "hs6": "060319",
+   "hs6_description": "Flowers, cut; flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh, other than roses, carnations, orchids, chrysanthemums or lillies",
    "level": 8,
    "chapter": "06",
    "description": "Fresh : -- Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "06039000",
+   "hs6": "060390",
+   "hs6_description": "Flowers, cut; flowers and flower buds of a kind suitable for bouquets or ornamental purposes, dried, dyed, bleached, impregnated or otherwise prepared",
    "level": 8,
    "chapter": "06",
    "description": "Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "0604",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "06",
    "description": "Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared.",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "06042000",
+   "hs6": "060420",
+   "hs6_description": "Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens; suitable for bouquets or for ornamental purposes, fresh",
    "level": 8,
    "chapter": "06",
    "description": "Fresh",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "06049000",
+   "hs6": "060490",
+   "hs6_description": "Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens; suitable for bouquets or for ornamental purposes, dried, dyed, bleached, impregnated or otherwise prepared",
    "level": 8,
    "chapter": "06",
    "description": "Other",

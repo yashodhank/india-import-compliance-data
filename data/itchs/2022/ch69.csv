@@ -1,87 +1,87 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-6901,4,69,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (for example, kieselguhr, tripolite or diatomite) or of similar siliceous earths.",,,,,,2026-10-22
-69010010,8,69,Bricks,Free,,,,,2026-10-22
-69010020,8,69,Blocks,Free,,,,,2026-10-22
-69010030,8,69,Tiles,Free,,,,,2026-10-22
-69010090,8,69,Other,Free,,,,,2026-10-22
-6902,4,69,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods, other than those of siliceous fossil meals or similar siliceous earths.",,,,,,2026-10-22
-690210,6,69,"Containing by weight, singly or together, more than 50 percent of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2O3",,,,,,2026-10-22
-69021010,8,69,Magnesite bricks and shapes,Free,,,,,2026-10-22
-69021020,8,69,Chrome magnesite bricks,Free,,,,,2026-10-22
-69021030,8,69,Magnesite chrome bricks and shapes,Free,,,,,2026-10-22
-69021040,8,69,Magnesite carbon bricks and shapes,Free,,,,,2026-10-22
-69021050,8,69,Direct bonded basic bricks and shapes,Free,,,,,2026-10-22
-69021090,8,69,Other,Free,,,,,2026-10-22
-690220,6,69,"Containing by weight more than 50 percent of alumina (Al2O3), of silica (SiO2) or of a mixture or compound of these products",,,,,,2026-10-22
-69022010,8,69,Silica bricks and shapes,Free,,,,,2026-10-22
-69022020,8,69,High alumina bricks and shapes,Free,,,,,2026-10-22
-69022030,8,69,Alumina carbon bricks and shapes,Free,,,,,2026-10-22
-69022040,8,69,Silicon Carbide bricks and shapes,Free,,,,,2026-10-22
-69022050,8,69,Mullite bricks,Free,,,,,2026-10-22
-69022090,8,69,Other,Free,,,,,2026-10-22
-690290,6,69,Other,,,,,,2026-10-22
-69029010,8,69,Fire clay bricks and shapes,Free,,,,,2026-10-22
-69029020,8,69,Graphite bricks and shapes,Free,,,,,2026-10-22
-69029030,8,69,Vermiculite insulation bricks,Free,,,,,2026-10-22
-69029040,8,69,Clay graphite stopper heads,Free,,,,,2026-10-22
-69029090,8,69,Other,Free,,,,,2026-10-22
-6903,4,69,"OTHER REFRACTORY CERAMIC GOODS (FOR EXAMPLE, RETORTS, CRUCIBLES, MUFFLES, NOZZLES, PLUGS, SUPPORTS, CUPELS, TUBES, PIPES, SHEATHS, RODS AND SLIDING GATES), OTHER THAN THOSE OF SILICEOUS FOSSIL MEALS OR OF SIMILAR SILICEOUS EARTHS",,,,,,2026-10-22
-69031000,8,69,Containing by weight more than 50% of free carbon,Free,,,54/2015-2020,2022-02-09,2026-10-22
-690320,6,69,Containing by weight more than 50 percent of alumina (Al2O3) or of a mixture or compound of alumina and of silica (SiO2),,,,,,2026-10-22
-69032010,8,69,Silicon carbide crucibles,Free,,,,,2026-10-22
-69032090,8,69,Other,Free,,,,,2026-10-22
-690390,6,69,Other,,,,,,2026-10-22
-69039010,8,69,Zircon or zircon-mullite refractories,Free,,,,,2026-10-22
-69039020,8,69,Basalt tiles,Free,,,,,2026-10-22
-69039030,8,69,Ceramic fibres,Free,,,,,2026-10-22
-69039040,8,69,"Monolithics or castables (fire-clay, basic, silica, high alumina, insulating)",Free,,,,,2026-10-22
-69039090,8,69,Other,Free,,,,,2026-10-22
-6904,4,69,"Ceramic building bricks, flooring blocks, support or filler tiles and the like.",,,,,,2026-10-22
-69041000,8,69,Building bricks,Free,,,,,2026-10-22
-69049000,8,69,Other,Free,,,,,2026-10-22
-6905,4,69,"Roofing tiles, chimney-pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods.",,,,,,2026-10-22
-69051000,8,69,Roofing tiles,Free,,,,,2026-10-22
-69059000,8,69,Other,Free,,,,,2026-10-22
-69060000,8,69,"Ceramic pipes, conduits, guttering and pipe fittings",Free,,,,,2026-10-22
-6907,4,69,"Ceramic flags and paving, hearth or wall tiles; ceramic mosaic ceramics.",,,,,,2026-10-22
-69072100,8,69,"Flags and paving, hearth or wall tiles, other than those of subheadings 6907.30 and 6907.40 : -- Of a water absorption coefficient by weight not exceeding 0.5 percent",Free,,,,,2026-10-22
-69072200,8,69,"Flags and paving, hearth or wall tiles, other than those of subheadings 6907.30 and 6907.40 : -- Of a water absorption coefficient by weight exceeding 0.5 percent but not exceeding 10 percent",Free,,,,,2026-10-22
-69072300,8,69,"Flags and paving, hearth or wall tiles, other than those of subheadings 6907.30 and 6907.40 : -- Of a water absorption coefficient by weight exceeding 10 percent",Free,,,,,2026-10-22
-69073000,8,69,"Mosaic cubes and the like, other than those of sub-heading 6907 40",Free,.,,08/2023,2023-05-29,2026-10-22
-69073000,8,69,"Mosaic cubes and the like, other than those of sub-heading 6907 40",Free,.,,08/2023,2023-05-29,2026-10-22
-69074000,8,69,Finishing ceramics,Free,.,,8/2023,2023-05-29,2026-10-22
-6909,4,69,"Ceramic wares for laboratory, chemical or other technical uses; ceramic troughs, tubs and similar receptacles of a kind used in agriculture; ceramic pots, jars and similar articles of a kind used for the conveyance or packing of goods.",,,,,,2026-10-22
-69091100,8,69,"Ceramic wares for laboratory, chemical or other technical uses : -- Of porcelain or china",Free,,,,,2026-10-22
-69091200,8,69,"Ceramic wares for laboratory, chemical or other technical uses : -- Articles having a hardness equivalent to 9 or more on the Mohs",Free,,,,,2026-10-22
-690919,6,69,"Ceramic wares for laboratory, chemical or other technical uses : -- Other",,,,,,2026-10-22
-69091910,8,69,Ceramic filter candle,Free,,,,,2026-10-22
-69091990,8,69,Other,Free,,,,,2026-10-22
-69099000,8,69,Other,Free,,,,,2026-10-22
-6910,4,69,"Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures.",,,,,,2026-10-22
-69101000,8,69,Of porcelain or china,Free,,,,,2026-10-22
-69109000,8,69,Other,Free,,,,,2026-10-22
-6911,4,69,"Tableware, kitchenware, other household articles and toilet articles, of porcelain or china.",,,,,,2026-10-22
-691110,6,69,Tableware and kitchenware,,,,,,2026-10-22
-69111011,8,69,Tableware: ----Of bone china and soft porcelain,Free,,,,,2026-10-22
-69111019,8,69,Tableware: ----Other,Free,,,,,2026-10-22
-69111021,8,69,Kitchenware: ----Of bone china and soft porcelain,Free,,,,,2026-10-22
-69111029,8,69,Kitchenware: ----Other,Free,,,,,2026-10-22
-691190,6,69,Other,,,,,,2026-10-22
-69119010,8,69,Toilet articles,Free,,,,,2026-10-22
-69119020,8,69,Water filters of a capacity not exceeding 40 litres,Free,,,,,2026-10-22
-69119090,8,69,Other,Free,,,,,2026-10-22
-6912,4,69,"Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china.",,,,,,2026-10-22
-691200,6,69,"Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china :",,,,,,2026-10-22
-69120010,8,69,Tableware,Free,,,,,2026-10-22
-69120020,8,69,Kitchenware,Free,,,,,2026-10-22
-69120030,8,69,Toilet articles,Free,,,,,2026-10-22
-69120040,8,69,Clay articles,Free,,,,,2026-10-22
-69120090,8,69,Other,Free,,,,,2026-10-22
-6913,4,69,Statuettes and other ornamental ceramic articles.,,,,,,2026-10-22
-69131000,8,69,Of porcelain or china,Free,,,,,2026-10-22
-69139000,8,69,Other,Free,,,,,2026-10-22
-6914,4,69,Other ceramic articles.,,,,,,2026-10-22
-69141000,8,69,Of porcelain or china,Free,,,,,2026-10-22
-691490,6,69,Other:,,,,,,2026-10-22
-69149010,8,69,Armour for ballistic protection,Free,.,,40/2024-25,2024-11-26,2026-10-22
-69149090,8,69,Other,Free,.,,40/2024-25,2024-11-26,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+6901,,,4,69,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (for example, kieselguhr, tripolite or diatomite) or of similar siliceous earths.",,,,,,2026-10-22
+69010010,690100,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (e.g. kieselguhr, tripolite or diatomite) or of similar siliceous earths",8,69,Bricks,Free,,,,,2026-10-22
+69010020,690100,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (e.g. kieselguhr, tripolite or diatomite) or of similar siliceous earths",8,69,Blocks,Free,,,,,2026-10-22
+69010030,690100,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (e.g. kieselguhr, tripolite or diatomite) or of similar siliceous earths",8,69,Tiles,Free,,,,,2026-10-22
+69010090,690100,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (e.g. kieselguhr, tripolite or diatomite) or of similar siliceous earths",8,69,Other,Free,,,,,2026-10-22
+6902,,,4,69,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods, other than those of siliceous fossil meals or similar siliceous earths.",,,,,,2026-10-22
+690210,690210,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",6,69,"Containing by weight, singly or together, more than 50 percent of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2O3",,,,,,2026-10-22
+69021010,690210,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",8,69,Magnesite bricks and shapes,Free,,,,,2026-10-22
+69021020,690210,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",8,69,Chrome magnesite bricks,Free,,,,,2026-10-22
+69021030,690210,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",8,69,Magnesite chrome bricks and shapes,Free,,,,,2026-10-22
+69021040,690210,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",8,69,Magnesite carbon bricks and shapes,Free,,,,,2026-10-22
+69021050,690210,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",8,69,Direct bonded basic bricks and shapes,Free,,,,,2026-10-22
+69021090,690210,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight, singly or together, more than 50% of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2o3",8,69,Other,Free,,,,,2026-10-22
+690220,690220,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",6,69,"Containing by weight more than 50 percent of alumina (Al2O3), of silica (SiO2) or of a mixture or compound of these products",,,,,,2026-10-22
+69022010,690220,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",8,69,Silica bricks and shapes,Free,,,,,2026-10-22
+69022020,690220,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",8,69,High alumina bricks and shapes,Free,,,,,2026-10-22
+69022030,690220,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",8,69,Alumina carbon bricks and shapes,Free,,,,,2026-10-22
+69022040,690220,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",8,69,Silicon Carbide bricks and shapes,Free,,,,,2026-10-22
+69022050,690220,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",8,69,Mullite bricks,Free,,,,,2026-10-22
+69022090,690220,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; containing by weight more than 50% of alumina (Al2o3), of silica (SiO2) or of a mixture or compound of these",8,69,Other,Free,,,,,2026-10-22
+690290,690290,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; n.e.c. in item no. 6902.1 or 6902.2",6,69,Other,,,,,,2026-10-22
+69029010,690290,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; n.e.c. in item no. 6902.1 or 6902.2",8,69,Fire clay bricks and shapes,Free,,,,,2026-10-22
+69029020,690290,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; n.e.c. in item no. 6902.1 or 6902.2",8,69,Graphite bricks and shapes,Free,,,,,2026-10-22
+69029030,690290,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; n.e.c. in item no. 6902.1 or 6902.2",8,69,Vermiculite insulation bricks,Free,,,,,2026-10-22
+69029040,690290,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; n.e.c. in item no. 6902.1 or 6902.2",8,69,Clay graphite stopper heads,Free,,,,,2026-10-22
+69029090,690290,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods; n.e.c. in item no. 6902.1 or 6902.2",8,69,Other,Free,,,,,2026-10-22
+6903,,,4,69,"OTHER REFRACTORY CERAMIC GOODS (FOR EXAMPLE, RETORTS, CRUCIBLES, MUFFLES, NOZZLES, PLUGS, SUPPORTS, CUPELS, TUBES, PIPES, SHEATHS, RODS AND SLIDING GATES), OTHER THAN THOSE OF SILICEOUS FOSSIL MEALS OR OF SIMILAR SILICEOUS EARTHS",,,,,,2026-10-22
+69031000,690310,"Refractory ceramic goods; containing, by weight, more than 50% of free carbon, excluding those of siliceous fossil meals or similar earths",8,69,Containing by weight more than 50% of free carbon,Free,,,54/2015-2020,2022-02-09,2026-10-22
+690320,690320,"Refractory ceramic goods; containing by weight more than 50% of alumina or of a mixture or compound of alumina and of silica, excluding those of siliceous fossil meals or similar earths",6,69,Containing by weight more than 50 percent of alumina (Al2O3) or of a mixture or compound of alumina and of silica (SiO2),,,,,,2026-10-22
+69032010,690320,"Refractory ceramic goods; containing by weight more than 50% of alumina or of a mixture or compound of alumina and of silica, excluding those of siliceous fossil meals or similar earths",8,69,Silicon carbide crucibles,Free,,,,,2026-10-22
+69032090,690320,"Refractory ceramic goods; containing by weight more than 50% of alumina or of a mixture or compound of alumina and of silica, excluding those of siliceous fossil meals or similar earths",8,69,Other,Free,,,,,2026-10-22
+690390,690390,"Refractory ceramic goods; composition of which n.e.c. in heading no. 6903, other than those of siliceous fossil meals or similar earths",6,69,Other,,,,,,2026-10-22
+69039010,690390,"Refractory ceramic goods; composition of which n.e.c. in heading no. 6903, other than those of siliceous fossil meals or similar earths",8,69,Zircon or zircon-mullite refractories,Free,,,,,2026-10-22
+69039020,690390,"Refractory ceramic goods; composition of which n.e.c. in heading no. 6903, other than those of siliceous fossil meals or similar earths",8,69,Basalt tiles,Free,,,,,2026-10-22
+69039030,690390,"Refractory ceramic goods; composition of which n.e.c. in heading no. 6903, other than those of siliceous fossil meals or similar earths",8,69,Ceramic fibres,Free,,,,,2026-10-22
+69039040,690390,"Refractory ceramic goods; composition of which n.e.c. in heading no. 6903, other than those of siliceous fossil meals or similar earths",8,69,"Monolithics or castables (fire-clay, basic, silica, high alumina, insulating)",Free,,,,,2026-10-22
+69039090,690390,"Refractory ceramic goods; composition of which n.e.c. in heading no. 6903, other than those of siliceous fossil meals or similar earths",8,69,Other,Free,,,,,2026-10-22
+6904,,,4,69,"Ceramic building bricks, flooring blocks, support or filler tiles and the like.",,,,,,2026-10-22
+69041000,690410,Ceramic building bricks,8,69,Building bricks,Free,,,,,2026-10-22
+69049000,690490,"Ceramic flooring blocks, supports or filler tiles and the like (excluding building bricks)",8,69,Other,Free,,,,,2026-10-22
+6905,,,4,69,"Roofing tiles, chimney-pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods.",,,,,,2026-10-22
+69051000,690510,Ceramic roofing tiles,8,69,Roofing tiles,Free,,,,,2026-10-22
+69059000,690590,"Ceramic chimney-pots, cowls, chimney liners, architectural ornaments and other constructional goods (excluding roofing tiles)",8,69,Other,Free,,,,,2026-10-22
+69060000,690600,"Ceramic pipes, conduits, guttering and pipe fittings",8,69,"Ceramic pipes, conduits, guttering and pipe fittings",Free,,,,,2026-10-22
+6907,,,4,69,"Ceramic flags and paving, hearth or wall tiles; ceramic mosaic ceramics.",,,,,,2026-10-22
+69072100,690721,"Ceramic tiles; flags and paving, hearth or wall tiles other than those of subheadings 6907.30 and 6907.40, of a water absorption coefficient by weight not over 0.5%",8,69,"Flags and paving, hearth or wall tiles, other than those of subheadings 6907.30 and 6907.40 : -- Of a water absorption coefficient by weight not exceeding 0.5 percent",Free,,,,,2026-10-22
+69072200,690722,"Ceramic tiles; flags and paving, hearth or wall tiles other than those of subheadings 6907.30 and 6907.40, of a water absorption coefficient by weight over 0.5% but not over 10%",8,69,"Flags and paving, hearth or wall tiles, other than those of subheadings 6907.30 and 6907.40 : -- Of a water absorption coefficient by weight exceeding 0.5 percent but not exceeding 10 percent",Free,,,,,2026-10-22
+69072300,690723,"Ceramic tiles; flags and paving, hearth or wall tiles other than those of subheadings 6907.30 and 6907.40, of a water absorption coefficient by weight over 10%",8,69,"Flags and paving, hearth or wall tiles, other than those of subheadings 6907.30 and 6907.40 : -- Of a water absorption coefficient by weight exceeding 10 percent",Free,,,,,2026-10-22
+69073000,690730,"Mosaic cubes and the like, other than those of subheading 6907.40",8,69,"Mosaic cubes and the like, other than those of sub-heading 6907 40",Free,.,,08/2023,2023-05-29,2026-10-22
+69073000,690730,"Mosaic cubes and the like, other than those of subheading 6907.40",8,69,"Mosaic cubes and the like, other than those of sub-heading 6907 40",Free,.,,08/2023,2023-05-29,2026-10-22
+69074000,690740,Finishing ceramics,8,69,Finishing ceramics,Free,.,,8/2023,2023-05-29,2026-10-22
+6909,,,4,69,"Ceramic wares for laboratory, chemical or other technical uses; ceramic troughs, tubs and similar receptacles of a kind used in agriculture; ceramic pots, jars and similar articles of a kind used for the conveyance or packing of goods.",,,,,,2026-10-22
+69091100,690911,"Ceramic wares; for laboratory, chemical or other technical uses, of porcelain or china",8,69,"Ceramic wares for laboratory, chemical or other technical uses : -- Of porcelain or china",Free,,,,,2026-10-22
+69091200,690912,"Ceramic wares; for laboratory, chemical or other technical uses, articles having a hardness equivalent to 9 or more on the Mohs scale",8,69,"Ceramic wares for laboratory, chemical or other technical uses : -- Articles having a hardness equivalent to 9 or more on the Mohs",Free,,,,,2026-10-22
+690919,690919,"Ceramic wares; for laboratory, chemical or other technical uses, other than articles having a hardness equivalent to 9 or more on the Mohs scale or of porcelain or china",6,69,"Ceramic wares for laboratory, chemical or other technical uses : -- Other",,,,,,2026-10-22
+69091910,690919,"Ceramic wares; for laboratory, chemical or other technical uses, other than articles having a hardness equivalent to 9 or more on the Mohs scale or of porcelain or china",8,69,Ceramic filter candle,Free,,,,,2026-10-22
+69091990,690919,"Ceramic wares; for laboratory, chemical or other technical uses, other than articles having a hardness equivalent to 9 or more on the Mohs scale or of porcelain or china",8,69,Other,Free,,,,,2026-10-22
+69099000,690990,"Ceramic wares; pots, jars and similar articles of a kind used for the conveyance or packing of goods and ceramic troughs, tubs and similar receptacles used in agriculture",8,69,Other,Free,,,,,2026-10-22
+6910,,,4,69,"Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures.",,,,,,2026-10-22
+69101000,691010,"Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures; of porcelain or china",8,69,Of porcelain or china,Free,,,,,2026-10-22
+69109000,691090,"Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures; of other than porcelain or china",8,69,Other,Free,,,,,2026-10-22
+6911,,,4,69,"Tableware, kitchenware, other household articles and toilet articles, of porcelain or china.",,,,,,2026-10-22
+691110,691110,Tableware and kitchenware; of porcelain or china,6,69,Tableware and kitchenware,,,,,,2026-10-22
+69111011,691110,Tableware and kitchenware; of porcelain or china,8,69,Tableware: ----Of bone china and soft porcelain,Free,,,,,2026-10-22
+69111019,691110,Tableware and kitchenware; of porcelain or china,8,69,Tableware: ----Other,Free,,,,,2026-10-22
+69111021,691110,Tableware and kitchenware; of porcelain or china,8,69,Kitchenware: ----Of bone china and soft porcelain,Free,,,,,2026-10-22
+69111029,691110,Tableware and kitchenware; of porcelain or china,8,69,Kitchenware: ----Other,Free,,,,,2026-10-22
+691190,691190,"Household and toilet articles; n.e.c. in heading no. 6911, of porcelain or china",6,69,Other,,,,,,2026-10-22
+69119010,691190,"Household and toilet articles; n.e.c. in heading no. 6911, of porcelain or china",8,69,Toilet articles,Free,,,,,2026-10-22
+69119020,691190,"Household and toilet articles; n.e.c. in heading no. 6911, of porcelain or china",8,69,Water filters of a capacity not exceeding 40 litres,Free,,,,,2026-10-22
+69119090,691190,"Household and toilet articles; n.e.c. in heading no. 6911, of porcelain or china",8,69,Other,Free,,,,,2026-10-22
+6912,,,4,69,"Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china.",,,,,,2026-10-22
+691200,691200,"Ceramic tableware, kitchenware, other household articles and toilet articles; other than of porcelain or china",6,69,"Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china :",,,,,,2026-10-22
+69120010,691200,"Ceramic tableware, kitchenware, other household articles and toilet articles; other than of porcelain or china",8,69,Tableware,Free,,,,,2026-10-22
+69120020,691200,"Ceramic tableware, kitchenware, other household articles and toilet articles; other than of porcelain or china",8,69,Kitchenware,Free,,,,,2026-10-22
+69120030,691200,"Ceramic tableware, kitchenware, other household articles and toilet articles; other than of porcelain or china",8,69,Toilet articles,Free,,,,,2026-10-22
+69120040,691200,"Ceramic tableware, kitchenware, other household articles and toilet articles; other than of porcelain or china",8,69,Clay articles,Free,,,,,2026-10-22
+69120090,691200,"Ceramic tableware, kitchenware, other household articles and toilet articles; other than of porcelain or china",8,69,Other,Free,,,,,2026-10-22
+6913,,,4,69,Statuettes and other ornamental ceramic articles.,,,,,,2026-10-22
+69131000,691310,"Ceramic statuettes and other ornamental ceramic articles, of porcelain or china",8,69,Of porcelain or china,Free,,,,,2026-10-22
+69139000,691390,Ceramic statuettes and other ornamental ceramic articles; other than of porcelain or china,8,69,Other,Free,,,,,2026-10-22
+6914,,,4,69,Other ceramic articles.,,,,,,2026-10-22
+69141000,691410,Ceramic articles n.e.c. in chapter 69; of porcelain or china,8,69,Of porcelain or china,Free,,,,,2026-10-22
+691490,691490,Ceramic articles n.e.c. in chapter 69; other than of porcelain or china,6,69,Other:,,,,,,2026-10-22
+69149010,691490,Ceramic articles n.e.c. in chapter 69; other than of porcelain or china,8,69,Armour for ballistic protection,Free,.,,40/2024-25,2024-11-26,2026-10-22
+69149090,691490,Ceramic articles n.e.c. in chapter 69; other than of porcelain or china,8,69,Other,Free,.,,40/2024-25,2024-11-26,2026-10-22

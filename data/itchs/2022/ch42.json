@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "42010000",
+   "hs6": "420100",
+   "hs6_description": "Saddlery and harness; for any animal (including traces, leads, knee pads, muzzles, saddle cloths, saddle bags, dog coats and the like), of any materials",
    "level": 8,
    "chapter": "42",
    "description": "Saddlery and harness for any animal (including traces, leads, knee pads, muzzles, saddle cloths, saddle bags, dog coats and the like), of any material.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "4202",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "42",
    "description": "Trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; travelling-bags, insulated food or beverages bags, toilet bags, rucksacks, handbags, shopping-bags, wallets, purses, map-cases, cigarette-cases, tobacco-pouches, tool bags, sports bags, bottle-cases, jewellery boxes, powder-boxes, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper.",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "420211",
+   "hs6": "420211",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of leather or of composition leather",
    "level": 6,
    "chapter": "42",
    "description": "Trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers : -- With outer surface of leather or of composition leather",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "42021110",
+   "hs6": "420211",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Travel goods (Trunks, suit-cases, sports bags and other similar items ) of leather",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "42021120",
+   "hs6": "420211",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Toilet-bags and cases, of leather",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "42021130",
+   "hs6": "420211",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Satchels",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "42021140",
+   "hs6": "420211",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Brief-cases",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "42021150",
+   "hs6": "420211",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Executive-cases",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "42021160",
+   "hs6": "420211",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Vanity-cases",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "42021170",
+   "hs6": "420211",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Attache-cases",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "42021190",
+   "hs6": "420211",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "420212",
+   "hs6": "420212",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of plastics or of textile materials",
    "level": 6,
    "chapter": "42",
    "description": "Trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers : -- With outer surface of plastics or of textile materials",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "42021210",
+   "hs6": "420212",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Toilet cases",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "42021220",
+   "hs6": "420212",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Plastic moulded suit-cases",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "42021230",
+   "hs6": "420212",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Plastic moulded brief-cases",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "42021240",
+   "hs6": "420212",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Satchels",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "42021250",
+   "hs6": "420212",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Other Travel goods",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "42021260",
+   "hs6": "420212",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Brief-cases",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "42021270",
+   "hs6": "420212",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Executive-cases other than plastic moulded",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "42021280",
+   "hs6": "420212",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Vanity-cases",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "42021290",
+   "hs6": "420212",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "420219",
+   "hs6": "420219",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 6,
    "chapter": "42",
    "description": "Trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers : -- Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "42021910",
+   "hs6": "420219",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 8,
    "chapter": "42",
    "description": "Travel goods (Trunks, suit-cases, sports bags, and other similar items ) of leather",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "42021920",
+   "hs6": "420219",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 8,
    "chapter": "42",
    "description": "Toilet-cases",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "42021930",
+   "hs6": "420219",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 8,
    "chapter": "42",
    "description": "Satchels",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "42021940",
+   "hs6": "420219",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 8,
    "chapter": "42",
    "description": "Brief-cases (other than plastic moulded)",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "42021950",
+   "hs6": "420219",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 8,
    "chapter": "42",
    "description": "Executive-cases",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "42021960",
+   "hs6": "420219",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 8,
    "chapter": "42",
    "description": "Vanity-cases",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "42021990",
+   "hs6": "420219",
+   "hs6_description": "Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "420221",
+   "hs6": "420221",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), with outer surface of leather or of composition leather",
    "level": 6,
    "chapter": "42",
    "description": "Handbags, whether or not with shoulder strap, including those without handle : -- With outer surface of leather or of composition leather",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "42022110",
+   "hs6": "420221",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Hand-bags for ladies",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "42022120",
+   "hs6": "420221",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Vanity-bags",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "42022190",
+   "hs6": "420221",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "420222",
+   "hs6": "420222",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), with outer surface of sheeting of plastics or of textile materials",
    "level": 6,
    "chapter": "42",
    "description": "Handbags, whether or not with shoulder strap, including those without handle : -- With outer surface of sheeting of plastics or of textile materials",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "42022210",
+   "hs6": "420222",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), with outer surface of sheeting of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Hand-bags and shopping bags, of artificial plastic material",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "42022220",
+   "hs6": "420222",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), with outer surface of sheeting of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Hand-bags and shopping bags, of cotton",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "42022230",
+   "hs6": "420222",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), with outer surface of sheeting of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Hand-bags and shopping bags, of Jute",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "42022240",
+   "hs6": "420222",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), with outer surface of sheeting of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Vanity-bags",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "42022290",
+   "hs6": "420222",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), with outer surface of sheeting of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "420229",
+   "hs6": "420229",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 6,
    "chapter": "42",
    "description": "Handbags, whether or not with shoulder strap, including those without handle : -- Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "42022910",
+   "hs6": "420229",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 8,
    "chapter": "42",
    "description": "Hand bags of other materials excluding wicker-work or basket work",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "42022990",
+   "hs6": "420229",
+   "hs6_description": "Cases and containers; handbags (whether or not with shoulder strap and including those without handle), of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "420231",
+   "hs6": "420231",
+   "hs6_description": "Cases and containers; of a kind normally carried in the pocket or in the handbag, with outer surface of leather or of composition leather",
    "level": 6,
    "chapter": "42",
    "description": "Articles of a kind normally carried in the pocket or in the handbag : -- With outer surface of leather or of composition leather",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "42023110",
+   "hs6": "420231",
+   "hs6_description": "Cases and containers; of a kind normally carried in the pocket or in the handbag, with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Jewellery box",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "42023120",
+   "hs6": "420231",
+   "hs6_description": "Cases and containers; of a kind normally carried in the pocket or in the handbag, with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Wallets and purses, of leather",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "42023190",
+   "hs6": "420231",
+   "hs6_description": "Cases and containers; of a kind normally carried in the pocket or in the handbag, with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "420232",
+   "hs6": "420232",
+   "hs6_description": "Cases and containers; of a kind normally carried in the pocket or in the handbag, with outer surface of sheeting of plastics or of textile materials",
    "level": 6,
    "chapter": "42",
    "description": "Articles of a kind normally carried in the pocket or in the handbag : -- With outer surface of sheeting of plastics or of textile materials",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "42023210",
+   "hs6": "420232",
+   "hs6_description": "Cases and containers; of a kind normally carried in the pocket or in the handbag, with outer surface of sheeting of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Jewellery box",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "42023290",
+   "hs6": "420232",
+   "hs6_description": "Cases and containers; of a kind normally carried in the pocket or in the handbag, with outer surface of sheeting of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "420239",
+   "hs6": "420239",
+   "hs6_description": "Cases and containers; of a kind normally carried in the pocket or in the handbag, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 6,
    "chapter": "42",
    "description": "Articles of a kind normally carried in the pocket or in the handbag : -- Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "42023910",
+   "hs6": "420239",
+   "hs6_description": "Cases and containers; of a kind normally carried in the pocket or in the handbag, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 8,
    "chapter": "42",
    "description": "Jewellery box",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "42023990",
+   "hs6": "420239",
+   "hs6_description": "Cases and containers; of a kind normally carried in the pocket or in the handbag, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "42029100",
+   "hs6": "420291",
+   "hs6_description": "Cases and containers; n.e.c. in heading 4202, with outer surface of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Other : -- With outer surface of leather or of composition leather",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "42029200",
+   "hs6": "420292",
+   "hs6_description": "Cases and containers; n.e.c. in heading 4202, with outer surface of sheeting of plastics or of textile materials",
    "level": 8,
    "chapter": "42",
    "description": "Other : -- With outer surface of sheeting of plastics or of textile materials",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "42029900",
+   "hs6": "420299",
+   "hs6_description": "Cases and containers; n.e.c. in heading 4202, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",
    "level": 8,
    "chapter": "42",
    "description": "Other : -- Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "4203",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "42",
    "description": "Articles of apparel and clothing accessories, of leather or of composition leather.",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "420310",
+   "hs6": "420310",
+   "hs6_description": "Apparel; articles of apparel, of leather or of composition leather",
    "level": 6,
    "chapter": "42",
    "description": "Articles of apparel",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "42031010",
+   "hs6": "420310",
+   "hs6_description": "Apparel; articles of apparel, of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Jackets and jerseys",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "42031090",
+   "hs6": "420310",
+   "hs6_description": "Apparel; articles of apparel, of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "420321",
+   "hs6": "420321",
+   "hs6_description": "Clothing accessories; gloves, mittens and mitts, specially designed for use in sports, of leather or composition leather, padded",
    "level": 6,
    "chapter": "42",
    "description": "Gloves, mittens and mitts : -- Specially designed for use in sports",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "42032110",
+   "hs6": "420321",
+   "hs6_description": "Clothing accessories; gloves, mittens and mitts, specially designed for use in sports, of leather or composition leather, padded",
    "level": 8,
    "chapter": "42",
    "description": "Gloves",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "42032120",
+   "hs6": "420321",
+   "hs6_description": "Clothing accessories; gloves, mittens and mitts, specially designed for use in sports, of leather or composition leather, padded",
    "level": 8,
    "chapter": "42",
    "description": "Mittens and mitts",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "420329",
+   "hs6": "420329",
+   "hs6_description": "Clothing accessories; gloves, mittens and mitts, n.e.c. in heading no. 4203, of leather or composition leather, not specially designed for use in sports",
    "level": 6,
    "chapter": "42",
    "description": "Gloves, mittens and mitts : -- Other",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "42032910",
+   "hs6": "420329",
+   "hs6_description": "Clothing accessories; gloves, mittens and mitts, n.e.c. in heading no. 4203, of leather or composition leather, not specially designed for use in sports",
    "level": 8,
    "chapter": "42",
    "description": "Gloves for use in industry",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "42032920",
+   "hs6": "420329",
+   "hs6_description": "Clothing accessories; gloves, mittens and mitts, n.e.c. in heading no. 4203, of leather or composition leather, not specially designed for use in sports",
    "level": 8,
    "chapter": "42",
    "description": "Other gloves",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "42032930",
+   "hs6": "420329",
+   "hs6_description": "Clothing accessories; gloves, mittens and mitts, n.e.c. in heading no. 4203, of leather or composition leather, not specially designed for use in sports",
    "level": 8,
    "chapter": "42",
    "description": "Mittens and mitts",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "42033000",
+   "hs6": "420330",
+   "hs6_description": "Clothing accessories; belts and bandoliers, of leather or of composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Belts and bandoliers",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "420340",
+   "hs6": "420340",
+   "hs6_description": "Clothing accessories; of leather or of composition leather, n.e.c. in heading no. 4203",
    "level": 6,
    "chapter": "42",
    "description": "Other clothing accessories",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "42034010",
+   "hs6": "420340",
+   "hs6_description": "Clothing accessories; of leather or of composition leather, n.e.c. in heading no. 4203",
    "level": 8,
    "chapter": "42",
    "description": "Aprons",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "42034020",
+   "hs6": "420340",
+   "hs6_description": "Clothing accessories; of leather or of composition leather, n.e.c. in heading no. 4203",
    "level": 8,
    "chapter": "42",
    "description": "Semi-chrome grain garments",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "42034090",
+   "hs6": "420340",
+   "hs6_description": "Clothing accessories; of leather or of composition leather, n.e.c. in heading no. 4203",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "4205",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "42",
    "description": "Other articles of leather or of composition leather.",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "420500",
+   "hs6": "420500",
+   "hs6_description": "Leather articles; n.e.c. in chapter 42, of leather or composition leather",
    "level": 6,
    "chapter": "42",
    "description": "Other articles of leather or of composition leather :",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "42050011",
+   "hs6": "420500",
+   "hs6_description": "Leather articles; n.e.c. in chapter 42, of leather or composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Welt",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "42050019",
+   "hs6": "420500",
+   "hs6_description": "Leather articles; n.e.c. in chapter 42, of leather or composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "42050020",
+   "hs6": "420500",
+   "hs6_description": "Leather articles; n.e.c. in chapter 42, of leather or composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Leather sofa cover",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "42050090",
+   "hs6": "420500",
+   "hs6_description": "Leather articles; n.e.c. in chapter 42, of leather or composition leather",
    "level": 8,
    "chapter": "42",
    "description": "Other",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "4206",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "42",
    "description": "Articles of gut (other than silk-worm gut), of goldbeaters skin, of bladders or of tendons.",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "42060010",
+   "hs6": "420600",
+   "hs6_description": "Articles of gut (other than silk-worm gut), of goldbeater's skin, of bladders or of tendons",
    "level": 8,
    "chapter": "42",
    "description": "For rackets",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "42060090",
+   "hs6": "420600",
+   "hs6_description": "Articles of gut (other than silk-worm gut), of goldbeater's skin, of bladders or of tendons",
    "level": 8,
    "chapter": "42",
    "description": "Other",

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "5701",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "57",
    "description": "Carpets and other textile floor coverings, knotted, whether or not made up.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "570110",
+   "hs6": "570110",
+   "hs6_description": "Carpets and other textile floor coverings; knotted, of wool or fine animal hair, whether or not made up",
    "level": 6,
    "chapter": "57",
    "description": "Of wool or fine animal hair",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "57011010",
+   "hs6": "570110",
+   "hs6_description": "Carpets and other textile floor coverings; knotted, of wool or fine animal hair, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Hand-made",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "57011090",
+   "hs6": "570110",
+   "hs6_description": "Carpets and other textile floor coverings; knotted, of wool or fine animal hair, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "570190",
+   "hs6": "570190",
+   "hs6_description": "Carpets and other textile floor coverings; knotted, of textile materials (other than wool or fine animal hair), whether or not made up",
    "level": 6,
    "chapter": "57",
    "description": "Of other textile materials",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "57019011",
+   "hs6": "570190",
+   "hs6_description": "Carpets and other textile floor coverings; knotted, of textile materials (other than wool or fine animal hair), whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Hand-made",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "57019019",
+   "hs6": "570190",
+   "hs6_description": "Carpets and other textile floor coverings; knotted, of textile materials (other than wool or fine animal hair), whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "57019020",
+   "hs6": "570190",
+   "hs6_description": "Carpets and other textile floor coverings; knotted, of textile materials (other than wool or fine animal hair), whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Of coir including geo textileOf silk:",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "57019031",
+   "hs6": "570190",
+   "hs6_description": "Carpets and other textile floor coverings; knotted, of textile materials (other than wool or fine animal hair), whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Hand-made",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "57019039",
+   "hs6": "570190",
+   "hs6_description": "Carpets and other textile floor coverings; knotted, of textile materials (other than wool or fine animal hair), whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "57019090",
+   "hs6": "570190",
+   "hs6_description": "Carpets and other textile floor coverings; knotted, of textile materials (other than wool or fine animal hair), whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "5702",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "57",
    "description": "Carpets and other textile floor coverings, woven, not tufted or flocked, whether or not made up, including \"Kelem\", \"Schumacks\", \"Karamanie\" and similar hand-woven rugs.",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "57021000",
+   "hs6": "570210",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), whether or not made up, including kelem, schumacks, karamanie and similar hand-woven rugs",
    "level": 8,
    "chapter": "57",
    "description": "'Kelem', 'Schumacks', 'Karamanie' and similar hand-woven rugs",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "570220",
+   "hs6": "570220",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), whether or not made up, of coconut fibres (coir)",
    "level": 6,
    "chapter": "57",
    "description": "Floor coverings of coconut fibres (coir)",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "57022010",
+   "hs6": "570220",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), whether or not made up, of coconut fibres (coir)",
    "level": 8,
    "chapter": "57",
    "description": "Coir matting, woven",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "57022020",
+   "hs6": "570220",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), whether or not made up, of coconut fibres (coir)",
    "level": 8,
    "chapter": "57",
    "description": "Coir carpets and other rugs",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "57022090",
+   "hs6": "570220",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), whether or not made up, of coconut fibres (coir)",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "570231",
+   "hs6": "570231",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 6,
    "chapter": "57",
    "description": "Other, of pile construction, not made up : -- Of wool or fine animal hair",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "57023110",
+   "hs6": "570231",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "57023120",
+   "hs6": "570231",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Druggets",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "57023130",
+   "hs6": "570231",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Mats and matting",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "57023140",
+   "hs6": "570231",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpeting , floor rugs and the like",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "57023190",
+   "hs6": "570231",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "570232",
+   "hs6": "570232",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 6,
    "chapter": "57",
    "description": "Other, of pile construction, not made up : -- Of man-made textile materials",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "57023210",
+   "hs6": "570232",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets, carpeting and rugs and the like",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "57023220",
+   "hs6": "570232",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Mats and matting",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "57023290",
+   "hs6": "570232",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "570239",
+   "hs6": "570239",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of textile materials (other than man-made, wool or fine animal hair), of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 6,
    "chapter": "57",
    "description": "Other, of pile construction, not made up : -- Of other textile materials",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "57023910",
+   "hs6": "570239",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of textile materials (other than man-made, wool or fine animal hair), of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets and other floor coverings other than durries of cotton",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "57023920",
+   "hs6": "570239",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of textile materials (other than man-made, wool or fine animal hair), of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets and other floor coverings, of silk",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "57023990",
+   "hs6": "570239",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of textile materials (other than man-made, wool or fine animal hair), of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "570241",
+   "hs6": "570241",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 6,
    "chapter": "57",
    "description": "Other, of pile construction, made up : -- Of wool or fine animal hair",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "57024110",
+   "hs6": "570241",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "57024120",
+   "hs6": "570241",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Druggets",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "57024130",
+   "hs6": "570241",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Mats and matting",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "57024190",
+   "hs6": "570241",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "570242",
+   "hs6": "570242",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 6,
    "chapter": "57",
    "description": "Other, of pile construction, made up : -- Of man-made textile materials",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "57024210",
+   "hs6": "570242",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets, carpeting and rugs",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "57024220",
+   "hs6": "570242",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Mats and mattings",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "57024230",
+   "hs6": "570242",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets, rugs and mats of Handloom",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "57024290",
+   "hs6": "570242",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "570249",
+   "hs6": "570249",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of textile materials (other than man-made, wool or fine animal hair), of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 6,
    "chapter": "57",
    "description": "Other, of pile construction, made up : -- Of other textile materials",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "57024910",
+   "hs6": "570249",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of textile materials (other than man-made, wool or fine animal hair), of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets and other floor coverings other than durries of cotton",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "57024920",
+   "hs6": "570249",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of textile materials (other than man-made, wool or fine animal hair), of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets and other floor coverings, of silk",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "57024990",
+   "hs6": "570249",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of textile materials (other than man-made, wool or fine animal hair), of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "570250",
+   "hs6": "570250",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), not of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 6,
    "chapter": "57",
    "description": "Other, not of pile construction, not made up",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "57025021",
+   "hs6": "570250",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), not of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Of man-made textile materials: ---- Carpets, Carpeting and rugs",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "57025022",
+   "hs6": "570250",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), not of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Of man-made textile materials: ---- Mats and matting",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "57025029",
+   "hs6": "570250",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), not of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "of other textile materials",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "57025031",
+   "hs6": "570250",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), not of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Of other textile materials ---- Carpets and other floor coverings, Of cotton other than durries",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "57025032",
+   "hs6": "570250",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), not of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Of other textile materials ---- Carpets and other floor coverings, of silk",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "57025033",
+   "hs6": "570250",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), not of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Of other textile materials ---- Place mat and other similar goods",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "57025039",
+   "hs6": "570250",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), not of pile construction, not made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Of other textile materials ---- Other",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "570291",
+   "hs6": "570291",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, (not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 6,
    "chapter": "57",
    "description": "Other, not of pile construction, made up : -- Of wool or fine animal hair",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "57029110",
+   "hs6": "570291",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, (not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "57029120",
+   "hs6": "570291",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, (not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Druggets",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "57029130",
+   "hs6": "570291",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, (not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Mats and matting",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "57029190",
+   "hs6": "570291",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of wool or fine animal hair, (not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "570292",
+   "hs6": "570292",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, (not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 6,
    "chapter": "57",
    "description": "Other, not of pile construction, made up : -- Of man-made textile materials",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "57029210",
+   "hs6": "570292",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, (not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets, carpeting and rugs",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "57029220",
+   "hs6": "570292",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, (not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Mats and mattings",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "57029290",
+   "hs6": "570292",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, (not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "570299",
+   "hs6": "570299",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of textile materials (other than man-made or wool or fine animal hair, not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 6,
    "chapter": "57",
    "description": "Other, not of pile construction, made up : -- Of other textile materials",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "57029910",
+   "hs6": "570299",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of textile materials (other than man-made or wool or fine animal hair, not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets and other floor coverings, of cotton other than durries",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "57029920",
+   "hs6": "570299",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of textile materials (other than man-made or wool or fine animal hair, not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Carpets and other floor coverings, of silk",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "57029990",
+   "hs6": "570299",
+   "hs6_description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of textile materials (other than man-made or wool or fine animal hair, not of pile construction), made up, n.e.c. in item no. 5702.10 or 5702.20",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "5703",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "57",
    "description": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS (INCLUDING TURF), TUFTED, WHETHER OR NOT MADEUP",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "570310",
+   "hs6": "570310",
+   "hs6_description": "Carpets and other textile floor coverings (including turf); tufted, of wool or fine animal hair, whether or not made up",
    "level": 6,
    "chapter": "57",
    "description": "Of wool or fine animal hair",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "57031010",
+   "hs6": "570310",
+   "hs6_description": "Carpets and other textile floor coverings (including turf); tufted, of wool or fine animal hair, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Carpets",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "57031020",
+   "hs6": "570310",
+   "hs6_description": "Carpets and other textile floor coverings (including turf); tufted, of wool or fine animal hair, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Mats and matting",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "57031090",
+   "hs6": "570310",
+   "hs6_description": "Carpets and other textile floor coverings (including turf); tufted, of wool or fine animal hair, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "57032100",
+   "hs6": "570321",
+   "hs6_description": "Carpets and other textile floor coverings; tufted, of nylon or other polyamides, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Of nylon or other polyamides: - - Turf",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "570329",
+   "hs6": "570329",
+   "hs6_description": "Carpets; tufted, of nylon or other polyamides, whether or not made up",
    "level": 6,
    "chapter": "57",
    "description": "Of nylon or other polyamides: - - Other:",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "57032910",
+   "hs6": "570329",
+   "hs6_description": "Carpets; tufted, of nylon or other polyamides, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Of nylon or other polyamides: - - Carpets, carpeting and rugs",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "57032921",
+   "hs6": "570329",
+   "hs6_description": "Carpets; tufted, of nylon or other polyamides, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "100% polyamide tufted velour, cut pile or loop pile carpet mats :---- With jute, rubber latex or PU foam backing",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "57032922",
+   "hs6": "570329",
+   "hs6_description": "Carpets; tufted, of nylon or other polyamides, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "100% polyamide tufted velour, cut pile or loop pile carpet mats :---- With ethylene vinyl acetate or vinyl acetate ethylene or latex coating and/or extruded polyvinyl chloride or thermoplastic polyolefin, with special finishes",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "57032929",
+   "hs6": "570329",
+   "hs6_description": "Carpets; tufted, of nylon or other polyamides, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "100% polyamide tufted velour, cut pile or loop pile carpet mats :---- Other",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "57032990",
+   "hs6": "570329",
+   "hs6_description": "Carpets; tufted, of nylon or other polyamides, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Of nylon or other polyamides: - - - Other",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "57033100",
+   "hs6": "570331",
+   "hs6_description": "Carpets and other textile floor coverings; tufted, of other man-made textile materials (other than polyamides), whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Of other man-made textile materials: - - Turf",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "570339",
+   "hs6": "570339",
+   "hs6_description": "Carpets; tufted, of man-made textile materials (other than polyamides), whether of not made up",
    "level": 6,
    "chapter": "57",
    "description": "Of other man-made textile materials: - - Other:",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "57033910",
+   "hs6": "570339",
+   "hs6_description": "Carpets; tufted, of man-made textile materials (other than polyamides), whether of not made up",
    "level": 8,
    "chapter": "57",
    "description": "Of other man-made textile materials: - - - Carpets, carpeting and rugs",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "57033920",
+   "hs6": "570339",
+   "hs6_description": "Carpets; tufted, of man-made textile materials (other than polyamides), whether of not made up",
    "level": 8,
    "chapter": "57",
    "description": "Of other man-made textile materials: - - - 100% polypropylene carpet mats with jute, rubber, latex or PU foam backing",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "57033931",
+   "hs6": "570339",
+   "hs6_description": "Carpets; tufted, of man-made textile materials (other than polyamides), whether of not made up",
    "level": 8,
    "chapter": "57",
    "description": "Tufted velour, cut pile or loop pile carpet mats with ethylene vinyl acetate or vinyl acetate ethylene or latex coating and/or extruded polyvinyl chloride or thermoplastic polyolefin, with special finishes:---- Of 100% polypropylene",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "57033932",
+   "hs6": "570339",
+   "hs6_description": "Carpets; tufted, of man-made textile materials (other than polyamides), whether of not made up",
    "level": 8,
    "chapter": "57",
    "description": "Tufted velour, cut pile or loop pile carpet mats with ethylene vinyl acetate or vinyl acetate ethylene or latex coating and/or extruded polyvinyl chloride or thermoplastic polyolefin, with special finishes:---- Of 100% polyester",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "57033933",
+   "hs6": "570339",
+   "hs6_description": "Carpets; tufted, of man-made textile materials (other than polyamides), whether of not made up",
    "level": 8,
    "chapter": "57",
    "description": "Tufted velour, cut pile or loop pile carpet mats with ethylene vinyl acetate or vinyl acetate ethylene or latex coating and/or extruded polyvinyl chloride or thermoplastic polyolefin, with special finishes:---- Of 100% polyethylene",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "57033939",
+   "hs6": "570339",
+   "hs6_description": "Carpets; tufted, of man-made textile materials (other than polyamides), whether of not made up",
    "level": 8,
    "chapter": "57",
    "description": "Tufted velour, cut pile or loop pile carpet mats with ethylene vinyl acetate or vinyl acetate ethylene or latex coating and/or extruded polyvinyl chloride or thermoplastic polyolefin, with special finishes:---- Other",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "57033990",
+   "hs6": "570339",
+   "hs6_description": "Carpets; tufted, of man-made textile materials (other than polyamides), whether of not made up",
    "level": 8,
    "chapter": "57",
    "description": "Of other man-made textile materials: - - - Other",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "570390",
+   "hs6": "570390",
+   "hs6_description": "Carpets and other textile floor coverings; tufted, of textile materials (other than man-made, wool or fine animal hair), whether or not made up",
    "level": 6,
    "chapter": "57",
    "description": "Of other textile materials",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "57039010",
+   "hs6": "570390",
+   "hs6_description": "Carpets and other textile floor coverings; tufted, of textile materials (other than man-made, wool or fine animal hair), whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Carpets and other floor coverings, of cotton, other than durries",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "57039090",
+   "hs6": "570390",
+   "hs6_description": "Carpets and other textile floor coverings; tufted, of textile materials (other than man-made, wool or fine animal hair), whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "5704",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "57",
    "description": "Carpets and other textile floor coverings, of felt, not tufted or flocked, whether or not made up.",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "57041000",
+   "hs6": "570410",
+   "hs6_description": "Textile floor coverings; felt tiles, (not tufted or flocked), whether or not made up, having a maximum surface area of 0.3m2",
    "level": 8,
    "chapter": "57",
    "description": "Tiles, having a maximum surface area of 0.3 m²",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "570420",
+   "hs6": "570420",
+   "hs6_description": "Carpets and other textile floor coverings; of felt, (not tufted or flocked), whether or not made up, having a maximum surface area exceeding 0.3 m2 but not exceeding 1 m2",
    "level": 6,
    "chapter": "57",
    "description": "Tiles, having a maximum surface area exceeding 0.3 m² but not exceeding 1 m²",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "57042010",
+   "hs6": "570420",
+   "hs6_description": "Carpets and other textile floor coverings; of felt, (not tufted or flocked), whether or not made up, having a maximum surface area exceeding 0.3 m2 but not exceeding 1 m2",
    "level": 8,
    "chapter": "57",
    "description": "Cotton",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "57042020",
+   "hs6": "570420",
+   "hs6_description": "Carpets and other textile floor coverings; of felt, (not tufted or flocked), whether or not made up, having a maximum surface area exceeding 0.3 m2 but not exceeding 1 m2",
    "level": 8,
    "chapter": "57",
    "description": "Woollen, other than artware",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "57042090",
+   "hs6": "570420",
+   "hs6_description": "Carpets and other textile floor coverings; of felt, (not tufted or flocked), whether or not made up, having a maximum surface area exceeding 0.3 m2 but not exceeding 1 m2",
    "level": 8,
    "chapter": "57",
    "description": "Other",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "570490",
+   "hs6": "570490",
+   "hs6_description": "Carpets and other textile floor coverings; of felt, (not tufted or flocked), in the piece, whether or not made up, having a maximum surface area exceeding 1 m2",
    "level": 6,
    "chapter": "57",
    "description": "Other",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "57049010",
+   "hs6": "570490",
+   "hs6_description": "Carpets and other textile floor coverings; of felt, (not tufted or flocked), in the piece, whether or not made up, having a maximum surface area exceeding 1 m2",
    "level": 8,
    "chapter": "57",
    "description": "Cotton",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "57049020",
+   "hs6": "570490",
+   "hs6_description": "Carpets and other textile floor coverings; of felt, (not tufted or flocked), in the piece, whether or not made up, having a maximum surface area exceeding 1 m2",
    "level": 8,
    "chapter": "57",
    "description": "Woollen, other than artware",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "57049090",
+   "hs6": "570490",
+   "hs6_description": "Carpets and other textile floor coverings; of felt, (not tufted or flocked), in the piece, whether or not made up, having a maximum surface area exceeding 1 m2",
    "level": 8,
    "chapter": "57",
    "description": "Others",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "5705",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "57",
    "description": "Other carpets and other textile floor coverings, whether or not made up.",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "570500",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 6,
    "chapter": "57",
    "description": "Other carpets and other textile floor coverings, whether or not made up:",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "57050011",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Carpets: ---- Of silk",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "57050019",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Carpets: ---- Other",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "57050021",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Durries: ---- Durries cotton",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "57050022",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Durries: ---- Durries of man-made fibres",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "57050023",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Durries: ---- Durries of wool",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "57050024",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Durries: ---- Cotton Durries of Handloom (including Chindi Durries, Cotton, Chenille Durries, Rag Rug Durries, Printed Durries, Druggets)",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "57050029",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Durries: ---- Other",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "57050031",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Of jute: ---- Of blended jute",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "57050032",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Of jute: ---- of coir jute",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "57050039",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Of jute: ---- Other",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "57050041",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Carpets, carpeting, rugs, mats and mattings: ---- knitted",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "57050042",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Carpets, carpeting, rugs, mats and mattings: ---- Mats and mattings including Bath Mats, where cotton predominates by weight, of Handloom, Cotton Rugs of Handloom",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "57050049",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Carpets, carpeting, rugs, mats and mattings: ---- Other",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "57050090",
+   "hs6": "570500",
+   "hs6_description": "Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",
    "level": 8,
    "chapter": "57",
    "description": "Carpets, carpeting, rugs, mats and mattings: ---- Other",

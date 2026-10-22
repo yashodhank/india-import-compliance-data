@@ -1,373 +1,373 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-7301,4,73,"Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel.",,,,,,2026-10-22
-73011000,8,73,Sheet piling,Free,,,,,2026-10-22
-730120,6,73,"Angles, shapes and sections",,,,,,2026-10-22
-73012010,8,73,Steel slotted angles,Free,,,,,2026-10-22
-73012090,8,73,Other,Free,,,,,2026-10-22
-7302,4,73,"Railway or tramway track construction material of iron or steel, the following : rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers (cross-ties), fish-plates, chairs, chair wedges, sole plates (base plates), rail clips, bedplates, ties and other material specialized for jointing or fixing rails.",,,,,,2026-10-22
-730210,6,73,Rails,,,,,,2026-10-22
-73021011,8,73,For railways:----Head hardened rails,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-73021012,8,73,For railways:----Asymmetric rails with end forging,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-73021013,8,73,For railways:----Asymmetric rails without end forging,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-73021014,8,73,For railways:----Other than asymmetric rails and head hardened rails,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-73021019,8,73,For railways:----Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-73021020,8,73,For Tramways,Free,,,,,2026-10-22
-73021090,8,73,Other,Free,,,,,2026-10-22
-73023000,8,73,"Switch blades, crossing frogs, point rods and other crossing pieces",Free,,,,,2026-10-22
-73024000,8,73,Fish-plates and sole plates,Free,,,,,2026-10-22
-730290,6,73,Other,,,,,,2026-10-22
-73029010,8,73,Material for joining or fixing rails,Free,,,,,2026-10-22
-73029090,8,73,Other,Free,,,,,2026-10-22
-7303,4,73,"Tubes, pipes and hollow profiles, of cast iron.",,,,,,2026-10-22
-730300,6,73,"Tubes, pipes and hollow profiles, of cast iron:",,,,,,2026-10-22
-73030010,8,73,Rain water pipe,Free,"Ductile iron fittings for pressure pipes for water, gas and sewage must conform to IS 9523",,,,2026-10-22
-73030020,8,73,Soil pipe,Free,,,,,2026-10-22
-73030030,8,73,Spun pipe,Free,"Centrifugally cast (spun) ductile iron pressure pipes for water, gas and sewage must conform to IS 8329",,,,2026-10-22
-73030090,8,73,Other,Free,,,,,2026-10-22
-7304,4,73,"Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel.",,,,,,2026-10-22
-730411,6,73,Line pipe of a kind used for oil or gas pipelines : -- Of stainless steel,,,,,,2026-10-22
-73041110,8,73,Tubes and pipes,Free,"Centrifugally cast (spun) ductile iron pressure pipes for water, gas and sewage must conform to IS 8329",,,,2026-10-22
-73041120,8,73,Blanks for tubes and pipes,Free,,,,,2026-10-22
-73041190,8,73,Other,Free,,,,,2026-10-22
-730419,6,73,Line pipe of a kind used for oil or gas pipelines : -- Other,,,,,,2026-10-22
-73041910,8,73,Tubes and pipes,Free,,,,,2026-10-22
-73041920,8,73,Blanks for tubes and pipes,Free,,,,,2026-10-22
-73041990,8,73,Other,Free,,,,,2026-10-22
-73042200,8,73,"Casing, tubing and drill pipe, of a kind used in drilling for oil or gas --Drill pipe of stainless steel",Free,,,,,2026-10-22
-730423,6,73,"Casing, tubing and drill pipe, of a kind used in drilling for oil or gas -- Other drill pipe",,,,,,2026-10-22
-73042310,8,73,Of iron,Free,,,,,2026-10-22
-73042390,8,73,Other,Free,,,,,2026-10-22
-73042400,8,73,"Casing, tubing and drill pipe, of a kind used in drilling for oil or gas -- Other, of stainless steel",Free,,,,,2026-10-22
-730429,6,73,"Casing, tubing and drill pipe, of a kind used in drilling for oil or gas -- Other",,,,,,2026-10-22
-73042910,8,73,Of iron,Free,,,,,2026-10-22
-73042990,8,73,Other,Free,,,,,2026-10-22
-730431,6,73,"Other, of circular cross-section, of iron or non-alloy steel : -- Cold-drawn or cold-rolled (cold-reduced)",,,,,,2026-10-22
-73043111,8,73,Of iron,Free,,,,,2026-10-22
-73043119,8,73,Other,Free,,,,,2026-10-22
-73043121,8,73,Above 114.3 mm but up to 219.1 mm outer diameter: ---- Of iron,Free,,,,,2026-10-22
-73043129,8,73,Above 114.3 mm but up to 219.1 mm outer diameter: ---- Other,Free,,,,,2026-10-22
-73043131,8,73,Above 219.1 mm diameter: ---- Of iron,Free,,,,,2026-10-22
-73043139,8,73,Above 219.1 mm diameter: ---- Other,Free,,,,,2026-10-22
-730439,6,73,"Other, of circular cross-section, of iron or non-alloy steel : -- Other",,,,,,2026-10-22
-73043911,8,73,Up to 114.3 mm outer diameter: ---- Of iron,Free,,,,,2026-10-22
-73043919,8,73,Up to 114.3 mm outer diameter: ----Other,Free,,,,,2026-10-22
-73043921,8,73,Above 114.3 mm but up to 219.1 mm outer diameters: ---- Of iron,Free,,,,,2026-10-22
-73043929,8,73,Above 114.3 mm but up to 219.1 mm outer diameters: ---- Other,Free,,,,,2026-10-22
-73043931,8,73,Above 219.1 mm diameter: ---- Of iron,Free,,,,,2026-10-22
-73043939,8,73,Above 219.1 mm diameter: ---- Other,Free,,,,,2026-10-22
-73044100,8,73,"Other, of circular cross-section, of stainless steel : -- Cold-drawn or cold-rolled (cold-reduced)",Free,,,,,2026-10-22
-73044900,8,73,"Other, of circular cross-section, of stainless steel : -- Other",Free,,,,,2026-10-22
-730451,6,73,"Other, of circular cross-section, of other alloy steel : -- Cold-drawn or cold-rolled (cold-reduced)",,,,,,2026-10-22
-73045110,8,73,Up to 114.3 mm diameter,Free,,,,,2026-10-22
-73045120,8,73,Above 114.3 mm but up to 219.1 mm outer diameter,Free,,,,,2026-10-22
-73045130,8,73,Above 219.1 mm outer diameter,Free,,,,,2026-10-22
-730459,6,73,"Other, of circular cross-section, of other alloy steel : -- Other",,,,,,2026-10-22
-73045910,8,73,Up to 114.3 mm diameter,Free,,,,,2026-10-22
-73045920,8,73,Above 114.3 mm but up to 219.1 mm outer diameter,Free,,,,,2026-10-22
-73045930,8,73,Above 219.1 mm outer diameter,Free,,,,,2026-10-22
-73049000,8,73,Other,Free,,,,,2026-10-22
-7305,4,73,"Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross-sections, the external diameter of which exceeds 406.4 mm, of iron or steel.",,,,,,2026-10-22
-730511,6,73,Line pipe of a kind used for oil or gas pipelines : -- Longitudinally submerged arc welded,,,,,,2026-10-22
-73051111,8,73,Galvanised pipes: ---- Of iron,Free,,,,,2026-10-22
-73051119,8,73,"----Other---Non-galvanised pipes, of iron :",Free,,,24/2026-27,2026-07-22,2026-10-22
-73051131,8,73,"---Non-galvanised pipes, of iron :----Clad, plated or coated",Free,,,24/2026-27,2026-07-22,2026-10-22
-73051139,8,73,--- Non-galvanised pipes: ---- Of iron,Free,,,24/2026-27,2026-07-22,2026-10-22
-73051141,8,73,"---Non-galvanised pipes, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
-73051149,8,73,--- Non-galvanised pipes: ---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-730512,6,73,"Line pipe of a kind used for oil or gas pipelines : -- Other, longitudinally welded",,,,,,2026-10-22
-73051211,8,73,Galvanised pipes: ---- Of iron,Free,,,,,2026-10-22
-73051219,8,73,"-------Non-galvanised pipes, of iron :",Free,,,24/2026-27,2026-07-22,2026-10-22
-73051231,8,73,"--- Non-galvanised pipes, other :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
-73051239,8,73,--- Non-galvanised pipes: ---- Of iron,Free,,,24/2026-27,2026-07-22,2026-10-22
-73051241,8,73,"---Non-galvanised pipes, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
-73051249,8,73,--- Non-galvanised pipes: ---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-730519,6,73,Line pipe of a kind used for oil or gas pipelines : -- Other,,,,,,2026-10-22
-73051911,8,73,Galvanised pipes: ---- Of iron,Free,,,,,2026-10-22
-73051919,8,73,----Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-73051931,8,73,"---Non-galvanised pipes, other :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
-73051939,8,73,--- Non-galvanised (black) pipes: ---- of Iron,Free,,,24/2026-27,2026-07-22,2026-10-22
-73051941,8,73,"---Non-galvanised pipes, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
-73051949,8,73,-- Non-galvanised (black) pipes: ----other,Free,,,24/2026-27,2026-07-22,2026-10-22
-730520,6,73,Casing of a kind used in drilling for oil or gas,,,,,,2026-10-22
-73052010,8,73,Of iron,Free,,,,,2026-10-22
-73052090,8,73,Other,Free,,,,,2026-10-22
-730531,6,73,"Other, welded : -- Longitudinally welded",,,,,,2026-10-22
-73053111,8,73,"---Non-galvanised pipes, other :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
-73053119,8,73,"---Non-galvanised, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
-73053121,8,73,---Of Iron,Free,,,24/2026-27,2026-07-22,2026-10-22
-73053129,8,73,---Galvanised :----Of iron,Free,,,24/2026-27,2026-07-22,2026-10-22
-73053131,8,73,---Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-73053139,8,73,---Galvanised :----Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-730539,6,73,"Other, welded : -- Other",,,,,,2026-10-22
-73053911,8,73,"---Non-galvanised, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
-73053919,8,73,"---Non-galvanised, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
-73053921,8,73,---of Iron,Free,,,24/2026-27,2026-07-22,2026-10-22
-73053929,8,73,---Galvanised :----Of iron,Free,,,24/2026-27,2026-07-22,2026-10-22
-73053931,8,73,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-73053939,8,73,---Galvanised :----Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-730590,6,73,Other,,,,,,2026-10-22
-73059010,8,73,High pressure hydroelectric conduits of steel,Free,,,,,2026-10-22
-73059021,8,73,ERW precision tubes: ---- Of iron,Free,,,,,2026-10-22
-73059029,8,73,ERW precision tubes: ---- Other,Free,,,,,2026-10-22
-73059091,8,73,Other: ---- Of iron,Free,,,,,2026-10-22
-73059099,8,73,Other: ---- Other,Free,,,,,2026-10-22
-7306,4,73,"Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel.",,,,,,2026-10-22
-73061100,8,73,"Line pipe of a kind used for oil or gas pipelines : -- Welded, of stainless steel",Free,,,,,2026-10-22
-730619,6,73,Line pipe of a kind used for oil or gas pipelines : -- Other,,,,,,2026-10-22
-73061911,8,73,Galvanised pipes: ---- Of iron,Free,,,,,2026-10-22
-73061919,8,73,---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-73061931,8,73,"---Non-galvanised, other :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
-73061939,8,73,--- Non galvanised pipes: ---- Of iron,Free,,,24/2026-27,2026-07-22,2026-10-22
-73061941,8,73,"---Non-galvanised pipes, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
-73061949,8,73,--- Non galvanised pipes: ---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
-73062100,8,73,"Casing and tubing of a kind used in drilling for oil or gas : -- Welded, of stainless steel",Free,,,,,2026-10-22
-730629,6,73,Casing and tubing of a kind used in drilling for oil or gas : -- Other,,,,,,2026-10-22
-73062911,8,73,Of iron,Free,,,,,2026-10-22
-73062919,8,73,Other,Free,,,,,2026-10-22
-730630,6,73,"Other, welded, of circular cross-section, of iron or non-alloy steel",,,,,,2026-10-22
-73063010,8,73,Of iron,Free,"Mild steel tubes, tubular products and other wrought steel fittings Part 1 Mild steel tubes must conform to IS 1239(Part 1)",,,,2026-10-22
-73063090,8,73,Other,Free,,,,,2026-10-22
-73064000,8,73,"Other, welded, of circular cross-section, of stainless steel",Free,,,,,2026-10-22
-73065000,8,73,"Other, welded, of circular cross-section, of other alloy steel",Free,,,,,2026-10-22
-73066100,8,73,"Other, welded, of non-circular cross-section : -- Of square or rectangular cross-section",Free,,,,,2026-10-22
-73066900,8,73,"Other, welded, of non-circular cross-section : -- Of other non-circular cross-section",Free,,,,,2026-10-22
-730690,6,73,Other,,,,,,2026-10-22
-73069011,8,73,ERW precision tubes: ---- Of iron,Free,,,,,2026-10-22
-73069019,8,73,ERW precision tubes: ---- Other,Free,,,,,2026-10-22
-73069090,8,73,ERW precision tubes: ---- Other,Free,,,,,2026-10-22
-7307,4,73,"Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel.",,,,,,2026-10-22
-730711,6,73,Cast fittings : -- Of non-malleable cast iron,,,,,,2026-10-22
-73071110,8,73,Sponge iron cast fittings,Free,,,,,2026-10-22
-73071120,8,73,SG iron cast fittings,Free,,,,,2026-10-22
-73071190,8,73,Other,Free,,,,,2026-10-22
-73071900,8,73,Cast fittings : -- Other,Free,,,,,2026-10-22
-73072100,8,73,"Other, of stainless steel : -- Flanges",Free,,,,,2026-10-22
-73072200,8,73,"Other, of stainless steel : -- Threaded elbows, bends and sleeves",Free,,,,,2026-10-22
-73072300,8,73,"Other, of stainless steel : -- Butt welding fittings",Free,,,,,2026-10-22
-73072900,8,73,"Other, of stainless steel : -- Other",Free,,,,,2026-10-22
-730791,6,73,Other : -- Flanges,,,,,,2026-10-22
-73079110,8,73,Galvanised,Free,,,,,2026-10-22
-73079190,8,73,Other,Free,,,,,2026-10-22
-730792,6,73,"Other : -- Threaded elbows, bends and sleeves",,,,,,2026-10-22
-73079210,8,73,Galvanised,Free,,,,,2026-10-22
-73079290,8,73,Other,Free,,,,,2026-10-22
-730793,6,73,Other : -- Butt welding fittings,,,,,,2026-10-22
-73079310,8,73,Galvanised,Free,,,,,2026-10-22
-73079390,8,73,Other,Free,,,,,2026-10-22
-730799,6,73,Other : -- Other,,,,,,2026-10-22
-73079910,8,73,Galvanised,Free,,,,,2026-10-22
-73079990,8,73,Other,Free,,,,,2026-10-22
-7308,4,73,"Structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridge-sections, lock-gates, towers, lattice masts, roofs, roofing frame-works, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel.",,,,,,2026-10-22
-730810,6,73,Bridges and bridge-sections :,,,,,,2026-10-22
-73081010,8,73,Portable bridge,Free,Steel tubes for structural purposes must conform to IS 1161,,40/2024-25,2024-11-26,2026-10-22
-73081090,8,73,Other,Free,Steel tubes for structural purposes must conform to IS 1161,,40/2024-25,2024-11-26,2026-10-22
-730820,6,73,Towers and lattice masts,,,,,,2026-10-22
-73082011,8,73,"Towers, whether or not assembled: ---- For transmission line",Free,,,,,2026-10-22
-73082019,8,73,"Towers, whether or not assembled: ---- Other",Free,Subject to Policy conditions 04 of chapter,4,40/2025-26,2025-10-10,2026-10-22
-73082020,8,73,"Towers, whether or not assembled: ---- Lattice masts",Free,,,,,2026-10-22
-73083000,8,73,"Doors, windows and their frames and thresholds for doors",Free,,,,,2026-10-22
-73084000,8,73,"Equipment for scaffolding, shuttering, propping or pitpropping",Free,,,,,2026-10-22
-730890,6,73,Other,,,,,,2026-10-22
-73089010,8,73,"Beams, channels, pillars and girders prepared for use in structures",Free,,,,,2026-10-22
-73089020,8,73,Drop rods,Free,,,,,2026-10-22
-73089030,8,73,"Hatchway, rails and bulkheads for ships or boats and parts of hull",Free,,,,,2026-10-22
-73089040,8,73,Galvanised tension bars,Free,,,,,2026-10-22
-73089050,8,73,Structures and super structures for mining,Free,,,,,2026-10-22
-73089060,8,73,Truss rods,Free,,,,,2026-10-22
-73089070,8,73,Tubular steel poles for electric transmission and distribution lines,Free,,,,,2026-10-22
-73089090,8,73,Other,Free,,,,,2026-10-22
-7309,4,73,"Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment.",,,,,,2026-10-22
-730900,6,73,"Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment :",,,,,,2026-10-22
-73090010,8,73,Galvanized iron tanks,Free,,,,,2026-10-22
-73090020,8,73,Galvanized iron barrels and drums,Free,,,,,2026-10-22
-73090030,8,73,Pressed steel tanks,Free,,,,,2026-10-22
-73090040,8,73,Pressure vessels,Free,,,,,2026-10-22
-73090090,8,73,Other,Free,,,,,2026-10-22
-7310,4,73,"Tanks, casks, drums, cans, boxes and similar containers, for any of a capacity not exceeding 300 l, whether or not lined or heat-",,,,,,2026-10-22
-731010,6,73,Of a capacity of 50 l or more,,,,,,2026-10-22
-73101010,8,73,Tin plate containers,Free,,,,,2026-10-22
-73101020,8,73,Trunks and cases,Free,,,,,2026-10-22
-73101090,8,73,Other,Free,,,,,2026-10-22
-731021,6,73,Of a capacity of less than 50 l : -- Cans which are to be closed by soldering or crimping,,,,,,2026-10-22
-73102110,8,73,Tin plate containers,Free,,,,,2026-10-22
-73102190,8,73,Other,Free,,,,,2026-10-22
-731029,6,73,Of a capacity of less than 50 l : -- Other,,,,,,2026-10-22
-73102910,8,73,Tin plate containers,Free,,,,,2026-10-22
-73102920,8,73,Trunks and cases,Free,,,,,2026-10-22
-73102990,8,73,Other,Free,,,,,2026-10-22
-7311,4,73,"Containers for compressed or liquefied gas, of iron or steel.",,,,,,2026-10-22
-731100,6,73,"Containers for compressed or liquefied gas, of iron or steel :",,,,,,2026-10-22
-73110010,8,73,Liquefied petroleum gas (LPG) cylinder,Free,"LPG containers for automotive use must conform to IS 14899, Welded low carbon steel gas cylinder exceeding 5 litre water capacity for low pressure liquefiable gases Part 1 Cylinders for liquefied petroleum gas (LPG) must conform to IS 3196(Pt 1)",,,,2026-10-22
-73110020,8,73,Low pressure cylinder (working pressure upto 35.2 kg/sq.cm other than LPG),Free,Welded low carbon steel cylinders exceeding 5 litre Water capacity for low pressure liquefiable gases Part 4 Cylinders for toxic and corrosive gases must conform to IS 3196 (Part 4) and Welded low carbon steel gas cylinder exceeding 5-litre water capacity for low pressure liquefiable gases Part 2 Cylinders for liquefiable gases other than LPG must conform to IS 3196(Pt 2),,,,2026-10-22
-73110030,8,73,High pressure cylinder (working pressure exceeding 35.2 kg/sq.cm),Free,Welded low carbon steel gas cylinder for low pressure liquefiable gases not exceeding 5 litre water capacity must conform to IS 7142 and Refillable Seamless steel gas cylinders Part 1 Normalized steel cylinders must conform to IS 7285 (Part 2).,,,,2026-10-22
-73110090,8,73,Other,Free,Welded and seamless steel dissolved acetylene gas cylinders must conform to IS 7312.,,,,2026-10-22
-7312,4,73,"Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated.",,,,,,2026-10-22
-731210,6,73,"Stranded wire, ropes and cables",,,,,,2026-10-22
-73121010,8,73,"Wire ropes, black",Free,,,,,2026-10-22
-73121020,8,73,"Wire ropes, galvanised",Free,,,,,2026-10-22
-73121030,8,73,Stranded wire,Free,Specification for uncoated stress relieved low relaxation seven ply strand for pre- stressed concrete must conform to IS 14268 and uncoated stress relieved strand for Pre-stressed concrete must conform to IS 6006.,,,,2026-10-22
-73121090,8,73,Other,Free,,,,,2026-10-22
-73129000,8,73,Other,Free,,,,,2026-10-22
-7313,4,73,"Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel.",,,,,,2026-10-22
-731300,6,73,"Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel :",,,,,,2026-10-22
-73130010,8,73,Barbed wire,Free,,,,,2026-10-22
-73130020,8,73,"Twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing",Free,,,,,2026-10-22
-7314,4,73,"Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel.",,,,,,2026-10-22
-73141200,8,73,"Woven cloth : -- Endless bands for machinery, of stainless steel",Free,,,,,2026-10-22
-731414,6,73,"Woven cloth : -- Other woven cloth, of stainless steel",,,,,,2026-10-22
-73141410,8,73,"Wire gauze (wire cloth, wire mesh)",Free,,,,,2026-10-22
-73141490,8,73,Other,Free,,,,,2026-10-22
-731419,6,73,Woven cloth : -- Other,,,,,,2026-10-22
-73141910,8,73,"Wire gauze (wire cloth, wire mesh)",Free,,,,,2026-10-22
-73141990,8,73,Other,Free,,,,,2026-10-22
-731420,6,73,"Grill, netting and fencing, welded at the intersection, of wire with a maximum cross-sectional dimension of 3 mm or more and having a mesh size of 100 cm² or more",,,,,,2026-10-22
-73142010,8,73,Wire netting,Free,,,,,2026-10-22
-73142090,8,73,Other,Free,,,,,2026-10-22
-73143100,8,73,"Other grill, netting and fencing, welded at the intersection : -- Plated or coated with zinc",Free,,,,,2026-10-22
-73143900,8,73,"Other grill, netting and fencing, welded at the intersection : -- Other",Free,,,,,2026-10-22
-731441,6,73,"Other cloth, grill, netting and fencing : -- Plated or coated with zinc",,,,,,2026-10-22
-73144110,8,73,Wire netting,Free,,,,,2026-10-22
-73144190,8,73,Other,Free,,,,,2026-10-22
-731442,6,73,"Other cloth, grill, netting and fencing : -- Coated with plastics",,,,,,2026-10-22
-73144210,8,73,Wire netting,Free,,,,,2026-10-22
-73144290,8,73,Other,Free,,,,,2026-10-22
-731449,6,73,"Other cloth, grill, netting and fencing : -- Other",,,,,,2026-10-22
-73144910,8,73,Wire netting,Free,,,,,2026-10-22
-73144990,8,73,Other,Free,,,,,2026-10-22
-73145000,8,73,Expanded metal,Free,,,,,2026-10-22
-7315,4,73,"Chain and parts thereof, of iron or steel.",,,,,,2026-10-22
-73151100,8,73,Articulated link chain and parts thereof : -- Roller chain,Free,"However, import of Roller chains and parts thereof having a CIF value of less than ₹ 235 per kilogram is 'Restricted'.",,13/2025-26,2025-05-26,2026-10-22
-731512,6,73,Articulated link chain and parts thereof : -- Other chain,,,,,,2026-10-22
-73151210,8,73,Lifting and hoisting chain,Free,,,,,2026-10-22
-73151220,8,73,Ship chain,Free,,,,,2026-10-22
-73151290,8,73,Other,Free,,,,,2026-10-22
-73151900,8,73,Articulated link chain and parts thereof : -- Parts,Free,"However, import of Roller chains and parts thereof having a CIF value of less than ₹ 235 per kilogram is 'Restricted'.",,13/2025-26,2025-05-26,2026-10-22
-73152000,8,73,Skid chain,Free,,,,,2026-10-22
-73158100,8,73,Other chain : -- Stud-link,Free,,,,,2026-10-22
-73158200,8,73,"Other chain : -- Other, welded link",Free,,,,,2026-10-22
-73158900,8,73,Other chain : -- Other,Free,,,,,2026-10-22
-73159000,8,73,Other parts,Free,"However, import of Roller chains and parts thereof having a CIF value of less than ₹ 235 per kilogram is 'Restricted'.",,13/2025-26,2025-05-26,2026-10-22
-7316,4,73,"Anchors, grapnels and parts thereof, of iron or steel.",,,,,,2026-10-22
-731600,6,73,"Anchors, grapnels and parts thereof, of iron or steel :",,,,,,2026-10-22
-73160010,8,73,Anchors and grapnels,Free,,,,,2026-10-22
-73160090,8,73,Parts,Free,,,,,2026-10-22
-7317,4,73,"Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 83.05) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper.",,,,,,2026-10-22
-731700,6,73,"Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 8305) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper :",,,,,,2026-10-22
-73170011,8,73,Nails: ---- For animal shoes,Free,,,,,2026-10-22
-73170012,8,73,Nails: ---- For fixing heel strips and toe plates,Free,,,,,2026-10-22
-73170013,8,73,Nails: ---- Wire nails,Free,,,,,2026-10-22
-73170019,8,73,Nails: ---- Other,Free,,,,,2026-10-22
-73170021,8,73,Spikes: ---- Dog spikes,Free,,,,,2026-10-22
-73170029,8,73,Spikes: ---- Other,Free,,,,,2026-10-22
-73170030,8,73,Spikes: ---- Tacks,Free,,,,,2026-10-22
-73170091,8,73,"Other: ---- Staples, other than in strips, and drawing pins",Free,,,,,2026-10-22
-73170099,8,73,Other: ---- Other,Free,,,,,2026-10-22
-7318,4,73,"Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of iron or steel.",,,,,,2026-10-22
-731811,6,73,Threaded articles : -- Coach screws,,,,,,2026-10-22
-73181110,8,73,Machine screws,,,,,,2026-10-22
-73181190,8,73,Other,Prohibited,"However, import is ""Free' if CIF value is Rs. 129/- or above per Kg and subject to Policy condition no.2 and 3 of this Chapter",2,55/2023,2024-01-03,2026-10-22
-73181200,8,73,Threaded articles : -- Other wood screws,Prohibited,"However, import is ""Free' if CIF value is Rs. 129/- or above per Kg and subject to Policy condition no.2 and 3 of this Chapter",2,55/2023,2024-01-03,2026-10-22
-73181300,8,73,Threaded articles : -- Screw hooks and screw rings,Prohibited,"However, import is ""Free' if CIF value is Rs. 129/- or above per Kg and subject to Policy condition no.2 and 3 of this Chapter",2,55/2023,2024-01-03,2026-10-22
-73181400,8,73,Threaded articles : -- Self-tapping screws,Prohibited,"However, import is ""Free' if CIF value is Rs. 129/- or above per Kg and subject to Policy condition no.2 and 3 of this Chapter",2,55/2023,2024-01-03,2026-10-22
-73181500,8,73,"Threaded articles : -- Other screws and bolts, whether or not with their nuts or washers",Prohibited,"However, import is ""Free' if CIF value is Rs. 129/- or above per Kg and subject to Policy condition no.2 and 3 of this Chapter",2,55/2023,2024-01-03,2026-10-22
-73181600,8,73,Threaded articles : -- Nuts,Free,,,,,2026-10-22
-73181900,8,73,Threaded articles : -- Other,Prohibited,"However, import is ""Free' if CIF value is Rs. 129/- or above per Kg and subject to Policy condition no.2 and 3 of this Chapter",2,55/2023,2024-01-03,2026-10-22
-73182100,8,73,Non-threaded articles : -- Spring washers and other lock washers,Free,,,,,2026-10-22
-73182200,8,73,Non-threaded articles : -- Other washers,Free,,,,,2026-10-22
-73182300,8,73,Non-threaded articles : -- Rivets,Free,,,,,2026-10-22
-73182400,8,73,Non-threaded articles : -- Cotters and cotter-pins,Free,,,,,2026-10-22
-731829,6,73,Non-threaded articles : -- Other,,,,,,2026-10-22
-73182910,8,73,Circlips,Free,,,,,2026-10-22
-73182990,8,73,Other,Free,,,,,2026-10-22
-7319,4,73,"Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles, for use in the hand, of iron or steel; safety pins and other pins of iron or steel, not elsewhere specified or included.",,,,,,2026-10-22
-731940,6,73,Safety pins and other pins,,,,,,2026-10-22
-73194010,8,73,Safety pins,Free,,,,,2026-10-22
-73194090,8,73,Other pins,Free,,,,,2026-10-22
-73199000,8,73,Other,Free,,,,,2026-10-22
-7320,4,73,"Springs and leaves for springs, of iron or steel.",,,,,,2026-10-22
-732010,6,73,Leaf-springs and leaves therefor,,,,,,2026-10-22
-73201011,8,73,Leaf spring: ---- For motor vehicles,Free,,,,,2026-10-22
-73201012,8,73,Leaf spring: ---- For railways and tramways,Free,,,,,2026-10-22
-73201019,8,73,Leaf spring: ---- Other,Free,,,,,2026-10-22
-73201020,8,73,Leaf spring: ---- Leaves for springs,Free,,,,,2026-10-22
-73202000,8,73,Helical springs,Free,,,,,2026-10-22
-732090,6,73,Other,,,,,,2026-10-22
-73209010,8,73,"Coil spring for railways, tramways",Free,,,,,2026-10-22
-73209020,8,73,Spring pins,Free,,,,,2026-10-22
-73209090,8,73,Other,Free,,,,,2026-10-22
-7321,4,73,"Stoves, ranges, grates, cookers (including those with subsidiary boilers for central heating), barbecues, braziers, gas-rings, plate warmers and similar non-electric domestic appliances, and parts thereof, of iron or steel.",,,,,,2026-10-22
-732111,6,73,Cooking appliances and plate warmers : -- For gas fuel or for both gas and other fuels,,,,,,2026-10-22
-73211110,8,73,Cookers and kitchen stoves,Free,,,,,2026-10-22
-73211120,8,73,Other stoves,Free,Safety of household and similar electrical appliances - Electric stoves must conform with IS 302(Pt2/Sec-202),,,,2026-10-22
-73211190,8,73,Other,Free,,,,,2026-10-22
-732112,6,73,Cooking appliances and plate warmers : -- For liquid fuel,,,,,,2026-10-22
-73211210,8,73,Cookers and kitchen stoves,Free,,,,,2026-10-22
-73211220,8,73,Other stoves,Free,,,,,2026-10-22
-73211290,8,73,Other,Free,,,,,2026-10-22
-732119,6,73,"Cooking appliances and plate warmers : -- Other, including appliances for solid fuel",,,,,,2026-10-22
-73211910,8,73,Cookers and kitchen stoves,Free,,,,,2026-10-22
-73211990,8,73,Other stoves and appliances,Free,,,,,2026-10-22
-73218100,8,73,Other appliances : -- For gas fuel or for both gas and other fuels,Free,,,,,2026-10-22
-73218200,8,73,Other appliances : -- For liquid fuel,Free,,,,,2026-10-22
-732189,6,73,"Other appliances : -- Other, including appliances for solid fuel",,,,,,2026-10-22
-73218910,8,73,Clay tandoor (oven with iron or steel body and earthen grates),Free,,,,,2026-10-22
-73218990,8,73,Other,Free,,,,,2026-10-22
-73219000,8,73,Parts,Free,,,,,2026-10-22
-7322,4,73,"Radiators for central heating, not electrically heated, and parts thereof, of iron or steel; air heaters and hot air distributors (i ncluding distributors which can also distribute fresh or conditioned air), not electrically heated, incorporating a motordriven fan or blower, and parts thereof, of iron or steel.",,,,,,2026-10-22
-73221100,8,73,Radiators and parts thereof : -- Of cast iron,Free,,,,,2026-10-22
-73221900,8,73,Radiators and parts thereof : -- Other,Free,,,,,2026-10-22
-732290,6,73,Other,,,,,,2026-10-22
-73229010,8,73,Air heaters and hot air distributors,Free,Safety of household and similar electrical appliances -Room Heaters must conform to IS 302(Pt 2/Sec 30),,,,2026-10-22
-73229090,8,73,Parts of air heaters and hot air distributors,Free,,,,,2026-10-22
-7323,4,73,"Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel.",,,,,,2026-10-22
-73231000,8,73,"Iron or steel wool; pot scourers and scouring or polishing pads,",Free,,,,,2026-10-22
-732391,6,73,"Other : -- Of cast iron, not enamelled",,,,,,2026-10-22
-73239110,8,73,Pans,Free,,,,,2026-10-22
-73239190,8,73,Other,Free,,,,,2026-10-22
-73239200,8,73,"Other : -- Of cast iron, enamelled",Free,,,,,2026-10-22
-732393,6,73,Other : -- Of stainless steel,,,,,,2026-10-22
-73239310,8,73,Pressure cookers,Free,,,,,2026-10-22
-73239390,8,73,Other,Free,,,,,2026-10-22
-732394,6,73,"Other : -- Of iron (other than cast iron) or steel, enamelled",,,,,,2026-10-22
-73239410,8,73,Ghamellas,Free,,,,,2026-10-22
-73239420,8,73,Utensils,Free,,,,,2026-10-22
-73239490,8,73,Other,Free,,,,,2026-10-22
-732399,6,73,Other : -- Other,,,,,,2026-10-22
-73239910,8,73,Utensils of galvanised iron,Free,,,,,2026-10-22
-73239920,8,73,Other utensils,Free,,,,,2026-10-22
-73239990,8,73,Other,Free,,,,,2026-10-22
-7324,4,73,"Sanitary ware and parts thereof, of iron or steel.",,,,,,2026-10-22
-73241000,8,73,"Sinks and wash basins, of stainless steel",Free,,,,,2026-10-22
-73242100,8,73,"Baths : -- Of cast iron, whether or not enamelled",Free,,,,,2026-10-22
-73242900,8,73,Baths : -- Other,Free,,,,,2026-10-22
-73249000,8,73,"Other, including parts",Free,,,,,2026-10-22
-7325,4,73,Other cast articles of iron or steel.,,,,,,2026-10-22
-73251000,8,73,Of non-malleable cast iron,Free,,,,,2026-10-22
-73259100,8,73,Other : -- Grinding balls and similar articles for mills,Free,,,,,2026-10-22
-732599,6,73,Other : -- Other,,,,,,2026-10-22
-73259910,8,73,Of iron,Free,,,,,2026-10-22
-73259920,8,73,Of alloy steel,Free,,,,,2026-10-22
-73259930,8,73,Of stainless steel,Free,,,,,2026-10-22
-73259991,8,73,Other: ---- Rudders for ships or boats,Free,,,,,2026-10-22
-73259992,8,73,Other: ---- Drain covers,Free,,,,,2026-10-22
-73259993,8,73,Other: ---- Plates and frames for sewage water or similar system,Free,,,,,2026-10-22
-73259999,8,73,Other: ---- Other,Free,,,,,2026-10-22
-7326,4,73,Other articles of iron or steel.,,,,,,2026-10-22
-73261100,8,73,"Forged or stamped, but not further worked : -- Grinding balls and similar articles for mills",Free,,,,,2026-10-22
-732619,6,73,"Forged or stamped, but not further worked : -- Other",,,,,,2026-10-22
-73261910,8,73,For automobiles and Earth moving equipments,Free,,,,,2026-10-22
-73261990,8,73,Other,Free,,,,,2026-10-22
-732620,6,73,Articles of iron or steel wire,,,,,,2026-10-22
-73262010,8,73,Tyre bead wire rings intended for use in the manufacture of tyres for cycles and cycle-rickshaws,Free,,,,,2026-10-22
-73262090,8,73,Other,Free,,,,,2026-10-22
-732690,6,73,Other,,,,,,2026-10-22
-73269010,8,73,Belt lacing of steel,Free,,,,,2026-10-22
-73269020,8,73,Belt fasteners for machinery belts,Free,,,,,2026-10-22
-73269030,8,73,"Drain covers, plates, and frames for sewages, water or similar system",Free,,,,,2026-10-22
-73269040,8,73,Enamelled iron ware,Free,,,,,2026-10-22
-73269050,8,73,Grinding media balls and cylpebs,Free,,,,,2026-10-22
-73269060,8,73,Manufactures of stainless steel,Free,,,,,2026-10-22
-73269070,8,73,Articles of clad metal,Free,,,,,2026-10-22
-73269080,8,73,"Parts of ships, floating structure and vessels (excluding hull, propellers and paddle-wheels)",Free,,,,,2026-10-22
-73269091,8,73,Other: ---- Shanks,Free,,,,,2026-10-22
-73269099,8,73,Other: ---- Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+7301,,,4,73,"Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel.",,,,,,2026-10-22
+73011000,730110,"Iron or steel; sheet piling, whether or not drilled, punched or made from assembled elements",8,73,Sheet piling,Free,,,,,2026-10-22
+730120,730120,"Iron or steel; angles, shapes and sections, welded",6,73,"Angles, shapes and sections",,,,,,2026-10-22
+73012010,730120,"Iron or steel; angles, shapes and sections, welded",8,73,Steel slotted angles,Free,,,,,2026-10-22
+73012090,730120,"Iron or steel; angles, shapes and sections, welded",8,73,Other,Free,,,,,2026-10-22
+7302,,,4,73,"Railway or tramway track construction material of iron or steel, the following : rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers (cross-ties), fish-plates, chairs, chair wedges, sole plates (base plates), rail clips, bedplates, ties and other material specialized for jointing or fixing rails.",,,,,,2026-10-22
+730210,730210,"Iron or steel, railway or tramway track construction material; rails",6,73,Rails,,,,,,2026-10-22
+73021011,730210,"Iron or steel, railway or tramway track construction material; rails",8,73,For railways:----Head hardened rails,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+73021012,730210,"Iron or steel, railway or tramway track construction material; rails",8,73,For railways:----Asymmetric rails with end forging,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+73021013,730210,"Iron or steel, railway or tramway track construction material; rails",8,73,For railways:----Asymmetric rails without end forging,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+73021014,730210,"Iron or steel, railway or tramway track construction material; rails",8,73,For railways:----Other than asymmetric rails and head hardened rails,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+73021019,730210,"Iron or steel, railway or tramway track construction material; rails",8,73,For railways:----Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+73021020,730210,"Iron or steel, railway or tramway track construction material; rails",8,73,For Tramways,Free,,,,,2026-10-22
+73021090,730210,"Iron or steel, railway or tramway track construction material; rails",8,73,Other,Free,,,,,2026-10-22
+73023000,730230,"Iron or steel, railway or tramway track construction material; switch blades, crossing frogs, point rods and other crossing pieces",8,73,"Switch blades, crossing frogs, point rods and other crossing pieces",Free,,,,,2026-10-22
+73024000,730240,"Iron or steel, railway or tramway track construction material; fish-plates and sole plates",8,73,Fish-plates and sole plates,Free,,,,,2026-10-22
+730290,730290,"Iron or steel, railway or tramway track construction material; n.e.c. in heading no. 7302",6,73,Other,,,,,,2026-10-22
+73029010,730290,"Iron or steel, railway or tramway track construction material; n.e.c. in heading no. 7302",8,73,Material for joining or fixing rails,Free,,,,,2026-10-22
+73029090,730290,"Iron or steel, railway or tramway track construction material; n.e.c. in heading no. 7302",8,73,Other,Free,,,,,2026-10-22
+7303,,,4,73,"Tubes, pipes and hollow profiles, of cast iron.",,,,,,2026-10-22
+730300,730300,"Cast iron; tubes, pipes and hollow profiles",6,73,"Tubes, pipes and hollow profiles, of cast iron:",,,,,,2026-10-22
+73030010,730300,"Cast iron; tubes, pipes and hollow profiles",8,73,Rain water pipe,Free,"Ductile iron fittings for pressure pipes for water, gas and sewage must conform to IS 9523",,,,2026-10-22
+73030020,730300,"Cast iron; tubes, pipes and hollow profiles",8,73,Soil pipe,Free,,,,,2026-10-22
+73030030,730300,"Cast iron; tubes, pipes and hollow profiles",8,73,Spun pipe,Free,"Centrifugally cast (spun) ductile iron pressure pipes for water, gas and sewage must conform to IS 8329",,,,2026-10-22
+73030090,730300,"Cast iron; tubes, pipes and hollow profiles",8,73,Other,Free,,,,,2026-10-22
+7304,,,4,73,"Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel.",,,,,,2026-10-22
+730411,730411,"Iron or steel (excluding cast iron); seamless, line pipe of a kind used for oil or gas pipelines, of stainless steel",6,73,Line pipe of a kind used for oil or gas pipelines : -- Of stainless steel,,,,,,2026-10-22
+73041110,730411,"Iron or steel (excluding cast iron); seamless, line pipe of a kind used for oil or gas pipelines, of stainless steel",8,73,Tubes and pipes,Free,"Centrifugally cast (spun) ductile iron pressure pipes for water, gas and sewage must conform to IS 8329",,,,2026-10-22
+73041120,730411,"Iron or steel (excluding cast iron); seamless, line pipe of a kind used for oil or gas pipelines, of stainless steel",8,73,Blanks for tubes and pipes,Free,,,,,2026-10-22
+73041190,730411,"Iron or steel (excluding cast iron); seamless, line pipe of a kind used for oil or gas pipelines, of stainless steel",8,73,Other,Free,,,,,2026-10-22
+730419,730419,"Iron or steel (excluding cast iron or stainless steel); seamless, line pipe of a kind used for oil or gas pipelines",6,73,Line pipe of a kind used for oil or gas pipelines : -- Other,,,,,,2026-10-22
+73041910,730419,"Iron or steel (excluding cast iron or stainless steel); seamless, line pipe of a kind used for oil or gas pipelines",8,73,Tubes and pipes,Free,,,,,2026-10-22
+73041920,730419,"Iron or steel (excluding cast iron or stainless steel); seamless, line pipe of a kind used for oil or gas pipelines",8,73,Blanks for tubes and pipes,Free,,,,,2026-10-22
+73041990,730419,"Iron or steel (excluding cast iron or stainless steel); seamless, line pipe of a kind used for oil or gas pipelines",8,73,Other,Free,,,,,2026-10-22
+73042200,730422,"Steel, stainless; seamless, drill pipe, of a kind used in drilling for oil or gas",8,73,"Casing, tubing and drill pipe, of a kind used in drilling for oil or gas --Drill pipe of stainless steel",Free,,,,,2026-10-22
+730423,730423,"Iron or steel (excluding cast iron or stainless steel); seamless, drill pipe, of a kind used in drilling for oil or gas",6,73,"Casing, tubing and drill pipe, of a kind used in drilling for oil or gas -- Other drill pipe",,,,,,2026-10-22
+73042310,730423,"Iron or steel (excluding cast iron or stainless steel); seamless, drill pipe, of a kind used in drilling for oil or gas",8,73,Of iron,Free,,,,,2026-10-22
+73042390,730423,"Iron or steel (excluding cast iron or stainless steel); seamless, drill pipe, of a kind used in drilling for oil or gas",8,73,Other,Free,,,,,2026-10-22
+73042400,730424,"Steel, stainless; seamless, casing and tubing, of a kind used in drilling for oil or gas",8,73,"Casing, tubing and drill pipe, of a kind used in drilling for oil or gas -- Other, of stainless steel",Free,,,,,2026-10-22
+730429,730429,"Iron or steel (excluding cast iron or stainless steel); seamless, casing and tubing, of a kind used in drilling for oil or gas",6,73,"Casing, tubing and drill pipe, of a kind used in drilling for oil or gas -- Other",,,,,,2026-10-22
+73042910,730429,"Iron or steel (excluding cast iron or stainless steel); seamless, casing and tubing, of a kind used in drilling for oil or gas",8,73,Of iron,Free,,,,,2026-10-22
+73042990,730429,"Iron or steel (excluding cast iron or stainless steel); seamless, casing and tubing, of a kind used in drilling for oil or gas",8,73,Other,Free,,,,,2026-10-22
+730431,730431,"Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",6,73,"Other, of circular cross-section, of iron or non-alloy steel : -- Cold-drawn or cold-rolled (cold-reduced)",,,,,,2026-10-22
+73043111,730431,"Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",8,73,Of iron,Free,,,,,2026-10-22
+73043119,730431,"Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",8,73,Other,Free,,,,,2026-10-22
+73043121,730431,"Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",8,73,Above 114.3 mm but up to 219.1 mm outer diameter: ---- Of iron,Free,,,,,2026-10-22
+73043129,730431,"Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",8,73,Above 114.3 mm but up to 219.1 mm outer diameter: ---- Other,Free,,,,,2026-10-22
+73043131,730431,"Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",8,73,Above 219.1 mm diameter: ---- Of iron,Free,,,,,2026-10-22
+73043139,730431,"Iron or non-alloy steel (excluding cast iron); seamless, cold-drawn or cold-rolled, tubes, pipes and hollow profiles of circular cross-section",8,73,Above 219.1 mm diameter: ---- Other,Free,,,,,2026-10-22
+730439,730439,"Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",6,73,"Other, of circular cross-section, of iron or non-alloy steel : -- Other",,,,,,2026-10-22
+73043911,730439,"Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",8,73,Up to 114.3 mm outer diameter: ---- Of iron,Free,,,,,2026-10-22
+73043919,730439,"Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",8,73,Up to 114.3 mm outer diameter: ----Other,Free,,,,,2026-10-22
+73043921,730439,"Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",8,73,Above 114.3 mm but up to 219.1 mm outer diameters: ---- Of iron,Free,,,,,2026-10-22
+73043929,730439,"Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",8,73,Above 114.3 mm but up to 219.1 mm outer diameters: ---- Other,Free,,,,,2026-10-22
+73043931,730439,"Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",8,73,Above 219.1 mm diameter: ---- Of iron,Free,,,,,2026-10-22
+73043939,730439,"Iron or non-alloy steel (excluding cast iron); seamless, (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",8,73,Above 219.1 mm diameter: ---- Other,Free,,,,,2026-10-22
+73044100,730441,"Steel, stainless; cold-drawn or cold-rolled (cold-reduced), tubes and pipes of circular cross-section",8,73,"Other, of circular cross-section, of stainless steel : -- Cold-drawn or cold-rolled (cold-reduced)",Free,,,,,2026-10-22
+73044900,730449,"Steel, stainless; (excluding cold-drawn or cold-rolled), tubes pipes and hollow profiles of circular cross-section",8,73,"Other, of circular cross-section, of stainless steel : -- Other",Free,,,,,2026-10-22
+730451,730451,"Steel, alloy (not stainless steel); seamless, cold-drawn or cold-rolled (cold-reduced), tubes, pipes and hollow profiles of circular cross-section",6,73,"Other, of circular cross-section, of other alloy steel : -- Cold-drawn or cold-rolled (cold-reduced)",,,,,,2026-10-22
+73045110,730451,"Steel, alloy (not stainless steel); seamless, cold-drawn or cold-rolled (cold-reduced), tubes, pipes and hollow profiles of circular cross-section",8,73,Up to 114.3 mm diameter,Free,,,,,2026-10-22
+73045120,730451,"Steel, alloy (not stainless steel); seamless, cold-drawn or cold-rolled (cold-reduced), tubes, pipes and hollow profiles of circular cross-section",8,73,Above 114.3 mm but up to 219.1 mm outer diameter,Free,,,,,2026-10-22
+73045130,730451,"Steel, alloy (not stainless steel); seamless, cold-drawn or cold-rolled (cold-reduced), tubes, pipes and hollow profiles of circular cross-section",8,73,Above 219.1 mm outer diameter,Free,,,,,2026-10-22
+730459,730459,"Steel, alloy (not stainless steel); (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",6,73,"Other, of circular cross-section, of other alloy steel : -- Other",,,,,,2026-10-22
+73045910,730459,"Steel, alloy (not stainless steel); (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",8,73,Up to 114.3 mm diameter,Free,,,,,2026-10-22
+73045920,730459,"Steel, alloy (not stainless steel); (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",8,73,Above 114.3 mm but up to 219.1 mm outer diameter,Free,,,,,2026-10-22
+73045930,730459,"Steel, alloy (not stainless steel); (excluding cold-drawn or cold-rolled), tubes, pipes and hollow profiles of circular cross-section",8,73,Above 219.1 mm outer diameter,Free,,,,,2026-10-22
+73049000,730490,"Iron or steel (excluding cast iron); seamless, tubes, pipes and hollow profiles, seamless, n.e.c. in heading no. 7304",8,73,Other,Free,,,,,2026-10-22
+7305,,,4,73,"Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross-sections, the external diameter of which exceeds 406.4 mm, of iron or steel.",,,,,,2026-10-22
+730511,730511,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",6,73,Line pipe of a kind used for oil or gas pipelines : -- Longitudinally submerged arc welded,,,,,,2026-10-22
+73051111,730511,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",8,73,Galvanised pipes: ---- Of iron,Free,,,,,2026-10-22
+73051119,730511,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",8,73,"----Other---Non-galvanised pipes, of iron :",Free,,,24/2026-27,2026-07-22,2026-10-22
+73051131,730511,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",8,73,"---Non-galvanised pipes, of iron :----Clad, plated or coated",Free,,,24/2026-27,2026-07-22,2026-10-22
+73051139,730511,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",8,73,--- Non-galvanised pipes: ---- Of iron,Free,,,24/2026-27,2026-07-22,2026-10-22
+73051141,730511,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",8,73,"---Non-galvanised pipes, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
+73051149,730511,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally submerged arc welded, having circular cross-sections, external diameter exceeds 406.4mm",8,73,--- Non-galvanised pipes: ---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+730512,730512,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",6,73,"Line pipe of a kind used for oil or gas pipelines : -- Other, longitudinally welded",,,,,,2026-10-22
+73051211,730512,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",8,73,Galvanised pipes: ---- Of iron,Free,,,,,2026-10-22
+73051219,730512,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",8,73,"-------Non-galvanised pipes, of iron :",Free,,,24/2026-27,2026-07-22,2026-10-22
+73051231,730512,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",8,73,"--- Non-galvanised pipes, other :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
+73051239,730512,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",8,73,--- Non-galvanised pipes: ---- Of iron,Free,,,24/2026-27,2026-07-22,2026-10-22
+73051241,730512,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",8,73,"---Non-galvanised pipes, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
+73051249,730512,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), longitudinally welded (not submerged arc welded), having circular cross-sections, external diameter exceeds 406.4mm",8,73,--- Non-galvanised pipes: ---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+730519,730519,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",6,73,Line pipe of a kind used for oil or gas pipelines : -- Other,,,,,,2026-10-22
+73051911,730519,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",8,73,Galvanised pipes: ---- Of iron,Free,,,,,2026-10-22
+73051919,730519,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",8,73,----Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+73051931,730519,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",8,73,"---Non-galvanised pipes, other :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
+73051939,730519,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",8,73,--- Non-galvanised (black) pipes: ---- of Iron,Free,,,24/2026-27,2026-07-22,2026-10-22
+73051941,730519,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",8,73,"---Non-galvanised pipes, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
+73051949,730519,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (not seamless), (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm",8,73,-- Non-galvanised (black) pipes: ----other,Free,,,24/2026-27,2026-07-22,2026-10-22
+730520,730520,"Iron or steel (excluding cast iron); casing of a kind used in drilling for oil or gas (not seamless), having circular cross-sections, external diameter exceeds 406.4mm",6,73,Casing of a kind used in drilling for oil or gas,,,,,,2026-10-22
+73052010,730520,"Iron or steel (excluding cast iron); casing of a kind used in drilling for oil or gas (not seamless), having circular cross-sections, external diameter exceeds 406.4mm",8,73,Of iron,Free,,,,,2026-10-22
+73052090,730520,"Iron or steel (excluding cast iron); casing of a kind used in drilling for oil or gas (not seamless), having circular cross-sections, external diameter exceeds 406.4mm",8,73,Other,Free,,,,,2026-10-22
+730531,730531,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",6,73,"Other, welded : -- Longitudinally welded",,,,,,2026-10-22
+73053111,730531,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,"---Non-galvanised pipes, other :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
+73053119,730531,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,"---Non-galvanised, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
+73053121,730531,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,---Of Iron,Free,,,24/2026-27,2026-07-22,2026-10-22
+73053129,730531,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,---Galvanised :----Of iron,Free,,,24/2026-27,2026-07-22,2026-10-22
+73053131,730531,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,---Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+73053139,730531,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), longitudinally welded, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,---Galvanised :----Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+730539,730539,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",6,73,"Other, welded : -- Other",,,,,,2026-10-22
+73053911,730539,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,"---Non-galvanised, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
+73053919,730539,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,"---Non-galvanised, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
+73053921,730539,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,---of Iron,Free,,,24/2026-27,2026-07-22,2026-10-22
+73053929,730539,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,---Galvanised :----Of iron,Free,,,24/2026-27,2026-07-22,2026-10-22
+73053931,730539,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,--- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+73053939,730539,"Iron or steel (excluding cast iron); tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines), welded (not longitudinally welded), having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,---Galvanised :----Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+730590,730590,"Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",6,73,Other,,,,,,2026-10-22
+73059010,730590,"Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,High pressure hydroelectric conduits of steel,Free,,,,,2026-10-22
+73059021,730590,"Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,ERW precision tubes: ---- Of iron,Free,,,,,2026-10-22
+73059029,730590,"Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,ERW precision tubes: ---- Other,Free,,,,,2026-10-22
+73059091,730590,"Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,Other: ---- Of iron,Free,,,,,2026-10-22
+73059099,730590,"Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)",8,73,Other: ---- Other,Free,,,,,2026-10-22
+7306,,,4,73,"Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel.",,,,,,2026-10-22
+73061100,730611,"Steel; stainless; line pipe of a kind used for oil or gas pipelines n.e.c. in chapter 73, welded, (not seamless)",8,73,"Line pipe of a kind used for oil or gas pipelines : -- Welded, of stainless steel",Free,,,,,2026-10-22
+730619,730619,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",6,73,Line pipe of a kind used for oil or gas pipelines : -- Other,,,,,,2026-10-22
+73061911,730619,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",8,73,Galvanised pipes: ---- Of iron,Free,,,,,2026-10-22
+73061919,730619,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",8,73,---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+73061931,730619,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",8,73,"---Non-galvanised, other :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
+73061939,730619,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",8,73,--- Non galvanised pipes: ---- Of iron,Free,,,24/2026-27,2026-07-22,2026-10-22
+73061941,730619,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",8,73,"---Non-galvanised pipes, of iron :----Other",Free,,,24/2026-27,2026-07-22,2026-10-22
+73061949,730619,"Iron or steel (excluding cast iron); line pipe of a kind used for oil or gas pipelines (other than of stainless steel or seamless), n.e.c. in chapter 73",8,73,--- Non galvanised pipes: ---- Other,Free,,,24/2026-27,2026-07-22,2026-10-22
+73062100,730621,"Steel, stainless; casing and tubing of a kind used in drilling for oil and gas, n.e.c. in chapter 73, welded, (not seamless)",8,73,"Casing and tubing of a kind used in drilling for oil or gas : -- Welded, of stainless steel",Free,,,,,2026-10-22
+730629,730629,"Iron or steel (excluding cast iron); casing and tubing of a kind used in drilling for oil and gas (other than stainless steel or seamless), n.e.c. in chapter 73",6,73,Casing and tubing of a kind used in drilling for oil or gas : -- Other,,,,,,2026-10-22
+73062911,730629,"Iron or steel (excluding cast iron); casing and tubing of a kind used in drilling for oil and gas (other than stainless steel or seamless), n.e.c. in chapter 73",8,73,Of iron,Free,,,,,2026-10-22
+73062919,730629,"Iron or steel (excluding cast iron); casing and tubing of a kind used in drilling for oil and gas (other than stainless steel or seamless), n.e.c. in chapter 73",8,73,Other,Free,,,,,2026-10-22
+730630,730630,"Iron or non-alloy steel (excluding cast iron); tubes and pipes (not seamless), welded, of circular cross-section, n.e.c. in chapter 73",6,73,"Other, welded, of circular cross-section, of iron or non-alloy steel",,,,,,2026-10-22
+73063010,730630,"Iron or non-alloy steel (excluding cast iron); tubes and pipes (not seamless), welded, of circular cross-section, n.e.c. in chapter 73",8,73,Of iron,Free,"Mild steel tubes, tubular products and other wrought steel fittings Part 1 Mild steel tubes must conform to IS 1239(Part 1)",,,,2026-10-22
+73063090,730630,"Iron or non-alloy steel (excluding cast iron); tubes and pipes (not seamless), welded, of circular cross-section, n.e.c. in chapter 73",8,73,Other,Free,,,,,2026-10-22
+73064000,730640,"Steel, stainless; tubes, pipes and hollow profiles, welded, of circular cross-section, n.e.c. in chapter 73",8,73,"Other, welded, of circular cross-section, of stainless steel",Free,,,,,2026-10-22
+73065000,730650,"Steel, alloy; tubes, pipes and hollow profiles (other than stainless steel or seamless), welded, of circular cross-section, n.e.c. in chapter 73",8,73,"Other, welded, of circular cross-section, of other alloy steel",Free,,,,,2026-10-22
+73066100,730661,"Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), welded, of square or rectangular cross-section, n.e.c. in chapter 73",8,73,"Other, welded, of non-circular cross-section : -- Of square or rectangular cross-section",Free,,,,,2026-10-22
+73066900,730669,"Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73, welded, of non-circular cross-section (not square or rectangular cross-section)",8,73,"Other, welded, of non-circular cross-section : -- Of other non-circular cross-section",Free,,,,,2026-10-22
+730690,730690,"Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",6,73,Other,,,,,,2026-10-22
+73069011,730690,"Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",8,73,ERW precision tubes: ---- Of iron,Free,,,,,2026-10-22
+73069019,730690,"Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",8,73,ERW precision tubes: ---- Other,Free,,,,,2026-10-22
+73069090,730690,"Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",8,73,ERW precision tubes: ---- Other,Free,,,,,2026-10-22
+7307,,,4,73,"Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel.",,,,,,2026-10-22
+730711,730711,"Cast iron; cast fittings, of non-malleable cast iron",6,73,Cast fittings : -- Of non-malleable cast iron,,,,,,2026-10-22
+73071110,730711,"Cast iron; cast fittings, of non-malleable cast iron",8,73,Sponge iron cast fittings,Free,,,,,2026-10-22
+73071120,730711,"Cast iron; cast fittings, of non-malleable cast iron",8,73,SG iron cast fittings,Free,,,,,2026-10-22
+73071190,730711,"Cast iron; cast fittings, of non-malleable cast iron",8,73,Other,Free,,,,,2026-10-22
+73071900,730719,"Iron or steel; cast fittings, other than of non-malleable cast iron",8,73,Cast fittings : -- Other,Free,,,,,2026-10-22
+73072100,730721,"Steel, stainless; tube or pipe fittings, flanges, of stainless steel",8,73,"Other, of stainless steel : -- Flanges",Free,,,,,2026-10-22
+73072200,730722,"Steel, stainless; tube or pipe fittings, threaded elbows, bends and sleeves",8,73,"Other, of stainless steel : -- Threaded elbows, bends and sleeves",Free,,,,,2026-10-22
+73072300,730723,"Steel, stainless; tube or pipe fittings, butt welding fittings",8,73,"Other, of stainless steel : -- Butt welding fittings",Free,,,,,2026-10-22
+73072900,730729,"Steel, stainless; tube or pipe fittings, n.e.c. in item no. 7307.2",8,73,"Other, of stainless steel : -- Other",Free,,,,,2026-10-22
+730791,730791,"Iron or steel; tube or pipe fittings, flanges, other than stainless steel",6,73,Other : -- Flanges,,,,,,2026-10-22
+73079110,730791,"Iron or steel; tube or pipe fittings, flanges, other than stainless steel",8,73,Galvanised,Free,,,,,2026-10-22
+73079190,730791,"Iron or steel; tube or pipe fittings, flanges, other than stainless steel",8,73,Other,Free,,,,,2026-10-22
+730792,730792,"Iron or steel; tube or pipe fittings, threaded elbows, bends and sleeves, other than stainless steel",6,73,"Other : -- Threaded elbows, bends and sleeves",,,,,,2026-10-22
+73079210,730792,"Iron or steel; tube or pipe fittings, threaded elbows, bends and sleeves, other than stainless steel",8,73,Galvanised,Free,,,,,2026-10-22
+73079290,730792,"Iron or steel; tube or pipe fittings, threaded elbows, bends and sleeves, other than stainless steel",8,73,Other,Free,,,,,2026-10-22
+730793,730793,"Iron or steel; tube or pipe fittings, butt welding fittings, other than stainless steel",6,73,Other : -- Butt welding fittings,,,,,,2026-10-22
+73079310,730793,"Iron or steel; tube or pipe fittings, butt welding fittings, other than stainless steel",8,73,Galvanised,Free,,,,,2026-10-22
+73079390,730793,"Iron or steel; tube or pipe fittings, butt welding fittings, other than stainless steel",8,73,Other,Free,,,,,2026-10-22
+730799,730799,"Iron or steel; tube or pipe fittings, n.e.c. in item no. 7307.9, other than stainless steel",6,73,Other : -- Other,,,,,,2026-10-22
+73079910,730799,"Iron or steel; tube or pipe fittings, n.e.c. in item no. 7307.9, other than stainless steel",8,73,Galvanised,Free,,,,,2026-10-22
+73079990,730799,"Iron or steel; tube or pipe fittings, n.e.c. in item no. 7307.9, other than stainless steel",8,73,Other,Free,,,,,2026-10-22
+7308,,,4,73,"Structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridge-sections, lock-gates, towers, lattice masts, roofs, roofing frame-works, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel.",,,,,,2026-10-22
+730810,730810,"Iron or steel; structures and parts thereof, bridges and bridge-sections",6,73,Bridges and bridge-sections :,,,,,,2026-10-22
+73081010,730810,"Iron or steel; structures and parts thereof, bridges and bridge-sections",8,73,Portable bridge,Free,Steel tubes for structural purposes must conform to IS 1161,,40/2024-25,2024-11-26,2026-10-22
+73081090,730810,"Iron or steel; structures and parts thereof, bridges and bridge-sections",8,73,Other,Free,Steel tubes for structural purposes must conform to IS 1161,,40/2024-25,2024-11-26,2026-10-22
+730820,730820,"Iron or steel; structures and parts thereof, towers and lattice masts",6,73,Towers and lattice masts,,,,,,2026-10-22
+73082011,730820,"Iron or steel; structures and parts thereof, towers and lattice masts",8,73,"Towers, whether or not assembled: ---- For transmission line",Free,,,,,2026-10-22
+73082019,730820,"Iron or steel; structures and parts thereof, towers and lattice masts",8,73,"Towers, whether or not assembled: ---- Other",Free,Subject to Policy conditions 04 of chapter,4,40/2025-26,2025-10-10,2026-10-22
+73082020,730820,"Iron or steel; structures and parts thereof, towers and lattice masts",8,73,"Towers, whether or not assembled: ---- Lattice masts",Free,,,,,2026-10-22
+73083000,730830,"Iron or steel; structures and parts thereof, doors, windows and their frames and thresholds for doors",8,73,"Doors, windows and their frames and thresholds for doors",Free,,,,,2026-10-22
+73084000,730840,"Iron or steel; structures and parts thereof, props and similar equipment for scaffolding, shuttering or pit-propping",8,73,"Equipment for scaffolding, shuttering, propping or pitpropping",Free,,,,,2026-10-22
+730890,730890,"Iron or steel; structures and parts thereof, n.e.c. in heading 7308",6,73,Other,,,,,,2026-10-22
+73089010,730890,"Iron or steel; structures and parts thereof, n.e.c. in heading 7308",8,73,"Beams, channels, pillars and girders prepared for use in structures",Free,,,,,2026-10-22
+73089020,730890,"Iron or steel; structures and parts thereof, n.e.c. in heading 7308",8,73,Drop rods,Free,,,,,2026-10-22
+73089030,730890,"Iron or steel; structures and parts thereof, n.e.c. in heading 7308",8,73,"Hatchway, rails and bulkheads for ships or boats and parts of hull",Free,,,,,2026-10-22
+73089040,730890,"Iron or steel; structures and parts thereof, n.e.c. in heading 7308",8,73,Galvanised tension bars,Free,,,,,2026-10-22
+73089050,730890,"Iron or steel; structures and parts thereof, n.e.c. in heading 7308",8,73,Structures and super structures for mining,Free,,,,,2026-10-22
+73089060,730890,"Iron or steel; structures and parts thereof, n.e.c. in heading 7308",8,73,Truss rods,Free,,,,,2026-10-22
+73089070,730890,"Iron or steel; structures and parts thereof, n.e.c. in heading 7308",8,73,Tubular steel poles for electric transmission and distribution lines,Free,,,,,2026-10-22
+73089090,730890,"Iron or steel; structures and parts thereof, n.e.c. in heading 7308",8,73,Other,Free,,,,,2026-10-22
+7309,,,4,73,"Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment.",,,,,,2026-10-22
+730900,730900,"Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",6,73,"Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment :",,,,,,2026-10-22
+73090010,730900,"Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",8,73,Galvanized iron tanks,Free,,,,,2026-10-22
+73090020,730900,"Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",8,73,Galvanized iron barrels and drums,Free,,,,,2026-10-22
+73090030,730900,"Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",8,73,Pressed steel tanks,Free,,,,,2026-10-22
+73090040,730900,"Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",8,73,Pressure vessels,Free,,,,,2026-10-22
+73090090,730900,"Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",8,73,Other,Free,,,,,2026-10-22
+7310,,,4,73,"Tanks, casks, drums, cans, boxes and similar containers, for any of a capacity not exceeding 300 l, whether or not lined or heat-",,,,,,2026-10-22
+731010,731010,"Tanks, casks, drums, cans, boxes and similar containers, for any material (excluding compressed or liquefied gas), 50l or more capacity but not exceeding 300l",6,73,Of a capacity of 50 l or more,,,,,,2026-10-22
+73101010,731010,"Tanks, casks, drums, cans, boxes and similar containers, for any material (excluding compressed or liquefied gas), 50l or more capacity but not exceeding 300l",8,73,Tin plate containers,Free,,,,,2026-10-22
+73101020,731010,"Tanks, casks, drums, cans, boxes and similar containers, for any material (excluding compressed or liquefied gas), 50l or more capacity but not exceeding 300l",8,73,Trunks and cases,Free,,,,,2026-10-22
+73101090,731010,"Tanks, casks, drums, cans, boxes and similar containers, for any material (excluding compressed or liquefied gas), 50l or more capacity but not exceeding 300l",8,73,Other,Free,,,,,2026-10-22
+731021,731021,"Cans; which are to be closed by soldering or crimping, for any material (excluding compressed or liquefied gas), less than 50l capacity, of iron or steel",6,73,Of a capacity of less than 50 l : -- Cans which are to be closed by soldering or crimping,,,,,,2026-10-22
+73102110,731021,"Cans; which are to be closed by soldering or crimping, for any material (excluding compressed or liquefied gas), less than 50l capacity, of iron or steel",8,73,Tin plate containers,Free,,,,,2026-10-22
+73102190,731021,"Cans; which are to be closed by soldering or crimping, for any material (excluding compressed or liquefied gas), less than 50l capacity, of iron or steel",8,73,Other,Free,,,,,2026-10-22
+731029,731029,"Tanks, casks, drums, boxes and similar containers for any material (excluding compressed or liquefied gas) less than 50l capacity, n.e.c. in item no. 7310.2, of iron or steel",6,73,Of a capacity of less than 50 l : -- Other,,,,,,2026-10-22
+73102910,731029,"Tanks, casks, drums, boxes and similar containers for any material (excluding compressed or liquefied gas) less than 50l capacity, n.e.c. in item no. 7310.2, of iron or steel",8,73,Tin plate containers,Free,,,,,2026-10-22
+73102920,731029,"Tanks, casks, drums, boxes and similar containers for any material (excluding compressed or liquefied gas) less than 50l capacity, n.e.c. in item no. 7310.2, of iron or steel",8,73,Trunks and cases,Free,,,,,2026-10-22
+73102990,731029,"Tanks, casks, drums, boxes and similar containers for any material (excluding compressed or liquefied gas) less than 50l capacity, n.e.c. in item no. 7310.2, of iron or steel",8,73,Other,Free,,,,,2026-10-22
+7311,,,4,73,"Containers for compressed or liquefied gas, of iron or steel.",,,,,,2026-10-22
+731100,731100,"Containers for compressed or liquefied gas, of iron or steel",6,73,"Containers for compressed or liquefied gas, of iron or steel :",,,,,,2026-10-22
+73110010,731100,"Containers for compressed or liquefied gas, of iron or steel",8,73,Liquefied petroleum gas (LPG) cylinder,Free,"LPG containers for automotive use must conform to IS 14899, Welded low carbon steel gas cylinder exceeding 5 litre water capacity for low pressure liquefiable gases Part 1 Cylinders for liquefied petroleum gas (LPG) must conform to IS 3196(Pt 1)",,,,2026-10-22
+73110020,731100,"Containers for compressed or liquefied gas, of iron or steel",8,73,Low pressure cylinder (working pressure upto 35.2 kg/sq.cm other than LPG),Free,Welded low carbon steel cylinders exceeding 5 litre Water capacity for low pressure liquefiable gases Part 4 Cylinders for toxic and corrosive gases must conform to IS 3196 (Part 4) and Welded low carbon steel gas cylinder exceeding 5-litre water capacity for low pressure liquefiable gases Part 2 Cylinders for liquefiable gases other than LPG must conform to IS 3196(Pt 2),,,,2026-10-22
+73110030,731100,"Containers for compressed or liquefied gas, of iron or steel",8,73,High pressure cylinder (working pressure exceeding 35.2 kg/sq.cm),Free,Welded low carbon steel gas cylinder for low pressure liquefiable gases not exceeding 5 litre water capacity must conform to IS 7142 and Refillable Seamless steel gas cylinders Part 1 Normalized steel cylinders must conform to IS 7285 (Part 2).,,,,2026-10-22
+73110090,731100,"Containers for compressed or liquefied gas, of iron or steel",8,73,Other,Free,Welded and seamless steel dissolved acetylene gas cylinders must conform to IS 7312.,,,,2026-10-22
+7312,,,4,73,"Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated.",,,,,,2026-10-22
+731210,731210,"Iron or steel; stranded wire, ropes and cables, not electrically insulated",6,73,"Stranded wire, ropes and cables",,,,,,2026-10-22
+73121010,731210,"Iron or steel; stranded wire, ropes and cables, not electrically insulated",8,73,"Wire ropes, black",Free,,,,,2026-10-22
+73121020,731210,"Iron or steel; stranded wire, ropes and cables, not electrically insulated",8,73,"Wire ropes, galvanised",Free,,,,,2026-10-22
+73121030,731210,"Iron or steel; stranded wire, ropes and cables, not electrically insulated",8,73,Stranded wire,Free,Specification for uncoated stress relieved low relaxation seven ply strand for pre- stressed concrete must conform to IS 14268 and uncoated stress relieved strand for Pre-stressed concrete must conform to IS 6006.,,,,2026-10-22
+73121090,731210,"Iron or steel; stranded wire, ropes and cables, not electrically insulated",8,73,Other,Free,,,,,2026-10-22
+73129000,731290,"Iron or steel; plaited bands, slings and the like, not electrically insulated",8,73,Other,Free,,,,,2026-10-22
+7313,,,4,73,"Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel.",,,,,,2026-10-22
+731300,731300,"Iron of steel; barbed wire, twisted hoop or single flat wire and loosely twisted double wire, used for fencing",6,73,"Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel :",,,,,,2026-10-22
+73130010,731300,"Iron of steel; barbed wire, twisted hoop or single flat wire and loosely twisted double wire, used for fencing",8,73,Barbed wire,Free,,,,,2026-10-22
+73130020,731300,"Iron of steel; barbed wire, twisted hoop or single flat wire and loosely twisted double wire, used for fencing",8,73,"Twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing",Free,,,,,2026-10-22
+7314,,,4,73,"Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel.",,,,,,2026-10-22
+73141200,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",8,73,"Woven cloth : -- Endless bands for machinery, of stainless steel",Free,,,,,2026-10-22
+731414,731414,"Iron or steel; woven cloth, of stainless steel, (other than endless bands for machinery)",6,73,"Woven cloth : -- Other woven cloth, of stainless steel",,,,,,2026-10-22
+73141410,731414,"Iron or steel; woven cloth, of stainless steel, (other than endless bands for machinery)",8,73,"Wire gauze (wire cloth, wire mesh)",Free,,,,,2026-10-22
+73141490,731414,"Iron or steel; woven cloth, of stainless steel, (other than endless bands for machinery)",8,73,Other,Free,,,,,2026-10-22
+731419,731419,"Iron or steel; woven cloth, other than of stainless steel",6,73,Woven cloth : -- Other,,,,,,2026-10-22
+73141910,731419,"Iron or steel; woven cloth, other than of stainless steel",8,73,"Wire gauze (wire cloth, wire mesh)",Free,,,,,2026-10-22
+73141990,731419,"Iron or steel; woven cloth, other than of stainless steel",8,73,Other,Free,,,,,2026-10-22
+731420,731420,"Iron or steel wire; grill, netting and fencing, welded at intersections, of wire with a maximum cross-sectional dimension of 3mm or more and mesh size 100cm2 or more",6,73,"Grill, netting and fencing, welded at the intersection, of wire with a maximum cross-sectional dimension of 3 mm or more and having a mesh size of 100 cm² or more",,,,,,2026-10-22
+73142010,731420,"Iron or steel wire; grill, netting and fencing, welded at intersections, of wire with a maximum cross-sectional dimension of 3mm or more and mesh size 100cm2 or more",8,73,Wire netting,Free,,,,,2026-10-22
+73142090,731420,"Iron or steel wire; grill, netting and fencing, welded at intersections, of wire with a maximum cross-sectional dimension of 3mm or more and mesh size 100cm2 or more",8,73,Other,Free,,,,,2026-10-22
+73143100,731431,"Iron or steel wire; grill, netting and fencing, welded at the intersection, n.e.c. in item no. 7314.20, plated or coated with zinc",8,73,"Other grill, netting and fencing, welded at the intersection : -- Plated or coated with zinc",Free,,,,,2026-10-22
+73143900,731439,"Iron or steel wire; grill, netting and fencing, welded at the intersection, n.e.c. in item no. 7314.20, (other than plated or coated with zinc)",8,73,"Other grill, netting and fencing, welded at the intersection : -- Other",Free,,,,,2026-10-22
+731441,731441,"Iron or steel wire; grill, netting and fencing, plated or coated with zinc",6,73,"Other cloth, grill, netting and fencing : -- Plated or coated with zinc",,,,,,2026-10-22
+73144110,731441,"Iron or steel wire; grill, netting and fencing, plated or coated with zinc",8,73,Wire netting,Free,,,,,2026-10-22
+73144190,731441,"Iron or steel wire; grill, netting and fencing, plated or coated with zinc",8,73,Other,Free,,,,,2026-10-22
+731442,731442,"Iron or steel wire; grill, netting and fencing, coated with plastic",6,73,"Other cloth, grill, netting and fencing : -- Coated with plastics",,,,,,2026-10-22
+73144210,731442,"Iron or steel wire; grill, netting and fencing, coated with plastic",8,73,Wire netting,Free,,,,,2026-10-22
+73144290,731442,"Iron or steel wire; grill, netting and fencing, coated with plastic",8,73,Other,Free,,,,,2026-10-22
+731449,731449,"Iron or steel wire; grill, netting and fencing, coated with materials other than zinc or plastic",6,73,"Other cloth, grill, netting and fencing : -- Other",,,,,,2026-10-22
+73144910,731449,"Iron or steel wire; grill, netting and fencing, coated with materials other than zinc or plastic",8,73,Wire netting,Free,,,,,2026-10-22
+73144990,731449,"Iron or steel wire; grill, netting and fencing, coated with materials other than zinc or plastic",8,73,Other,Free,,,,,2026-10-22
+73145000,731450,Iron or steel; expanded metal,8,73,Expanded metal,Free,,,,,2026-10-22
+7315,,,4,73,"Chain and parts thereof, of iron or steel.",,,,,,2026-10-22
+73151100,731511,"Chain; articulated link, roller, of iron or steel",8,73,Articulated link chain and parts thereof : -- Roller chain,Free,"However, import of Roller chains and parts thereof having a CIF value of less than ₹ 235 per kilogram is 'Restricted'.",,13/2025-26,2025-05-26,2026-10-22
+731512,731512,"Chain; articulated link, (other than roller), of iron or steel",6,73,Articulated link chain and parts thereof : -- Other chain,,,,,,2026-10-22
+73151210,731512,"Chain; articulated link, (other than roller), of iron or steel",8,73,Lifting and hoisting chain,Free,,,,,2026-10-22
+73151220,731512,"Chain; articulated link, (other than roller), of iron or steel",8,73,Ship chain,Free,,,,,2026-10-22
+73151290,731512,"Chain; articulated link, (other than roller), of iron or steel",8,73,Other,Free,,,,,2026-10-22
+73151900,731519,"Chain; articulated link parts, of iron or steel",8,73,Articulated link chain and parts thereof : -- Parts,Free,"However, import of Roller chains and parts thereof having a CIF value of less than ₹ 235 per kilogram is 'Restricted'.",,13/2025-26,2025-05-26,2026-10-22
+73152000,731520,"Chain; skid, articulated link chain and parts thereof, of iron or steel",8,73,Skid chain,Free,,,,,2026-10-22
+73158100,731581,"Chain; stud-link chain, of iron or steel",8,73,Other chain : -- Stud-link,Free,,,,,2026-10-22
+73158200,731582,"Chain; welded link chain, of iron or steel",8,73,"Other chain : -- Other, welded link",Free,,,,,2026-10-22
+73158900,731589,"Chain; n.e.c. in heading no. 7315, of iron or steel",8,73,Other chain : -- Other,Free,,,,,2026-10-22
+73159000,731590,"Chain; parts n.e.c. in heading no. 7315, of iron or steel",8,73,Other parts,Free,"However, import of Roller chains and parts thereof having a CIF value of less than ₹ 235 per kilogram is 'Restricted'.",,13/2025-26,2025-05-26,2026-10-22
+7316,,,4,73,"Anchors, grapnels and parts thereof, of iron or steel.",,,,,,2026-10-22
+731600,731600,"Iron or steel; anchors, grapnels and parts thereof",6,73,"Anchors, grapnels and parts thereof, of iron or steel :",,,,,,2026-10-22
+73160010,731600,"Iron or steel; anchors, grapnels and parts thereof",8,73,Anchors and grapnels,Free,,,,,2026-10-22
+73160090,731600,"Iron or steel; anchors, grapnels and parts thereof",8,73,Parts,Free,,,,,2026-10-22
+7317,,,4,73,"Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 83.05) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper.",,,,,,2026-10-22
+731700,731700,"Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",6,73,"Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 8305) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper :",,,,,,2026-10-22
+73170011,731700,"Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",8,73,Nails: ---- For animal shoes,Free,,,,,2026-10-22
+73170012,731700,"Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",8,73,Nails: ---- For fixing heel strips and toe plates,Free,,,,,2026-10-22
+73170013,731700,"Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",8,73,Nails: ---- Wire nails,Free,,,,,2026-10-22
+73170019,731700,"Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",8,73,Nails: ---- Other,Free,,,,,2026-10-22
+73170021,731700,"Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",8,73,Spikes: ---- Dog spikes,Free,,,,,2026-10-22
+73170029,731700,"Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",8,73,Spikes: ---- Other,Free,,,,,2026-10-22
+73170030,731700,"Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",8,73,Spikes: ---- Tacks,Free,,,,,2026-10-22
+73170091,731700,"Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",8,73,"Other: ---- Staples, other than in strips, and drawing pins",Free,,,,,2026-10-22
+73170099,731700,"Iron or steel; nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, with heads of other material or not, but excluding articles with heads of copper",8,73,Other: ---- Other,Free,,,,,2026-10-22
+7318,,,4,73,"Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of iron or steel.",,,,,,2026-10-22
+731811,731811,Iron or steel; threaded coach screws,6,73,Threaded articles : -- Coach screws,,,,,,2026-10-22
+73181110,731811,Iron or steel; threaded coach screws,8,73,Machine screws,,,,,,2026-10-22
+73181190,731811,Iron or steel; threaded coach screws,8,73,Other,Prohibited,"However, import is ""Free' if CIF value is Rs. 129/- or above per Kg and subject to Policy condition no.2 and 3 of this Chapter",2,55/2023,2024-01-03,2026-10-22
+73181200,731812,Iron or steel; threaded wood screws other than coach screws,8,73,Threaded articles : -- Other wood screws,Prohibited,"However, import is ""Free' if CIF value is Rs. 129/- or above per Kg and subject to Policy condition no.2 and 3 of this Chapter",2,55/2023,2024-01-03,2026-10-22
+73181300,731813,Iron or steel; threaded screw hooks and screw rings,8,73,Threaded articles : -- Screw hooks and screw rings,Prohibited,"However, import is ""Free' if CIF value is Rs. 129/- or above per Kg and subject to Policy condition no.2 and 3 of this Chapter",2,55/2023,2024-01-03,2026-10-22
+73181400,731814,Iron or steel; threaded self-tapping screws,8,73,Threaded articles : -- Self-tapping screws,Prohibited,"However, import is ""Free' if CIF value is Rs. 129/- or above per Kg and subject to Policy condition no.2 and 3 of this Chapter",2,55/2023,2024-01-03,2026-10-22
+73181500,731815,"Iron or steel; threaded screws and bolts n.e.c. in item no. 7318.1, whether or not with their nuts or washers",8,73,"Threaded articles : -- Other screws and bolts, whether or not with their nuts or washers",Prohibited,"However, import is ""Free' if CIF value is Rs. 129/- or above per Kg and subject to Policy condition no.2 and 3 of this Chapter",2,55/2023,2024-01-03,2026-10-22
+73181600,731816,Iron or steel; threaded nuts,8,73,Threaded articles : -- Nuts,Free,,,,,2026-10-22
+73181900,731819,"Iron or steel; threaded screws, bolts and nuts n.e.c. in item no. 7318.1",8,73,Threaded articles : -- Other,Prohibited,"However, import is ""Free' if CIF value is Rs. 129/- or above per Kg and subject to Policy condition no.2 and 3 of this Chapter",2,55/2023,2024-01-03,2026-10-22
+73182100,731821,Iron or steel; non-threaded spring washers and other lock washers,8,73,Non-threaded articles : -- Spring washers and other lock washers,Free,,,,,2026-10-22
+73182200,731822,"Iron or steel; non-threaded washers, excluding spring and lock",8,73,Non-threaded articles : -- Other washers,Free,,,,,2026-10-22
+73182300,731823,Iron or steel; non-threaded rivets,8,73,Non-threaded articles : -- Rivets,Free,,,,,2026-10-22
+73182400,731824,Iron or steel; non-threaded cotters and cotter-pins,8,73,Non-threaded articles : -- Cotters and cotter-pins,Free,,,,,2026-10-22
+731829,731829,"Iron or steel; non-threaded articles, n.e.c. in item no. 7318.2",6,73,Non-threaded articles : -- Other,,,,,,2026-10-22
+73182910,731829,"Iron or steel; non-threaded articles, n.e.c. in item no. 7318.2",8,73,Circlips,Free,,,,,2026-10-22
+73182990,731829,"Iron or steel; non-threaded articles, n.e.c. in item no. 7318.2",8,73,Other,Free,,,,,2026-10-22
+7319,,,4,73,"Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles, for use in the hand, of iron or steel; safety pins and other pins of iron or steel, not elsewhere specified or included.",,,,,,2026-10-22
+731940,731940,Safety pins and other pins; of iron or steel,6,73,Safety pins and other pins,,,,,,2026-10-22
+73194010,731940,Safety pins and other pins; of iron or steel,8,73,Safety pins,Free,,,,,2026-10-22
+73194090,731940,Safety pins and other pins; of iron or steel,8,73,Other pins,Free,,,,,2026-10-22
+73199000,731990,"Sewing and knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles, for use in the hand, not elsewhere specified or included, of iron or steel",8,73,Other,Free,,,,,2026-10-22
+7320,,,4,73,"Springs and leaves for springs, of iron or steel.",,,,,,2026-10-22
+732010,732010,Iron or steel; leaf-springs and leaves therefor,6,73,Leaf-springs and leaves therefor,,,,,,2026-10-22
+73201011,732010,Iron or steel; leaf-springs and leaves therefor,8,73,Leaf spring: ---- For motor vehicles,Free,,,,,2026-10-22
+73201012,732010,Iron or steel; leaf-springs and leaves therefor,8,73,Leaf spring: ---- For railways and tramways,Free,,,,,2026-10-22
+73201019,732010,Iron or steel; leaf-springs and leaves therefor,8,73,Leaf spring: ---- Other,Free,,,,,2026-10-22
+73201020,732010,Iron or steel; leaf-springs and leaves therefor,8,73,Leaf spring: ---- Leaves for springs,Free,,,,,2026-10-22
+73202000,732020,Iron or steel; helical springs and leaves for springs,8,73,Helical springs,Free,,,,,2026-10-22
+732090,732090,Iron or steel; springs n.e.c. in heading no. 7320,6,73,Other,,,,,,2026-10-22
+73209010,732090,Iron or steel; springs n.e.c. in heading no. 7320,8,73,"Coil spring for railways, tramways",Free,,,,,2026-10-22
+73209020,732090,Iron or steel; springs n.e.c. in heading no. 7320,8,73,Spring pins,Free,,,,,2026-10-22
+73209090,732090,Iron or steel; springs n.e.c. in heading no. 7320,8,73,Other,Free,,,,,2026-10-22
+7321,,,4,73,"Stoves, ranges, grates, cookers (including those with subsidiary boilers for central heating), barbecues, braziers, gas-rings, plate warmers and similar non-electric domestic appliances, and parts thereof, of iron or steel.",,,,,,2026-10-22
+732111,732111,"Cooking appliances and plate warmers; for gas fuel or for both gas and other fuels, of iron or steel",6,73,Cooking appliances and plate warmers : -- For gas fuel or for both gas and other fuels,,,,,,2026-10-22
+73211110,732111,"Cooking appliances and plate warmers; for gas fuel or for both gas and other fuels, of iron or steel",8,73,Cookers and kitchen stoves,Free,,,,,2026-10-22
+73211120,732111,"Cooking appliances and plate warmers; for gas fuel or for both gas and other fuels, of iron or steel",8,73,Other stoves,Free,Safety of household and similar electrical appliances - Electric stoves must conform with IS 302(Pt2/Sec-202),,,,2026-10-22
+73211190,732111,"Cooking appliances and plate warmers; for gas fuel or for both gas and other fuels, of iron or steel",8,73,Other,Free,,,,,2026-10-22
+732112,732112,"Cooking appliances and plate warmers; for liquid fuel, of iron or steel",6,73,Cooking appliances and plate warmers : -- For liquid fuel,,,,,,2026-10-22
+73211210,732112,"Cooking appliances and plate warmers; for liquid fuel, of iron or steel",8,73,Cookers and kitchen stoves,Free,,,,,2026-10-22
+73211220,732112,"Cooking appliances and plate warmers; for liquid fuel, of iron or steel",8,73,Other stoves,Free,,,,,2026-10-22
+73211290,732112,"Cooking appliances and plate warmers; for liquid fuel, of iron or steel",8,73,Other,Free,,,,,2026-10-22
+732119,732119,"Cooking appliances and plate warmers; for solid fuel and fuels other than gas or liquid, of iron or steel",6,73,"Cooking appliances and plate warmers : -- Other, including appliances for solid fuel",,,,,,2026-10-22
+73211910,732119,"Cooking appliances and plate warmers; for solid fuel and fuels other than gas or liquid, of iron or steel",8,73,Cookers and kitchen stoves,Free,,,,,2026-10-22
+73211990,732119,"Cooking appliances and plate warmers; for solid fuel and fuels other than gas or liquid, of iron or steel",8,73,Other stoves and appliances,Free,,,,,2026-10-22
+73218100,732181,"Domestic appliances; non-electric, (other than cookers and plate warmers), for gas fuel or for both gas and other fuels, of iron or steel",8,73,Other appliances : -- For gas fuel or for both gas and other fuels,Free,,,,,2026-10-22
+73218200,732182,"Domestic appliances; non-electric, (other than cookers and plate warmers), for liquid fuel, of iron or steel",8,73,Other appliances : -- For liquid fuel,Free,,,,,2026-10-22
+732189,732189,"Domestic appliances; non-electric, (other than cookers and plate warmers), for solid fuel and fuels other than gas or liquid, of iron or steel",6,73,"Other appliances : -- Other, including appliances for solid fuel",,,,,,2026-10-22
+73218910,732189,"Domestic appliances; non-electric, (other than cookers and plate warmers), for solid fuel and fuels other than gas or liquid, of iron or steel",8,73,Clay tandoor (oven with iron or steel body and earthen grates),Free,,,,,2026-10-22
+73218990,732189,"Domestic appliances; non-electric, (other than cookers and plate warmers), for solid fuel and fuels other than gas or liquid, of iron or steel",8,73,Other,Free,,,,,2026-10-22
+73219000,732190,"Domestic appliances; non-electric, parts thereof, of iron or steel",8,73,Parts,Free,,,,,2026-10-22
+7322,,,4,73,"Radiators for central heating, not electrically heated, and parts thereof, of iron or steel; air heaters and hot air distributors (i ncluding distributors which can also distribute fresh or conditioned air), not electrically heated, incorporating a motordriven fan or blower, and parts thereof, of iron or steel.",,,,,,2026-10-22
+73221100,732211,"Radiators and parts thereof; for central heating, (not electrically heated), of cast iron",8,73,Radiators and parts thereof : -- Of cast iron,Free,,,,,2026-10-22
+73221900,732219,"Radiators and parts thereof; for central heating, (not electrically heated), of iron or steel other than cast iron",8,73,Radiators and parts thereof : -- Other,Free,,,,,2026-10-22
+732290,732290,"Air heaters and hot air distributors, (not electrically heated), incorporating a motor-driven fan or blower and parts thereof, of iron or steel",6,73,Other,,,,,,2026-10-22
+73229010,732290,"Air heaters and hot air distributors, (not electrically heated), incorporating a motor-driven fan or blower and parts thereof, of iron or steel",8,73,Air heaters and hot air distributors,Free,Safety of household and similar electrical appliances -Room Heaters must conform to IS 302(Pt 2/Sec 30),,,,2026-10-22
+73229090,732290,"Air heaters and hot air distributors, (not electrically heated), incorporating a motor-driven fan or blower and parts thereof, of iron or steel",8,73,Parts of air heaters and hot air distributors,Free,,,,,2026-10-22
+7323,,,4,73,"Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel.",,,,,,2026-10-22
+73231000,732310,"Iron or steel; wool, pot scourers and scouring or polishing pads, gloves and the like",8,73,"Iron or steel wool; pot scourers and scouring or polishing pads,",Free,,,,,2026-10-22
+732391,732391,"Cast iron; table, kitchen and other household articles and parts thereof, of cast iron, not enamelled",6,73,"Other : -- Of cast iron, not enamelled",,,,,,2026-10-22
+73239110,732391,"Cast iron; table, kitchen and other household articles and parts thereof, of cast iron, not enamelled",8,73,Pans,Free,,,,,2026-10-22
+73239190,732391,"Cast iron; table, kitchen and other household articles and parts thereof, of cast iron, not enamelled",8,73,Other,Free,,,,,2026-10-22
+73239200,732392,"Cast iron; table, kitchen and other household articles and parts thereof, of cast iron, enamelled",8,73,"Other : -- Of cast iron, enamelled",Free,,,,,2026-10-22
+732393,732393,"Steel, stainless; table, kitchen and other household articles and parts thereof",6,73,Other : -- Of stainless steel,,,,,,2026-10-22
+73239310,732393,"Steel, stainless; table, kitchen and other household articles and parts thereof",8,73,Pressure cookers,Free,,,,,2026-10-22
+73239390,732393,"Steel, stainless; table, kitchen and other household articles and parts thereof",8,73,Other,Free,,,,,2026-10-22
+732394,732394,"Iron (excluding cast) or steel; table, kitchen and other household articles and parts thereof, enamelled",6,73,"Other : -- Of iron (other than cast iron) or steel, enamelled",,,,,,2026-10-22
+73239410,732394,"Iron (excluding cast) or steel; table, kitchen and other household articles and parts thereof, enamelled",8,73,Ghamellas,Free,,,,,2026-10-22
+73239420,732394,"Iron (excluding cast) or steel; table, kitchen and other household articles and parts thereof, enamelled",8,73,Utensils,Free,,,,,2026-10-22
+73239490,732394,"Iron (excluding cast) or steel; table, kitchen and other household articles and parts thereof, enamelled",8,73,Other,Free,,,,,2026-10-22
+732399,732399,"Iron or steel; table, kitchen and other household articles and parts thereof, of iron or steel n.e.c. in heading no. 7323",6,73,Other : -- Other,,,,,,2026-10-22
+73239910,732399,"Iron or steel; table, kitchen and other household articles and parts thereof, of iron or steel n.e.c. in heading no. 7323",8,73,Utensils of galvanised iron,Free,,,,,2026-10-22
+73239920,732399,"Iron or steel; table, kitchen and other household articles and parts thereof, of iron or steel n.e.c. in heading no. 7323",8,73,Other utensils,Free,,,,,2026-10-22
+73239990,732399,"Iron or steel; table, kitchen and other household articles and parts thereof, of iron or steel n.e.c. in heading no. 7323",8,73,Other,Free,,,,,2026-10-22
+7324,,,4,73,"Sanitary ware and parts thereof, of iron or steel.",,,,,,2026-10-22
+73241000,732410,"Steel; sinks and wash basins, of stainless steel",8,73,"Sinks and wash basins, of stainless steel",Free,,,,,2026-10-22
+73242100,732421,"Cast iron, baths, whether or not enamelled",8,73,"Baths : -- Of cast iron, whether or not enamelled",Free,,,,,2026-10-22
+73242900,732429,Iron (other than cast) or steel; baths,8,73,Baths : -- Other,Free,,,,,2026-10-22
+73249000,732490,"Iron or steel; sanitary ware and parts thereof, excluding sinks, wash basins and baths",8,73,"Other, including parts",Free,,,,,2026-10-22
+7325,,,4,73,Other cast articles of iron or steel.,,,,,,2026-10-22
+73251000,732510,Iron; articles of non-malleable cast iron,8,73,Of non-malleable cast iron,Free,,,,,2026-10-22
+73259100,732591,"Iron; grinding balls and similar articles for mills, other than of non-malleable cast iron",8,73,Other : -- Grinding balls and similar articles for mills,Free,,,,,2026-10-22
+732599,732599,"Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",6,73,Other : -- Other,,,,,,2026-10-22
+73259910,732599,"Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",8,73,Of iron,Free,,,,,2026-10-22
+73259920,732599,"Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",8,73,Of alloy steel,Free,,,,,2026-10-22
+73259930,732599,"Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",8,73,Of stainless steel,Free,,,,,2026-10-22
+73259991,732599,"Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",8,73,Other: ---- Rudders for ships or boats,Free,,,,,2026-10-22
+73259992,732599,"Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",8,73,Other: ---- Drain covers,Free,,,,,2026-10-22
+73259993,732599,"Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",8,73,Other: ---- Plates and frames for sewage water or similar system,Free,,,,,2026-10-22
+73259999,732599,"Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",8,73,Other: ---- Other,Free,,,,,2026-10-22
+7326,,,4,73,Other articles of iron or steel.,,,,,,2026-10-22
+73261100,732611,"Iron or steel; grinding balls and similar articles for mills, forged or stamped, but not further worked",8,73,"Forged or stamped, but not further worked : -- Grinding balls and similar articles for mills",Free,,,,,2026-10-22
+732619,732619,"Iron or steel; articles n.e.c. in item no. 7326.11, forged or stamped, but not further worked",6,73,"Forged or stamped, but not further worked : -- Other",,,,,,2026-10-22
+73261910,732619,"Iron or steel; articles n.e.c. in item no. 7326.11, forged or stamped, but not further worked",8,73,For automobiles and Earth moving equipments,Free,,,,,2026-10-22
+73261990,732619,"Iron or steel; articles n.e.c. in item no. 7326.11, forged or stamped, but not further worked",8,73,Other,Free,,,,,2026-10-22
+732620,732620,Iron or steel; wire articles,6,73,Articles of iron or steel wire,,,,,,2026-10-22
+73262010,732620,Iron or steel; wire articles,8,73,Tyre bead wire rings intended for use in the manufacture of tyres for cycles and cycle-rickshaws,Free,,,,,2026-10-22
+73262090,732620,Iron or steel; wire articles,8,73,Other,Free,,,,,2026-10-22
+732690,732690,Iron or steel; articles n.e.c. in heading 7326,6,73,Other,,,,,,2026-10-22
+73269010,732690,Iron or steel; articles n.e.c. in heading 7326,8,73,Belt lacing of steel,Free,,,,,2026-10-22
+73269020,732690,Iron or steel; articles n.e.c. in heading 7326,8,73,Belt fasteners for machinery belts,Free,,,,,2026-10-22
+73269030,732690,Iron or steel; articles n.e.c. in heading 7326,8,73,"Drain covers, plates, and frames for sewages, water or similar system",Free,,,,,2026-10-22
+73269040,732690,Iron or steel; articles n.e.c. in heading 7326,8,73,Enamelled iron ware,Free,,,,,2026-10-22
+73269050,732690,Iron or steel; articles n.e.c. in heading 7326,8,73,Grinding media balls and cylpebs,Free,,,,,2026-10-22
+73269060,732690,Iron or steel; articles n.e.c. in heading 7326,8,73,Manufactures of stainless steel,Free,,,,,2026-10-22
+73269070,732690,Iron or steel; articles n.e.c. in heading 7326,8,73,Articles of clad metal,Free,,,,,2026-10-22
+73269080,732690,Iron or steel; articles n.e.c. in heading 7326,8,73,"Parts of ships, floating structure and vessels (excluding hull, propellers and paddle-wheels)",Free,,,,,2026-10-22
+73269091,732690,Iron or steel; articles n.e.c. in heading 7326,8,73,Other: ---- Shanks,Free,,,,,2026-10-22
+73269099,732690,Iron or steel; articles n.e.c. in heading 7326,8,73,Other: ---- Other,Free,,,,,2026-10-22

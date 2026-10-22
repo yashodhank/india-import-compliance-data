@@ -1,0 +1,55 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "hs6",
+ "title": "WCO Harmonized System 2022, 6-digit subheadings",
+ "fields": [
+  {
+   "name": "section",
+   "type": "string",
+   "description": "HS section (Roman numeral)",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "hs6",
+   "type": "string",
+   "description": "Six-digit HS subheading",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{6}$"
+   }
+  },
+  {
+   "name": "description",
+   "type": "string",
+   "description": "WCO description as carried by the source table",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "parent",
+   "type": "string",
+   "description": "Four-digit heading",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{4}$"
+   }
+  },
+  {
+   "name": "level",
+   "type": "integer",
+   "description": "Always 6 in this table",
+   "constraints": {
+    "required": true,
+    "enum": [
+     6
+    ]
+   }
+  }
+ ],
+ "primaryKey": [
+  "hs6"
+ ]
+}

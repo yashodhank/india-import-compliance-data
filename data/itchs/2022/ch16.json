@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "16010000",
+   "hs6": "160100",
+   "hs6_description": "Meat preparations; sausages and similar products, of meat, meat offal, blood or insects, and food preparations based on these products",
    "level": 8,
    "chapter": "16",
    "description": "sausages and similar products, of meat, meat offal, blood or insects; food preparations based on these products",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "1602",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "16",
    "description": "OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL, BLOOD OR INSECTS",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "16021000",
+   "hs6": "160210",
+   "hs6_description": "Meat preparations; homogenised preparations of meat, meat offal blood or insects",
    "level": 8,
    "chapter": "16",
    "description": "Homogenised preparations",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "16022000",
+   "hs6": "160220",
+   "hs6_description": "Meat preparations; of the prepared or preserved liver of any animal (excluding homogenised preparations)",
    "level": 8,
    "chapter": "16",
    "description": "Of liver of any animal",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "16023100",
+   "hs6": "160231",
+   "hs6_description": "Meat preparations; of turkeys, prepared or preserved meat or meat offal (excluding livers and homogenised preparations)",
    "level": 8,
    "chapter": "16",
    "description": "Of poultry of heading 01.05 : -- Of turkeys",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "16023200",
+   "hs6": "160232",
+   "hs6_description": "Meat preparations; of the poultry of heading no. 0105, (i.e. of fowls of the species Gallus domesticus)",
    "level": 8,
    "chapter": "16",
    "description": "Of poultry of heading 01.05 : -- Of fowls of the species Gallus domesticus",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "16023900",
+   "hs6": "160239",
+   "hs6_description": "Meat preparations; of poultry (excluding turkeys), prepared or preserved meat or meat offal (excluding livers and homogenised preparations)",
    "level": 8,
    "chapter": "16",
    "description": "Of poultry of heading 01.05 : -- Other.",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "16024100",
+   "hs6": "160241",
+   "hs6_description": "Meat preparations; of swine, hams and cuts thereof, prepared or preserved (excluding homogenised preparations)",
    "level": 8,
    "chapter": "16",
    "description": "Of swine : -- Hams and cuts thereof",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "16024200",
+   "hs6": "160242",
+   "hs6_description": "Meat preparations; of swine, shoulders and cuts thereof, prepared or preserved (excluding homogenised preparations)",
    "level": 8,
    "chapter": "16",
    "description": "Of swine : -- Shoulders and cuts thereof",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "16024900",
+   "hs6": "160249",
+   "hs6_description": "Meat preparations; of swine, meat or meat offal (including mixtures), prepared or preserved, n.e.c. in heading no. 1602",
    "level": 8,
    "chapter": "16",
    "description": "Of swine : -- Other, including mixtures",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "16025000",
+   "hs6": "160250",
+   "hs6_description": "Meat preparations; of bovine animals, meat or meat offal, prepared or preserved (excluding livers and homogenised preparations)",
    "level": 8,
    "chapter": "16",
    "description": "Of bovine animals",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "16029000",
+   "hs6": "160290",
+   "hs6_description": "Meat preparations; of meat, meat offal or the blood of any animal, n.e.c. in heading no. 1602",
    "level": 8,
    "chapter": "16",
    "description": "Other, including preparations of blood of any animal",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "1603",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "16",
    "description": "Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates.",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "160300",
+   "hs6": "160300",
+   "hs6_description": "Extracts and juices; of meat, fish or crustaceans, molluscs or other aquatic invertebrates",
    "level": 6,
    "chapter": "16",
    "description": "Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates :",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "16030010",
+   "hs6": "160300",
+   "hs6_description": "Extracts and juices; of meat, fish or crustaceans, molluscs or other aquatic invertebrates",
    "level": 8,
    "chapter": "16",
    "description": "Extracts and juices of meat",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "16030020",
+   "hs6": "160300",
+   "hs6_description": "Extracts and juices; of meat, fish or crustaceans, molluscs or other aquatic invertebrates",
    "level": 8,
    "chapter": "16",
    "description": "Extracts of fish",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "16030090",
+   "hs6": "160300",
+   "hs6_description": "Extracts and juices; of meat, fish or crustaceans, molluscs or other aquatic invertebrates",
    "level": 8,
    "chapter": "16",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "1604",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "16",
    "description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs.",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "16041100",
+   "hs6": "160411",
+   "hs6_description": "Fish preparations; salmon, prepared or preserved, whole or in pieces (but not minced)",
    "level": 8,
    "chapter": "16",
    "description": "Fish, whole or in pieces, but not minced : -- Salmon",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "160412",
+   "hs6": "160412",
+   "hs6_description": "Fish preparations; herrings, prepared or preserved, whole or in pieces (but not minced)",
    "level": 6,
    "chapter": "16",
    "description": "Fish, whole or in pieces, but not minced : -- Herrings",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "16041210",
+   "hs6": "160412",
+   "hs6_description": "Fish preparations; herrings, prepared or preserved, whole or in pieces (but not minced)",
    "level": 8,
    "chapter": "16",
    "description": "Pickled",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "16041290",
+   "hs6": "160412",
+   "hs6_description": "Fish preparations; herrings, prepared or preserved, whole or in pieces (but not minced)",
    "level": 8,
    "chapter": "16",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "160413",
+   "hs6": "160413",
+   "hs6_description": "Fish preparations; sardines, sardinella and brisling or sprats, prepared or preserved, whole or in pieces (but not minced)",
    "level": 6,
    "chapter": "16",
    "description": "Fish, whole or in pieces, but not minced : -- Sardines, sardinella and brisling or sprats",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "16041310",
+   "hs6": "160413",
+   "hs6_description": "Fish preparations; sardines, sardinella and brisling or sprats, prepared or preserved, whole or in pieces (but not minced)",
    "level": 8,
    "chapter": "16",
    "description": "Sardines, sardinella and brisling",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "16041320",
+   "hs6": "160413",
+   "hs6_description": "Fish preparations; sardines, sardinella and brisling or sprats, prepared or preserved, whole or in pieces (but not minced)",
    "level": 8,
    "chapter": "16",
    "description": "Sprats",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "160414",
+   "hs6": "160414",
+   "hs6_description": "Fish preparations; tunas, skipjack tuna and bonito (Sarda spp.), prepared or preserved, whole or in pieces (but not minced)",
    "level": 6,
    "chapter": "16",
    "description": "Fish, whole or in pieces, but not minced :- - Tunas, skipjack tuna and bonito (Sarda spp.):",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "16041410",
+   "hs6": "160414",
+   "hs6_description": "Fish preparations; tunas, skipjack tuna and bonito (Sarda spp.), prepared or preserved, whole or in pieces (but not minced)",
    "level": 8,
    "chapter": "16",
    "description": "Tunas",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "16041490",
+   "hs6": "160414",
+   "hs6_description": "Fish preparations; tunas, skipjack tuna and bonito (Sarda spp.), prepared or preserved, whole or in pieces (but not minced)",
    "level": 8,
    "chapter": "16",
    "description": "Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "16041500",
+   "hs6": "160415",
+   "hs6_description": "Fish preparations; mackerel, prepared or preserved, whole or in pieces (but not minced)",
    "level": 8,
    "chapter": "16",
    "description": "Fish, whole or in pieces, but not minced : -- Mackerel",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "16041600",
+   "hs6": "160416",
+   "hs6_description": "Fish preparations; anchovies, prepared or preserved, whole or in pieces (but not minced)",
    "level": 8,
    "chapter": "16",
    "description": "Fish, whole or in pieces, but not minced : -- Anchovies",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "16041700",
+   "hs6": "160417",
+   "hs6_description": "Fish preparations; eels, prepared or preserved, whole or in pieces (but not minced)",
    "level": 8,
    "chapter": "16",
    "description": "Fish, whole or in pieces, but not minced : -- Eels",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "16041800",
+   "hs6": "160418",
+   "hs6_description": "Fish preparations; shark fins, prepared or preserved, whole or in pieces (but not minced)",
    "level": 8,
    "chapter": "16",
    "description": "Fish, whole or in pieces, but not minced : -- Shark fins",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "16041900",
+   "hs6": "160419",
+   "hs6_description": "Fish preparations; fish prepared or preserved, whole or in pieces (but not minced), n.e.c. in heading no. 1604",
    "level": 8,
    "chapter": "16",
    "description": "Fish, whole or in pieces, but not minced : -- Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "16042000",
+   "hs6": "160420",
+   "hs6_description": "Fish preparations; fish minced or in forms n.e.c. in heading no. 1604, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Other prepared or preserved fish",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "16043100",
+   "hs6": "160431",
+   "hs6_description": "Fish preparations; caviar",
    "level": 8,
    "chapter": "16",
    "description": "Caviar and caviar substitutes : -- Caviar",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "16043200",
+   "hs6": "160432",
+   "hs6_description": "Fish preparations; caviar substitutes, prepared from fish eggs",
    "level": 8,
    "chapter": "16",
    "description": "Caviar and caviar substitutes : -- Caviar substitutes",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "1605",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "16",
    "description": "Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved.",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "16051000",
+   "hs6": "160510",
+   "hs6_description": "Crustacean preparations; crab, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Crab",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "16052100",
+   "hs6": "160521",
+   "hs6_description": "Crustacean preparations; shrimps and prawns, prepared or preserved, not in airtight containers",
    "level": 8,
    "chapter": "16",
    "description": "Shrimps and prawns : -- Not in airtight container",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "16052900",
+   "hs6": "160529",
+   "hs6_description": "Crustacean preparations; shrimps and prawns, prepared or preserved, in airtight containers",
    "level": 8,
    "chapter": "16",
    "description": "Shrimps and prawns : -- Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "16053000",
+   "hs6": "160530",
+   "hs6_description": "Crustacean preparations; lobster, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Lobster",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "16054000",
+   "hs6": "160540",
+   "hs6_description": "Crustacean preparations; other than crab, shrimps, prawns, and lobsters, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Other crustaceans",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "16055100",
+   "hs6": "160551",
+   "hs6_description": "Mollusc preparations; oysters, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Molluscs : -- Oysters",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "16055200",
+   "hs6": "160552",
+   "hs6_description": "Mollusc preparations; scallops, including queen scallops, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Molluscs : -- Scallops, including queen scallops",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "16055300",
+   "hs6": "160553",
+   "hs6_description": "Mollusc preparations; mussels, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Molluscs : -- Mussels",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "16055400",
+   "hs6": "160554",
+   "hs6_description": "Mollusc preparations; cuttle fish and squid, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Molluscs : -- Cuttle fish and squid",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "16055500",
+   "hs6": "160555",
+   "hs6_description": "Mollusc preparations; octopus, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Molluscs : -- Octopus",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "16055600",
+   "hs6": "160556",
+   "hs6_description": "Mollusc preparations; clams, cockles and arkshells, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Molluscs : -- Clams, cockles and arkshells",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "16055700",
+   "hs6": "160557",
+   "hs6_description": "Mollusc preparations; abalone, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Molluscs : -- Abalone",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "16055800",
+   "hs6": "160558",
+   "hs6_description": "Mollusc preparations; snails, other than sea snails, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Molluscs : -- Snails, other than sea snails",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "16055900",
+   "hs6": "160559",
+   "hs6_description": "Mollusc preparations; n.e.c. in item no. 1605.5, preparations such as pastes, sausages, prepared meals and the like",
    "level": 8,
    "chapter": "16",
    "description": "Molluscs : -- Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "16056100",
+   "hs6": "160561",
+   "hs6_description": "Aquatic invertebrates; sea cucumbers, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Other aquatic invertebrates : -- Sea cucumbers",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "16056200",
+   "hs6": "160562",
+   "hs6_description": "Aquatic invertebrates; sea urchins, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Other aquatic invertebrates : -- Sea urchins",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "16056300",
+   "hs6": "160563",
+   "hs6_description": "Aquatic invertebrates; jellyfish, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Other aquatic invertebrates : -- Jellyfish",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "16056900",
+   "hs6": "160569",
+   "hs6_description": "Aquatic invertebrates; other than crustaceans, molluscs, sea cucumbers, sea urchins, and jellyfish, prepared or preserved",
    "level": 8,
    "chapter": "16",
    "description": "Other aquatic invertebrates : -- Other",

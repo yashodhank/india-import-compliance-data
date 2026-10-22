@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "3601",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "36",
    "description": "Propellent powders.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "360100",
+   "hs6": "360100",
+   "hs6_description": "Explosives; propellent powders",
    "level": 6,
    "chapter": "36",
    "description": "Propellant powders :",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "36010010",
+   "hs6": "360100",
+   "hs6_description": "Explosives; propellent powders",
    "level": 8,
    "chapter": "36",
    "description": "Blasting powder",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "36010020",
+   "hs6": "360100",
+   "hs6_description": "Explosives; propellent powders",
    "level": 8,
    "chapter": "36",
    "description": "Gun powder",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "36010090",
+   "hs6": "360100",
+   "hs6_description": "Explosives; propellent powders",
    "level": 8,
    "chapter": "36",
    "description": "Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "3602",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "36",
    "description": "Prepared explosives, other than propellent powders.",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "360200",
+   "hs6": "360200",
+   "hs6_description": "Explosives, prepared; other than propellent powders",
    "level": 6,
    "chapter": "36",
    "description": "Prepared explosives, other than propellant powders :",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "36020010",
+   "hs6": "360200",
+   "hs6_description": "Explosives, prepared; other than propellent powders",
    "level": 8,
    "chapter": "36",
    "description": "Industrial explosives",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "36020090",
+   "hs6": "360200",
+   "hs6_description": "Explosives, prepared; other than propellent powders",
    "level": 8,
    "chapter": "36",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "3603",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "36",
    "description": "SAFETY FUSES; DETONATING CORDS; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "36031000",
+   "hs6": "360310",
+   "hs6_description": "Safety fuses",
    "level": 8,
    "chapter": "36",
    "description": "Safety fuses",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "36032000",
+   "hs6": "360320",
+   "hs6_description": "Detonating cords",
    "level": 8,
    "chapter": "36",
    "description": "Detonating cords",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "36033000",
+   "hs6": "360330",
+   "hs6_description": "Percussion caps",
    "level": 8,
    "chapter": "36",
    "description": "Percussion caps",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "36034000",
+   "hs6": "360340",
+   "hs6_description": "Detonating caps",
    "level": 8,
    "chapter": "36",
    "description": "Detonating caps",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "36035000",
+   "hs6": "360350",
+   "hs6_description": "Igniters",
    "level": 8,
    "chapter": "36",
    "description": "Igniters",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "36036000",
+   "hs6": "360360",
+   "hs6_description": "Electric detonators",
    "level": 8,
    "chapter": "36",
    "description": "Electric detonators",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "3604",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "36",
    "description": "Fireworks, signalling flares, rain rockets, fog signals and other pyrotechnic articles.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "36041000",
+   "hs6": "360410",
+   "hs6_description": "Pyrotechnic products; fireworks",
    "level": 8,
    "chapter": "36",
    "description": "Fireworks",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "360490",
+   "hs6": "360490",
+   "hs6_description": "Pyrotechnic products; signalling flares, rain rockets, fog signals and other pyrotechnic articles (excluding fireworks)",
    "level": 6,
    "chapter": "36",
    "description": "Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "36049010",
+   "hs6": "360490",
+   "hs6_description": "Pyrotechnic products; signalling flares, rain rockets, fog signals and other pyrotechnic articles (excluding fireworks)",
    "level": 8,
    "chapter": "36",
    "description": "Ship signals",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "36049090",
+   "hs6": "360490",
+   "hs6_description": "Pyrotechnic products; signalling flares, rain rockets, fog signals and other pyrotechnic articles (excluding fireworks)",
    "level": 8,
    "chapter": "36",
    "description": "Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "3605",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "36",
    "description": "Matches, other than pyrotechnic articles of heading 36.04.",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "360500",
+   "hs6": "360500",
+   "hs6_description": "Matches; other than pyrotechnic articles of heading no. 3604",
    "level": 6,
    "chapter": "36",
    "description": "Matches, other than pyrotechnic articles of heading 3604 :",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "36050010",
+   "hs6": "360500",
+   "hs6_description": "Matches; other than pyrotechnic articles of heading no. 3604",
    "level": 8,
    "chapter": "36",
    "description": "Safety matches",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "36050090",
+   "hs6": "360500",
+   "hs6_description": "Matches; other than pyrotechnic articles of heading no. 3604",
    "level": 8,
    "chapter": "36",
    "description": "Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "3606",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "36",
    "description": "Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials as specified in Note 2 to this Chapter.",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "36061000",
+   "hs6": "360610",
+   "hs6_description": "Fuels; liquid or liquefied-gas, in containers, of a kind used for filling or refilling cigarette or similar lighters and of a capacity not exceeding 300cm3",
    "level": 8,
    "chapter": "36",
    "description": "Liquid or liquefied-gas fuels in containers of a kind used for filling or refilling cigarette or similar lighters and of a capacity not exceeding 300 cm3",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "360690",
+   "hs6": "360690",
+   "hs6_description": "Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials n.e.c. in chapter 36",
    "level": 6,
    "chapter": "36",
    "description": "Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "36069010",
+   "hs6": "360690",
+   "hs6_description": "Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials n.e.c. in chapter 36",
    "level": 8,
    "chapter": "36",
    "description": "Combustible preparations",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "36069091",
+   "hs6": "360690",
+   "hs6_description": "Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials n.e.c. in chapter 36",
    "level": 8,
    "chapter": "36",
    "description": "Other: ---- Ferro-cerium, in all forms",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "36069092",
+   "hs6": "360690",
+   "hs6_description": "Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials n.e.c. in chapter 36",
    "level": 8,
    "chapter": "36",
    "description": "Other: ---- Pyrophoric alloys, in all forms",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "36069093",
+   "hs6": "360690",
+   "hs6_description": "Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials n.e.c. in chapter 36",
    "level": 8,
    "chapter": "36",
    "description": "Other: ---- DNPT (Dinitroso-penta-methylene tetramine)",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "36069099",
+   "hs6": "360690",
+   "hs6_description": "Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials n.e.c. in chapter 36",
    "level": 8,
    "chapter": "36",
    "description": "Other: ---- Others",

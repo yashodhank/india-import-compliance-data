@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "6601",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "66",
    "description": "Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas).",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "66011000",
+   "hs6": "660110",
+   "hs6_description": "Umbrellas and sun umbrellas; garden or similar umbrellas",
    "level": 8,
    "chapter": "66",
    "description": "Garden or similar umbrellas",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "66019100",
+   "hs6": "660191",
+   "hs6_description": "Umbrellas and sun umbrellas; having a telescopic shaft, (excluding garden or similar umbrellas)",
    "level": 8,
    "chapter": "66",
    "description": "Other : -- Having a telescopic shaft",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "66019900",
+   "hs6": "660199",
+   "hs6_description": "Umbrellas and sun umbrellas; n.e.c. in heading no. 6601 (including walking stick umbrellas)",
    "level": 8,
    "chapter": "66",
    "description": "Other : -- Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "66020000",
+   "hs6": "660200",
+   "hs6_description": "Walking-sticks, seat-sticks, whips, riding-crops and the like",
    "level": 8,
    "chapter": "66",
    "description": "Walking-sticks, seat-sticks, whips, riding-crops and the like.",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "6603",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "66",
    "description": "Parts, trimmings and accessories of articles of heading 66.01 or 66.02.",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "66032000",
+   "hs6": "660320",
+   "hs6_description": "Umbrella frames; including frames mounted on shafts (sticks)",
    "level": 8,
    "chapter": "66",
    "description": "Umbrella frames, including frames mounted on shafts (sticks)",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "660390",
+   "hs6": "660390",
+   "hs6_description": "Trimmings, accessories and parts of articles of heading no. 6601 or 6602; n.e.c. in heading no. 6603",
    "level": 6,
    "chapter": "66",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "66039010",
+   "hs6": "660390",
+   "hs6_description": "Trimmings, accessories and parts of articles of heading no. 6601 or 6602; n.e.c. in heading no. 6603",
    "level": 8,
    "chapter": "66",
    "description": "Umbrella ribs",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "66039090",
+   "hs6": "660390",
+   "hs6_description": "Trimmings, accessories and parts of articles of heading no. 6601 or 6602; n.e.c. in heading no. 6603",
    "level": 8,
    "chapter": "66",
    "description": "Other",

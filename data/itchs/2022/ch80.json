@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "8001",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "80",
    "description": "Unwrought tin.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "800110",
+   "hs6": "800110",
+   "hs6_description": "Tin; unwrought, not alloyed",
    "level": 6,
    "chapter": "80",
    "description": "Tin, not alloyed",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "80011010",
+   "hs6": "800110",
+   "hs6_description": "Tin; unwrought, not alloyed",
    "level": 8,
    "chapter": "80",
    "description": "Blocks",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "80011090",
+   "hs6": "800110",
+   "hs6_description": "Tin; unwrought, not alloyed",
    "level": 8,
    "chapter": "80",
    "description": "Ingots, pigs, slabs and other primary forms of tin",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "80012000",
+   "hs6": "800120",
+   "hs6_description": "Tin; unwrought, alloys",
    "level": 8,
    "chapter": "80",
    "description": "Tin alloys",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "8002",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "80",
    "description": "Tin waste and scrap.",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "800200",
+   "hs6": "800200",
+   "hs6_description": "Tin; waste and scrap",
    "level": 6,
    "chapter": "80",
    "description": "Tin waste and scrap :",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "80020010",
+   "hs6": "800200",
+   "hs6_description": "Tin; waste and scrap",
    "level": 8,
    "chapter": "80",
    "description": "Tin scrap, namely the following: Block tin covered by ISRI code word Ranch; High tin base babbit covered by ISRI code word Raves; Pewter covered by ISRI code word Ranks.",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "80020090",
+   "hs6": "800200",
+   "hs6_description": "Tin; waste and scrap",
    "level": 8,
    "chapter": "80",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "8003",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "80",
    "description": "Tin bars, rods, profiles and wire.",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "800300",
+   "hs6": "800300",
+   "hs6_description": "Tin; bars, rods, profiles and wire",
    "level": 6,
    "chapter": "80",
    "description": "Tin bars, rods, profiles and wire :",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "80030010",
+   "hs6": "800300",
+   "hs6_description": "Tin; bars, rods, profiles and wire",
    "level": 8,
    "chapter": "80",
    "description": "Hollow bars",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "80030020",
+   "hs6": "800300",
+   "hs6_description": "Tin; bars, rods, profiles and wire",
    "level": 8,
    "chapter": "80",
    "description": "Bars,other than hollow bars and rods",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "80030030",
+   "hs6": "800300",
+   "hs6_description": "Tin; bars, rods, profiles and wire",
    "level": 8,
    "chapter": "80",
    "description": "Profiles",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "80030040",
+   "hs6": "800300",
+   "hs6_description": "Tin; bars, rods, profiles and wire",
    "level": 8,
    "chapter": "80",
    "description": "Wires",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "8007",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "80",
    "description": "Other articles of tin.",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "800700",
+   "hs6": "800700",
+   "hs6_description": "Tin; articles n.e.c. in chapter 80",
    "level": 6,
    "chapter": "80",
    "description": "Other articles of tin :",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "80070010",
+   "hs6": "800700",
+   "hs6_description": "Tin; articles n.e.c. in chapter 80",
    "level": 8,
    "chapter": "80",
    "description": "Blanks",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "80070090",
+   "hs6": "800700",
+   "hs6_description": "Tin; articles n.e.c. in chapter 80",
    "level": 8,
    "chapter": "80",
    "description": "Other",

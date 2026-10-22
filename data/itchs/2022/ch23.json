@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "2301",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "23",
    "description": "Flours, meals and pellets, of meat or meat offal, of fish or of crustaceans, molluscs or other aquatic invertebrates, unfit for human consumption; greaves.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "230110",
+   "hs6": "230110",
+   "hs6_description": "Flours, meals and pellets; of meat or meat offal, greaves",
    "level": 6,
    "chapter": "23",
    "description": "Flours, meals and pellets, of meat or meat offal; greaves",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "23011010",
+   "hs6": "230110",
+   "hs6_description": "Flours, meals and pellets; of meat or meat offal, greaves",
    "level": 8,
    "chapter": "23",
    "description": "Meat meals and pellets (including tankage)",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "23011090",
+   "hs6": "230110",
+   "hs6_description": "Flours, meals and pellets; of meat or meat offal, greaves",
    "level": 8,
    "chapter": "23",
    "description": "Other (including greaves)",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "230120",
+   "hs6": "230120",
+   "hs6_description": "Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",
    "level": 6,
    "chapter": "23",
    "description": "Flours, meals and pellets, of fish or of crustaceans, molluscs or other aquatic invertebrates",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "23012011",
+   "hs6": "230120",
+   "hs6_description": "Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",
    "level": 8,
    "chapter": "23",
    "description": "Fish meal, unfit for human consumption:---- In powder form",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "23012019",
+   "hs6": "230120",
+   "hs6_description": "Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",
    "level": 8,
    "chapter": "23",
    "description": "Fish meal, unfit for human consumption:---- Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "23012090",
+   "hs6": "230120",
+   "hs6_description": "Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",
    "level": 8,
    "chapter": "23",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "2302",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "23",
    "description": "BRAN, SHARPS AND OTHER RESIDUES, WHETHER OR NOT IN THE FORM OF PELLETS, DERIVED FROM THE SIFTING, MILLING OR OTHER WORKING OF CEREALS OR OF LEGUMINOUS PLANTS",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "230210",
+   "hs6": "230210",
+   "hs6_description": "Bran, sharps and other residues; of maize (corn), whether or not in the form of pellets, derived from the sifting, milling or other workings thereof",
    "level": 6,
    "chapter": "23",
    "description": "Of maize (corn)",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "23021010",
+   "hs6": "230210",
+   "hs6_description": "Bran, sharps and other residues; of maize (corn), whether or not in the form of pellets, derived from the sifting, milling or other workings thereof",
    "level": 8,
    "chapter": "23",
    "description": "Maize bran",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "23021090",
+   "hs6": "230210",
+   "hs6_description": "Bran, sharps and other residues; of maize (corn), whether or not in the form of pellets, derived from the sifting, milling or other workings thereof",
    "level": 8,
    "chapter": "23",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "23023000",
+   "hs6": "230230",
+   "hs6_description": "Bran, sharps and other residues; of wheat, whether or not in the form of pellets, derived from the sifting, milling or other workings thereof",
    "level": 8,
    "chapter": "23",
    "description": "Of wheat",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "23024000",
+   "hs6": "230240",
+   "hs6_description": "Bran, sharps and other residues; of other cereals, whether or not in the form of pellets, derived from the sifting, milling or other workings thereof",
    "level": 8,
    "chapter": "23",
    "description": "Of other cereals",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "23025000",
+   "hs6": "230250",
+   "hs6_description": "Bran, sharps and other residues; of leguminous plants, whether or not in the form of pellets, derived from the sifting, milling or other workings thereof",
    "level": 8,
    "chapter": "23",
    "description": "Of leguminous plants",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "2303",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "23",
    "description": "RESIDUES OF STARCH MANUFACTURE AND SIMILAR RESIDUES, BEET-PULP, BAGASSE AND OTHER WASTE OF SUGAR MANUFACTURE, BREWING OR DISTILLING DREGS AND WASTE, WHETHER OR NOT IN THE FORM OF PELLETS",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "23031000",
+   "hs6": "230310",
+   "hs6_description": "Residues of starch manufacture and similar residues; whether or not in the form of pellets",
    "level": 8,
    "chapter": "23",
    "description": "Residues of starch manufacture and similar residues",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "23032000",
+   "hs6": "230320",
+   "hs6_description": "Beet-pulp, bagasse and other waste of sugar manufacture; whether or not in the form of pellets",
    "level": 8,
    "chapter": "23",
    "description": "Beet-pulp, bagasse and other waste of sugar manufacture",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "23033000",
+   "hs6": "230330",
+   "hs6_description": "Brewing or distilling dregs and waste; whether or not in the form of pellets",
    "level": 8,
    "chapter": "23",
    "description": "Brewing or distilling dregs and waste",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "2304",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "23",
    "description": "Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of soyabean oil.",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "230400",
+   "hs6": "230400",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",
    "level": 6,
    "chapter": "23",
    "description": "Oil-cake and other solid residues whether or not ground or in the form of pellets, resulting from the extraction of soyabean oil:",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "23040010",
+   "hs6": "230400",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal of soyabean, expeller variety",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "23040020",
+   "hs6": "230400",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake of soyabean, solvent extracted (defatted) variety",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "23040030",
+   "hs6": "230400",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",
    "level": 8,
    "chapter": "23",
    "description": "Meal of soyabean, solvent extracted (defatted)",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "23040090",
+   "hs6": "230400",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",
    "level": 8,
    "chapter": "23",
    "description": "Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "2305",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "23",
    "description": "Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of ground-nut oil.",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "230500",
+   "hs6": "230500",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of ground-nut oil",
    "level": 6,
    "chapter": "23",
    "description": "Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of ground-nut oil:",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "23050010",
+   "hs6": "230500",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of ground-nut oil",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal of ground-nut, expeller variety",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "23050020",
+   "hs6": "230500",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of ground-nut oil",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal of ground-nut, solvent extracted variety (defatted)",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "23050090",
+   "hs6": "230500",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of ground-nut oil",
    "level": 8,
    "chapter": "23",
    "description": "Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "2306",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "23",
    "description": "OIL-CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF VEGETABLE OR MICROBIAL FATS OR OILS, OTHER THAN THOSE OF HEADING 2304 OR 2305",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "230610",
+   "hs6": "230610",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of cotton seed oils",
    "level": 6,
    "chapter": "23",
    "description": "Of cotton seeds",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "23061010",
+   "hs6": "230610",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of cotton seed oils",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, decorticated, expeller variety",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "23061020",
+   "hs6": "230610",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of cotton seed oils",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, decorticated, solvent extracted (defatted) variety",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "23061030",
+   "hs6": "230610",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of cotton seed oils",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, undecorticated, expeller variety",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "23061040",
+   "hs6": "230610",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of cotton seed oils",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, undecorticated, solvent extracted (defatted) variety",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "23061090",
+   "hs6": "230610",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of cotton seed oils",
    "level": 8,
    "chapter": "23",
    "description": "Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "230620",
+   "hs6": "230620",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of linseed oils",
    "level": 6,
    "chapter": "23",
    "description": "Of linseed",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "23062010",
+   "hs6": "230620",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of linseed oils",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, expeller variety",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "23062020",
+   "hs6": "230620",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of linseed oils",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "23062090",
+   "hs6": "230620",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of linseed oils",
    "level": 8,
    "chapter": "23",
    "description": "Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "230630",
+   "hs6": "230630",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",
    "level": 6,
    "chapter": "23",
    "description": "Of sunflower seeds",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "23063010",
+   "hs6": "230630",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, expeller variety",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "23063020",
+   "hs6": "230630",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "23063090",
+   "hs6": "230630",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",
    "level": 8,
    "chapter": "23",
    "description": "Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "23064100",
+   "hs6": "230641",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of low erucic acid rape or colza seed oils",
    "level": 8,
    "chapter": "23",
    "description": "Of rape or colza seeds : -- Of low erucic acid rape or colza seeds",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "23064900",
+   "hs6": "230649",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of rape seed oils (other than low erucic acid rape or colza)",
    "level": 8,
    "chapter": "23",
    "description": "Of rape or colza seeds : -- Other",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "230650",
+   "hs6": "230650",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of coconut or copra seed oils",
    "level": 6,
    "chapter": "23",
    "description": "Of coconut or copra",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "23065010",
+   "hs6": "230650",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of coconut or copra seed oils",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, expeller variety",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "23065020",
+   "hs6": "230650",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of coconut or copra seed oils",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "23065090",
+   "hs6": "230650",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of coconut or copra seed oils",
    "level": 8,
    "chapter": "23",
    "description": "Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "23066000",
+   "hs6": "230660",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of palm nuts or kernels oils",
    "level": 8,
    "chapter": "23",
    "description": "Of palm nuts or kernels",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "230690",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 6,
    "chapter": "23",
    "description": "Other",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "23069011",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, expeller variety: ---- Of mowra seeds",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "23069012",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, expeller variety: ---- Of mustard seeds",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "23069013",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, expeller variety: ---- Of niger seeds",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "23069014",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, expeller variety: ---- Of seasamum seeds",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "23069015",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, expeller variety: ---- Of mango kernel",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "23069016",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, expeller variety: ---- Of sal (de-oiled)",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "23069017",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, expeller variety: ---- Of castor seeds",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "23069018",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, expeller variety: ---- Of neem seeds",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "23069019",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, expeller variety: ---- Of other seeds",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "23069021",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of mustard seeds",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "23069022",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of niger seeds",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "23069023",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of cardi seeds",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "23069024",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of seasamum seeds",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "23069025",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of mango kernel",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "23069026",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of sal (de-oiled)",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "23069027",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of castor seeds",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "23069028",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of neem seeds",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "23069029",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Of other seeds",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "23069030",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Residues babool seed extraction",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "23069090",
+   "hs6": "230690",
+   "hs6_description": "Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306",
    "level": 8,
    "chapter": "23",
    "description": "Oil-cake and oil-cake meal, solvent extracted (defatted) variety: ---- Other",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "23070000",
+   "hs6": "230700",
+   "hs6_description": "Wine lees; argol",
    "level": 8,
    "chapter": "23",
    "description": "Wine lees; Argol",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "23080000",
+   "hs6": "230800",
+   "hs6_description": "Vegetable materials and vegetable waste, vegetable residues and by-products; whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included",
    "level": 8,
    "chapter": "23",
    "description": "Vegetable materials and vegetable waste, vegetable residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "2309",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "23",
    "description": "Preparations of a kind used in animal feeding.",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "23091000",
+   "hs6": "230910",
+   "hs6_description": "Dog or cat food; put up for retail sale, used in animal feeding",
    "level": 8,
    "chapter": "23",
    "description": "Dog or cat food, put up for retail sale",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "230990",
+   "hs6": "230990",
+   "hs6_description": "Dog or cat food; (not put up for retail sale), used in animal feeding",
    "level": 6,
    "chapter": "23",
    "description": "Other",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "23099010",
+   "hs6": "230990",
+   "hs6_description": "Dog or cat food; (not put up for retail sale), used in animal feeding",
    "level": 8,
    "chapter": "23",
    "description": "Compounded animal feed",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "23099020",
+   "hs6": "230990",
+   "hs6_description": "Dog or cat food; (not put up for retail sale), used in animal feeding",
    "level": 8,
    "chapter": "23",
    "description": "Concentrates for compound animal feed",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "23099031",
+   "hs6": "230990",
+   "hs6_description": "Dog or cat food; (not put up for retail sale), used in animal feeding",
    "level": 8,
    "chapter": "23",
    "description": "Feeds for fish (prawn etc.): ---- Prawn and shrimps feed",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "23099032",
+   "hs6": "230990",
+   "hs6_description": "Dog or cat food; (not put up for retail sale), used in animal feeding",
    "level": 8,
    "chapter": "23",
    "description": "Feeds for fish (prawn etc.): ---- Fish feed in powdered form",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "23099039",
+   "hs6": "230990",
+   "hs6_description": "Dog or cat food; (not put up for retail sale), used in animal feeding",
    "level": 8,
    "chapter": "23",
    "description": "Feeds for fish (prawn etc.): ---- Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "23099090",
+   "hs6": "230990",
+   "hs6_description": "Dog or cat food; (not put up for retail sale), used in animal feeding",
    "level": 8,
    "chapter": "23",
    "description": "Other",

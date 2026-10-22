@@ -22,7 +22,7 @@ PAGE_URL = 'https://www.dgft.gov.in/CP/?opt=itchs-import-export'
 API_URL = 'https://www.dgft.gov.in/CP/webHP?requestType=ApplicationRH&screenId=90000802&actionVal=getChapterDetails'
 EDITION = 'ITC(HS) 2022 Schedule 1 (Import Policy)'
 
-ROW_COLS = ['hs_code', 'level', 'chapter', 'description', 'policy', 'condition_text', 'condition_ref', 'notification_no', 'notification_date', 'as_of']
+ROW_COLS = ['hs_code', 'hs6', 'hs6_description', 'level', 'chapter', 'description', 'policy', 'condition_text', 'condition_ref', 'notification_no', 'notification_date', 'as_of']
 NOTE_COLS = ['chapter', 'note_type', 'serial_no', 'section', 'text', 'notification_no', 'notification_date', 'as_of']
 SECTION_NOTE_COLS = ['section', 'section_name', 'note_type', 'serial_no', 'text', 'notification_no', 'notification_date', 'as_of']
 PROV_COLS = ['chapter', 'url', 'method', 'retrieved_at_utc', 'sha256', 'bytes', 'permission_ref', 'rows_in_json']
@@ -59,6 +59,25 @@ def condition_refs(text):
     return ';'.join(dict.fromkeys(m.group(1) for m in COND_REF.finditer(text)))
 
 
+def load_hs6(path):
+    """-> {hs6: description} from the WCO-nomenclature table in data/hs6 (6-digit lines only)."""
+    import csv
+    with open(path, newline='', encoding='utf-8') as fh:
+        return {r['hs6']: r['description'] for r in csv.DictReader(fh) if len(r['hs6']) == 6}
+
+
+def add_hs6_descriptions(rows, hs6):
+    """Fill hs6_description in place; -> sorted hs6 codes that are not in the table (India-specific splits and chapters 98/99)."""
+    missing = set()
+    for r in rows:
+        if r['hs6']:
+            d = hs6.get(r['hs6'])
+            if d is None:
+                missing.add(r['hs6'])
+            r['hs6_description'] = d or ''
+    return sorted(missing)
+
+
 def level_of(code):
     return len(code)
 
@@ -84,7 +103,7 @@ def parse_chapter(body, ch, as_of):
         seen.add(code)
         cond = text_of(x.get('impCondition'))
         rows.append({
-            'hs_code': code, 'level': level_of(code), 'chapter': ch, 'description': text_of(x.get('itcDescription')),
+            'hs_code': code, 'hs6': code[:6] if len(code) >= 6 else '', 'hs6_description': '', 'level': level_of(code), 'chapter': ch, 'description': text_of(x.get('itcDescription')),
             'policy': (x.get('impPolicy') or '').strip(), 'condition_text': cond, 'condition_ref': condition_refs(cond),
             'notification_no': (x.get('notificationNo') or '').strip(), 'notification_date': iso_or_raw(x.get('notificationDate')), 'as_of': as_of})
     notes, snotes, sseen = [], [], set()

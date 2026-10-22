@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "50010000",
+   "hs6": "500100",
+   "hs6_description": "Silk; silk-worm cocoons suitable for reeling",
    "level": 8,
    "chapter": "50",
    "description": "Silk-worm cocoons suitable for reeling.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "5002",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "50",
    "description": "Raw silk (not thrown).",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "500200",
+   "hs6": "500200",
+   "hs6_description": "Silk; raw silk (not thrown)",
    "level": 6,
    "chapter": "50",
    "description": "Raw silk (not thrown) :",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "50020010",
+   "hs6": "500200",
+   "hs6_description": "Silk; raw silk (not thrown)",
    "level": 8,
    "chapter": "50",
    "description": "Mulberry raw silk",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "50020020",
+   "hs6": "500200",
+   "hs6_description": "Silk; raw silk (not thrown)",
    "level": 8,
    "chapter": "50",
    "description": "Mulberry dupion silk",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "50020030",
+   "hs6": "500200",
+   "hs6_description": "Silk; raw silk (not thrown)",
    "level": 8,
    "chapter": "50",
    "description": "Non-mulberry silk",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "5003",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "50",
    "description": "Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock).",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "500300",
+   "hs6": "500300",
+   "hs6_description": "Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",
    "level": 6,
    "chapter": "50",
    "description": "Silk waste (including cocoons unsuitable for reeling, yarn waste and garneted stock):",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "50030010",
+   "hs6": "500300",
+   "hs6_description": "Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",
    "level": 8,
    "chapter": "50",
    "description": "Mulberry silk waste",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "50030020",
+   "hs6": "500300",
+   "hs6_description": "Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",
    "level": 8,
    "chapter": "50",
    "description": "Tussar silk waste",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "50030030",
+   "hs6": "500300",
+   "hs6_description": "Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",
    "level": 8,
    "chapter": "50",
    "description": "Eri waste",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "50030040",
+   "hs6": "500300",
+   "hs6_description": "Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",
    "level": 8,
    "chapter": "50",
    "description": "Munga waste",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "50030090",
+   "hs6": "500300",
+   "hs6_description": "Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",
    "level": 8,
    "chapter": "50",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "5004",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "50",
    "description": "Silk yarn (other than yarn spun from silk waste) not put up for retail sale.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "500400",
+   "hs6": "500400",
+   "hs6_description": "Silk; yarn (other than yarn spun from silk waste), not put up for retail sale",
    "level": 6,
    "chapter": "50",
    "description": "Silk yarn (other than yarn spun from silk waste) not put up for retail sale :",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "50040010",
+   "hs6": "500400",
+   "hs6_description": "Silk; yarn (other than yarn spun from silk waste), not put up for retail sale",
    "level": 8,
    "chapter": "50",
    "description": "100percent mulberry dupion silk yarn",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "50040090",
+   "hs6": "500400",
+   "hs6_description": "Silk; yarn (other than yarn spun from silk waste), not put up for retail sale",
    "level": 8,
    "chapter": "50",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "5005",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "50",
    "description": "Yarn spun from silk waste, not put up for retail sale.",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "500500",
+   "hs6": "500500",
+   "hs6_description": "Silk; yarn spun from silk waste, not put up for retail sale",
    "level": 6,
    "chapter": "50",
    "description": "Yarn spun from silk waste, not put up for retail sale :",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "50050011",
+   "hs6": "500500",
+   "hs6_description": "Silk; yarn spun from silk waste, not put up for retail sale",
    "level": 8,
    "chapter": "50",
    "description": "Containing 85percent or more by weight of silk waste: ---- Other than noil silk",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "50050012",
+   "hs6": "500500",
+   "hs6_description": "Silk; yarn spun from silk waste, not put up for retail sale",
    "level": 8,
    "chapter": "50",
    "description": "Containing 85percent or more by weight of silk waste: ---- From noil silk",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "50050021",
+   "hs6": "500500",
+   "hs6_description": "Silk; yarn spun from silk waste, not put up for retail sale",
    "level": 8,
    "chapter": "50",
    "description": "Containing less than 85percent by weight of silk: ---- Other than noil silk",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "50050022",
+   "hs6": "500500",
+   "hs6_description": "Silk; yarn spun from silk waste, not put up for retail sale",
    "level": 8,
    "chapter": "50",
    "description": "Containing less than 85percent by weight of silk: ---- From noil silk",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "5006",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "50",
    "description": "Silk yarn and yarn spun from silk waste, put up for retail sale; silk-worm gut.",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "500600",
+   "hs6": "500600",
+   "hs6_description": "Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",
    "level": 6,
    "chapter": "50",
    "description": "Silk yarn and yarn spun from silk waste, put up for retail sale; silk worm gut :",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "50060011",
+   "hs6": "500600",
+   "hs6_description": "Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",
    "level": 8,
    "chapter": "50",
    "description": "Silk embroidery thread",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "50060019",
+   "hs6": "500600",
+   "hs6_description": "Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",
    "level": 8,
    "chapter": "50",
    "description": "Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "50060021",
+   "hs6": "500600",
+   "hs6_description": "Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",
    "level": 8,
    "chapter": "50",
    "description": "Yarn spun from silk waste containing 85percent or more by weight of silk: ---- Silk embroidery thread",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "50060029",
+   "hs6": "500600",
+   "hs6_description": "Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",
    "level": 8,
    "chapter": "50",
    "description": "Yarn spun from silk waste containing 85percent or more by weight of silk: ---- Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "50060031",
+   "hs6": "500600",
+   "hs6_description": "Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",
    "level": 8,
    "chapter": "50",
    "description": "Spun from silk waste other than noil silk",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "50060032",
+   "hs6": "500600",
+   "hs6_description": "Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",
    "level": 8,
    "chapter": "50",
    "description": "Yarn spun from noil silk",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "50060033",
+   "hs6": "500600",
+   "hs6_description": "Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",
    "level": 8,
    "chapter": "50",
    "description": "Silk embroidery thread",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "50060039",
+   "hs6": "500600",
+   "hs6_description": "Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",
    "level": 8,
    "chapter": "50",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "50060090",
+   "hs6": "500600",
+   "hs6_description": "Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut",
    "level": 8,
    "chapter": "50",
    "description": "Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "5007",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "50",
    "description": "Woven fabrics of silk or of silk waste.",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "50071000",
+   "hs6": "500710",
+   "hs6_description": "Silk; woven fabrics of noil silk",
    "level": 8,
    "chapter": "50",
    "description": "Fabrics of noil silk",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "500720",
+   "hs6": "500720",
+   "hs6_description": "Silk; woven fabrics, containing 85% or more by weight of silk or of silk waste other than noil silk",
    "level": 6,
    "chapter": "50",
    "description": "Other fabrics, containing 85 percent or more by weight of silk or of silk waste other than noil silk",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "50072010",
+   "hs6": "500720",
+   "hs6_description": "Silk; woven fabrics, containing 85% or more by weight of silk or of silk waste other than noil silk",
    "level": 8,
    "chapter": "50",
    "description": "Sarees",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "50072090",
+   "hs6": "500720",
+   "hs6_description": "Silk; woven fabrics, containing 85% or more by weight of silk or of silk waste other than noil silk",
    "level": 8,
    "chapter": "50",
    "description": "Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "500790",
+   "hs6": "500790",
+   "hs6_description": "Silk; woven fabrics n.e.c. in heading no. 5007",
    "level": 6,
    "chapter": "50",
    "description": "Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "50079000",
+   "hs6": "500790",
+   "hs6_description": "Silk; woven fabrics n.e.c. in heading no. 5007",
    "level": 8,
    "chapter": "50",
    "description": "Other fabrics",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "50079010",
+   "hs6": "500790",
+   "hs6_description": "Silk; woven fabrics n.e.c. in heading no. 5007",
    "level": 8,
    "chapter": "50",
    "description": "of Handloom woven",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "50079090",
+   "hs6": "500790",
+   "hs6_description": "Silk; woven fabrics n.e.c. in heading no. 5007",
    "level": 8,
    "chapter": "50",
    "description": "Other Fabrics",

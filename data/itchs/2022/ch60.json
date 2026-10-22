@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "6001",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "60",
    "description": "Pile fabrics, including \"long pile\" fabrics and terry fabrics, knitted or crocheted.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "600110",
+   "hs6": "600110",
+   "hs6_description": "Fabrics; long pile fabrics, knitted or crocheted",
    "level": 6,
    "chapter": "60",
    "description": "Long pile fabrics",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "60011010",
+   "hs6": "600110",
+   "hs6_description": "Fabrics; long pile fabrics, knitted or crocheted",
    "level": 8,
    "chapter": "60",
    "description": "Of cotton",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "60011020",
+   "hs6": "600110",
+   "hs6_description": "Fabrics; long pile fabrics, knitted or crocheted",
    "level": 8,
    "chapter": "60",
    "description": "Of man-made fibres",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "60011090",
+   "hs6": "600110",
+   "hs6_description": "Fabrics; long pile fabrics, knitted or crocheted",
    "level": 8,
    "chapter": "60",
    "description": "Of other textile materials",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "60012100",
+   "hs6": "600121",
+   "hs6_description": "Fabrics; looped pile fabrics, of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "60",
    "description": "Looped pile fabrics -- of cotton",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "60012200",
+   "hs6": "600122",
+   "hs6_description": "Fabrics; looped pile fabrics, of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "60",
    "description": "Looped pile fabrics -- Of man-made fibres",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "60012900",
+   "hs6": "600129",
+   "hs6_description": "Fabrics; looped pile fabrics, of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "60",
    "description": "Looped pile fabrics -- Of other textile materials",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "60019100",
+   "hs6": "600191",
+   "hs6_description": "Fabrics; pile fabrics (excluding long pile and loop pile), of cotton, knitted or crocheted",
    "level": 8,
    "chapter": "60",
    "description": "Other : -- Of cotton",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "60019200",
+   "hs6": "600192",
+   "hs6_description": "Fabrics; pile fabrics (excluding long pile and loop pile), of man-made fibres, knitted or crocheted",
    "level": 8,
    "chapter": "60",
    "description": "Other : -- Of man-made fibres",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "600199",
+   "hs6": "600199",
+   "hs6_description": "Fabrics; pile fabrics (excluding long pile and loop pile), of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 6,
    "chapter": "60",
    "description": "Other : -- Of other textile materials",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "60019910",
+   "hs6": "600199",
+   "hs6_description": "Fabrics; pile fabrics (excluding long pile and loop pile), of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "60",
    "description": "Of wool or fine animal hair",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "60019990",
+   "hs6": "600199",
+   "hs6_description": "Fabrics; pile fabrics (excluding long pile and loop pile), of textile materials (other than cotton or man-made fibres), knitted or crocheted",
    "level": 8,
    "chapter": "60",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "6002",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "60",
    "description": "Knitted or crocheted fabrics of a width not exceeding 30 cm, containing by weight 5 percent or more of elastomeric yarn or rubber thread, other than those of heading 60.01.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "60024000",
+   "hs6": "600240",
+   "hs6_description": "Fabrics; knitted or crocheted, other than those of heading 60.01, of a width not exceeding 30 cm, containing by weight 5% or more of elastomeric yarn but not containing rubber thread",
    "level": 8,
    "chapter": "60",
    "description": "Containing by weight 5 percent or more of elastomeric yarn but not containing rubber thread",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "60029000",
+   "hs6": "600290",
+   "hs6_description": "Fabrics; knitted or crocheted, other than those of heading 60.01, of a width not exceeding 30 cm, containing by weight 5% or more of elastomeric yarn or rubber thread",
    "level": 8,
    "chapter": "60",
    "description": "Other",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "6003",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "60",
    "description": "Knitted or crocheted fabrics of a width not exceeding 30 cm, other than those of heading 60.01 or 60.02.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "60031000",
+   "hs6": "600310",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of heading 60.01 and 60.02, of a width not exceeding 30 cm, of wool or fine animal hair",
    "level": 8,
    "chapter": "60",
    "description": "Of wool or fine animal hair",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "60032000",
+   "hs6": "600320",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of heading 60.01 and 60.02, of a width not exceeding 30 cm, of cotton",
    "level": 8,
    "chapter": "60",
    "description": "Of cotton",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "60033000",
+   "hs6": "600330",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of heading 60.01 and 60.02, of a width not exceeding 30 cm, of synthetic fibres",
    "level": 8,
    "chapter": "60",
    "description": "Of synthetic fibres",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "60034000",
+   "hs6": "600340",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of heading 60.01 and 60.02, of a width not exceeding 30 cm, of artificial fibres",
    "level": 8,
    "chapter": "60",
    "description": "Of artificial fibres",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "60039000",
+   "hs6": "600390",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of heading 60.01 and 60.02, of a width not exceeding 30 cm, other than of wool and fine animal hair, cotton, synthetic or artificial fibres",
    "level": 8,
    "chapter": "60",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "6004",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "60",
    "description": "KNITTED OR CROCHETED FABRICS OF A WIDTH EXCEEDING 30 CM, CONTAINING BY WEIGHT 5% OR MORE OF ELASTOMERIC YARN OR RUBBER THREAD, OTHER THAN THOSE OF HEADING 6001",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "60041000",
+   "hs6": "600410",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics of a width exceeding 30 cm, other than those of heading 60.01, containing by weight 5% or more of elastomeric yarn but not containing rubber thread",
    "level": 8,
    "chapter": "60",
    "description": "Knitted or crocheted fabrics of a width exceeding 30 cm, containing by weight 5 percent or more of elastomeric yarn orrubber thread, other than those of heading 60.01.",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "60049000",
+   "hs6": "600490",
+   "hs6_description": "Fabrics; knitted or crocheted, other than those of heading 60.01, of a width exceeding 30 cm, containing by weight 5% or more of elastomeric yarn or rubber thread,",
    "level": 8,
    "chapter": "60",
    "description": "Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "6005",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "60",
    "description": "Warp knit fabrics (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04.",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "60052100",
+   "hs6": "600521",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of cotton, unbleached or bleached",
    "level": 8,
    "chapter": "60",
    "description": "Of cotton : -- Unbleached or bleached",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "60052200",
+   "hs6": "600522",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of cotton, dyed",
    "level": 8,
    "chapter": "60",
    "description": "Of cotton : -- Dyed",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "60052300",
+   "hs6": "600523",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of cotton, yarns of different colours",
    "level": 8,
    "chapter": "60",
    "description": "Of cotton : -- Of yarns of different colours",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "60052400",
+   "hs6": "600524",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of cotton, printed",
    "level": 8,
    "chapter": "60",
    "description": "Of cotton : -- Printed",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "60053500",
+   "hs6": "600535",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of synthetic fibres specified in Subheading Note 1 to this Chapter",
    "level": 8,
    "chapter": "60",
    "description": "Of synthetic fibres : -- Fabrics specified in Subheading Note 1 to this Chapter",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "60053600",
+   "hs6": "600536",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of synthetic fibres, bleached or unbleached",
    "level": 8,
    "chapter": "60",
    "description": "Of synthetic fibres : -- Other, unbleached or bleached",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "600537",
+   "hs6": "600537",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of synthetic fibres, dyed",
    "level": 6,
    "chapter": "60",
    "description": "Of synthetic fibres : -- Other, dyed:",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "60053710",
+   "hs6": "600537",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of synthetic fibres, dyed",
    "level": 8,
    "chapter": "60",
    "description": "Shade Nets, conforming to IS 16008",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "60053790",
+   "hs6": "600537",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of synthetic fibres, dyed",
    "level": 8,
    "chapter": "60",
    "description": "Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "60053800",
+   "hs6": "600538",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of synthetic fibres, yarns of different colours",
    "level": 8,
    "chapter": "60",
    "description": "Of synthetic fibres : -- Other, of yarns of different colours",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "60053900",
+   "hs6": "600539",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of synthetic fibres, printed",
    "level": 8,
    "chapter": "60",
    "description": "Of synthetic fibres : -- Other, printed",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "60054100",
+   "hs6": "600541",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of artificial fibres, bleached or unbleached",
    "level": 8,
    "chapter": "60",
    "description": "Of artificial fibres : -- Unbleached or bleached",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "60054200",
+   "hs6": "600542",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of artificial fibres, dyed",
    "level": 8,
    "chapter": "60",
    "description": "Of artificial fibres : -- Dyed",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "60054300",
+   "hs6": "600543",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of artificial fibres, of yarns of different colours",
    "level": 8,
    "chapter": "60",
    "description": "Of artificial fibres : -- Of yarns of different colours",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "60054400",
+   "hs6": "600544",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, of artificial fibres, printed",
    "level": 8,
    "chapter": "60",
    "description": "Of artificial fibres : -- Printed",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "60059000",
+   "hs6": "600590",
+   "hs6_description": "Fabrics; warp knit (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04, excluding those made from cotton or synthetic or artificial fibres",
    "level": 8,
    "chapter": "60",
    "description": "Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "6006",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "60",
    "description": "Other knitted or crocheted fabrics.",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "60061000",
+   "hs6": "600610",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of wool or fine animal hair",
    "level": 8,
    "chapter": "60",
    "description": "Of wool or fine animal hair",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "60062100",
+   "hs6": "600621",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of cotton, unbleached or bleached",
    "level": 8,
    "chapter": "60",
    "description": "Of cotton : -- Unbleached or bleached",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "60062200",
+   "hs6": "600622",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of cotton, dyed",
    "level": 8,
    "chapter": "60",
    "description": "Of cotton : -- Dyed",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "60062300",
+   "hs6": "600623",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of cotton, of yarns of different colours",
    "level": 8,
    "chapter": "60",
    "description": "Of cotton : -- Of yarns of different colours",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "60062400",
+   "hs6": "600624",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of cotton, printed",
    "level": 8,
    "chapter": "60",
    "description": "Of cotton : -- Printed",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "60063100",
+   "hs6": "600631",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of synthetic fibres, unbleached or bleached",
    "level": 8,
    "chapter": "60",
    "description": "Of synthetic fibres : -- Unbleached or bleached",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "60063200",
+   "hs6": "600632",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of synthetic fibres, dyed",
    "level": 8,
    "chapter": "60",
    "description": "Of synthetic fibres : -- Dyed",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "60063300",
+   "hs6": "600633",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of synthetic fibres, of yarns of different colours",
    "level": 8,
    "chapter": "60",
    "description": "Of synthetic fibres : -- Of yarns of different colours",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "60063400",
+   "hs6": "600634",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of synthetic fibres, printed",
    "level": 8,
    "chapter": "60",
    "description": "Of synthetic fibres : -- Printed",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "60064100",
+   "hs6": "600641",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of artificial fibres, unbleached or bleached",
    "level": 8,
    "chapter": "60",
    "description": "Of artificial fibres : --Unbleached or bleached",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "60064200",
+   "hs6": "600642",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of artificial fibres, dyed",
    "level": 8,
    "chapter": "60",
    "description": "Of artificial fibres : -- Dyed",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "60064300",
+   "hs6": "600643",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of artificial fibres, of yarns of different colours",
    "level": 8,
    "chapter": "60",
    "description": "Of artificial fibres : -- Of yarns of different colours",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "60064400",
+   "hs6": "600644",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of artificial fibres, printed",
    "level": 8,
    "chapter": "60",
    "description": "Of artificial fibres : -- Printed",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "60069000",
+   "hs6": "600690",
+   "hs6_description": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04,and other than those made of wool, fine animal hair, cotton, synthetic or artificial fibres",
    "level": 8,
    "chapter": "60",
    "description": "Other",

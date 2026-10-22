@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "3101",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "31",
    "description": "Animal or vegetable fertilisers, whether or not mixed together or chemically treated; fertilisers produced by the mixing or chemical treatment of animal or vegetable products.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "310100",
+   "hs6": "310100",
+   "hs6_description": "Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products",
    "level": 6,
    "chapter": "31",
    "description": "Animal or vegetable fertilisers, whether or not mixed together or chemically treated; fertilisers produced by the mixing or chemical treatment of animal or vegetable products",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "31010010",
+   "hs6": "310100",
+   "hs6_description": "Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products",
    "level": 8,
    "chapter": "31",
    "description": "Guano",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "31010091",
+   "hs6": "310100",
+   "hs6_description": "Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products",
    "level": 8,
    "chapter": "31",
    "description": "Other: ---- Animal dung",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "31010092",
+   "hs6": "310100",
+   "hs6_description": "Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products",
    "level": 8,
    "chapter": "31",
    "description": "Other: ---- Animal excreta",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "31010099",
+   "hs6": "310100",
+   "hs6_description": "Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products",
    "level": 8,
    "chapter": "31",
    "description": "Other: ---- Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "3102",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "31",
    "description": "Mineral or chemical fertilisers, nitrogenous.",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "310210",
+   "hs6": "310210",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, urea, whether or not in aqueous solution",
    "level": 6,
    "chapter": "31",
    "description": "Urea, whether or not in aqueous solution",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "31021010",
+   "hs6": "310210",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, urea, whether or not in aqueous solution",
    "level": 8,
    "chapter": "31",
    "description": "Fertilizer grade, conforming to Standard IS 5406",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "31021090",
+   "hs6": "310210",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, urea, whether or not in aqueous solution",
    "level": 8,
    "chapter": "31",
    "description": "Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "31022100",
+   "hs6": "310221",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, ammonium sulphate",
    "level": 8,
    "chapter": "31",
    "description": "Ammonium sulphate; double salts and mixtures of ammonium sulphate and ammonium nitrate : -- Ammonium sulphate",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "310229",
+   "hs6": "310229",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, other than ammonium sulphate",
    "level": 6,
    "chapter": "31",
    "description": "Ammonium sulphate; double salts and mixtures of ammonium sulphate and ammonium nitrate : -- Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "31022910",
+   "hs6": "310229",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, other than ammonium sulphate",
    "level": 8,
    "chapter": "31",
    "description": "Ammonium sulphonitrate",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "31022990",
+   "hs6": "310229",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, other than ammonium sulphate",
    "level": 8,
    "chapter": "31",
    "description": "Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "31023000",
+   "hs6": "310230",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, ammonium nitrate, whether or not in aqueous solution",
    "level": 8,
    "chapter": "31",
    "description": "Ammonium nitrate, whether or not in aqueous solution",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "31024000",
+   "hs6": "310240",
+   "hs6_description": "Fertilizers, mineral or chemical; ammonium nitrate with calcium carbonate or other inorganic non-fertilizing substances, mixtures thereof",
    "level": 8,
    "chapter": "31",
    "description": "Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "31025000",
+   "hs6": "310250",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, sodium nitrate",
    "level": 8,
    "chapter": "31",
    "description": "Sodium nitrate",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "31026000",
+   "hs6": "310260",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, double salts and mixtures of calcium nitrate and ammonium nitrate",
    "level": 8,
    "chapter": "31",
    "description": "Double salts and mixtures of calcium nitrate and ammonium nitrate",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "31028000",
+   "hs6": "310280",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution",
    "level": 8,
    "chapter": "31",
    "description": "Mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "310290",
+   "hs6": "310290",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, other kinds including mixtures not specified in the foregoing subheadings",
    "level": 6,
    "chapter": "31",
    "description": "Other, including mixtures not specified in the foregoing subheadings",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "31029010",
+   "hs6": "310290",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, other kinds including mixtures not specified in the foregoing subheadings",
    "level": 8,
    "chapter": "31",
    "description": "Double salt or mixtures of calcium nitrate and magnesium nitrate",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "31029090",
+   "hs6": "310290",
+   "hs6_description": "Fertilizers, mineral or chemical; nitrogenous, other kinds including mixtures not specified in the foregoing subheadings",
    "level": 8,
    "chapter": "31",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "3103",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "31",
    "description": "Mineral or chemical fertilisers, phosphatic.",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "31031000",
+   "hs6": "310310",
+   "hs6_description": "",
    "level": 8,
    "chapter": "31",
    "description": "Straight Phosphatic Fetilizers given below : 1.Single Super Phosphate (16% P2O5) Powdered 2.Single Super Phosphate (14% P2O5) Powdered 3.Single Super Phosphate (16% P2O5) Granulated",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "31031100",
+   "hs6": "310311",
+   "hs6_description": "Fertilizers, mineral or chemical; phosphatic, superphosphates, containing by weight 35% or more of diphosphorus pentaoxide (P2O5)",
    "level": 8,
    "chapter": "31",
    "description": "Superphosphates : -- Containing by weight 35 percent or more of diphosphorus pentaoxide (P2O5)",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "31031900",
+   "hs6": "310319",
+   "hs6_description": "Fertilizers, mineral or chemical; phosphatic, superphosphates, other than containing by weight 35% or more of diphosphorus pentaoxide (P2O5)",
    "level": 8,
    "chapter": "31",
    "description": "Superphosphates : -- Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "31039000",
+   "hs6": "310390",
+   "hs6_description": "Fertilizers, mineral or chemical; phosphatic, n.e.c. in heading no. 3103",
    "level": 8,
    "chapter": "31",
    "description": "Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "3104",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "31",
    "description": "Mineral or chemical fertilisers, potassic.",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "31042000",
+   "hs6": "310420",
+   "hs6_description": "Fertilizers, mineral or chemical; potassic, potassium chloride",
    "level": 8,
    "chapter": "31",
    "description": "Potassium chloride",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "31043000",
+   "hs6": "310430",
+   "hs6_description": "Fertilizers, mineral or chemical; potassic, potassium sulphate",
    "level": 8,
    "chapter": "31",
    "description": "Potassium sulphate",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "31049000",
+   "hs6": "310490",
+   "hs6_description": "Fertilizers, mineral or chemical; potassic, n.e.c. in heading no. 3104",
    "level": 8,
    "chapter": "31",
    "description": "Other",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "3105",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "31",
    "description": "Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorus and potassium; other fertilisers; goods of this Chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg.",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "31051000",
+   "hs6": "310510",
+   "hs6_description": "Fertilizers, mineral or chemical; in tablets or similar forms or in packages of a gross weight not exceeding 10kg",
    "level": 8,
    "chapter": "31",
    "description": "Goods of this Chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "31052000",
+   "hs6": "310520",
+   "hs6_description": "Fertilizers, mineral or chemical; containing the three fertilizing elements nitrogen, phosphorus and potassium",
    "level": 8,
    "chapter": "31",
    "description": "Mineral or chemical fertilisers containing the three fertilising elements nitrogen, phosphorus and potassium",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "31053000",
+   "hs6": "310530",
+   "hs6_description": "Fertilizers, mineral or chemical; diammonium hydrogenorthophosphate (diammonium phosphate)",
    "level": 8,
    "chapter": "31",
    "description": "Diammonium hydrogenorthophosphate (diammonium phosphate)",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "31054000",
+   "hs6": "310540",
+   "hs6_description": "Fertilizers, mineral or chemical; ammonium dihydrogenorthophosphate (monoammonium phosphate) and mixtures thereof with diammonium hydrogenorthophosphate (diammonium phosphate)",
    "level": 8,
    "chapter": "31",
    "description": "Ammonium dihydrogenorthophosphate (monoammonium phosphate) and mixtures thereof with diammonium hydrogenorthophosphate (diammonium phosphate)",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "31055100",
+   "hs6": "310551",
+   "hs6_description": "Fertilizers, mineral or chemical; containing nitrates and phosphates",
    "level": 8,
    "chapter": "31",
    "description": "Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus : -- Containing nitrates and phosphates",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "31055900",
+   "hs6": "310559",
+   "hs6_description": "Fertilizers, mineral or chemical; containing the two fertilizing elements nitrogen and phosphorus, other than nitrates and phosphates",
    "level": 8,
    "chapter": "31",
    "description": "Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus : -- Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "31056000",
+   "hs6": "310560",
+   "hs6_description": "Fertilizers, mineral or chemical; containing the two fertilizing elements phosphorus and potassium",
    "level": 8,
    "chapter": "31",
    "description": "Mineral or chemical fertilisers containing the two fertilising elements phosphorus and potassium",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "310590",
+   "hs6": "310590",
+   "hs6_description": "Fertilizers, mineral or chemical; n.e.c. in heading no. 3105",
    "level": 6,
    "chapter": "31",
    "description": "Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "31059010",
+   "hs6": "310590",
+   "hs6_description": "Fertilizers, mineral or chemical; n.e.c. in heading no. 3105",
    "level": 8,
    "chapter": "31",
    "description": "Mineral or chemical fertilisers containing two fertilising elements namely nitrogen and potassium",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "31059090",
+   "hs6": "310590",
+   "hs6_description": "Fertilizers, mineral or chemical; n.e.c. in heading no. 3105",
    "level": 8,
    "chapter": "31",
    "description": "Other",

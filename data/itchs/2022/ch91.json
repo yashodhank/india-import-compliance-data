@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "9101",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "91",
    "description": "Wrist-watches, pocket-watches and other watches, including stop-watches, with case of precious metal or of metal clad with precious metal.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "91011100",
+   "hs6": "910111",
+   "hs6_description": "Wrist-watches; electrically operated, with or without a stop-watch, with case of precious metal or of metal clad with precious metal, with mechanical display only",
    "level": 8,
    "chapter": "91",
    "description": "Wrist-watches, electrically operated, whether or not incorporating a stop-watch facility : -- With mechanical display only",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "91011900",
+   "hs6": "910119",
+   "hs6_description": "Wrist-watches; electrically operated, with or without a stop-watch, with case of precious metal or metal clad with precious metal, without mechanical display",
    "level": 8,
    "chapter": "91",
    "description": "Wrist-watches, electrically operated, whether or not incorporating a stop-watch facility : -- Other",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "91012100",
+   "hs6": "910121",
+   "hs6_description": "Wrist-watches; (not electrically operated), automatic winding, whether or not incorporating a stop-watch facility, case of precious metal or of metal clad with precious metal",
    "level": 8,
    "chapter": "91",
    "description": "Other wrist-watches, whether or not incorporating a stop-watch facility : -- With automatic winding",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "91012900",
+   "hs6": "910129",
+   "hs6_description": "Wrist-watches; (not electrically operated), (not automatic winding), whether or not incorporating a stop-watch facility, case of precious metal or of metal clad with precious metal",
    "level": 8,
    "chapter": "91",
    "description": "Other wrist-watches, whether or not incorporating a stop-watch facility : -- Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "910191",
+   "hs6": "910191",
+   "hs6_description": "Pocket-watches and other watches, including stop-watches; (excluding wrist-watches), with case of precious metal or of metal clad with precious metal, electrically operated",
    "level": 6,
    "chapter": "91",
    "description": "Other : -- Electrically operated",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "91019110",
+   "hs6": "910191",
+   "hs6_description": "Pocket-watches and other watches, including stop-watches; (excluding wrist-watches), with case of precious metal or of metal clad with precious metal, electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Pocket watches",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "91019120",
+   "hs6": "910191",
+   "hs6_description": "Pocket-watches and other watches, including stop-watches; (excluding wrist-watches), with case of precious metal or of metal clad with precious metal, electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Stop watches",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "91019190",
+   "hs6": "910191",
+   "hs6_description": "Pocket-watches and other watches, including stop-watches; (excluding wrist-watches), with case of precious metal or of metal clad with precious metal, electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "910199",
+   "hs6": "910199",
+   "hs6_description": "Pocket-watches and other watches, including stop-watches; (excluding wrist-watches), with case of precious metal or of metal clad with precious metal, not electrically operated",
    "level": 6,
    "chapter": "91",
    "description": "Other : -- Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "91019910",
+   "hs6": "910199",
+   "hs6_description": "Pocket-watches and other watches, including stop-watches; (excluding wrist-watches), with case of precious metal or of metal clad with precious metal, not electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Pocket watches",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "91019920",
+   "hs6": "910199",
+   "hs6_description": "Pocket-watches and other watches, including stop-watches; (excluding wrist-watches), with case of precious metal or of metal clad with precious metal, not electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Stop watches",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "91019990",
+   "hs6": "910199",
+   "hs6_description": "Pocket-watches and other watches, including stop-watches; (excluding wrist-watches), with case of precious metal or of metal clad with precious metal, not electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "9102",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "91",
    "description": "Wrist-watches, pocket-watches and other watches, including stop-watches, other than those of heading 9101",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "91021100",
+   "hs6": "910211",
+   "hs6_description": "Wrist-watches; electrically operated, with or without a stop-watch, (other than those of heading no. 9101) with mechanical display only",
    "level": 8,
    "chapter": "91",
    "description": "Wrist-watches, electrically operated, whether or not incorporating a stop-watch facility : -- With mechanical display only",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "91021200",
+   "hs6": "910212",
+   "hs6_description": "Wrist-watches; electrically operated, with or without a stop-watch, (other than those of heading no. 9101) with opto-electronic display only",
    "level": 8,
    "chapter": "91",
    "description": "Wrist-watches, electrically operated, whether or not incorporating a stop-watch facility : -- With opto-electronic display only",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "91021900",
+   "hs6": "910219",
+   "hs6_description": "Wrist-watches; electrically operated, with or without a stop-watch, (other than those of heading no. 9101) without mechanical or opto-electronic display",
    "level": 8,
    "chapter": "91",
    "description": "Wrist-watches, electrically operated, whether or not incorporating a stop-watch facility : -- Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "91022100",
+   "hs6": "910221",
+   "hs6_description": "Wrist-watches; whether or not incorporating a stop-watch facility, with automatic winding",
    "level": 8,
    "chapter": "91",
    "description": "Other wrist-watches, whether or not incorporating a stop-watch facility : -- With automatic winding",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "91022900",
+   "hs6": "910229",
+   "hs6_description": "Wrist-watches; whether or not incorporating a stop-watch facility, with other than automatic winding",
    "level": 8,
    "chapter": "91",
    "description": "Other wrist-watches, whether or not incorporating a stop-watch facility : -- Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "910291",
+   "hs6": "910291",
+   "hs6_description": "Pocket watches and other watches, including stop-watches; (excluding wrist-watches), other than those of heading no. 9101, electrically operated",
    "level": 6,
    "chapter": "91",
    "description": "Other : -- Electrically operated",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "91029110",
+   "hs6": "910291",
+   "hs6_description": "Pocket watches and other watches, including stop-watches; (excluding wrist-watches), other than those of heading no. 9101, electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Pocket watches",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "91029120",
+   "hs6": "910291",
+   "hs6_description": "Pocket watches and other watches, including stop-watches; (excluding wrist-watches), other than those of heading no. 9101, electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Stop watches",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "91029190",
+   "hs6": "910291",
+   "hs6_description": "Pocket watches and other watches, including stop-watches; (excluding wrist-watches), other than those of heading no. 9101, electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "910299",
+   "hs6": "910299",
+   "hs6_description": "Pocket watches and other watches, including stop-watches; (excluding wrist-watches), other than those of heading no. 9101, other than electrically operated",
    "level": 6,
    "chapter": "91",
    "description": "Other : -- Other",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "91029910",
+   "hs6": "910299",
+   "hs6_description": "Pocket watches and other watches, including stop-watches; (excluding wrist-watches), other than those of heading no. 9101, other than electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Pocket watches",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "91029920",
+   "hs6": "910299",
+   "hs6_description": "Pocket watches and other watches, including stop-watches; (excluding wrist-watches), other than those of heading no. 9101, other than electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Stop watches",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "91029990",
+   "hs6": "910299",
+   "hs6_description": "Pocket watches and other watches, including stop-watches; (excluding wrist-watches), other than those of heading no. 9101, other than electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "9103",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "91",
    "description": "Clocks with watch movements, excluding clocks of heading 91.04.",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "91031000",
+   "hs6": "910310",
+   "hs6_description": "Clocks; with watch movements, electrically operated, excluding clocks of heading no. 9104",
    "level": 8,
    "chapter": "91",
    "description": "Electrically operated",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "91039000",
+   "hs6": "910390",
+   "hs6_description": "Clocks; with watch movements, other than electrically operated, excluding clocks of heading no. 9104",
    "level": 8,
    "chapter": "91",
    "description": "Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "91040000",
+   "hs6": "910400",
+   "hs6_description": "Clocks; instrument panel clocks and clocks of a similar type for vehicles, aircraft, spacecraft or vessels",
    "level": 8,
    "chapter": "91",
    "description": "Instrument panel clocks and clocks of a similar type for vehicles, aircraft, spacecraft or vessels.",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "9105",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "91",
    "description": "OTHER CLOCKS",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "91051100",
+   "hs6": "910511",
+   "hs6_description": "Clocks; (excluding those with watch movements and instrument panel clocks), alarm clocks, electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Alarm clocks : -- Electrically operated",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "91051900",
+   "hs6": "910519",
+   "hs6_description": "Clocks; (excluding those with watch movements and instrument panel clocks), alarm clocks, other than electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Alarm clocks : -- Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "91052100",
+   "hs6": "910521",
+   "hs6_description": "Clocks; (excluding those with watch movements and instrument panel clocks), wall clocks, electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Wall clocks : -- Electrically operated",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "91052900",
+   "hs6": "910529",
+   "hs6_description": "Clocks; (excluding those with watch movements and instrument panel clocks), wall clocks, other than electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Wall clocks : -- Other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "91059100",
+   "hs6": "910591",
+   "hs6_description": "Clocks; (excluding those with watch movements and instrument panel clocks), (other than alarm or wall clocks), electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other : -- Electrically operated",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "910599",
+   "hs6": "910599",
+   "hs6_description": "Clocks; (excluding those with watch movements and instrument panel clocks), other than alarm or wall clocks, other than electrically operated",
    "level": 6,
    "chapter": "91",
    "description": "Other : -- Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "91059910",
+   "hs6": "910599",
+   "hs6_description": "Clocks; (excluding those with watch movements and instrument panel clocks), other than alarm or wall clocks, other than electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Time pieces",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "91059990",
+   "hs6": "910599",
+   "hs6_description": "Clocks; (excluding those with watch movements and instrument panel clocks), other than alarm or wall clocks, other than electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "9106",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "91",
    "description": "Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with synchronous motor (for example, timeregisters, time-recorders).",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "91061000",
+   "hs6": "910610",
+   "hs6_description": "Time recording apparatus; time-registers, time recorders, with clock, watch movement or synchronous motor",
    "level": 8,
    "chapter": "91",
    "description": "Time-registers; time-recorders",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "91069000",
+   "hs6": "910690",
+   "hs6_description": "Time recording apparatus; with clock or watch movement or with synchronous motor, n.e.c. in heading no. 9106",
    "level": 8,
    "chapter": "91",
    "description": "Other",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "91070000",
+   "hs6": "910700",
+   "hs6_description": "Time switches; with clock, watch movement or synchronous motor",
    "level": 8,
    "chapter": "91",
    "description": "Time switches with clock or watch movement or with synchronous motor.",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "9108",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "91",
    "description": "Watch movements, complete and assembled.",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "91081100",
+   "hs6": "910811",
+   "hs6_description": "Watch movements; complete and assembled, electrically operated, with mechanical display only or with a device to which a mechanical display can be incorporated",
    "level": 8,
    "chapter": "91",
    "description": "Electrically operated : -- With mechanical display only or with a device to which a mechanical display can be incorporated",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "91081200",
+   "hs6": "910812",
+   "hs6_description": "Watch movements; complete and assembled, electrically operated, by means of solar cells, with opto-electronic display",
    "level": 8,
    "chapter": "91",
    "description": "Electrically operated : -- With opto-electronic display only",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "91081900",
+   "hs6": "910819",
+   "hs6_description": "Watch movements; complete and assembled, electrically operated, by means of solar cells, without mechanical display or device including such or opto-electronic display",
    "level": 8,
    "chapter": "91",
    "description": "Electrically operated : -- Other",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "91082000",
+   "hs6": "910820",
+   "hs6_description": "Watch movements; complete and assembled, with automatic winding",
    "level": 8,
    "chapter": "91",
    "description": "With automatic winding",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "91089000",
+   "hs6": "910890",
+   "hs6_description": "Watch movements; complete and assembled, not automatic winding or electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "9109",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "91",
    "description": "Clock movements, complete and assembled.",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "910910",
+   "hs6": "910910",
+   "hs6_description": "Clock movements; complete and assembled, electrically operated",
    "level": 6,
    "chapter": "91",
    "description": "Electrically operated:",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "91091090",
+   "hs6": "910910",
+   "hs6_description": "Clock movements; complete and assembled, electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "91099000",
+   "hs6": "910990",
+   "hs6_description": "Clock movements; complete and assembled, other than electrically operated",
    "level": 8,
    "chapter": "91",
    "description": "Other",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "9110",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "91",
    "description": "Complete watch or clock movements, unassembled or partly assembled (movement sets); incomplete watch or clock movements, assembled; rough watch or clock movements.",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "91101100",
+   "hs6": "911011",
+   "hs6_description": "Watches; complete movements, unassembled or partly assembled (movement sets)",
    "level": 8,
    "chapter": "91",
    "description": "Of watches : -- Complete movements, unassembled or partly assembled (movement sets)",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "91101200",
+   "hs6": "911012",
+   "hs6_description": "Watches; incomplete movements, assembled",
    "level": 8,
    "chapter": "91",
    "description": "Of watches : -- Incomplete movements, assembled",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "91101900",
+   "hs6": "911019",
+   "hs6_description": "Watches; rough movements",
    "level": 8,
    "chapter": "91",
    "description": "Of watches : -- Rough movements",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "91109000",
+   "hs6": "911090",
+   "hs6_description": "Clocks; movements, whether or not complete, incomplete, assembled or unassembled",
    "level": 8,
    "chapter": "91",
    "description": "Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "9111",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "91",
    "description": "Watch cases and parts thereof.",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "91111000",
+   "hs6": "911110",
+   "hs6_description": "Watch cases; of precious metal or of metal clad with precious metal",
    "level": 8,
    "chapter": "91",
    "description": "Cases of precious metal or of metal clad with precious metal",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "91112000",
+   "hs6": "911120",
+   "hs6_description": "Watch cases; of base metal, whether or not gold-plated or silver-plated",
    "level": 8,
    "chapter": "91",
    "description": "Cases of base metal, whether or not goldor silver-plated",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "91118000",
+   "hs6": "911180",
+   "hs6_description": "Watch cases; n.e.c. in heading no. 9111",
    "level": 8,
    "chapter": "91",
    "description": "Other cases",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "91119000",
+   "hs6": "911190",
+   "hs6_description": "Watch cases and parts thereof",
    "level": 8,
    "chapter": "91",
    "description": "Parts",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "9112",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "91",
    "description": "Clock cases and cases of a similar type for other goods of this Chapter, and parts thereof.",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "91122000",
+   "hs6": "911220",
+   "hs6_description": "Clock cases and similar cases for other goods of chapter 91; other than watch cases",
    "level": 8,
    "chapter": "91",
    "description": "Cases",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "91129000",
+   "hs6": "911290",
+   "hs6_description": "Clock cases and similar cases for other goods of chapter 91; other than watch cases, parts thereof",
    "level": 8,
    "chapter": "91",
    "description": "Parts",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "9113",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "91",
    "description": "Watch straps, watch bands and watch bracelets, and parts thereof.",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "91131000",
+   "hs6": "911310",
+   "hs6_description": "Watch straps, watch bands, watch bracelets, and parts thereof; of precious metal or of metal clad with precious metal",
    "level": 8,
    "chapter": "91",
    "description": "Of precious metal or of metal clad with precious metal",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "911320",
+   "hs6": "911320",
+   "hs6_description": "Watch straps, watch bands, watch bracelets, and parts thereof; of base metal, whether or not gold- or silver-plated",
    "level": 6,
    "chapter": "91",
    "description": "Of base metal, whether or not goldor silver-plated",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "91132010",
+   "hs6": "911320",
+   "hs6_description": "Watch straps, watch bands, watch bracelets, and parts thereof; of base metal, whether or not gold- or silver-plated",
    "level": 8,
    "chapter": "91",
    "description": "Parts",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "91132090",
+   "hs6": "911320",
+   "hs6_description": "Watch straps, watch bands, watch bracelets, and parts thereof; of base metal, whether or not gold- or silver-plated",
    "level": 8,
    "chapter": "91",
    "description": "Other",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "911390",
+   "hs6": "911390",
+   "hs6_description": "Watch straps, watch bands, watch bracelets, and parts thereof; n.e.c. in heading no. 9113",
    "level": 6,
    "chapter": "91",
    "description": "Other",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "91139010",
+   "hs6": "911390",
+   "hs6_description": "Watch straps, watch bands, watch bracelets, and parts thereof; n.e.c. in heading no. 9113",
    "level": 8,
    "chapter": "91",
    "description": "Parts",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "91139090",
+   "hs6": "911390",
+   "hs6_description": "Watch straps, watch bands, watch bracelets, and parts thereof; n.e.c. in heading no. 9113",
    "level": 8,
    "chapter": "91",
    "description": "Other",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "9114",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "91",
    "description": "Other clock or watch parts.",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "911430",
+   "hs6": "911430",
+   "hs6_description": "Clock or watch parts; dials",
    "level": 6,
    "chapter": "91",
    "description": "Dials",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "91143010",
+   "hs6": "911430",
+   "hs6_description": "Clock or watch parts; dials",
    "level": 8,
    "chapter": "91",
    "description": "For watches",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "91143020",
+   "hs6": "911430",
+   "hs6_description": "Clock or watch parts; dials",
    "level": 8,
    "chapter": "91",
    "description": "For clocks",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "911440",
+   "hs6": "911440",
+   "hs6_description": "Clock or watch parts; plates and bridges",
    "level": 6,
    "chapter": "91",
    "description": "Plates and bridges",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "91144010",
+   "hs6": "911440",
+   "hs6_description": "Clock or watch parts; plates and bridges",
    "level": 8,
    "chapter": "91",
    "description": "For watches",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "91144020",
+   "hs6": "911440",
+   "hs6_description": "Clock or watch parts; plates and bridges",
    "level": 8,
    "chapter": "91",
    "description": "For clocks",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "911490",
+   "hs6": "911490",
+   "hs6_description": "Clock or watch parts; other than springs (including hair-springs), dials, plates, and bridges",
    "level": 6,
    "chapter": "91",
    "description": "Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "91149030",
+   "hs6": "911490",
+   "hs6_description": "Clock or watch parts; other than springs (including hair-springs), dials, plates, and bridges",
    "level": 8,
    "chapter": "91",
    "description": "Jewels",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "91149040",
+   "hs6": "911490",
+   "hs6_description": "Clock or watch parts; other than springs (including hair-springs), dials, plates, and bridges",
    "level": 8,
    "chapter": "91",
    "description": "Springs, including hair-springs",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "91149091",
+   "hs6": "911490",
+   "hs6_description": "Clock or watch parts; other than springs (including hair-springs), dials, plates, and bridges",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----For watches",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "91149092",
+   "hs6": "911490",
+   "hs6_description": "Clock or watch parts; other than springs (including hair-springs), dials, plates, and bridges",
    "level": 8,
    "chapter": "91",
    "description": "Other: ----For clocks",

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "5201",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "52",
    "description": "Cotton, not carded or combed.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "520100",
+   "hs6": "520100",
+   "hs6_description": "Cotton; not carded or combed",
    "level": 6,
    "chapter": "52",
    "description": "Cotton, not carded or combed :",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "52010011",
+   "hs6": "520100",
+   "hs6_description": "Cotton; not carded or combed",
    "level": 8,
    "chapter": "52",
    "description": "Indian cotton: ---- Bengal deshi",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "52010012",
+   "hs6": "520100",
+   "hs6_description": "Cotton; not carded or combed",
    "level": 8,
    "chapter": "52",
    "description": "Indian cotton: ---- Indian cotton of staple lengths 20.5 mm (25/32\") and below (e. g. oomras, yellow picking, Assam comillas)",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "52010013",
+   "hs6": "520100",
+   "hs6_description": "Cotton; not carded or combed",
    "level": 8,
    "chapter": "52",
    "description": "Indian cotton: ---- Indian cotton of staple length exceeding 20.5mm (26/32\") but not exceeding 24.5mm (30/32\")",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "52010014",
+   "hs6": "520100",
+   "hs6_description": "Cotton; not carded or combed",
    "level": 8,
    "chapter": "52",
    "description": "Indian cotton: ---- Indian cotton of staple length over 24.5 mm (31/32\") to 28 mm",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "52010015",
+   "hs6": "520100",
+   "hs6_description": "Cotton; not carded or combed",
    "level": 8,
    "chapter": "52",
    "description": "Indian cotton: ---- Indian cotton of staple length 28.5 mm (14/32\") and above but below 34.5 mm",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "52010019",
+   "hs6": "520100",
+   "hs6_description": "Cotton; not carded or combed",
    "level": 8,
    "chapter": "52",
    "description": "Indian cotton: ---- Indian cotton of all staple length 34.5 mm and above (112/32\")",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "52010021",
+   "hs6": "520100",
+   "hs6_description": "Cotton; not carded or combed",
    "level": 8,
    "chapter": "52",
    "description": "Other: ---- Of staple length not exceeding 20.0 mm",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "52010022",
+   "hs6": "520100",
+   "hs6_description": "Cotton; not carded or combed",
    "level": 8,
    "chapter": "52",
    "description": "Other: ---- Of staple length exceeding 20.0 mm but not exceeding 24.5 mm",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "52010023",
+   "hs6": "520100",
+   "hs6_description": "Cotton; not carded or combed",
    "level": 8,
    "chapter": "52",
    "description": "Other: ---- Of staple length exceeding 24.5 mm but not. exceeding 27.0 mm",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "52010024",
+   "hs6": "520100",
+   "hs6_description": "Cotton; not carded or combed",
    "level": 8,
    "chapter": "52",
    "description": "Other : ---- Of staple length exceeding 27.0 mm but not exceeding 32.0 mm",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "52010025",
+   "hs6": "520100",
+   "hs6_description": "Cotton; not carded or combed",
    "level": 8,
    "chapter": "52",
    "description": "Other : ---- Of staple length exceeding 32.0 mm",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "5202",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "52",
    "description": "Terry towelling and similar woven terry fabrics, other than narrow fabrics of heading 58.06; tufted textile fabrics, other than products of heading 57.03.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "52021000",
+   "hs6": "520210",
+   "hs6_description": "Cotton; yarn waste (including thread waste)",
    "level": 8,
    "chapter": "52",
    "description": "Yarn waste (including thread waste)",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "52029100",
+   "hs6": "520291",
+   "hs6_description": "Cotton; garnetted stock waste",
    "level": 8,
    "chapter": "52",
    "description": "Other : -- Garnetted stock",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "52029900",
+   "hs6": "520299",
+   "hs6_description": "Cotton; waste other than garnetted stock and yarn (including thread) waste",
    "level": 8,
    "chapter": "52",
    "description": "Other : -- Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "5203",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "52",
    "description": "Cotton, carded or combed",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "52030000",
+   "hs6": "520300",
+   "hs6_description": "Cotton; carded or combed",
    "level": 8,
    "chapter": "52",
    "description": "Gauze, other than narrow fabrics of heading 58.06.",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "5204",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "52",
    "description": "Tulles and other net fabrics, not including woven, knitted or crocheted fabrics; lace in the piece, in strips or in motifs, other than fabrics of headings 60.02 to 60.06.",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "520411",
+   "hs6": "520411",
+   "hs6_description": "Cotton; sewing thread, containing 85% or more by weight of cotton, not put up for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Not put up for retail sale : -- Containing 85 percent or more by weight of cotton",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "52041110",
+   "hs6": "520411",
+   "hs6_description": "Cotton; sewing thread, containing 85% or more by weight of cotton, not put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Cotton thread, sewing, containing any synthetic staple fibre",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "52041120",
+   "hs6": "520411",
+   "hs6_description": "Cotton; sewing thread, containing 85% or more by weight of cotton, not put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Cotton thread, darning",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "52041130",
+   "hs6": "520411",
+   "hs6_description": "Cotton; sewing thread, containing 85% or more by weight of cotton, not put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Embroidery cotton thread",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "52041140",
+   "hs6": "520411",
+   "hs6_description": "Cotton; sewing thread, containing 85% or more by weight of cotton, not put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Cotton sewing thread not containing any synthetic staple fibre",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "52041190",
+   "hs6": "520411",
+   "hs6_description": "Cotton; sewing thread, containing 85% or more by weight of cotton, not put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "52041900",
+   "hs6": "520419",
+   "hs6_description": "Cotton; sewing thread, containing less than 85% by weight of cotton, not put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Not put up for retail sale : -- Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "520420",
+   "hs6": "520420",
+   "hs6_description": "Cotton; sewing thread, put up for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Put up for retail sale",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "52042010",
+   "hs6": "520420",
+   "hs6_description": "Cotton; sewing thread, put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Cotton thread, sewing, containing any synthetic staple fibre",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "52042020",
+   "hs6": "520420",
+   "hs6_description": "Cotton; sewing thread, put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Cotton thread, darning",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "52042030",
+   "hs6": "520420",
+   "hs6_description": "Cotton; sewing thread, put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Embroidery cotton thread",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "52042040",
+   "hs6": "520420",
+   "hs6_description": "Cotton; sewing thread, put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Cotton sewing thread, not containing any synthetic staple fibre",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "52042090",
+   "hs6": "520420",
+   "hs6_description": "Cotton; sewing thread, put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "5205",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "52",
    "description": "Cotton yarn (other than sewing thread), containing 85 percent or more by weight of cotton, not put up for retail sale.",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "520511",
+   "hs6": "520511",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, measuring 714.29 decitex or more, (not exceeding 14 metric number), not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Single yarn, of uncombed fibres : -- Measuring 714.29 decitex or more (not exceeding 14 metric number)",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "52051110",
+   "hs6": "520511",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, measuring 714.29 decitex or more, (not exceeding 14 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "52051120",
+   "hs6": "520511",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, measuring 714.29 decitex or more, (not exceeding 14 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "52051130",
+   "hs6": "520511",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, measuring 714.29 decitex or more, (not exceeding 14 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "52051190",
+   "hs6": "520511",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, measuring 714.29 decitex or more, (not exceeding 14 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "520512",
+   "hs6": "520512",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 714.29 but not less than 232.56 decitex (exceeding 14 but not exceeding 43 metric number), not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Single yarn, of uncombed fibres : --Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number)",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "52051210",
+   "hs6": "520512",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 714.29 but not less than 232.56 decitex (exceeding 14 but not exceeding 43 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "52051220",
+   "hs6": "520512",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 714.29 but not less than 232.56 decitex (exceeding 14 but not exceeding 43 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "52051230",
+   "hs6": "520512",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 714.29 but not less than 232.56 decitex (exceeding 14 but not exceeding 43 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "52051290",
+   "hs6": "520512",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 714.29 but not less than 232.56 decitex (exceeding 14 but not exceeding 43 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "520513",
+   "hs6": "520513",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 232.56 but not less than 192.31 decitex (exceeding 43 but not exceeding 52 metric number), not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Single yarn, of uncombed fibres : -- Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number)",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "52051310",
+   "hs6": "520513",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 232.56 but not less than 192.31 decitex (exceeding 43 but not exceeding 52 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "52051320",
+   "hs6": "520513",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 232.56 but not less than 192.31 decitex (exceeding 43 but not exceeding 52 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "52051330",
+   "hs6": "520513",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 232.56 but not less than 192.31 decitex (exceeding 43 but not exceeding 52 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "52051390",
+   "hs6": "520513",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 232.56 but not less than 192.31 decitex (exceeding 43 but not exceeding 52 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "520514",
+   "hs6": "520514",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 192.31 but not less than 125 decitex (exceeding 52 but not exceeding 80 metric number), not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Single yarn, of uncombed fibres : --Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number)",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "52051410",
+   "hs6": "520514",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 192.31 but not less than 125 decitex (exceeding 52 but not exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "52051420",
+   "hs6": "520514",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 192.31 but not less than 125 decitex (exceeding 52 but not exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "52051430",
+   "hs6": "520514",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 192.31 but not less than 125 decitex (exceeding 52 but not exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "52051490",
+   "hs6": "520514",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, less than 192.31 but not less than 125 decitex (exceeding 52 but not exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "520515",
+   "hs6": "520515",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, measuring less than 125 decitex (exceeding 80 metric number), not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Single yarn, of uncombed fibres : -- Measuring less than 125 decitex (exceeding 80 metric number)",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "52051510",
+   "hs6": "520515",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, measuring less than 125 decitex (exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "52051520",
+   "hs6": "520515",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, measuring less than 125 decitex (exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "52051530",
+   "hs6": "520515",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, measuring less than 125 decitex (exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "52051590",
+   "hs6": "520515",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, 85% or more by weight of cotton, measuring less than 125 decitex (exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "520521",
+   "hs6": "520521",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, measuring 714.29 decitex or more, (not exceeding 14 metric number), not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Single yarn, of combed fibres : -- Measuring 714.29 decitex or more (not exceeding 14 metric number)",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "52052110",
+   "hs6": "520521",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, measuring 714.29 decitex or more, (not exceeding 14 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "52052120",
+   "hs6": "520521",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, measuring 714.29 decitex or more, (not exceeding 14 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "52052130",
+   "hs6": "520521",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, measuring 714.29 decitex or more, (not exceeding 14 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "52052190",
+   "hs6": "520521",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, measuring 714.29 decitex or more, (not exceeding 14 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "520522",
+   "hs6": "520522",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 714.29 but not less than 232.56 decitex (exceeding 14 but not exceeding 43 metric number), not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Single yarn, of combed fibres : -- Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number)",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "52052210",
+   "hs6": "520522",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 714.29 but not less than 232.56 decitex (exceeding 14 but not exceeding 43 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "52052220",
+   "hs6": "520522",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 714.29 but not less than 232.56 decitex (exceeding 14 but not exceeding 43 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "52052290",
+   "hs6": "520522",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 714.29 but not less than 232.56 decitex (exceeding 14 but not exceeding 43 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "520523",
+   "hs6": "520523",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 232.56 but not less than 192.31 decitex (exceeding 43 but not exceeding 52 metric number), not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Single yarn, of combed fibres : -- Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number)",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "52052310",
+   "hs6": "520523",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 232.56 but not less than 192.31 decitex (exceeding 43 but not exceeding 52 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "52052320",
+   "hs6": "520523",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 232.56 but not less than 192.31 decitex (exceeding 43 but not exceeding 52 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "52052390",
+   "hs6": "520523",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 232.56 but not less than 192.31 decitex (exceeding 43 but not exceeding 52 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "520524",
+   "hs6": "520524",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 192.31 but not less than 125 decitex (exceeding 52 but not exceeding 80 metric number), not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Single yarn, of combed fibres : -- Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number)",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "52052410",
+   "hs6": "520524",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 192.31 but not less than 125 decitex (exceeding 52 but not exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "52052420",
+   "hs6": "520524",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 192.31 but not less than 125 decitex (exceeding 52 but not exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "52052490",
+   "hs6": "520524",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 192.31 but not less than 125 decitex (exceeding 52 but not exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "520526",
+   "hs6": "520526",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 125 but not less than 106.38 decitex (over 80 but not over 94 metric number), not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Single yarn, of combed fibres : -- Measuring less than 125 decitex but not less than 106.38 decitex (exceeding 80 metric number but not exceeding 94 metric number)",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "52052610",
+   "hs6": "520526",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 125 but not less than 106.38 decitex (over 80 but not over 94 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "52052620",
+   "hs6": "520526",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 125 but not less than 106.38 decitex (over 80 but not over 94 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "52052690",
+   "hs6": "520526",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 125 but not less than 106.38 decitex (over 80 but not over 94 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "520527",
+   "hs6": "520527",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 106.38 but not less than 83.33 decitex (over 94 but not over 120 metric number), not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Single yarn, of combed fibres : -- Measuring less than 106.38 decitex but not less than 83.33 decitex (exceeding 94 metric number but not exceeding 120 metric number)",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "52052710",
+   "hs6": "520527",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 106.38 but not less than 83.33 decitex (over 94 but not over 120 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "52052720",
+   "hs6": "520527",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 106.38 but not less than 83.33 decitex (over 94 but not over 120 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "52052790",
+   "hs6": "520527",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, less than 106.38 but not less than 83.33 decitex (over 94 but not over 120 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "520528",
+   "hs6": "520528",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, measuring less than 83.33 decitex (exceeding 120 metric number), not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Single yarn, of combed fibres : -- Measuring less than 83.33 decitex (exceeding 120 metric number)",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "52052810",
+   "hs6": "520528",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, measuring less than 83.33 decitex (exceeding 120 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "52052820",
+   "hs6": "520528",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, measuring less than 83.33 decitex (exceeding 120 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "52052890",
+   "hs6": "520528",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, 85% or more by weight of cotton, measuring less than 83.33 decitex (exceeding 120 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other Multiple (folded) or cabled yarn, of uncombed fibres:",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "520531",
+   "hs6": "520531",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 714.29 decitex or more (not exceeding 14 metric number) per single yarn, not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number per single yarn)",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "52053110",
+   "hs6": "520531",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 714.29 decitex or more (not exceeding 14 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "52053120",
+   "hs6": "520531",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 714.29 decitex or more (not exceeding 14 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "52053130",
+   "hs6": "520531",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 714.29 decitex or more (not exceeding 14 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "52053190",
+   "hs6": "520531",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 714.29 decitex or more (not exceeding 14 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "520532",
+   "hs6": "520532",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 714.28 to 232.56 decitex (15 to 43 metric number) per single yarn, not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number per single yarn)",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "52053210",
+   "hs6": "520532",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 714.28 to 232.56 decitex (15 to 43 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "52053220",
+   "hs6": "520532",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 714.28 to 232.56 decitex (15 to 43 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "52053290",
+   "hs6": "520532",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 714.28 to 232.56 decitex (15 to 43 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "520533",
+   "hs6": "520533",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 232.55 to 192.31 decitex (44 to 52 metric number) per single yarn, not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number per single yarn)",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "52053310",
+   "hs6": "520533",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 232.55 to 192.31 decitex (44 to 52 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "52053320",
+   "hs6": "520533",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 232.55 to 192.31 decitex (44 to 52 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "52053330",
+   "hs6": "520533",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 232.55 to 192.31 decitex (44 to 52 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "52053390",
+   "hs6": "520533",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 232.55 to 192.31 decitex (44 to 52 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "520534",
+   "hs6": "520534",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 192.30 to 125 decitex (53 to 80 metric number) per single yarn, not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number per single yarn)",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "52053410",
+   "hs6": "520534",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 192.30 to 125 decitex (53 to 80 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "52053420",
+   "hs6": "520534",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 192.30 to 125 decitex (53 to 80 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "52053430",
+   "hs6": "520534",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 192.30 to 125 decitex (53 to 80 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "52053490",
+   "hs6": "520534",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, 192.30 to 125 decitex (53 to 80 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "520535",
+   "hs6": "520535",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, less than 125 decitex (exceeding 80 metric number), per single yarn, not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 125 decitex (exceeding 80 metric number per single yarn)",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "52053510",
+   "hs6": "520535",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, less than 125 decitex (exceeding 80 metric number), per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "52053590",
+   "hs6": "520535",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, 85% or more by weight of cotton, less than 125 decitex (exceeding 80 metric number), per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "520541",
+   "hs6": "520541",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 714.29 decitex or more (not exceeding 14 metric number) per single yarn, not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number per single yarn)",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "52054110",
+   "hs6": "520541",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 714.29 decitex or more (not exceeding 14 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "52054120",
+   "hs6": "520541",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 714.29 decitex or more (not exceeding 14 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "52054130",
+   "hs6": "520541",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 714.29 decitex or more (not exceeding 14 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "52054190",
+   "hs6": "520541",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 714.29 decitex or more (not exceeding 14 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "520542",
+   "hs6": "520542",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 714.28 to 232.56 decitex (15 to 43 metric number) per single yarn, not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number per single yarn)",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "52054210",
+   "hs6": "520542",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 714.28 to 232.56 decitex (15 to 43 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "52054290",
+   "hs6": "520542",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 714.28 to 232.56 decitex (15 to 43 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "520543",
+   "hs6": "520543",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 232.55 to 192.31 decitex (44 to 52 metric number) per single yarn, not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number per single yarn)",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "52054310",
+   "hs6": "520543",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 232.55 to 192.31 decitex (44 to 52 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "52054320",
+   "hs6": "520543",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 232.55 to 192.31 decitex (44 to 52 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "52054390",
+   "hs6": "520543",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 232.55 to 192.31 decitex (44 to 52 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "520544",
+   "hs6": "520544",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 192.30 to 125 decitex (53 to 80 metric number) per single yarn, not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number per single yarn)",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "52054410",
+   "hs6": "520544",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 192.30 to 125 decitex (53 to 80 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "52054420",
+   "hs6": "520544",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 192.30 to 125 decitex (53 to 80 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "52054490",
+   "hs6": "520544",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 192.30 to 125 decitex (53 to 80 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "520546",
+   "hs6": "520546",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 124 to 106.38 decitex (81 to 94 metric number) per single yarn, not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 125 decitex but not less than 106.38 decitex (exceeding 80 metric number but not exceeding 94 metric number per single yarn)",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "52054610",
+   "hs6": "520546",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 124 to 106.38 decitex (81 to 94 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "52054620",
+   "hs6": "520546",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 124 to 106.38 decitex (81 to 94 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "52054630",
+   "hs6": "520546",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 124 to 106.38 decitex (81 to 94 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "52054690",
+   "hs6": "520546",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 124 to 106.38 decitex (81 to 94 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "520547",
+   "hs6": "520547",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 106.37 to 83.33 decitex (95 to 120 metric number) per single yarn, not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 106.38 decitex but not less than 83.33 decitex (exceeding 94 metric number but not exceeding 120 metric number per single yarn)",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "52054710",
+   "hs6": "520547",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 106.37 to 83.33 decitex (95 to 120 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "52054720",
+   "hs6": "520547",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 106.37 to 83.33 decitex (95 to 120 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "52054730",
+   "hs6": "520547",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 106.37 to 83.33 decitex (95 to 120 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "52054790",
+   "hs6": "520547",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, 106.37 to 83.33 decitex (95 to 120 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "520548",
+   "hs6": "520548",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, less than 83.33 decitex (exceeding 120 metric number) per single yarn, not for retail sale",
    "level": 6,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 83.33 decitex (exceeding 120 metric number per single yarn)",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "52054810",
+   "hs6": "520548",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, less than 83.33 decitex (exceeding 120 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Grey",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "52054820",
+   "hs6": "520548",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, less than 83.33 decitex (exceeding 120 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Bleached",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "52054830",
+   "hs6": "520548",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, less than 83.33 decitex (exceeding 120 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Dyed",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "52054890",
+   "hs6": "520548",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, 85% or more by weight of cotton, less than 83.33 decitex (exceeding 120 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "5206",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "52",
    "description": "Cotton yarn (other than sewing thread), containing less than 85percentby weight of cotton, not put up for retail sale.",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "52061100",
+   "hs6": "520611",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, less than 85% by weight of cotton, measuring 714.29 decitex or more (not exceeding 14 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Single yarn, of uncombed fibres : --Measuring 714.29 decitex or more (not exceeding 14 metric number)",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "52061200",
+   "hs6": "520612",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, less than 85% by weight of cotton, less than 714.29 but not less than 232.56 decitex (exceeding 14 but not exceeding 43 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Single yarn, of uncombed fibres : -- Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number)",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "52061300",
+   "hs6": "520613",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, less than 85% by weight of cotton, less than 232.56 but not less than 192.31 decitex (exceeding 43 but not exceeding 52 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Single yarn, of uncombed fibres : -- Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number)",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "52061400",
+   "hs6": "520614",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, less than 85% by weight of cotton, less than 192.31 but not less than 125 decitex (exceeding 52 but not exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Single yarn, of uncombed fibres : -- Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number)",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "52061500",
+   "hs6": "520615",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of uncombed fibres, less than 85% by weight of cotton, measuring less than 125 decitex (exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Single yarn, of uncombed fibres : -- Measuring less than 125 decitex (exceeding 80 metric number)",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "52062100",
+   "hs6": "520621",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, less than 85% by weight of cotton, measuring 714.29 decitex or more, (not exceeding 14 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Single yarn, of combed fibres : -- Measuring 714.29 decitex or more (not exceeding 14 metric number)",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "52062200",
+   "hs6": "520622",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, less than 85% by weight of cotton, less than 714.29 but not less than 232.56 decitex (exceeding 14 but not exceeding 43 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Single yarn, of combed fibres : -- Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number)",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "52062300",
+   "hs6": "520623",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, less than 85% by weight of cotton, less than 232.56 but not less than 192.31 decitex (exceeding 43 but not exceeding 52 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Single yarn, of combed fibres : -- Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number)",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "52062400",
+   "hs6": "520624",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, less than 85% by weight of cotton, less than 192.31 but not less than 125 decitex (exceeding 52 but not exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Single yarn, of combed fibres : -- Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number)",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "52062500",
+   "hs6": "520625",
+   "hs6_description": "Cotton yarn; (not sewing thread), single, of combed fibres, less than 85% by weight of cotton, measuring less than 125 decitex (exceeding 80 metric number), not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Single yarn, of combed fibres : -- Measuring less than 125 decitex (exceeding 80 metric number)",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "52063100",
+   "hs6": "520631",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, less than 85% by weight of cotton, 714.29 decitex or more (not exceeding 14 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number per single yarn)",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "52063200",
+   "hs6": "520632",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, less than 85% by weight of cotton, 714.28 to 232.56 decitex (15 to 43 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number per single yarn)",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "52063300",
+   "hs6": "520633",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, less than 85% by weight of cotton, 232.55 to 192.31 decitex (44 to 52 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number per single yarn)",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "52063400",
+   "hs6": "520634",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, less than 85% by weight of cotton, 192.30 to 125 decitex (53 to 80 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number per single yarn)",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "52063500",
+   "hs6": "520635",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of uncombed fibres, less than 85% by weight of cotton, less than 125 decitex (exceeding 80 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of uncombed fibres : -- Measuring per single yarn less than 125 decitex (exceeding 80 metric number per single yarn)",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "52064100",
+   "hs6": "520641",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, less than 85% by weight of cotton, 714.29 decitex or more (not exceeding 14 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number per single yarn)",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "52064200",
+   "hs6": "520642",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, less than 85% by weight of cotton, 714.28 to 232.56 decitex (15 to 43 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 714.29 decitex but not less han 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number per single yarn)",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "52064300",
+   "hs6": "520643",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, less than 85% by weight of cotton, 232.55 to 192.31 decitex (44 to 52 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number per single yarn)",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "52064400",
+   "hs6": "520644",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, less than 85% by weight of cotton, 192.30 to 125 decitex (53 to 80 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number per single yarn)",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "52064500",
+   "hs6": "520645",
+   "hs6_description": "Cotton yarn; (not sewing thread), multiple or cabled, of combed fibres, less than 85% by weight of cotton, less than 125 decitex (exceeding 80 metric number) per single yarn, not for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Multiple (folded) or cabled yarn, of combed fibres : -- Measuring per single yarn less than 125 decitex (exceeding 80 metric number per single yarn)",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "5207",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "52",
    "description": "Cotton yarn (other than sewing thread) put up for retail sale.",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "52071000",
+   "hs6": "520710",
+   "hs6_description": "Cotton yarn; (not sewing thread), containing 85% or more by weight of cotton, put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Containing 85percent or more by weight of cotton",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "52079000",
+   "hs6": "520790",
+   "hs6_description": "Cotton yarn; (not sewing thread), containing less than 85% by weight of cotton, put up for retail sale",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "5208",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "52",
    "description": "Woven fabrics of cotton, containing 85percent or more by weight of cotton, weighing not more than 200 g/m2.",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "520811",
+   "hs6": "520811",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing not more than 100g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Unbleached : -- Plain weave, weighing not more than 100 g/m2",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "52081110",
+   "hs6": "520811",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Dhoti",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "52081120",
+   "hs6": "520811",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "52081130",
+   "hs6": "520811",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "52081140",
+   "hs6": "520811",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Casement",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "52081190",
+   "hs6": "520811",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "520812",
+   "hs6": "520812",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Unbleached : -- Plain weave, weighing more than 100 g/m2",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "52081210",
+   "hs6": "520812",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Dhoti",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "52081220",
+   "hs6": "520812",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "52081230",
+   "hs6": "520812",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "52081240",
+   "hs6": "520812",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Casement",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "52081250",
+   "hs6": "520812",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Sheeting (takia, leopard fabrics, other than furnishing fabrics)",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "52081260",
+   "hs6": "520812",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Voils",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "52081290",
+   "hs6": "520812",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "520813",
+   "hs6": "520813",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Unbleached : -- 3-thread or 4-thread twill, including cross twill",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "52081310",
+   "hs6": "520813",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "52081320",
+   "hs6": "520813",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Dobby fabrics",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "52081390",
+   "hs6": "520813",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "520819",
+   "hs6": "520819",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, of weaves n.e.c. in item no. 5208.1, weighing not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Unbleached : -- Other fabrics",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "52081910",
+   "hs6": "520819",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, of weaves n.e.c. in item no. 5208.1, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Dedsuti, dosuti fabrics",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "52081990",
+   "hs6": "520819",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, of weaves n.e.c. in item no. 5208.1, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "520821",
+   "hs6": "520821",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing not more than 100g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Bleached : -- Plain weave, weighing not more than 100 g/m2",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "52082110",
+   "hs6": "520821",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Dhoti",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "52082120",
+   "hs6": "520821",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "52082130",
+   "hs6": "520821",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Casement",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "52082140",
+   "hs6": "520821",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "52082150",
+   "hs6": "520821",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Cambrics (including madapollam and jaconet)",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "52082160",
+   "hs6": "520821",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Mulls (including limbric and willaya)",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "52082170",
+   "hs6": "520821",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Muslin (including lawn, mulmul and organdi)",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "52082180",
+   "hs6": "520821",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Voils (excluding leno fabrics)",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "52082190",
+   "hs6": "520821",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "520822",
+   "hs6": "520822",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Bleached : -- Plain weave, weighing more than 100 g/m2",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "52082210",
+   "hs6": "520822",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Dhoti",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "52082220",
+   "hs6": "520822",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "52082230",
+   "hs6": "520822",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "52082240",
+   "hs6": "520822",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Casement",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "52082250",
+   "hs6": "520822",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Cambrics (including madapollam and jaconet)",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "52082260",
+   "hs6": "520822",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Long cloth (including calico)",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "52082270",
+   "hs6": "520822",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Sheeting (takia and the like)",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "52082280",
+   "hs6": "520822",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Voils (excluding leno fabrics)",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "52082290",
+   "hs6": "520822",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "520823",
+   "hs6": "520823",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Bleached : -- 3-thread or 4-thread twill, including cross twill",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "52082310",
+   "hs6": "520823",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "52082320",
+   "hs6": "520823",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Parmatta fabrics (including ilesia, pocketing, Italian twill)",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "52082330",
+   "hs6": "520823",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "52082390",
+   "hs6": "520823",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "520829",
+   "hs6": "520829",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, of weaves n.e.c. in item no. 5208.2, weighing not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Bleached : -- Other fabrics",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "52082910",
+   "hs6": "520829",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, of weaves n.e.c. in item no. 5208.2, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Dhoti and saree, zari bordered",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "52082920",
+   "hs6": "520829",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, of weaves n.e.c. in item no. 5208.2, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Dedsuti, Dosuti fabrics, ceretonnes and osamburge",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "52082990",
+   "hs6": "520829",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, of weaves n.e.c. in item no. 5208.2, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "520831",
+   "hs6": "520831",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing not more than 100g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- Plain weave, weighing not more than 100 g/m2",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "52083110",
+   "hs6": "520831",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Lungi",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "52083121",
+   "hs6": "520831",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Sarees, of Handloom",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "52083129",
+   "hs6": "520831",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "52083130",
+   "hs6": "520831",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "52083140",
+   "hs6": "520831",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Casement",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "52083150",
+   "hs6": "520831",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Cambrics (including madapollam and jaconet)",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "52083160",
+   "hs6": "520831",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Mull (including limbric and willaya)",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "52083170",
+   "hs6": "520831",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Muslin (including lawn mulmul and organdy) of carded or combed yarn",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "52083180",
+   "hs6": "520831",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Voils( excluding leno fabrics)",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "52083190",
+   "hs6": "520831",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "520832",
+   "hs6": "520832",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- Plain weave, weighing more than 100 g/m2",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "52083210",
+   "hs6": "520832",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Lungi",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "52083220",
+   "hs6": "520832",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "52083230",
+   "hs6": "520832",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "52083240",
+   "hs6": "520832",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Casement",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "52083250",
+   "hs6": "520832",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Bedticking, domestic",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "52083260",
+   "hs6": "520832",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Cambrics (including madapollam and jaconet), Longcloth (including calico) and voils (excluding leno fabrics)",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "52083270",
+   "hs6": "520832",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Coating (including suiting)",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "52083280",
+   "hs6": "520832",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chenille fabrics)",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "52083290",
+   "hs6": "520832",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "520833",
+   "hs6": "520833",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- 3-thread or 4-thread twill, including cross twill",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "52083310",
+   "hs6": "520833",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "52083320",
+   "hs6": "520833",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Coating (including suiting)",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "52083330",
+   "hs6": "520833",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting (including mazri)",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "52083390",
+   "hs6": "520833",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "520839",
+   "hs6": "520839",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, of weaves n.e.c. in item no. 5208.3 weighing not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- Other fabrics",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "52083910",
+   "hs6": "520839",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, of weaves n.e.c. in item no. 5208.3 weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered sarees",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "52083990",
+   "hs6": "520839",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, of weaves n.e.c. in item no. 5208.3 weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "520841",
+   "hs6": "520841",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing not more than 100g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Plain weave, weighing not more than 100 g/m2",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "52084110",
+   "hs6": "520841",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Bleeding Madras",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "52084121",
+   "hs6": "520841",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Sarees, of Handloom",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "52084129",
+   "hs6": "520841",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "52084130",
+   "hs6": "520841",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "52084140",
+   "hs6": "520841",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Bed ticking, domestic",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "52084150",
+   "hs6": "520841",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chenille fabrics)",
@@ -3033,6 +3537,8 @@
   },
   {
    "hs_code": "52084190",
+   "hs6": "520841",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -3045,6 +3551,8 @@
   },
   {
    "hs_code": "520842",
+   "hs6": "520842",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Plain weave, weighing more than 100 g/m2",
@@ -3057,6 +3565,8 @@
   },
   {
    "hs_code": "52084210",
+   "hs6": "520842",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Bleeding Madras",
@@ -3069,6 +3579,8 @@
   },
   {
    "hs_code": "52084220",
+   "hs6": "520842",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -3081,6 +3593,8 @@
   },
   {
    "hs_code": "52084230",
+   "hs6": "520842",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -3093,6 +3607,8 @@
   },
   {
    "hs_code": "52084240",
+   "hs6": "520842",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Casement",
@@ -3105,6 +3621,8 @@
   },
   {
    "hs_code": "52084250",
+   "hs6": "520842",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Bed ticking, domestic",
@@ -3117,6 +3635,8 @@
   },
   {
    "hs_code": "52084260",
+   "hs6": "520842",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics, other than pile and chenille fabrics",
@@ -3129,6 +3649,8 @@
   },
   {
    "hs_code": "52084290",
+   "hs6": "520842",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -3141,6 +3663,8 @@
   },
   {
    "hs_code": "520843",
+   "hs6": "520843",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Of yarns of different colours : -- 3-thread or 4-thread twill, including cross twill",
@@ -3153,6 +3677,8 @@
   },
   {
    "hs_code": "52084310",
+   "hs6": "520843",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Bleading Madras",
@@ -3165,6 +3691,8 @@
   },
   {
    "hs_code": "52084320",
+   "hs6": "520843",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -3177,6 +3705,8 @@
   },
   {
    "hs_code": "52084330",
+   "hs6": "520843",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Bedticking, damask",
@@ -3189,6 +3719,8 @@
   },
   {
    "hs_code": "52084340",
+   "hs6": "520843",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Flannelette",
@@ -3201,6 +3733,8 @@
   },
   {
    "hs_code": "52084390",
+   "hs6": "520843",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, 3-thread or 4-thread twill, including cross twill, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -3213,6 +3747,8 @@
   },
   {
    "hs_code": "520849",
+   "hs6": "520849",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, of weaves n.e.c. in item no. 5208.4, weighing not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Other fabrics",
@@ -3225,6 +3761,8 @@
   },
   {
    "hs_code": "52084910",
+   "hs6": "520849",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, of weaves n.e.c. in item no. 5208.4, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered sarees",
@@ -3237,6 +3775,8 @@
   },
   {
    "hs_code": "52084921",
+   "hs6": "520849",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, of weaves n.e.c. in item no. 5208.4, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Real Madras handkerchiefs, of Handloom",
@@ -3249,6 +3789,8 @@
   },
   {
    "hs_code": "52084929",
+   "hs6": "520849",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, of weaves n.e.c. in item no. 5208.4, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -3261,6 +3803,8 @@
   },
   {
    "hs_code": "52084990",
+   "hs6": "520849",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, of weaves n.e.c. in item no. 5208.4, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -3273,6 +3817,8 @@
   },
   {
    "hs_code": "520851",
+   "hs6": "520851",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing not more than 100g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Printed : -- Plain weave, weighing not more than 100 g/m2",
@@ -3285,6 +3831,8 @@
   },
   {
    "hs_code": "52085110",
+   "hs6": "520851",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Lungi",
@@ -3297,6 +3845,8 @@
   },
   {
    "hs_code": "52085120",
+   "hs6": "520851",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -3309,6 +3859,8 @@
   },
   {
    "hs_code": "52085130",
+   "hs6": "520851",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -3321,6 +3873,8 @@
   },
   {
    "hs_code": "52085140",
+   "hs6": "520851",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Casement",
@@ -3333,6 +3887,8 @@
   },
   {
    "hs_code": "52085150",
+   "hs6": "520851",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Cambrics (including madapollam and jaconet)",
@@ -3345,6 +3901,8 @@
   },
   {
    "hs_code": "52085160",
+   "hs6": "520851",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Mull (including limbric and willaya)",
@@ -3357,6 +3915,8 @@
   },
   {
    "hs_code": "52085170",
+   "hs6": "520851",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Muslin (including lawn mulmul and organdi) of carded or combed yarn",
@@ -3369,6 +3929,8 @@
   },
   {
    "hs_code": "52085180",
+   "hs6": "520851",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Voils (excluding leno fabrics)",
@@ -3381,6 +3943,8 @@
   },
   {
    "hs_code": "52085190",
+   "hs6": "520851",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing not more than 100g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -3393,6 +3957,8 @@
   },
   {
    "hs_code": "520852",
+   "hs6": "520852",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Printed : -- Plain weave, weighing more than 100 g/m2",
@@ -3405,6 +3971,8 @@
   },
   {
    "hs_code": "52085210",
+   "hs6": "520852",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Lungi",
@@ -3417,6 +3985,8 @@
   },
   {
    "hs_code": "52085220",
+   "hs6": "520852",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -3429,6 +3999,8 @@
   },
   {
    "hs_code": "52085230",
+   "hs6": "520852",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -3441,6 +4013,8 @@
   },
   {
    "hs_code": "52085240",
+   "hs6": "520852",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Casement",
@@ -3453,6 +4027,8 @@
   },
   {
    "hs_code": "52085250",
+   "hs6": "520852",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Cambrics (including madapollam and jaconet)",
@@ -3465,6 +4041,8 @@
   },
   {
    "hs_code": "52085260",
+   "hs6": "520852",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Mull (including limbric and willaya)",
@@ -3477,6 +4055,8 @@
   },
   {
    "hs_code": "52085270",
+   "hs6": "520852",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Muslin (including lawn mulmul and organdi) of carded or combed yarn",
@@ -3489,6 +4069,8 @@
   },
   {
    "hs_code": "52085280",
+   "hs6": "520852",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Voils (excluding leno fabrics)",
@@ -3501,6 +4083,8 @@
   },
   {
    "hs_code": "52085290",
+   "hs6": "520852",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 100g/m2 but not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -3513,6 +4097,8 @@
   },
   {
    "hs_code": "520859",
+   "hs6": "520859",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, of weaves n.e.c. in item no. 5208.5, weighing not more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Printed : -- Other fabrics",
@@ -3525,6 +4111,8 @@
   },
   {
    "hs_code": "52085910",
+   "hs6": "520859",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, of weaves n.e.c. in item no. 5208.5, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered sarees",
@@ -3537,6 +4125,8 @@
   },
   {
    "hs_code": "52085920",
+   "hs6": "520859",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, of weaves n.e.c. in item no. 5208.5, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered sarees, of Handloom",
@@ -3549,6 +4139,8 @@
   },
   {
    "hs_code": "52085990",
+   "hs6": "520859",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, of weaves n.e.c. in item no. 5208.5, weighing not more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -3561,6 +4153,8 @@
   },
   {
    "hs_code": "5209",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "52",
    "description": "Woven fabrics of cotton, containing 85percent or more by weight of cotton, weighing more than 200 g/m2.",
@@ -3573,6 +4167,8 @@
   },
   {
    "hs_code": "520911",
+   "hs6": "520911",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Unbleached : -- Plain weave",
@@ -3585,6 +4181,8 @@
   },
   {
    "hs_code": "52091111",
+   "hs6": "520911",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Handloom: ---- Dhoti",
@@ -3597,6 +4195,8 @@
   },
   {
    "hs_code": "52091112",
+   "hs6": "520911",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Handloom: ---- Saree",
@@ -3609,6 +4209,8 @@
   },
   {
    "hs_code": "52091113",
+   "hs6": "520911",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Handloom: ---- Casement",
@@ -3621,6 +4223,8 @@
   },
   {
    "hs_code": "52091114",
+   "hs6": "520911",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Handloom: ---- Sheeting (takia, leopardcloth and other than furnishing)",
@@ -3633,6 +4237,8 @@
   },
   {
    "hs_code": "52091119",
+   "hs6": "520911",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Handloom: ---- Other",
@@ -3645,6 +4251,8 @@
   },
   {
    "hs_code": "52091190",
+   "hs6": "520911",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Handloom: ---- Other",
@@ -3657,6 +4265,8 @@
   },
   {
    "hs_code": "520912",
+   "hs6": "520912",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Unbleached : -- 3-thread or 4-thread twill, including cross twill",
@@ -3669,6 +4279,8 @@
   },
   {
    "hs_code": "52091210",
+   "hs6": "520912",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -3681,6 +4293,8 @@
   },
   {
    "hs_code": "52091220",
+   "hs6": "520912",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -3693,6 +4307,8 @@
   },
   {
    "hs_code": "52091230",
+   "hs6": "520912",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chenille fabrics)",
@@ -3705,6 +4321,8 @@
   },
   {
    "hs_code": "52091240",
+   "hs6": "520912",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Seersucker",
@@ -3717,6 +4335,8 @@
   },
   {
    "hs_code": "52091250",
+   "hs6": "520912",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Canvas, including duck - carded or combed yarn",
@@ -3729,6 +4349,8 @@
   },
   {
    "hs_code": "52091260",
+   "hs6": "520912",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Flannelette",
@@ -3741,6 +4363,8 @@
   },
   {
    "hs_code": "52091270",
+   "hs6": "520912",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shetting (takia, leopart cloth)",
@@ -3753,6 +4377,8 @@
   },
   {
    "hs_code": "52091290",
+   "hs6": "520912",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -3765,6 +4391,8 @@
   },
   {
    "hs_code": "52091900",
+   "hs6": "520919",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, unbleached, of weaves n.e.c. in item no. 5209.1, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Unbleached : -- Other fabrics",
@@ -3777,6 +4405,8 @@
   },
   {
    "hs_code": "520921",
+   "hs6": "520921",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Bleached : -- Plain weave",
@@ -3789,6 +4419,8 @@
   },
   {
    "hs_code": "52092110",
+   "hs6": "520921",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -3801,6 +4433,8 @@
   },
   {
    "hs_code": "52092120",
+   "hs6": "520921",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -3813,6 +4447,8 @@
   },
   {
    "hs_code": "52092130",
+   "hs6": "520921",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chinille fabrics)",
@@ -3825,6 +4461,8 @@
   },
   {
    "hs_code": "52092140",
+   "hs6": "520921",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Seersucker",
@@ -3837,6 +4475,8 @@
   },
   {
    "hs_code": "52092150",
+   "hs6": "520921",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Canvas (including duck) of carded or combed yarn",
@@ -3849,6 +4489,8 @@
   },
   {
    "hs_code": "52092160",
+   "hs6": "520921",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Dhoti",
@@ -3861,6 +4503,8 @@
   },
   {
    "hs_code": "52092170",
+   "hs6": "520921",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Flannellete",
@@ -3873,6 +4517,8 @@
   },
   {
    "hs_code": "52092180",
+   "hs6": "520921",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Sheeting (takia, leopart cloth)",
@@ -3885,6 +4531,8 @@
   },
   {
    "hs_code": "52092190",
+   "hs6": "520921",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -3897,6 +4545,8 @@
   },
   {
    "hs_code": "520922",
+   "hs6": "520922",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Bleached : -- 3-thread or 4-thread twill, including cross twill",
@@ -3909,6 +4559,8 @@
   },
   {
    "hs_code": "52092210",
+   "hs6": "520922",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -3921,6 +4573,8 @@
   },
   {
    "hs_code": "52092220",
+   "hs6": "520922",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chenille fabrics)",
@@ -3933,6 +4587,8 @@
   },
   {
    "hs_code": "52092230",
+   "hs6": "520922",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Drill",
@@ -3945,6 +4601,8 @@
   },
   {
    "hs_code": "52092290",
+   "hs6": "520922",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -3957,6 +4615,8 @@
   },
   {
    "hs_code": "520929",
+   "hs6": "520929",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, of weaves n.e.c. in item no. 5209.2, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Bleached : -- Other fabrics",
@@ -3969,6 +4629,8 @@
   },
   {
    "hs_code": "52092910",
+   "hs6": "520929",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, of weaves n.e.c. in item no. 5209.2, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Dhoti and saree, zari bordered",
@@ -3981,6 +4643,8 @@
   },
   {
    "hs_code": "52092920",
+   "hs6": "520929",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, of weaves n.e.c. in item no. 5209.2, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Dedsuti, dosuti fabrics, ceretonnes and osamburge",
@@ -3993,6 +4657,8 @@
   },
   {
    "hs_code": "52092990",
+   "hs6": "520929",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, bleached, of weaves n.e.c. in item no. 5209.2, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4005,6 +4671,8 @@
   },
   {
    "hs_code": "520931",
+   "hs6": "520931",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- Plain weave",
@@ -4017,6 +4685,8 @@
   },
   {
    "hs_code": "52093110",
+   "hs6": "520931",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Lungi",
@@ -4029,6 +4699,8 @@
   },
   {
    "hs_code": "52093120",
+   "hs6": "520931",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -4041,6 +4713,8 @@
   },
   {
    "hs_code": "52093130",
+   "hs6": "520931",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -4053,6 +4727,8 @@
   },
   {
    "hs_code": "52093140",
+   "hs6": "520931",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chenille fabrics)",
@@ -4065,6 +4741,8 @@
   },
   {
    "hs_code": "52093150",
+   "hs6": "520931",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Seersucker",
@@ -4077,6 +4755,8 @@
   },
   {
    "hs_code": "52093160",
+   "hs6": "520931",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Bedticking, domestic (other than hand dyed)",
@@ -4089,6 +4769,8 @@
   },
   {
    "hs_code": "52093170",
+   "hs6": "520931",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Canvas (including duck), of carded or combed yarn",
@@ -4101,6 +4783,8 @@
   },
   {
    "hs_code": "52093180",
+   "hs6": "520931",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Flannellete",
@@ -4113,6 +4797,8 @@
   },
   {
    "hs_code": "52093190",
+   "hs6": "520931",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4125,6 +4811,8 @@
   },
   {
    "hs_code": "520932",
+   "hs6": "520932",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- 3-thread or 4-thread twill, including cross twill",
@@ -4137,6 +4825,8 @@
   },
   {
    "hs_code": "52093210",
+   "hs6": "520932",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -4149,6 +4839,8 @@
   },
   {
    "hs_code": "52093220",
+   "hs6": "520932",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chenille fabrics)",
@@ -4161,6 +4853,8 @@
   },
   {
    "hs_code": "52093230",
+   "hs6": "520932",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Drill",
@@ -4173,6 +4867,8 @@
   },
   {
    "hs_code": "52093290",
+   "hs6": "520932",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4185,6 +4881,8 @@
   },
   {
    "hs_code": "520939",
+   "hs6": "520939",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, of weaves n.e.c. in item no. 5209.3, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- Other fabrics",
@@ -4197,6 +4895,8 @@
   },
   {
    "hs_code": "52093910",
+   "hs6": "520939",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, of weaves n.e.c. in item no. 5209.3, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered sarees",
@@ -4209,6 +4909,8 @@
   },
   {
    "hs_code": "52093990",
+   "hs6": "520939",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, dyed, of weaves n.e.c. in item no. 5209.3, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4221,6 +4923,8 @@
   },
   {
    "hs_code": "520941",
+   "hs6": "520941",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Plain weave",
@@ -4233,6 +4937,8 @@
   },
   {
    "hs_code": "52094110",
+   "hs6": "520941",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Bleeding Madras",
@@ -4245,6 +4951,8 @@
   },
   {
    "hs_code": "52094120",
+   "hs6": "520941",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -4257,6 +4965,8 @@
   },
   {
    "hs_code": "52094130",
+   "hs6": "520941",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -4269,6 +4979,8 @@
   },
   {
    "hs_code": "52094140",
+   "hs6": "520941",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chenille fabrics)",
@@ -4281,6 +4993,8 @@
   },
   {
    "hs_code": "52094150",
+   "hs6": "520941",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Seersucker",
@@ -4293,6 +5007,8 @@
   },
   {
    "hs_code": "52094160",
+   "hs6": "520941",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Bedticking, domestic (other than hand dyed)",
@@ -4305,6 +5021,8 @@
   },
   {
    "hs_code": "52094170",
+   "hs6": "520941",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Flannelette",
@@ -4317,6 +5035,8 @@
   },
   {
    "hs_code": "52094190",
+   "hs6": "520941",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4329,6 +5049,8 @@
   },
   {
    "hs_code": "52094200",
+   "hs6": "520942",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, weighing more than 200g/m2, denim",
    "level": 8,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Denim",
@@ -4341,6 +5063,8 @@
   },
   {
    "hs_code": "520943",
+   "hs6": "520943",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Other fabrics of 3-thread or 4-thread twill, including cross twill",
@@ -4353,6 +5077,8 @@
   },
   {
    "hs_code": "52094310",
+   "hs6": "520943",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Bleeding Madras",
@@ -4365,6 +5091,8 @@
   },
   {
    "hs_code": "52094320",
+   "hs6": "520943",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -4377,6 +5105,8 @@
   },
   {
    "hs_code": "52094330",
+   "hs6": "520943",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chenille fabrics)",
@@ -4389,6 +5119,8 @@
   },
   {
    "hs_code": "52094340",
+   "hs6": "520943",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Coating (including suiting)",
@@ -4401,6 +5133,8 @@
   },
   {
    "hs_code": "52094390",
+   "hs6": "520943",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4413,6 +5147,8 @@
   },
   {
    "hs_code": "520949",
+   "hs6": "520949",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, of weaves n.e.c. in item no. 5209.4, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Other fabrics",
@@ -4425,6 +5161,8 @@
   },
   {
    "hs_code": "52094910",
+   "hs6": "520949",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, of weaves n.e.c. in item no. 5209.4, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered sari",
@@ -4437,6 +5175,8 @@
   },
   {
    "hs_code": "52094990",
+   "hs6": "520949",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, of yarns of different colours, of weaves n.e.c. in item no. 5209.4, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4449,6 +5189,8 @@
   },
   {
    "hs_code": "520951",
+   "hs6": "520951",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Printed : -- Plain weave",
@@ -4461,6 +5203,8 @@
   },
   {
    "hs_code": "52095111",
+   "hs6": "520951",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Lungi of Handloom",
@@ -4473,6 +5217,8 @@
   },
   {
    "hs_code": "52095120",
+   "hs6": "520951",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -4485,6 +5231,8 @@
   },
   {
    "hs_code": "52095130",
+   "hs6": "520951",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -4497,6 +5245,8 @@
   },
   {
    "hs_code": "52095140",
+   "hs6": "520951",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chenille fabrics)",
@@ -4509,6 +5259,8 @@
   },
   {
    "hs_code": "52095150",
+   "hs6": "520951",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Seersucker",
@@ -4521,6 +5273,8 @@
   },
   {
    "hs_code": "52095160",
+   "hs6": "520951",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Bedticking, domestic",
@@ -4533,6 +5287,8 @@
   },
   {
    "hs_code": "52095170",
+   "hs6": "520951",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Flannelette",
@@ -4545,6 +5301,8 @@
   },
   {
    "hs_code": "52095190",
+   "hs6": "520951",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4557,6 +5315,8 @@
   },
   {
    "hs_code": "520952",
+   "hs6": "520952",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Printed : -- 3-thread or 4-thread twill, including cross twill",
@@ -4569,6 +5329,8 @@
   },
   {
    "hs_code": "52095210",
+   "hs6": "520952",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -4581,6 +5343,8 @@
   },
   {
    "hs_code": "52095220",
+   "hs6": "520952",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chenille fabrics)",
@@ -4593,6 +5357,8 @@
   },
   {
    "hs_code": "52095290",
+   "hs6": "520952",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4605,6 +5371,8 @@
   },
   {
    "hs_code": "520959",
+   "hs6": "520959",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, of weaves n.e.c. in item no. 5209.5, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Printed : -- Other fabrics",
@@ -4617,6 +5385,8 @@
   },
   {
    "hs_code": "52095910",
+   "hs6": "520959",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, of weaves n.e.c. in item no. 5209.5, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered saree",
@@ -4629,6 +5399,8 @@
   },
   {
    "hs_code": "52095990",
+   "hs6": "520959",
+   "hs6_description": "Fabrics, woven; containing 85% or more by weight of cotton, printed, of weaves n.e.c. in item no. 5209.5, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4641,6 +5413,8 @@
   },
   {
    "hs_code": "5210",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "52",
    "description": "Woven fabrics of cotton, containing less than 85percent by weight of cotton, mixed mainly or solely with man-made fibres, weighing not more than 200 g/m2.",
@@ -4653,6 +5427,8 @@
   },
   {
    "hs_code": "521011",
+   "hs6": "521011",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, plain weave, weighing 200g/m2 or less",
    "level": 6,
    "chapter": "52",
    "description": "Unbleached : -- Plain weave",
@@ -4665,6 +5441,8 @@
   },
   {
    "hs_code": "52101110",
+   "hs6": "521011",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, plain weave, weighing 200g/m2 or less",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -4677,6 +5455,8 @@
   },
   {
    "hs_code": "52101120",
+   "hs6": "521011",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, plain weave, weighing 200g/m2 or less",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -4689,6 +5469,8 @@
   },
   {
    "hs_code": "52101190",
+   "hs6": "521011",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, plain weave, weighing 200g/m2 or less",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4701,6 +5483,8 @@
   },
   {
    "hs_code": "52101900",
+   "hs6": "521019",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, of weaves n.e.c. in item no. 5210.1, weighing 200g/m2 or less",
    "level": 8,
    "chapter": "52",
    "description": "Unbleached : -- Other fabrics",
@@ -4713,6 +5497,8 @@
   },
   {
    "hs_code": "521021",
+   "hs6": "521021",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, bleached, plain weave, weighing 200g/m2 or less",
    "level": 6,
    "chapter": "52",
    "description": "Bleached : -- Plain weave",
@@ -4725,6 +5511,8 @@
   },
   {
    "hs_code": "52102110",
+   "hs6": "521021",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, bleached, plain weave, weighing 200g/m2 or less",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -4737,6 +5525,8 @@
   },
   {
    "hs_code": "52102120",
+   "hs6": "521021",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, bleached, plain weave, weighing 200g/m2 or less",
    "level": 8,
    "chapter": "52",
    "description": "Poplin and broad fabrics",
@@ -4749,6 +5539,8 @@
   },
   {
    "hs_code": "52102130",
+   "hs6": "521021",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, bleached, plain weave, weighing 200g/m2 or less",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -4761,6 +5553,8 @@
   },
   {
    "hs_code": "52102140",
+   "hs6": "521021",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, bleached, plain weave, weighing 200g/m2 or less",
    "level": 8,
    "chapter": "52",
    "description": "Shirting (including mazri)",
@@ -4773,6 +5567,8 @@
   },
   {
    "hs_code": "52102150",
+   "hs6": "521021",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, bleached, plain weave, weighing 200g/m2 or less",
    "level": 8,
    "chapter": "52",
    "description": "Voils",
@@ -4785,6 +5581,8 @@
   },
   {
    "hs_code": "52102190",
+   "hs6": "521021",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, bleached, plain weave, weighing 200g/m2 or less",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4797,6 +5595,8 @@
   },
   {
    "hs_code": "521029",
+   "hs6": "521029",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, bleached, of weaves n.e.c. in item no. 5210.2",
    "level": 6,
    "chapter": "52",
    "description": "Bleached : -- Other fabrics",
@@ -4809,6 +5609,8 @@
   },
   {
    "hs_code": "52102910",
+   "hs6": "521029",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, bleached, of weaves n.e.c. in item no. 5210.2",
    "level": 8,
    "chapter": "52",
    "description": "Dhoti and saree, zari bordered",
@@ -4821,6 +5623,8 @@
   },
   {
    "hs_code": "52102920",
+   "hs6": "521029",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, bleached, of weaves n.e.c. in item no. 5210.2",
    "level": 8,
    "chapter": "52",
    "description": "Dedsuti, dosuti, ceretonnes and osamburge",
@@ -4833,6 +5637,8 @@
   },
   {
    "hs_code": "52102990",
+   "hs6": "521029",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, bleached, of weaves n.e.c. in item no. 5210.2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4845,6 +5651,8 @@
   },
   {
    "hs_code": "521031",
+   "hs6": "521031",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, plain weave",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- Plain weave",
@@ -4857,6 +5665,8 @@
   },
   {
    "hs_code": "52103110",
+   "hs6": "521031",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -4869,6 +5679,8 @@
   },
   {
    "hs_code": "52103120",
+   "hs6": "521031",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Coating (including suitings)",
@@ -4881,6 +5693,8 @@
   },
   {
    "hs_code": "52103130",
+   "hs6": "521031",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chenille fabrics)",
@@ -4893,6 +5707,8 @@
   },
   {
    "hs_code": "52103140",
+   "hs6": "521031",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Poplin and broad fabrics",
@@ -4905,6 +5721,8 @@
   },
   {
    "hs_code": "52103150",
+   "hs6": "521031",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -4917,6 +5735,8 @@
   },
   {
    "hs_code": "52103160",
+   "hs6": "521031",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Voils",
@@ -4929,6 +5749,8 @@
   },
   {
    "hs_code": "52103190",
+   "hs6": "521031",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -4941,6 +5763,8 @@
   },
   {
    "hs_code": "521032",
+   "hs6": "521032",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, 3-thread or 4-thread twill, including cross twill",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- 3-thread or 4-thread twill, including cross twill",
@@ -4953,6 +5777,8 @@
   },
   {
    "hs_code": "52103210",
+   "hs6": "521032",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Crepe fabrics including crepe checks",
@@ -4965,6 +5791,8 @@
   },
   {
    "hs_code": "52103220",
+   "hs6": "521032",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -4977,6 +5805,8 @@
   },
   {
    "hs_code": "52103230",
+   "hs6": "521032",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Bedticking, damask",
@@ -4989,6 +5819,8 @@
   },
   {
    "hs_code": "52103290",
+   "hs6": "521032",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5001,6 +5833,8 @@
   },
   {
    "hs_code": "521039",
+   "hs6": "521039",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, of weaves n.e.c. in item no. 5210.3",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- Other fabrics",
@@ -5013,6 +5847,8 @@
   },
   {
    "hs_code": "52103910",
+   "hs6": "521039",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, of weaves n.e.c. in item no. 5210.3",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered sarees",
@@ -5025,6 +5861,8 @@
   },
   {
    "hs_code": "52103990",
+   "hs6": "521039",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, dyed, of weaves n.e.c. in item no. 5210.3",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5037,6 +5875,8 @@
   },
   {
    "hs_code": "521041",
+   "hs6": "521041",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, of yarns of different colours, plain weave",
    "level": 6,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Plain weave",
@@ -5049,6 +5889,8 @@
   },
   {
    "hs_code": "52104110",
+   "hs6": "521041",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Bleeding Madras",
@@ -5061,6 +5903,8 @@
   },
   {
    "hs_code": "52104120",
+   "hs6": "521041",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Crepe fabrics (excluding crepe checks)",
@@ -5073,6 +5917,8 @@
   },
   {
    "hs_code": "52104130",
+   "hs6": "521041",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -5085,6 +5931,8 @@
   },
   {
    "hs_code": "52104140",
+   "hs6": "521041",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Suitings",
@@ -5097,6 +5945,8 @@
   },
   {
    "hs_code": "52104150",
+   "hs6": "521041",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Poplin and broad fabrics",
@@ -5109,6 +5959,8 @@
   },
   {
    "hs_code": "52104160",
+   "hs6": "521041",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -5121,6 +5973,8 @@
   },
   {
    "hs_code": "52104170",
+   "hs6": "521041",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Voils",
@@ -5133,6 +5987,8 @@
   },
   {
    "hs_code": "52104190",
+   "hs6": "521041",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5145,6 +6001,8 @@
   },
   {
    "hs_code": "521049",
+   "hs6": "521049",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, of yarns of different colours, of weaves n.e.c. in item no. 5210.4",
    "level": 6,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Other fabrics",
@@ -5157,6 +6015,8 @@
   },
   {
    "hs_code": "52104910",
+   "hs6": "521049",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, of yarns of different colours, of weaves n.e.c. in item no. 5210.4",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered saree",
@@ -5169,6 +6029,8 @@
   },
   {
    "hs_code": "52104990",
+   "hs6": "521049",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, of yarns of different colours, of weaves n.e.c. in item no. 5210.4",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5181,6 +6043,8 @@
   },
   {
    "hs_code": "521051",
+   "hs6": "521051",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, printed, plain weave",
    "level": 6,
    "chapter": "52",
    "description": "Printed : -- Plain weave",
@@ -5193,6 +6057,8 @@
   },
   {
    "hs_code": "52105110",
+   "hs6": "521051",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, printed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -5205,6 +6071,8 @@
   },
   {
    "hs_code": "52105120",
+   "hs6": "521051",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, printed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Casement",
@@ -5217,6 +6085,8 @@
   },
   {
    "hs_code": "52105130",
+   "hs6": "521051",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, printed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -5229,6 +6099,8 @@
   },
   {
    "hs_code": "52105140",
+   "hs6": "521051",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, printed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Poplin and broad fabrics",
@@ -5241,6 +6113,8 @@
   },
   {
    "hs_code": "52105150",
+   "hs6": "521051",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, printed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Voils",
@@ -5253,6 +6127,8 @@
   },
   {
    "hs_code": "52105190",
+   "hs6": "521051",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, printed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5265,6 +6141,8 @@
   },
   {
    "hs_code": "521059",
+   "hs6": "521059",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, printed, of weaves n.e.c. in item no. 5210.5",
    "level": 6,
    "chapter": "52",
    "description": "Printed : -- Other fabrics",
@@ -5277,6 +6155,8 @@
   },
   {
    "hs_code": "52105910",
+   "hs6": "521059",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, printed, of weaves n.e.c. in item no. 5210.5",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered saree",
@@ -5289,6 +6169,8 @@
   },
   {
    "hs_code": "52105990",
+   "hs6": "521059",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing 200g/m2 or less, printed, of weaves n.e.c. in item no. 5210.5",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5301,6 +6183,8 @@
   },
   {
    "hs_code": "5211",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "52",
    "description": "Woven fabrics of cotton, containing less than 85percent by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200 g/m2.",
@@ -5313,6 +6197,8 @@
   },
   {
    "hs_code": "521111",
+   "hs6": "521111",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, plain weave, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Unbleached : -- Plain weave",
@@ -5325,6 +6211,8 @@
   },
   {
    "hs_code": "52111110",
+   "hs6": "521111",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -5337,6 +6225,8 @@
   },
   {
    "hs_code": "52111120",
+   "hs6": "521111",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -5349,6 +6239,8 @@
   },
   {
    "hs_code": "52111190",
+   "hs6": "521111",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, plain weave, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5361,6 +6253,8 @@
   },
   {
    "hs_code": "521112",
+   "hs6": "521112",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, 3- or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 6,
    "chapter": "52",
    "description": "Unbleached : -- 3-thread or 4-thread twill, including cross twill",
@@ -5373,6 +6267,8 @@
   },
   {
    "hs_code": "52111210",
+   "hs6": "521112",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, 3- or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -5385,6 +6281,8 @@
   },
   {
    "hs_code": "52111220",
+   "hs6": "521112",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, 3- or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Twill, not elsewhere specified (including gaberdine)",
@@ -5397,6 +6295,8 @@
   },
   {
    "hs_code": "52111230",
+   "hs6": "521112",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, 3- or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Damask",
@@ -5409,6 +6309,8 @@
   },
   {
    "hs_code": "52111290",
+   "hs6": "521112",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, 3- or 4-thread twill, including cross twill, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5421,6 +6323,8 @@
   },
   {
    "hs_code": "52111900",
+   "hs6": "521119",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, unbleached, of weaves n.e.c. in item no. 5211.1, weighing more than 200g/m2",
    "level": 8,
    "chapter": "52",
    "description": "Unbleached : -- Other fabrics",
@@ -5433,6 +6337,8 @@
   },
   {
    "hs_code": "521120",
+   "hs6": "521120",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, bleached",
    "level": 6,
    "chapter": "52",
    "description": "Bleached",
@@ -5445,6 +6351,8 @@
   },
   {
    "hs_code": "52112010",
+   "hs6": "521120",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, bleached",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -5457,6 +6365,8 @@
   },
   {
    "hs_code": "52112020",
+   "hs6": "521120",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, bleached",
    "level": 8,
    "chapter": "52",
    "description": "Canvas (including duck) of carded or combed yarn",
@@ -5469,6 +6379,8 @@
   },
   {
    "hs_code": "52112030",
+   "hs6": "521120",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, bleached",
    "level": 8,
    "chapter": "52",
    "description": "Flannelette",
@@ -5481,6 +6393,8 @@
   },
   {
    "hs_code": "52112040",
+   "hs6": "521120",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, bleached",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -5493,6 +6407,8 @@
   },
   {
    "hs_code": "52112050",
+   "hs6": "521120",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, bleached",
    "level": 8,
    "chapter": "52",
    "description": "Crepe fabric including Crepe checks",
@@ -5505,6 +6421,8 @@
   },
   {
    "hs_code": "52112060",
+   "hs6": "521120",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, bleached",
    "level": 8,
    "chapter": "52",
    "description": "Twill fabrics",
@@ -5517,6 +6435,8 @@
   },
   {
    "hs_code": "52112091",
+   "hs6": "521120",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, bleached",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered sari",
@@ -5529,6 +6449,8 @@
   },
   {
    "hs_code": "52112092",
+   "hs6": "521120",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, bleached",
    "level": 8,
    "chapter": "52",
    "description": "Dedsuti, Dosuti, ceretonnes and osamburge",
@@ -5541,6 +6463,8 @@
   },
   {
    "hs_code": "52112099",
+   "hs6": "521120",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, bleached",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5553,6 +6477,8 @@
   },
   {
    "hs_code": "521131",
+   "hs6": "521131",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, plain weave",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- Plain weave",
@@ -5565,6 +6491,8 @@
   },
   {
    "hs_code": "52113110",
+   "hs6": "521131",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -5577,6 +6505,8 @@
   },
   {
    "hs_code": "52113120",
+   "hs6": "521131",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Canvas (including duck) of carded or combed yarn",
@@ -5589,6 +6519,8 @@
   },
   {
    "hs_code": "52113130",
+   "hs6": "521131",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Coating (including suitings)",
@@ -5601,6 +6533,8 @@
   },
   {
    "hs_code": "52113140",
+   "hs6": "521131",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Flannellette",
@@ -5613,6 +6547,8 @@
   },
   {
    "hs_code": "52113150",
+   "hs6": "521131",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -5625,6 +6561,8 @@
   },
   {
    "hs_code": "52113190",
+   "hs6": "521131",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5637,6 +6575,8 @@
   },
   {
    "hs_code": "521132",
+   "hs6": "521132",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, 3-thread or 4-thread twill, including cross twill",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- 3-thread or 4-thread twill, including cross twill",
@@ -5649,6 +6589,8 @@
   },
   {
    "hs_code": "52113210",
+   "hs6": "521132",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Crepe fabrics including crepe checks",
@@ -5661,6 +6603,8 @@
   },
   {
    "hs_code": "52113220",
+   "hs6": "521132",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -5673,6 +6617,8 @@
   },
   {
    "hs_code": "52113230",
+   "hs6": "521132",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Twill, not elsewhere specified (including gaberdine)",
@@ -5685,6 +6631,8 @@
   },
   {
    "hs_code": "52113240",
+   "hs6": "521132",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Trousers or pant fabrics (excluding jeans and crepe)",
@@ -5697,6 +6645,8 @@
   },
   {
    "hs_code": "52113290",
+   "hs6": "521132",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5709,6 +6659,8 @@
   },
   {
    "hs_code": "521139",
+   "hs6": "521139",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, of weaves n.e.c. in item no. 5211.3",
    "level": 6,
    "chapter": "52",
    "description": "Dyed : -- Other fabrics",
@@ -5721,6 +6673,8 @@
   },
   {
    "hs_code": "52113910",
+   "hs6": "521139",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, of weaves n.e.c. in item no. 5211.3",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered sarees",
@@ -5733,6 +6687,8 @@
   },
   {
    "hs_code": "52113990",
+   "hs6": "521139",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, dyed, of weaves n.e.c. in item no. 5211.3",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5745,6 +6701,8 @@
   },
   {
    "hs_code": "521141",
+   "hs6": "521141",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, plain weave",
    "level": 6,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Plain weave",
@@ -5757,6 +6715,8 @@
   },
   {
    "hs_code": "52114110",
+   "hs6": "521141",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Bleeding Madras",
@@ -5769,6 +6729,8 @@
   },
   {
    "hs_code": "52114120",
+   "hs6": "521141",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Check shirting (excluding crepe checks)",
@@ -5781,6 +6743,8 @@
   },
   {
    "hs_code": "52114130",
+   "hs6": "521141",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Shirting",
@@ -5793,6 +6757,8 @@
   },
   {
    "hs_code": "52114140",
+   "hs6": "521141",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Suitings",
@@ -5805,6 +6771,8 @@
   },
   {
    "hs_code": "52114150",
+   "hs6": "521141",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Flannelette",
@@ -5817,6 +6785,8 @@
   },
   {
    "hs_code": "52114160",
+   "hs6": "521141",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -5829,6 +6799,8 @@
   },
   {
    "hs_code": "52114170",
+   "hs6": "521141",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Parachute fabrics",
@@ -5841,6 +6813,8 @@
   },
   {
    "hs_code": "52114190",
+   "hs6": "521141",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5853,6 +6827,8 @@
   },
   {
    "hs_code": "52114200",
+   "hs6": "521142",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, denim",
    "level": 8,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Denim",
@@ -5865,6 +6841,8 @@
   },
   {
    "hs_code": "521143",
+   "hs6": "521143",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, 3-thread or 4-thread twill, including cross twill",
    "level": 6,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Other fabrics of 3-thread or 4-thread twill, including cross twill",
@@ -5877,6 +6855,8 @@
   },
   {
    "hs_code": "52114310",
+   "hs6": "521143",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Bleeding Madras",
@@ -5889,6 +6869,8 @@
   },
   {
    "hs_code": "52114320",
+   "hs6": "521143",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Crepe fabrics",
@@ -5901,6 +6883,8 @@
   },
   {
    "hs_code": "52114330",
+   "hs6": "521143",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -5913,6 +6897,8 @@
   },
   {
    "hs_code": "52114340",
+   "hs6": "521143",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Suitings",
@@ -5925,6 +6911,8 @@
   },
   {
    "hs_code": "52114390",
+   "hs6": "521143",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5937,6 +6925,8 @@
   },
   {
    "hs_code": "521149",
+   "hs6": "521149",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, of weaves n.e.c. in item no. 5211.4",
    "level": 6,
    "chapter": "52",
    "description": "Of yarns of different colours : -- Other fabrics",
@@ -5949,6 +6939,8 @@
   },
   {
    "hs_code": "52114910",
+   "hs6": "521149",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, of weaves n.e.c. in item no. 5211.4",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered sarees",
@@ -5961,6 +6953,8 @@
   },
   {
    "hs_code": "52114990",
+   "hs6": "521149",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, of yarns of different colours, of weaves n.e.c. in item no. 5211.4",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -5973,6 +6967,8 @@
   },
   {
    "hs_code": "521151",
+   "hs6": "521151",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, plain weave",
    "level": 6,
    "chapter": "52",
    "description": "Printed : -- Plain weave",
@@ -5985,6 +6981,8 @@
   },
   {
    "hs_code": "52115110",
+   "hs6": "521151",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -5997,6 +6995,8 @@
   },
   {
    "hs_code": "52115120",
+   "hs6": "521151",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Furnishing fabrics (excluding pile and chenille fabrics)",
@@ -6009,6 +7009,8 @@
   },
   {
    "hs_code": "52115130",
+   "hs6": "521151",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Flannelette",
@@ -6021,6 +7023,8 @@
   },
   {
    "hs_code": "52115140",
+   "hs6": "521151",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Long cloth (chintz)",
@@ -6033,6 +7037,8 @@
   },
   {
    "hs_code": "52115150",
+   "hs6": "521151",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Saree",
@@ -6045,6 +7051,8 @@
   },
   {
    "hs_code": "52115190",
+   "hs6": "521151",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, plain weave",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -6057,6 +7065,8 @@
   },
   {
    "hs_code": "521152",
+   "hs6": "521152",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, 3-thread or 4-thread twill, including cross twill",
    "level": 6,
    "chapter": "52",
    "description": "Printed : -- 3-thread or 4-thread twill, including cross twill",
@@ -6069,6 +7079,8 @@
   },
   {
    "hs_code": "52115210",
+   "hs6": "521152",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Crepe fabrics including crepe checks",
@@ -6081,6 +7093,8 @@
   },
   {
    "hs_code": "52115220",
+   "hs6": "521152",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Shirting fabrics",
@@ -6093,6 +7107,8 @@
   },
   {
    "hs_code": "52115230",
+   "hs6": "521152",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Twill, not elsewhere specified (including gaberdine)",
@@ -6105,6 +7121,8 @@
   },
   {
    "hs_code": "52115290",
+   "hs6": "521152",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, 3-thread or 4-thread twill, including cross twill",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -6117,6 +7135,8 @@
   },
   {
    "hs_code": "521159",
+   "hs6": "521159",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, of weaves n.e.c. in item no. 5211.5",
    "level": 6,
    "chapter": "52",
    "description": "Printed : -- Other fabrics",
@@ -6129,6 +7149,8 @@
   },
   {
    "hs_code": "52115910",
+   "hs6": "521159",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, of weaves n.e.c. in item no. 5211.5",
    "level": 8,
    "chapter": "52",
    "description": "Zari bordered saree",
@@ -6141,6 +7163,8 @@
   },
   {
    "hs_code": "52115990",
+   "hs6": "521159",
+   "hs6_description": "Fabrics, woven; containing less than 85% by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200g/m2, printed, of weaves n.e.c. in item no. 5211.5",
    "level": 8,
    "chapter": "52",
    "description": "Other",
@@ -6153,6 +7177,8 @@
   },
   {
    "hs_code": "5212",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "52",
    "description": "Other woven fabrics of cotton.",
@@ -6165,6 +7191,8 @@
   },
   {
    "hs_code": "52121100",
+   "hs6": "521211",
+   "hs6_description": "Fabrics, woven; of cotton, unbleached, weighing not more than 200g/m2, n.e.c. in chapter 52",
    "level": 8,
    "chapter": "52",
    "description": "Weighing not more than 200 g/m2 : -- Unbleached",
@@ -6177,6 +7205,8 @@
   },
   {
    "hs_code": "52121200",
+   "hs6": "521212",
+   "hs6_description": "Fabrics, woven; of cotton, bleached, weighing not more than 200g/m2, n.e.c. in chapter 52",
    "level": 8,
    "chapter": "52",
    "description": "Weighing not more than 200 g/m2 : -- Bleached",
@@ -6189,6 +7219,8 @@
   },
   {
    "hs_code": "52121300",
+   "hs6": "521213",
+   "hs6_description": "Fabrics, woven; of cotton, dyed, weighing not more than 200g/m2, n.e.c. in chapter 52",
    "level": 8,
    "chapter": "52",
    "description": "Weighing not more than 200 g/m2 : -- Dyed",
@@ -6201,6 +7233,8 @@
   },
   {
    "hs_code": "52121400",
+   "hs6": "521214",
+   "hs6_description": "Fabrics, woven; of cotton, of yarns of different colours, weighing not more than 200g/m2, n.e.c. in chapter 52",
    "level": 8,
    "chapter": "52",
    "description": "Weighing not more than 200 g/m2 : -- Of yarns of different colours",
@@ -6213,6 +7247,8 @@
   },
   {
    "hs_code": "52121500",
+   "hs6": "521215",
+   "hs6_description": "Fabrics, woven; of cotton, printed, weighing not more than 200g/m2, n.e.c. in chapter 52",
    "level": 8,
    "chapter": "52",
    "description": "Printed",
@@ -6225,6 +7261,8 @@
   },
   {
    "hs_code": "52122100",
+   "hs6": "521221",
+   "hs6_description": "Fabrics, woven; of cotton, unbleached, weighing more than 200g/m2, n.e.c. in chapter 52",
    "level": 8,
    "chapter": "52",
    "description": "Weighing more than 200 g/m2 : -- Unbleached",
@@ -6237,6 +7275,8 @@
   },
   {
    "hs_code": "52122200",
+   "hs6": "521222",
+   "hs6_description": "Fabrics, woven; of cotton, bleached, weighing more than 200g/m2, n.e.c. in chapter 52",
    "level": 8,
    "chapter": "52",
    "description": "Weighing more than 200 g/m2 : -- Bleached",
@@ -6249,6 +7289,8 @@
   },
   {
    "hs_code": "52122300",
+   "hs6": "521223",
+   "hs6_description": "Fabrics, woven; of cotton, dyed, weighing more than 200g/m2, n.e.c. in chapter 52",
    "level": 8,
    "chapter": "52",
    "description": "Weighing more than 200 g/m2 : -- Dyed",
@@ -6261,6 +7303,8 @@
   },
   {
    "hs_code": "52122400",
+   "hs6": "521224",
+   "hs6_description": "Fabrics, woven; of cotton, of yarns of different colours, weighing more than 200g/m2, n.e.c. in chapter 52",
    "level": 8,
    "chapter": "52",
    "description": "Weighing more than 200 g/m2 : -- Of yarns of different colours",
@@ -6273,6 +7317,8 @@
   },
   {
    "hs_code": "52122500",
+   "hs6": "521225",
+   "hs6_description": "Fabrics, woven; of cotton, printed, weighing more than 200g/m2, n.e.c. in chapter 52",
    "level": 8,
    "chapter": "52",
    "description": "Weighing more than 200 g/m2 : -- Printed",

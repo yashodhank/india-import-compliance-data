@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "3401",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "34",
    "description": "Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "340111",
+   "hs6": "340111",
+   "hs6_description": "Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, for toilet use (including medicated products)",
    "level": 6,
    "chapter": "34",
    "description": "Soap and organic surface-active products and preparations, in the form of bars, cakes, moulded pieces or shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent : -- For toilet use (including medicated products)",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "34011110",
+   "hs6": "340111",
+   "hs6_description": "Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, for toilet use (including medicated products)",
    "level": 8,
    "chapter": "34",
    "description": "Medicated toilet soaps",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "34011120",
+   "hs6": "340111",
+   "hs6_description": "Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, for toilet use (including medicated products)",
    "level": 8,
    "chapter": "34",
    "description": "Shaving soaps other than shaving cream",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "34011190",
+   "hs6": "340111",
+   "hs6_description": "Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, for toilet use (including medicated products)",
    "level": 8,
    "chapter": "34",
    "description": "Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "340119",
+   "hs6": "340119",
+   "hs6_description": "Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, not for toilet use",
    "level": 6,
    "chapter": "34",
    "description": "Soap and organic surface-active products and preparations, in the form of bars, cakes, moulded pieces or shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent : -- Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "34011911",
+   "hs6": "340119",
+   "hs6_description": "Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, not for toilet use",
    "level": 8,
    "chapter": "34",
    "description": "Industrial soap",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "34011919",
+   "hs6": "340119",
+   "hs6_description": "Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, not for toilet use",
    "level": 8,
    "chapter": "34",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "34011920",
+   "hs6": "340119",
+   "hs6_description": "Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, not for toilet use",
    "level": 8,
    "chapter": "34",
    "description": "Flakes, chips and powder",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "34011930",
+   "hs6": "340119",
+   "hs6_description": "Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, not for toilet use",
    "level": 8,
    "chapter": "34",
    "description": "Tablets and cakes",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "34011941",
+   "hs6": "340119",
+   "hs6_description": "Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, not for toilet use",
    "level": 8,
    "chapter": "34",
    "description": "Household and laundry soaps not elsewhere specified or included: ---- Household soaps",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "34011942",
+   "hs6": "340119",
+   "hs6_description": "Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, not for toilet use",
    "level": 8,
    "chapter": "34",
    "description": "Household and laundry soaps not elsewhere specified or included: ---- Laundry soaps",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "34011990",
+   "hs6": "340119",
+   "hs6_description": "Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, not for toilet use",
    "level": 8,
    "chapter": "34",
    "description": "Household and laundry soaps not elsewhere specified or included: ---- Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "34012000",
+   "hs6": "340120",
+   "hs6_description": "Soap; in forms n.e.c. in item no. 3401.11",
    "level": 8,
    "chapter": "34",
    "description": "Soap in other forms",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "340130",
+   "hs6": "340130",
+   "hs6_description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap",
    "level": 6,
    "chapter": "34",
    "description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "34013011",
+   "hs6": "340130",
+   "hs6_description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap",
    "level": 8,
    "chapter": "34",
    "description": "Medicated toilet soaps",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "34013012",
+   "hs6": "340130",
+   "hs6_description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap",
    "level": 8,
    "chapter": "34",
    "description": "For toilet use (including medicated products): ---- Shaving cream and shaving gel",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "34013019",
+   "hs6": "340130",
+   "hs6_description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap",
    "level": 8,
    "chapter": "34",
    "description": "For toilet use (including medicated products): ---- Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "34013090",
+   "hs6": "340130",
+   "hs6_description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap",
    "level": 8,
    "chapter": "34",
    "description": "Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "3402",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "34",
    "description": "Organic surface-active agents (other than soap); surface-active preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap, other than those of heading 34.01.",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "34023100",
+   "hs6": "340231",
+   "hs6_description": "Anionic organic surface-active agents (other than soap); linear alkylbenzene sulphonic acids and their salts, whether or not put up for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Anionic organic surface-active agents, whether or not put up for retail sale: -- Linear alkylbenzene sulphonic acids and their salts",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "34023900",
+   "hs6": "340239",
+   "hs6_description": "Anionic organic surface-active agents (other than soap); other than linear alkylbenzene sulphonic acids and their salts, whether or not put up for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Anionic organic surface-active agents, whether or not put up for retail sale:--Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "34024100",
+   "hs6": "340241",
+   "hs6_description": "Organic surface-active agents; cationic (other than soap), whether or not put up for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Other organic surface-active agents, whether or not put up for retail sale:-- Cationic",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "34024200",
+   "hs6": "340242",
+   "hs6_description": "Organic surface-active agents; non-ionic (other than soap), whether or not put up for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Other organic surface-active agents, whether or not put up for retail sale:-- Non-ionic",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "34024900",
+   "hs6": "340249",
+   "hs6_description": "Organic surface-active agents; whether or not put up for retail sale, n.e.c. in item no. 3402",
    "level": 8,
    "chapter": "34",
    "description": "Other organic surface-active agents, whether or not put up for retail sale:-- Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "34025000",
+   "hs6": "340250",
+   "hs6_description": "Washing and cleaning preparations; powders, flakes and granules, surface-active, whether or not containing soap (excluding those of heading no. 3401), put up for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Other organic surface active agents, whether or not put up for retail sale: - Preparations put up for retail sale",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "340290",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 6,
    "chapter": "34",
    "description": "Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "34029011",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Synthetic detergents: ---- Washing preparations (including auxiliary washing preparations) and cleaning preparations, having a basis of soap or other organic surface active agents",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "34029012",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Synthetic detergents: ---- Cleaning or degreasing preparations not having a basis of soap or other organic surface active agents",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "34029019",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Synthetic detergents: ---- Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "34029020",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Synthetic detergents: ---- Sulphonated or sulphated or oxidised or chlorinated castor oil; Sulphonated or sulphated or oxidised or chlorinated fish oil; Sulphonated or sulphated or oxidised or chlorinated sperm oil; Sulphonated or sulphated or oxidised or chlorinated neats foot oil",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "34029030",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Synthetic detergents: ---- Penetrators",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "34029041",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Wetting agents: ---- Washing preparations (including auxiliary washing preparations) and cleaning preparations, having a basis of soap or other organic surface active agents",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "34029042",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Wetting agents: ---- Cleaning or degreasing preparations not having a basis of soap or other organic surface active agents",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "34029049",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Wetting agents: ---- Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "34029051",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Washing preparations whether or not containing soaps: ---- Washing preparations (including auxiliary washing preparations) and cleaning preparations, having a basis of soap or other organic surface active agents",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "34029052",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Washing preparations whether or not containing soaps: ---- Cleaning or degreasing preparations not having a basis of soap or other organic surface active agents",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "34029059",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Washing preparations whether or not containing soaps: ---- Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "34029091",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Other: ---- Washing preparations (including auxiliary washing preparations) and cleaning preparations, having a basis of soap or other organic surface active agents",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "34029092",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Other: ---- Cleaning or degreasing preparations not having a basis of soap or other organic surface active agents",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "34029099",
+   "hs6": "340290",
+   "hs6_description": "Washing and cleaning preparations; surface-active, whether or not containing soap (excluding those of heading no. 3401), including auxiliary washing preparations, not for retail sale",
    "level": 8,
    "chapter": "34",
    "description": "Other: ---- Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "3403",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "34",
    "description": "Lubricating preparations (including cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould release preparations, based on lubricants) and preparations of a kind used for the oil or grease treatment of textile materials, leather, furskins or other materials, but excluding preparations containing, as basic constituents, 70 percent or more by weight of petroleum oils or of oils obtained from bituminous minerals.",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "34031100",
+   "hs6": "340311",
+   "hs6_description": "Lubricating preparations; for the treatment of textile and similar materials (leather, furskins etc), containing less than 70% (by weight) of petroleum oils or oils obtained from bituminous minerals",
    "level": 8,
    "chapter": "34",
    "description": "Containing petroleum oils or oils obtained from bituminous minerals : -- Preparations for the treatment of textile materials, leather, furskins or other materials",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "34031900",
+   "hs6": "340319",
+   "hs6_description": "Lubricating preparations; (other than for the treatment of textile and similar materials), containing less than 70% (by weight) of petroleum oils or oils obtained from bituminous minerals",
    "level": 8,
    "chapter": "34",
    "description": "Containing petroleum oils or oils obtained from bituminous minerals : -- Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "34039100",
+   "hs6": "340391",
+   "hs6_description": "Lubricating preparations; for the treatment of textile and similar materials (leather, furskins etc), (not containing petroleum oils or oils obtained from bituminous minerals)",
    "level": 8,
    "chapter": "34",
    "description": "Other : -- preparations for the treatment of textile materials, leather, furskins or other materials",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "34039900",
+   "hs6": "340399",
+   "hs6_description": "Lubricating preparations; other than for the treatment of textile and similar materials, not containing petroleum oils or oils obtained from bituminous minerals",
    "level": 8,
    "chapter": "34",
    "description": "Other : -- Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "3404",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "34",
    "description": "Artificial waxes and prepared waxes.",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "34042000",
+   "hs6": "340420",
+   "hs6_description": "Waxes; artificial and prepared, of poly(oxyethylene) (polyethylene glycol)",
    "level": 8,
    "chapter": "34",
    "description": "Of poly(oxyethylene) (polyethylene glycol)",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "340490",
+   "hs6": "340490",
+   "hs6_description": "Waxes; artificial and prepared, other than of polyethylene glycol",
    "level": 6,
    "chapter": "34",
    "description": "Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "34049010",
+   "hs6": "340490",
+   "hs6_description": "Waxes; artificial and prepared, other than of polyethylene glycol",
    "level": 8,
    "chapter": "34",
    "description": "Sealing wax (including bottle sealing wax) in sticks, cakes or similar forms",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "34049020",
+   "hs6": "340490",
+   "hs6_description": "Waxes; artificial and prepared, other than of polyethylene glycol",
    "level": 8,
    "chapter": "34",
    "description": "Polyethylene wax",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "34049031",
+   "hs6": "340490",
+   "hs6_description": "Waxes; artificial and prepared, other than of polyethylene glycol",
    "level": 8,
    "chapter": "34",
    "description": "Artificial waxes (including water soluble waxes) prepared waxes, not emulsified or containing solvents: ---- Poly Brominated Biphenyls",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "34049032",
+   "hs6": "340490",
+   "hs6_description": "Waxes; artificial and prepared, other than of polyethylene glycol",
    "level": 8,
    "chapter": "34",
    "description": "Artificial waxes (including water soluble waxes) prepared waxes, not emulsified or containing solvents: ---- Poly Chlorinated Biphenyls",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "34049033",
+   "hs6": "340490",
+   "hs6_description": "Waxes; artificial and prepared, other than of polyethylene glycol",
    "level": 8,
    "chapter": "34",
    "description": "Artificial waxes (including water soluble waxes) prepared waxes, not emulsified or containing solvents: ---- Poly Chlorinated Terphenyls",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "34049039",
+   "hs6": "340490",
+   "hs6_description": "Waxes; artificial and prepared, other than of polyethylene glycol",
    "level": 8,
    "chapter": "34",
    "description": "Artificial waxes (including water soluble waxes) prepared waxes, not emulsified or containing solvents: ---- Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "34049090",
+   "hs6": "340490",
+   "hs6_description": "Waxes; artificial and prepared, other than of polyethylene glycol",
    "level": 8,
    "chapter": "34",
    "description": "Artificial waxes (including water soluble waxes) prepared waxes, not emulsified or containing solvents: ---- Other",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "3405",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "34",
    "description": "Polishes and creams, for footwear, furniture, floors, coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the form of paper, wadding, felt, nonwovens, cellular plastics or cellular rubber, impregnated, coated or covered with such preparations), excluding waxes of heading 34.04.",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "34051000",
+   "hs6": "340510",
+   "hs6_description": "Polishes, creams and similar preparations; for footwear or leather, excluding waxes of heading no. 3404",
    "level": 8,
    "chapter": "34",
    "description": "Polishes, creams and similar preparations for footwear or leather",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "34052000",
+   "hs6": "340520",
+   "hs6_description": "Polishes, creams and similar preparations; for the maintenance of wooden furniture, floors or other woodwork, excluding waxes of heading no. 3404",
    "level": 8,
    "chapter": "34",
    "description": "Polishes, creams and similar preparations for the maintenance of wooden furniture, floors or other woodwork",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "34053000",
+   "hs6": "340530",
+   "hs6_description": "Polishes, creams and similar preparations; for coachwork, other than metal polishes, excluding waxes of heading no. 3404",
    "level": 8,
    "chapter": "34",
    "description": "Polishes and similar preparations for coachwork, other than metal polishes",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "34054000",
+   "hs6": "340540",
+   "hs6_description": "Scouring pastes and powders and other scouring preparations; (whether or not in the form of paper, wadding, felt, nonwovens, cellular plastics, cellular rubber, impregnated, coated or covered)",
    "level": 8,
    "chapter": "34",
    "description": "Scouring pastes and powders and other scouring preparations",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "340590",
+   "hs6": "340590",
+   "hs6_description": "Polishes, creams and similar preparations; n.e.c. in heading no. 3405, excluding waxes of heading no. 3404",
    "level": 6,
    "chapter": "34",
    "description": "Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "34059010",
+   "hs6": "340590",
+   "hs6_description": "Polishes, creams and similar preparations; n.e.c. in heading no. 3405, excluding waxes of heading no. 3404",
    "level": 8,
    "chapter": "34",
    "description": "Polishes and compositions for application to metal including diamond polishing powder or paste",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "34059090",
+   "hs6": "340590",
+   "hs6_description": "Polishes, creams and similar preparations; n.e.c. in heading no. 3405, excluding waxes of heading no. 3404",
    "level": 8,
    "chapter": "34",
    "description": "Other",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "3406",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "34",
    "description": "Candles, tapers and the like.",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "340600",
+   "hs6": "340600",
+   "hs6_description": "Candles, tapers and the like",
    "level": 6,
    "chapter": "34",
    "description": "Candles, tapers and the like:",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "34060010",
+   "hs6": "340600",
+   "hs6_description": "Candles, tapers and the like",
    "level": 8,
    "chapter": "34",
    "description": "Candles",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "34060090",
+   "hs6": "340600",
+   "hs6_description": "Candles, tapers and the like",
    "level": 8,
    "chapter": "34",
    "description": "Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "3407",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "34",
    "description": "Modelling pastes, including those put up for childrens amusement; preparations known as dental wax or as dental impression compounds, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms; other preparations for use in dentistry, with a basis of plaster (of calcined gypsum or calcium sulphate).",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "340700",
+   "hs6": "340700",
+   "hs6_description": "Modelling pastes; preparations known as dental wax, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms, other preparations for use in dentistry",
    "level": 6,
    "chapter": "34",
    "description": "Modelling pastes, including those put up for children s amusement; preparations known as dental wax or as dental impression compounds, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms; other preparations for use in dentistry, with a basis of plaster (of calcined gypsum or calcium sulphate):",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "34070010",
+   "hs6": "340700",
+   "hs6_description": "Modelling pastes; preparations known as dental wax, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms, other preparations for use in dentistry",
    "level": 8,
    "chapter": "34",
    "description": "Modelling pastes, including those put up for childrens amusement",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "34070090",
+   "hs6": "340700",
+   "hs6_description": "Modelling pastes; preparations known as dental wax, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms, other preparations for use in dentistry",
    "level": 8,
    "chapter": "34",
    "description": "Other",

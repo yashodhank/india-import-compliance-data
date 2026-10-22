@@ -1,90 +1,90 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-5301,4,53,"Flax, raw or processed but not spun; flax tow and waste (including yarn waste and garnetted stock).",,,,,,2026-10-22
-53011000,8,53,"Flax, raw or retted",Free,,,,,2026-10-22
-53012100,8,53,"Flax, broken, scutched, hackled or otherwise processed, but not spun : -- broken or scutched",Free,,,,,2026-10-22
-53012900,8,53,"Flax, broken, scutched, hackled or otherwise processed, but not spun : -- Other",Free,,,,,2026-10-22
-53013000,8,53,Flax tow and waste,Free,,,,,2026-10-22
-5302,4,53,"True hemp (Cannabis sativa L.), raw or processed but not spun; tow and waste of true hemp (including yarn waste and garnetted stock).",,,,,,2026-10-22
-53021000,8,53,"True hemp, raw or retted",Free,,,,,2026-10-22
-53029000,8,53,Other,Free,,,,,2026-10-22
-5303,4,53,"Jute and other textile bast fibres (excluding flax, true hemp and ramie), raw or processed but not spun; tow and waste of these fibres (including yarn waste and garnetted stock).",,,,,,2026-10-22
-530310,6,53,"Jute and other textile bast fibres, raw or retted",,,,,,2026-10-22
-53031010,8,53,"Jute, raw or retted",Free,,,,,2026-10-22
-53031090,8,53,Other,Free,,,,,2026-10-22
-530390,6,53,Other,,,,,,2026-10-22
-53039010,8,53,Jute cutting,Free,,,,,2026-10-22
-53039090,8,53,Other,Free,,,,,2026-10-22
-5305,4,53,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres, not elsewhere specified or included, raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock).",,,,,,2026-10-22
-530500,6,53,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres, not elsewhere specified or included, raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garneted stock):",,,,,,2026-10-22
-53050010,8,53,Coir bristles fibre,Free,,,,,2026-10-22
-53050030,8,53,Curled or machine twisted coir fibre,Free,,,,,2026-10-22
-53050040,8,53,Coir pith,Free,,,,,2026-10-22
-53050050,8,53,Of Abaca,Free,,,,,2026-10-22
-53050090,8,53,Of others,Free,,,,,2026-10-22
-5306,4,53,Flax yarn.,,,,,,2026-10-22
-530610,6,53,Single,,,,,,2026-10-22
-53061010,8,53,Put up for retail sale,Free,,,,,2026-10-22
-53061090,8,53,Other,Free,,,,,2026-10-22
-530620,6,53,Multiple (folded) or cabled,,,,,,2026-10-22
-53062010,8,53,Put up for retail sale,Free,,,,,2026-10-22
-53062090,8,53,Other,Free,,,,,2026-10-22
-5307,4,53,Yarn of jute or of other textile bast fibres of heading 53.03.,,,,,,2026-10-22
-530710,6,53,Single,,,,,,2026-10-22
-53071010,8,53,Of jute,Free,,,,,2026-10-22
-53071090,8,53,Other,Free,,,,,2026-10-22
-53072000,8,53,Multiple (folded) or cabled,Free,,,,,2026-10-22
-5308,4,53,Yarn of other vegetable textile fibres; paper yarn.,,,,,,2026-10-22
-530810,6,53,Coir yarn,,,,,,2026-10-22
-53081010,8,53,Baled,Free,,,,,2026-10-22
-53081020,8,53,Spooled hanks,Free,,,,,2026-10-22
-53081090,8,53,Other,Free,,,,,2026-10-22
-53082000,8,53,True hemp yarn,Free,,,,,2026-10-22
-530890,6,53,Other,,,,,,2026-10-22
-53089010,8,53,Ramie yarn,Free,,,,,2026-10-22
-53089090,8,53,Other,Free,,,,,2026-10-22
-5309,4,53,Woven fabrics of flax.,,,,,,2026-10-22
-530911,6,53,Containing 85 percent or more by weight of flax : -- Unbleached or bleached,,,,,,2026-10-22
-53091110,8,53,Unbleached,Free,,,,,2026-10-22
-53091120,8,53,Bleached,Free,,,,,2026-10-22
-530919,6,53,Containing 85 percent or more by weight of flax : -- Other,,,,,,2026-10-22
-53091910,8,53,Dyed,Free,,,,,2026-10-22
-53091920,8,53,Printed,Free,,,,,2026-10-22
-53091990,8,53,Other,Free,,,,,2026-10-22
-530921,6,53,Containing less than 85 percent by weight of flax : -- Unbleached or bleached,,,,,,2026-10-22
-53092110,8,53,Unbleached,Free,,,,,2026-10-22
-53092120,8,53,Bleached,Free,,,,,2026-10-22
-530929,6,53,Containing less than 85 percent by weight of flax : -- Other,,,,,,2026-10-22
-53092910,8,53,Dyed,Free,,,,,2026-10-22
-53092920,8,53,Printed,Free,,,,,2026-10-22
-53092990,8,53,Other,Free,,,,,2026-10-22
-5310,4,53,Woven fabrics of jute or of other textile bast fibres of heading 53.03.,,,,,,2026-10-22
-531010,6,53,Unbleached,,,,,,2026-10-22
-53101011,8,53,Containing 100percent by weight of jute: ---- Carpet backing fabrics,Free,,,,,2026-10-22
-53101012,8,53,Containing 100percent by weight of jute: ---- Sacking fabrics,Free,,,,,2026-10-22
-53101013,8,53,Containing 100percent by weight of jute: ---- Hessian fabrics,Free,,,,,2026-10-22
-53101014,8,53,Containing 100percent by weight of jute: ---- Jute canvas,Free,,,,,2026-10-22
-53101019,8,53,Containing 100percent by weight of jute: ---- Other,Free,,,,,2026-10-22
-53101091,8,53,Other: ---- Woven blended fabrics containing more than 50percent by weight of Jute,Free,,,,,2026-10-22
-53101092,8,53,Other: ---- Stranded woven fabrics of jute containing 50percent or more by weight jute,Free,,,,,2026-10-22
-53101093,8,53,Other: ---- Jute swim fabrics,Free,,,,,2026-10-22
-53101099,8,53,Other: ---- Other,Free,,,,,2026-10-22
-531090,6,53,Other,,,,,,2026-10-22
-53109010,8,53,Bleached,Free,,,,,2026-10-22
-53109020,8,53,Decorative Fabrics,Free,,,,,2026-10-22
-53109091,8,53,Other: ---- Bleached,Free,,,,,2026-10-22
-53109092,8,53,Other: ---- Dyed,Free,,,,,2026-10-22
-53109093,8,53,Other: ---- Printed,Free,,,,,2026-10-22
-53109099,8,53,Other: ---- Other,Free,,,,,2026-10-22
-5311,4,53,Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn.,,,,,,2026-10-22
-531100,6,53,Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn :,,,,,,2026-10-22
-53110011,8,53,Of other vegetable textile fibres: ---- Unbleached,Free,,,,,2026-10-22
-53110012,8,53,Of other vegetable textile fibres: ---- Bleached,Free,,,,,2026-10-22
-53110013,8,53,Of other vegetable textile fibres: ---- Dyed,Free,,,,,2026-10-22
-53110014,8,53,Of other vegetable textile fibres: ---- Printed,Free,,,,,2026-10-22
-53110015,8,53,Of other vegetable textile fibres: ---- of coir including log form and geotextiles,Free,,,,,2026-10-22
-53110019,8,53,Of other vegetable textile fibres: ---- Other,Free,,,,,2026-10-22
-53110021,8,53,Of paper yarn: ---- Unbleached,Free,,,,,2026-10-22
-53110022,8,53,Of paper yarn: ---- Bleached,Free,,,,,2026-10-22
-53110023,8,53,Of paper yarn: ---- Dyed,Free,,,,,2026-10-22
-53110024,8,53,Of paper yarn: ---- Printed,Free,,,,,2026-10-22
-53110029,8,53,Of paper yarn: ---- Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+5301,,,4,53,"Flax, raw or processed but not spun; flax tow and waste (including yarn waste and garnetted stock).",,,,,,2026-10-22
+53011000,530110,"Flax; raw or retted, but not spun",8,53,"Flax, raw or retted",Free,,,,,2026-10-22
+53012100,530121,"Flax; broken or scutched, but not spun",8,53,"Flax, broken, scutched, hackled or otherwise processed, but not spun : -- broken or scutched",Free,,,,,2026-10-22
+53012900,530129,"Flax; hackled or otherwise processed, but not spun",8,53,"Flax, broken, scutched, hackled or otherwise processed, but not spun : -- Other",Free,,,,,2026-10-22
+53013000,530130,"Flax; tow and waste, including yarn waste and garnetted stock",8,53,Flax tow and waste,Free,,,,,2026-10-22
+5302,,,4,53,"True hemp (Cannabis sativa L.), raw or processed but not spun; tow and waste of true hemp (including yarn waste and garnetted stock).",,,,,,2026-10-22
+53021000,530210,"Hemp (cannabis sativa L.); raw or retted, but not spun",8,53,"True hemp, raw or retted",Free,,,,,2026-10-22
+53029000,530290,"Hemp (cannabis sativa L.); processed (other than retted) (but not spun), true hemp tow and waste (including yarn waste and garnetted stock)",8,53,Other,Free,,,,,2026-10-22
+5303,,,4,53,"Jute and other textile bast fibres (excluding flax, true hemp and ramie), raw or processed but not spun; tow and waste of these fibres (including yarn waste and garnetted stock).",,,,,,2026-10-22
+530310,530310,"Jute and other textile bast fibres; raw or retted, but not spun, (excluding flax, hemp (cannabis sativa L.), and ramie)",6,53,"Jute and other textile bast fibres, raw or retted",,,,,,2026-10-22
+53031010,530310,"Jute and other textile bast fibres; raw or retted, but not spun, (excluding flax, hemp (cannabis sativa L.), and ramie)",8,53,"Jute, raw or retted",Free,,,,,2026-10-22
+53031090,530310,"Jute and other textile bast fibres; raw or retted, but not spun, (excluding flax, hemp (cannabis sativa L.), and ramie)",8,53,Other,Free,,,,,2026-10-22
+530390,530390,"Jute and other textile bast fibres; processed but not spun, tow and waste of these fibres, including yarn waste and garnetted stock (excluding flax, hemp (cannabis sativa L.), and ramie)",6,53,Other,,,,,,2026-10-22
+53039010,530390,"Jute and other textile bast fibres; processed but not spun, tow and waste of these fibres, including yarn waste and garnetted stock (excluding flax, hemp (cannabis sativa L.), and ramie)",8,53,Jute cutting,Free,,,,,2026-10-22
+53039090,530390,"Jute and other textile bast fibres; processed but not spun, tow and waste of these fibres, including yarn waste and garnetted stock (excluding flax, hemp (cannabis sativa L.), and ramie)",8,53,Other,Free,,,,,2026-10-22
+5305,,,4,53,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres, not elsewhere specified or included, raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock).",,,,,,2026-10-22
+530500,530500,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",6,53,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres, not elsewhere specified or included, raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garneted stock):",,,,,,2026-10-22
+53050010,530500,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",8,53,Coir bristles fibre,Free,,,,,2026-10-22
+53050030,530500,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",8,53,Curled or machine twisted coir fibre,Free,,,,,2026-10-22
+53050040,530500,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",8,53,Coir pith,Free,,,,,2026-10-22
+53050050,530500,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",8,53,Of Abaca,Free,,,,,2026-10-22
+53050090,530500,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)",8,53,Of others,Free,,,,,2026-10-22
+5306,,,4,53,Flax yarn.,,,,,,2026-10-22
+530610,530610,"Yarn; of flax, single",6,53,Single,,,,,,2026-10-22
+53061010,530610,"Yarn; of flax, single",8,53,Put up for retail sale,Free,,,,,2026-10-22
+53061090,530610,"Yarn; of flax, single",8,53,Other,Free,,,,,2026-10-22
+530620,530620,"Yarn; of flax, multiple (folded) or cabled",6,53,Multiple (folded) or cabled,,,,,,2026-10-22
+53062010,530620,"Yarn; of flax, multiple (folded) or cabled",8,53,Put up for retail sale,Free,,,,,2026-10-22
+53062090,530620,"Yarn; of flax, multiple (folded) or cabled",8,53,Other,Free,,,,,2026-10-22
+5307,,,4,53,Yarn of jute or of other textile bast fibres of heading 53.03.,,,,,,2026-10-22
+530710,530710,"Yarn; of jute or of other textile bast fibres, single",6,53,Single,,,,,,2026-10-22
+53071010,530710,"Yarn; of jute or of other textile bast fibres, single",8,53,Of jute,Free,,,,,2026-10-22
+53071090,530710,"Yarn; of jute or of other textile bast fibres, single",8,53,Other,Free,,,,,2026-10-22
+53072000,530720,"Yarn; of jute or of other textile bast fibres, multiple (folded) or cabled",8,53,Multiple (folded) or cabled,Free,,,,,2026-10-22
+5308,,,4,53,Yarn of other vegetable textile fibres; paper yarn.,,,,,,2026-10-22
+530810,530810,Yarn; of coir,6,53,Coir yarn,,,,,,2026-10-22
+53081010,530810,Yarn; of coir,8,53,Baled,Free,,,,,2026-10-22
+53081020,530810,Yarn; of coir,8,53,Spooled hanks,Free,,,,,2026-10-22
+53081090,530810,Yarn; of coir,8,53,Other,Free,,,,,2026-10-22
+53082000,530820,Yarn; of hemp (cannabis sativa L.),8,53,True hemp yarn,Free,,,,,2026-10-22
+530890,530890,"Yarn; of vegetable textile fibres n.e.c. in heading no. 5306, 5307 and 5308",6,53,Other,,,,,,2026-10-22
+53089010,530890,"Yarn; of vegetable textile fibres n.e.c. in heading no. 5306, 5307 and 5308",8,53,Ramie yarn,Free,,,,,2026-10-22
+53089090,530890,"Yarn; of vegetable textile fibres n.e.c. in heading no. 5306, 5307 and 5308",8,53,Other,Free,,,,,2026-10-22
+5309,,,4,53,Woven fabrics of flax.,,,,,,2026-10-22
+530911,530911,"Fabrics, woven; of flax, containing 85% or more flax, unbleached or bleached",6,53,Containing 85 percent or more by weight of flax : -- Unbleached or bleached,,,,,,2026-10-22
+53091110,530911,"Fabrics, woven; of flax, containing 85% or more flax, unbleached or bleached",8,53,Unbleached,Free,,,,,2026-10-22
+53091120,530911,"Fabrics, woven; of flax, containing 85% or more flax, unbleached or bleached",8,53,Bleached,Free,,,,,2026-10-22
+530919,530919,"Fabrics, woven; of flax, containing 85% or more flax, other than bleached or unbleached",6,53,Containing 85 percent or more by weight of flax : -- Other,,,,,,2026-10-22
+53091910,530919,"Fabrics, woven; of flax, containing 85% or more flax, other than bleached or unbleached",8,53,Dyed,Free,,,,,2026-10-22
+53091920,530919,"Fabrics, woven; of flax, containing 85% or more flax, other than bleached or unbleached",8,53,Printed,Free,,,,,2026-10-22
+53091990,530919,"Fabrics, woven; of flax, containing 85% or more flax, other than bleached or unbleached",8,53,Other,Free,,,,,2026-10-22
+530921,530921,"Fabrics, woven; of flax, containing less than 85% flax, unbleached or bleached",6,53,Containing less than 85 percent by weight of flax : -- Unbleached or bleached,,,,,,2026-10-22
+53092110,530921,"Fabrics, woven; of flax, containing less than 85% flax, unbleached or bleached",8,53,Unbleached,Free,,,,,2026-10-22
+53092120,530921,"Fabrics, woven; of flax, containing less than 85% flax, unbleached or bleached",8,53,Bleached,Free,,,,,2026-10-22
+530929,530929,"Fabrics, woven; of flax, containing less than 85% flax, other than unbleached or bleached",6,53,Containing less than 85 percent by weight of flax : -- Other,,,,,,2026-10-22
+53092910,530929,"Fabrics, woven; of flax, containing less than 85% flax, other than unbleached or bleached",8,53,Dyed,Free,,,,,2026-10-22
+53092920,530929,"Fabrics, woven; of flax, containing less than 85% flax, other than unbleached or bleached",8,53,Printed,Free,,,,,2026-10-22
+53092990,530929,"Fabrics, woven; of flax, containing less than 85% flax, other than unbleached or bleached",8,53,Other,Free,,,,,2026-10-22
+5310,,,4,53,Woven fabrics of jute or of other textile bast fibres of heading 53.03.,,,,,,2026-10-22
+531010,531010,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",6,53,Unbleached,,,,,,2026-10-22
+53101011,531010,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",8,53,Containing 100percent by weight of jute: ---- Carpet backing fabrics,Free,,,,,2026-10-22
+53101012,531010,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",8,53,Containing 100percent by weight of jute: ---- Sacking fabrics,Free,,,,,2026-10-22
+53101013,531010,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",8,53,Containing 100percent by weight of jute: ---- Hessian fabrics,Free,,,,,2026-10-22
+53101014,531010,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",8,53,Containing 100percent by weight of jute: ---- Jute canvas,Free,,,,,2026-10-22
+53101019,531010,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",8,53,Containing 100percent by weight of jute: ---- Other,Free,,,,,2026-10-22
+53101091,531010,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",8,53,Other: ---- Woven blended fabrics containing more than 50percent by weight of Jute,Free,,,,,2026-10-22
+53101092,531010,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",8,53,Other: ---- Stranded woven fabrics of jute containing 50percent or more by weight jute,Free,,,,,2026-10-22
+53101093,531010,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",8,53,Other: ---- Jute swim fabrics,Free,,,,,2026-10-22
+53101099,531010,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, unbleached",8,53,Other: ---- Other,Free,,,,,2026-10-22
+531090,531090,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",6,53,Other,,,,,,2026-10-22
+53109010,531090,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",8,53,Bleached,Free,,,,,2026-10-22
+53109020,531090,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",8,53,Decorative Fabrics,Free,,,,,2026-10-22
+53109091,531090,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",8,53,Other: ---- Bleached,Free,,,,,2026-10-22
+53109092,531090,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",8,53,Other: ---- Dyed,Free,,,,,2026-10-22
+53109093,531090,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",8,53,Other: ---- Printed,Free,,,,,2026-10-22
+53109099,531090,"Fabrics, woven; of jute or of other textile bast fibres of heading no. 5303, other than unbleached",8,53,Other: ---- Other,Free,,,,,2026-10-22
+5311,,,4,53,Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn.,,,,,,2026-10-22
+531100,531100,"Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",6,53,Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn :,,,,,,2026-10-22
+53110011,531100,"Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",8,53,Of other vegetable textile fibres: ---- Unbleached,Free,,,,,2026-10-22
+53110012,531100,"Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",8,53,Of other vegetable textile fibres: ---- Bleached,Free,,,,,2026-10-22
+53110013,531100,"Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",8,53,Of other vegetable textile fibres: ---- Dyed,Free,,,,,2026-10-22
+53110014,531100,"Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",8,53,Of other vegetable textile fibres: ---- Printed,Free,,,,,2026-10-22
+53110015,531100,"Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",8,53,Of other vegetable textile fibres: ---- of coir including log form and geotextiles,Free,,,,,2026-10-22
+53110019,531100,"Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",8,53,Of other vegetable textile fibres: ---- Other,Free,,,,,2026-10-22
+53110021,531100,"Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",8,53,Of paper yarn: ---- Unbleached,Free,,,,,2026-10-22
+53110022,531100,"Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",8,53,Of paper yarn: ---- Bleached,Free,,,,,2026-10-22
+53110023,531100,"Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",8,53,Of paper yarn: ---- Dyed,Free,,,,,2026-10-22
+53110024,531100,"Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",8,53,Of paper yarn: ---- Printed,Free,,,,,2026-10-22
+53110029,531100,"Fabrics, woven; of vegetable textile fibres n.e.c. in heading no. 5309 and 5310, woven fabrics of paper yarn",8,53,Of paper yarn: ---- Other,Free,,,,,2026-10-22

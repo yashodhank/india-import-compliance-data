@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "3901",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Polymers of ethylene, in primary forms.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "390110",
+   "hs6": "390110",
+   "hs6_description": "Ethylene polymers; in primary forms, polyethylene having a specific gravity of less than 0.94",
    "level": 6,
    "chapter": "39",
    "description": "Polymers of ethylene, in primary forms. - Polyethylene having a specific gravity of less than 0.94",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "39011010",
+   "hs6": "390110",
+   "hs6_description": "Ethylene polymers; in primary forms, polyethylene having a specific gravity of less than 0.94",
    "level": 8,
    "chapter": "39",
    "description": "Linear low density polyethylene (LLDPE), in which ethylene monomer unit contributes 95 percent or more by weight of the total polymer content",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "39011020",
+   "hs6": "390110",
+   "hs6_description": "Ethylene polymers; in primary forms, polyethylene having a specific gravity of less than 0.94",
    "level": 8,
    "chapter": "39",
    "description": "Low density polyethylene (LDPE)",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "39011090",
+   "hs6": "390110",
+   "hs6_description": "Ethylene polymers; in primary forms, polyethylene having a specific gravity of less than 0.94",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "39012000",
+   "hs6": "390120",
+   "hs6_description": "Ethylene polymers; in primary forms, polyethylene having a specific gravity of 0.94 or more",
    "level": 8,
    "chapter": "39",
    "description": "Polyethylene having a specific gravity of 0.94 or more",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "39013000",
+   "hs6": "390130",
+   "hs6_description": "Ethylene polymers; in primary forms, ethylene-vinyl acetate copolymers",
    "level": 8,
    "chapter": "39",
    "description": "Ethylene-vinyl acetate copolymers",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "390140",
+   "hs6": "390140",
+   "hs6_description": "Ethylene polymers; in primary forms, ethylene-alpha-olefin copolymers, having a specific gravity of less than 0.94",
    "level": 6,
    "chapter": "39",
    "description": "Ethylene-alpha-olefin copolymers, having a specific gravity less than 0.94",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "39014010",
+   "hs6": "390140",
+   "hs6_description": "Ethylene polymers; in primary forms, ethylene-alpha-olefin copolymers, having a specific gravity of less than 0.94",
    "level": 8,
    "chapter": "39",
    "description": "Linear low density polyethylene (LLDPE), in which ethylene monomer unit contributes less than 95 percent by weight of the total polymer content",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "39014090",
+   "hs6": "390140",
+   "hs6_description": "Ethylene polymers; in primary forms, ethylene-alpha-olefin copolymers, having a specific gravity of less than 0.94",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "39019000",
+   "hs6": "390190",
+   "hs6_description": "Ethylene polymers; in primary forms, n.e.c. in heading no. 3901",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "3902",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Polymers of propylene or of other olefins, in primary forms.",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "39021000",
+   "hs6": "390210",
+   "hs6_description": "Propylene, other olefin polymers; polypropylene in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polypropylene",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "390220",
+   "hs6": "390220",
+   "hs6_description": "Propylene, other olefin polymers; polyisobutylene in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Poly iso butylene",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "39022000",
+   "hs6": "390220",
+   "hs6_description": "Propylene, other olefin polymers; polyisobutylene in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Poly iso butylenes",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "39023000",
+   "hs6": "390230",
+   "hs6_description": "Propylene, other olefin polymers; propylene copolymers in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Propylene copolymers",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "39029000",
+   "hs6": "390290",
+   "hs6_description": "Propylene, other olefin polymers; n.e.c. in heading no. 3902, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "3903",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Polymers of styrene, in primary forms.",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "39031100",
+   "hs6": "390311",
+   "hs6_description": "Styrene polymers; expansible polystyrene, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polystyrene : -- Expansible",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "390319",
+   "hs6": "390319",
+   "hs6_description": "Styrene polymers; (other than expansible polystyrene), in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Polystyrene : -- Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "39031910",
+   "hs6": "390319",
+   "hs6_description": "Styrene polymers; (other than expansible polystyrene), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Moulding Powder",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "39031990",
+   "hs6": "390319",
+   "hs6_description": "Styrene polymers; (other than expansible polystyrene), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "39032000",
+   "hs6": "390320",
+   "hs6_description": "Styrene polymers; styrene-acrylonitrile (SAN) copolymers, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Styrene-acrylonitrile (SAN) copolymers",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "39033000",
+   "hs6": "390330",
+   "hs6_description": "Styrene polymers; acrylonitrile-butadiene-styrene (ABS) copolymers, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Acrylonitrile-butadine-styrene (ABS) copolymers",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "39039010",
+   "hs6": "390390",
+   "hs6_description": "Styrene polymers; in primary forms, n.e.c. in heading no. 3903",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Copolymers, solely of styrene with allyl alcohol, of any acetyl value of 175 or more",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "39039020",
+   "hs6": "390390",
+   "hs6_description": "Styrene polymers; in primary forms, n.e.c. in heading no. 3903",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Brominated polystyrene, containing by weight 58percent or more but not more than 71percent of bromine, in one of the forms mentioned in Note 6(b) to this Chapter",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "39039090",
+   "hs6": "390390",
+   "hs6_description": "Styrene polymers; in primary forms, n.e.c. in heading no. 3903",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "3904",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Polymers of vinyl chloride or of other halogenated olefins, primary forms.",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "390410",
+   "hs6": "390410",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; poly(vinyl chloride), not mixed with any other substances, in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Poly(vinyl chloride), not mixed with any other substances",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "39041010",
+   "hs6": "390410",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; poly(vinyl chloride), not mixed with any other substances, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Poly (vinyl chloride), not mixed with any other substances: ---- Binders for pigments",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "39041020",
+   "hs6": "390410",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; poly(vinyl chloride), not mixed with any other substances, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Suspension grade PVC resin",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "39041090",
+   "hs6": "390410",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; poly(vinyl chloride), not mixed with any other substances, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Poly (vinyl chloride), not mixed with any other substances: ---- Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "390421",
+   "hs6": "390421",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; non-plasticised poly(vinyl chloride), in primary forms, mixed with other substances",
    "level": 6,
    "chapter": "39",
    "description": "Other poly(vinyl chloride) : -- Non-plasticised",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "39042110",
+   "hs6": "390421",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; non-plasticised poly(vinyl chloride), in primary forms, mixed with other substances",
    "level": 8,
    "chapter": "39",
    "description": "Poly (vinyl chloride) resins",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "39042190",
+   "hs6": "390421",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; non-plasticised poly(vinyl chloride), in primary forms, mixed with other substances",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "39042200",
+   "hs6": "390422",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; plasticised poly(vinyl chloride), in primary forms, mixed with other substances",
    "level": 8,
    "chapter": "39",
    "description": "Other poly (vinyl chloride), mixed with other substances:--- Plasticised",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "390430",
+   "hs6": "390430",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; vinyl chloride-vinyl acetate copolymers, in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Vinyl chloride-vinyl acetate copolymers",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "39043010",
+   "hs6": "390430",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; vinyl chloride-vinyl acetate copolymers, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Poly (vinyl derivatives)",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "39043090",
+   "hs6": "390430",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; vinyl chloride-vinyl acetate copolymers, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "39044000",
+   "hs6": "390440",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; vinyl chloride copolymers, in primary forms n.e.c. in heading no. 3904",
    "level": 8,
    "chapter": "39",
    "description": "Other vinyl chloride copolymers",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "390450",
+   "hs6": "390450",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; vinylidene chloride polymers, in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Vinylidene chloride polymers",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "39045010",
+   "hs6": "390450",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; vinylidene chloride polymers, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Vinylidene chloride polymers: ---- Copolymer of vinylidene chloride with acrylonitrite, in the form of expansible beads of a diameter of 4 micrometers or more but not more than 20 micrometers",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "39045090",
+   "hs6": "390450",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; vinylidene chloride polymers, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Vinylidene chloride polymers: ---- Other",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "39046100",
+   "hs6": "390461",
+   "hs6_description": "Halogenated olefin polymers; fluoro-polymers, polytetrafluoroethylene, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Fluoro-polymers : -- Polytetrafluoroethylene",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "39046910",
+   "hs6": "390469",
+   "hs6_description": "Halogenated olefin polymers; fluoro-polymers (other than polytetrafluoroethylene), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Poly (vinyl fluoride), in one of the forms mentioned in Note 6(b) to this Chapter",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "39046990",
+   "hs6": "390469",
+   "hs6_description": "Halogenated olefin polymers; fluoro-polymers (other than polytetrafluoroethylene), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "390490",
+   "hs6": "390490",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; n.e.c. in heading no. 3904",
    "level": 6,
    "chapter": "39",
    "description": "Other",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "39049010",
+   "hs6": "390490",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; n.e.c. in heading no. 3904",
    "level": 8,
    "chapter": "39",
    "description": "Chlorinated poly vinyl chloride (CPVC) resin",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "39049090",
+   "hs6": "390490",
+   "hs6_description": "Vinyl chloride, other halogenated olefin polymers; n.e.c. in heading no. 3904",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "3905",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "POLYMERS OF VINYL ACETATE OR OF OTHERVINYL ESTERS, IN PRIMARY FORMS; OTHER VINYL POLYMERS IN PRIMARY FORMS",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "390512",
+   "hs6": "390512",
+   "hs6_description": "Poly(vinyl acetate); in aqueous dispersion, in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Poly (vinyl acetate) :--In aqueous dispersion:",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "39051210",
+   "hs6": "390512",
+   "hs6_description": "Poly(vinyl acetate); in aqueous dispersion, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Poly(vinyl acetate) (PVA), moulding material",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "39051220",
+   "hs6": "390512",
+   "hs6_description": "Poly(vinyl acetate); in aqueous dispersion, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Poly(vinyl acetate) resins",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "39051290",
+   "hs6": "390512",
+   "hs6_description": "Poly(vinyl acetate); in aqueous dispersion, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "390519",
+   "hs6": "390519",
+   "hs6_description": "Poly(vinyl acetate); (other than in aqueous dispersion), in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Poly (vinyl acetate) :-- Other :",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "39051910",
+   "hs6": "390519",
+   "hs6_description": "Poly(vinyl acetate); (other than in aqueous dispersion), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Poly(vinyl acetate) (PVA) moulding material",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "39051920",
+   "hs6": "390519",
+   "hs6_description": "Poly(vinyl acetate); (other than in aqueous dispersion), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Poly(vinyl acetate) and resins",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "39051990",
+   "hs6": "390519",
+   "hs6_description": "Poly(vinyl acetate); (other than in aqueous dispersion), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "39052100",
+   "hs6": "390521",
+   "hs6_description": "Vinyl acetate copolymers; in aqueous dispersion, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Vinyl acetate copolymers: ---- In aqueous dispersion",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "39052900",
+   "hs6": "390529",
+   "hs6_description": "Vinyl acetate copolymers; (other than in aqueous dispersion), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Vinyl acetate copolymers: ---- Other",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "39053000",
+   "hs6": "390530",
+   "hs6_description": "Poly(vinyl alcohol); whether or not containing unhydrolysed acetate groups",
    "level": 8,
    "chapter": "39",
    "description": "Vinyl acetate copolymers: ---- Poly(vinyl alcohol), whether or not containing unhydrolysed acetate groups",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "39059100",
+   "hs6": "390591",
+   "hs6_description": "Vinyl acetate, vinyl ester polymers, vinyl polymers; n.e.c. in heading no. 3905, in primary forms, copolymers",
    "level": 8,
    "chapter": "39",
    "description": "Other : -- Copolymers",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "390599",
+   "hs6": "390599",
+   "hs6_description": "Vinyl acetate, vinyl ester polymers, vinyl polymers; n.e.c. in heading no. 3905, in primary forms, other than copolymers",
    "level": 6,
    "chapter": "39",
    "description": "Other : -- Other",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "39059910",
+   "hs6": "390599",
+   "hs6_description": "Vinyl acetate, vinyl ester polymers, vinyl polymers; n.e.c. in heading no. 3905, in primary forms, other than copolymers",
    "level": 8,
    "chapter": "39",
    "description": "Poly(vinyl pirolidone) (p alcohol)",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "39059990",
+   "hs6": "390599",
+   "hs6_description": "Vinyl acetate, vinyl ester polymers, vinyl polymers; n.e.c. in heading no. 3905, in primary forms, other than copolymers",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "3906",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Acrylic polymers in primary forms.",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "39061010",
+   "hs6": "390610",
+   "hs6_description": "Acrylic polymers; poly(methyl methacrylate), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polymethyl methacrylate: ---- Binders for pigments or inks",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "39061090",
+   "hs6": "390610",
+   "hs6_description": "Acrylic polymers; poly(methyl methacrylate), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polymethyl methacrylate: ---- Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "390690",
+   "hs6": "390690",
+   "hs6_description": "Acrylic polymers; (other than polymethyl methacrylate), in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Other",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "39069040",
+   "hs6": "390690",
+   "hs6_description": "Acrylic polymers; (other than polymethyl methacrylate), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polymethyl methacrylate: ---- Poly (acrylic acid)",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "39069050",
+   "hs6": "390690",
+   "hs6_description": "Acrylic polymers; (other than polymethyl methacrylate), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polymethyl methacrylate: ---- Polyacrylonitrile (PAN)",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "39069060",
+   "hs6": "390690",
+   "hs6_description": "Acrylic polymers; (other than polymethyl methacrylate), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polymethyl methacrylate: ---- Copolymers of acrylonitrile",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "39069070",
+   "hs6": "390690",
+   "hs6_description": "Acrylic polymers; (other than polymethyl methacrylate), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polymethyl methacrylate: ---- Sodium polyacrylate",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "39069090",
+   "hs6": "390690",
+   "hs6_description": "Acrylic polymers; (other than polymethyl methacrylate), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polymethyl methacrylate: ---- Other",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "3907",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms.",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "39071000",
+   "hs6": "390710",
+   "hs6_description": "Polyacetals; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polyacetals",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "39072100",
+   "hs6": "390721",
+   "hs6_description": "Polyethers other than polyacetals; in primary forms, bis(polyoxyethylene) methylphosphonate",
    "level": 8,
    "chapter": "39",
    "description": "Other polyethers: - - Bis(polyoxyethylene) methylphosphonate",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "390729",
+   "hs6": "390729",
+   "hs6_description": "Polyethers other than polyacetals, and bis(polyoxyethylene) methylphosphonate; in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Other polyethers: - - Other:",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "39072910",
+   "hs6": "390729",
+   "hs6_description": "Polyethers other than polyacetals, and bis(polyoxyethylene) methylphosphonate; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other polyethers: - - - Poly(ether alcohols)",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "39072990",
+   "hs6": "390729",
+   "hs6_description": "Polyethers other than polyacetals, and bis(polyoxyethylene) methylphosphonate; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other polyethers: - - - Other",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "390730",
+   "hs6": "390730",
+   "hs6_description": "Epoxide resins; in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Epoxide resins",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "39073010",
+   "hs6": "390730",
+   "hs6_description": "Epoxide resins; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Epoxy resins",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "39073090",
+   "hs6": "390730",
+   "hs6_description": "Epoxide resins; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "39074000",
+   "hs6": "390740",
+   "hs6_description": "Polycarbonates; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polycarbonates",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "39075000",
+   "hs6": "390750",
+   "hs6_description": "Alkyd resins; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Alkyd resins",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "390761",
+   "hs6": "390761",
+   "hs6_description": "Poly(ethylene terephthalate); in primary forms, having a viscosity of 78ml/g or higher",
    "level": 6,
    "chapter": "39",
    "description": "Poly(ethylene terephthalate) : -- Having a viscosity number of 78 ml/g or higher",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "39076110",
+   "hs6": "390761",
+   "hs6_description": "Poly(ethylene terephthalate); in primary forms, having a viscosity of 78ml/g or higher",
    "level": 8,
    "chapter": "39",
    "description": "PET flake (chip)",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "39076190",
+   "hs6": "390761",
+   "hs6_description": "Poly(ethylene terephthalate); in primary forms, having a viscosity of 78ml/g or higher",
    "level": 8,
    "chapter": "39",
    "description": "Other primary form",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "390769",
+   "hs6": "390769",
+   "hs6_description": "Poly(ethylene terephthalate); in primary forms, having a viscosity of less than 78ml/g",
    "level": 6,
    "chapter": "39",
    "description": "Poly(ethylene terephthalate) : -- Other",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "39076930",
+   "hs6": "390769",
+   "hs6_description": "Poly(ethylene terephthalate); in primary forms, having a viscosity of less than 78ml/g",
    "level": 8,
    "chapter": "39",
    "description": "PET flake (chip)",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "39076990",
+   "hs6": "390769",
+   "hs6_description": "Poly(ethylene terephthalate); in primary forms, having a viscosity of less than 78ml/g",
    "level": 8,
    "chapter": "39",
    "description": "Other primary form",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "39077000",
+   "hs6": "390770",
+   "hs6_description": "Poly(lactic acid); in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Poly(lactic acid)",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "390791",
+   "hs6": "390791",
+   "hs6_description": "Polyesters; n.e.c. in heading no. 3907, unsaturated, in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Other polyesters : -- Unsaturated",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "39079110",
+   "hs6": "390791",
+   "hs6_description": "Polyesters; n.e.c. in heading no. 3907, unsaturated, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Maleic resins",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "39079120",
+   "hs6": "390791",
+   "hs6_description": "Polyesters; n.e.c. in heading no. 3907, unsaturated, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polyester or contract resins",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "39079130",
+   "hs6": "390791",
+   "hs6_description": "Polyesters; n.e.c. in heading no. 3907, unsaturated, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Fumeric resins",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "39079140",
+   "hs6": "390791",
+   "hs6_description": "Polyesters; n.e.c. in heading no. 3907, unsaturated, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Diallyl phthalate resins",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "39079150",
+   "hs6": "390791",
+   "hs6_description": "Polyesters; n.e.c. in heading no. 3907, unsaturated, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Poly (butylene terepthalate)",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "39079190",
+   "hs6": "390791",
+   "hs6_description": "Polyesters; n.e.c. in heading no. 3907, unsaturated, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "39079900",
+   "hs6": "390799",
+   "hs6_description": "Polyesters; n.e.c. in heading no. 3907, saturated, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other polyesters : -- Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "3908",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Polyamides in primary forms.",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "390810",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "39081011",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Flake (chip)",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "39081019",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other primary form",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "39081021",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Flake (chip)",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "39081029",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other primary form",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "39081031",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Flake (chip)",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "39081039",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other primary form",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "39081041",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Flake(chip)",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "39081049",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other primary form",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "39081051",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Flake (chip)",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "39081059",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other primary form",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "39081061",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Flake (chip)",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "39081069",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other primary form",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "39081071",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Flake (chip)",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "39081079",
+   "hs6": "390810",
+   "hs6_description": "Polyamides; polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other primary form",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "39089000",
+   "hs6": "390890",
+   "hs6_description": "Polyamides; n.e.c. in heading no. 3908, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "3909",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Amino-resins, phenolic resins and polyurethanes, in primary forms.",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "390910",
+   "hs6": "390910",
+   "hs6_description": "Amino-resins; urea and thiourea resins, in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Urea resins; thiourea resins",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "39091010",
+   "hs6": "390910",
+   "hs6_description": "Amino-resins; urea and thiourea resins, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Urea formaldehyde moulding powder",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "39091090",
+   "hs6": "390910",
+   "hs6_description": "Amino-resins; urea and thiourea resins, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "39092010",
+   "hs6": "390920",
+   "hs6_description": "Amino-resins; melamine resins, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Melamine formaldehyde resins",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "39092090",
+   "hs6": "390920",
+   "hs6_description": "Amino-resins; melamine resins, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "39093100",
+   "hs6": "390931",
+   "hs6_description": "Amino-resins; n.e.c. in heading no. 3909, in primary forms, poly(methylene phenyl isocyanate) (Crude MDI, polymeric MDI)",
    "level": 8,
    "chapter": "39",
    "description": "Other amino-resins : -- Poly(methylene phenyl isocyanate) (crude MDI, polymeric MDI)",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "390939",
+   "hs6": "390939",
+   "hs6_description": "Amino-resins; n.e.c. in heading no. 3909, in primary forms, other than poly(methylene phenyl isocyanate) (Crude MDI, polymeric MDI)",
    "level": 6,
    "chapter": "39",
    "description": "Other amino-resins : -- Other",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "39093910",
+   "hs6": "390939",
+   "hs6_description": "Amino-resins; n.e.c. in heading no. 3909, in primary forms, other than poly(methylene phenyl isocyanate) (Crude MDI, polymeric MDI)",
    "level": 8,
    "chapter": "39",
    "description": "Poly(phenylene oxide)",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "39093990",
+   "hs6": "390939",
+   "hs6_description": "Amino-resins; n.e.c. in heading no. 3909, in primary forms, other than poly(methylene phenyl isocyanate) (Crude MDI, polymeric MDI)",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "390940",
+   "hs6": "390940",
+   "hs6_description": "Phenolic resins; in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Phenolic resins",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "39094010",
+   "hs6": "390940",
+   "hs6_description": "Phenolic resins; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Cresol formaldehyde oxide",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "39094020",
+   "hs6": "390940",
+   "hs6_description": "Phenolic resins; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Phenol formaldehyde resins",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "39094030",
+   "hs6": "390940",
+   "hs6_description": "Phenolic resins; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Alkyl Phenol formaldehyde resins",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "39094040",
+   "hs6": "390940",
+   "hs6_description": "Phenolic resins; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Ketonic resins",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "39094050",
+   "hs6": "390940",
+   "hs6_description": "Phenolic resins; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Phenoxi resins",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "39094060",
+   "hs6": "390940",
+   "hs6_description": "Phenolic resins; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Terpene phenolic resins",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "39094090",
+   "hs6": "390940",
+   "hs6_description": "Phenolic resins; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "39095000",
+   "hs6": "390950",
+   "hs6_description": "Polyurethanes; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polyurethanes",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "3910",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Silicones in primary forms.",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "391000",
+   "hs6": "391000",
+   "hs6_description": "Silicones; in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Silicones in primary forms",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "39100010",
+   "hs6": "391000",
+   "hs6_description": "Silicones; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Silicone resins",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "39100020",
+   "hs6": "391000",
+   "hs6_description": "Silicones; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Silicone oil",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "39100090",
+   "hs6": "391000",
+   "hs6_description": "Silicones; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "3911",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Petroleum resins, coumarone-indene resins, polyterpenes, polysulphides, polysulphones and other products specified in Note 3 to this Chapter, not elsewhere specified or included, in primary forms.",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "391110",
+   "hs6": "391110",
+   "hs6_description": "Petroleum resins, coumarone, indene or coumarone-indene resins and polyterpenes; in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "petroleum resins, coumarone, indene or coumarone-indene resins and polyterpenes",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "39111010",
+   "hs6": "391110",
+   "hs6_description": "Petroleum resins, coumarone, indene or coumarone-indene resins and polyterpenes; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Coumarone-indene resins",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "39111090",
+   "hs6": "391110",
+   "hs6_description": "Petroleum resins, coumarone, indene or coumarone-indene resins and polyterpenes; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "39112000",
+   "hs6": "391120",
+   "hs6_description": "Petroleum resins, poly(1,3-phenylene methylphosphonate), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Poly (1,3-phenylene methylphosphonate)",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "391190",
+   "hs6": "391190",
+   "hs6_description": "Polysulphides, polysulphones and similar products of chemical synthesis n.e.c. in chapter 39; in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Other",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "39119010",
+   "hs6": "391190",
+   "hs6_description": "Polysulphides, polysulphones and similar products of chemical synthesis n.e.c. in chapter 39; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Polysulphones",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "39119090",
+   "hs6": "391190",
+   "hs6_description": "Polysulphides, polysulphones and similar products of chemical synthesis n.e.c. in chapter 39; in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "3912",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Cellulose and its chemical derivatives, not elsewhere specified or included, in primary forms.",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "391211",
+   "hs6": "391211",
+   "hs6_description": "Cellulose acetates; non-plasticised, in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Cellulose acetates : -- Non-plasticised",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "39121110",
+   "hs6": "391211",
+   "hs6_description": "Cellulose acetates; non-plasticised, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Cellulose acetate flakes",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "39121120",
+   "hs6": "391211",
+   "hs6_description": "Cellulose acetates; non-plasticised, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Cellulose acetate moulding powder",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "39121130",
+   "hs6": "391211",
+   "hs6_description": "Cellulose acetates; non-plasticised, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Cellulose acetobutyrate moulding powder",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "39121140",
+   "hs6": "391211",
+   "hs6_description": "Cellulose acetates; non-plasticised, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Cellulose nitrate, dynamic grade",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "39121190",
+   "hs6": "391211",
+   "hs6_description": "Cellulose acetates; non-plasticised, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "391212",
+   "hs6": "391212",
+   "hs6_description": "Cellulose acetates; plasticised, in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Cellulose acetates : -- Plasticised",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "39121210",
+   "hs6": "391212",
+   "hs6_description": "Cellulose acetates; plasticised, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Cellulose acetate flakes",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "39121220",
+   "hs6": "391212",
+   "hs6_description": "Cellulose acetates; plasticised, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Cellulose acetate moulding powder",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "39121230",
+   "hs6": "391212",
+   "hs6_description": "Cellulose acetates; plasticised, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Cellulose acetobutyrate moulding powder",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "39121290",
+   "hs6": "391212",
+   "hs6_description": "Cellulose acetates; plasticised, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "391220",
+   "hs6": "391220",
+   "hs6_description": "Cellulose nitrates (including collodions); in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Cellulose nitrates (including collodions)",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "39122011",
+   "hs6": "391220",
+   "hs6_description": "Cellulose nitrates (including collodions); in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Non-plasticised: ---- Moulding powders",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "39122019",
+   "hs6": "391220",
+   "hs6_description": "Cellulose nitrates (including collodions); in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Non-plasticised: ---- Other",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "39122021",
+   "hs6": "391220",
+   "hs6_description": "Cellulose nitrates (including collodions); in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Plasticised: ---- Moulding powders",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "39122029",
+   "hs6": "391220",
+   "hs6_description": "Cellulose nitrates (including collodions); in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Plasticised: ---- Other",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "39123100",
+   "hs6": "391231",
+   "hs6_description": "Cellulose ethers; carboxymethylcellulose and its salts, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Cellulose ethers : -- Carboxymethylcellulose and its salts",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "391239",
+   "hs6": "391239",
+   "hs6_description": "Cellulose ethers; (other than carboxymethylcellulose and its salts), in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Cellulose ethers : -- Other",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "39123911",
+   "hs6": "391239",
+   "hs6_description": "Cellulose ethers; (other than carboxymethylcellulose and its salts), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Ethylcellulose",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "39123912",
+   "hs6": "391239",
+   "hs6_description": "Cellulose ethers; (other than carboxymethylcellulose and its salts), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Methylcellulose",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "39123919",
+   "hs6": "391239",
+   "hs6_description": "Cellulose ethers; (other than carboxymethylcellulose and its salts), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other cellulose ethers",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "39123921",
+   "hs6": "391239",
+   "hs6_description": "Cellulose ethers; (other than carboxymethylcellulose and its salts), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Plasticised: ---- Ethyl cellulose",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "39123922",
+   "hs6": "391239",
+   "hs6_description": "Cellulose ethers; (other than carboxymethylcellulose and its salts), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Plasticised: ---- Methyl cellulose",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "39123929",
+   "hs6": "391239",
+   "hs6_description": "Cellulose ethers; (other than carboxymethylcellulose and its salts), in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Plasticised: ---- Other cellulose ether",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "391290",
+   "hs6": "391290",
+   "hs6_description": "Cellulose and its chemical derivatives; n.e.c. in item no. 3912, in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Other",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "39129010",
+   "hs6": "391290",
+   "hs6_description": "Cellulose and its chemical derivatives; n.e.c. in item no. 3912, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Cellulose Propionate and aceto propionate non plasticized",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "39129020",
+   "hs6": "391290",
+   "hs6_description": "Cellulose and its chemical derivatives; n.e.c. in item no. 3912, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Viscose sponge",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "39129090",
+   "hs6": "391290",
+   "hs6_description": "Cellulose and its chemical derivatives; n.e.c. in item no. 3912, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "3913",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Natural polymers (for example, alginic acid) and modified natural polymers (for example, hardened proteins, chemical derivatives of natural rubber), not elsewhere specified or included, in primary forms.",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "391310",
+   "hs6": "391310",
+   "hs6_description": "Polymers, natural; alginic acid, its salts and esters, in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Alginic acid, its salts and esters",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "39131010",
+   "hs6": "391310",
+   "hs6_description": "Polymers, natural; alginic acid, its salts and esters, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Sodium Alginate",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "39131090",
+   "hs6": "391310",
+   "hs6_description": "Polymers, natural; alginic acid, its salts and esters, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "391390",
+   "hs6": "391390",
+   "hs6_description": "Polymers, natural and modified natural; in primary forms (excluding alginic acid, its salts and esters)",
    "level": 6,
    "chapter": "39",
    "description": "Other",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "39139011",
+   "hs6": "391390",
+   "hs6_description": "Polymers, natural and modified natural; in primary forms (excluding alginic acid, its salts and esters)",
    "level": 8,
    "chapter": "39",
    "description": "Chlorinated Rubber",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "39139019",
+   "hs6": "391390",
+   "hs6_description": "Polymers, natural and modified natural; in primary forms (excluding alginic acid, its salts and esters)",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "39139020",
+   "hs6": "391390",
+   "hs6_description": "Polymers, natural and modified natural; in primary forms (excluding alginic acid, its salts and esters)",
    "level": 8,
    "chapter": "39",
    "description": "Hardened proteins (such as hardened casein, gelatin",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "39139030",
+   "hs6": "391390",
+   "hs6_description": "Polymers, natural and modified natural; in primary forms (excluding alginic acid, its salts and esters)",
    "level": 8,
    "chapter": "39",
    "description": "Dextran",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "39139090",
+   "hs6": "391390",
+   "hs6_description": "Polymers, natural and modified natural; in primary forms (excluding alginic acid, its salts and esters)",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "3914",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Ion-exchangers based on polymers of headings 39.01 to 39.13, in primary forms.",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "391400",
+   "hs6": "391400",
+   "hs6_description": "Ion-exchangers; based on polymers of heading no. 3901 to 3913, in primary forms",
    "level": 6,
    "chapter": "39",
    "description": "Ion exchangers based on polymers of headings 3901 to 3913, in primary forms:",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "39140010",
+   "hs6": "391400",
+   "hs6_description": "Ion-exchangers; based on polymers of heading no. 3901 to 3913, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Ion-exchangers of the condensation, polycondensation or polyaddition type",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "39140020",
+   "hs6": "391400",
+   "hs6_description": "Ion-exchangers; based on polymers of heading no. 3901 to 3913, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Ion-exchangers of polymerisation or co-polymerisation type",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "39140090",
+   "hs6": "391400",
+   "hs6_description": "Ion-exchangers; based on polymers of heading no. 3901 to 3913, in primary forms",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "3915",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Waste, parings and scrap, of plastics.",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "39151000",
+   "hs6": "391510",
+   "hs6_description": "Ethylene polymers; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of ethylene",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "39152000",
+   "hs6": "391520",
+   "hs6_description": "Styrene polymers; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of styrene",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "391530",
+   "hs6": "391530",
+   "hs6_description": "Vinyl chloride polymers; waste, parings and scrap",
    "level": 6,
    "chapter": "39",
    "description": "Of polymers of vinyl chloride",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "39153010",
+   "hs6": "391530",
+   "hs6_description": "Vinyl chloride polymers; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of copolymers of vinyl chloride",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "39153090",
+   "hs6": "391530",
+   "hs6_description": "Vinyl chloride polymers; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "391590",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 6,
    "chapter": "39",
    "description": "Of other plastics",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "39159010",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of polypropylene",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "39159021",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of vinyl acetate: ---- Of copolymers of vinyl acetate",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "39159029",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of vinyl acetate: ---- Other",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "39159030",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of vinyl acetate: ---- Of acrylic polymers and methlyacrylic copolymers",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "39159041",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of alkyds, polyesters and epoxide resins: ---- Of alkyds and polyesters",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "39159042",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of alkyds, polyesters and epoxide resins: ---- Of PET Bottles",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "39159049",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of alkyds, polyesters and epoxide resins: ---- Of epoxide resins",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "39159050",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of alkyds, polyesters and epoxide resins: ---- Of polyamides",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "39159061",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of Amino resins and phenolic resins and polyurethanes: ---- Of phenoplast",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "39159062",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of Amino resins and phenolic resins and polyurethanes: ---- Of aminoplast",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "39159063",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of Amino resins and phenolic resins and polyurethanes: ---- Of polyurethanes",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "39159071",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of cellulose and its chemical derivatives: ---- Of regenerated cellulose",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "39159072",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of cellulose and its chemical derivatives: ---- Cellulose plastic waste such as cellulose nitrates film scrap non-plasticised",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "39159073",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of cellulose and its chemical derivatives: ---- Cellulose plastic waste such as cellulose nitrates plasticized",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "39159074",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of cellulose and its chemical derivatives: ---- Cellulose plastic waste such as cellulose acetate film scrap non-plasticised",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "39159075",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of cellulose and its chemical derivatives: ---- Cellulose plastic waste such as cellulose acetate film scrap plasticized",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "39159079",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of cellulose and its chemical derivatives: ---- Other",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "39159090",
+   "hs6": "391590",
+   "hs6_description": "Plastics n.e.c. in heading no. 3915; waste, parings and scrap",
    "level": 8,
    "chapter": "39",
    "description": "Of cellulose and its chemical derivatives: ---- Other",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "3916",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Monofilament of which any cross-sectional dimension exceeds 1 mm, rods, sticks and profile shapes, whether or not surface- worked but not otherwise worked, of plastics.",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "391610",
+   "hs6": "391610",
+   "hs6_description": "Ethylene polymers; monofilament, of which any cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 6,
    "chapter": "39",
    "description": "Of polymers of ethylene",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "39161010",
+   "hs6": "391610",
+   "hs6_description": "Ethylene polymers; monofilament, of which any cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Rods of polyethylene",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "39161020",
+   "hs6": "391610",
+   "hs6_description": "Ethylene polymers; monofilament, of which any cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Canes",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "39161090",
+   "hs6": "391610",
+   "hs6_description": "Ethylene polymers; monofilament, of which any cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "391620",
+   "hs6": "391620",
+   "hs6_description": "Vinyl chloride polymers; monofilament, of which any cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 6,
    "chapter": "39",
    "description": "Of polymers of vinyl chloride",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "39162011",
+   "hs6": "391620",
+   "hs6_description": "Vinyl chloride polymers; monofilament, of which any cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Canes",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "39162019",
+   "hs6": "391620",
+   "hs6_description": "Vinyl chloride polymers; monofilament, of which any cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "39162091",
+   "hs6": "391620",
+   "hs6_description": "Vinyl chloride polymers; monofilament, of which any cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Canes",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "39162099",
+   "hs6": "391620",
+   "hs6_description": "Vinyl chloride polymers; monofilament, of which any cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "391690",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 6,
    "chapter": "39",
    "description": "Of other plastics",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "39169010",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Canes",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "39169021",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of phenoplast",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "39169022",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of aminoplast",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "39169023",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of alkyds and polyesters",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "39169024",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of polyamides",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "39169025",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of polyurethanes",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "39169026",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of epoxide-resins (including waste and scrap)",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "39169027",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of Polypropylene",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "39169028",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of acrylicmethacrylic and acrylomethcrylic polymers",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "39169031",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of polymerisation and copolymerisation products of polystyrene",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "39169032",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of polymethyl methacrylate",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "39169040",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of regenerated cellulose",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "39169050",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of cellulose nitrate and celluloid, whether or not plasticized",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "39169060",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of vulcanized fibre",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "39169070",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of cellulose acetate and acetate butyrate, whether or not plasticized",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "39169080",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of vinyl plastic",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "39169090",
+   "hs6": "391690",
+   "hs6_description": "Plastics; monofilament, of plastics n.e.c. in heading no. 3916, cross-sectional dimension exceeds 1mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked",
    "level": 8,
    "chapter": "39",
    "description": "Of polymerisation and copolymerisation products of polystyrene and polymethyl methacrylate: ---- Of other polymerisation and copolymerisation products",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "3917",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Tubes, pipes and hoses, and fittings therefor (for example, joints, elbows, flanges), of plastics.",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "39171010",
+   "hs6": "391710",
+   "hs6_description": "Plastics; artificial guts (sausage casings) of hardened protein or of cellulosic materials",
    "level": 8,
    "chapter": "39",
    "description": "Artificial guts (sausage casings) of hardened protein or of cellulosic materials: ---- Of hardened protein",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "39171020",
+   "hs6": "391710",
+   "hs6_description": "Plastics; artificial guts (sausage casings) of hardened protein or of cellulosic materials",
    "level": 8,
    "chapter": "39",
    "description": "Artificial guts (sausage casings) of hardened protein or of cellulosic materials: ---- Of cellulosic materials",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "391721",
+   "hs6": "391721",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of polymers of ethylene",
    "level": 6,
    "chapter": "39",
    "description": "Tubes, pipes and hoses, rigid : -- Of polymers of ethylene",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "39172110",
+   "hs6": "391721",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of polymers of ethylene",
    "level": 8,
    "chapter": "39",
    "description": "Tubes of polyethylene",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "39172190",
+   "hs6": "391721",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of polymers of ethylene",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -3033,6 +3537,8 @@
   },
   {
    "hs_code": "39172200",
+   "hs6": "391722",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of polymers of propylene",
    "level": 8,
    "chapter": "39",
    "description": "Tubes, pipes and hoses, rigid : -- Of polymers of propylene",
@@ -3045,6 +3551,8 @@
   },
   {
    "hs_code": "391723",
+   "hs6": "391723",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of polymers of vinyl chloride",
    "level": 6,
    "chapter": "39",
    "description": "Tubes, pipes and hoses, rigid : -- Of polymers of vinyl chloride",
@@ -3057,6 +3565,8 @@
   },
   {
    "hs_code": "39172310",
+   "hs6": "391723",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of polymers of vinyl chloride",
    "level": 8,
    "chapter": "39",
    "description": "Seamless tubes",
@@ -3069,6 +3579,8 @@
   },
   {
    "hs_code": "39172390",
+   "hs6": "391723",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of polymers of vinyl chloride",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -3081,6 +3593,8 @@
   },
   {
    "hs_code": "391729",
+   "hs6": "391729",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of plastics n.e.c. in heading no. 3917",
    "level": 6,
    "chapter": "39",
    "description": "Tubes, pipes and hoses, rigid : -- Of other plastics",
@@ -3093,6 +3607,8 @@
   },
   {
    "hs_code": "39172910",
+   "hs6": "391729",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of plastics n.e.c. in heading no. 3917",
    "level": 8,
    "chapter": "39",
    "description": "Seamless tubes of copolymers of vinyl acetate and vinyl chloride",
@@ -3105,6 +3621,8 @@
   },
   {
    "hs_code": "39172920",
+   "hs6": "391729",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of plastics n.e.c. in heading no. 3917",
    "level": 8,
    "chapter": "39",
    "description": "Seamless tubes of polymers and copolymers of polystyrene",
@@ -3117,6 +3635,8 @@
   },
   {
    "hs_code": "39172930",
+   "hs6": "391729",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of plastics n.e.c. in heading no. 3917",
    "level": 8,
    "chapter": "39",
    "description": "Tubes of cellulose nitrate and celluloid, whether or not plasticized",
@@ -3129,6 +3649,8 @@
   },
   {
    "hs_code": "39172940",
+   "hs6": "391729",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of plastics n.e.c. in heading no. 3917",
    "level": 8,
    "chapter": "39",
    "description": "Tubes of cellulose acetate or acetate butyrate",
@@ -3141,6 +3663,8 @@
   },
   {
    "hs_code": "39172950",
+   "hs6": "391729",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of plastics n.e.c. in heading no. 3917",
    "level": 8,
    "chapter": "39",
    "description": "Tubes of vinyl plastics",
@@ -3153,6 +3677,8 @@
   },
   {
    "hs_code": "39172990",
+   "hs6": "391729",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, rigid, of plastics n.e.c. in heading no. 3917",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -3165,6 +3691,8 @@
   },
   {
    "hs_code": "39173100",
+   "hs6": "391731",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, flexible, having a minimum burst pressure of 27.6MPa",
    "level": 8,
    "chapter": "39",
    "description": "Other tubes, pipes and hoses : -- Flexible tubes, pipes and hoses, having a minimum burst pressure of 27.6 Mpa",
@@ -3177,6 +3705,8 @@
   },
   {
    "hs_code": "39173210",
+   "hs6": "391732",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, other than those of item no. 3917.31, not reinforced or otherwise combined with other materials, without fittings",
    "level": 8,
    "chapter": "39",
    "description": "Other, not reinforced or otherwise combined with other materials, without fittings: ---- Of condensation or rearrangement polymerisation products, whether or not chemically modified",
@@ -3189,6 +3719,8 @@
   },
   {
    "hs_code": "39173220",
+   "hs6": "391732",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, other than those of item no. 3917.31, not reinforced or otherwise combined with other materials, without fittings",
    "level": 8,
    "chapter": "39",
    "description": "Other, not reinforced or otherwise combined with other materials, without fittings: ---- Of addition polymerisation products",
@@ -3201,6 +3733,8 @@
   },
   {
    "hs_code": "39173290",
+   "hs6": "391732",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, other than those of item no. 3917.31, not reinforced or otherwise combined with other materials, without fittings",
    "level": 8,
    "chapter": "39",
    "description": "Other, not reinforced or otherwise combined with other materials, without fittings: ---- Other",
@@ -3213,6 +3747,8 @@
   },
   {
    "hs_code": "39173300",
+   "hs6": "391733",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, other than those of item no. 3917.31, not reinforced or otherwise combined with other materials, with fittings",
    "level": 8,
    "chapter": "39",
    "description": "Other tubes, pipes and hoses : -- Other, not reinforced or otherwise combined with other materials, with fittings",
@@ -3225,6 +3761,8 @@
   },
   {
    "hs_code": "391739",
+   "hs6": "391739",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, n.e.c. in item no. 3917.30",
    "level": 6,
    "chapter": "39",
    "description": "Other tubes, pipes and hoses : -- Other",
@@ -3237,6 +3775,8 @@
   },
   {
    "hs_code": "39173910",
+   "hs6": "391739",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, n.e.c. in item no. 3917.30",
    "level": 8,
    "chapter": "39",
    "description": "Of condensation or rearrangement polymerisation products, whether or not chemically modified",
@@ -3249,6 +3789,8 @@
   },
   {
    "hs_code": "39173920",
+   "hs6": "391739",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, n.e.c. in item no. 3917.30",
    "level": 8,
    "chapter": "39",
    "description": "Of addition polymerisation products",
@@ -3261,6 +3803,8 @@
   },
   {
    "hs_code": "39173990",
+   "hs6": "391739",
+   "hs6_description": "Plastics; tubes, pipes and hoses thereof, n.e.c. in item no. 3917.30",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -3273,6 +3817,8 @@
   },
   {
    "hs_code": "39174000",
+   "hs6": "391740",
+   "hs6_description": "Plastics; tube, pipe and hose fittings (e.g. joints, elbows, flanges)",
    "level": 8,
    "chapter": "39",
    "description": "Fittings",
@@ -3285,6 +3831,8 @@
   },
   {
    "hs_code": "3918",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Floor coverings of plastics, whether or not self-adhesive, in rollsor in the form of tiles; wall or ceiling coverings of plastics, as defined in Note 9 to this Chapter.",
@@ -3297,6 +3845,8 @@
   },
   {
    "hs_code": "391810",
+   "hs6": "391810",
+   "hs6_description": "Floor, wall or ceiling coverings; of polymers of vinyl chloride, whether or not self-adhesive, in rolls or in the form of tiles",
    "level": 6,
    "chapter": "39",
    "description": "Of polymers of vinyl chloride",
@@ -3309,6 +3859,8 @@
   },
   {
    "hs_code": "39181010",
+   "hs6": "391810",
+   "hs6_description": "Floor, wall or ceiling coverings; of polymers of vinyl chloride, whether or not self-adhesive, in rolls or in the form of tiles",
    "level": 8,
    "chapter": "39",
    "description": "Wall or ceiling coverings combined with knitted or woven fabrics, nonwovens or felts",
@@ -3321,6 +3873,8 @@
   },
   {
    "hs_code": "39181090",
+   "hs6": "391810",
+   "hs6_description": "Floor, wall or ceiling coverings; of polymers of vinyl chloride, whether or not self-adhesive, in rolls or in the form of tiles",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -3333,6 +3887,8 @@
   },
   {
    "hs_code": "391890",
+   "hs6": "391890",
+   "hs6_description": "Floor, wall or ceiling coverings; of plastics (excluding polymers of vinyl chloride), whether or not self-adhesive, in rolls or in the form of tiles",
    "level": 6,
    "chapter": "39",
    "description": "Of other plastics",
@@ -3345,6 +3901,8 @@
   },
   {
    "hs_code": "39189010",
+   "hs6": "391890",
+   "hs6_description": "Floor, wall or ceiling coverings; of plastics (excluding polymers of vinyl chloride), whether or not self-adhesive, in rolls or in the form of tiles",
    "level": 8,
    "chapter": "39",
    "description": "Floor coverings of linoxyne",
@@ -3357,6 +3915,8 @@
   },
   {
    "hs_code": "39189020",
+   "hs6": "391890",
+   "hs6_description": "Floor, wall or ceiling coverings; of plastics (excluding polymers of vinyl chloride), whether or not self-adhesive, in rolls or in the form of tiles",
    "level": 8,
    "chapter": "39",
    "description": "Wall or ceiling coverings combined with knitted or woven fabrics, nonwovens or felts",
@@ -3369,6 +3929,8 @@
   },
   {
    "hs_code": "39189090",
+   "hs6": "391890",
+   "hs6_description": "Floor, wall or ceiling coverings; of plastics (excluding polymers of vinyl chloride), whether or not self-adhesive, in rolls or in the form of tiles",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -3381,6 +3943,8 @@
   },
   {
    "hs_code": "3919",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls.",
@@ -3393,6 +3957,8 @@
   },
   {
    "hs_code": "39191000",
+   "hs6": "391910",
+   "hs6_description": "Plastics; plates, sheets, film, foil, tape, strip, other flat shapes thereof, self-adhesive, in rolls of a width not exceeding 20cm",
    "level": 8,
    "chapter": "39",
    "description": "In rolls of a width not exceeding 20 cm",
@@ -3405,6 +3971,8 @@
   },
   {
    "hs_code": "391990",
+   "hs6": "391990",
+   "hs6_description": "Plastics; plates, sheets, film, foil, tape, strip, other flat shapes thereof, self-adhesive, other than in rolls of a width not exceeding 20cm",
    "level": 6,
    "chapter": "39",
    "description": "Other",
@@ -3417,6 +3985,8 @@
   },
   {
    "hs_code": "39199010",
+   "hs6": "391990",
+   "hs6_description": "Plastics; plates, sheets, film, foil, tape, strip, other flat shapes thereof, self-adhesive, other than in rolls of a width not exceeding 20cm",
    "level": 8,
    "chapter": "39",
    "description": "Plastic stickers, whether or not printed, embossed, and or impregnated.",
@@ -3429,6 +3999,8 @@
   },
   {
    "hs_code": "39199020",
+   "hs6": "391990",
+   "hs6_description": "Plastics; plates, sheets, film, foil, tape, strip, other flat shapes thereof, self-adhesive, other than in rolls of a width not exceeding 20cm",
    "level": 8,
    "chapter": "39",
    "description": "Cellulose adhesive tape",
@@ -3441,6 +4013,8 @@
   },
   {
    "hs_code": "39199090",
+   "hs6": "391990",
+   "hs6_description": "Plastics; plates, sheets, film, foil, tape, strip, other flat shapes thereof, self-adhesive, other than in rolls of a width not exceeding 20cm",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -3453,6 +4027,8 @@
   },
   {
    "hs_code": "3920",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Other plates, sheets, film, foil and strip, of plastics, non-cellular and not reinforced, laminated, supported or similarly combined with other materials.",
@@ -3465,6 +4041,8 @@
   },
   {
    "hs_code": "392010",
+   "hs6": "392010",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polymers of ethylene, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of polymers of ethylene",
@@ -3477,6 +4055,8 @@
   },
   {
    "hs_code": "39201011",
+   "hs6": "392010",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polymers of ethylene, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets of polyethylene: ---- Rigid, plain",
@@ -3489,6 +4069,8 @@
   },
   {
    "hs_code": "39201012",
+   "hs6": "392010",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polymers of ethylene, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets of polyethylene: ---- Flexible, plain",
@@ -3501,6 +4083,8 @@
   },
   {
    "hs_code": "39201013",
+   "hs6": "392010",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polymers of ethylene, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets of polyethylene: ---- Geomembrane, confirming to IS 16352",
@@ -3513,6 +4097,8 @@
   },
   {
    "hs_code": "39201019",
+   "hs6": "392010",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polymers of ethylene, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets of polyethylene: ---- Other",
@@ -3525,6 +4111,8 @@
   },
   {
    "hs_code": "39201091",
+   "hs6": "392010",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polymers of ethylene, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Rigid, plain",
@@ -3537,6 +4125,8 @@
   },
   {
    "hs_code": "39201092",
+   "hs6": "392010",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polymers of ethylene, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Flexible, plain",
@@ -3549,6 +4139,8 @@
   },
   {
    "hs_code": "39201093",
+   "hs6": "392010",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polymers of ethylene, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Armour for ballistic protection",
@@ -3561,6 +4153,8 @@
   },
   {
    "hs_code": "39201099",
+   "hs6": "392010",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polymers of ethylene, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -3573,6 +4167,8 @@
   },
   {
    "hs_code": "392020",
+   "hs6": "392020",
+   "hs6_description": "Plastics; of polymers of propylene, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of polymers of propylene",
@@ -3585,6 +4181,8 @@
   },
   {
    "hs_code": "39202010",
+   "hs6": "392020",
+   "hs6_description": "Plastics; of polymers of propylene, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Rigid, plain",
@@ -3597,6 +4195,8 @@
   },
   {
    "hs_code": "39202020",
+   "hs6": "392020",
+   "hs6_description": "Plastics; of polymers of propylene, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Flexible, plain",
@@ -3609,6 +4209,8 @@
   },
   {
    "hs_code": "39202090",
+   "hs6": "392020",
+   "hs6_description": "Plastics; of polymers of propylene, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -3621,6 +4223,8 @@
   },
   {
    "hs_code": "392030",
+   "hs6": "392030",
+   "hs6_description": "Plastics; of polymers of styrene, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of polymers of styrene",
@@ -3633,6 +4237,8 @@
   },
   {
    "hs_code": "39203010",
+   "hs6": "392030",
+   "hs6_description": "Plastics; of polymers of styrene, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Rigid, plain",
@@ -3645,6 +4251,8 @@
   },
   {
    "hs_code": "39203020",
+   "hs6": "392030",
+   "hs6_description": "Plastics; of polymers of styrene, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Flexible, plain",
@@ -3657,6 +4265,8 @@
   },
   {
    "hs_code": "39203090",
+   "hs6": "392030",
+   "hs6_description": "Plastics; of polymers of styrene, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -3669,6 +4279,8 @@
   },
   {
    "hs_code": "39204300",
+   "hs6": "392043",
+   "hs6_description": "Plastics; polymers of vinyl chloride, containing by weight not less than 6% of plasticisers; plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of vinyl chloride : -- Containing by weight not less than 6 percent of plasticisers",
@@ -3681,6 +4293,8 @@
   },
   {
    "hs_code": "39204900",
+   "hs6": "392049",
+   "hs6_description": "Plastics; polymers of vinyl chloride, containing by weight, less than 6% of plasticisers; plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of vinyl chloride : -- Other",
@@ -3693,6 +4307,8 @@
   },
   {
    "hs_code": "392051",
+   "hs6": "392051",
+   "hs6_description": "Plastics; of acrylic polymers, polymethyl methacrylate, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of acrylic polymers : -- Of poly(methyl methacrylate)",
@@ -3705,6 +4321,8 @@
   },
   {
    "hs_code": "39205111",
+   "hs6": "392051",
+   "hs6_description": "Plastics; of acrylic polymers, polymethyl methacrylate, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets : ---- Rigid, plain",
@@ -3717,6 +4335,8 @@
   },
   {
    "hs_code": "39205112",
+   "hs6": "392051",
+   "hs6_description": "Plastics; of acrylic polymers, polymethyl methacrylate, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets : ---- Flexible, plain",
@@ -3729,6 +4349,8 @@
   },
   {
    "hs_code": "39205119",
+   "hs6": "392051",
+   "hs6_description": "Plastics; of acrylic polymers, polymethyl methacrylate, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets : ---- Other",
@@ -3741,6 +4363,8 @@
   },
   {
    "hs_code": "39205191",
+   "hs6": "392051",
+   "hs6_description": "Plastics; of acrylic polymers, polymethyl methacrylate, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Rigid, plain",
@@ -3753,6 +4377,8 @@
   },
   {
    "hs_code": "39205192",
+   "hs6": "392051",
+   "hs6_description": "Plastics; of acrylic polymers, polymethyl methacrylate, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Flexible, plain",
@@ -3765,6 +4391,8 @@
   },
   {
    "hs_code": "39205199",
+   "hs6": "392051",
+   "hs6_description": "Plastics; of acrylic polymers, polymethyl methacrylate, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -3777,6 +4405,8 @@
   },
   {
    "hs_code": "392059",
+   "hs6": "392059",
+   "hs6_description": "Plastics; of acrylic polymers (excluding polymethyl methacrylate), plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of acrylic polymers : -- Other",
@@ -3789,6 +4419,8 @@
   },
   {
    "hs_code": "39205911",
+   "hs6": "392059",
+   "hs6_description": "Plastics; of acrylic polymers (excluding polymethyl methacrylate), plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Polyacrylate Sheets: ---- Rigid, plain",
@@ -3801,6 +4433,8 @@
   },
   {
    "hs_code": "39205912",
+   "hs6": "392059",
+   "hs6_description": "Plastics; of acrylic polymers (excluding polymethyl methacrylate), plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Polyacrylate Sheets: ---- Flexible, plain",
@@ -3813,6 +4447,8 @@
   },
   {
    "hs_code": "39205919",
+   "hs6": "392059",
+   "hs6_description": "Plastics; of acrylic polymers (excluding polymethyl methacrylate), plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Polyacrylate Sheets: ---- Other",
@@ -3825,6 +4461,8 @@
   },
   {
    "hs_code": "39205991",
+   "hs6": "392059",
+   "hs6_description": "Plastics; of acrylic polymers (excluding polymethyl methacrylate), plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Rigid, plain",
@@ -3837,6 +4475,8 @@
   },
   {
    "hs_code": "39205992",
+   "hs6": "392059",
+   "hs6_description": "Plastics; of acrylic polymers (excluding polymethyl methacrylate), plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Flexible, plain",
@@ -3849,6 +4489,8 @@
   },
   {
    "hs_code": "39205999",
+   "hs6": "392059",
+   "hs6_description": "Plastics; of acrylic polymers (excluding polymethyl methacrylate), plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -3861,6 +4503,8 @@
   },
   {
    "hs_code": "392061",
+   "hs6": "392061",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polycarbonates, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of polycarbonates, alkyd resins, polyallyl esters or other polyester : -- Of polycarbonates",
@@ -3873,6 +4517,8 @@
   },
   {
    "hs_code": "39206110",
+   "hs6": "392061",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polycarbonates, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Rigid, plain",
@@ -3885,6 +4531,8 @@
   },
   {
    "hs_code": "39206120",
+   "hs6": "392061",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polycarbonates, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Flexible, plain",
@@ -3897,6 +4545,8 @@
   },
   {
    "hs_code": "39206190",
+   "hs6": "392061",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polycarbonates, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -3909,6 +4559,8 @@
   },
   {
    "hs_code": "392062",
+   "hs6": "392062",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of poly(ethylene terephthalate), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of polycarbonates, alkyd resins, polyallyl esters or other polyester : -- Of poly(ethylene terephthalate)",
@@ -3921,6 +4573,8 @@
   },
   {
    "hs_code": "39206210",
+   "hs6": "392062",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of poly(ethylene terephthalate), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Rigid, plain",
@@ -3933,6 +4587,8 @@
   },
   {
    "hs_code": "39206220",
+   "hs6": "392062",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of poly(ethylene terephthalate), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Flexible, plain",
@@ -3945,6 +4601,8 @@
   },
   {
    "hs_code": "39206290",
+   "hs6": "392062",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of poly(ethylene terephthalate), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -3957,6 +4615,8 @@
   },
   {
    "hs_code": "392063",
+   "hs6": "392063",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of unsaturated polyesters, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of polycarbonates, alkyd resins, polyallyl esters or other polyester : -- Of unsaturated polyesters",
@@ -3969,6 +4629,8 @@
   },
   {
    "hs_code": "39206310",
+   "hs6": "392063",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of unsaturated polyesters, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Rigid, plain",
@@ -3981,6 +4643,8 @@
   },
   {
    "hs_code": "39206320",
+   "hs6": "392063",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of unsaturated polyesters, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Flexible, plain",
@@ -3993,6 +4657,8 @@
   },
   {
    "hs_code": "39206390",
+   "hs6": "392063",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of unsaturated polyesters, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -4005,6 +4671,8 @@
   },
   {
    "hs_code": "392069",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of polycarbonates, alkyd resins, polyallyl esters or other polyester : -- Of other polyesters",
@@ -4017,6 +4685,8 @@
   },
   {
    "hs_code": "39206911",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Packaging film: ---- Rigid, plain",
@@ -4029,6 +4699,8 @@
   },
   {
    "hs_code": "39206912",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Packaging film: ---- Flexible, plain",
@@ -4041,6 +4713,8 @@
   },
   {
    "hs_code": "39206919",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Packaging film: ---- Other",
@@ -4053,6 +4727,8 @@
   },
   {
    "hs_code": "39206921",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sun and/or dust control film: ---- Rigid, plain",
@@ -4065,6 +4741,8 @@
   },
   {
    "hs_code": "39206922",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sun and/or dust control film: ---- Flexible, plain",
@@ -4077,6 +4755,8 @@
   },
   {
    "hs_code": "39206929",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sun and/or dust control film: ---- Other",
@@ -4089,6 +4769,8 @@
   },
   {
    "hs_code": "39206931",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other film: ---- Rigid, plain",
@@ -4101,6 +4783,8 @@
   },
   {
    "hs_code": "39206932",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other film: ---- Flexible, plain",
@@ -4113,6 +4797,8 @@
   },
   {
    "hs_code": "39206939",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other film: ---- Other",
@@ -4125,6 +4811,8 @@
   },
   {
    "hs_code": "39206991",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Rigid, plain",
@@ -4137,6 +4825,8 @@
   },
   {
    "hs_code": "39206992",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Flexible, plain",
@@ -4149,6 +4839,8 @@
   },
   {
    "hs_code": "39206999",
+   "hs6": "392069",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyesters n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -4161,6 +4853,8 @@
   },
   {
    "hs_code": "392071",
+   "hs6": "392071",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of regenerated cellulose; non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of cellulose or its chemical derivatives : -- Of regenerated cellulose",
@@ -4173,6 +4867,8 @@
   },
   {
    "hs_code": "39207111",
+   "hs6": "392071",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of regenerated cellulose; non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Cello phane transparent: ---- Film",
@@ -4185,6 +4881,8 @@
   },
   {
    "hs_code": "39207119",
+   "hs6": "392071",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of regenerated cellulose; non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Cello phane transparent: ---- Other",
@@ -4197,6 +4895,8 @@
   },
   {
    "hs_code": "39207121",
+   "hs6": "392071",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of regenerated cellulose; non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets of cellulose nitrate and celluloid, whether or not plasticized ---- Plain",
@@ -4209,6 +4909,8 @@
   },
   {
    "hs_code": "39207129",
+   "hs6": "392071",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of regenerated cellulose; non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets of cellulose nitrate and celluloid, whether or not plasticized ---- Other",
@@ -4221,6 +4923,8 @@
   },
   {
    "hs_code": "39207191",
+   "hs6": "392071",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of regenerated cellulose; non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Rigid, plain",
@@ -4233,6 +4937,8 @@
   },
   {
    "hs_code": "39207192",
+   "hs6": "392071",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of regenerated cellulose; non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Flexible, Plain",
@@ -4245,6 +4951,8 @@
   },
   {
    "hs_code": "39207199",
+   "hs6": "392071",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of regenerated cellulose; non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -4257,6 +4965,8 @@
   },
   {
    "hs_code": "392073",
+   "hs6": "392073",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose acetate, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of cellulose or its chemical derivatives : -- Of cellulose acetate",
@@ -4269,6 +4979,8 @@
   },
   {
    "hs_code": "39207311",
+   "hs6": "392073",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose acetate, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheet of cellulose acetate, non-plasticized: ---- Rigid, plain",
@@ -4281,6 +4993,8 @@
   },
   {
    "hs_code": "39207312",
+   "hs6": "392073",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose acetate, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheet of cellulose acetate, non-plasticized: ---- Flexible, plain",
@@ -4293,6 +5007,8 @@
   },
   {
    "hs_code": "39207319",
+   "hs6": "392073",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose acetate, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheet of cellulose acetate, non-plasticized: ---- Other",
@@ -4305,6 +5021,8 @@
   },
   {
    "hs_code": "39207321",
+   "hs6": "392073",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose acetate, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets of cellulose acetate (plasticized) : ---- Rigid, plain",
@@ -4317,6 +5035,8 @@
   },
   {
    "hs_code": "39207322",
+   "hs6": "392073",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose acetate, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets of cellulose acetate (plasticized) : ---- Flexible, plain",
@@ -4329,6 +5049,8 @@
   },
   {
    "hs_code": "39207329",
+   "hs6": "392073",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose acetate, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets of cellulose acetate (plasticized) : ---- Other",
@@ -4341,6 +5063,8 @@
   },
   {
    "hs_code": "39207391",
+   "hs6": "392073",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose acetate, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Rigid, plain",
@@ -4353,6 +5077,8 @@
   },
   {
    "hs_code": "39207392",
+   "hs6": "392073",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose acetate, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Flexible, plain",
@@ -4365,6 +5091,8 @@
   },
   {
    "hs_code": "39207399",
+   "hs6": "392073",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose acetate, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -4377,6 +5105,8 @@
   },
   {
    "hs_code": "392079",
+   "hs6": "392079",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose derivatives n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of cellulose or its chemical derivatives : -- Of other cellulose derivatives",
@@ -4389,6 +5119,8 @@
   },
   {
    "hs_code": "39207911",
+   "hs6": "392079",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose derivatives n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets of cellulose nitrate and celluloid, whether or not plasticized: ---- Rigid, plain",
@@ -4401,6 +5133,8 @@
   },
   {
    "hs_code": "39207912",
+   "hs6": "392079",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose derivatives n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets of cellulose nitrate and celluloid, whether or not plasticized: ---- Flexible, plain",
@@ -4413,6 +5147,8 @@
   },
   {
    "hs_code": "39207919",
+   "hs6": "392079",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose derivatives n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheets of cellulose nitrate and celluloid, whether or not plasticized: ---- Other",
@@ -4425,6 +5161,8 @@
   },
   {
    "hs_code": "39207991",
+   "hs6": "392079",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose derivatives n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Rigid , plain",
@@ -4437,6 +5175,8 @@
   },
   {
    "hs_code": "39207992",
+   "hs6": "392079",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose derivatives n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Flexible, plain",
@@ -4449,6 +5189,8 @@
   },
   {
    "hs_code": "39207999",
+   "hs6": "392079",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of cellulose derivatives n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -4461,6 +5203,8 @@
   },
   {
    "hs_code": "392091",
+   "hs6": "392091",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of poly(vinyl butyral), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of other plastics : -- Of poly(vinyl butyral)",
@@ -4473,6 +5217,8 @@
   },
   {
    "hs_code": "39209110",
+   "hs6": "392091",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of poly(vinyl butyral), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Of poly (vinyl butyral): ---- Rigid, plain",
@@ -4485,6 +5231,8 @@
   },
   {
    "hs_code": "39209120",
+   "hs6": "392091",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of poly(vinyl butyral), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Of poly (vinyl butyral): ---- Flexible, plain",
@@ -4497,6 +5245,8 @@
   },
   {
    "hs_code": "39209190",
+   "hs6": "392091",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of poly(vinyl butyral), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Of poly (vinyl butyral): ---- Other",
@@ -4509,6 +5259,8 @@
   },
   {
    "hs_code": "392092",
+   "hs6": "392092",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyamides, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of other plastics : -- Of polyamides",
@@ -4521,6 +5273,8 @@
   },
   {
    "hs_code": "39209211",
+   "hs6": "392092",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyamides, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Poly (amide fluoride) film: ---- Rigid, plain",
@@ -4533,6 +5287,8 @@
   },
   {
    "hs_code": "39209212",
+   "hs6": "392092",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyamides, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Poly (amide fluoride) film: ---- Flexible, plain",
@@ -4545,6 +5301,8 @@
   },
   {
    "hs_code": "39209219",
+   "hs6": "392092",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyamides, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Poly (amide fluoride) film: ---- Other",
@@ -4557,6 +5315,8 @@
   },
   {
    "hs_code": "39209291",
+   "hs6": "392092",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyamides, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Rigid, plain",
@@ -4569,6 +5329,8 @@
   },
   {
    "hs_code": "39209292",
+   "hs6": "392092",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyamides, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Flexible, plain",
@@ -4581,6 +5343,8 @@
   },
   {
    "hs_code": "39209299",
+   "hs6": "392092",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polyamides, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -4593,6 +5357,8 @@
   },
   {
    "hs_code": "392093",
+   "hs6": "392093",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of amino-resins, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of other plastics : -- Of amino-resins",
@@ -4605,6 +5371,8 @@
   },
   {
    "hs_code": "39209310",
+   "hs6": "392093",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of amino-resins, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Rigid, plain",
@@ -4617,6 +5385,8 @@
   },
   {
    "hs_code": "39209320",
+   "hs6": "392093",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of amino-resins, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Flexible, plain",
@@ -4629,6 +5399,8 @@
   },
   {
    "hs_code": "39209390",
+   "hs6": "392093",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of amino-resins, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -4641,6 +5413,8 @@
   },
   {
    "hs_code": "392094",
+   "hs6": "392094",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of phenolic resins, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of other plastics : -- Of phenolic resins",
@@ -4653,6 +5427,8 @@
   },
   {
    "hs_code": "39209410",
+   "hs6": "392094",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of phenolic resins, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Rigid, plain",
@@ -4665,6 +5441,8 @@
   },
   {
    "hs_code": "39209420",
+   "hs6": "392094",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of phenolic resins, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Flexible, plain",
@@ -4677,6 +5455,8 @@
   },
   {
    "hs_code": "39209490",
+   "hs6": "392094",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of phenolic resins, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -4689,6 +5469,8 @@
   },
   {
    "hs_code": "392099",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 6,
    "chapter": "39",
    "description": "Of other plastics : -- Of other plastics",
@@ -4701,6 +5483,8 @@
   },
   {
    "hs_code": "39209911",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Plates, sheets, film, foil and strip of poly(vinyl acetate): ---- Rigid, plain",
@@ -4713,6 +5497,8 @@
   },
   {
    "hs_code": "39209912",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Plates, sheets, film, foil and strip of poly(vinyl acetate): ---- Flexible, plain",
@@ -4725,6 +5511,8 @@
   },
   {
    "hs_code": "39209919",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Plates, sheets, film, foil and strip of poly(vinyl acetate): ---- Other",
@@ -4737,6 +5525,8 @@
   },
   {
    "hs_code": "39209921",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Film, sheets, strip of vinyl plastics: ---- Rigid, plain",
@@ -4749,6 +5539,8 @@
   },
   {
    "hs_code": "39209922",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Film, sheets, strip of vinyl plastics: ---- Flexible, plain",
@@ -4761,6 +5553,8 @@
   },
   {
    "hs_code": "39209929",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Film, sheets, strip of vinyl plastics: ---- Other",
@@ -4773,6 +5567,8 @@
   },
   {
    "hs_code": "39209931",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Plates, sheets, strip, film or foil of copolymers of vinyl chloride and vinyl acetate: ---- Rigid, plain",
@@ -4785,6 +5581,8 @@
   },
   {
    "hs_code": "39209932",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Plates, sheets, strip, film or foil of copolymers of vinyl chloride and vinyl acetate: ---- Flexible, plain",
@@ -4797,6 +5595,8 @@
   },
   {
    "hs_code": "39209939",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Plates, sheets, strip, film or foil of copolymers of vinyl chloride and vinyl acetate: ---- Other",
@@ -4809,6 +5609,8 @@
   },
   {
    "hs_code": "39209941",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheet of Poly (tetrafluoro-ethylene) (PTFE): ---- Rigid, plain",
@@ -4821,6 +5623,8 @@
   },
   {
    "hs_code": "39209942",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheet of Poly (tetrafluoro-ethylene) (PTFE): ---- Flexible, plain",
@@ -4833,6 +5637,8 @@
   },
   {
    "hs_code": "39209949",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Sheet of Poly (tetrafluoro-ethylene) (PTFE): ---- Other",
@@ -4845,6 +5651,8 @@
   },
   {
    "hs_code": "39209951",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Retro reflective sheeting: ---- Rigid, plain",
@@ -4857,6 +5665,8 @@
   },
   {
    "hs_code": "39209952",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Retro reflective sheeting: ---- Flexible, plain",
@@ -4869,6 +5679,8 @@
   },
   {
    "hs_code": "39209959",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Retro reflective sheeting: ---- Other",
@@ -4881,6 +5693,8 @@
   },
   {
    "hs_code": "39209960",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Retro reflective sheeting: ---- Clicking boards for leather machinery",
@@ -4893,6 +5707,8 @@
   },
   {
    "hs_code": "39209991",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Rigid, plain",
@@ -4905,6 +5721,8 @@
   },
   {
    "hs_code": "39209992",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Flexible, plain",
@@ -4917,6 +5735,8 @@
   },
   {
    "hs_code": "39209999",
+   "hs6": "392099",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -4929,6 +5749,8 @@
   },
   {
    "hs_code": "3921",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Other plates, sheets, film, foil and strip, of plastics.",
@@ -4941,6 +5763,8 @@
   },
   {
    "hs_code": "39211100",
+   "hs6": "392111",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, of polymers of styrene, cellular",
    "level": 8,
    "chapter": "39",
    "description": "Cellular : -- Of polymers of styrene",
@@ -4953,6 +5777,8 @@
   },
   {
    "hs_code": "39211200",
+   "hs6": "392112",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, of polymers of vinyl chloride, cellular",
    "level": 8,
    "chapter": "39",
    "description": "Cellular : -- Of polymers of vinyl chloride",
@@ -4965,6 +5791,8 @@
   },
   {
    "hs_code": "392113",
+   "hs6": "392113",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, of polyurethanes, cellular",
    "level": 6,
    "chapter": "39",
    "description": "Cellular : -- Of polyurethanes",
@@ -4977,6 +5805,8 @@
   },
   {
    "hs_code": "39211310",
+   "hs6": "392113",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, of polyurethanes, cellular",
    "level": 8,
    "chapter": "39",
    "description": "Flexible",
@@ -4989,6 +5819,8 @@
   },
   {
    "hs_code": "39211390",
+   "hs6": "392113",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, of polyurethanes, cellular",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -5001,6 +5833,8 @@
   },
   {
    "hs_code": "39211400",
+   "hs6": "392114",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, of regenerated cellulose, cellular",
    "level": 8,
    "chapter": "39",
    "description": "Cellular : -- Of regenerated cellulose",
@@ -5013,6 +5847,8 @@
   },
   {
    "hs_code": "39211900",
+   "hs6": "392119",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, of plastics n.e.c. in heading no. 3921, cellular",
    "level": 8,
    "chapter": "39",
    "description": "Cellular : -- Of other plastics",
@@ -5025,6 +5861,8 @@
   },
   {
    "hs_code": "392190",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 6,
    "chapter": "39",
    "description": "Other",
@@ -5037,6 +5875,8 @@
   },
   {
    "hs_code": "39219010",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Thermocol",
@@ -5049,6 +5889,8 @@
   },
   {
    "hs_code": "39219021",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of vinyl chloride : ---- Rigid, lacquered",
@@ -5061,6 +5903,8 @@
   },
   {
    "hs_code": "39219022",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of vinyl chloride : ---- Flexible, lacquered",
@@ -5073,6 +5917,8 @@
   },
   {
    "hs_code": "39219023",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of vinyl chloride : ---- Rigid, metallised",
@@ -5085,6 +5931,8 @@
   },
   {
    "hs_code": "39219024",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of vinyl chloride : ---- Flexible, metallised",
@@ -5097,6 +5945,8 @@
   },
   {
    "hs_code": "39219025",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of vinyl chloride : ---- Rigid, laminated",
@@ -5109,6 +5959,8 @@
   },
   {
    "hs_code": "39219026",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of vinyl chloride : ---- Flexible, laminated",
@@ -5121,6 +5973,8 @@
   },
   {
    "hs_code": "39219027",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Architectural membrane",
@@ -5133,6 +5987,8 @@
   },
   {
    "hs_code": "39219029",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of polymers of vinyl chloride : ---- Other",
@@ -5145,6 +6001,8 @@
   },
   {
    "hs_code": "39219031",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of regenerated cellulose : ---- Rigid, lacquered",
@@ -5157,6 +6015,8 @@
   },
   {
    "hs_code": "39219032",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of regenerated cellulose : ---- Flexible, lacquered",
@@ -5169,6 +6029,8 @@
   },
   {
    "hs_code": "39219033",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of regenerated cellulose : ---- Rigid, metallised",
@@ -5181,6 +6043,8 @@
   },
   {
    "hs_code": "39219034",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of regenerated cellulose : ---- Flexible, metallised",
@@ -5193,6 +6057,8 @@
   },
   {
    "hs_code": "39219035",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of regenerated cellulose : ---- Rigid, laminated",
@@ -5205,6 +6071,8 @@
   },
   {
    "hs_code": "39219036",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of regenerated cellulose : ---- Flexible, laminated",
@@ -5217,6 +6085,8 @@
   },
   {
    "hs_code": "39219039",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Of regenerated cellulose : ---- Other",
@@ -5229,6 +6099,8 @@
   },
   {
    "hs_code": "39219091",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Rigid, lacquered",
@@ -5241,6 +6113,8 @@
   },
   {
    "hs_code": "39219092",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Flexible, lacquered",
@@ -5253,6 +6127,8 @@
   },
   {
    "hs_code": "39219093",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Rigid, metallised",
@@ -5265,6 +6141,8 @@
   },
   {
    "hs_code": "39219094",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Flexible, metallised",
@@ -5277,6 +6155,8 @@
   },
   {
    "hs_code": "39219095",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Rigid, laminated",
@@ -5289,6 +6169,8 @@
   },
   {
    "hs_code": "39219096",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Flexible, laminated",
@@ -5301,6 +6183,8 @@
   },
   {
    "hs_code": "39219099",
+   "hs6": "392190",
+   "hs6_description": "Plastics; plates, sheets, film, foil and strip, other than cellular",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -5313,6 +6197,8 @@
   },
   {
    "hs_code": "3922",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Baths, shower-baths, sinks, wash-basins, bidets, lavatory pans, seats and covers, flushing cisterns and similar sanitary ware, of plastics.",
@@ -5325,6 +6211,8 @@
   },
   {
    "hs_code": "39221000",
+   "hs6": "392210",
+   "hs6_description": "Plastics; baths, shower-baths, sinks and wash-basins",
    "level": 8,
    "chapter": "39",
    "description": "Baths, shower-baths, sinks and wash basins",
@@ -5337,6 +6225,8 @@
   },
   {
    "hs_code": "39222000",
+   "hs6": "392220",
+   "hs6_description": "Plastics; lavatory seats and covers",
    "level": 8,
    "chapter": "39",
    "description": "Lavatory seats and covers",
@@ -5349,6 +6239,8 @@
   },
   {
    "hs_code": "39229000",
+   "hs6": "392290",
+   "hs6_description": "Plastics; bidets, lavatory pans, flushing cisterns and similar sanitary ware n.e.c. in heading no. 3922",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -5361,6 +6253,8 @@
   },
   {
    "hs_code": "3923",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics.",
@@ -5373,6 +6267,8 @@
   },
   {
    "hs_code": "392310",
+   "hs6": "392310",
+   "hs6_description": "Plastics; boxes, cases, crates and similar articles for the conveyance or packing of goods",
    "level": 6,
    "chapter": "39",
    "description": "Boxes, cases, crates and similar articles",
@@ -5385,6 +6281,8 @@
   },
   {
    "hs_code": "39231010",
+   "hs6": "392310",
+   "hs6_description": "Plastics; boxes, cases, crates and similar articles for the conveyance or packing of goods",
    "level": 8,
    "chapter": "39",
    "description": "Plastic containers for audio or video cassettes, cassette tapes, floppy disk and similar articles",
@@ -5397,6 +6295,8 @@
   },
   {
    "hs_code": "39231020",
+   "hs6": "392310",
+   "hs6_description": "Plastics; boxes, cases, crates and similar articles for the conveyance or packing of goods",
    "level": 8,
    "chapter": "39",
    "description": "Watch-box, jewellery box and similar containers of plastics",
@@ -5409,6 +6309,8 @@
   },
   {
    "hs_code": "39231030",
+   "hs6": "392310",
+   "hs6_description": "Plastics; boxes, cases, crates and similar articles for the conveyance or packing of goods",
    "level": 8,
    "chapter": "39",
    "description": "Insulated ware",
@@ -5421,6 +6323,8 @@
   },
   {
    "hs_code": "39231040",
+   "hs6": "392310",
+   "hs6_description": "Plastics; boxes, cases, crates and similar articles for the conveyance or packing of goods",
    "level": 8,
    "chapter": "39",
    "description": "Packing for accommodating connectors",
@@ -5433,6 +6337,8 @@
   },
   {
    "hs_code": "39231090",
+   "hs6": "392310",
+   "hs6_description": "Plastics; boxes, cases, crates and similar articles for the conveyance or packing of goods",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -5445,6 +6351,8 @@
   },
   {
    "hs_code": "39232100",
+   "hs6": "392321",
+   "hs6_description": "Ethylene polymers; sacks and bags (including cones), for the conveyance or packing of goods",
    "level": 8,
    "chapter": "39",
    "description": "Sacks and bags (including cones) : -- Of polymers of ethylene",
@@ -5457,6 +6365,8 @@
   },
   {
    "hs_code": "392329",
+   "hs6": "392329",
+   "hs6_description": "Plastics; sacks and bags (including cones), for the conveyance or packing of goods, of plastics other than ethylene polymers",
    "level": 6,
    "chapter": "39",
    "description": "Sacks and bags (including cones) : -- Of other plastics",
@@ -5469,6 +6379,8 @@
   },
   {
    "hs_code": "39232910",
+   "hs6": "392329",
+   "hs6_description": "Plastics; sacks and bags (including cones), for the conveyance or packing of goods, of plastics other than ethylene polymers",
    "level": 8,
    "chapter": "39",
    "description": "Of poly (vinyl chloride)",
@@ -5481,6 +6393,8 @@
   },
   {
    "hs_code": "39232991",
+   "hs6": "392329",
+   "hs6_description": "Plastics; sacks and bags (including cones), for the conveyance or packing of goods, of plastics other than ethylene polymers",
    "level": 8,
    "chapter": "39",
    "description": "--- Other : ---- Biodegradable",
@@ -5493,6 +6407,8 @@
   },
   {
    "hs_code": "39232999",
+   "hs6": "392329",
+   "hs6_description": "Plastics; sacks and bags (including cones), for the conveyance or packing of goods, of plastics other than ethylene polymers",
    "level": 8,
    "chapter": "39",
    "description": "--- Other :---- Other",
@@ -5505,6 +6421,8 @@
   },
   {
    "hs_code": "392330",
+   "hs6": "392330",
+   "hs6_description": "Plastics; carboys, bottles, flasks and similar articles, for the conveyance or packing of goods",
    "level": 6,
    "chapter": "39",
    "description": "Carboys, bottles, flasks and similar articles",
@@ -5517,6 +6435,8 @@
   },
   {
    "hs_code": "39233010",
+   "hs6": "392330",
+   "hs6_description": "Plastics; carboys, bottles, flasks and similar articles, for the conveyance or packing of goods",
    "level": 8,
    "chapter": "39",
    "description": "Insulated ware",
@@ -5529,6 +6449,8 @@
   },
   {
    "hs_code": "39233090",
+   "hs6": "392330",
+   "hs6_description": "Plastics; carboys, bottles, flasks and similar articles, for the conveyance or packing of goods",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -5541,6 +6463,8 @@
   },
   {
    "hs_code": "39234000",
+   "hs6": "392340",
+   "hs6_description": "Plastics; spools, cops, bobbins and similar supports, for the conveyance or packing of goods",
    "level": 8,
    "chapter": "39",
    "description": "Spools, cops, bobbins and similar supports",
@@ -5553,6 +6477,8 @@
   },
   {
    "hs_code": "392350",
+   "hs6": "392350",
+   "hs6_description": "Plastics; stoppers, lids, caps and other closures, for the conveyance or packing of goods",
    "level": 6,
    "chapter": "39",
    "description": "Stoppers, lids, caps and other closures",
@@ -5565,6 +6491,8 @@
   },
   {
    "hs_code": "39235010",
+   "hs6": "392350",
+   "hs6_description": "Plastics; stoppers, lids, caps and other closures, for the conveyance or packing of goods",
    "level": 8,
    "chapter": "39",
    "description": "Caps and closures for bottles",
@@ -5577,6 +6505,8 @@
   },
   {
    "hs_code": "39235090",
+   "hs6": "392350",
+   "hs6_description": "Plastics; stoppers, lids, caps and other closures, for the conveyance or packing of goods",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -5589,6 +6519,8 @@
   },
   {
    "hs_code": "392390",
+   "hs6": "392390",
+   "hs6_description": "Plastics; articles for the conveyance or packing of goods n.e.c. in heading no. 3923",
    "level": 6,
    "chapter": "39",
    "description": "Other",
@@ -5601,6 +6533,8 @@
   },
   {
    "hs_code": "39239010",
+   "hs6": "392390",
+   "hs6_description": "Plastics; articles for the conveyance or packing of goods n.e.c. in heading no. 3923",
    "level": 8,
    "chapter": "39",
    "description": "Insulated ware",
@@ -5613,6 +6547,8 @@
   },
   {
    "hs_code": "39239020",
+   "hs6": "392390",
+   "hs6_description": "Plastics; articles for the conveyance or packing of goods n.e.c. in heading no. 3923",
    "level": 8,
    "chapter": "39",
    "description": "Aseptic bags",
@@ -5625,6 +6561,8 @@
   },
   {
    "hs_code": "39239090",
+   "hs6": "392390",
+   "hs6_description": "Plastics; articles for the conveyance or packing of goods n.e.c. in heading no. 3923",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -5637,6 +6575,8 @@
   },
   {
    "hs_code": "3924",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics.",
@@ -5649,6 +6589,8 @@
   },
   {
    "hs_code": "392410",
+   "hs6": "392410",
+   "hs6_description": "Plastics; tableware and kitchenware",
    "level": 6,
    "chapter": "39",
    "description": "Tableware and kitchenware",
@@ -5661,6 +6603,8 @@
   },
   {
    "hs_code": "39241010",
+   "hs6": "392410",
+   "hs6_description": "Plastics; tableware and kitchenware",
    "level": 8,
    "chapter": "39",
    "description": "Insulated ware",
@@ -5673,6 +6617,8 @@
   },
   {
    "hs_code": "39241090",
+   "hs6": "392410",
+   "hs6_description": "Plastics; tableware and kitchenware",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -5685,6 +6631,8 @@
   },
   {
    "hs_code": "392490",
+   "hs6": "392490",
+   "hs6_description": "Plastics; household articles and hygienic or toilet articles",
    "level": 6,
    "chapter": "39",
    "description": "Other",
@@ -5697,6 +6645,8 @@
   },
   {
    "hs_code": "39249010",
+   "hs6": "392490",
+   "hs6_description": "Plastics; household articles and hygienic or toilet articles",
    "level": 8,
    "chapter": "39",
    "description": "Toilet articles",
@@ -5709,6 +6659,8 @@
   },
   {
    "hs_code": "39249020",
+   "hs6": "392490",
+   "hs6_description": "Plastics; household articles and hygienic or toilet articles",
    "level": 8,
    "chapter": "39",
    "description": "Insulated ware",
@@ -5721,6 +6673,8 @@
   },
   {
    "hs_code": "39249090",
+   "hs6": "392490",
+   "hs6_description": "Plastics; household articles and hygienic or toilet articles",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -5733,6 +6687,8 @@
   },
   {
    "hs_code": "3925",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Builders ware of plastics, not elsewhere specified or included.",
@@ -5745,6 +6701,8 @@
   },
   {
    "hs_code": "39251000",
+   "hs6": "392510",
+   "hs6_description": "Plastics; builders' ware, reservoirs, tanks, vats and similar containers of a capacity exceeding 300 litres",
    "level": 8,
    "chapter": "39",
    "description": "Reservoirs, tanks, vats and similar containers, of a capacity exceeding 300 l",
@@ -5757,6 +6715,8 @@
   },
   {
    "hs_code": "39252000",
+   "hs6": "392520",
+   "hs6_description": "Plastics; builders' ware, doors, windows and their frames and thresholds for doors",
    "level": 8,
    "chapter": "39",
    "description": "Doors, windows and their frames and thresholds for doors",
@@ -5769,6 +6729,8 @@
   },
   {
    "hs_code": "39253000",
+   "hs6": "392530",
+   "hs6_description": "Plastics; builders' ware, shutters, blinds (including venetian blinds) and similar articles and parts thereof",
    "level": 8,
    "chapter": "39",
    "description": "Shutters, blinds (including Venetian blinds) and similar articles and parts thereof",
@@ -5781,6 +6743,8 @@
   },
   {
    "hs_code": "392590",
+   "hs6": "392590",
+   "hs6_description": "Plastics; builders' ware, n.e.c. or included in heading no. 3925",
    "level": 6,
    "chapter": "39",
    "description": "Other",
@@ -5793,6 +6757,8 @@
   },
   {
    "hs_code": "39259010",
+   "hs6": "392590",
+   "hs6_description": "Plastics; builders' ware, n.e.c. or included in heading no. 3925",
    "level": 8,
    "chapter": "39",
    "description": "Of polyurethane",
@@ -5805,6 +6771,8 @@
   },
   {
    "hs_code": "39259090",
+   "hs6": "392590",
+   "hs6_description": "Plastics; builders' ware, n.e.c. or included in heading no. 3925",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -5817,6 +6785,8 @@
   },
   {
    "hs_code": "3926",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "39",
    "description": "Other articles of plastics and articles of other materials of headings 39.01 to 39.14.",
@@ -5829,6 +6799,8 @@
   },
   {
    "hs_code": "392610",
+   "hs6": "392610",
+   "hs6_description": "Plastics; office or school supplies",
    "level": 6,
    "chapter": "39",
    "description": "Office or school supplies",
@@ -5841,6 +6813,8 @@
   },
   {
    "hs_code": "39261011",
+   "hs6": "392610",
+   "hs6_description": "Plastics; office or school supplies",
    "level": 8,
    "chapter": "39",
    "description": "Of polyurethane foam",
@@ -5853,6 +6827,8 @@
   },
   {
    "hs_code": "39261019",
+   "hs6": "392610",
+   "hs6_description": "Plastics; office or school supplies",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -5865,6 +6841,8 @@
   },
   {
    "hs_code": "39261091",
+   "hs6": "392610",
+   "hs6_description": "Plastics; office or school supplies",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Of polyurethane foam",
@@ -5877,6 +6855,8 @@
   },
   {
    "hs_code": "39261099",
+   "hs6": "392610",
+   "hs6_description": "Plastics; office or school supplies",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -5889,6 +6869,8 @@
   },
   {
    "hs_code": "392620",
+   "hs6": "392620",
+   "hs6_description": "Plastics; articles of apparel and clothing accessories (including gloves, mittens and mitts)",
    "level": 6,
    "chapter": "39",
    "description": "Articles of apparel and clothing accessories (including gloves, mittens and mitts)",
@@ -5901,6 +6883,8 @@
   },
   {
    "hs_code": "39262011",
+   "hs6": "392620",
+   "hs6_description": "Plastics; articles of apparel and clothing accessories (including gloves, mittens and mitts)",
    "level": 8,
    "chapter": "39",
    "description": "Gloves: ---- Disposable",
@@ -5913,6 +6897,8 @@
   },
   {
    "hs_code": "39262019",
+   "hs6": "392620",
+   "hs6_description": "Plastics; articles of apparel and clothing accessories (including gloves, mittens and mitts)",
    "level": 8,
    "chapter": "39",
    "description": "Gloves: ---- Non-disposable",
@@ -5925,6 +6911,8 @@
   },
   {
    "hs_code": "39262021",
+   "hs6": "392620",
+   "hs6_description": "Plastics; articles of apparel and clothing accessories (including gloves, mittens and mitts)",
    "level": 8,
    "chapter": "39",
    "description": "Approns: ---- Of polyurethane foam",
@@ -5937,6 +6925,8 @@
   },
   {
    "hs_code": "39262029",
+   "hs6": "392620",
+   "hs6_description": "Plastics; articles of apparel and clothing accessories (including gloves, mittens and mitts)",
    "level": 8,
    "chapter": "39",
    "description": "Approns: ---- Other",
@@ -5949,6 +6939,8 @@
   },
   {
    "hs_code": "39262031",
+   "hs6": "392620",
+   "hs6_description": "Plastics; articles of apparel and clothing accessories (including gloves, mittens and mitts)",
    "level": 8,
    "chapter": "39",
    "description": "Plastic stickers for garments: ---- Of polyurethane foam",
@@ -5961,6 +6953,8 @@
   },
   {
    "hs_code": "39262039",
+   "hs6": "392620",
+   "hs6_description": "Plastics; articles of apparel and clothing accessories (including gloves, mittens and mitts)",
    "level": 8,
    "chapter": "39",
    "description": "Plastic stickers for garments: ---- Other",
@@ -5973,6 +6967,8 @@
   },
   {
    "hs_code": "39262041",
+   "hs6": "392620",
+   "hs6_description": "Plastics; articles of apparel and clothing accessories (including gloves, mittens and mitts)",
    "level": 8,
    "chapter": "39",
    "description": "Collar stays, patties, butterfly, shoulder-pads and other stays: ---- Of polyurethane foam",
@@ -5985,6 +6981,8 @@
   },
   {
    "hs_code": "39262049",
+   "hs6": "392620",
+   "hs6_description": "Plastics; articles of apparel and clothing accessories (including gloves, mittens and mitts)",
    "level": 8,
    "chapter": "39",
    "description": "Collar stays, patties, butterfly, shoulder-pads and other stays: ---- Other",
@@ -5997,6 +6995,8 @@
   },
   {
    "hs_code": "39262091",
+   "hs6": "392620",
+   "hs6_description": "Plastics; articles of apparel and clothing accessories (including gloves, mittens and mitts)",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Of polyurethane foam",
@@ -6009,6 +7009,8 @@
   },
   {
    "hs_code": "39262099",
+   "hs6": "392620",
+   "hs6_description": "Plastics; articles of apparel and clothing accessories (including gloves, mittens and mitts)",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -6021,6 +7023,8 @@
   },
   {
    "hs_code": "392630",
+   "hs6": "392630",
+   "hs6_description": "Plastics; fittings for furniture, coachwork or the like",
    "level": 6,
    "chapter": "39",
    "description": "Fittings for furniture, coachwork or the like",
@@ -6033,6 +7037,8 @@
   },
   {
    "hs_code": "39263010",
+   "hs6": "392630",
+   "hs6_description": "Plastics; fittings for furniture, coachwork or the like",
    "level": 8,
    "chapter": "39",
    "description": "Of polyurethane foam",
@@ -6045,6 +7051,8 @@
   },
   {
    "hs_code": "39263090",
+   "hs6": "392630",
+   "hs6_description": "Plastics; fittings for furniture, coachwork or the like",
    "level": 8,
    "chapter": "39",
    "description": "Other",
@@ -6057,6 +7065,8 @@
   },
   {
    "hs_code": "392640",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 6,
    "chapter": "39",
    "description": "Statuettes and other ornamental articles",
@@ -6069,6 +7079,8 @@
   },
   {
    "hs_code": "39264011",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Bangles: ---- Of polyurethane foam",
@@ -6081,6 +7093,8 @@
   },
   {
    "hs_code": "39264019",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Bangles: ---- Other",
@@ -6093,6 +7107,8 @@
   },
   {
    "hs_code": "39264021",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Beads: ---- Of polyurethane foam",
@@ -6105,6 +7121,8 @@
   },
   {
    "hs_code": "39264029",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Beads: ---- Other",
@@ -6117,6 +7135,8 @@
   },
   {
    "hs_code": "39264031",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Statuettes: ---- Of polyurethane foam",
@@ -6129,6 +7149,8 @@
   },
   {
    "hs_code": "39264039",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Statuettes: ---- Other",
@@ -6141,6 +7163,8 @@
   },
   {
    "hs_code": "39264041",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Table and other household articles (including hotel and restaurant) for decoration: ---- Of polyurethane foam",
@@ -6153,6 +7177,8 @@
   },
   {
    "hs_code": "39264049",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Table and other household articles (including hotel and restaurant) for decoration: ---- Other",
@@ -6165,6 +7191,8 @@
   },
   {
    "hs_code": "39264051",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Decorative sheets: ---- Of polyurethane foam",
@@ -6177,6 +7205,8 @@
   },
   {
    "hs_code": "39264059",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Decorative sheets: ---- Other",
@@ -6189,6 +7219,8 @@
   },
   {
    "hs_code": "39264060",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Decorative sheets: ---- Sequine",
@@ -6201,6 +7233,8 @@
   },
   {
    "hs_code": "39264091",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Of polyurethane foam",
@@ -6213,6 +7247,8 @@
   },
   {
    "hs_code": "39264099",
+   "hs6": "392640",
+   "hs6_description": "Plastics; statuettes and other ornamental articles",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",
@@ -6225,6 +7261,8 @@
   },
   {
    "hs_code": "392690",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 6,
    "chapter": "39",
    "description": "Other",
@@ -6237,6 +7275,8 @@
   },
   {
    "hs_code": "39269010",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "PVC belt conveyor",
@@ -6249,6 +7289,8 @@
   },
   {
    "hs_code": "39269021",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Couplers, packing rings, O rings and the like: ---- Of polyurethane foam",
@@ -6261,6 +7303,8 @@
   },
   {
    "hs_code": "39269029",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Couplers, packing rings, O rings and the like: ---- Other",
@@ -6273,6 +7317,8 @@
   },
   {
    "hs_code": "39269031",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Lasts, with or without steel hinges ; EVA and grape sheets for soles and heels; welts: ---- Of polyurethane foam",
@@ -6285,6 +7331,8 @@
   },
   {
    "hs_code": "39269039",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Lasts, with or without steel hinges ; EVA and grape sheets for soles and heels; welts: ---- Other",
@@ -6297,6 +7345,8 @@
   },
   {
    "hs_code": "39269041",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Rings, buckles, tacks, washers and other decorative fittings made of plastic used as trimmings and embellishments for leather products ; patterns for leather foot wear, leather garments and leather goods: ---- Of polyurethane foam",
@@ -6309,6 +7359,8 @@
   },
   {
    "hs_code": "39269049",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Rings, buckles, tacks, washers and other decorative fittings made of plastic used as trimmings and embellishments for leather products ; patterns for leather foot wear, leather garments and leather goods: ---- Other",
@@ -6321,6 +7373,8 @@
   },
   {
    "hs_code": "39269051",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Retroreflective sheeting of other than of heading 3920: ---- Of polyurethane foam",
@@ -6333,6 +7387,8 @@
   },
   {
    "hs_code": "39269059",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Retroreflective sheeting of other than of heading 3920: ---- Other",
@@ -6345,6 +7401,8 @@
   },
   {
    "hs_code": "39269061",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Hangers: ---- Of polyurethane foam",
@@ -6357,6 +7415,8 @@
   },
   {
    "hs_code": "39269069",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Hangers: ---- Other",
@@ -6369,6 +7429,8 @@
   },
   {
    "hs_code": "39269071",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Plastic or nylon tipped hammers ; Insulating liner of nylon , HDPE: ---- Of polyurethane foam",
@@ -6381,6 +7443,8 @@
   },
   {
    "hs_code": "39269079",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Plastic or nylon tipped hammers ; Insulating liner of nylon , HDPE: ---- Other",
@@ -6393,6 +7457,8 @@
   },
   {
    "hs_code": "39269080",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Plastic or nylon tipped hammers ; Insulating liner of nylon , HDPE: ---- Polypropylene articles, not elsewhere specified or included",
@@ -6405,6 +7471,8 @@
   },
   {
    "hs_code": "39269091",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Of polyurethane foam",
@@ -6417,6 +7485,8 @@
   },
   {
    "hs_code": "39269099",
+   "hs6": "392690",
+   "hs6_description": "Plastics; other articles n.e.c. in chapter 39",
    "level": 8,
    "chapter": "39",
    "description": "Other: ---- Other",

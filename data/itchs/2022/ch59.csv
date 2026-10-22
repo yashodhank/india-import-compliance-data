@@ -1,103 +1,103 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-5901,4,59,"Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations.",,,,,,2026-10-22
-590110,6,59,"Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like",,,,,,2026-10-22
-59011010,8,59,Of cotton,Free,,,,,2026-10-22
-59011020,8,59,Prepared painting canvas,Free,,,,,2026-10-22
-59011090,8,59,Other,Free,,,,,2026-10-22
-590190,6,59,Other,,,,,,2026-10-22
-59019010,8,59,Tracing cloth of cotton,Free,,,,,2026-10-22
-59019020,8,59,Varnished cambric fabrics (Empire fabrics) tapes,Free,,,,,2026-10-22
-59019090,8,59,Other,Free,,,,,2026-10-22
-5902,4,59,"Tyre cord fabric of high tenacity yarn of nylon or other polyamides, polyesters or viscose rayon.",,,,,,2026-10-22
-590210,6,59,Of nylon or other polyamides,,,,,,2026-10-22
-59021010,8,59,Impregnated with rubber,Free,,,,,2026-10-22
-59021090,8,59,Other,Free,,,,,2026-10-22
-590220,6,59,Of polyesters,,,,,,2026-10-22
-59022010,8,59,Impregnated with rubber,Free,,,,,2026-10-22
-59022090,8,59,Other,Free,,,,,2026-10-22
-590290,6,59,Other,,,,,,2026-10-22
-59029010,8,59,Impregnated with rubber,Free,,,,,2026-10-22
-59029090,8,59,Other,Free,,,,,2026-10-22
-5903,4,59,"Textile fabrics impregnated, coated, covered or laminated with plastics, other than those of heading 59.02.",,,,,,2026-10-22
-590310,6,59,With poly(vinyl chloride),,,,,,2026-10-22
-59031010,8,59,Imitation leather fabrics of cotton,Free,,,,,2026-10-22
-59031090,8,59,Other,Free,,,,,2026-10-22
-590320,6,59,With polyurethane,,,,,,2026-10-22
-59032010,8,59,"Imitation leather fabrics, of cotton",Free,,,,,2026-10-22
-59032090,8,59,Other,Free,,,,,2026-10-22
-590390,6,59,Other,,,,,,2026-10-22
-59039010,8,59,Of cotton,Free,,,,,2026-10-22
-59039020,8,59,Polyethylene laminated jute fabrics,Free,,,,,2026-10-22
-59039090,8,59,Other,Free,,,,,2026-10-22
-5904,4,59,"Linoleum, whether or not cut to shape; floor coverings consisting of a coating or covering applied on a textile backing, whether or not cut to shape.",,,,,,2026-10-22
-59041000,8,59,Linoleum,Free,,,,,2026-10-22
-590490,6,59,Other,,,,,,2026-10-22
-59049010,8,59,Floor coverings with jute base,Free,,,,,2026-10-22
-59049090,8,59,Other,Free,,,,,2026-10-22
-5905,4,59,Textile wall coverings.,,,,,,2026-10-22
-590500,6,59,Textile wall coverings :,,,,,,2026-10-22
-59050010,8,59,Fixed on the backing of any material,Free,,,,,2026-10-22
-59050090,8,59,Other,Free,,,,,2026-10-22
-5906,4,59,"Rubberised textile fabrics, other than those of heading 59.02.",,,,,,2026-10-22
-59061000,8,59,Adhesive tape of a width not exceeding 20 cm,Free,,,,,2026-10-22
-590691,6,59,Other : -- Knitted or crocheted,,,,,,2026-10-22
-59069110,8,59,Of cotton,Free,,,,,2026-10-22
-59069190,8,59,Of other textile materials,Free,,,,,2026-10-22
-590699,6,59,Other : -- Other,,,,,,2026-10-22
-59069910,8,59,"Insulating tape, electrical of cotton",Free,,,,,2026-10-22
-59069920,8,59,"Rubberised cotton fabrics, other than knitted or crocheted",Free,,,,,2026-10-22
-59069990,8,59,Other,Free,,,,,2026-10-22
-5907,4,59,"Textile fabrics otherwise impregnated, coated or covered; painted canvas being theatrical scenery, studio back-cloths or the like.",,,,,,2026-10-22
-590700,6,59,"Textile fabrics otherwise impregnated, coated or covered; painted canvas being theatrical scenery, studio back-cloths or the like.",,,,,,2026-10-22
-59070011,8,59,"Fabrics covered partially or fully with textile flocks, or with preparation containing textile flocks: ---- On the base fabrics of cotton",Free,,,,,2026-10-22
-59070012,8,59,"Fabrics covered partially or fully with textile flocks, or with preparation containing textile flocks: ---- On the base fabrics of man-made textile material",Free,,,,,2026-10-22
-59070019,8,59,"Fabrics covered partially or fully with textile flocks, or with preparation containing textile flocks: ---- Other",Free,,,,,2026-10-22
-59070091,8,59,Other: ---- Cotton fabrics coated or impregnated with oil or preparations with basis of drying oil,Free,,,,,2026-10-22
-59070092,8,59,Other: ---- Other textile fabrics coated or impregnated with oil or oil preparations,Free,,,,,2026-10-22
-59070093,8,59,"Other: ---- Jute fabrics otherwise impregnated or coated,",Free,,,,,2026-10-22
-59070099,8,59,Other: ---- Other,Free,,,,,2026-10-22
-5908,4,59,"Textile wicks, woven, plaited or knitted , for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated.",,,,,,2026-10-22
-590800,6,59,"Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated :",,,,,,2026-10-22
-59080010,8,59,"Wicks and gas mantle fabrics, of cotton",Free,,,,,2026-10-22
-59080020,8,59,Gas mantles of rayon,Free,,,,,2026-10-22
-59080090,8,59,Other,Free,,,,,2026-10-22
-5909,4,59,"Textile hosepiping and similar textile tubing, with or without lining, armour or accessories of other materials.",,,,,,2026-10-22
-590900,6,59,"Textile hose piping and similar textile tubing, with or without lining, armour or accessories of other materials :",,,,,,2026-10-22
-59090010,8,59,Of cotton,Free,,,,,2026-10-22
-59090020,8,59,Of man-made fibre,Free,,,,,2026-10-22
-59090090,8,59,Of other textile materials,Free,,,,,2026-10-22
-5910,4,59,"Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material.",,,,,,2026-10-22
-591000,6,59,"Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material :",,,,,,2026-10-22
-59100010,8,59,Cotton canvas ply belting,Free,,,,,2026-10-22
-59100020,8,59,Rubberised cotton belting,Free,,,,,2026-10-22
-59100030,8,59,"Other transmission, conveyer or elevator belts or belting of cotton",Free,,,,,2026-10-22
-59100040,8,59,Hair belting,Free,,,,,2026-10-22
-59100050,8,59,Flax canvas ply belting,Free,,,,,2026-10-22
-59100060,8,59,Fibre belt conveyor,Free,,,,,2026-10-22
-59100090,8,59,Other,Free,,,,,2026-10-22
-5911,4,59,"TEXTILE PRODUCTS AND ARTICLES, FOR TECHNICAL USES, SPECIFIED IN NOTE 8 TO THIS CHAPTER",,,,,,2026-10-22
-59111000,8,59,"Textile products and articles, for technical uses, specified in Note 7 to this Chapter.",Free,,,,,2026-10-22
-59112000,8,59,"Bolting cloth, whether or not made up",Free,,,,,2026-10-22
-591131,6,59,"Textile fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines (for example, for pulp or asbestos-cement) : -- Weighing less than 650 g/m2",,,,,,2026-10-22
-59113110,8,59,"Felt for cotton textile industries, woven",Free,,,,,2026-10-22
-59113120,8,59,"Woven textiles felt, whether or not impregnated or coated, of a kind commonly used in other machines",Free,,,,,2026-10-22
-59113130,8,59,Cotton fabrics and articles used in machinery and plant,Free,,,,,2026-10-22
-59113140,8,59,Jute fabrics and articles used in machinery or plant,Free,,,,,2026-10-22
-59113150,8,59,Textile fabrics of metalised yarn of a kind commonly used in paper making or other machinery,Free,,,,,2026-10-22
-59113190,8,59,Other,Free,,,,,2026-10-22
-591132,6,59,"Textile fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines (for example, for pulp or asbestos-cement) : -- Weighing 650 g/m2 or more",,,,,,2026-10-22
-59113210,8,59,"Felt for cotton textile industries, woven",Free,,,,,2026-10-22
-59113220,8,59,"Woven textiles felt, whether or not impregnated or coated, of a kind commonly used in other machines",Free,,,,,2026-10-22
-59113230,8,59,Cotton fabrics and articles used in machinery and plant,Free,,,,,2026-10-22
-59113240,8,59,Jute fabrics and articles used in machinery or plant,Free,,,,,2026-10-22
-59113250,8,59,Textile fabrics of metalised yarn of a kind commonly used in paper making or other machinery,Free,,,,,2026-10-22
-59113290,8,59,Other,Free,,,,,2026-10-22
-59114000,8,59,"Filtering or straining cloth of a kind used in oil presses or the like, including that of human hair",Free,,,,,2026-10-22
-591190,6,59,Other,,,,,,2026-10-22
-59119010,8,59,"Paper makers felt, woven",Free,,,,,2026-10-22
-59119020,8,59,"Gaskets, washers, polishing discs and other machinery parts of textile articles",Free,,,,,2026-10-22
-59119031,8,59,Knitted or woven Geo-technical textile:: ---- Geogrid conforming to IS 17373,Free,,,20/2015-2020,2022-01-07,2026-10-22
-59119032,8,59,"Knitted or woven Geo-technical textile:: ---- Geotextile conforming to IS 16391, IS 16392",Free,-,,20/2015-2020,2022-07-07,2026-10-22
-59119039,8,59,Knitted or woven Geo-technical textile:: ---- Other,Free,,,20/2015-2020,2022-01-07,2026-10-22
-59119040,8,59,"Knitted or woven Geo-technical textile:: ---- Mulch mats, conforming to IS 16202",Free,,,20/2015-2020,2022-01-07,2026-10-22
-59119090,8,59,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+5901,,,4,59,"Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations.",,,,,,2026-10-22
+590110,590110,"Textile fabrics; coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like",6,59,"Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like",,,,,,2026-10-22
+59011010,590110,"Textile fabrics; coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like",8,59,Of cotton,Free,,,,,2026-10-22
+59011020,590110,"Textile fabrics; coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like",8,59,Prepared painting canvas,Free,,,,,2026-10-22
+59011090,590110,"Textile fabrics; coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like",8,59,Other,Free,,,,,2026-10-22
+590190,590190,"Textile fabrics; coated with gum or amylaceous substances, tracing cloth, prepared painting canvas, buckram and similar stiffened textile fabrics for hat foundations, (excluding book covers)",6,59,Other,,,,,,2026-10-22
+59019010,590190,"Textile fabrics; coated with gum or amylaceous substances, tracing cloth, prepared painting canvas, buckram and similar stiffened textile fabrics for hat foundations, (excluding book covers)",8,59,Tracing cloth of cotton,Free,,,,,2026-10-22
+59019020,590190,"Textile fabrics; coated with gum or amylaceous substances, tracing cloth, prepared painting canvas, buckram and similar stiffened textile fabrics for hat foundations, (excluding book covers)",8,59,Varnished cambric fabrics (Empire fabrics) tapes,Free,,,,,2026-10-22
+59019090,590190,"Textile fabrics; coated with gum or amylaceous substances, tracing cloth, prepared painting canvas, buckram and similar stiffened textile fabrics for hat foundations, (excluding book covers)",8,59,Other,Free,,,,,2026-10-22
+5902,,,4,59,"Tyre cord fabric of high tenacity yarn of nylon or other polyamides, polyesters or viscose rayon.",,,,,,2026-10-22
+590210,590210,Textile fabrics; tyrecord of high tenacity yarn of nylon or other polyamides,6,59,Of nylon or other polyamides,,,,,,2026-10-22
+59021010,590210,Textile fabrics; tyrecord of high tenacity yarn of nylon or other polyamides,8,59,Impregnated with rubber,Free,,,,,2026-10-22
+59021090,590210,Textile fabrics; tyrecord of high tenacity yarn of nylon or other polyamides,8,59,Other,Free,,,,,2026-10-22
+590220,590220,Textile fabrics; tyrecord of high tenacity yarn of polyester,6,59,Of polyesters,,,,,,2026-10-22
+59022010,590220,Textile fabrics; tyrecord of high tenacity yarn of polyester,8,59,Impregnated with rubber,Free,,,,,2026-10-22
+59022090,590220,Textile fabrics; tyrecord of high tenacity yarn of polyester,8,59,Other,Free,,,,,2026-10-22
+590290,590290,Textile fabrics; tyrecord of high tenacity yarn of viscose rayon,6,59,Other,,,,,,2026-10-22
+59029010,590290,Textile fabrics; tyrecord of high tenacity yarn of viscose rayon,8,59,Impregnated with rubber,Free,,,,,2026-10-22
+59029090,590290,Textile fabrics; tyrecord of high tenacity yarn of viscose rayon,8,59,Other,Free,,,,,2026-10-22
+5903,,,4,59,"Textile fabrics impregnated, coated, covered or laminated with plastics, other than those of heading 59.02.",,,,,,2026-10-22
+590310,590310,"Textile fabrics; impregnated, coated, covered or laminated with poly(vinyl chloride)",6,59,With poly(vinyl chloride),,,,,,2026-10-22
+59031010,590310,"Textile fabrics; impregnated, coated, covered or laminated with poly(vinyl chloride)",8,59,Imitation leather fabrics of cotton,Free,,,,,2026-10-22
+59031090,590310,"Textile fabrics; impregnated, coated, covered or laminated with poly(vinyl chloride)",8,59,Other,Free,,,,,2026-10-22
+590320,590320,"Textile fabrics; impregnated, coated, covered or laminated with polyurethane",6,59,With polyurethane,,,,,,2026-10-22
+59032010,590320,"Textile fabrics; impregnated, coated, covered or laminated with polyurethane",8,59,"Imitation leather fabrics, of cotton",Free,,,,,2026-10-22
+59032090,590320,"Textile fabrics; impregnated, coated, covered or laminated with polyurethane",8,59,Other,Free,,,,,2026-10-22
+590390,590390,"Textile fabrics; impregnated, coated, covered or laminated with plastics, (excluding polyvinyl chloride, polyurethane and those of heading no. 5902)",6,59,Other,,,,,,2026-10-22
+59039010,590390,"Textile fabrics; impregnated, coated, covered or laminated with plastics, (excluding polyvinyl chloride, polyurethane and those of heading no. 5902)",8,59,Of cotton,Free,,,,,2026-10-22
+59039020,590390,"Textile fabrics; impregnated, coated, covered or laminated with plastics, (excluding polyvinyl chloride, polyurethane and those of heading no. 5902)",8,59,Polyethylene laminated jute fabrics,Free,,,,,2026-10-22
+59039090,590390,"Textile fabrics; impregnated, coated, covered or laminated with plastics, (excluding polyvinyl chloride, polyurethane and those of heading no. 5902)",8,59,Other,Free,,,,,2026-10-22
+5904,,,4,59,"Linoleum, whether or not cut to shape; floor coverings consisting of a coating or covering applied on a textile backing, whether or not cut to shape.",,,,,,2026-10-22
+59041000,590410,"Linoleum, whether or not cut to shape",8,59,Linoleum,Free,,,,,2026-10-22
+590490,590490,"Textiles floor coverings; consisting of a coating or covering applied on a textile backing, whether or not cut to shape, other than linoleum",6,59,Other,,,,,,2026-10-22
+59049010,590490,"Textiles floor coverings; consisting of a coating or covering applied on a textile backing, whether or not cut to shape, other than linoleum",8,59,Floor coverings with jute base,Free,,,,,2026-10-22
+59049090,590490,"Textiles floor coverings; consisting of a coating or covering applied on a textile backing, whether or not cut to shape, other than linoleum",8,59,Other,Free,,,,,2026-10-22
+5905,,,4,59,Textile wall coverings.,,,,,,2026-10-22
+590500,590500,"Textile wall coverings of fabrics impregnated, coated, covered or laminated",6,59,Textile wall coverings :,,,,,,2026-10-22
+59050010,590500,"Textile wall coverings of fabrics impregnated, coated, covered or laminated",8,59,Fixed on the backing of any material,Free,,,,,2026-10-22
+59050090,590500,"Textile wall coverings of fabrics impregnated, coated, covered or laminated",8,59,Other,Free,,,,,2026-10-22
+5906,,,4,59,"Rubberised textile fabrics, other than those of heading 59.02.",,,,,,2026-10-22
+59061000,590610,"Textile fabrics, rubberised; (excluding those of heading no. 5902), adhesive tape of a width not exceeding 20cm",8,59,Adhesive tape of a width not exceeding 20 cm,Free,,,,,2026-10-22
+590691,590691,"Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), knitted or crocheted",6,59,Other : -- Knitted or crocheted,,,,,,2026-10-22
+59069110,590691,"Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), knitted or crocheted",8,59,Of cotton,Free,,,,,2026-10-22
+59069190,590691,"Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), knitted or crocheted",8,59,Of other textile materials,Free,,,,,2026-10-22
+590699,590699,"Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), not knitted or crocheted",6,59,Other : -- Other,,,,,,2026-10-22
+59069910,590699,"Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), not knitted or crocheted",8,59,"Insulating tape, electrical of cotton",Free,,,,,2026-10-22
+59069920,590699,"Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), not knitted or crocheted",8,59,"Rubberised cotton fabrics, other than knitted or crocheted",Free,,,,,2026-10-22
+59069990,590699,"Textile fabrics, rubberised; (excluding those of heading no. 5902 and adhesive tape of a width not exceeding 20cm), not knitted or crocheted",8,59,Other,Free,,,,,2026-10-22
+5907,,,4,59,"Textile fabrics otherwise impregnated, coated or covered; painted canvas being theatrical scenery, studio back-cloths or the like.",,,,,,2026-10-22
+590700,590700,"Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",6,59,"Textile fabrics otherwise impregnated, coated or covered; painted canvas being theatrical scenery, studio back-cloths or the like.",,,,,,2026-10-22
+59070011,590700,"Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",8,59,"Fabrics covered partially or fully with textile flocks, or with preparation containing textile flocks: ---- On the base fabrics of cotton",Free,,,,,2026-10-22
+59070012,590700,"Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",8,59,"Fabrics covered partially or fully with textile flocks, or with preparation containing textile flocks: ---- On the base fabrics of man-made textile material",Free,,,,,2026-10-22
+59070019,590700,"Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",8,59,"Fabrics covered partially or fully with textile flocks, or with preparation containing textile flocks: ---- Other",Free,,,,,2026-10-22
+59070091,590700,"Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",8,59,Other: ---- Cotton fabrics coated or impregnated with oil or preparations with basis of drying oil,Free,,,,,2026-10-22
+59070092,590700,"Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",8,59,Other: ---- Other textile fabrics coated or impregnated with oil or oil preparations,Free,,,,,2026-10-22
+59070093,590700,"Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",8,59,"Other: ---- Jute fabrics otherwise impregnated or coated,",Free,,,,,2026-10-22
+59070099,590700,"Textile fabrics; otherwise impregnated, coated or covered, painted canvas being theatrical scenery, studio back-cloths or the like",8,59,Other: ---- Other,Free,,,,,2026-10-22
+5908,,,4,59,"Textile wicks, woven, plaited or knitted , for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated.",,,,,,2026-10-22
+590800,590800,"Textile wicks, woven, plaited or knitted; for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated",6,59,"Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated :",,,,,,2026-10-22
+59080010,590800,"Textile wicks, woven, plaited or knitted; for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated",8,59,"Wicks and gas mantle fabrics, of cotton",Free,,,,,2026-10-22
+59080020,590800,"Textile wicks, woven, plaited or knitted; for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated",8,59,Gas mantles of rayon,Free,,,,,2026-10-22
+59080090,590800,"Textile wicks, woven, plaited or knitted; for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated",8,59,Other,Free,,,,,2026-10-22
+5909,,,4,59,"Textile hosepiping and similar textile tubing, with or without lining, armour or accessories of other materials.",,,,,,2026-10-22
+590900,590900,"Textile hosepiping and similar textile tubing; with or without lining, armour or accessories of other materials",6,59,"Textile hose piping and similar textile tubing, with or without lining, armour or accessories of other materials :",,,,,,2026-10-22
+59090010,590900,"Textile hosepiping and similar textile tubing; with or without lining, armour or accessories of other materials",8,59,Of cotton,Free,,,,,2026-10-22
+59090020,590900,"Textile hosepiping and similar textile tubing; with or without lining, armour or accessories of other materials",8,59,Of man-made fibre,Free,,,,,2026-10-22
+59090090,590900,"Textile hosepiping and similar textile tubing; with or without lining, armour or accessories of other materials",8,59,Of other textile materials,Free,,,,,2026-10-22
+5910,,,4,59,"Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material.",,,,,,2026-10-22
+591000,591000,"Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",6,59,"Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material :",,,,,,2026-10-22
+59100010,591000,"Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",8,59,Cotton canvas ply belting,Free,,,,,2026-10-22
+59100020,591000,"Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",8,59,Rubberised cotton belting,Free,,,,,2026-10-22
+59100030,591000,"Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",8,59,"Other transmission, conveyer or elevator belts or belting of cotton",Free,,,,,2026-10-22
+59100040,591000,"Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",8,59,Hair belting,Free,,,,,2026-10-22
+59100050,591000,"Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",8,59,Flax canvas ply belting,Free,,,,,2026-10-22
+59100060,591000,"Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",8,59,Fibre belt conveyor,Free,,,,,2026-10-22
+59100090,591000,"Textiles; transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",8,59,Other,Free,,,,,2026-10-22
+5911,,,4,59,"TEXTILE PRODUCTS AND ARTICLES, FOR TECHNICAL USES, SPECIFIED IN NOTE 8 TO THIS CHAPTER",,,,,,2026-10-22
+59111000,591110,"Textile fabric, felt & felt-lined woven fabrics, coated/covered/laminated with rubber, leather or other material, for card clothing, similar fabrics used for technical purposes, including rubber impregnated narrow velvet fabrics to cover weaving spindles",8,59,"Textile products and articles, for technical uses, specified in Note 7 to this Chapter.",Free,,,,,2026-10-22
+59112000,591120,"Textile products and articles for technical uses; bolting cloth, whether or not made up",8,59,"Bolting cloth, whether or not made up",Free,,,,,2026-10-22
+591131,591131,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",6,59,"Textile fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines (for example, for pulp or asbestos-cement) : -- Weighing less than 650 g/m2",,,,,,2026-10-22
+59113110,591131,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",8,59,"Felt for cotton textile industries, woven",Free,,,,,2026-10-22
+59113120,591131,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",8,59,"Woven textiles felt, whether or not impregnated or coated, of a kind commonly used in other machines",Free,,,,,2026-10-22
+59113130,591131,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",8,59,Cotton fabrics and articles used in machinery and plant,Free,,,,,2026-10-22
+59113140,591131,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",8,59,Jute fabrics and articles used in machinery or plant,Free,,,,,2026-10-22
+59113150,591131,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",8,59,Textile fabrics of metalised yarn of a kind commonly used in paper making or other machinery,Free,,,,,2026-10-22
+59113190,591131,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing less than 650g/m2",8,59,Other,Free,,,,,2026-10-22
+591132,591132,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",6,59,"Textile fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines (for example, for pulp or asbestos-cement) : -- Weighing 650 g/m2 or more",,,,,,2026-10-22
+59113210,591132,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",8,59,"Felt for cotton textile industries, woven",Free,,,,,2026-10-22
+59113220,591132,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",8,59,"Woven textiles felt, whether or not impregnated or coated, of a kind commonly used in other machines",Free,,,,,2026-10-22
+59113230,591132,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",8,59,Cotton fabrics and articles used in machinery and plant,Free,,,,,2026-10-22
+59113240,591132,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",8,59,Jute fabrics and articles used in machinery or plant,Free,,,,,2026-10-22
+59113250,591132,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",8,59,Textile fabrics of metalised yarn of a kind commonly used in paper making or other machinery,Free,,,,,2026-10-22
+59113290,591132,"Textiles; fabrics and felts, endless or fitted with linking devices, of a kind used in paper-making or similar machines, weighing 650g/m2 or more",8,59,Other,Free,,,,,2026-10-22
+59114000,591140,"Textile products and articles for technical uses; straining cloth of a kind used in oil presses and the like, including that of human hair",8,59,"Filtering or straining cloth of a kind used in oil presses or the like, including that of human hair",Free,,,,,2026-10-22
+591190,591190,Textile products and articles for technical uses; n.e.c. in heading no. 5911,6,59,Other,,,,,,2026-10-22
+59119010,591190,Textile products and articles for technical uses; n.e.c. in heading no. 5911,8,59,"Paper makers felt, woven",Free,,,,,2026-10-22
+59119020,591190,Textile products and articles for technical uses; n.e.c. in heading no. 5911,8,59,"Gaskets, washers, polishing discs and other machinery parts of textile articles",Free,,,,,2026-10-22
+59119031,591190,Textile products and articles for technical uses; n.e.c. in heading no. 5911,8,59,Knitted or woven Geo-technical textile:: ---- Geogrid conforming to IS 17373,Free,,,20/2015-2020,2022-01-07,2026-10-22
+59119032,591190,Textile products and articles for technical uses; n.e.c. in heading no. 5911,8,59,"Knitted or woven Geo-technical textile:: ---- Geotextile conforming to IS 16391, IS 16392",Free,-,,20/2015-2020,2022-07-07,2026-10-22
+59119039,591190,Textile products and articles for technical uses; n.e.c. in heading no. 5911,8,59,Knitted or woven Geo-technical textile:: ---- Other,Free,,,20/2015-2020,2022-01-07,2026-10-22
+59119040,591190,Textile products and articles for technical uses; n.e.c. in heading no. 5911,8,59,"Knitted or woven Geo-technical textile:: ---- Mulch mats, conforming to IS 16202",Free,,,20/2015-2020,2022-01-07,2026-10-22
+59119090,591190,Textile products and articles for technical uses; n.e.c. in heading no. 5911,8,59,Other,Free,,,,,2026-10-22

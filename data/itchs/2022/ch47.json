@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "47010000",
+   "hs6": "470100",
+   "hs6_description": "Wood pulp; mechanical wood pulp",
    "level": 8,
    "chapter": "47",
    "description": "Mechanical wood pulp.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "470200",
+   "hs6": "470200",
+   "hs6_description": "Wood pulp; chemical wood pulp, dissolving grades",
    "level": 6,
    "chapter": "47",
    "description": "Chemical wood pulp, dissolving grades.",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "47020010",
+   "hs6": "470200",
+   "hs6_description": "Wood pulp; chemical wood pulp, dissolving grades",
    "level": 8,
    "chapter": "47",
    "description": "--- Rayon grade wood pulp",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "47020090",
+   "hs6": "470200",
+   "hs6_description": "Wood pulp; chemical wood pulp, dissolving grades",
    "level": 8,
    "chapter": "47",
    "description": "--- Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "4703",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "47",
    "description": "Chemical wood pulp, soda or sulphate, other than dissolving grades.",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "47030000",
+   "hs6": "470300",
+   "hs6_description": "",
    "level": 8,
    "chapter": "47",
    "description": "Chemical wood pulp, soda or sulphate, other than dissolving grades",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "47031100",
+   "hs6": "470311",
+   "hs6_description": "Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), unbleached, of coniferous wood",
    "level": 8,
    "chapter": "47",
    "description": "Unbleached : -- Coniferous",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "47031900",
+   "hs6": "470319",
+   "hs6_description": "Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), unbleached, of non-coniferous wood",
    "level": 8,
    "chapter": "47",
    "description": "Unbleached : -- Non-coniferous",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "47032100",
+   "hs6": "470321",
+   "hs6_description": "Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), semi-bleached or bleached, of coniferous wood",
    "level": 8,
    "chapter": "47",
    "description": "Semi-bleached or bleached : -- Coniferous",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "47032900",
+   "hs6": "470329",
+   "hs6_description": "Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), semi-bleached or bleached, of non-coniferous wood",
    "level": 8,
    "chapter": "47",
    "description": "Semi-bleached or bleached : -- Non-coniferous",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "4704",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "47",
    "description": "Chemical wood pulp, sulphite, other than dissolving grades.",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "47040000",
+   "hs6": "470400",
+   "hs6_description": "",
    "level": 8,
    "chapter": "47",
    "description": "Chemical wood pulp, sulphite, other than dissolving grade",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "47041100",
+   "hs6": "470411",
+   "hs6_description": "Wood pulp; chemical wood pulp, sulphite, (other than dissolving grades), unbleached, of coniferous wood",
    "level": 8,
    "chapter": "47",
    "description": "Unbleached : -- Coniferous",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "47041900",
+   "hs6": "470419",
+   "hs6_description": "Wood pulp; chemical wood pulp, sulphite, (other than dissolving grades), unbleached, of non-coniferous wood",
    "level": 8,
    "chapter": "47",
    "description": "Unbleached : -- Non-coniferous",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "47042100",
+   "hs6": "470421",
+   "hs6_description": "Wood pulp; chemical wood pulp, sulphite, (other than dissolving grades), semi-bleached or bleached, of coniferous wood",
    "level": 8,
    "chapter": "47",
    "description": "Semi-bleached or bleached : -- Coniferous",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "47042900",
+   "hs6": "470429",
+   "hs6_description": "Wood pulp; chemical wood pulp, sulphite, (other than dissolving grades), semi-bleached or bleached, of non-coniferous wood",
    "level": 8,
    "chapter": "47",
    "description": "Semi-bleached or bleached : -- Non-coniferous",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "47050000",
+   "hs6": "470500",
+   "hs6_description": "Wood pulp; obtained by a combination of mechanical and chemical pulping processes",
    "level": 8,
    "chapter": "47",
    "description": "Wood pulp obtained by a combination of mechanical and chemical pulping processes.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "4706",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "47",
    "description": "Pulps of fibres derived from recovered (waste and scrap) paper or paperboard or of other fibrous cellulosic material.",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "47061000",
+   "hs6": "470610",
+   "hs6_description": "Pulp; cotton linters pulp",
    "level": 8,
    "chapter": "47",
    "description": "Cotton linters pulp",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "47062000",
+   "hs6": "470620",
+   "hs6_description": "Pulp; of fibres derived from recovered (waste and scrap) paper or paperboard",
    "level": 8,
    "chapter": "47",
    "description": "Pulps of fibres derived from recovered (waste and scrap) paper or",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "47063000",
+   "hs6": "470630",
+   "hs6_description": "Pulp; of bamboo",
    "level": 8,
    "chapter": "47",
    "description": "other, of bamboo",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "47069100",
+   "hs6": "470691",
+   "hs6_description": "Pulp; of fibrous cellulosic material, other than of bamboo or fibres derived from recovered (waste and scrap) paper or paperboard or from cotton linters pulp, mechanical",
    "level": 8,
    "chapter": "47",
    "description": "Other : -- Mechanical",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "47069200",
+   "hs6": "470692",
+   "hs6_description": "Pulp; of fibrous cellulosic material, other than of bamboo or fibres derived from recovered (waste and scrap) paper or paperboard or from cotton linters pulp, chemical",
    "level": 8,
    "chapter": "47",
    "description": "Other : -- Chemical",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "47069300",
+   "hs6": "470693",
+   "hs6_description": "Pulp; of fibrous cellulosic material, other than of bamboo or fibres derived from recovered (waste and scrap) paper or paperboard or from cotton linters pulp, obtained by a combination of mechanical and chemical processes",
    "level": 8,
    "chapter": "47",
    "description": "Other : -- Obtained by a combination of mechanical and chemical processes",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "4707",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "47",
    "description": "Recovered (waste and scrap) paper or paperboard.",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "47070000",
+   "hs6": "470700",
+   "hs6_description": "",
    "level": 8,
    "chapter": "47",
    "description": "Waste paper",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "47071000",
+   "hs6": "470710",
+   "hs6_description": "Paper or paperboard; waste and scrap, of unbleached kraft paper or paperboard or corrugated paper or paperboard",
    "level": 8,
    "chapter": "47",
    "description": "Unbleached kraft paper or paperboard or corrugated paper or paperboard",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "47072000",
+   "hs6": "470720",
+   "hs6_description": "Paper or paperboard; waste and scrap, paper or paperboard made mainly of bleached chemical pulp, not coloured in the mass",
    "level": 8,
    "chapter": "47",
    "description": "Other paper or paperboard made mainly of bleached chemical pulp, not coloured in the mass",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "47073000",
+   "hs6": "470730",
+   "hs6_description": "Paper or paperboard; waste and scrap, paper or paperboard made mainly of mechanical pulp (e.g. newspapers, journals and similar printed matter)",
    "level": 8,
    "chapter": "47",
    "description": "Paper or paperboard made mainly of mechanical pulp (for example, newspapers, journals and similar printed matter)",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "47079000",
+   "hs6": "470790",
+   "hs6_description": "Paper or paperboard; waste and scrap, of paper or paperboard n.e.c. in heading no. 4707 and of unsorted waste and scrap",
    "level": 8,
    "chapter": "47",
    "description": "Other, including unsorted waste and scrap",

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "0901",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "09",
    "description": "Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "090111",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 6,
    "chapter": "09",
    "description": "Coffee, not roasted : --Not decaffeinated",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "09011111",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Arabica plantation: ---- A Grade",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "09011112",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Arabica plantation: ---- B Grade",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "09011113",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Arabica plantation: ---- C Grade",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "09011119",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Arabica plantation: ---- Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "09011121",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Arabica Cherry: ---- AB Grade",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "09011122",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Arabica Cherry: ---- PB Grade",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "09011123",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Arabica Cherry: ---- C Grade",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "09011124",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Arabica Cherry: ---- B/B/B Grade",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "09011129",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Arabica Cherry: ---- Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "09011131",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Rob Parchment: ---- AB Grade",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "09011132",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Rob Parchment: ---- PB Grade",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "09011133",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Rob Parchment: ---- C Grade",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "09011139",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Rob Parchment: ---- Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "09011141",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Rob cherry: ---- AB Grade",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "09011142",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Rob cherry: ---- PB Grade",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "09011143",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Rob cherry: ---- C Grade",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "09011144",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Rob cherry: ---- B/B/B Grade",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "09011145",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Rob cherry: ---- Bulk",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "09011149",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Rob cherry: ---- Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "09011190",
+   "hs6": "090111",
+   "hs6_description": "Coffee; not roasted or decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "09011200",
+   "hs6": "090112",
+   "hs6_description": "Coffee; decaffeinated, not roasted",
    "level": 8,
    "chapter": "09",
    "description": "Coffee, not roasted : --Decaffeinated",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "090121",
+   "hs6": "090121",
+   "hs6_description": "Coffee; roasted, not decaffeinated",
    "level": 6,
    "chapter": "09",
    "description": "Coffee roasted : --Not decaffeinated",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "09012110",
+   "hs6": "090121",
+   "hs6_description": "Coffee; roasted, not decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "In bulk packing",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "09012190",
+   "hs6": "090121",
+   "hs6_description": "Coffee; roasted, not decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "090122",
+   "hs6": "090122",
+   "hs6_description": "Coffee; roasted, decaffeinated",
    "level": 6,
    "chapter": "09",
    "description": "Coffee roasted : --Decaffeinated",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "09012210",
+   "hs6": "090122",
+   "hs6_description": "Coffee; roasted, decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "In bulk packing",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "09012290",
+   "hs6": "090122",
+   "hs6_description": "Coffee; roasted, decaffeinated",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "090190",
+   "hs6": "090190",
+   "hs6_description": "Coffee; husks and skins, coffee substitutes containing coffee in any proportion",
    "level": 6,
    "chapter": "09",
    "description": "Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "09019010",
+   "hs6": "090190",
+   "hs6_description": "Coffee; husks and skins, coffee substitutes containing coffee in any proportion",
    "level": 8,
    "chapter": "09",
    "description": "Coffee husks and skins",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "09019020",
+   "hs6": "090190",
+   "hs6_description": "Coffee; husks and skins, coffee substitutes containing coffee in any proportion",
    "level": 8,
    "chapter": "09",
    "description": "Coffee substitutes containing coffee",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "09019090",
+   "hs6": "090190",
+   "hs6_description": "Coffee; husks and skins, coffee substitutes containing coffee in any proportion",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "0902",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "09",
    "description": "Tea, whether or not flavoured.",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "090210",
+   "hs6": "090210",
+   "hs6_description": "Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",
    "level": 6,
    "chapter": "09",
    "description": "Green tea (not fermented) in immediate packings of a content not exceeding 3 kg",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "09021010",
+   "hs6": "090210",
+   "hs6_description": "Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Contents not exceeding 25 g.",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "09021020",
+   "hs6": "090210",
+   "hs6_description": "Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Contents exceeding 25 g. but not exceeding 1 kg.",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "09021030",
+   "hs6": "090210",
+   "hs6_description": "Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Contents exceeding 1 kg but not exceeding 3 kg.",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "09021090",
+   "hs6": "090210",
+   "hs6_description": "Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "090220",
+   "hs6": "090220",
+   "hs6_description": "Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",
    "level": 6,
    "chapter": "09",
    "description": "Other green tea (not fermented)",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "09022010",
+   "hs6": "090220",
+   "hs6_description": "Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Green Tea in packets exceeding content 3 kg. but not exceeding 20 kg.",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "09022020",
+   "hs6": "090220",
+   "hs6_description": "Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Green Tea in bulk",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "09022030",
+   "hs6": "090220",
+   "hs6_description": "Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Green Tea agglomerated in forms such as ball, brick and tablets",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "09022040",
+   "hs6": "090220",
+   "hs6_description": "Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Green Tea waste",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "09022090",
+   "hs6": "090220",
+   "hs6_description": "Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "090230",
+   "hs6": "090230",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",
    "level": 6,
    "chapter": "09",
    "description": "Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "09023010",
+   "hs6": "090230",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Contents not exceeding 25 g.",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "09023020",
+   "hs6": "090230",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Contents exceeding 25 g. but not exceeding 1 kg.",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "09023030",
+   "hs6": "090230",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Contents exceeding 1 kg. but not exceeding 3 kg.",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "09023090",
+   "hs6": "090230",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "090240",
+   "hs6": "090240",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",
    "level": 6,
    "chapter": "09",
    "description": "Other black tea (fermented) and other partly fermented tea",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "09024010",
+   "hs6": "090240",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Content exceeding 3 kg. but not exceeding 20 kg.",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "09024020",
+   "hs6": "090240",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Black Tea, leaf in bulk",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "09024030",
+   "hs6": "090240",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Black Tea, dust in bulk",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "09024040",
+   "hs6": "090240",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Tea bags",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "09024050",
+   "hs6": "090240",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Black Tea, agglomerated in forms such as ball, brick and tablets",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "09024060",
+   "hs6": "090240",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Black Tea waste",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "09024090",
+   "hs6": "090240",
+   "hs6_description": "Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "09030000",
+   "hs6": "090300",
+   "hs6_description": "Mate",
    "level": 8,
    "chapter": "09",
    "description": "Mate",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "0904",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "09",
    "description": "Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta.",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "090411",
+   "hs6": "090411",
+   "hs6_description": "Spices; pepper (of the genus piper), neither crushed nor ground",
    "level": 6,
    "chapter": "09",
    "description": "Pepper : --Neither crushed nor ground",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "09041110",
+   "hs6": "090411",
+   "hs6_description": "Spices; pepper (of the genus piper), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Pepper, long",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "09041120",
+   "hs6": "090411",
+   "hs6_description": "Spices; pepper (of the genus piper), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Light black pepper",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "09041130",
+   "hs6": "090411",
+   "hs6_description": "Spices; pepper (of the genus piper), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Black pepper, garbled",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "09041140",
+   "hs6": "090411",
+   "hs6_description": "Spices; pepper (of the genus piper), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Black pepper ungarbled",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "09041150",
+   "hs6": "090411",
+   "hs6_description": "Spices; pepper (of the genus piper), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Green pepper, dehydrated",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "09041160",
+   "hs6": "090411",
+   "hs6_description": "Spices; pepper (of the genus piper), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Pepper pinheads",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "09041170",
+   "hs6": "090411",
+   "hs6_description": "Spices; pepper (of the genus piper), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Green pepper, frozen or dried",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "09041180",
+   "hs6": "090411",
+   "hs6_description": "Spices; pepper (of the genus piper), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Pepper other than green, frozen",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "09041190",
+   "hs6": "090411",
+   "hs6_description": "Spices; pepper (of the genus piper), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "09041200",
+   "hs6": "090412",
+   "hs6_description": "Spices; pepper (of the genus piper), crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Pepper : --Crushed or ground",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "090421",
+   "hs6": "090421",
+   "hs6_description": "Spices; fruits of the genus Capsicum or Pimenta, dried, neither crushed nor ground",
    "level": 6,
    "chapter": "09",
    "description": "Fruits of the genus Capsicum or of the genus Pimenta : --Dried, neither crushed nor ground",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "09042110",
+   "hs6": "090421",
+   "hs6_description": "Spices; fruits of the genus Capsicum or Pimenta, dried, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Of genus Capsicum",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "09042120",
+   "hs6": "090421",
+   "hs6_description": "Spices; fruits of the genus Capsicum or Pimenta, dried, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Of genus Pimenta",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "090422",
+   "hs6": "090422",
+   "hs6_description": "Spices; fruits of the genus Capsicum or Pimenta, crushed or ground",
    "level": 6,
    "chapter": "09",
    "description": "Fruits of the genus Capsicum or of the genus Pimenta : --Crushed or ground",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "09042211",
+   "hs6": "090422",
+   "hs6_description": "Spices; fruits of the genus Capsicum or Pimenta, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Chilly Powder",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "09042219",
+   "hs6": "090422",
+   "hs6_description": "Spices; fruits of the genus Capsicum or Pimenta, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "09042221",
+   "hs6": "090422",
+   "hs6_description": "Spices; fruits of the genus Capsicum or Pimenta, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Of genus Pimenta :----Powder",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "09042229",
+   "hs6": "090422",
+   "hs6_description": "Spices; fruits of the genus Capsicum or Pimenta, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Of genus Pimenta :----Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "0905",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "09",
    "description": "Vanilla.",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "09051000",
+   "hs6": "090510",
+   "hs6_description": "Spices; vanilla, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Neither crushed nor ground",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "09052000",
+   "hs6": "090520",
+   "hs6_description": "Spices; vanilla, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Crushed or ground",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "0906",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "09",
    "description": "Cinnamon and cinnamon-tree flowers.",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "090611",
+   "hs6": "090611",
+   "hs6_description": "Spices; cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",
    "level": 6,
    "chapter": "09",
    "description": "Neither crushed nor ground : --Cinnamon (Cinnamomum zeylanicum Blume)",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "09061110",
+   "hs6": "090611",
+   "hs6_description": "Spices; cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Cinnamon bark",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "09061120",
+   "hs6": "090611",
+   "hs6_description": "Spices; cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Cinnamon tree flowers",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "09061190",
+   "hs6": "090611",
+   "hs6_description": "Spices; cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "090619",
+   "hs6": "090619",
+   "hs6_description": "Spices; cinnamon and cinnamon-tree flowers, other than cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",
    "level": 6,
    "chapter": "09",
    "description": "Neither crushed nor ground : --Other",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "09061910",
+   "hs6": "090619",
+   "hs6_description": "Spices; cinnamon and cinnamon-tree flowers, other than cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "cassia",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "09061990",
+   "hs6": "090619",
+   "hs6_description": "Spices; cinnamon and cinnamon-tree flowers, other than cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "other",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "09062000",
+   "hs6": "090620",
+   "hs6_description": "Spices; cinnamon and cinnamon-tree flowers, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Crushed or ground",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "0907",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "09",
    "description": "Cloves (whole fruit, cloves and stems).",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "090710",
+   "hs6": "090710",
+   "hs6_description": "Spices; cloves (whole fruit, cloves and stems), neither crushed nor ground",
    "level": 6,
    "chapter": "09",
    "description": "Neither crushed nor ground",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "09071010",
+   "hs6": "090710",
+   "hs6_description": "Spices; cloves (whole fruit, cloves and stems), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Extracted",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "09071020",
+   "hs6": "090710",
+   "hs6_description": "Spices; cloves (whole fruit, cloves and stems), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Not Extracted (other than stem)",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "09071030",
+   "hs6": "090710",
+   "hs6_description": "Spices; cloves (whole fruit, cloves and stems), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Stem",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "09071090",
+   "hs6": "090710",
+   "hs6_description": "Spices; cloves (whole fruit, cloves and stems), neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "09072000",
+   "hs6": "090720",
+   "hs6_description": "Spices; cloves (whole fruit, cloves and stems), crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Crushed or ground",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "0908",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "09",
    "description": "Nutmeg, mace and cardamoms.",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "090811",
+   "hs6": "090811",
+   "hs6_description": "Spices; nutmeg, neither crushed nor ground",
    "level": 6,
    "chapter": "09",
    "description": "Nutmeg : -- Neither crushed nor ground",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "09081110",
+   "hs6": "090811",
+   "hs6_description": "Spices; nutmeg, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "In shell",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "09081120",
+   "hs6": "090811",
+   "hs6_description": "Spices; nutmeg, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Shelled",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "09081200",
+   "hs6": "090812",
+   "hs6_description": "Spices; nutmeg, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Nutmeg : -- Crushed or ground",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "09082100",
+   "hs6": "090821",
+   "hs6_description": "Spices; mace, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Mace : --Neither crushed nor ground",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "09082200",
+   "hs6": "090822",
+   "hs6_description": "Spices; mace, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Mace : -- Crushed or ground",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "090831",
+   "hs6": "090831",
+   "hs6_description": "Spices; cardamoms, neither crushed nor ground",
    "level": 6,
    "chapter": "09",
    "description": "Cardamoms : -- Neither crushed nor ground",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "09083110",
+   "hs6": "090831",
+   "hs6_description": "Spices; cardamoms, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Large ( amomum)",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "09083120",
+   "hs6": "090831",
+   "hs6_description": "Spices; cardamoms, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Small (ellettaria),alleppey green",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "09083130",
+   "hs6": "090831",
+   "hs6_description": "Spices; cardamoms, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Small, coorg green",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "09083140",
+   "hs6": "090831",
+   "hs6_description": "Spices; cardamoms, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Small, bleached,half bleached or bleachable",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "09083150",
+   "hs6": "090831",
+   "hs6_description": "Spices; cardamoms, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Small mixed",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "09083190",
+   "hs6": "090831",
+   "hs6_description": "Spices; cardamoms, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "090832",
+   "hs6": "090832",
+   "hs6_description": "Spices; cardamoms, crushed or ground",
    "level": 6,
    "chapter": "09",
    "description": "Cardamoms : --Crushed or ground",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "09083210",
+   "hs6": "090832",
+   "hs6_description": "Spices; cardamoms, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Powder",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "09083220",
+   "hs6": "090832",
+   "hs6_description": "Spices; cardamoms, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Small cardamom seeds",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "09083230",
+   "hs6": "090832",
+   "hs6_description": "Spices; cardamoms, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Cardamom husk",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "09083290",
+   "hs6": "090832",
+   "hs6_description": "Spices; cardamoms, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "0909",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "09",
    "description": "Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries.",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "090921",
+   "hs6": "090921",
+   "hs6_description": "Spices; coriander seeds, neither crushed nor ground",
    "level": 6,
    "chapter": "09",
    "description": "Seeds of coriander : --Neither crushed nor ground",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "09092110",
+   "hs6": "090921",
+   "hs6_description": "Spices; coriander seeds, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Of seed quality",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "09092190",
+   "hs6": "090921",
+   "hs6_description": "Spices; coriander seeds, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "09092200",
+   "hs6": "090922",
+   "hs6_description": "Spices; coriander seeds, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Seeds of coriander : --Crushed or ground",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "090931",
+   "hs6": "090931",
+   "hs6_description": "Spices; cumin seeds, neither crushed nor ground",
    "level": 6,
    "chapter": "09",
    "description": "Seeds of cumin : --Neither crushed nor ground",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "09093111",
+   "hs6": "090931",
+   "hs6_description": "Spices; cumin seeds, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Cumin, black :---- Of seed quality",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "09093119",
+   "hs6": "090931",
+   "hs6_description": "Spices; cumin seeds, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Cumin, black :----Other",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "09093121",
+   "hs6": "090931",
+   "hs6_description": "Spices; cumin seeds, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Cumin, other than black: ---- Of seed quality",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "09093129",
+   "hs6": "090931",
+   "hs6_description": "Spices; cumin seeds, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Cumin, other than black: ---- Other",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "09093200",
+   "hs6": "090932",
+   "hs6_description": "Spices; cumin seeds, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Seeds of cumin : --Crushed or ground",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "090961",
+   "hs6": "090961",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",
    "level": 6,
    "chapter": "09",
    "description": "Seeds of anise, badian, caraway or fennel; juniper berries : --Neither crushed nor ground",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "09096111",
+   "hs6": "090961",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Seeds of anise :---- Of seed quality",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "09096119",
+   "hs6": "090961",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Seeds of anise :----Other",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "09096121",
+   "hs6": "090961",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Seeds of badian: ---- Of seed quality",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "09096129",
+   "hs6": "090961",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Seeds of badian: ---- Other",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "09096131",
+   "hs6": "090961",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Seeds of caraway or fennel: ---- Of seed quality",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "09096139",
+   "hs6": "090961",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Seeds of caraway or fennel: ---- Other",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "09096141",
+   "hs6": "090961",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Juniper berries: ----- Of seed quality",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "09096149",
+   "hs6": "090961",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Juniper berries: ----- Other",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "090962",
+   "hs6": "090962",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, crushed or ground",
    "level": 6,
    "chapter": "09",
    "description": "Seeds of anise, badian, caraway or fennel; juniper berries : -- Crushed or ground",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "09096210",
+   "hs6": "090962",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Anise",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "09096220",
+   "hs6": "090962",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Badian",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "09096230",
+   "hs6": "090962",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Caraway or fennel",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "09096240",
+   "hs6": "090962",
+   "hs6_description": "Spices; seeds of anise, badian, caraway or fennel; juniper berries, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Juniper berries",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "0910",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "09",
    "description": "Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices.",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "091011",
+   "hs6": "091011",
+   "hs6_description": "Spices; ginger, neither crushed nor ground",
    "level": 6,
    "chapter": "09",
    "description": "Ginger : -- Neither crushed nor ground",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "09101110",
+   "hs6": "091011",
+   "hs6_description": "Spices; ginger, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Fresh",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "09101120",
+   "hs6": "091011",
+   "hs6_description": "Spices; ginger, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Dried, unbleached",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "09101130",
+   "hs6": "091011",
+   "hs6_description": "Spices; ginger, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Dried, bleached",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "09101190",
+   "hs6": "091011",
+   "hs6_description": "Spices; ginger, neither crushed nor ground",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "091012",
+   "hs6": "091012",
+   "hs6_description": "Spices; ginger, crushed or ground",
    "level": 6,
    "chapter": "09",
    "description": "Ginger : -- Crushed or ground",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "09101210",
+   "hs6": "091012",
+   "hs6_description": "Spices; ginger, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Powder",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "09101290",
+   "hs6": "091012",
+   "hs6_description": "Spices; ginger, crushed or ground",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "091020",
+   "hs6": "091020",
+   "hs6_description": "Spices; saffron",
    "level": 6,
    "chapter": "09",
    "description": "Saffron",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "09102010",
+   "hs6": "091020",
+   "hs6_description": "Spices; saffron",
    "level": 8,
    "chapter": "09",
    "description": "Saffron stigma",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "09102020",
+   "hs6": "091020",
+   "hs6_description": "Spices; saffron",
    "level": 8,
    "chapter": "09",
    "description": "Saffron stamen",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "09102090",
+   "hs6": "091020",
+   "hs6_description": "Spices; saffron",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "091030",
+   "hs6": "091030",
+   "hs6_description": "Spices; turmeric (curcuma)",
    "level": 6,
    "chapter": "09",
    "description": "Turmeric (curcuma)",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "09103010",
+   "hs6": "091030",
+   "hs6_description": "Spices; turmeric (curcuma)",
    "level": 8,
    "chapter": "09",
    "description": "Fresh",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "09103020",
+   "hs6": "091030",
+   "hs6_description": "Spices; turmeric (curcuma)",
    "level": 8,
    "chapter": "09",
    "description": "Dried",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "09103030",
+   "hs6": "091030",
+   "hs6_description": "Spices; turmeric (curcuma)",
    "level": 8,
    "chapter": "09",
    "description": "Powder",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "09103090",
+   "hs6": "091030",
+   "hs6_description": "Spices; turmeric (curcuma)",
    "level": 8,
    "chapter": "09",
    "description": "Other",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "09109100",
+   "hs6": "091091",
+   "hs6_description": "Spices; mixtures of 2 or more products of different headings",
    "level": 8,
    "chapter": "09",
    "description": "Other spices : -- Mixtures referred to in Note 1 (b) to this Chapter",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "091099",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 6,
    "chapter": "09",
    "description": "Other spices : -- Other",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "09109911",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Seed: ---- Celery",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "09109912",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Seed: ---- Fenugreek",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "09109913",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Seed: ---- Dill",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "09109914",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Seed: ---- Ajwain",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "09109915",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Seed: ---- Cassia torea",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "09109919",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Seed: ---- Other",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "09109921",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Powder: ---- Cassia",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "09109923",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Powder: ---- Celery",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "09109924",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Powder: ---- Fenugreek",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "09109925",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Powder: ---- Dill",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "09109926",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Powder: ---- Poppy",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "09109927",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Powder: ---- Mustard",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "09109929",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Powder: ---- Other",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "09109930",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Husk",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "09109990",
+   "hs6": "091099",
+   "hs6_description": "Spices; n.e.c. in heading no. 0910",
    "level": 8,
    "chapter": "09",
    "description": "Other",

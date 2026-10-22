@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "11010000",
+   "hs6": "110100",
+   "hs6_description": "Wheat or meslin flour",
    "level": 8,
    "chapter": "11",
    "description": "Wheat or meslin flour.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "1102",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "11",
    "description": "CEREAL FLOURS OTHER THAN THAT OF WHEAT OR MESLIN",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "11022000",
+   "hs6": "110220",
+   "hs6_description": "Cereal flour; of maize (corn)",
    "level": 8,
    "chapter": "11",
    "description": "Maize (corn) flour",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "110290",
+   "hs6": "110290",
+   "hs6_description": "Cereal flours; other than wheat, meslin, and maize (corn)",
    "level": 6,
    "chapter": "11",
    "description": "Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "11029010",
+   "hs6": "110290",
+   "hs6_description": "Cereal flours; other than wheat, meslin, and maize (corn)",
    "level": 8,
    "chapter": "11",
    "description": "Rye flour",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "11029021",
+   "hs6": "110290",
+   "hs6_description": "Cereal flours; other than wheat, meslin, and maize (corn)",
    "level": 8,
    "chapter": "11",
    "description": "Rice flour:---- Brown rice flour",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "11029022",
+   "hs6": "110290",
+   "hs6_description": "Cereal flours; other than wheat, meslin, and maize (corn)",
    "level": 8,
    "chapter": "11",
    "description": "Rice flour:---- White rice flour",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "11029029",
+   "hs6": "110290",
+   "hs6_description": "Cereal flours; other than wheat, meslin, and maize (corn)",
    "level": 8,
    "chapter": "11",
    "description": "Rice flour:---- Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "11029090",
+   "hs6": "110290",
+   "hs6_description": "Cereal flours; other than wheat, meslin, and maize (corn)",
    "level": 8,
    "chapter": "11",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "1103",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "11",
    "description": "Cereal groats, meal and pellets.",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "110311",
+   "hs6": "110311",
+   "hs6_description": "Cereal groats and meal; of wheat",
    "level": 6,
    "chapter": "11",
    "description": "Groats and meal : -- Of wheat",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "11031110",
+   "hs6": "110311",
+   "hs6_description": "Cereal groats and meal; of wheat",
    "level": 8,
    "chapter": "11",
    "description": "Groat",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "11031120",
+   "hs6": "110311",
+   "hs6_description": "Cereal groats and meal; of wheat",
    "level": 8,
    "chapter": "11",
    "description": "Meal",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "11031300",
+   "hs6": "110313",
+   "hs6_description": "Cereal groats and meal; of maize (corn)",
    "level": 8,
    "chapter": "11",
    "description": "Groats and meal : -- Of maize (corn)",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "11031900",
+   "hs6": "110319",
+   "hs6_description": "Cereal groats and meal; n.e.c. in heading no. 1103",
    "level": 8,
    "chapter": "11",
    "description": "Groats and meal : -- Of other cereals",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "11032000",
+   "hs6": "110320",
+   "hs6_description": "Cereal pellets",
    "level": 8,
    "chapter": "11",
    "description": "Pellets",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "1104",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "11",
    "description": "Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), except rice of heading 10.06; germ of cereals, whole, rolled, flaked or ground.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "11041200",
+   "hs6": "110412",
+   "hs6_description": "Cereal grains; rolled or flaked, of oats",
    "level": 8,
    "chapter": "11",
    "description": "Rolled or flaked grains : -- Of oats",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "11041900",
+   "hs6": "110419",
+   "hs6_description": "Cereal grains; rolled or flaked, other than oats",
    "level": 8,
    "chapter": "11",
    "description": "Rolled or flaked grains : -- Of other cereals",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "11042200",
+   "hs6": "110422",
+   "hs6_description": "Cereal grains; worked (e.g. hulled, pearled, sliced or kibbled) of oats",
    "level": 8,
    "chapter": "11",
    "description": "Other worked grains (for example, hulled, pearled, sliced or kibbled) : -- Of oats",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "11042300",
+   "hs6": "110423",
+   "hs6_description": "Cereal grains; worked (e.g. hulled, pearled, sliced or kibbled) of maize (corn)",
    "level": 8,
    "chapter": "11",
    "description": "Other worked grains (for example, hulled, pearled, sliced or kibbled) : -- Of maize (corn)",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "11042900",
+   "hs6": "110429",
+   "hs6_description": "Cereal grains; worked, other than rolled or flaked (e.g. Hulled, pearled, sliced or kibbled) of cereals, excluding oats and maize, and rice of heading no.1006",
    "level": 8,
    "chapter": "11",
    "description": "Other worked grains (for example, hulled, pearled, sliced or kibbled) : -- Of other cereals",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "11043000",
+   "hs6": "110430",
+   "hs6_description": "Cereal; germ of cereals, whole, rolled, flaked or ground",
    "level": 8,
    "chapter": "11",
    "description": "Germ of cereals, whole, rolled, flaked or ground",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "1105",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "11",
    "description": "Flour, meal, powder, flakes, granules and pellets of potatoes.",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "11051000",
+   "hs6": "110510",
+   "hs6_description": "Flour, meal and powder; of potatoes",
    "level": 8,
    "chapter": "11",
    "description": "Flour, meal and powder",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "11052000",
+   "hs6": "110520",
+   "hs6_description": "Flakes, granules and pellets; of potatoes",
    "level": 8,
    "chapter": "11",
    "description": "Flakes, granules and pellets",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "1106",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "11",
    "description": "Flour, meal and powder of the dried leguminous vegetables of heading 07.13, of sago or of roots or tubers of heading 07.14 or of the products of Chapter 8.",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "110610",
+   "hs6": "110610",
+   "hs6_description": "Flour, meal and powder; of the dried leguminous vegetables of heading no. 0713",
    "level": 6,
    "chapter": "11",
    "description": "Of the dried leguminous vegetables of heading 0713",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "11061010",
+   "hs6": "110610",
+   "hs6_description": "Flour, meal and powder; of the dried leguminous vegetables of heading no. 0713",
    "level": 8,
    "chapter": "11",
    "description": "Guar Meal",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "110620",
+   "hs6": "110620",
+   "hs6_description": "Flour, meal and powder; of sago or of roots or tubers of heading no. 0714",
    "level": 6,
    "chapter": "11",
    "description": "Of sago or of roots or tubers of heading 07.14",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "11062010",
+   "hs6": "110620",
+   "hs6_description": "Flour, meal and powder; of sago or of roots or tubers of heading no. 0714",
    "level": 8,
    "chapter": "11",
    "description": "Of sago",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "11062020",
+   "hs6": "110620",
+   "hs6_description": "Flour, meal and powder; of sago or of roots or tubers of heading no. 0714",
    "level": 8,
    "chapter": "11",
    "description": "Of manioc (cassava)",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "11062090",
+   "hs6": "110620",
+   "hs6_description": "Flour, meal and powder; of sago or of roots or tubers of heading no. 0714",
    "level": 8,
    "chapter": "11",
    "description": "Of other roots and tubers",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "110630",
+   "hs6": "110630",
+   "hs6_description": "Flour, meal and powder; of the products of chapter 8",
    "level": 6,
    "chapter": "11",
    "description": "Of the products of Chapter 8",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "11063010",
+   "hs6": "110630",
+   "hs6_description": "Flour, meal and powder; of the products of chapter 8",
    "level": 8,
    "chapter": "11",
    "description": "Of tamarind",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "11063020",
+   "hs6": "110630",
+   "hs6_description": "Flour, meal and powder; of the products of chapter 8",
    "level": 8,
    "chapter": "11",
    "description": "Of singoda",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "11063030",
+   "hs6": "110630",
+   "hs6_description": "Flour, meal and powder; of the products of chapter 8",
    "level": 8,
    "chapter": "11",
    "description": "Mango flour",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "11063090",
+   "hs6": "110630",
+   "hs6_description": "Flour, meal and powder; of the products of chapter 8",
    "level": 8,
    "chapter": "11",
    "description": "Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "1107",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "11",
    "description": "Malt, whether or not roasted.",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "11071000",
+   "hs6": "110710",
+   "hs6_description": "Malt; not roasted",
    "level": 8,
    "chapter": "11",
    "description": "Not roasted",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "11072000",
+   "hs6": "110720",
+   "hs6_description": "Malt; roasted",
    "level": 8,
    "chapter": "11",
    "description": "Roasted",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "1108",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "11",
    "description": "Starches; inulin.",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "11081100",
+   "hs6": "110811",
+   "hs6_description": "Starch; wheat",
    "level": 8,
    "chapter": "11",
    "description": "Starches : -- Wheat starch",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "11081200",
+   "hs6": "110812",
+   "hs6_description": "Starch; maize (corn) starch",
    "level": 8,
    "chapter": "11",
    "description": "Starches : -- Maize (corn) starch",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "11081300",
+   "hs6": "110813",
+   "hs6_description": "Starch; potato",
    "level": 8,
    "chapter": "11",
    "description": "Starches : -- Potato starch",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "11081400",
+   "hs6": "110814",
+   "hs6_description": "Starch; manioc (cassava)",
    "level": 8,
    "chapter": "11",
    "description": "Starches : -- Manioc (cassava) starch",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "110819",
+   "hs6": "110819",
+   "hs6_description": "Starch; n.e.c. in item no. 1108.11 to 1108.14",
    "level": 6,
    "chapter": "11",
    "description": "Starches : -- Other",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "11081910",
+   "hs6": "110819",
+   "hs6_description": "Starch; n.e.c. in item no. 1108.11 to 1108.14",
    "level": 8,
    "chapter": "11",
    "description": "Sago",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "11081990",
+   "hs6": "110819",
+   "hs6_description": "Starch; n.e.c. in item no. 1108.11 to 1108.14",
    "level": 8,
    "chapter": "11",
    "description": "Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "11082000",
+   "hs6": "110820",
+   "hs6_description": "Inulin",
    "level": 8,
    "chapter": "11",
    "description": "Inulin",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "11090000",
+   "hs6": "110900",
+   "hs6_description": "Wheat gluten; whether or not dried",
    "level": 8,
    "chapter": "11",
    "description": "Wheat gluten, whether or not dried",

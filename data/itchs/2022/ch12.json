@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "1201",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "12",
    "description": "Soya beans, whether or not broken.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "12011000",
+   "hs6": "120110",
+   "hs6_description": "Soya beans; seed, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Seed",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "12019000",
+   "hs6": "120190",
+   "hs6_description": "Soya beans; other than seed, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "1202",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "12",
    "description": "Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken.",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "120230",
+   "hs6": "120230",
+   "hs6_description": "Ground-nuts; seed, not roasted or otherwise cooked, whether or not shelled or broken",
    "level": 6,
    "chapter": "12",
    "description": "Seed",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "12023010",
+   "hs6": "120230",
+   "hs6_description": "Ground-nuts; seed, not roasted or otherwise cooked, whether or not shelled or broken",
    "level": 8,
    "chapter": "12",
    "description": "H. P. S",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "12023090",
+   "hs6": "120230",
+   "hs6_description": "Ground-nuts; seed, not roasted or otherwise cooked, whether or not shelled or broken",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "120241",
+   "hs6": "120241",
+   "hs6_description": "Ground-nuts; other than seed, not roasted or otherwise cooked, in shell",
    "level": 6,
    "chapter": "12",
    "description": "Other : -- In shell",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "12024110",
+   "hs6": "120241",
+   "hs6_description": "Ground-nuts; other than seed, not roasted or otherwise cooked, in shell",
    "level": 8,
    "chapter": "12",
    "description": "H.P.S",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "12024190",
+   "hs6": "120241",
+   "hs6_description": "Ground-nuts; other than seed, not roasted or otherwise cooked, in shell",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "120242",
+   "hs6": "120242",
+   "hs6_description": "Ground-nuts; other than seed, not roasted or otherwise cooked, shelled, whether or not broken,",
    "level": 6,
    "chapter": "12",
    "description": "Other : -- Shelled, whether or not broken",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "12024210",
+   "hs6": "120242",
+   "hs6_description": "Ground-nuts; other than seed, not roasted or otherwise cooked, shelled, whether or not broken,",
    "level": 8,
    "chapter": "12",
    "description": "Kernels, H.P.S",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "12024220",
+   "hs6": "120242",
+   "hs6_description": "Ground-nuts; other than seed, not roasted or otherwise cooked, shelled, whether or not broken,",
    "level": 8,
    "chapter": "12",
    "description": "Kernels, other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "12024290",
+   "hs6": "120242",
+   "hs6_description": "Ground-nuts; other than seed, not roasted or otherwise cooked, shelled, whether or not broken,",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "12030000",
+   "hs6": "120300",
+   "hs6_description": "Copra",
    "level": 8,
    "chapter": "12",
    "description": "Copra.",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "1204",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "12",
    "description": "Linseed, whether or not broken.",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "120400",
+   "hs6": "120400",
+   "hs6_description": "Oil seeds; linseed, whether or not broken",
    "level": 6,
    "chapter": "12",
    "description": "Linseed, whether or not broken:",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "12040010",
+   "hs6": "120400",
+   "hs6_description": "Oil seeds; linseed, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Of seed quality",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "12040090",
+   "hs6": "120400",
+   "hs6_description": "Oil seeds; linseed, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "1205",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "12",
    "description": "Rape or colza seeds, whether or not broken.",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "12051000",
+   "hs6": "120510",
+   "hs6_description": "Oil seeds; low erucic acid rape or colza seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Low erucic acid rape or colza seeds",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "12059000",
+   "hs6": "120590",
+   "hs6_description": "Oil seeds; rape or colza seeds, other than low erucic, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "1206",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "12",
    "description": "Sunflower seeds, whether or not broken.",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "120600",
+   "hs6": "120600",
+   "hs6_description": "Oil seeds; sunflower seeds, whether or not broken",
    "level": 6,
    "chapter": "12",
    "description": "Sunflower seeds, whether or not broken:",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "12060010",
+   "hs6": "120600",
+   "hs6_description": "Oil seeds; sunflower seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Of seed quality",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "12060090",
+   "hs6": "120600",
+   "hs6_description": "Oil seeds; sunflower seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "1207",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "12",
    "description": "Other oil seeds and oleaginous fruits, whether or not broken.",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "120710",
+   "hs6": "120710",
+   "hs6_description": "Oil seeds; palm nuts and kernels, whether or not broken",
    "level": 6,
    "chapter": "12",
    "description": "Palm nuts and kernels",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "12071010",
+   "hs6": "120710",
+   "hs6_description": "Oil seeds; palm nuts and kernels, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Palm nuts",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "12071090",
+   "hs6": "120710",
+   "hs6_description": "Oil seeds; palm nuts and kernels, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Palm kernels",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "12072100",
+   "hs6": "120721",
+   "hs6_description": "Oil seeds; cotton seeds, seed, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Cotton seeds : -- Seed",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "12072900",
+   "hs6": "120729",
+   "hs6_description": "Oil seeds; cotton seeds, other than seed, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Cotton seeds : -- Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "120730",
+   "hs6": "120730",
+   "hs6_description": "Oil seeds; castor oil seeds, whether or not broken",
    "level": 6,
    "chapter": "12",
    "description": "Castor oil seeds",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "12073010",
+   "hs6": "120730",
+   "hs6_description": "Oil seeds; castor oil seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Of seed quality",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "12073090",
+   "hs6": "120730",
+   "hs6_description": "Oil seeds; castor oil seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "120740",
+   "hs6": "120740",
+   "hs6_description": "Oil seeds; sesamum seeds, whether or not broken",
    "level": 6,
    "chapter": "12",
    "description": "Sesamum seeds",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "12074010",
+   "hs6": "120740",
+   "hs6_description": "Oil seeds; sesamum seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Of seed quality",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "12074090",
+   "hs6": "120740",
+   "hs6_description": "Oil seeds; sesamum seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "120750",
+   "hs6": "120750",
+   "hs6_description": "Oil seeds; mustard seeds, whether or not broken",
    "level": 6,
    "chapter": "12",
    "description": "Mustard seeds",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "12075010",
+   "hs6": "120750",
+   "hs6_description": "Oil seeds; mustard seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Of seed quality",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "12075090",
+   "hs6": "120750",
+   "hs6_description": "Oil seeds; mustard seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "120760",
+   "hs6": "120760",
+   "hs6_description": "Oil seeds; safflower (Carthamus tinctorius) seeds, whether or not broken",
    "level": 6,
    "chapter": "12",
    "description": "Safflower (Carthamus tinctorius) seeds",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "12076010",
+   "hs6": "120760",
+   "hs6_description": "Oil seeds; safflower (Carthamus tinctorius) seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Of seed quality",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "12076090",
+   "hs6": "120760",
+   "hs6_description": "Oil seeds; safflower (Carthamus tinctorius) seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "120770",
+   "hs6": "120770",
+   "hs6_description": "Oil seeds; melon seeds, whether or not broken",
    "level": 6,
    "chapter": "12",
    "description": "Melon seeds",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "12077010",
+   "hs6": "120770",
+   "hs6_description": "Oil seeds; melon seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Of seed quality",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "12077090",
+   "hs6": "120770",
+   "hs6_description": "Oil seeds; melon seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "12079100",
+   "hs6": "120791",
+   "hs6_description": "Oil seeds; poppy seeds, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Other : -- Poppy seeds",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "120799",
+   "hs6": "120799",
+   "hs6_description": "Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",
    "level": 6,
    "chapter": "12",
    "description": "Other : -- Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "12079910",
+   "hs6": "120799",
+   "hs6_description": "Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Ajams",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "12079920",
+   "hs6": "120799",
+   "hs6_description": "Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Mango kernel",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "12079930",
+   "hs6": "120799",
+   "hs6_description": "Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Niger seed",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "12079940",
+   "hs6": "120799",
+   "hs6_description": "Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Kokam",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "12079950",
+   "hs6": "120799",
+   "hs6_description": "Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "--- Shea nuts",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "12079990",
+   "hs6": "120799",
+   "hs6_description": "Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "1208",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "12",
    "description": "Flours and meals of oil seeds or oleaginous fruits, other than those of mustard.",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "12081000",
+   "hs6": "120810",
+   "hs6_description": "Flours and meals; of soya beans",
    "level": 8,
    "chapter": "12",
    "description": "Of soya beans",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "12089000",
+   "hs6": "120890",
+   "hs6_description": "Flours and meals of oil seeds or oleaginous fruits; excluding soya beans and mustard seeds",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "1209",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "12",
    "description": "Seeds, fruit and spores, of a kind used for sowing.",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "12091000",
+   "hs6": "120910",
+   "hs6_description": "Seed; sugar beet seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Sugar beet seeds",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "12092100",
+   "hs6": "120921",
+   "hs6_description": "Seeds of forage plants; lucerne (alfalfa) seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Seeds of forage plants : -- Lucerne (alfalfa) seeds",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "12092200",
+   "hs6": "120922",
+   "hs6_description": "Seeds of forage plants; clover (Trifolium spp.) seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Seeds of forage plants : -- Clover (Trifolium spp.) seeds",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "12092300",
+   "hs6": "120923",
+   "hs6_description": "Seeds of forage plants; fescue seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Seeds of forage plants : -- Fescue seeds",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "12092400",
+   "hs6": "120924",
+   "hs6_description": "Seeds of forage plants; Kentucky blue grass (Poa pratensis L.) seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Seeds of forage plants : -- Kentucky blue grass (Poa pratensis L.) seeds",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "12092500",
+   "hs6": "120925",
+   "hs6_description": "Seeds of forage plants; rye grass (Lolium multiflorum Lam., Lolium perenne L.) seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Seeds of forage plants : -- Rye grass (Lolium multiflorum Lam., Lolium perenne L.) seeds",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "120929",
+   "hs6": "120929",
+   "hs6_description": "Seeds of forage plants; other than lucerne, clover, fescue, Kentucky blue grass, and rye grass seeds, of a kind used for sowing",
    "level": 6,
    "chapter": "12",
    "description": "Seeds of forage plants : -- Other",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "12092910",
+   "hs6": "120929",
+   "hs6_description": "Seeds of forage plants; other than lucerne, clover, fescue, Kentucky blue grass, and rye grass seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Australian lupin seeds",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "12092990",
+   "hs6": "120929",
+   "hs6_description": "Seeds of forage plants; other than lucerne, clover, fescue, Kentucky blue grass, and rye grass seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "12093000",
+   "hs6": "120930",
+   "hs6_description": "Seeds of herbaceous plants; cultivated principally for their flowers, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Seeds of herbaceous plants cultivated principally for their flowers",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "120991",
+   "hs6": "120991",
+   "hs6_description": "Seeds; vegetable seeds, of a kind used for sowing",
    "level": 6,
    "chapter": "12",
    "description": "Other : -- Vegetable seeds",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "12099110",
+   "hs6": "120991",
+   "hs6_description": "Seeds; vegetable seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Of Cabbage",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "12099120",
+   "hs6": "120991",
+   "hs6_description": "Seeds; vegetable seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Of Cauliflower",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "12099130",
+   "hs6": "120991",
+   "hs6_description": "Seeds; vegetable seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Of Onion",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "12099140",
+   "hs6": "120991",
+   "hs6_description": "Seeds; vegetable seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Of Pea",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "12099150",
+   "hs6": "120991",
+   "hs6_description": "Seeds; vegetable seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Of Radish",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "12099160",
+   "hs6": "120991",
+   "hs6_description": "Seeds; vegetable seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Of Tomato",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "12099170",
+   "hs6": "120991",
+   "hs6_description": "Seeds; vegetable seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Of chilly of genus Capsicum",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "12099190",
+   "hs6": "120991",
+   "hs6_description": "Seeds; vegetable seeds, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "120999",
+   "hs6": "120999",
+   "hs6_description": "Seeds; n.e.c. in heading 1209, of a kind used for sowing",
    "level": 6,
    "chapter": "12",
    "description": "Other : -- Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "12099910",
+   "hs6": "120999",
+   "hs6_description": "Seeds; n.e.c. in heading 1209, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Fruit seeds for planting or sowings",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "12099990",
+   "hs6": "120999",
+   "hs6_description": "Seeds; n.e.c. in heading 1209, of a kind used for sowing",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "1210",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "12",
    "description": "Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin.",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "12101000",
+   "hs6": "121010",
+   "hs6_description": "Hop cones; neither ground nor powdered nor in the form of pellets",
    "level": 8,
    "chapter": "12",
    "description": "Hop cones, neither ground nor powdered nor in the form of pellets",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "12102000",
+   "hs6": "121020",
+   "hs6_description": "Hop cones; ground, powdered or in the form of pellets; lupulin",
    "level": 8,
    "chapter": "12",
    "description": "Hop cones, ground, powdered or in the form of pellets; lupulin",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "1211",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "12",
    "description": "Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered.",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "12112000",
+   "hs6": "121120",
+   "hs6_description": "Ginseng roots, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Ginseng roots",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "12113000",
+   "hs6": "121130",
+   "hs6_description": "Coca leaf; of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Coca leaf",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "12114000",
+   "hs6": "121140",
+   "hs6_description": "Poppy straw; of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Poppy straw",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "12116000",
+   "hs6": "121160",
+   "hs6_description": "Bark of African cherry (Prunus africana); of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Bark of African cherry (Prunus africana)",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "121190",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 6,
    "chapter": "12",
    "description": "Other",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "12119011",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Ambrette seeds",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "12119012",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Nuxvomica, dried ripe seeds",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "12119013",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Psyllium seed (isobgul)",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "12119014",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Neem seed",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "12119015",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :----Jojoba seed",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "12119016",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp - - - - Garcinia",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "12119019",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Seeds, Kernel, Aril, Fruit, Pericarp, Fruit rind, Endosperm, Mesocarp, Endocarp :---- Other",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "12119021",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Belladona leaves",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "12119022",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Senna leaves and pods",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "12119023",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Neem leaves",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "12119024",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Gymnema",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "12119025",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Cubeb",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "12119026",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods :----Pyrethrum",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "12119029",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Leaves, Leaf bud, Galls, flowers, Inflorescence, Spadix, Flower bud, Style and Stigma, Stamen and pods : ---- Other",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "12119031",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Bark, husk, and rind: ---- Cascara sagrada bark",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "12119032",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Bark, husk, and rind: ---- Psyllium husk (isobgul husk)",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "12119033",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Bark, husk, and rind: ---- Gamboge fruit rind",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "12119034",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Bark, husk and rind: ----Ashoka (Saracaasoca.)",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "12119035",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Bark, husk and rind: ----Arjuna (Terminalia arjuna)",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "12119039",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Bark, husk, and rind: ---- Other",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "12119041",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Belladona roots",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "12119042",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Galangal rhizomes and roots",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "12119043",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Ipecac dried rhizome and roots",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "12119044",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Serpentina roots (rowwalfia serpentina and other species of rowwalfias)",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "12119045",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Zedovary roots",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "12119046",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Kuth root",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "12119047",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Sarasaparilla roots",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "12119048",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Sweet flag rhizomes",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "12119049",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Roots, Root stalk, Bulb, Corn,Tuber, Stolon and rhizome :- - - - Other",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "12119050",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Roots and Rhizomes: ---- Sandalwood chips and dust",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "12119051",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Sandalwood chips and dust",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "12119052",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Vinca rosea herbs",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "12119053",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Mint",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "12119054",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Agarwood",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "12119055",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Chirata",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "12119056",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Basil, hyssop, rosemary, sage and savory",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "12119057",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Ashwagandha (Withaniasomnifera)",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "12119058",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Giloy (Tinospora cordifolia)",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "12119059",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Whole Plant, Aerial Part, Stem, Shoot and Wood :---- Other",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "12119090",
+   "hs6": "121190",
+   "hs6_description": "Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "1212",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "12",
    "description": "Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh, chilled, frozen or dried, whether or not ground; stones and kernels and other vegetable products (including unroasted chicory roots of the variety Cichorium intybus sativum) of a kind used primarily for human consumption, not elsewhere specified or included.",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "121221",
+   "hs6": "121221",
+   "hs6_description": "Seaweeds and other algae; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
    "level": 6,
    "chapter": "12",
    "description": "Other : -- Fit for human consumption",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "12122110",
+   "hs6": "121221",
+   "hs6_description": "Seaweeds and other algae; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
    "level": 8,
    "chapter": "12",
    "description": "Seaweeds",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "12122190",
+   "hs6": "121221",
+   "hs6_description": "Seaweeds and other algae; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
    "level": 8,
    "chapter": "12",
    "description": "Other algae",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "121229",
+   "hs6": "121229",
+   "hs6_description": "Seaweeds and other algae; not fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
    "level": 6,
    "chapter": "12",
    "description": "- Other : --Other",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "12122910",
+   "hs6": "121229",
+   "hs6_description": "Seaweeds and other algae; not fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
    "level": 8,
    "chapter": "12",
    "description": "Seaweeds",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "12122990",
+   "hs6": "121229",
+   "hs6_description": "Seaweeds and other algae; not fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
    "level": 8,
    "chapter": "12",
    "description": "Other algae",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "12129100",
+   "hs6": "121291",
+   "hs6_description": "Sugar beet; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
    "level": 8,
    "chapter": "12",
    "description": "Other : -- Sugar beet",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "12129200",
+   "hs6": "121292",
+   "hs6_description": "Locust beans (carob); fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
    "level": 8,
    "chapter": "12",
    "description": "Other : -- Locust beans (carob)",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "12129300",
+   "hs6": "121293",
+   "hs6_description": "Sugar cane; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
    "level": 8,
    "chapter": "12",
    "description": "Other : -- Sugar cane",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "12129400",
+   "hs6": "121294",
+   "hs6_description": "Chicory roots (Chicorium intybus sativum); fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
    "level": 8,
    "chapter": "12",
    "description": "Other : -- Chicory roots",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "121299",
+   "hs6": "121299",
+   "hs6_description": "Vegetable products; fit for human consumption, n.e.c. in heading no. 1212, fresh, chilled, frozen or dried, whether or not ground",
    "level": 6,
    "chapter": "12",
    "description": "Other : -- Other",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "12129910",
+   "hs6": "121299",
+   "hs6_description": "Vegetable products; fit for human consumption, n.e.c. in heading no. 1212, fresh, chilled, frozen or dried, whether or not ground",
    "level": 8,
    "chapter": "12",
    "description": "Kokam (cocum) flowers",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "12129920",
+   "hs6": "121299",
+   "hs6_description": "Vegetable products; fit for human consumption, n.e.c. in heading no. 1212, fresh, chilled, frozen or dried, whether or not ground",
    "level": 8,
    "chapter": "12",
    "description": "Mohua flowers",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "12129990",
+   "hs6": "121299",
+   "hs6_description": "Vegetable products; fit for human consumption, n.e.c. in heading no. 1212, fresh, chilled, frozen or dried, whether or not ground",
    "level": 8,
    "chapter": "12",
    "description": "Other",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "12130000",
+   "hs6": "121300",
+   "hs6_description": "Cereal straw and husks; unprepared, whether or not chopped, ground, pressed or in the form of pellets",
    "level": 8,
    "chapter": "12",
    "description": "Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form of pellets.",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "1214",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "12",
    "description": "Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets.",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "12141000",
+   "hs6": "121410",
+   "hs6_description": "Lucerne (alfalfa) meal and pellets",
    "level": 8,
    "chapter": "12",
    "description": "Lucerne (alfalfa) meal and pellets",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "12149000",
+   "hs6": "121490",
+   "hs6_description": "Forage products including swedes, mangolds, fodder roots, hay, sainfoin, clover, forage kale, lupines, vetches etc., pelletised or otherwise",
    "level": 8,
    "chapter": "12",
    "description": "Other",

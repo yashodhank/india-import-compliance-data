@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "9201",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "92",
    "description": "Pianos, including automatic pianos; harpsichords and other keyboard stringed instruments.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "92011000",
+   "hs6": "920110",
+   "hs6_description": "Musical instruments; pianos, upright, including automatic pianos",
    "level": 8,
    "chapter": "92",
    "description": "Upright pianos",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "92012000",
+   "hs6": "920120",
+   "hs6_description": "Musical instruments; pianos, grand",
    "level": 8,
    "chapter": "92",
    "description": "Grand pianos",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "92019000",
+   "hs6": "920190",
+   "hs6_description": "Musical instruments; harpsichords and other keyboard stringed instruments n.e.c. in heading no. 9201",
    "level": 8,
    "chapter": "92",
    "description": "Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "9202",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "92",
    "description": "Other string musical instruments (for example, guitars, violins, harps).",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "92021000",
+   "hs6": "920210",
+   "hs6_description": "Musical instruments; string, played with a bow (e.g. violins)",
    "level": 8,
    "chapter": "92",
    "description": "Played with a bow",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "92029000",
+   "hs6": "920290",
+   "hs6_description": "Musical instruments; string, played other than with a bow (e.g. guitars and harps)",
    "level": 8,
    "chapter": "92",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "9205",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "92",
    "description": "Wind musical instruments (for example, keyboard pipe organs, accordions, clarinets, trumpets, bagpipes), other than fairground organs and mechanical street organs.",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "92051000",
+   "hs6": "920510",
+   "hs6_description": "Musical instruments; brass-wind (e.g. trumpets), other than fairground organs and mechanical street organs",
    "level": 8,
    "chapter": "92",
    "description": "Brass-wind instruments",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "920590",
+   "hs6": "920590",
+   "hs6_description": "Musical instruments; wind, other than brass, (eg. clarinet, bagpipes, pipe organs), other than fairground organs and mechanical street organs",
    "level": 6,
    "chapter": "92",
    "description": "Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "92059010",
+   "hs6": "920590",
+   "hs6_description": "Musical instruments; wind, other than brass, (eg. clarinet, bagpipes, pipe organs), other than fairground organs and mechanical street organs",
    "level": 8,
    "chapter": "92",
    "description": "Flutes",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "92059020",
+   "hs6": "920590",
+   "hs6_description": "Musical instruments; wind, other than brass, (eg. clarinet, bagpipes, pipe organs), other than fairground organs and mechanical street organs",
    "level": 8,
    "chapter": "92",
    "description": "Clarinets",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "92059090",
+   "hs6": "920590",
+   "hs6_description": "Musical instruments; wind, other than brass, (eg. clarinet, bagpipes, pipe organs), other than fairground organs and mechanical street organs",
    "level": 8,
    "chapter": "92",
    "description": "Other",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "92060000",
+   "hs6": "920600",
+   "hs6_description": "Musical instruments; percussion (e.g. drums, xylophones, cymbals, castanets, maracas)",
    "level": 8,
    "chapter": "92",
    "description": "Percussion musical instruments (for example, drums, xylophones, cymbols, castanets, maracas)",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "9207",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "92",
    "description": "Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions).",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "92071000",
+   "hs6": "920710",
+   "hs6_description": "Musical instruments; keyboard, (other than accordions), the sound of which is produced or must be amplified electrically",
    "level": 8,
    "chapter": "92",
    "description": "Keyboard instruments, other than accordions",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "92079000",
+   "hs6": "920790",
+   "hs6_description": "Musical instruments; (other than keyboard), the sound of which is produced or must be amplified electrically",
    "level": 8,
    "chapter": "92",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "9208",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "92",
    "description": "Musical boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other heading of this Chapter; decoy calls of all kinds; whistles, call horns and other mouthblown sound signalling instruments.",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "92081000",
+   "hs6": "920810",
+   "hs6_description": "Musical boxes",
    "level": 8,
    "chapter": "92",
    "description": "Musical boxes",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "92089000",
+   "hs6": "920890",
+   "hs6_description": "Fairground and mechanical street organs, mechanical singing birds, musical saws and musical instruments n.e.c. in chapter 92; decoy calls of all kinds; whistles; call horns and other mouth-blown sound signalling instruments",
    "level": 8,
    "chapter": "92",
    "description": "Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "9209",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "92",
    "description": "Parts (for example, mechanisms for musical boxes) and accessories (for example, cards, discs and rolls for mechanical instruments) of musical instruments; metronomes, tuning forks and pitch pipes of all kinds.",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "92093000",
+   "hs6": "920930",
+   "hs6_description": "Musical instrument strings",
    "level": 8,
    "chapter": "92",
    "description": "Musical instrument strings",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "92099100",
+   "hs6": "920991",
+   "hs6_description": "Musical instruments; parts and accessories for pianos",
    "level": 8,
    "chapter": "92",
    "description": "Other : -- Parts and accessories for pianos",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "92099200",
+   "hs6": "920992",
+   "hs6_description": "Musical instruments; parts and accessories for string musical instruments other than keyboard instruments",
    "level": 8,
    "chapter": "92",
    "description": "Other : -- Parts and accessories for the musical instruments of heading 92.02",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "92099400",
+   "hs6": "920994",
+   "hs6_description": "Musical instruments; parts and accessories for the musical instruments the sound of which is produced or must be amplified electrically (e.g. organs, guitars and accordions)",
    "level": 8,
    "chapter": "92",
    "description": "Other : -- Parts and accessories for the musical instruments of heading 92.07",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "92099900",
+   "hs6": "920999",
+   "hs6_description": "Musical instruments; parts and accessories for musical instruments n.e.c. in heading no. 9209; metronomes, tuning forks and pitch pipes",
    "level": 8,
    "chapter": "92",
    "description": "Other : -- Other",

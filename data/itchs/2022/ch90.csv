@@ -1,345 +1,345 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-9001,4,90,"Optical fibres and optical fibre bundles; optical fibre cables other than those of heading 8544; sheets and plates of polarising material; lenses (including contact lenses), prisms, mirrors and other optical elements, of any material, unmounted, other than such elements of glass not optically worked.",,,,,,2026-10-22
-90011000,8,90,"Optical fibres, Optical fibres bundles and cables",Free,,,,,2026-10-22
-90012000,8,90,Sheets and plates of polarising material,Free,,,,,2026-10-22
-90013000,8,90,Contact lenses,Free,,,,,2026-10-22
-900140,6,90,Spectacle lenses of glass,,,,,,2026-10-22
-90014010,8,90,Polarised glass,Free,,,,,2026-10-22
-90014090,8,90,Other,Free,,,,,2026-10-22
-90015000,8,90,Spectacle lenses of other materials,Free,,,,,2026-10-22
-900190,6,90,Other,,,,,,2026-10-22
-90019010,8,90,Optical calcite crystal,Free,,,,,2026-10-22
-90019090,8,90,Other,Free,,,,,2026-10-22
-9002,4,90,"Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such elements of glass not optically worked.",,,,,,2026-10-22
-90021100,8,90,"Objective lenses : -- For cameras, projectors or photographic enlargers or reducers",Free,,,,,2026-10-22
-90021900,8,90,Objective lenses : -- Other,Free,,,,,2026-10-22
-90022000,8,90,Filters,Free,,,,,2026-10-22
-90029000,8,90,Other,Free,,,,,2026-10-22
-9003,4,90,"Frames and mountings for spectacles, goggles or the like, and parts thereof.",,,,,,2026-10-22
-90031100,8,90,Frames and mountings : -- Of plastics,Free,,,,,2026-10-22
-90031900,8,90,Frames and mountings : -- Of other materials,Free,,,,,2026-10-22
-90039000,8,90,Parts,Free,,,,,2026-10-22
-9004,4,90,"Spectacles, goggles and the like, corrective, protective or other.",,,,,,2026-10-22
-90041000,8,90,Sunglasses,Free,,,,,2026-10-22
-900490,6,90,Other,,,,,,2026-10-22
-90049010,8,90,Passive night vision goggles,Restricted,,,,,2026-10-22
-90049020,8,90,Prismatic eyeglasses for reading,Free,,,,,2026-10-22
-90049090,8,90,Other,Free,,,,,2026-10-22
-9005,4,90,"Binoculars, monoculars, other optical telescopes, and mountings therefor; other astronomical instruments and mountings therefor, but not including instruments for radio-astronomy.",,,,,,2026-10-22
-90051000,8,90,Binoculars,Free,Night Vision Binoculars/ Passive Night Vision Devices-PNVs are Restricted for import,,,,2026-10-22
-900580,6,90,Other instruments,,,,,,2026-10-22
-90058010,8,90,Monocular and refracting telescopes,Free,,,,,2026-10-22
-90058020,8,90,Astronomical instruments,Free,,,,,2026-10-22
-90058090,8,90,Other,Free,,,,,2026-10-22
-900590,6,90,Parts and accessories (including mountings),,,,,,2026-10-22
-90059010,8,90,"Of binocular or telescopic of heading 9005, other than mountings",Free,,,,,2026-10-22
-90059020,8,90,Mountings for astronomical instruments,Free,,,,,2026-10-22
-90059090,8,90,Other,Free,,,,,2026-10-22
-9006,4,90,PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539,,,,,,2026-10-22
-90063000,8,90,"Cameras specially designed for underwater use, for aerial survey or for medical or surgical examination of internal organs; comparison cameras for forensic or criminological purposes",Free,,,,,2026-10-22
-90064000,8,90,Instant print cameras,Free,,,,,2026-10-22
-900653,6,90,Other cameras :- - For roll film of a width of 35 mm:,,,,,,2026-10-22
-90065310,8,90,Fixed focus 35 mm cameras,Free,,,,,2026-10-22
-90065390,8,90,Other,Free,,,,,2026-10-22
-900659,6,90,Other cameras : -- Other,,,,,,2026-10-22
-90065910,8,90,Fixed focus 110 mm cameras,Free,,,,,2026-10-22
-90065990,8,90,Other,Free,,,,,2026-10-22
-90066100,8,90,Photographic flashlight apparatus and flashbulbs : -- Discharge lamp (ìelectronicî) flashlight apparatus,Free,,,,,2026-10-22
-90066900,8,90,Photographic flashlight apparatus and flashbulbs : -- Other,Free,,,,,2026-10-22
-90069100,8,90,Parts and accessories : -- For cameras,Free,,,,,2026-10-22
-90069900,8,90,Parts and accessories : -- Other,Free,,,,,2026-10-22
-9007,4,90,"Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus.",,,,,,2026-10-22
-900710,6,90,Cameras,,,,,,2026-10-22
-90071010,8,90,For film of less than 16 mm,Free,,,,,2026-10-22
-90071090,8,90,Other,Free,,,,,2026-10-22
-900720,6,90,Projectors,,,,,,2026-10-22
-90072010,8,90,For film of less than 16 mm width,Free,,,,,2026-10-22
-90072090,8,90,Other,Free,,,,,2026-10-22
-90079100,8,90,Parts and accessories : -- For cameras,Free,,,,,2026-10-22
-90079200,8,90,Parts and accessories : -- For projectors,Free,,,,,2026-10-22
-9008,4,90,"Image projectors, other than cinematographic; photographic (other than cinematographic) enlargers and reducers.",,,,,,2026-10-22
-900850,6,90,"Projectors, enlargers and reducers",,,,,,2026-10-22
-90085010,8,90,Slide projectors,Free,,,,,2026-10-22
-90085020,8,90,"Microfilm, microfiche or other microform readers, whether or not capable of producing copies",Free,,,,,2026-10-22
-90085030,8,90,Other image projectors,Free,,,,,2026-10-22
-90085040,8,90,Photographic (other than Cinematographic) enlargers and reducers,Free,,,,,2026-10-22
-90089000,8,90,Parts and accessories,Free,,,,,2026-10-22
-9010,4,90,"Apparatus and equipment for photographic (including cinematographic) laboratories, not specified or included elsewhere in this Chapter; negatoscopes; projection screens.",,,,,,2026-10-22
-90101000,8,90,Apparatus and equipment for automatically developing photographic (including cinematographic) film or paper in rolls or for automatically exposing developed film to rolls of photographic paper,Free,,,,,2026-10-22
-90105000,8,90,Other apparatus and equipment for photographic (including cinematographic) laboratories; negatoscopes,Free,,,,,2026-10-22
-90106000,8,90,Projection screens,Free,,,,,2026-10-22
-90109000,8,90,Parts and accessories,Free,,,,,2026-10-22
-9011,4,90,"Compound optical microscopes, including those for photomicrography, cinephotomicrography or microprojection.",,,,,,2026-10-22
-90111000,8,90,Stereoscopic microscopes,Free,,,,,2026-10-22
-90112000,8,90,"Other microscopes, for photomicrography, cinephotomicrography or microprojection",Free,,,,,2026-10-22
-90118000,8,90,Other microscopes,Free,,,,,2026-10-22
-90119000,8,90,Parts and accessories,Free,,,,,2026-10-22
-9012,4,90,Microscopes other than optical microscopes; diffraction apparatus.,,,,,,2026-10-22
-901210,6,90,Microscopes other than optical microscopes; diffraction apparatus,,,,,,2026-10-22
-90121010,8,90,Electron microscopes fitted with equipment specifically designed for the handling and transport of semi conductor wafers or reticles,Free,,,,,2026-10-22
-90121090,8,90,Other,Free,,,,,2026-10-22
-90129000,8,90,Parts and accessories,Free,,,,,2026-10-22
-9013,4,90,"LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER",,,,,,2026-10-22
-901310,6,90,"Telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this Chapter or Section XVI",,,,,,2026-10-22
-90131010,8,90,Telescopic sights for fitting to arms,Restricted,,,,,2026-10-22
-90131020,8,90,Periscopes,Free,,,,,2026-10-22
-90131090,8,90,Other,Free,,,,,2026-10-22
-90132000,8,90,"Lasers, other than laser diodes",Free,,,,,2026-10-22
-90138000,8,90,"Other devices, appliances and instrument",Free,,,54/2015-2020,2022-02-09,2026-10-22
-90139000,8,90,Parts and accessories,Free,,,54/2015-2020,2022-02-09,2026-10-22
-9014,4,90,DIRECTION FINDING COMPASSES; OTHER NAVIGATIONAL INSTRUMENTS AND APPLIANCES,,,,,,2026-10-22
-90141000,8,90,Direction finding compasses,Free,,,,,2026-10-22
-90142000,8,90,Instruments and appliances for aeronautical or space navigation (other than compasses),Free,,,,,2026-10-22
-901480,6,90,Other instruments and appliances,,,,,,2026-10-22
-90148010,8,90,Echo sounding instrument,Free,,,,,2026-10-22
-90148020,8,90,Sextants,Free,,,,,2026-10-22
-90148090,8,90,Other,Free,,,,,2026-10-22
-90149000,8,90,Parts and accessories,Free,,,,,2026-10-22
-9015,4,90,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses; rangefinders.",,,,,,2026-10-22
-90151000,8,90,Rangefinders,Free,,,,,2026-10-22
-90152000,8,90,Theodolities and tachymeters (tacheometers),Free,,,,,2026-10-22
-901530,6,90,Levels,,,,,,2026-10-22
-90153010,8,90,Dumpy levels or engineers levels or builders levels (not automatic) and quick set levels with or without horizontal circles,Free,,,,,2026-10-22
-90153090,8,90,Other,Free,,,,,2026-10-22
-90154000,8,90,Photogrammetrical surveying instruments and appliances,Free,,,,,2026-10-22
-901580,6,90,Other instruments and appliances,,,,,,2026-10-22
-90158010,8,90,Hydrographic instruments,Free,,,,,2026-10-22
-90158020,8,90,Metorological instruments,Free,,,,,2026-10-22
-90158030,8,90,Geophysical instruments,Free,,,,,2026-10-22
-90158090,8,90,Other,Free,,,,,2026-10-22
-90159000,8,90,Parts and accessories,Free,,,,,2026-10-22
-9016,4,90,"Balances of a sensitivity of 5 cg or better, with or without weights.",,,,,,2026-10-22
-901600,6,90,"Balances of a sensitivity of 5cg or better, with or without weights :",,,,,,2026-10-22
-90160010,8,90,Electric Balances,Free,,,,,2026-10-22
-90160020,8,90,Other balances,Free,,,,,2026-10-22
-90160090,8,90,Parts,Free,,,,,2026-10-22
-9017,4,90,"Drawing, marking-out or mathematical calculating instruments (for example, drafting machines, pantographs, protractors, drawing sets, slide rules, disc calculators); instruments for measuring length, for use in the hand (for example, measuring rods and tapes, micrometers, callipers), not specified or included elsewhere in this Chapter.",,,,,,2026-10-22
-90171000,8,90,"Drafting tables and machines, whether or not automatic",Free,,,,,2026-10-22
-901720,6,90,"Other drawing, marking-out or mathematical calculating instruments",,,,,,2026-10-22
-90172010,8,90,Drawing and marking-out instruments,Free,,,,,2026-10-22
-90172020,8,90,Mathematical calculating instruments,Free,,,,,2026-10-22
-90172030,8,90,Pantograph,Free,,,,,2026-10-22
-90172090,8,90,Other,Free,,,,,2026-10-22
-901730,6,90,"Micrometers, callipers and gauges",,,,,,2026-10-22
-90173010,8,90,Micro-meters and calipers,Free,,,,,2026-10-22
-90173021,8,90,Gauges: ----Plug,Free,,,,,2026-10-22
-90173022,8,90,Gauges: ----Ring,Free,,,,,2026-10-22
-90173023,8,90,Gauges: ----Slip,Free,,,,,2026-10-22
-90173029,8,90,Gauges: ----Other,Free,,,,,2026-10-22
-901780,6,90,Other instruments,,,,,,2026-10-22
-90178010,8,90,Measuring rods and tapes and divided scales,Free,,,,,2026-10-22
-90178090,8,90,Other,Free,,,,,2026-10-22
-90179000,8,90,Parts and accessories,Free,,,,,2026-10-22
-9018,4,90,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments.",,,,,,2026-10-22
-90181100,8,90,Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Electro-cardiographs,Free,,,,,2026-10-22
-901812,6,90,Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Ultrasonic scanning apparatus,,,,,,2026-10-22
-90181210,8,90,Linear ultrasound scanner,Free,,,,,2026-10-22
-90181290,8,90,Other,Free,,,,,2026-10-22
-90181300,8,90,Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Magnetic resonance imaging apparatus,Free,,,,,2026-10-22
-90181400,8,90,Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Scintigraphic apparatus,Free,,,,,2026-10-22
-901819,6,90,Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Other,,,,,,2026-10-22
-90181910,8,90,Electro encephalographs,Free,,,,,2026-10-22
-90181920,8,90,Echo cardiograph,Free,,,,,2026-10-22
-90181990,8,90,Other,Free,,,,,2026-10-22
-90182000,8,90,Ultra-violet or infra-red ray apparatus,Free,,,,,2026-10-22
-90183100,8,90,"Syringes, needles, catheters, cannulae and the like : -- Syringes, with or without needles",Free,,,,,2026-10-22
-901832,6,90,"Syringes, needles, catheters, cannulae and the like : -- Tubular metal needles and needles for sutures",,,,,,2026-10-22
-90183210,8,90,Needles for suture,Free,,,,,2026-10-22
-90183220,8,90,"Hollow needles for injection, aspiration, biopsy and transfusion",Free,,,,,2026-10-22
-90183230,8,90,Hilerio venus fistula needles,Free,,,,,2026-10-22
-90183290,8,90,Other,Free,,,,,2026-10-22
-901839,6,90,"Syringes, needles, catheters, cannulae and the like : -- Other",,,,,,2026-10-22
-90183910,8,90,"Catheters (for urine, stool)",Free,,,,,2026-10-22
-90183920,8,90,Cardiac catheters,Free,,,,,2026-10-22
-90183930,8,90,Cannulae,Free,,,,,2026-10-22
-90183990,8,90,Other,Free,,,,,2026-10-22
-90184100,8,90,"Other instruments and appliances, used in dental sciences : -- Dental drill engines, whether or not combined on a single base with other dental equipment",Free,,,,,2026-10-22
-90184900,8,90,"Other instruments and appliances, used in dental sciences : -- Other",Free,,,,,2026-10-22
-901850,6,90,Other ophthalmic instruments and appliances,,,,,,2026-10-22
-90185010,8,90,Opthalmoscopes,Free,,,,,2026-10-22
-90185020,8,90,Tonometers,Free,,,,,2026-10-22
-90185030,8,90,Ophthalmic lasers,Free,,,,,2026-10-22
-90185090,8,90,Other,Free,,,,,2026-10-22
-901890,6,90,Other instruments and appliances,,,,,,2026-10-22
-90189011,8,90,Diagnostic instruments and apparatus :---- Instrument and apparatus for measuring blood pressure,Free,,,,,2026-10-22
-90189012,8,90,Diagnostic instruments and apparatus :---- Stethoscopes,Free,,,,,2026-10-22
-90189019,8,90,Diagnostic instruments and apparatus :---- Other,Free,,,,,2026-10-22
-90189021,8,90,"Surgical tools: ----Bone saws, drills and trephines",Free,,,,,2026-10-22
-90189022,8,90,"Surgical tools: ----Knives, scissors and blades",Free,,,,,2026-10-22
-90189023,8,90,"Surgical tools: ----Forceps, forcep clamps, clips, needle holders, introducers, cephalotribe bone holding and other holding instruments",Free,,,,,2026-10-22
-90189024,8,90,"Surgical tools: ----Chisel, gauges, elevators, raspatones, osteotome, craniotome, bone cutters",Free,,,,,2026-10-22
-90189025,8,90,"Surgical tools: ----Retractors, spatulaprobes, hooks dialators, sounds, mallets",Free,,,,,2026-10-22
-90189029,8,90,Surgical tools: ----Other,Free,,,,,2026-10-22
-90189031,8,90,"Artificial kidney (dialysis) apparatus, blood transfusion apparatus:----Artificial kidney (dialysis) apparatus",Free,,,,,2026-10-22
-90189032,8,90,"Artificial kidney (dialysis) apparatus, blood transfusion apparatus:---- Blood transfusion apparatus",Free,,,,,2026-10-22
-90189041,8,90,"Anesthetic apparatus and instruments, ENT precision instruments, acupuncture apparatus, and endoscopes: ----Anesthetic apparatus and instruments",Free,,,,,2026-10-22
-90189042,8,90,"Anesthetic apparatus and instruments, ENT precision instruments, acupuncture apparatus, and endoscopes: ----ENT precision instruments",Free,,,,,2026-10-22
-90189043,8,90,"Anesthetic apparatus and instruments, ENT precision instruments, acupuncture apparatus, and endoscopes: ----Acupuncture apparatus",Free,,,,,2026-10-22
-90189044,8,90,"Anesthetic apparatus and instruments, ENT precision instruments, acupuncture apparatus, and endoscopes: ----Endoscopes",Free,,,,,2026-10-22
-90189091,8,90,other ----Hilerial or venous shunts,Free,,,,,2026-10-22
-90189092,8,90,other ----Baby incubators,Free,,,,,2026-10-22
-90189093,8,90,other ----Heart-lung machines,Free,,,,,2026-10-22
-90189094,8,90,other ----Defibrillators,Free,,,,,2026-10-22
-90189095,8,90,other ----Fibrescopes,Free,,,,,2026-10-22
-90189096,8,90,other ----Laproscopes,Free,,,,,2026-10-22
-90189097,8,90,other ----Vetrasonic lithotripsy instruments,Free,,,,,2026-10-22
-90189098,8,90,other ----Apparatus for nerve stimulation,Free,,,,,2026-10-22
-90189099,8,90,other ----Other,Free,,,,,2026-10-22
-9019,4,90,"Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus.",,,,,,2026-10-22
-901910,6,90,Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus,,,,,,2026-10-22
-90191010,8,90,Mechano-therapy appliances,Free,,,,,2026-10-22
-90191020,8,90,Massage apparatus,Free,,,,,2026-10-22
-90191090,8,90,Other,Free,,,,,2026-10-22
-901920,6,90,"Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus",,,,,,2026-10-22
-90192010,8,90,Oxygen therapy apparatus,Free,,,,,2026-10-22
-90192090,8,90,Other,Free,,,,,2026-10-22
-90200000,8,90,"Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters.",Free,,,,,2026-10-22
-9021,4,90,"Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability.",,,,,,2026-10-22
-90211000,8,90,Orthopaedic or fracture appliances,Free,,,,,2026-10-22
-90212100,8,90,Artificial teeth and dental fittings : -- Artificial teeth,Free,,,,,2026-10-22
-90212900,8,90,Artificial teeth and dental fittings : -- Other,Free,,,,,2026-10-22
-90213100,8,90,Other artificial parts of the body : -- Artificial joints,Free,,,,,2026-10-22
-90213900,8,90,Other artificial parts of the body : -- Other,Free,,,,,2026-10-22
-902140,6,90,"Hearing aids, excluding parts and accessories",,,,,,2026-10-22
-90214010,8,90,Frequency modulated hearing aid system used for hearing by handicapped persons in group situation,Free,,,,,2026-10-22
-90214090,8,90,Other,Free,,,,,2026-10-22
-90215000,8,90,"Pacemakers for stimulating heart muscles, excluding parts and accessories",Free,,,,,2026-10-22
-902190,6,90,Other,,,,,,2026-10-22
-90219010,8,90,Parts and accessories of hearing aids,Free,,,,,2026-10-22
-90219090,8,90,Other,Free,"The instruments and equipments required by the blind, which fall under any other Exim code of this book shall also be freely importable.",,,,2026-10-22
-9022,4,90,"APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA GAMMA OR OTHER IONISING RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS,X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS, CONTROL PANELS AND DESKS, SCREENS, EXAMINATION OR TREATMENT TABLES, CHAIRS AND THE LIKE",,,,,,2026-10-22
-90221200,8,90,"Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- Computed tomography apparatus",Free,"Imports are permitted subject to Atomic Energy Act, 1962 and Rules thereunder including prior regulatory clearance from AERB.",,03/2015-2020,2018-04-16,2026-10-22
-90221300,8,90,"Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- Other, for dental uses",Free,,,,,2026-10-22
-902214,6,90,"Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- Other, for medical, surgical or veterinary uses",,,,,,2026-10-22
-90221410,8,90,X-ray generators and apparatus (non-portable),Free,"Diagnostic Medical X - Ray Equipment must conform to IS 7620 (Pt 1). Imports are permitted subject to Atomic Energy Act,' '1962 and Rules thereunder including prior regulatory clearance from AERB",,03/2015-2020,2018-04-16,2026-10-22
-90221420,8,90,Portable X-ray machine,Free,"Diagnostic Medical X - Ray Equipment must conform to IS 7620 (Pt 1). Imports are permitted subject to Atomic Energy Act,' '1962 and Rules thereunder including prior regulatory clearance from AERB",,03/2015-2020,2018-04-16,2026-10-22
-90221490,8,90,Other,Free,,,,,2026-10-22
-90221900,8,90,"Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus :-- For other uses",Free,,,,,2026-10-22
-90222100,8,90,"Apparatus based on the use of alpha, beta or gamma radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- For medical, surgical, dental or veterinary uses",Free,,,,,2026-10-22
-90222900,8,90,"Apparatus based on the use of alpha, beta or gamma radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- For other uses",Free,,,,,2026-10-22
-90223000,8,90,X-ray tubes,Free,"Imports are permitted subject to Atomic Energy Act, 1962 and Rules thereunder including prior regulatory clearance from AERB",,03/2015-2020,2018-04-16,2026-10-22
-902290,6,90,"Other, including parts and accessories",,,,,,2026-10-22
-90229010,8,90,X-ray valves,Free,"Imports are permitted subject to Atomic Energy Act, 1962 and Rules thereunder including prior regulatory clearance from AERB",,03/2015-2020,2018-04-16,2026-10-22
-90229020,8,90,Radiation generation units,Free,"Imports are permitted subject to Atomic Energy Act, 1962 and Rules thereunder including prior regulatory clearance from AERB",,03/2015-2020,2018-04-16,2026-10-22
-90229030,8,90,Radiation beam delivery units,Free,"Imports are permitted subject to Atomic Energy Act, 1962 and Rules thereunder including prior regulatory clearance from AERB",,03/2015-2020,2018-04-16,2026-10-22
-90229040,8,90,"X-ray examination or treatment table, chairs and the like",Free,,,,,2026-10-22
-90229090,8,90,Other,Free,,,,,2026-10-22
-9023,4,90,"Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses.",,,,,,2026-10-22
-902300,6,90,"Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses:",,,,,,2026-10-22
-90230010,8,90,Teaching aids,Free,,,,,2026-10-22
-90230090,8,90,Other,Free,,,,,2026-10-22
-9024,4,90,"Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics).",,,,,,2026-10-22
-90241000,8,90,Machines and appliances for testing metals,Free,,,,,2026-10-22
-902480,6,90,Other machines and appliances,,,,,,2026-10-22
-90248010,8,90,"For testing textiles, paper and paperboard",Free,,,,,2026-10-22
-90248091,8,90,Other: ----For testing hardness,Free,,,,,2026-10-22
-90248099,8,90,Other: ----Other,Free,,,,,2026-10-22
-90249000,8,90,Parts and accessories,Free,,,,,2026-10-22
-9025,4,90,"Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments.",,,,,,2026-10-22
-902511,6,90,"Thermometers and pyrometers, not combined with other instruments : -- Liquid-filled, for direct reading",,,,,,2026-10-22
-90251110,8,90,Clinical thermometers,Free,Clinical thermometers: Part 1 Solid stem type must conform to IS 3055 (Part 1) and Part 2 Enclosed scale type must conform to IS 3055 (Part 2).,,,,2026-10-22
-90251190,8,90,Other,Free,,,,,2026-10-22
-902519,6,90,"Thermometers and pyrometers, not combined with other instruments : -- Other",,,,,,2026-10-22
-90251910,8,90,Digital thermometers,Free,,,,,2026-10-22
-90251920,8,90,Pyrometers,Free,,,,,2026-10-22
-90251990,8,90,Other,Free,,,,,2026-10-22
-902580,6,90,Other instruments,,,,,,2026-10-22
-90258010,8,90,Hydrometers and similar floating instruments,Free,,,,,2026-10-22
-90258020,8,90,"Barometers, not combined with other instruments",Free,,,,,2026-10-22
-90258030,8,90,Lactometer,Free,,,,,2026-10-22
-90258090,8,90,Other,Free,,,,,2026-10-22
-90259000,8,90,Parts and accessories,Free,,,,,2026-10-22
-9026,4,90,"INSTRUMENTS AND APPARATUS FOR MEASURING OR CHECKING THE FLOW, LEVEL, PRESSURE OR OTHER VARIABLES OF LIQUIDS OR GASES (FOR EXAMPLE, FLOW METERS, LEVEL GAUGES, MANOMETERS, HEAT METERS), EXCLUDING INSTRUMENTS AND APPARATUS OF HEADING 9014, 9015, 9028 OR 9032",,,,,,2026-10-22
-902610,6,90,For measuring or checking the flow or level of liquids,,,,,,2026-10-22
-90261010,8,90,Flow meters,Free,,,,,2026-10-22
-90261020,8,90,Level gauges,Free,,,,,2026-10-22
-90261090,8,90,Other,Free,,,,,2026-10-22
-90262000,8,90,For measuring or checking pressure,Free,,,,,2026-10-22
-902680,6,90,Other instruments or apparatus,,,,,,2026-10-22
-90268010,8,90,Heat meters,Free,,,,,2026-10-22
-90268090,8,90,Other,Free,,,,,2026-10-22
-90269000,8,90,Parts and accessories,Free,,,,,2026-10-22
-9027,4,90,"Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light (including exposure meters); microtomes.",,,,,,2026-10-22
-90271000,8,90,Gas or smoke analysis apparatus,Free,,,,,2026-10-22
-90272000,8,90,Chromatographs and electrophoresis instruments,Free,,,,,2026-10-22
-902730,6,90,"Spectrometers, spectrophotometers and spectrographs using optical radiations (UV, visible, IR)",,,,,,2026-10-22
-90273010,8,90,Spectrometers,Free,,,,,2026-10-22
-90273020,8,90,Spectrophotometers,Free,,,,,2026-10-22
-90273090,8,90,Other,Free,,,,,2026-10-22
-902750,6,90,"Other instruments and apparatus using optical radiations (UV, visible, IR)",,,,,,2026-10-22
-90275010,8,90,Photometers,Free,,,,,2026-10-22
-90275020,8,90,Refractometers,Free,,,,,2026-10-22
-90275030,8,90,Polarimeters,Free,,,,,2026-10-22
-90275090,8,90,Other,Free,,,,,2026-10-22
-90278100,8,90,Other instruments and apparatus: - - Mass spectrometres,Free,,,54/2015-2020,2022-02-09,2026-10-22
-902789,6,90,Other instruments and apparatus: - - Other:,,,,,,2026-10-22
-90278910,8,90,Viscometers,Free,,,54/2015-2020,2022-02-09,2026-10-22
-90278920,8,90,Calorimeters,Free,,,54/2015-2020,2022-02-09,2026-10-22
-90278930,8,90,Instruments and apparatus for measuring the surface or interfocial tension of liquids,Free,,,54/2015-2020,2022-02-09,2026-10-22
-90278990,8,90,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
-902790,6,90,Microtomes; parts and accessories,,,,,,2026-10-22
-90279010,8,90,"Microtomes, including parts and accusscries thereof",Free,,,,,2026-10-22
-90279020,8,90,Printed circuit assemblies for the goods of sub-heading 9027 80,Free,,,,,2026-10-22
-90279090,8,90,Other,Free,,,,,2026-10-22
-9028,4,90,"Gas, liquid or electricity supply or production meters, including calibrating meters therefor.",,,,,,2026-10-22
-90281000,8,90,Gas meters,Free,,,,,2026-10-22
-90282000,8,90,Liquid meters,Free,,,,,2026-10-22
-902830,6,90,Electricity meters,,,,,,2026-10-22
-90283010,8,90,For alternating current,Free,"AC watt-hour meters, class 0.5, 1 and 2 must conform to IS 13010, AC static watt-hour meters, class 1 and 2 must conform to IS 13779 and AC static transformer operated watt-hour and VAR- hour meters, class 0.2S and 0.5S must conform to IS 14697",,,,2026-10-22
-90283090,8,90,Other,Free,,,,,2026-10-22
-902890,6,90,Parts and accessories,,,,,,2026-10-22
-90289010,8,90,For electricity meters,Free,,,,,2026-10-22
-90289090,8,90,Other,Free,,,,,2026-10-22
-9029,4,90,"REVOLUTION COUNTERS, PRODUCTION COUNTERS, TAXIMETERS, MILEOMETERS, PEDOMETERS AND THE LIKE; SPEED INDICATORS AND TACHOMETERS, OTHER THAN THOSE OF HEADING 9014 OR 9015; STROBOSCOPES",,,,,,2026-10-22
-902910,6,90,"Revolution counters, production counters, taximeters, mileometers, pedometers and the like",,,,,,2026-10-22
-90291010,8,90,Taximeters,Free,,,,,2026-10-22
-90291090,8,90,Other,Free,,,,,2026-10-22
-902920,6,90,Speed indicators and tachometers; stroboscopes,,,,,,2026-10-22
-90292010,8,90,"Tachometers, non-electrical",Free,,,,,2026-10-22
-90292020,8,90,"Speedometers, non-electrical",Free,,,,,2026-10-22
-90292030,8,90,Stroboscopes,Free,,,,,2026-10-22
-90292090,8,90,Other,Free,,,,,2026-10-22
-90299000,8,90,Parts and accessories,Free,,,,,2026-10-22
-9030,4,90,"OSCILLOSCOPES, SPECTRUM ANALYSERS AND OTHER INSTRUMENTS AND APPARATUS FOR MEASURING OR CHECKING ELECTRICAL QUANTITIES, EXCLUDING METERS OF HEADING 9028; INSTRUMENTS AND APPARATUS FOR MEASURING OR DETECTING ALPHA, BETA, GAMMA, X-RAY, COSMIC OR OTHER IONISING RADIATIONS",,,,,,2026-10-22
-90301000,8,90,Instruments and apparatus for measuring or detecting ionising radiations,Free,,,,,2026-10-22
-90302000,8,90,Oscilloscopes and oscillographs,Free,,,,,2026-10-22
-90303100,8,90,"Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):-- Multimeters without a recording device",Free,,,,,2026-10-22
-90303200,8,90,"Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):-- Multimeters with a recording device",Free,,,,,2026-10-22
-903033,6,90,"Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):--Other, without a recording device:",,,,,,2026-10-22
-90303310,8,90,"Ammeters,volt meters and watt meters",Free,,,,,2026-10-22
-90303320,8,90,Spectrum resistance meters,Free,,,,,2026-10-22
-90303330,8,90,Capacitance meter,Free,,,,,2026-10-22
-90303340,8,90,Frequency measuring apparatus,Free,,,,,2026-10-22
-90303350,8,90,Megar meters,Free,,,,,2026-10-22
-90303390,8,90,Other,Free,,,,,2026-10-22
-90303900,8,90,"Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):--Other, with a recording device:",Free,,,,,2026-10-22
-90304000,8,90,"Other instruments and apparatus, specially designed for telecommunications (for example, cross-talk meters, gain measuring instruments, distortion factor meters, psophometers)",Free,,,,,2026-10-22
-90308200,8,90,Other instruments and apparatus : -- For measuring or checking semiconductor wafer or devices (including integrated circuits),Free,,,,,2026-10-22
-90308400,8,90,"Other instruments and apparatus : -- Other, with a recording device",Free,,,,,2026-10-22
-903089,6,90,Other instruments and apparatus : -- Other,,,,,,2026-10-22
-90308910,8,90,Scintillator counters,Free,,,,,2026-10-22
-90308920,8,90,Vectroscope,Free,,,,,2026-10-22
-90308990,8,90,Other,Free,,,,,2026-10-22
-903090,6,90,Parts and accessories,,,,,,2026-10-22
-90309010,8,90,Of meters and counters,Free,,,,,2026-10-22
-90309090,8,90,Other,Free,,,,,2026-10-22
-9031,4,90,"Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this Chapter; profile projectors.",,,,,,2026-10-22
-90311000,8,90,Machines for balancing mechanical parts,Free,,,,,2026-10-22
-90312000,8,90,Test benches,Free,,,,,2026-10-22
-90314100,8,90,Other optical instruments and appliances :- - For inspecting semiconductor wafers or devices (including integrated circuits) or for inspecting photomasks or reticles used in manufacturing semiconductor devices (including integrated circuits),Free,,,,,2026-10-22
-90314900,8,90,Other optical instruments and appliances : -- Other,Free,,,,,2026-10-22
-90318000,8,90,"Other instruments, appliances and machines",Free,,,,,2026-10-22
-90319000,8,90,Parts and accessories,Free,,,,,2026-10-22
-9032,4,90,Automatic regulating or controlling instruments and apparatus.,,,,,,2026-10-22
-903210,6,90,Thermostats,,,,,,2026-10-22
-90321010,8,90,For refrigerating and air-conditioning appliances and machinery,Free,,,,,2026-10-22
-90321090,8,90,Other,Free,,,,,2026-10-22
-903220,6,90,Manostats,,,,,,2026-10-22
-90322010,8,90,For refrigerating and air-conditioning appliances and machinery,Free,,,,,2026-10-22
-90322090,8,90,Other,Free,,,,,2026-10-22
-90328100,8,90,Other instruments and apparatus : -- Hydraulic or pneumatic,Free,,,,,2026-10-22
-903289,6,90,Other instruments and apparatus : -- Other,,,,,,2026-10-22
-90328910,8,90,Electronic automatic regulators,Free,,,,,2026-10-22
-90328990,8,90,Other,Free,,,,,2026-10-22
-90329000,8,90,Parts and accessories,Free,,,,,2026-10-22
-90330000,8,90,"Parts and accessories (not specified or included elsewhere in this Chapter) for machines, appliances, instruments or apparatus of Chapter 90.",Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+9001,,,4,90,"Optical fibres and optical fibre bundles; optical fibre cables other than those of heading 8544; sheets and plates of polarising material; lenses (including contact lenses), prisms, mirrors and other optical elements, of any material, unmounted, other than such elements of glass not optically worked.",,,,,,2026-10-22
+90011000,900110,"Optical fibres, optical fibre bundles and cables; excluding those of heading no. 8544",8,90,"Optical fibres, Optical fibres bundles and cables",Free,,,,,2026-10-22
+90012000,900120,"Optical elements; polarising material, sheets and plates thereof",8,90,Sheets and plates of polarising material,Free,,,,,2026-10-22
+90013000,900130,"Lenses, contact; unmounted, of any material, excluding elements of glass not optically worked",8,90,Contact lenses,Free,,,,,2026-10-22
+900140,900140,"Lenses, spectacle; unmounted, of glass, excluding elements of glass not optically worked",6,90,Spectacle lenses of glass,,,,,,2026-10-22
+90014010,900140,"Lenses, spectacle; unmounted, of glass, excluding elements of glass not optically worked",8,90,Polarised glass,Free,,,,,2026-10-22
+90014090,900140,"Lenses, spectacle; unmounted, of glass, excluding elements of glass not optically worked",8,90,Other,Free,,,,,2026-10-22
+90015000,900150,"Lenses, spectacle; unmounted, of materials other than glass",8,90,Spectacle lenses of other materials,Free,,,,,2026-10-22
+900190,900190,"Optical elements; lenses n.e.c. in heading no. 9001, prisms, mirrors and other optical elements, unmounted, of any material (excluding elements of glass not optically worked)",6,90,Other,,,,,,2026-10-22
+90019010,900190,"Optical elements; lenses n.e.c. in heading no. 9001, prisms, mirrors and other optical elements, unmounted, of any material (excluding elements of glass not optically worked)",8,90,Optical calcite crystal,Free,,,,,2026-10-22
+90019090,900190,"Optical elements; lenses n.e.c. in heading no. 9001, prisms, mirrors and other optical elements, unmounted, of any material (excluding elements of glass not optically worked)",8,90,Other,Free,,,,,2026-10-22
+9002,,,4,90,"Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such elements of glass not optically worked.",,,,,,2026-10-22
+90021100,900211,"Lenses; objective, for cameras, projectors or photographic enlargers or reducers, mounted, being parts or fittings for instruments or apparatus, of any material (excluding glass not optically worked)",8,90,"Objective lenses : -- For cameras, projectors or photographic enlargers or reducers",Free,,,,,2026-10-22
+90021900,900219,"Lenses; objective, (other than for cameras, projectors or photographic enlargers or reducers), mounted, of any material (excluding elements of glass not optically worked)",8,90,Objective lenses : -- Other,Free,,,,,2026-10-22
+90022000,900220,"Filters; mounted as parts or fittings for instruments or apparatus, of any material (excluding elements of glass not optically worked)",8,90,Filters,Free,,,,,2026-10-22
+90029000,900290,"Optical elements; n.e.c. in heading no. 9002 (e.g. prisms and mirrors), mounted, being parts or fittings for instruments or apparatus, of any material (excluding elements of glass not optically worked)",8,90,Other,Free,,,,,2026-10-22
+9003,,,4,90,"Frames and mountings for spectacles, goggles or the like, and parts thereof.",,,,,,2026-10-22
+90031100,900311,"Frames and mountings; for spectacles, goggles or the like, of plastics",8,90,Frames and mountings : -- Of plastics,Free,,,,,2026-10-22
+90031900,900319,"Frames and mountings; for spectacles, goggles or the like, of materials other than plastics",8,90,Frames and mountings : -- Of other materials,Free,,,,,2026-10-22
+90039000,900390,"Frames and mountings; parts for spectacles, goggles or the like",8,90,Parts,Free,,,,,2026-10-22
+9004,,,4,90,"Spectacles, goggles and the like, corrective, protective or other.",,,,,,2026-10-22
+90041000,900410,"Sunglasses; corrective, protective or other",8,90,Sunglasses,Free,,,,,2026-10-22
+900490,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",6,90,Other,,,,,,2026-10-22
+90049010,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",8,90,Passive night vision goggles,Restricted,,,,,2026-10-22
+90049020,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",8,90,Prismatic eyeglasses for reading,Free,,,,,2026-10-22
+90049090,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",8,90,Other,Free,,,,,2026-10-22
+9005,,,4,90,"Binoculars, monoculars, other optical telescopes, and mountings therefor; other astronomical instruments and mountings therefor, but not including instruments for radio-astronomy.",,,,,,2026-10-22
+90051000,900510,Binoculars,8,90,Binoculars,Free,Night Vision Binoculars/ Passive Night Vision Devices-PNVs are Restricted for import,,,,2026-10-22
+900580,900580,"Monoculars; other optical telescopes and astronomical instruments, excluding instruments for radio-astronomy",6,90,Other instruments,,,,,,2026-10-22
+90058010,900580,"Monoculars; other optical telescopes and astronomical instruments, excluding instruments for radio-astronomy",8,90,Monocular and refracting telescopes,Free,,,,,2026-10-22
+90058020,900580,"Monoculars; other optical telescopes and astronomical instruments, excluding instruments for radio-astronomy",8,90,Astronomical instruments,Free,,,,,2026-10-22
+90058090,900580,"Monoculars; other optical telescopes and astronomical instruments, excluding instruments for radio-astronomy",8,90,Other,Free,,,,,2026-10-22
+900590,900590,"Binoculars, monoculars, other optical telescopes, astronomical instruments (excluding those of radio-astronomy); parts and accessories (including mountings)",6,90,Parts and accessories (including mountings),,,,,,2026-10-22
+90059010,900590,"Binoculars, monoculars, other optical telescopes, astronomical instruments (excluding those of radio-astronomy); parts and accessories (including mountings)",8,90,"Of binocular or telescopic of heading 9005, other than mountings",Free,,,,,2026-10-22
+90059020,900590,"Binoculars, monoculars, other optical telescopes, astronomical instruments (excluding those of radio-astronomy); parts and accessories (including mountings)",8,90,Mountings for astronomical instruments,Free,,,,,2026-10-22
+90059090,900590,"Binoculars, monoculars, other optical telescopes, astronomical instruments (excluding those of radio-astronomy); parts and accessories (including mountings)",8,90,Other,Free,,,,,2026-10-22
+9006,,,4,90,PHOTOGRAPHIC (OTHER THAN CINEMATOGRAPHIC) CAMERAS; PHOTOGRAPHIC FLASHLIGHT APPARATUS AND FLASH BULBS OTHER THAN DISCHARGE LAMPS OF HEADING 8539,,,,,,2026-10-22
+90063000,900630,"Cameras, photographic (excluding cinematographic); specially designed for underwater use, aerial survey, medical or surgical examination of internal organs; comparison cameras for forensic or criminological use",8,90,"Cameras specially designed for underwater use, for aerial survey or for medical or surgical examination of internal organs; comparison cameras for forensic or criminological purposes",Free,,,,,2026-10-22
+90064000,900640,"Cameras, photographic (excluding cinematographic); instant print cameras",8,90,Instant print cameras,Free,,,,,2026-10-22
+900653,900653,"Cameras, photographic (excluding cinematographic), for roll film of a width of 35mm",6,90,Other cameras :- - For roll film of a width of 35 mm:,,,,,,2026-10-22
+90065310,900653,"Cameras, photographic (excluding cinematographic), for roll film of a width of 35mm",8,90,Fixed focus 35 mm cameras,Free,,,,,2026-10-22
+90065390,900653,"Cameras, photographic (excluding cinematographic), for roll film of a width of 35mm",8,90,Other,Free,,,,,2026-10-22
+900659,900659,"Cameras, photographic (excluding cinematographic); n.e.c. in heading no 9006",6,90,Other cameras : -- Other,,,,,,2026-10-22
+90065910,900659,"Cameras, photographic (excluding cinematographic); n.e.c. in heading no 9006",8,90,Fixed focus 110 mm cameras,Free,,,,,2026-10-22
+90065990,900659,"Cameras, photographic (excluding cinematographic); n.e.c. in heading no 9006",8,90,Other,Free,,,,,2026-10-22
+90066100,900661,Photographic flashlight apparatus; discharge lamp (electronic),8,90,Photographic flashlight apparatus and flashbulbs : -- Discharge lamp (ìelectronicî) flashlight apparatus,Free,,,,,2026-10-22
+90066900,900669,Photographic flashlight apparatus; n.e.c. in heading no. 9006,8,90,Photographic flashlight apparatus and flashbulbs : -- Other,Free,,,,,2026-10-22
+90069100,900691,"Cameras, photographic (excluding cinematographic); parts and accessories",8,90,Parts and accessories : -- For cameras,Free,,,,,2026-10-22
+90069900,900699,"Photographic flashlight apparatus; parts and accessories, for other than cameras",8,90,Parts and accessories : -- Other,Free,,,,,2026-10-22
+9007,,,4,90,"Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus.",,,,,,2026-10-22
+900710,900710,"Cameras, cinematographic; whether or not incorporating sound recording apparatus",6,90,Cameras,,,,,,2026-10-22
+90071010,900710,"Cameras, cinematographic; whether or not incorporating sound recording apparatus",8,90,For film of less than 16 mm,Free,,,,,2026-10-22
+90071090,900710,"Cameras, cinematographic; whether or not incorporating sound recording apparatus",8,90,Other,Free,,,,,2026-10-22
+900720,900720,"Projectors, cinematographic; whether or not incorporating sound recording or reproducing apparatus",6,90,Projectors,,,,,,2026-10-22
+90072010,900720,"Projectors, cinematographic; whether or not incorporating sound recording or reproducing apparatus",8,90,For film of less than 16 mm width,Free,,,,,2026-10-22
+90072090,900720,"Projectors, cinematographic; whether or not incorporating sound recording or reproducing apparatus",8,90,Other,Free,,,,,2026-10-22
+90079100,900791,"Cameras, cinematographic; parts and accessories, whether or not incorporating sound recording apparatus",8,90,Parts and accessories : -- For cameras,Free,,,,,2026-10-22
+90079200,900792,"Projectors, cinematographic; parts and accessories, whether or not incorporating sound reproducing apparatus",8,90,Parts and accessories : -- For projectors,Free,,,,,2026-10-22
+9008,,,4,90,"Image projectors, other than cinematographic; photographic (other than cinematographic) enlargers and reducers.",,,,,,2026-10-22
+900850,900850,"Image projectors, photographic enlargers and reducers, excluding cinematographic",6,90,"Projectors, enlargers and reducers",,,,,,2026-10-22
+90085010,900850,"Image projectors, photographic enlargers and reducers, excluding cinematographic",8,90,Slide projectors,Free,,,,,2026-10-22
+90085020,900850,"Image projectors, photographic enlargers and reducers, excluding cinematographic",8,90,"Microfilm, microfiche or other microform readers, whether or not capable of producing copies",Free,,,,,2026-10-22
+90085030,900850,"Image projectors, photographic enlargers and reducers, excluding cinematographic",8,90,Other image projectors,Free,,,,,2026-10-22
+90085040,900850,"Image projectors, photographic enlargers and reducers, excluding cinematographic",8,90,Photographic (other than Cinematographic) enlargers and reducers,Free,,,,,2026-10-22
+90089000,900890,"Photographic (other than cinematographic) image projectors, enlargers, and reducers; parts and accessories",8,90,Parts and accessories,Free,,,,,2026-10-22
+9010,,,4,90,"Apparatus and equipment for photographic (including cinematographic) laboratories, not specified or included elsewhere in this Chapter; negatoscopes; projection screens.",,,,,,2026-10-22
+90101000,901010,Photographic laboratory apparatus and equipment; for automatically developing photographic (including cinematographic) film or paper in rolls or for automatically exposing developed film to rolls of paper,8,90,Apparatus and equipment for automatically developing photographic (including cinematographic) film or paper in rolls or for automatically exposing developed film to rolls of photographic paper,Free,,,,,2026-10-22
+90105000,901050,"Photographic laboratory apparatus and equipment; n.e.c. in item no. 9010.10, for photographic (including cinematographic) laboratories; negatoscopes",8,90,Other apparatus and equipment for photographic (including cinematographic) laboratories; negatoscopes,Free,,,,,2026-10-22
+90106000,901060,Photographic laboratory apparatus and equipment (including cinematographic); projection screens,8,90,Projection screens,Free,,,,,2026-10-22
+90109000,901090,Photographic laboratory apparatus and equipment (including cinematographic); parts and accessories,8,90,Parts and accessories,Free,,,,,2026-10-22
+9011,,,4,90,"Compound optical microscopes, including those for photomicrography, cinephotomicrography or microprojection.",,,,,,2026-10-22
+90111000,901110,"Microscopes, compound optical; stereoscopic microscopes",8,90,Stereoscopic microscopes,Free,,,,,2026-10-22
+90112000,901120,"Microscopes, compound optical; for photomicrography, cinephotomicrography or microprojection",8,90,"Other microscopes, for photomicrography, cinephotomicrography or microprojection",Free,,,,,2026-10-22
+90118000,901180,"Microscopes, compound optical; (other than stereoscopic and microscopes for photomicrography, cinephotomicrography or microprojection)",8,90,Other microscopes,Free,,,,,2026-10-22
+90119000,901190,"Microscopes, compound optical; parts and accessories (including those for photomicrography, cinephotomicrography or microprojection)",8,90,Parts and accessories,Free,,,,,2026-10-22
+9012,,,4,90,Microscopes other than optical microscopes; diffraction apparatus.,,,,,,2026-10-22
+901210,901210,Microscopes (excluding optical microscopes); diffraction apparatus,6,90,Microscopes other than optical microscopes; diffraction apparatus,,,,,,2026-10-22
+90121010,901210,Microscopes (excluding optical microscopes); diffraction apparatus,8,90,Electron microscopes fitted with equipment specifically designed for the handling and transport of semi conductor wafers or reticles,Free,,,,,2026-10-22
+90121090,901210,Microscopes (excluding optical microscopes); diffraction apparatus,8,90,Other,Free,,,,,2026-10-22
+90129000,901290,Microscopes (excluding optical microscopes); diffraction apparatus; parts and accessories,8,90,Parts and accessories,Free,,,,,2026-10-22
+9013,,,4,90,"LASERS, OTHER THAN LASER DIODES; OTHER OPTICAL APPLIANCES AND INSTRUMENTS, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER",,,,,,2026-10-22
+901310,901310,"Optical appliances and instruments; telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter",6,90,"Telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this Chapter or Section XVI",,,,,,2026-10-22
+90131010,901310,"Optical appliances and instruments; telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter",8,90,Telescopic sights for fitting to arms,Restricted,,,,,2026-10-22
+90131020,901310,"Optical appliances and instruments; telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter",8,90,Periscopes,Free,,,,,2026-10-22
+90131090,901310,"Optical appliances and instruments; telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter",8,90,Other,Free,,,,,2026-10-22
+90132000,901320,Lasers; other than laser diodes,8,90,"Lasers, other than laser diodes",Free,,,,,2026-10-22
+90138000,901380,"Optical devices, appliances and instruments; n.e.c. in heading no. 9013",8,90,"Other devices, appliances and instrument",Free,,,54/2015-2020,2022-02-09,2026-10-22
+90139000,901390,Optical appliances and instruments; parts and accessories for articles of heading no. 9013,8,90,Parts and accessories,Free,,,54/2015-2020,2022-02-09,2026-10-22
+9014,,,4,90,DIRECTION FINDING COMPASSES; OTHER NAVIGATIONAL INSTRUMENTS AND APPLIANCES,,,,,,2026-10-22
+90141000,901410,Navigational instruments and appliances; direction finding compasses,8,90,Direction finding compasses,Free,,,,,2026-10-22
+90142000,901420,Navigational instruments and appliances; for aeronautical or space navigation (excluding compasses),8,90,Instruments and appliances for aeronautical or space navigation (other than compasses),Free,,,,,2026-10-22
+901480,901480,Navigational instruments and appliances; for navigation other than aeronautical or space navigation (excluding direction finding compasses),6,90,Other instruments and appliances,,,,,,2026-10-22
+90148010,901480,Navigational instruments and appliances; for navigation other than aeronautical or space navigation (excluding direction finding compasses),8,90,Echo sounding instrument,Free,,,,,2026-10-22
+90148020,901480,Navigational instruments and appliances; for navigation other than aeronautical or space navigation (excluding direction finding compasses),8,90,Sextants,Free,,,,,2026-10-22
+90148090,901480,Navigational instruments and appliances; for navigation other than aeronautical or space navigation (excluding direction finding compasses),8,90,Other,Free,,,,,2026-10-22
+90149000,901490,Navigational instruments and appliances; parts and accessories,8,90,Parts and accessories,Free,,,,,2026-10-22
+9015,,,4,90,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses; rangefinders.",,,,,,2026-10-22
+90151000,901510,Rangefinders,8,90,Rangefinders,Free,,,,,2026-10-22
+90152000,901520,Surveying equipment; theodolites and tachymeters (tacheometers),8,90,Theodolities and tachymeters (tacheometers),Free,,,,,2026-10-22
+901530,901530,Surveying equipment; levels,6,90,Levels,,,,,,2026-10-22
+90153010,901530,Surveying equipment; levels,8,90,Dumpy levels or engineers levels or builders levels (not automatic) and quick set levels with or without horizontal circles,Free,,,,,2026-10-22
+90153090,901530,Surveying equipment; levels,8,90,Other,Free,,,,,2026-10-22
+90154000,901540,Surveying equipment; photogrammetrical surveying instruments and appliances,8,90,Photogrammetrical surveying instruments and appliances,Free,,,,,2026-10-22
+901580,901580,"Surveying equipment; articles n.e.c. in heading no. 9015, including hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excluding compasses)",6,90,Other instruments and appliances,,,,,,2026-10-22
+90158010,901580,"Surveying equipment; articles n.e.c. in heading no. 9015, including hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excluding compasses)",8,90,Hydrographic instruments,Free,,,,,2026-10-22
+90158020,901580,"Surveying equipment; articles n.e.c. in heading no. 9015, including hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excluding compasses)",8,90,Metorological instruments,Free,,,,,2026-10-22
+90158030,901580,"Surveying equipment; articles n.e.c. in heading no. 9015, including hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excluding compasses)",8,90,Geophysical instruments,Free,,,,,2026-10-22
+90158090,901580,"Surveying equipment; articles n.e.c. in heading no. 9015, including hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excluding compasses)",8,90,Other,Free,,,,,2026-10-22
+90159000,901590,Surveying equipment; parts and accessories for articles of heading no. 9015,8,90,Parts and accessories,Free,,,,,2026-10-22
+9016,,,4,90,"Balances of a sensitivity of 5 cg or better, with or without weights.",,,,,,2026-10-22
+901600,901600,"Balances; of a sensitivity of 5cg or better, with or without weights",6,90,"Balances of a sensitivity of 5cg or better, with or without weights :",,,,,,2026-10-22
+90160010,901600,"Balances; of a sensitivity of 5cg or better, with or without weights",8,90,Electric Balances,Free,,,,,2026-10-22
+90160020,901600,"Balances; of a sensitivity of 5cg or better, with or without weights",8,90,Other balances,Free,,,,,2026-10-22
+90160090,901600,"Balances; of a sensitivity of 5cg or better, with or without weights",8,90,Parts,Free,,,,,2026-10-22
+9017,,,4,90,"Drawing, marking-out or mathematical calculating instruments (for example, drafting machines, pantographs, protractors, drawing sets, slide rules, disc calculators); instruments for measuring length, for use in the hand (for example, measuring rods and tapes, micrometers, callipers), not specified or included elsewhere in this Chapter.",,,,,,2026-10-22
+90171000,901710,Drafting tables and machines; whether or not automatic,8,90,"Drafting tables and machines, whether or not automatic",Free,,,,,2026-10-22
+901720,901720,"Drawing, marking-out or mathematical calculating instruments",6,90,"Other drawing, marking-out or mathematical calculating instruments",,,,,,2026-10-22
+90172010,901720,"Drawing, marking-out or mathematical calculating instruments",8,90,Drawing and marking-out instruments,Free,,,,,2026-10-22
+90172020,901720,"Drawing, marking-out or mathematical calculating instruments",8,90,Mathematical calculating instruments,Free,,,,,2026-10-22
+90172030,901720,"Drawing, marking-out or mathematical calculating instruments",8,90,Pantograph,Free,,,,,2026-10-22
+90172090,901720,"Drawing, marking-out or mathematical calculating instruments",8,90,Other,Free,,,,,2026-10-22
+901730,901730,"Mathematical equipment; micrometers, callipers and gauges",6,90,"Micrometers, callipers and gauges",,,,,,2026-10-22
+90173010,901730,"Mathematical equipment; micrometers, callipers and gauges",8,90,Micro-meters and calipers,Free,,,,,2026-10-22
+90173021,901730,"Mathematical equipment; micrometers, callipers and gauges",8,90,Gauges: ----Plug,Free,,,,,2026-10-22
+90173022,901730,"Mathematical equipment; micrometers, callipers and gauges",8,90,Gauges: ----Ring,Free,,,,,2026-10-22
+90173023,901730,"Mathematical equipment; micrometers, callipers and gauges",8,90,Gauges: ----Slip,Free,,,,,2026-10-22
+90173029,901730,"Mathematical equipment; micrometers, callipers and gauges",8,90,Gauges: ----Other,Free,,,,,2026-10-22
+901780,901780,Mathematical instruments and equipment; n.e.c. in heading no. 9017,6,90,Other instruments,,,,,,2026-10-22
+90178010,901780,Mathematical instruments and equipment; n.e.c. in heading no. 9017,8,90,Measuring rods and tapes and divided scales,Free,,,,,2026-10-22
+90178090,901780,Mathematical instruments and equipment; n.e.c. in heading no. 9017,8,90,Other,Free,,,,,2026-10-22
+90179000,901790,"Drawing, marking-out equipment and mathematical instruments; parts and accessories",8,90,Parts and accessories,Free,,,,,2026-10-22
+9018,,,4,90,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments.",,,,,,2026-10-22
+90181100,901811,"Medical, surgical instruments and appliances; electro-cardiographs",8,90,Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Electro-cardiographs,Free,,,,,2026-10-22
+901812,901812,"Medical, surgical instruments and appliances; ultrasonic scanning apparatus",6,90,Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Ultrasonic scanning apparatus,,,,,,2026-10-22
+90181210,901812,"Medical, surgical instruments and appliances; ultrasonic scanning apparatus",8,90,Linear ultrasound scanner,Free,,,,,2026-10-22
+90181290,901812,"Medical, surgical instruments and appliances; ultrasonic scanning apparatus",8,90,Other,Free,,,,,2026-10-22
+90181300,901813,"Medical, surgical instruments and appliances; magnetic resonance imaging apparatus",8,90,Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Magnetic resonance imaging apparatus,Free,,,,,2026-10-22
+90181400,901814,"Medical, surgical instruments and appliances; scintigraphic apparatus",8,90,Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Scintigraphic apparatus,Free,,,,,2026-10-22
+901819,901819,"Medical, surgical instruments and appliances; electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters), n.e.c. in item no. 9018.1",6,90,Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters) : -- Other,,,,,,2026-10-22
+90181910,901819,"Medical, surgical instruments and appliances; electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters), n.e.c. in item no. 9018.1",8,90,Electro encephalographs,Free,,,,,2026-10-22
+90181920,901819,"Medical, surgical instruments and appliances; electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters), n.e.c. in item no. 9018.1",8,90,Echo cardiograph,Free,,,,,2026-10-22
+90181990,901819,"Medical, surgical instruments and appliances; electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters), n.e.c. in item no. 9018.1",8,90,Other,Free,,,,,2026-10-22
+90182000,901820,"Medical, surgical instruments and appliances; ultra-violet or infra-red ray apparatus",8,90,Ultra-violet or infra-red ray apparatus,Free,,,,,2026-10-22
+90183100,901831,"Medical, surgical instruments and appliances; syringes, with or without needles",8,90,"Syringes, needles, catheters, cannulae and the like : -- Syringes, with or without needles",Free,,,,,2026-10-22
+901832,901832,"Medical, surgical instruments and appliances; tubular metal needles and needles for sutures",6,90,"Syringes, needles, catheters, cannulae and the like : -- Tubular metal needles and needles for sutures",,,,,,2026-10-22
+90183210,901832,"Medical, surgical instruments and appliances; tubular metal needles and needles for sutures",8,90,Needles for suture,Free,,,,,2026-10-22
+90183220,901832,"Medical, surgical instruments and appliances; tubular metal needles and needles for sutures",8,90,"Hollow needles for injection, aspiration, biopsy and transfusion",Free,,,,,2026-10-22
+90183230,901832,"Medical, surgical instruments and appliances; tubular metal needles and needles for sutures",8,90,Hilerio venus fistula needles,Free,,,,,2026-10-22
+90183290,901832,"Medical, surgical instruments and appliances; tubular metal needles and needles for sutures",8,90,Other,Free,,,,,2026-10-22
+901839,901839,"Medical, surgical instruments and appliances; catheters, cannulae and the like",6,90,"Syringes, needles, catheters, cannulae and the like : -- Other",,,,,,2026-10-22
+90183910,901839,"Medical, surgical instruments and appliances; catheters, cannulae and the like",8,90,"Catheters (for urine, stool)",Free,,,,,2026-10-22
+90183920,901839,"Medical, surgical instruments and appliances; catheters, cannulae and the like",8,90,Cardiac catheters,Free,,,,,2026-10-22
+90183930,901839,"Medical, surgical instruments and appliances; catheters, cannulae and the like",8,90,Cannulae,Free,,,,,2026-10-22
+90183990,901839,"Medical, surgical instruments and appliances; catheters, cannulae and the like",8,90,Other,Free,,,,,2026-10-22
+90184100,901841,"Dental instruments and appliances; dental drill engines, whether or not combined on a single base with other dental equipment",8,90,"Other instruments and appliances, used in dental sciences : -- Dental drill engines, whether or not combined on a single base with other dental equipment",Free,,,,,2026-10-22
+90184900,901849,Dental instruments and appliances; other than dental drill engines,8,90,"Other instruments and appliances, used in dental sciences : -- Other",Free,,,,,2026-10-22
+901850,901850,Ophthalmic instruments and appliances,6,90,Other ophthalmic instruments and appliances,,,,,,2026-10-22
+90185010,901850,Ophthalmic instruments and appliances,8,90,Opthalmoscopes,Free,,,,,2026-10-22
+90185020,901850,Ophthalmic instruments and appliances,8,90,Tonometers,Free,,,,,2026-10-22
+90185030,901850,Ophthalmic instruments and appliances,8,90,Ophthalmic lasers,Free,,,,,2026-10-22
+90185090,901850,Ophthalmic instruments and appliances,8,90,Other,Free,,,,,2026-10-22
+901890,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",6,90,Other instruments and appliances,,,,,,2026-10-22
+90189011,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,Diagnostic instruments and apparatus :---- Instrument and apparatus for measuring blood pressure,Free,,,,,2026-10-22
+90189012,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,Diagnostic instruments and apparatus :---- Stethoscopes,Free,,,,,2026-10-22
+90189019,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,Diagnostic instruments and apparatus :---- Other,Free,,,,,2026-10-22
+90189021,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,"Surgical tools: ----Bone saws, drills and trephines",Free,,,,,2026-10-22
+90189022,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,"Surgical tools: ----Knives, scissors and blades",Free,,,,,2026-10-22
+90189023,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,"Surgical tools: ----Forceps, forcep clamps, clips, needle holders, introducers, cephalotribe bone holding and other holding instruments",Free,,,,,2026-10-22
+90189024,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,"Surgical tools: ----Chisel, gauges, elevators, raspatones, osteotome, craniotome, bone cutters",Free,,,,,2026-10-22
+90189025,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,"Surgical tools: ----Retractors, spatulaprobes, hooks dialators, sounds, mallets",Free,,,,,2026-10-22
+90189029,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,Surgical tools: ----Other,Free,,,,,2026-10-22
+90189031,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,"Artificial kidney (dialysis) apparatus, blood transfusion apparatus:----Artificial kidney (dialysis) apparatus",Free,,,,,2026-10-22
+90189032,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,"Artificial kidney (dialysis) apparatus, blood transfusion apparatus:---- Blood transfusion apparatus",Free,,,,,2026-10-22
+90189041,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,"Anesthetic apparatus and instruments, ENT precision instruments, acupuncture apparatus, and endoscopes: ----Anesthetic apparatus and instruments",Free,,,,,2026-10-22
+90189042,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,"Anesthetic apparatus and instruments, ENT precision instruments, acupuncture apparatus, and endoscopes: ----ENT precision instruments",Free,,,,,2026-10-22
+90189043,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,"Anesthetic apparatus and instruments, ENT precision instruments, acupuncture apparatus, and endoscopes: ----Acupuncture apparatus",Free,,,,,2026-10-22
+90189044,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,"Anesthetic apparatus and instruments, ENT precision instruments, acupuncture apparatus, and endoscopes: ----Endoscopes",Free,,,,,2026-10-22
+90189091,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,other ----Hilerial or venous shunts,Free,,,,,2026-10-22
+90189092,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,other ----Baby incubators,Free,,,,,2026-10-22
+90189093,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,other ----Heart-lung machines,Free,,,,,2026-10-22
+90189094,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,other ----Defibrillators,Free,,,,,2026-10-22
+90189095,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,other ----Fibrescopes,Free,,,,,2026-10-22
+90189096,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,other ----Laproscopes,Free,,,,,2026-10-22
+90189097,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,other ----Vetrasonic lithotripsy instruments,Free,,,,,2026-10-22
+90189098,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,other ----Apparatus for nerve stimulation,Free,,,,,2026-10-22
+90189099,901890,"Medical, surgical or dental instruments and appliances; n.e.c. in heading no. 9018",8,90,other ----Other,Free,,,,,2026-10-22
+9019,,,4,90,"Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus.",,,,,,2026-10-22
+901910,901910,Mechano-therapy appliances; massage apparatus and psychological aptitude-testing apparatus,6,90,Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus,,,,,,2026-10-22
+90191010,901910,Mechano-therapy appliances; massage apparatus and psychological aptitude-testing apparatus,8,90,Mechano-therapy appliances,Free,,,,,2026-10-22
+90191020,901910,Mechano-therapy appliances; massage apparatus and psychological aptitude-testing apparatus,8,90,Massage apparatus,Free,,,,,2026-10-22
+90191090,901910,Mechano-therapy appliances; massage apparatus and psychological aptitude-testing apparatus,8,90,Other,Free,,,,,2026-10-22
+901920,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",6,90,"Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus",,,,,,2026-10-22
+90192010,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,90,Oxygen therapy apparatus,Free,,,,,2026-10-22
+90192090,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,90,Other,Free,,,,,2026-10-22
+90200000,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,90,"Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters.",Free,,,,,2026-10-22
+9021,,,4,90,"Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability.",,,,,,2026-10-22
+90211000,902110,Orthopaedic or fracture appliances,8,90,Orthopaedic or fracture appliances,Free,,,,,2026-10-22
+90212100,902121,Dental fittings; artificial teeth,8,90,Artificial teeth and dental fittings : -- Artificial teeth,Free,,,,,2026-10-22
+90212900,902129,Dental fittings; other than artificial teeth,8,90,Artificial teeth and dental fittings : -- Other,Free,,,,,2026-10-22
+90213100,902131,Artificial parts of the body,8,90,Other artificial parts of the body : -- Artificial joints,Free,,,,,2026-10-22
+90213900,902139,Artificial parts of the body; excluding artificial joints,8,90,Other artificial parts of the body : -- Other,Free,,,,,2026-10-22
+902140,902140,Hearing aids (excluding parts and accessories),6,90,"Hearing aids, excluding parts and accessories",,,,,,2026-10-22
+90214010,902140,Hearing aids (excluding parts and accessories),8,90,Frequency modulated hearing aid system used for hearing by handicapped persons in group situation,Free,,,,,2026-10-22
+90214090,902140,Hearing aids (excluding parts and accessories),8,90,Other,Free,,,,,2026-10-22
+90215000,902150,Pacemakers; for stimulating heart muscles (excluding parts and accessories),8,90,"Pacemakers for stimulating heart muscles, excluding parts and accessories",Free,,,,,2026-10-22
+902190,902190,"Appliances; worn, carried or implanted in the body, to compensate for a defect or disability",6,90,Other,,,,,,2026-10-22
+90219010,902190,"Appliances; worn, carried or implanted in the body, to compensate for a defect or disability",8,90,Parts and accessories of hearing aids,Free,,,,,2026-10-22
+90219090,902190,"Appliances; worn, carried or implanted in the body, to compensate for a defect or disability",8,90,Other,Free,"The instruments and equipments required by the blind, which fall under any other Exim code of this book shall also be freely importable.",,,,2026-10-22
+9022,,,4,90,"APPARATUS BASED ON THE USE OF X-RAYS OR OF ALPHA, BETA GAMMA OR OTHER IONISING RADIATIONS, WHETHER OR NOT FOR MEDICAL, SURGICAL, DENTAL OR VETERINARY USES, INCLUDING RADIOGRAPHY OR RADIOTHERAPY APPARATUS,X-RAY TUBES AND OTHER X-RAY GENERATORS, HIGH TENSION GENERATORS, CONTROL PANELS AND DESKS, SCREENS, EXAMINATION OR TREATMENT TABLES, CHAIRS AND THE LIKE",,,,,,2026-10-22
+90221200,902212,"Apparatus based on the use of x-rays; including radiography or radiotherapy apparatus, whether or not for medical, surgical, dental or veterinary uses, computed tomography apparatus",8,90,"Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- Computed tomography apparatus",Free,"Imports are permitted subject to Atomic Energy Act, 1962 and Rules thereunder including prior regulatory clearance from AERB.",,03/2015-2020,2018-04-16,2026-10-22
+90221300,902213,"Apparatus based on the use of x-rays; including radiography or radiotherapy apparatus, for dental uses, excluding computed tomography apparatus",8,90,"Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- Other, for dental uses",Free,,,,,2026-10-22
+902214,902214,"Apparatus based on the use of x-rays; including radiography or radiotherapy apparatus, for medical, surgical or veterinary uses, not dental uses, excluding computed tomography apparatus",6,90,"Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- Other, for medical, surgical or veterinary uses",,,,,,2026-10-22
+90221410,902214,"Apparatus based on the use of x-rays; including radiography or radiotherapy apparatus, for medical, surgical or veterinary uses, not dental uses, excluding computed tomography apparatus",8,90,X-ray generators and apparatus (non-portable),Free,"Diagnostic Medical X - Ray Equipment must conform to IS 7620 (Pt 1). Imports are permitted subject to Atomic Energy Act,' '1962 and Rules thereunder including prior regulatory clearance from AERB",,03/2015-2020,2018-04-16,2026-10-22
+90221420,902214,"Apparatus based on the use of x-rays; including radiography or radiotherapy apparatus, for medical, surgical or veterinary uses, not dental uses, excluding computed tomography apparatus",8,90,Portable X-ray machine,Free,"Diagnostic Medical X - Ray Equipment must conform to IS 7620 (Pt 1). Imports are permitted subject to Atomic Energy Act,' '1962 and Rules thereunder including prior regulatory clearance from AERB",,03/2015-2020,2018-04-16,2026-10-22
+90221490,902214,"Apparatus based on the use of x-rays; including radiography or radiotherapy apparatus, for medical, surgical or veterinary uses, not dental uses, excluding computed tomography apparatus",8,90,Other,Free,,,,,2026-10-22
+90221900,902219,"Apparatus based on the use of x-rays, including radiography or radiotherapy apparatus; for other than medical, surgical, dental or veterinary uses",8,90,"Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus :-- For other uses",Free,,,,,2026-10-22
+90222100,902221,"Apparatus based on the use of alpha, beta, gamma or other ionising radiations, including radiography or radiotherapy apparatus; for medical, surgical, dental or veterinary uses",8,90,"Apparatus based on the use of alpha, beta or gamma radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- For medical, surgical, dental or veterinary uses",Free,,,,,2026-10-22
+90222900,902229,"Apparatus based on the use of alpha, beta, gamma or other ionising radiations, including radiography or radiotherapy apparatus; (for other than medical, surgical, dental or veterinary uses)",8,90,"Apparatus based on the use of alpha, beta or gamma radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus : -- For other uses",Free,,,,,2026-10-22
+90223000,902230,X-ray tubes,8,90,X-ray tubes,Free,"Imports are permitted subject to Atomic Energy Act, 1962 and Rules thereunder including prior regulatory clearance from AERB",,03/2015-2020,2018-04-16,2026-10-22
+902290,902290,"Apparatus based on use of x-rays and similar; parts and accessories (x-ray generators, tubes, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and like",6,90,"Other, including parts and accessories",,,,,,2026-10-22
+90229010,902290,"Apparatus based on use of x-rays and similar; parts and accessories (x-ray generators, tubes, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and like",8,90,X-ray valves,Free,"Imports are permitted subject to Atomic Energy Act, 1962 and Rules thereunder including prior regulatory clearance from AERB",,03/2015-2020,2018-04-16,2026-10-22
+90229020,902290,"Apparatus based on use of x-rays and similar; parts and accessories (x-ray generators, tubes, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and like",8,90,Radiation generation units,Free,"Imports are permitted subject to Atomic Energy Act, 1962 and Rules thereunder including prior regulatory clearance from AERB",,03/2015-2020,2018-04-16,2026-10-22
+90229030,902290,"Apparatus based on use of x-rays and similar; parts and accessories (x-ray generators, tubes, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and like",8,90,Radiation beam delivery units,Free,"Imports are permitted subject to Atomic Energy Act, 1962 and Rules thereunder including prior regulatory clearance from AERB",,03/2015-2020,2018-04-16,2026-10-22
+90229040,902290,"Apparatus based on use of x-rays and similar; parts and accessories (x-ray generators, tubes, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and like",8,90,"X-ray examination or treatment table, chairs and the like",Free,,,,,2026-10-22
+90229090,902290,"Apparatus based on use of x-rays and similar; parts and accessories (x-ray generators, tubes, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and like",8,90,Other,Free,,,,,2026-10-22
+9023,,,4,90,"Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses.",,,,,,2026-10-22
+902300,902300,"Instruments, apparatus and models; designed for demonstrational purposes (in education or exhibitions), unsuitable for other uses",6,90,"Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses:",,,,,,2026-10-22
+90230010,902300,"Instruments, apparatus and models; designed for demonstrational purposes (in education or exhibitions), unsuitable for other uses",8,90,Teaching aids,Free,,,,,2026-10-22
+90230090,902300,"Instruments, apparatus and models; designed for demonstrational purposes (in education or exhibitions), unsuitable for other uses",8,90,Other,Free,,,,,2026-10-22
+9024,,,4,90,"Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics).",,,,,,2026-10-22
+90241000,902410,"Machines and appliances; for testing the hardness, strength, compressibility, elasticity or other mechanical properties of metals",8,90,Machines and appliances for testing metals,Free,,,,,2026-10-22
+902480,902480,"Machines and appliances; for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials other than metals",6,90,Other machines and appliances,,,,,,2026-10-22
+90248010,902480,"Machines and appliances; for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials other than metals",8,90,"For testing textiles, paper and paperboard",Free,,,,,2026-10-22
+90248091,902480,"Machines and appliances; for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials other than metals",8,90,Other: ----For testing hardness,Free,,,,,2026-10-22
+90248099,902480,"Machines and appliances; for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials other than metals",8,90,Other: ----Other,Free,,,,,2026-10-22
+90249000,902490,"Machines and appliances; parts and accessories for those testing hardness, strength, compressibility, elasticity or other mechanical properties of materials (e.g. metal, wood, textiles, paper, plastics)",8,90,Parts and accessories,Free,,,,,2026-10-22
+9025,,,4,90,"Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments.",,,,,,2026-10-22
+902511,902511,"Thermometers and pyrometers; liquid filled, for direct reading, not combined with other instruments",6,90,"Thermometers and pyrometers, not combined with other instruments : -- Liquid-filled, for direct reading",,,,,,2026-10-22
+90251110,902511,"Thermometers and pyrometers; liquid filled, for direct reading, not combined with other instruments",8,90,Clinical thermometers,Free,Clinical thermometers: Part 1 Solid stem type must conform to IS 3055 (Part 1) and Part 2 Enclosed scale type must conform to IS 3055 (Part 2).,,,,2026-10-22
+90251190,902511,"Thermometers and pyrometers; liquid filled, for direct reading, not combined with other instruments",8,90,Other,Free,,,,,2026-10-22
+902519,902519,"Thermometers and pyrometers; (other than liquid filled, for direct reading), not combined with other instruments",6,90,"Thermometers and pyrometers, not combined with other instruments : -- Other",,,,,,2026-10-22
+90251910,902519,"Thermometers and pyrometers; (other than liquid filled, for direct reading), not combined with other instruments",8,90,Digital thermometers,Free,,,,,2026-10-22
+90251920,902519,"Thermometers and pyrometers; (other than liquid filled, for direct reading), not combined with other instruments",8,90,Pyrometers,Free,,,,,2026-10-22
+90251990,902519,"Thermometers and pyrometers; (other than liquid filled, for direct reading), not combined with other instruments",8,90,Other,Free,,,,,2026-10-22
+902580,902580,"Hydrometers and similar floating instruments, barometers, hygrometers, psychrometers, thermometers, pyrometers; recording or not, any combination of these instruments (excluding thermometers and barometers not combined with other instruments)",6,90,Other instruments,,,,,,2026-10-22
+90258010,902580,"Hydrometers and similar floating instruments, barometers, hygrometers, psychrometers, thermometers, pyrometers; recording or not, any combination of these instruments (excluding thermometers and barometers not combined with other instruments)",8,90,Hydrometers and similar floating instruments,Free,,,,,2026-10-22
+90258020,902580,"Hydrometers and similar floating instruments, barometers, hygrometers, psychrometers, thermometers, pyrometers; recording or not, any combination of these instruments (excluding thermometers and barometers not combined with other instruments)",8,90,"Barometers, not combined with other instruments",Free,,,,,2026-10-22
+90258030,902580,"Hydrometers and similar floating instruments, barometers, hygrometers, psychrometers, thermometers, pyrometers; recording or not, any combination of these instruments (excluding thermometers and barometers not combined with other instruments)",8,90,Lactometer,Free,,,,,2026-10-22
+90258090,902580,"Hydrometers and similar floating instruments, barometers, hygrometers, psychrometers, thermometers, pyrometers; recording or not, any combination of these instruments (excluding thermometers and barometers not combined with other instruments)",8,90,Other,Free,,,,,2026-10-22
+90259000,902590,"Hydrometers and similar floating instruments, barometers, hygrometers, psychrometers, thermometers, pyrometers; recording or not, any combination of these instruments, parts and accessories",8,90,Parts and accessories,Free,,,,,2026-10-22
+9026,,,4,90,"INSTRUMENTS AND APPARATUS FOR MEASURING OR CHECKING THE FLOW, LEVEL, PRESSURE OR OTHER VARIABLES OF LIQUIDS OR GASES (FOR EXAMPLE, FLOW METERS, LEVEL GAUGES, MANOMETERS, HEAT METERS), EXCLUDING INSTRUMENTS AND APPARATUS OF HEADING 9014, 9015, 9028 OR 9032",,,,,,2026-10-22
+902610,902610,Instruments and apparatus; for measuring or checking the flow or level of liquids,6,90,For measuring or checking the flow or level of liquids,,,,,,2026-10-22
+90261010,902610,Instruments and apparatus; for measuring or checking the flow or level of liquids,8,90,Flow meters,Free,,,,,2026-10-22
+90261020,902610,Instruments and apparatus; for measuring or checking the flow or level of liquids,8,90,Level gauges,Free,,,,,2026-10-22
+90261090,902610,Instruments and apparatus; for measuring or checking the flow or level of liquids,8,90,Other,Free,,,,,2026-10-22
+90262000,902620,Instruments and apparatus; for measuring or checking pressure,8,90,For measuring or checking pressure,Free,,,,,2026-10-22
+902680,902680,"Instruments and apparatus; for measuring or checking variables of liquids or gases (excluding pressure or the flow and level of liquids and those of heading no. 9014, 9015, 9028 and 9032)",6,90,Other instruments or apparatus,,,,,,2026-10-22
+90268010,902680,"Instruments and apparatus; for measuring or checking variables of liquids or gases (excluding pressure or the flow and level of liquids and those of heading no. 9014, 9015, 9028 and 9032)",8,90,Heat meters,Free,,,,,2026-10-22
+90268090,902680,"Instruments and apparatus; for measuring or checking variables of liquids or gases (excluding pressure or the flow and level of liquids and those of heading no. 9014, 9015, 9028 and 9032)",8,90,Other,Free,,,,,2026-10-22
+90269000,902690,"Instruments and apparatus; parts and accessories for those measuring or checking the flow, level, pressure or other variables of liquids or gases (excluding those of heading no. 9014, 9015, 9028 or 9032)",8,90,Parts and accessories,Free,,,,,2026-10-22
+9027,,,4,90,"Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light (including exposure meters); microtomes.",,,,,,2026-10-22
+90271000,902710,"Instruments and apparatus; gas or smoke analysis apparatus, for physical or chemical analysis",8,90,Gas or smoke analysis apparatus,Free,,,,,2026-10-22
+90272000,902720,Chromatographs and electrophoresis instruments,8,90,Chromatographs and electrophoresis instruments,Free,,,,,2026-10-22
+902730,902730,"Spectrometers, spectrophotometers and spectrographs; using optical radiations (UV, visible, IR)",6,90,"Spectrometers, spectrophotometers and spectrographs using optical radiations (UV, visible, IR)",,,,,,2026-10-22
+90273010,902730,"Spectrometers, spectrophotometers and spectrographs; using optical radiations (UV, visible, IR)",8,90,Spectrometers,Free,,,,,2026-10-22
+90273020,902730,"Spectrometers, spectrophotometers and spectrographs; using optical radiations (UV, visible, IR)",8,90,Spectrophotometers,Free,,,,,2026-10-22
+90273090,902730,"Spectrometers, spectrophotometers and spectrographs; using optical radiations (UV, visible, IR)",8,90,Other,Free,,,,,2026-10-22
+902750,902750,"Instruments and apparatus; using optical radiations (UV, visible, IR), (other than spectrometers, spectrophotometers and spectrographs)",6,90,"Other instruments and apparatus using optical radiations (UV, visible, IR)",,,,,,2026-10-22
+90275010,902750,"Instruments and apparatus; using optical radiations (UV, visible, IR), (other than spectrometers, spectrophotometers and spectrographs)",8,90,Photometers,Free,,,,,2026-10-22
+90275020,902750,"Instruments and apparatus; using optical radiations (UV, visible, IR), (other than spectrometers, spectrophotometers and spectrographs)",8,90,Refractometers,Free,,,,,2026-10-22
+90275030,902750,"Instruments and apparatus; using optical radiations (UV, visible, IR), (other than spectrometers, spectrophotometers and spectrographs)",8,90,Polarimeters,Free,,,,,2026-10-22
+90275090,902750,"Instruments and apparatus; using optical radiations (UV, visible, IR), (other than spectrometers, spectrophotometers and spectrographs)",8,90,Other,Free,,,,,2026-10-22
+90278100,902781,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, mass spectrometers",8,90,Other instruments and apparatus: - - Mass spectrometres,Free,,,54/2015-2020,2022-02-09,2026-10-22
+902789,902789,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, exposure meters",6,90,Other instruments and apparatus: - - Other:,,,,,,2026-10-22
+90278910,902789,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, exposure meters",8,90,Viscometers,Free,,,54/2015-2020,2022-02-09,2026-10-22
+90278920,902789,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, exposure meters",8,90,Calorimeters,Free,,,54/2015-2020,2022-02-09,2026-10-22
+90278930,902789,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, exposure meters",8,90,Instruments and apparatus for measuring the surface or interfocial tension of liquids,Free,,,54/2015-2020,2022-02-09,2026-10-22
+90278990,902789,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, exposure meters",8,90,Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+902790,902790,Microtomes and parts and accessories thereof,6,90,Microtomes; parts and accessories,,,,,,2026-10-22
+90279010,902790,Microtomes and parts and accessories thereof,8,90,"Microtomes, including parts and accusscries thereof",Free,,,,,2026-10-22
+90279020,902790,Microtomes and parts and accessories thereof,8,90,Printed circuit assemblies for the goods of sub-heading 9027 80,Free,,,,,2026-10-22
+90279090,902790,Microtomes and parts and accessories thereof,8,90,Other,Free,,,,,2026-10-22
+9028,,,4,90,"Gas, liquid or electricity supply or production meters, including calibrating meters therefor.",,,,,,2026-10-22
+90281000,902810,"Meters; gas, supply or production meters, including calibrating meters thereof",8,90,Gas meters,Free,,,,,2026-10-22
+90282000,902820,"Meters; liquid supply or production meters, including calibrating meters thereof",8,90,Liquid meters,Free,,,,,2026-10-22
+902830,902830,"Meters; electricity supply or production meters, including calibrating meters thereof",6,90,Electricity meters,,,,,,2026-10-22
+90283010,902830,"Meters; electricity supply or production meters, including calibrating meters thereof",8,90,For alternating current,Free,"AC watt-hour meters, class 0.5, 1 and 2 must conform to IS 13010, AC static watt-hour meters, class 1 and 2 must conform to IS 13779 and AC static transformer operated watt-hour and VAR- hour meters, class 0.2S and 0.5S must conform to IS 14697",,,,2026-10-22
+90283090,902830,"Meters; electricity supply or production meters, including calibrating meters thereof",8,90,Other,Free,,,,,2026-10-22
+902890,902890,"Meters; parts and accessories of gas, liquid, electricity supply or production meters, including calibrating meters thereof",6,90,Parts and accessories,,,,,,2026-10-22
+90289010,902890,"Meters; parts and accessories of gas, liquid, electricity supply or production meters, including calibrating meters thereof",8,90,For electricity meters,Free,,,,,2026-10-22
+90289090,902890,"Meters; parts and accessories of gas, liquid, electricity supply or production meters, including calibrating meters thereof",8,90,Other,Free,,,,,2026-10-22
+9029,,,4,90,"REVOLUTION COUNTERS, PRODUCTION COUNTERS, TAXIMETERS, MILEOMETERS, PEDOMETERS AND THE LIKE; SPEED INDICATORS AND TACHOMETERS, OTHER THAN THOSE OF HEADING 9014 OR 9015; STROBOSCOPES",,,,,,2026-10-22
+902910,902910,"Meters and counters; revolution counters, production counters, taximeters, mileometers, pedometers and the like",6,90,"Revolution counters, production counters, taximeters, mileometers, pedometers and the like",,,,,,2026-10-22
+90291010,902910,"Meters and counters; revolution counters, production counters, taximeters, mileometers, pedometers and the like",8,90,Taximeters,Free,,,,,2026-10-22
+90291090,902910,"Meters and counters; revolution counters, production counters, taximeters, mileometers, pedometers and the like",8,90,Other,Free,,,,,2026-10-22
+902920,902920,Meters; speed indicators and tachometers; stroboscopes,6,90,Speed indicators and tachometers; stroboscopes,,,,,,2026-10-22
+90292010,902920,Meters; speed indicators and tachometers; stroboscopes,8,90,"Tachometers, non-electrical",Free,,,,,2026-10-22
+90292020,902920,Meters; speed indicators and tachometers; stroboscopes,8,90,"Speedometers, non-electrical",Free,,,,,2026-10-22
+90292030,902920,Meters; speed indicators and tachometers; stroboscopes,8,90,Stroboscopes,Free,,,,,2026-10-22
+90292090,902920,Meters; speed indicators and tachometers; stroboscopes,8,90,Other,Free,,,,,2026-10-22
+90299000,902990,"Meters and counters; parts and accessories for revolution and production counters, taximeters, mileometers, pedometers and the like; speed indicators, tachometers (excluding heading no. 9015), stroboscopes",8,90,Parts and accessories,Free,,,,,2026-10-22
+9030,,,4,90,"OSCILLOSCOPES, SPECTRUM ANALYSERS AND OTHER INSTRUMENTS AND APPARATUS FOR MEASURING OR CHECKING ELECTRICAL QUANTITIES, EXCLUDING METERS OF HEADING 9028; INSTRUMENTS AND APPARATUS FOR MEASURING OR DETECTING ALPHA, BETA, GAMMA, X-RAY, COSMIC OR OTHER IONISING RADIATIONS",,,,,,2026-10-22
+90301000,903010,Instruments and apparatus; for measuring or detecting ionising radiations,8,90,Instruments and apparatus for measuring or detecting ionising radiations,Free,,,,,2026-10-22
+90302000,903020,Oscilloscopes and oscillographs,8,90,Oscilloscopes and oscillographs,Free,,,,,2026-10-22
+90303100,903031,"Multimeters; for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafer or devices), without a recording device",8,90,"Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):-- Multimeters without a recording device",Free,,,,,2026-10-22
+90303200,903032,"Multimeters; for measuring or checking voltage, current, resistance or power, with a recording device",8,90,"Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):-- Multimeters with a recording device",Free,,,,,2026-10-22
+903033,903033,"Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",6,90,"Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):--Other, without a recording device:",,,,,,2026-10-22
+90303310,903033,"Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",8,90,"Ammeters,volt meters and watt meters",Free,,,,,2026-10-22
+90303320,903033,"Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",8,90,Spectrum resistance meters,Free,,,,,2026-10-22
+90303330,903033,"Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",8,90,Capacitance meter,Free,,,,,2026-10-22
+90303340,903033,"Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",8,90,Frequency measuring apparatus,Free,,,,,2026-10-22
+90303350,903033,"Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",8,90,Megar meters,Free,,,,,2026-10-22
+90303390,903033,"Instruments and apparatus; for measuring or checking voltage, current, resistance or power, without a recording device (excluding multimeters)",8,90,Other,Free,,,,,2026-10-22
+90303900,903039,"Instruments and apparatus; for measuring or checking voltage, current, resistance or power, with a recording device (excluding multimeters)",8,90,"Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):--Other, with a recording device:",Free,,,,,2026-10-22
+90304000,903040,"Instruments and apparatus; specially designed for telecommunications (e.g. cross-talk meters, gain measuring instruments, distortion factor meters, psophometers)",8,90,"Other instruments and apparatus, specially designed for telecommunications (for example, cross-talk meters, gain measuring instruments, distortion factor meters, psophometers)",Free,,,,,2026-10-22
+90308200,903082,Instruments and apparatus; for measuring or checking semiconductor wafers or devices (including integrated circuits),8,90,Other instruments and apparatus : -- For measuring or checking semiconductor wafer or devices (including integrated circuits),Free,,,,,2026-10-22
+90308400,903084,"Instruments and apparatus; n.e.c. in heading no. 9030, with a recording device",8,90,"Other instruments and apparatus : -- Other, with a recording device",Free,,,,,2026-10-22
+903089,903089,"Instruments and apparatus; n.e.c. in heading no. 9030, without a recording device",6,90,Other instruments and apparatus : -- Other,,,,,,2026-10-22
+90308910,903089,"Instruments and apparatus; n.e.c. in heading no. 9030, without a recording device",8,90,Scintillator counters,Free,,,,,2026-10-22
+90308920,903089,"Instruments and apparatus; n.e.c. in heading no. 9030, without a recording device",8,90,Vectroscope,Free,,,,,2026-10-22
+90308990,903089,"Instruments and apparatus; n.e.c. in heading no. 9030, without a recording device",8,90,Other,Free,,,,,2026-10-22
+903090,903090,"Instruments, apparatus for measuring, checking electrical quantities, not meters of heading no. 9028; parts and accessories, for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",6,90,Parts and accessories,,,,,,2026-10-22
+90309010,903090,"Instruments, apparatus for measuring, checking electrical quantities, not meters of heading no. 9028; parts and accessories, for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",8,90,Of meters and counters,Free,,,,,2026-10-22
+90309090,903090,"Instruments, apparatus for measuring, checking electrical quantities, not meters of heading no. 9028; parts and accessories, for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",8,90,Other,Free,,,,,2026-10-22
+9031,,,4,90,"Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this Chapter; profile projectors.",,,,,,2026-10-22
+90311000,903110,Machines; for balancing mechanical parts,8,90,Machines for balancing mechanical parts,Free,,,,,2026-10-22
+90312000,903120,Test benches,8,90,Test benches,Free,,,,,2026-10-22
+90314100,903141,"Optical instruments and appliances; for inspecting semiconductor wafers or devices or for inspecting photomasks or reticles used in manufacturing semiconductor devices, n.e.c. in chapter 90",8,90,Other optical instruments and appliances :- - For inspecting semiconductor wafers or devices (including integrated circuits) or for inspecting photomasks or reticles used in manufacturing semiconductor devices (including integrated circuits),Free,,,,,2026-10-22
+90314900,903149,"Optical instruments and appliances; for measuring or checking, n.e.c. in chapter 90",8,90,Other optical instruments and appliances : -- Other,Free,,,,,2026-10-22
+90318000,903180,"Instruments, appliances and machines; for measuring or checking n.e.c. in chapter 90",8,90,"Other instruments, appliances and machines",Free,,,,,2026-10-22
+90319000,903190,"Instruments, appliances and machines; parts and accessories for those measuring or checking devices of heading no. 9031",8,90,Parts and accessories,Free,,,,,2026-10-22
+9032,,,4,90,Automatic regulating or controlling instruments and apparatus.,,,,,,2026-10-22
+903210,903210,"Regulating or controlling instruments and apparatus; automatic type, thermostats",6,90,Thermostats,,,,,,2026-10-22
+90321010,903210,"Regulating or controlling instruments and apparatus; automatic type, thermostats",8,90,For refrigerating and air-conditioning appliances and machinery,Free,,,,,2026-10-22
+90321090,903210,"Regulating or controlling instruments and apparatus; automatic type, thermostats",8,90,Other,Free,,,,,2026-10-22
+903220,903220,"Regulating or controlling instruments and apparatus; automatic, manostats",6,90,Manostats,,,,,,2026-10-22
+90322010,903220,"Regulating or controlling instruments and apparatus; automatic, manostats",8,90,For refrigerating and air-conditioning appliances and machinery,Free,,,,,2026-10-22
+90322090,903220,"Regulating or controlling instruments and apparatus; automatic, manostats",8,90,Other,Free,,,,,2026-10-22
+90328100,903281,"Regulating or controlling instruments and apparatus; automatic, hydraulic or pneumatic",8,90,Other instruments and apparatus : -- Hydraulic or pneumatic,Free,,,,,2026-10-22
+903289,903289,"Regulating or controlling instruments and apparatus; automatic, other than hydraulic or pneumatic",6,90,Other instruments and apparatus : -- Other,,,,,,2026-10-22
+90328910,903289,"Regulating or controlling instruments and apparatus; automatic, other than hydraulic or pneumatic",8,90,Electronic automatic regulators,Free,,,,,2026-10-22
+90328990,903289,"Regulating or controlling instruments and apparatus; automatic, other than hydraulic or pneumatic",8,90,Other,Free,,,,,2026-10-22
+90329000,903290,"Regulating or controlling instruments and apparatus; automatic, parts and accessories",8,90,Parts and accessories,Free,,,,,2026-10-22
+90330000,903300,"Machines and appliances, instruments or apparatus of chapter 90; parts and accessories n.e.c. in chapter 90",8,90,"Parts and accessories (not specified or included elsewhere in this Chapter) for machines, appliances, instruments or apparatus of Chapter 90.",Free,,,,,2026-10-22

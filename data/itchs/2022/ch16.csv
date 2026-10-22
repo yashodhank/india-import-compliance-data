@@ -1,56 +1,56 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-16010000,8,16,"sausages and similar products, of meat, meat offal, blood or insects; food preparations based on these products",Free,,,,,2026-10-22
-1602,4,16,"OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL, BLOOD OR INSECTS",,,,,,2026-10-22
-16021000,8,16,Homogenised preparations,Free,,,,,2026-10-22
-16022000,8,16,Of liver of any animal,Free,,,,,2026-10-22
-16023100,8,16,Of poultry of heading 01.05 : -- Of turkeys,Free,,,,,2026-10-22
-16023200,8,16,Of poultry of heading 01.05 : -- Of fowls of the species Gallus domesticus,Free,,,,,2026-10-22
-16023900,8,16,Of poultry of heading 01.05 : -- Other.,Free,,,,,2026-10-22
-16024100,8,16,Of swine : -- Hams and cuts thereof,Free,,,,,2026-10-22
-16024200,8,16,Of swine : -- Shoulders and cuts thereof,Free,,,,,2026-10-22
-16024900,8,16,"Of swine : -- Other, including mixtures",Free,,,,,2026-10-22
-16025000,8,16,Of bovine animals,Restricted,,,,,2026-10-22
-16029000,8,16,"Other, including preparations of blood of any animal",Free,,,,,2026-10-22
-1603,4,16,"Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates.",,,,,,2026-10-22
-160300,6,16,"Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates :",,,,,,2026-10-22
-16030010,8,16,Extracts and juices of meat,Free,,,,,2026-10-22
-16030020,8,16,Extracts of fish,Free,,,,,2026-10-22
-16030090,8,16,Other,Free,,,,,2026-10-22
-1604,4,16,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs.,,,,,,2026-10-22
-16041100,8,16,"Fish, whole or in pieces, but not minced : -- Salmon",Free,,,,,2026-10-22
-160412,6,16,"Fish, whole or in pieces, but not minced : -- Herrings",,,,,,2026-10-22
-16041210,8,16,Pickled,Free,,,,,2026-10-22
-16041290,8,16,Other,Free,,,,,2026-10-22
-160413,6,16,"Fish, whole or in pieces, but not minced : -- Sardines, sardinella and brisling or sprats",,,,,,2026-10-22
-16041310,8,16,"Sardines, sardinella and brisling",Free,,,,,2026-10-22
-16041320,8,16,Sprats,Free,,,,,2026-10-22
-160414,6,16,"Fish, whole or in pieces, but not minced :- - Tunas, skipjack tuna and bonito (Sarda spp.):",,,,,,2026-10-22
-16041410,8,16,Tunas,Free,,,,,2026-10-22
-16041490,8,16,Other,Free,,,,,2026-10-22
-16041500,8,16,"Fish, whole or in pieces, but not minced : -- Mackerel",Free,,,,,2026-10-22
-16041600,8,16,"Fish, whole or in pieces, but not minced : -- Anchovies",Free,,,,,2026-10-22
-16041700,8,16,"Fish, whole or in pieces, but not minced : -- Eels",Free,,,,,2026-10-22
-16041800,8,16,"Fish, whole or in pieces, but not minced : -- Shark fins",Prohibited,,,,,2026-10-22
-16041900,8,16,"Fish, whole or in pieces, but not minced : -- Other",Free,,,,,2026-10-22
-16042000,8,16,Other prepared or preserved fish,Free,,,,,2026-10-22
-16043100,8,16,Caviar and caviar substitutes : -- Caviar,Free,,,,,2026-10-22
-16043200,8,16,Caviar and caviar substitutes : -- Caviar substitutes,Free,,,,,2026-10-22
-1605,4,16,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved.",,,,,,2026-10-22
-16051000,8,16,Crab,Free,,,,,2026-10-22
-16052100,8,16,Shrimps and prawns : -- Not in airtight container,Free,,,,,2026-10-22
-16052900,8,16,Shrimps and prawns : -- Other,Free,,,,,2026-10-22
-16053000,8,16,Lobster,Free,,,,,2026-10-22
-16054000,8,16,Other crustaceans,Free,,,,,2026-10-22
-16055100,8,16,Molluscs : -- Oysters,Free,,,,,2026-10-22
-16055200,8,16,"Molluscs : -- Scallops, including queen scallops",Free,,,,,2026-10-22
-16055300,8,16,Molluscs : -- Mussels,Free,,,,,2026-10-22
-16055400,8,16,Molluscs : -- Cuttle fish and squid,Free,,,,,2026-10-22
-16055500,8,16,Molluscs : -- Octopus,Free,,,,,2026-10-22
-16055600,8,16,"Molluscs : -- Clams, cockles and arkshells",Free,,,,,2026-10-22
-16055700,8,16,Molluscs : -- Abalone,Free,,,,,2026-10-22
-16055800,8,16,"Molluscs : -- Snails, other than sea snails",Free,,,,,2026-10-22
-16055900,8,16,Molluscs : -- Other,Free,,,,,2026-10-22
-16056100,8,16,Other aquatic invertebrates : -- Sea cucumbers,Free,,,,,2026-10-22
-16056200,8,16,Other aquatic invertebrates : -- Sea urchins,Free,,,,,2026-10-22
-16056300,8,16,Other aquatic invertebrates : -- Jellyfish,Free,,,,,2026-10-22
-16056900,8,16,Other aquatic invertebrates : -- Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+16010000,160100,"Meat preparations; sausages and similar products, of meat, meat offal, blood or insects, and food preparations based on these products",8,16,"sausages and similar products, of meat, meat offal, blood or insects; food preparations based on these products",Free,,,,,2026-10-22
+1602,,,4,16,"OTHER PREPARED OR PRESERVED MEAT, MEAT OFFAL, BLOOD OR INSECTS",,,,,,2026-10-22
+16021000,160210,"Meat preparations; homogenised preparations of meat, meat offal blood or insects",8,16,Homogenised preparations,Free,,,,,2026-10-22
+16022000,160220,Meat preparations; of the prepared or preserved liver of any animal (excluding homogenised preparations),8,16,Of liver of any animal,Free,,,,,2026-10-22
+16023100,160231,"Meat preparations; of turkeys, prepared or preserved meat or meat offal (excluding livers and homogenised preparations)",8,16,Of poultry of heading 01.05 : -- Of turkeys,Free,,,,,2026-10-22
+16023200,160232,"Meat preparations; of the poultry of heading no. 0105, (i.e. of fowls of the species Gallus domesticus)",8,16,Of poultry of heading 01.05 : -- Of fowls of the species Gallus domesticus,Free,,,,,2026-10-22
+16023900,160239,"Meat preparations; of poultry (excluding turkeys), prepared or preserved meat or meat offal (excluding livers and homogenised preparations)",8,16,Of poultry of heading 01.05 : -- Other.,Free,,,,,2026-10-22
+16024100,160241,"Meat preparations; of swine, hams and cuts thereof, prepared or preserved (excluding homogenised preparations)",8,16,Of swine : -- Hams and cuts thereof,Free,,,,,2026-10-22
+16024200,160242,"Meat preparations; of swine, shoulders and cuts thereof, prepared or preserved (excluding homogenised preparations)",8,16,Of swine : -- Shoulders and cuts thereof,Free,,,,,2026-10-22
+16024900,160249,"Meat preparations; of swine, meat or meat offal (including mixtures), prepared or preserved, n.e.c. in heading no. 1602",8,16,"Of swine : -- Other, including mixtures",Free,,,,,2026-10-22
+16025000,160250,"Meat preparations; of bovine animals, meat or meat offal, prepared or preserved (excluding livers and homogenised preparations)",8,16,Of bovine animals,Restricted,,,,,2026-10-22
+16029000,160290,"Meat preparations; of meat, meat offal or the blood of any animal, n.e.c. in heading no. 1602",8,16,"Other, including preparations of blood of any animal",Free,,,,,2026-10-22
+1603,,,4,16,"Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates.",,,,,,2026-10-22
+160300,160300,"Extracts and juices; of meat, fish or crustaceans, molluscs or other aquatic invertebrates",6,16,"Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates :",,,,,,2026-10-22
+16030010,160300,"Extracts and juices; of meat, fish or crustaceans, molluscs or other aquatic invertebrates",8,16,Extracts and juices of meat,Free,,,,,2026-10-22
+16030020,160300,"Extracts and juices; of meat, fish or crustaceans, molluscs or other aquatic invertebrates",8,16,Extracts of fish,Free,,,,,2026-10-22
+16030090,160300,"Extracts and juices; of meat, fish or crustaceans, molluscs or other aquatic invertebrates",8,16,Other,Free,,,,,2026-10-22
+1604,,,4,16,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs.,,,,,,2026-10-22
+16041100,160411,"Fish preparations; salmon, prepared or preserved, whole or in pieces (but not minced)",8,16,"Fish, whole or in pieces, but not minced : -- Salmon",Free,,,,,2026-10-22
+160412,160412,"Fish preparations; herrings, prepared or preserved, whole or in pieces (but not minced)",6,16,"Fish, whole or in pieces, but not minced : -- Herrings",,,,,,2026-10-22
+16041210,160412,"Fish preparations; herrings, prepared or preserved, whole or in pieces (but not minced)",8,16,Pickled,Free,,,,,2026-10-22
+16041290,160412,"Fish preparations; herrings, prepared or preserved, whole or in pieces (but not minced)",8,16,Other,Free,,,,,2026-10-22
+160413,160413,"Fish preparations; sardines, sardinella and brisling or sprats, prepared or preserved, whole or in pieces (but not minced)",6,16,"Fish, whole or in pieces, but not minced : -- Sardines, sardinella and brisling or sprats",,,,,,2026-10-22
+16041310,160413,"Fish preparations; sardines, sardinella and brisling or sprats, prepared or preserved, whole or in pieces (but not minced)",8,16,"Sardines, sardinella and brisling",Free,,,,,2026-10-22
+16041320,160413,"Fish preparations; sardines, sardinella and brisling or sprats, prepared or preserved, whole or in pieces (but not minced)",8,16,Sprats,Free,,,,,2026-10-22
+160414,160414,"Fish preparations; tunas, skipjack tuna and bonito (Sarda spp.), prepared or preserved, whole or in pieces (but not minced)",6,16,"Fish, whole or in pieces, but not minced :- - Tunas, skipjack tuna and bonito (Sarda spp.):",,,,,,2026-10-22
+16041410,160414,"Fish preparations; tunas, skipjack tuna and bonito (Sarda spp.), prepared or preserved, whole or in pieces (but not minced)",8,16,Tunas,Free,,,,,2026-10-22
+16041490,160414,"Fish preparations; tunas, skipjack tuna and bonito (Sarda spp.), prepared or preserved, whole or in pieces (but not minced)",8,16,Other,Free,,,,,2026-10-22
+16041500,160415,"Fish preparations; mackerel, prepared or preserved, whole or in pieces (but not minced)",8,16,"Fish, whole or in pieces, but not minced : -- Mackerel",Free,,,,,2026-10-22
+16041600,160416,"Fish preparations; anchovies, prepared or preserved, whole or in pieces (but not minced)",8,16,"Fish, whole or in pieces, but not minced : -- Anchovies",Free,,,,,2026-10-22
+16041700,160417,"Fish preparations; eels, prepared or preserved, whole or in pieces (but not minced)",8,16,"Fish, whole or in pieces, but not minced : -- Eels",Free,,,,,2026-10-22
+16041800,160418,"Fish preparations; shark fins, prepared or preserved, whole or in pieces (but not minced)",8,16,"Fish, whole or in pieces, but not minced : -- Shark fins",Prohibited,,,,,2026-10-22
+16041900,160419,"Fish preparations; fish prepared or preserved, whole or in pieces (but not minced), n.e.c. in heading no. 1604",8,16,"Fish, whole or in pieces, but not minced : -- Other",Free,,,,,2026-10-22
+16042000,160420,"Fish preparations; fish minced or in forms n.e.c. in heading no. 1604, prepared or preserved",8,16,Other prepared or preserved fish,Free,,,,,2026-10-22
+16043100,160431,Fish preparations; caviar,8,16,Caviar and caviar substitutes : -- Caviar,Free,,,,,2026-10-22
+16043200,160432,"Fish preparations; caviar substitutes, prepared from fish eggs",8,16,Caviar and caviar substitutes : -- Caviar substitutes,Free,,,,,2026-10-22
+1605,,,4,16,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved.",,,,,,2026-10-22
+16051000,160510,"Crustacean preparations; crab, prepared or preserved",8,16,Crab,Free,,,,,2026-10-22
+16052100,160521,"Crustacean preparations; shrimps and prawns, prepared or preserved, not in airtight containers",8,16,Shrimps and prawns : -- Not in airtight container,Free,,,,,2026-10-22
+16052900,160529,"Crustacean preparations; shrimps and prawns, prepared or preserved, in airtight containers",8,16,Shrimps and prawns : -- Other,Free,,,,,2026-10-22
+16053000,160530,"Crustacean preparations; lobster, prepared or preserved",8,16,Lobster,Free,,,,,2026-10-22
+16054000,160540,"Crustacean preparations; other than crab, shrimps, prawns, and lobsters, prepared or preserved",8,16,Other crustaceans,Free,,,,,2026-10-22
+16055100,160551,"Mollusc preparations; oysters, prepared or preserved",8,16,Molluscs : -- Oysters,Free,,,,,2026-10-22
+16055200,160552,"Mollusc preparations; scallops, including queen scallops, prepared or preserved",8,16,"Molluscs : -- Scallops, including queen scallops",Free,,,,,2026-10-22
+16055300,160553,"Mollusc preparations; mussels, prepared or preserved",8,16,Molluscs : -- Mussels,Free,,,,,2026-10-22
+16055400,160554,"Mollusc preparations; cuttle fish and squid, prepared or preserved",8,16,Molluscs : -- Cuttle fish and squid,Free,,,,,2026-10-22
+16055500,160555,"Mollusc preparations; octopus, prepared or preserved",8,16,Molluscs : -- Octopus,Free,,,,,2026-10-22
+16055600,160556,"Mollusc preparations; clams, cockles and arkshells, prepared or preserved",8,16,"Molluscs : -- Clams, cockles and arkshells",Free,,,,,2026-10-22
+16055700,160557,"Mollusc preparations; abalone, prepared or preserved",8,16,Molluscs : -- Abalone,Free,,,,,2026-10-22
+16055800,160558,"Mollusc preparations; snails, other than sea snails, prepared or preserved",8,16,"Molluscs : -- Snails, other than sea snails",Free,,,,,2026-10-22
+16055900,160559,"Mollusc preparations; n.e.c. in item no. 1605.5, preparations such as pastes, sausages, prepared meals and the like",8,16,Molluscs : -- Other,Free,,,,,2026-10-22
+16056100,160561,"Aquatic invertebrates; sea cucumbers, prepared or preserved",8,16,Other aquatic invertebrates : -- Sea cucumbers,Free,,,,,2026-10-22
+16056200,160562,"Aquatic invertebrates; sea urchins, prepared or preserved",8,16,Other aquatic invertebrates : -- Sea urchins,Free,,,,,2026-10-22
+16056300,160563,"Aquatic invertebrates; jellyfish, prepared or preserved",8,16,Other aquatic invertebrates : -- Jellyfish,Free,,,,,2026-10-22
+16056900,160569,"Aquatic invertebrates; other than crustaceans, molluscs, sea cucumbers, sea urchins, and jellyfish, prepared or preserved",8,16,Other aquatic invertebrates : -- Other,Free,,,,,2026-10-22

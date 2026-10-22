@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "2101",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "21",
    "description": "EXTRACTS, ESSENCES AND CONCENTRATES, OF COFFEE, TEA OR MATE AND PREPARATIONS WITH A BASIS OF THESE PRODUCTS OR WITH A BASIS OF COFFEE, TEA OR MATE; ROASTED CHICORY AND OTHER ROASTED COFFEE SUBSTITUTES, AND EXTRACTS, ESSENCES AND CONCENTRATES THEREOF",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "210111",
+   "hs6": "210111",
+   "hs6_description": "Extracts, essences and concentrates; of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee",
    "level": 6,
    "chapter": "21",
    "description": "Extracts, essences and concentrates, of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee : -- Extracts, essences and concentrates",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "21011110",
+   "hs6": "210111",
+   "hs6_description": "Extracts, essences and concentrates; of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee",
    "level": 8,
    "chapter": "21",
    "description": "Instant coffee, flavoured",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "21011120",
+   "hs6": "210111",
+   "hs6_description": "Extracts, essences and concentrates; of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee",
    "level": 8,
    "chapter": "21",
    "description": "Instant coffee, not flavoured",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "21011130",
+   "hs6": "210111",
+   "hs6_description": "Extracts, essences and concentrates; of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee",
    "level": 8,
    "chapter": "21",
    "description": "Coffee aroma",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "21011190",
+   "hs6": "210111",
+   "hs6_description": "Extracts, essences and concentrates; of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee",
    "level": 8,
    "chapter": "21",
    "description": "Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "21011200",
+   "hs6": "210112",
+   "hs6_description": "Preparations with a basis of extracts, essences or concentrates or with a basis of coffee",
    "level": 8,
    "chapter": "21",
    "description": "Extracts, essences and concentrates, of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee : -- Preparations with a basis of extracts, essences or concentrates or with a basis of coffee",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "210120",
+   "hs6": "210120",
+   "hs6_description": "Extracts, essences and concentrates; of tea or mate, and preparations with a basis of these extracts, essences or concentrates or with a basis of tea or mate",
    "level": 6,
    "chapter": "21",
    "description": "Extracts, essences and concentrates, of tea or mate, and preparations with a basis of these extracts, essences or concentrates or with a basis of tea or mate :",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "21012010",
+   "hs6": "210120",
+   "hs6_description": "Extracts, essences and concentrates; of tea or mate, and preparations with a basis of these extracts, essences or concentrates or with a basis of tea or mate",
    "level": 8,
    "chapter": "21",
    "description": "Instant tea",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "21012020",
+   "hs6": "210120",
+   "hs6_description": "Extracts, essences and concentrates; of tea or mate, and preparations with a basis of these extracts, essences or concentrates or with a basis of tea or mate",
    "level": 8,
    "chapter": "21",
    "description": "Quick brewing black tea",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "21012030",
+   "hs6": "210120",
+   "hs6_description": "Extracts, essences and concentrates; of tea or mate, and preparations with a basis of these extracts, essences or concentrates or with a basis of tea or mate",
    "level": 8,
    "chapter": "21",
    "description": "Tea aroma",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "21012090",
+   "hs6": "210120",
+   "hs6_description": "Extracts, essences and concentrates; of tea or mate, and preparations with a basis of these extracts, essences or concentrates or with a basis of tea or mate",
    "level": 8,
    "chapter": "21",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "210130",
+   "hs6": "210130",
+   "hs6_description": "Chicory, roasted and other roasted coffee substitutes; extracts, essences and concentrates thereof",
    "level": 6,
    "chapter": "21",
    "description": "Roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "21013010",
+   "hs6": "210130",
+   "hs6_description": "Chicory, roasted and other roasted coffee substitutes; extracts, essences and concentrates thereof",
    "level": 8,
    "chapter": "21",
    "description": "Roasted chicory",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "21013020",
+   "hs6": "210130",
+   "hs6_description": "Chicory, roasted and other roasted coffee substitutes; extracts, essences and concentrates thereof",
    "level": 8,
    "chapter": "21",
    "description": "Roasted coffee substitutes",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "21013090",
+   "hs6": "210130",
+   "hs6_description": "Chicory, roasted and other roasted coffee substitutes; extracts, essences and concentrates thereof",
    "level": 8,
    "chapter": "21",
    "description": "Other",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "2102",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "21",
    "description": "Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading 30.02); prepared baking powders.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "210210",
+   "hs6": "210210",
+   "hs6_description": "Yeasts; active",
    "level": 6,
    "chapter": "21",
    "description": "Active yeasts",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "21021010",
+   "hs6": "210210",
+   "hs6_description": "Yeasts; active",
    "level": 8,
    "chapter": "21",
    "description": "Culture yeast",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "21021020",
+   "hs6": "210210",
+   "hs6_description": "Yeasts; active",
    "level": 8,
    "chapter": "21",
    "description": "Bakers yeast",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "21021090",
+   "hs6": "210210",
+   "hs6_description": "Yeasts; active",
    "level": 8,
    "chapter": "21",
    "description": "Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "21022000",
+   "hs6": "210220",
+   "hs6_description": "Yeasts; inactive, other single-cell micro-organisms, dead",
    "level": 8,
    "chapter": "21",
    "description": "Inactive yeasts; other single-cell micro-organisms, dead",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "21023000",
+   "hs6": "210230",
+   "hs6_description": "Baking powders; prepared",
    "level": 8,
    "chapter": "21",
    "description": "Prepared baking powders",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "2103",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "21",
    "description": "Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard.",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "21031000",
+   "hs6": "210310",
+   "hs6_description": "Sauces; soya",
    "level": 8,
    "chapter": "21",
    "description": "Soya sauce",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "21032000",
+   "hs6": "210320",
+   "hs6_description": "Sauces; tomato ketchup and other tomato sauces",
    "level": 8,
    "chapter": "21",
    "description": "Tomato ketchup and other tomato sauces",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "21033000",
+   "hs6": "210330",
+   "hs6_description": "Mustard flour and meal and prepared mustard",
    "level": 8,
    "chapter": "21",
    "description": "Mustard flour and meal and prepared mustard",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "210390",
+   "hs6": "210390",
+   "hs6_description": "Sauces and preparations therefor; mixed condiments and mixed seasonings",
    "level": 6,
    "chapter": "21",
    "description": "Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "21039010",
+   "hs6": "210390",
+   "hs6_description": "Sauces and preparations therefor; mixed condiments and mixed seasonings",
    "level": 8,
    "chapter": "21",
    "description": "Curry paste",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "21039020",
+   "hs6": "210390",
+   "hs6_description": "Sauces and preparations therefor; mixed condiments and mixed seasonings",
    "level": 8,
    "chapter": "21",
    "description": "Chilli sauce",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "21039030",
+   "hs6": "210390",
+   "hs6_description": "Sauces and preparations therefor; mixed condiments and mixed seasonings",
    "level": 8,
    "chapter": "21",
    "description": "Majonnaise and salad dressings",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "21039040",
+   "hs6": "210390",
+   "hs6_description": "Sauces and preparations therefor; mixed condiments and mixed seasonings",
    "level": 8,
    "chapter": "21",
    "description": "Mixed, condiments and mixed seasoning",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "21039090",
+   "hs6": "210390",
+   "hs6_description": "Sauces and preparations therefor; mixed condiments and mixed seasonings",
    "level": 8,
    "chapter": "21",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "2104",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "21",
    "description": "Soups and broths and preparations therefor; homogenised composite food preparations.",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "210410",
+   "hs6": "210410",
+   "hs6_description": "Soups and broths and preparations therefor",
    "level": 6,
    "chapter": "21",
    "description": "Soups and broths and preparations therefor",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "21041010",
+   "hs6": "210410",
+   "hs6_description": "Soups and broths and preparations therefor",
    "level": 8,
    "chapter": "21",
    "description": "Dried",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "21041090",
+   "hs6": "210410",
+   "hs6_description": "Soups and broths and preparations therefor",
    "level": 8,
    "chapter": "21",
    "description": "Other",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "21042000",
+   "hs6": "210420",
+   "hs6_description": "Homogenised composite food preparations",
    "level": 8,
    "chapter": "21",
    "description": "Homogenised composite food preparations",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "21050000",
+   "hs6": "210500",
+   "hs6_description": "Ice cream and other edible ice; whether or not containing cocoa",
    "level": 8,
    "chapter": "21",
    "description": "Ice-cream and other edible ice, whether or not containing cocoa",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "2106",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "21",
    "description": "Food preparations not elsewhere specified or included.",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "21061000",
+   "hs6": "210610",
+   "hs6_description": "Protein; concentrates and textured protein substances",
    "level": 8,
    "chapter": "21",
    "description": "Protein concentrates and textured protein substances",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "210690",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 6,
    "chapter": "21",
    "description": "Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "21069011",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "Soft drink concentrates :---- Sharbat",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "21069019",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "Soft drink concentrates :----Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "21069020",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "Pan masala",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "21069030",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "Betel nut product known as Supari",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "21069040",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "Sugar-syrups containing added flavouring or colouring matter, not elsewhere specified or included; lactose syrup; glucose syrup and malto dextrine syrup",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "21069051",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "--- Compound preparations for making beverages :---- Compound alcoholic preparations of a kind used for the manufacture of beverages, of an alcoholic strength by volume exceeding 0.5% vol., determined at 20 °C",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "21069059",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "--- Compound preparations for making beverages :---- Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "21069060",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "Food flavouring material",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "21069070",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "Churna for pan",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "21069080",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "Custard powder",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "21069091",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "Other: ---- Diabetic foods",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "21069092",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "Other: ---- Sterilized or pasteurized millstone",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "21069099",
+   "hs6": "210690",
+   "hs6_description": "Food preparations; n.e.c. in item no. 2106.10",
    "level": 8,
    "chapter": "21",
    "description": "Other: ---- Other",

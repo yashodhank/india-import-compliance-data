@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "7101",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Pearls, natural or cultured, whether or not worked or graded but not strung, mounted or set; pearls, natural or cultured, temporarily strung for convenience of transport.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "710110",
+   "hs6": "710110",
+   "hs6_description": "Pearls; natural, whether or not worked or graded (but not strung, mounted or set), temporarily strung for the convenience of transport",
    "level": 6,
    "chapter": "71",
    "description": "Natural pearls",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "71011010",
+   "hs6": "710110",
+   "hs6_description": "Pearls; natural, whether or not worked or graded (but not strung, mounted or set), temporarily strung for the convenience of transport",
    "level": 8,
    "chapter": "71",
    "description": "Unworked",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "71011020",
+   "hs6": "710110",
+   "hs6_description": "Pearls; natural, whether or not worked or graded (but not strung, mounted or set), temporarily strung for the convenience of transport",
    "level": 8,
    "chapter": "71",
    "description": "Worked",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "71012100",
+   "hs6": "710121",
+   "hs6_description": "Pearls; cultured, unworked, whether or not graded (but not strung, mounted or set), temporarily strung for the convenience of transport",
    "level": 8,
    "chapter": "71",
    "description": "Cultured pearls : -- Unworked",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "71012200",
+   "hs6": "710122",
+   "hs6_description": "Pearls; cultured, worked, whether or not graded (but not strung, mounted or set), temporarily strung for the convenience of transport",
    "level": 8,
    "chapter": "71",
    "description": "Cultured pearls : -- Worked",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "7102",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Diamonds, whether or not worked, but not mounted or set.",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "71021000",
+   "hs6": "710210",
+   "hs6_description": "Diamonds; whether or not worked, but not mounted or set, unsorted",
    "level": 8,
    "chapter": "71",
    "description": "Unsorted",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "710221",
+   "hs6": "710221",
+   "hs6_description": "Diamonds; industrial, unworked or simply sawn, cleaved or bruted, but not mounted or set",
    "level": 6,
    "chapter": "71",
    "description": "Industrial : -- Unworked or simply sawn, cleaved or bruted",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "71022110",
+   "hs6": "710221",
+   "hs6_description": "Diamonds; industrial, unworked or simply sawn, cleaved or bruted, but not mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Sorted",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "71022120",
+   "hs6": "710221",
+   "hs6_description": "Diamonds; industrial, unworked or simply sawn, cleaved or bruted, but not mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Unsorted",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "710229",
+   "hs6": "710229",
+   "hs6_description": "Diamonds; industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",
    "level": 6,
    "chapter": "71",
    "description": "Industrial : -- Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "71022910",
+   "hs6": "710229",
+   "hs6_description": "Diamonds; industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Crushed",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "71022990",
+   "hs6": "710229",
+   "hs6_description": "Diamonds; industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "71023100",
+   "hs6": "710231",
+   "hs6_description": "Diamonds; non-industrial, unworked or simply sawn, cleaved or bruted, but not mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Non-industrial : -- Unworked or simply sawn, cleaved or bruted",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "710239",
+   "hs6": "710239",
+   "hs6_description": "Diamonds; non-industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",
    "level": 6,
    "chapter": "71",
    "description": "Non-industrial : -- Other",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "71023910",
+   "hs6": "710239",
+   "hs6_description": "Diamonds; non-industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Diamond, cut or otherwise worked but not mounted or set",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "71023990",
+   "hs6": "710239",
+   "hs6_description": "Diamonds; non-industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "7103",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Precious stones (other than diamonds) and semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded precious stones (other than diamonds) and semiprecious stones, temporarily strung for convenience of transport.",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "710310",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 6,
    "chapter": "71",
    "description": "Unworked or simply sawn or roughly shaped",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "71031031",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Beryl\" and \"Chrysoberyl\" mineralogical species: ----Emerald",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "71031032",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Beryl\" and \"Chrysoberyl\" mineralogical species: ---- Yellow/golden/pink/red/green beryl",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "71031033",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Beryl\" and \"Chrysoberyl\" mineralogical species: ---- Chrysoberyl (including chrysoberyl cat s eye)",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "71031034",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Beryl\" and \"Chrysoberyl\" mineralogical species: ---- Alexandrite (including alexandrite cat s eye)",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "71031039",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Beryl\" and \"Chrysoberyl\" mineralogical species: ---- Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "71031041",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Corundum\" and \"Feldspar \" mineralogical species: ---- Ruby",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "71031042",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Corundum\" and \"Feldspar \" mineralogical species: ---- Sapphire",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "71031043",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Corundum\" and \"Feldspar \" mineralogical species: ---- Moonstone",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "71031049",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Corundum\" and \"Feldspar \" mineralogical species: ---- Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "71031051",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Garnet\" and \"Lazurite\" mineralogical species: ---- Garnet",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "71031052",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Garnet\" and \"Lazurite\" mineralogical species: ---- Lapis-lazuli",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "71031059",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Garnet\" and \"Lazurite\" mineralogical species: ---- Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "71031061",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Prehnite\" and \"Quartz\" mineralogical species: ---- Prehnite",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "71031062",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Prehnite\" and \"Quartz\" mineralogical species: ---- Agate",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "71031063",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Prehnite\" and \"Quartz\" mineralogical species: ---- Aventurine",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "71031064",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Prehnite\" and \"Quartz\" mineralogical species: ---- Chalcedony",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "71031069",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Tourmaline\" and \"Zoisite\" mineralogical species: ---- Tourmaline",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "71031071",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Tourmaline",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "71031072",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Tourmaline\" and \"Zoisite\" mineralogical species: ---- Tanzanite",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "71031079",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Tourmaline\" and \"Zoisite\" mineralogical species: ---- Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "71031090",
+   "hs6": "710310",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "710391",
+   "hs6": "710391",
+   "hs6_description": "Stones; rubies, sapphires and emeralds, worked (other than simply sawn or roughly shaped), not strung, mounted or set",
    "level": 6,
    "chapter": "71",
    "description": "Otherwise worked : -- Rubies, sapphires and emeralds",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "71039110",
+   "hs6": "710391",
+   "hs6_description": "Stones; rubies, sapphires and emeralds, worked (other than simply sawn or roughly shaped), not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Ruby",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "71039120",
+   "hs6": "710391",
+   "hs6_description": "Stones; rubies, sapphires and emeralds, worked (other than simply sawn or roughly shaped), not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Sapphire",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "71039130",
+   "hs6": "710391",
+   "hs6_description": "Stones; rubies, sapphires and emeralds, worked (other than simply sawn or roughly shaped), not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Emeralds",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "710399",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 6,
    "chapter": "71",
    "description": "Otherwise worked : -- Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "71039911",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Beryl\" and \"Chrysoberyl\" mineralogical species, other than \"Emerald\":---- Yellow/golden/pink/red/green beryl",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "71039912",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Beryl\" and \"Chrysoberyl\" mineralogical species, other than \"Emerald\": ---- Chrysoberyl (including chrysoberyl cat s eye)",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "71039913",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Beryl\" and \"Chrysoberyl\" mineralogical species, other than \"Emerald\": ---- Alexandrite (including alexandrite cat s eye)",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "71039919",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Beryl\" and \"Chrysoberyl\" mineralogical species, other than \"Emerald\": ---- Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "71039921",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Corundum\" and \"Feldspar\" mineralogical species, other than \"Ruby\"and \"Sapphire\": ---- Moonstone",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "71039929",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Corundum\" and \"Feldspar\" mineralogical species, other than \"Ruby\"and \"Sapphire\": ---- Other",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "71039931",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Garnet\" and \"Lazurite\" mineralogical species: ---- Garnet",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "71039932",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Garnet\" and \"Lazurite\" mineralogical species: ---- Lapis-lazuli",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "71039939",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Garnet\" and \"Lazurite\" mineralogical species: ---- Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "71039941",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Prehnite\" and \"Quartz\" mineralogical species: ---- Prehnite",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "71039942",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Prehnite\" and \"Quartz\" mineralogical species: ---- Agate",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "71039943",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Prehnite\" and \"Quartz\" mineralogical species: ---- Aventurine",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "71039944",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Prehnite\" and \"Quartz\" mineralogical species: ---- Chalcedony",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "71039949",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Prehnite\" and \"Quartz\" mineralogical species: ---- Other",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "71039951",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Tourmaline\" and \"Zoisite\" mineralogical species: ---- Tourmaline",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "71039952",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Tourmaline\" and \"Zoisite\" mineralogical species:---- Tanzanite",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "71039959",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Precious or semi-precious stones of \"Tourmaline\" and \"Zoisite\" mineralogical species: ---- Other",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "71039990",
+   "hs6": "710399",
+   "hs6_description": "Stones; precious (other than diamonds) and semi-precious stones, (other than rubies, sapphires and emeralds), worked other than simply sawn or roughly shaped, not strung, mounted or set",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "7104",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Synthetic or reconstructed precious or semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport.",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "71041000",
+   "hs6": "710410",
+   "hs6_description": "Stones; piezo-electric quartz, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport",
    "level": 8,
    "chapter": "71",
    "description": "Piezo-electric quartz",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "710421",
+   "hs6": "710421",
+   "hs6_description": "Stones; diamonds, unworked or simply sawn or roughly shaped",
    "level": 6,
    "chapter": "71",
    "description": "Diamonds:",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "71042110",
+   "hs6": "710421",
+   "hs6_description": "Stones; diamonds, unworked or simply sawn or roughly shaped",
    "level": 8,
    "chapter": "71",
    "description": "Industrial",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "71042120",
+   "hs6": "710421",
+   "hs6_description": "Stones; diamonds, unworked or simply sawn or roughly shaped",
    "level": 8,
    "chapter": "71",
    "description": "Non-industrial",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "71042900",
+   "hs6": "710429",
+   "hs6_description": "Stones; synthetic or reconstructed precious or semi-precious n.e.c. in heading 7104, unworked or simply sawn or roughly shaped",
    "level": 8,
    "chapter": "71",
    "description": "Other, unworked or simply sawn or roughly shaped: - - Other",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "710491",
+   "hs6": "710491",
+   "hs6_description": "Stones; diamonds, n.e.c. in heading 7104, worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport",
    "level": 6,
    "chapter": "71",
    "description": "Diamonds:",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "71049110",
+   "hs6": "710491",
+   "hs6_description": "Stones; diamonds, n.e.c. in heading 7104, worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport",
    "level": 8,
    "chapter": "71",
    "description": "Industrial",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "71049120",
+   "hs6": "710491",
+   "hs6_description": "Stones; diamonds, n.e.c. in heading 7104, worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport",
    "level": 8,
    "chapter": "71",
    "description": "Non-industrial",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "71049900",
+   "hs6": "710499",
+   "hs6_description": "Stones; synthetic or reconstructed precious or semi-precious n.e.c. in heading 7104, worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport",
    "level": 8,
    "chapter": "71",
    "description": "Other: - - Other",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "7105",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Dust and powder of natural or synthetic precious or semi- semiprecious stones.",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "710510",
+   "hs6": "710510",
+   "hs6_description": "Stones; precious and semi-precious, dust and powder, of diamonds",
    "level": 6,
    "chapter": "71",
    "description": "Of Diamonds:",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "71051010",
+   "hs6": "710510",
+   "hs6_description": "Stones; precious and semi-precious, dust and powder, of diamonds",
    "level": 8,
    "chapter": "71",
    "description": "Of heading 7102",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "71051020",
+   "hs6": "710510",
+   "hs6_description": "Stones; precious and semi-precious, dust and powder, of diamonds",
    "level": 8,
    "chapter": "71",
    "description": "Of heading 7104",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "71059000",
+   "hs6": "710590",
+   "hs6_description": "Stones; precious and semi-precious, dust and powder, of natural or synthetic precious or semi-precious stones, excluding diamonds",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "7106",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form.",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "71061000",
+   "hs6": "710610",
+   "hs6_description": "Metals; silver powder",
    "level": 8,
    "chapter": "71",
    "description": "Powder",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "710691",
+   "hs6": "710691",
+   "hs6_description": "Metals; silver, unwrought, (but not powder)",
    "level": 6,
    "chapter": "71",
    "description": "Other :-- Unwrought:",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "71069110",
+   "hs6": "710691",
+   "hs6_description": "Metals; silver, unwrought, (but not powder)",
    "level": 8,
    "chapter": "71",
    "description": "Grains",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "71069120",
+   "hs6": "710691",
+   "hs6_description": "Metals; silver, unwrought, (but not powder)",
    "level": 8,
    "chapter": "71",
    "description": "Containing 99.9 per cent. or more by weight of silver",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "71069190",
+   "hs6": "710691",
+   "hs6_description": "Metals; silver, unwrought, (but not powder)",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "710692",
+   "hs6": "710692",
+   "hs6_description": "Metals; silver, semi-manufactured",
    "level": 6,
    "chapter": "71",
    "description": "Other : -- Semi-manufactured",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "71069210",
+   "hs6": "710692",
+   "hs6_description": "Metals; silver, semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Sheets, plates, strips, tubes and pipes",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "71069221",
+   "hs6": "710692",
+   "hs6_description": "Metals; silver, semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Bar: Containing 99.9 percent or more by weight of silver",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "71069229",
+   "hs6": "710692",
+   "hs6_description": "Metals; silver, semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Bar---- Other",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "71069290",
+   "hs6": "710692",
+   "hs6_description": "Metals; silver, semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "71070000",
+   "hs6": "710700",
+   "hs6_description": "Base metals clad with silver; not further worked than semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Base metals clad with silver, not further worked than semimanufactured.",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "7108",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in powder form.",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "71081100",
+   "hs6": "710811",
+   "hs6_description": "Metals; gold, non-monetary, powder",
    "level": 8,
    "chapter": "71",
    "description": "Non-monetary : -- Powder",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "71081210",
+   "hs6": "710812",
+   "hs6_description": "Metals; gold, non-monetary, unwrought (but not powder)",
    "level": 8,
    "chapter": "71",
    "description": "Containing 99.5 per cent. or more by weight of gold",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "71081290",
+   "hs6": "710812",
+   "hs6_description": "Metals; gold, non-monetary, unwrought (but not powder)",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "71081310",
+   "hs6": "710813",
+   "hs6_description": "Metals; gold, semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Containing 99.5 per cent. or more by weight of gold",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "71081390",
+   "hs6": "710813",
+   "hs6_description": "Metals; gold, semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "71082000",
+   "hs6": "710820",
+   "hs6_description": "Gold, monetary",
    "level": 8,
    "chapter": "71",
    "description": "Monetary",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "71090000",
+   "hs6": "710900",
+   "hs6_description": "Base metals or silver; clad with gold, not further worked than semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Base metals or silver, clad with gold, not further worked than semi-manufactured.",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "7110",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Platinum, unwrought or in semi-manufactured forms, or in powder form.",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "711011",
+   "hs6": "711011",
+   "hs6_description": "Metals; platinum, unwrought or in powder form",
    "level": 6,
    "chapter": "71",
    "description": "Platinum : -- Unwrought or in powder form",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "71101111",
+   "hs6": "711011",
+   "hs6_description": "Metals; platinum, unwrought or in powder form",
    "level": 8,
    "chapter": "71",
    "description": "Unwrought form --- Containing 99.0 per cent or more by weight of platinum",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "71101119",
+   "hs6": "711011",
+   "hs6_description": "Metals; platinum, unwrought or in powder form",
    "level": 8,
    "chapter": "71",
    "description": "Unwrought form: --- Other",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "71101121",
+   "hs6": "711011",
+   "hs6_description": "Metals; platinum, unwrought or in powder form",
    "level": 8,
    "chapter": "71",
    "description": "In powder form: --- Containing 99.0 per cent. or more by weight of platinum",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "71101129",
+   "hs6": "711011",
+   "hs6_description": "Metals; platinum, unwrought or in powder form",
    "level": 8,
    "chapter": "71",
    "description": "In powder form: --- other",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "71101910",
+   "hs6": "711019",
+   "hs6_description": "Metals; platinum, semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Containing 99.0 per cent. or more by weight of platinum",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "71101990",
+   "hs6": "711019",
+   "hs6_description": "Metals; platinum, semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "71102100",
+   "hs6": "711021",
+   "hs6_description": "Metals; palladium, unwrought or in powder form",
    "level": 8,
    "chapter": "71",
    "description": "Palladium : -- Unwrought or in powder form",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "71102900",
+   "hs6": "711029",
+   "hs6_description": "Metals; palladium, semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Palladium : -- Other",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "71103100",
+   "hs6": "711031",
+   "hs6_description": "Metals; rhodium, unwrought or in powder form",
    "level": 8,
    "chapter": "71",
    "description": "Rhodium : -- Unwrought or in powder form",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "71103900",
+   "hs6": "711039",
+   "hs6_description": "Metals; rhodium, semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Rhodium : -- Other",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "71104100",
+   "hs6": "711041",
+   "hs6_description": "Metals; iridium, osmium, ruthenium, unwrought or in powder form",
    "level": 8,
    "chapter": "71",
    "description": "Iridium, osmium and ruthenium : -- Unwrought or in powder form",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "71104900",
+   "hs6": "711049",
+   "hs6_description": "Metals; iridium, osmium, ruthenium, semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Iridium, osmium and ruthenium : -- Other",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "71110000",
+   "hs6": "711100",
+   "hs6_description": "Base metals, silver or gold, clad with platinum; not further worked than semi-manufactured",
    "level": 8,
    "chapter": "71",
    "description": "Base metals, silver or gold, clad with platinum, not further worked than semi-manufactured.",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "7112",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "WASTE AND SCRAP OF PRECIOUS METAL OR OF METAL CLAD WITH PRECIOUS METAL; OTHER WASTE AND SCRAP CONTAINING PRECIOUS METAL OR PRECIOUS METAL COMPOUNDS, OF A KIND USED PRINCIPALLY FOR THE RECOVERY OF PRECIOUS METAL OTHER THAN GOODS OF HEADING 8549",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "71123000",
+   "hs6": "711230",
+   "hs6_description": "Waste and scrap of precious metal or of metal clad with precious metal; ash containing precious metal or precious metal compounds",
    "level": 8,
    "chapter": "71",
    "description": "Ash containing precious metal or precious metal compounds",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "71129100",
+   "hs6": "711291",
+   "hs6_description": "Waste and scrap of precious metals; of gold, including metal clad with gold but excluding sweepings containing other precious metals",
    "level": 8,
    "chapter": "71",
    "description": "Other : -- Of gold, including metal clad with gold but excluding sweepings containing other precious metals",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "71129200",
+   "hs6": "711292",
+   "hs6_description": "Waste and scrap of precious metals; of platinum, including metal clad with platinum but excluding sweepings containing other precious metals",
    "level": 8,
    "chapter": "71",
    "description": "Other : -- Of platinum, including metal clad with platinum but excluding sweepings containing other precious metals",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "711299",
+   "hs6": "711299",
+   "hs6_description": "Waste and scrap of precious metals; waste and scrap of precious metals including metal clad with precious metals, other than that of gold and platinum and excluding ash which contains precious metal or precious metal compounds",
    "level": 6,
    "chapter": "71",
    "description": "Other : -- Other",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "71129910",
+   "hs6": "711299",
+   "hs6_description": "Waste and scrap of precious metals; waste and scrap of precious metals including metal clad with precious metals, other than that of gold and platinum and excluding ash which contains precious metal or precious metal compounds",
    "level": 8,
    "chapter": "71",
    "description": "Of silver, including metal clad with silver but excluding sweepings containing other precious metals",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "71129920",
+   "hs6": "711299",
+   "hs6_description": "Waste and scrap of precious metals; waste and scrap of precious metals including metal clad with precious metals, other than that of gold and platinum and excluding ash which contains precious metal or precious metal compounds",
    "level": 8,
    "chapter": "71",
    "description": "Sweepings containing gold or silver",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "71129990",
+   "hs6": "711299",
+   "hs6_description": "Waste and scrap of precious metals; waste and scrap of precious metals including metal clad with precious metals, other than that of gold and platinum and excluding ash which contains precious metal or precious metal compounds",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "7113",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal.",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "711311",
+   "hs6": "711311",
+   "hs6_description": "Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",
    "level": 6,
    "chapter": "71",
    "description": "Of precious metal whether or not plated or clad with precious metal : -- Of silver, whether or not plated or clad with other precious metal",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "71131110",
+   "hs6": "711311",
+   "hs6_description": "Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Jewellery with filigree work",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "71131141",
+   "hs6": "711311",
+   "hs6_description": "Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Other Jewellery: ----Unstudded",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "71131142",
+   "hs6": "711311",
+   "hs6_description": "Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Other Jewellery: ----Studded with pearls",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "71131143",
+   "hs6": "711311",
+   "hs6_description": "Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Other Jewellery: ----Studded with diamonds of heading 7102",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "71131144",
+   "hs6": "711311",
+   "hs6_description": "Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Other Jewellery: ----Studded with diamonds of heading 7104",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "71131145",
+   "hs6": "711311",
+   "hs6_description": "Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Other Jewellery: ----Studded with other precious and semi-precious stones",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "71131149",
+   "hs6": "711311",
+   "hs6_description": "Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Other Jewellery: ----Other",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "71131190",
+   "hs6": "711311",
+   "hs6_description": "Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Parts",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "711319",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 6,
    "chapter": "71",
    "description": "Of precious metal whether or not plated or clad with precious metal : -- Of other precious metal, whether or not plated or clad with precious metal",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "71131911",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of gold: ----Unstudded",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "71131912",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of gold: ----Studded with pearls",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "71131913",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of gold: ----Studded with diamonds of heading 7102",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "71131914",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of gold: ----Studded with diamonds of heading 7104",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "71131915",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of gold :----Studded with other precious and semi-precious stones",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "71131919",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of gold :----Other",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "71131921",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of platinum :----Unstudded",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "71131922",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of platinum :----Studded with pearls",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "71131923",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of platinum :----Studded with diamonds of heading 7102",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "71131924",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of platinum :----Studded with diamonds of heading 7104",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "71131925",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of platinum :----Studded with other precious and semi-precious stones",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "71131929",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of platinum :----Other",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "71131960",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Parts",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "71131990",
+   "hs6": "711319",
+   "hs6_description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "71132000",
+   "hs6": "711320",
+   "hs6_description": "Jewellery; of base metal clad with precious metal, and parts thereof",
    "level": 8,
    "chapter": "71",
    "description": "Of base metal clad with precious metal",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "7114",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Articles of goldsmiths or silversmiths wares and parts thereof, of precious metal or of metal clad with precious metal.",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "711411",
+   "hs6": "711411",
+   "hs6_description": "Silversmiths' wares; and parts thereof, of silver, whether or not plated or clad with other precious metal",
    "level": 6,
    "chapter": "71",
    "description": "Of precious metal whether or not plated or clad with precious metal : -- Of silver, whether or not plated or clad with other precious metal",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "71141110",
+   "hs6": "711411",
+   "hs6_description": "Silversmiths' wares; and parts thereof, of silver, whether or not plated or clad with other precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Articles",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "71141120",
+   "hs6": "711411",
+   "hs6_description": "Silversmiths' wares; and parts thereof, of silver, whether or not plated or clad with other precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Parts",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "711419",
+   "hs6": "711419",
+   "hs6_description": "Goldsmiths' wares; articles of and parts thereof, of precious metal (excluding silver) whether or not plated or clad with precious metal",
    "level": 6,
    "chapter": "71",
    "description": "Of precious metal whether or not plated or clad with precious metal : -- Of other precious metal, whether or not plated or clad with precious metal",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "71141910",
+   "hs6": "711419",
+   "hs6_description": "Goldsmiths' wares; articles of and parts thereof, of precious metal (excluding silver) whether or not plated or clad with precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Articles of gold",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "71141920",
+   "hs6": "711419",
+   "hs6_description": "Goldsmiths' wares; articles of and parts thereof, of precious metal (excluding silver) whether or not plated or clad with precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Articles of platinum",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "71141930",
+   "hs6": "711419",
+   "hs6_description": "Goldsmiths' wares; articles of and parts thereof, of precious metal (excluding silver) whether or not plated or clad with precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Parts",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "711420",
+   "hs6": "711420",
+   "hs6_description": "Goldsmiths' and silversmiths' wares; articles of and parts thereof, of base metal clad with precious metal",
    "level": 6,
    "chapter": "71",
    "description": "Of base metal clad with precious metal :",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "71142010",
+   "hs6": "711420",
+   "hs6_description": "Goldsmiths' and silversmiths' wares; articles of and parts thereof, of base metal clad with precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Articles clad with gold",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "71142020",
+   "hs6": "711420",
+   "hs6_description": "Goldsmiths' and silversmiths' wares; articles of and parts thereof, of base metal clad with precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Other articles",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "71142030",
+   "hs6": "711420",
+   "hs6_description": "Goldsmiths' and silversmiths' wares; articles of and parts thereof, of base metal clad with precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Parts",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "7115",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Other articles of precious metal or of metal clad with precious metal",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "71151000",
+   "hs6": "711510",
+   "hs6_description": "Metal; catalysts in the form of wire cloth or grill, of platinum",
    "level": 8,
    "chapter": "71",
    "description": "Catalysts in the form Of wire cloth or grill, Of platinum",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "711590",
+   "hs6": "711590",
+   "hs6_description": "Metal; precious or metal clad with precious metal, other than that of item no. 7115.10",
    "level": 6,
    "chapter": "71",
    "description": "Other",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "71159010",
+   "hs6": "711590",
+   "hs6_description": "Metal; precious or metal clad with precious metal, other than that of item no. 7115.10",
    "level": 8,
    "chapter": "71",
    "description": "Laboratory and industrial articles of precious metal",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "71159020",
+   "hs6": "711590",
+   "hs6_description": "Metal; precious or metal clad with precious metal, other than that of item no. 7115.10",
    "level": 8,
    "chapter": "71",
    "description": "Spinnerets made mainly of gold",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "71159090",
+   "hs6": "711590",
+   "hs6_description": "Metal; precious or metal clad with precious metal, other than that of item no. 7115.10",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "7116",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Articles of natural or cultured pearls, precious or semi-precious stones (natural, synthetic or reconstructed).",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "71161000",
+   "hs6": "711610",
+   "hs6_description": "Pearls; articles of natural or cultured pearls",
    "level": 8,
    "chapter": "71",
    "description": "Of natural or cultured pearls",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "71162000",
+   "hs6": "711620",
+   "hs6_description": "Stones; precious or semi-precious stones (natural, synthetic or reconstructed) articles of",
    "level": 8,
    "chapter": "71",
    "description": "Of precious or semi-precious stones (natural, synthetic or reconstructed)",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "7117",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Imitation jewellery.",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "71171100",
+   "hs6": "711711",
+   "hs6_description": "Jewellery; imitation, cuff links and studs, of base metal, whether or not plated with precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Of base metal, whether or not plated with precious metal : -- Cuff-links and studs",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "711719",
+   "hs6": "711719",
+   "hs6_description": "Jewellery; imitation, (excluding cuff links and studs), of base metal, whether or not plated with precious metal",
    "level": 6,
    "chapter": "71",
    "description": "Of base metal, whether or not plated with precious metal : -- Other",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "71171910",
+   "hs6": "711719",
+   "hs6_description": "Jewellery; imitation, (excluding cuff links and studs), of base metal, whether or not plated with precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Bangles",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "71171920",
+   "hs6": "711719",
+   "hs6_description": "Jewellery; imitation, (excluding cuff links and studs), of base metal, whether or not plated with precious metal",
    "level": 8,
    "chapter": "71",
    "description": "German silver jewellery",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "71171990",
+   "hs6": "711719",
+   "hs6_description": "Jewellery; imitation, (excluding cuff links and studs), of base metal, whether or not plated with precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "711790",
+   "hs6": "711790",
+   "hs6_description": "Jewellery; imitation, of other than base metal, whether or not plated with precious metal",
    "level": 6,
    "chapter": "71",
    "description": "Other",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "71179010",
+   "hs6": "711790",
+   "hs6_description": "Jewellery; imitation, of other than base metal, whether or not plated with precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Jewellery studded with imitation pearls or imitation or synthetic stones",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "71179090",
+   "hs6": "711790",
+   "hs6_description": "Jewellery; imitation, of other than base metal, whether or not plated with precious metal",
    "level": 8,
    "chapter": "71",
    "description": "Other",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "7118",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "71",
    "description": "Coin.",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "71181000",
+   "hs6": "711810",
+   "hs6_description": "Coin (other than gold coin), not being legal tender",
    "level": 8,
    "chapter": "71",
    "description": "Coin (Other than gold Coin), not being legal tender",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "71189000",
+   "hs6": "711890",
+   "hs6_description": "Coin; other than coin of item no. 7118.10",
    "level": 8,
    "chapter": "71",
    "description": "Other",

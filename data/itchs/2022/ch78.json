@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "7801",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "78",
    "description": "Unwrought lead.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "78011000",
+   "hs6": "780110",
+   "hs6_description": "Lead; unwrought, refined",
    "level": 8,
    "chapter": "78",
    "description": "Refined lead",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "78019100",
+   "hs6": "780191",
+   "hs6_description": "Lead; unwrought, unrefined, containing by weight antimony as the principal other element",
    "level": 8,
    "chapter": "78",
    "description": "Other : -- Containing by weight antimony as the principal other element",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "780199",
+   "hs6": "780199",
+   "hs6_description": "Lead; unwrought, unrefined, not containing by weight antimony as the principal other element",
    "level": 6,
    "chapter": "78",
    "description": "Other : -- Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "78019910",
+   "hs6": "780199",
+   "hs6_description": "Lead; unwrought, unrefined, not containing by weight antimony as the principal other element",
    "level": 8,
    "chapter": "78",
    "description": "Pig lead",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "78019920",
+   "hs6": "780199",
+   "hs6_description": "Lead; unwrought, unrefined, not containing by weight antimony as the principal other element",
    "level": 8,
    "chapter": "78",
    "description": "Unrefined lead",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "78019930",
+   "hs6": "780199",
+   "hs6_description": "Lead; unwrought, unrefined, not containing by weight antimony as the principal other element",
    "level": 8,
    "chapter": "78",
    "description": "Unrefined lead alloys",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "78019990",
+   "hs6": "780199",
+   "hs6_description": "Lead; unwrought, unrefined, not containing by weight antimony as the principal other element",
    "level": 8,
    "chapter": "78",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "7802",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "78",
    "description": "Lead waste and scrap",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "780200",
+   "hs6": "780200",
+   "hs6_description": "Lead; waste and scrap",
    "level": 6,
    "chapter": "78",
    "description": "Lead waste and scrap:",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "78020010",
+   "hs6": "780200",
+   "hs6_description": "Lead; waste and scrap",
    "level": 8,
    "chapter": "78",
    "description": "Lead scrap, namely the following: Scrap lead-soft covered by ISRI code word Racks; Mixed hard or soft scrap lead covered by ISRI code word Radio; Lead covered copper cable covered by ISRI code word Relay; Wheel weights covered by ISRI code word Ropes; Mixed common babbit covered by ISRI code word Roses; Scrap wet whole intact lead batteries consisting of SLI (starting, lighting and ignition), automotive, truck, 8-D and commercial golf cart and marine type batteries covered by ISRI code word Rink; Scrap industrial intact lead cells consisting of plates enclosed by some form of complete plastic case covered by ISRI code word Rono; Scrap whole Intact Industrial Lead Batteries Consisting of bus, diesel, locomotive, telephone or steel cased batteries covered by ISRI code word Roper",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "78020090",
+   "hs6": "780200",
+   "hs6_description": "Lead; waste and scrap",
    "level": 8,
    "chapter": "78",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "7804",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "78",
    "description": "Lead plates, sheets, strip and foil; lead powders and flakes.",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "780411",
+   "hs6": "780411",
+   "hs6_description": "Lead; sheets, strip and foil, of a thickness (excluding any backing) not exceeding 0.2mm",
    "level": 6,
    "chapter": "78",
    "description": "Plates, sheets, strip and foil : -- Sheets, strip and foil of a thickness (excluding any backing) not exceeding 0.2 mm",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "78041110",
+   "hs6": "780411",
+   "hs6_description": "Lead; sheets, strip and foil, of a thickness (excluding any backing) not exceeding 0.2mm",
    "level": 8,
    "chapter": "78",
    "description": "Sheets and strip",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "78041120",
+   "hs6": "780411",
+   "hs6_description": "Lead; sheets, strip and foil, of a thickness (excluding any backing) not exceeding 0.2mm",
    "level": 8,
    "chapter": "78",
    "description": "Foil",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "780419",
+   "hs6": "780419",
+   "hs6_description": "Lead; plates, sheets, strip and foil, of a thickness (excluding any backing) exceeding 0.2mm",
    "level": 6,
    "chapter": "78",
    "description": "Plates, sheets, strip and foil : -- Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "78041910",
+   "hs6": "780419",
+   "hs6_description": "Lead; plates, sheets, strip and foil, of a thickness (excluding any backing) exceeding 0.2mm",
    "level": 8,
    "chapter": "78",
    "description": "Plates",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "78041990",
+   "hs6": "780419",
+   "hs6_description": "Lead; plates, sheets, strip and foil, of a thickness (excluding any backing) exceeding 0.2mm",
    "level": 8,
    "chapter": "78",
    "description": "Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "78042000",
+   "hs6": "780420",
+   "hs6_description": "Lead; powders and flakes",
    "level": 8,
    "chapter": "78",
    "description": "Powders and flakes",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "7806",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "78",
    "description": "Other articles of lead.",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "780600",
+   "hs6": "780600",
+   "hs6_description": "Lead; articles n.e.c. in chapter 78",
    "level": 6,
    "chapter": "78",
    "description": "Other articles of lead",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "78060010",
+   "hs6": "780600",
+   "hs6_description": "Lead; articles n.e.c. in chapter 78",
    "level": 8,
    "chapter": "78",
    "description": "Sanitary fixtures",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "78060020",
+   "hs6": "780600",
+   "hs6_description": "Lead; articles n.e.c. in chapter 78",
    "level": 8,
    "chapter": "78",
    "description": "Indian lead seals",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "78060030",
+   "hs6": "780600",
+   "hs6_description": "Lead; articles n.e.c. in chapter 78",
    "level": 8,
    "chapter": "78",
    "description": "Blanks",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "78060090",
+   "hs6": "780600",
+   "hs6_description": "Lead; articles n.e.c. in chapter 78",
    "level": 8,
    "chapter": "78",
    "description": "Other",

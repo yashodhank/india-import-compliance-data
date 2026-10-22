@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "9601",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Worked ivory, bone, tortoise-shell, horn, antlers, coral, motherof- pearl and other animal carving material, and articles of these materials (including articles obtained by moulding).",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "96011000",
+   "hs6": "960110",
+   "hs6_description": "Ivory and articles thereof; worked",
    "level": 8,
    "chapter": "96",
    "description": "Worked ivory and articles of ivory",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "960190",
+   "hs6": "960190",
+   "hs6_description": "Bone, tortoise shell, horn, antlers, coral, mother-of-pearl and other animal carving material and articles thereof (including articles obtained by moulding)",
    "level": 6,
    "chapter": "96",
    "description": "Other",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "96019010",
+   "hs6": "960190",
+   "hs6_description": "Bone, tortoise shell, horn, antlers, coral, mother-of-pearl and other animal carving material and articles thereof (including articles obtained by moulding)",
    "level": 8,
    "chapter": "96",
    "description": "Worked tortoise-shell and articles thereof",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "96019020",
+   "hs6": "960190",
+   "hs6_description": "Bone, tortoise shell, horn, antlers, coral, mother-of-pearl and other animal carving material and articles thereof (including articles obtained by moulding)",
    "level": 8,
    "chapter": "96",
    "description": "Worked mother-of-pearl and articles thereof",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "96019030",
+   "hs6": "960190",
+   "hs6_description": "Bone, tortoise shell, horn, antlers, coral, mother-of-pearl and other animal carving material and articles thereof (including articles obtained by moulding)",
    "level": 8,
    "chapter": "96",
    "description": "Worked bone (excluding whale bone) and articles thereof",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "96019040",
+   "hs6": "960190",
+   "hs6_description": "Bone, tortoise shell, horn, antlers, coral, mother-of-pearl and other animal carving material and articles thereof (including articles obtained by moulding)",
    "level": 8,
    "chapter": "96",
    "description": "Worked horn, coral and other animal carving material and articles thereof",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "96019090",
+   "hs6": "960190",
+   "hs6_description": "Bone, tortoise shell, horn, antlers, coral, mother-of-pearl and other animal carving material and articles thereof (including articles obtained by moulding)",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "9602",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Worked vegetable or mineral carving material and articles of these materials; moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes, and other moulded or carved articles, not elsewhere specified or included; worked, unhardened gelatin (except gelatin of heading 3503) and articles of unhardened gelatin.",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "960200",
+   "hs6": "960200",
+   "hs6_description": "Vegetable, mineral carving material and articles of these materials, moulded or carved articles of wax, stearin, natural gums, resins or modelling pastes, worked unhardened gelatin (not heading no. 3503)",
    "level": 6,
    "chapter": "96",
    "description": "Worked vegetable or mineral carving material and articles of these materials moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes, and other moulded or carved articles, not elsewhere specified or included; worked, unhardened gelatin (except gelatin of heading 3503) and articles of unhardened gelatin:",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "96020010",
+   "hs6": "960200",
+   "hs6_description": "Vegetable, mineral carving material and articles of these materials, moulded or carved articles of wax, stearin, natural gums, resins or modelling pastes, worked unhardened gelatin (not heading no. 3503)",
    "level": 8,
    "chapter": "96",
    "description": "Worked vegetable carving material and articles thereof",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "96020020",
+   "hs6": "960200",
+   "hs6_description": "Vegetable, mineral carving material and articles of these materials, moulded or carved articles of wax, stearin, natural gums, resins or modelling pastes, worked unhardened gelatin (not heading no. 3503)",
    "level": 8,
    "chapter": "96",
    "description": "Moulded or carved articles of wax, stearin, natural gums and resins and other moulded or carved articles",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "96020030",
+   "hs6": "960200",
+   "hs6_description": "Vegetable, mineral carving material and articles of these materials, moulded or carved articles of wax, stearin, natural gums, resins or modelling pastes, worked unhardened gelatin (not heading no. 3503)",
    "level": 8,
    "chapter": "96",
    "description": "Gelatin capsules, empty",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "96020040",
+   "hs6": "960200",
+   "hs6_description": "Vegetable, mineral carving material and articles of these materials, moulded or carved articles of wax, stearin, natural gums, resins or modelling pastes, worked unhardened gelatin (not heading no. 3503)",
    "level": 8,
    "chapter": "96",
    "description": "Other articles of unhardened gelatin",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "96020090",
+   "hs6": "960200",
+   "hs6_description": "Vegetable, mineral carving material and articles of these materials, moulded or carved articles of wax, stearin, natural gums, resins or modelling pastes, worked unhardened gelatin (not heading no. 3503)",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "9603",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Brooms, brushes (including brushes constituting parts of machines, appliances or vehicles), hand-operated mechanical floor sweepers, not motorised, mops and feather dusters; prepared knots and tufts for broom or brush making; paint pads and rollers; squeegees (other than roller squeegees).",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "96031000",
+   "hs6": "960310",
+   "hs6_description": "Brooms and brushes; consisting of twigs or other vegetable materials bound together, with or without handles",
    "level": 8,
    "chapter": "96",
    "description": "Brooms and brushes, consisting of twigs or other vegetable materials bound together, with or without handles",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "96032100",
+   "hs6": "960321",
+   "hs6_description": "Brushes; toothbrushes",
    "level": 8,
    "chapter": "96",
    "description": "Tooth brushes, shaving brushes, hair brushes, nail brushes, eyelash brushes and other toilet brushes for use on the person, including such brushes constituting parts of appliances : -- Tooth brushes, including dental-plate brushes",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "96032900",
+   "hs6": "960329",
+   "hs6_description": "Brushes; shaving, hair, nail, eyelash and other toilet brushes for use on the person, including brushes as parts of appliances",
    "level": 8,
    "chapter": "96",
    "description": "Tooth brushes, shaving brushes, hair brushes, nail brushes, eyelash brushes and other toilet brushes for use on the person, including such brushes constituting parts of appliances : -- Other",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "960330",
+   "hs6": "960330",
+   "hs6_description": "Brushes; artists' brushes, writing brushes and similar brushes for the application of cosmetics",
    "level": 6,
    "chapter": "96",
    "description": "Artists brushes, writing brushes and similar brushes for the application of cosmetics",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "96033010",
+   "hs6": "960330",
+   "hs6_description": "Brushes; artists' brushes, writing brushes and similar brushes for the application of cosmetics",
    "level": 8,
    "chapter": "96",
    "description": "Artist brushes",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "96033020",
+   "hs6": "960330",
+   "hs6_description": "Brushes; artists' brushes, writing brushes and similar brushes for the application of cosmetics",
    "level": 8,
    "chapter": "96",
    "description": "Brushes for the application of cosmetics",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "96033090",
+   "hs6": "960330",
+   "hs6_description": "Brushes; artists' brushes, writing brushes and similar brushes for the application of cosmetics",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "960340",
+   "hs6": "960340",
+   "hs6_description": "Brushes; paint, distemper, varnish or similar brushes (not those of item no. 9603.30), paint pads and rollers",
    "level": 6,
    "chapter": "96",
    "description": "Paint, distemper, varnish or similar brushes (other than brushes of subheading 9603.30); paint pads and rollers",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "96034010",
+   "hs6": "960340",
+   "hs6_description": "Brushes; paint, distemper, varnish or similar brushes (not those of item no. 9603.30), paint pads and rollers",
    "level": 8,
    "chapter": "96",
    "description": "Paint, distemper, varnish or similar brushes (other than brushes of sub-heading 9603 30)",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "96034020",
+   "hs6": "960340",
+   "hs6_description": "Brushes; paint, distemper, varnish or similar brushes (not those of item no. 9603.30), paint pads and rollers",
    "level": 8,
    "chapter": "96",
    "description": "Paint pads and rollers",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "96035000",
+   "hs6": "960350",
+   "hs6_description": "Brushes; constituting parts of machines, appliances or vehicles",
    "level": 8,
    "chapter": "96",
    "description": "Other brushes constituting parts of machines, appliances or vehicles",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "96039000",
+   "hs6": "960390",
+   "hs6_description": "Brooms, brushes, mops, feather dusters, squeegees, hand operated mechanical floor sweepers; (not motorised), prepared knots and tufts for brooms or brush making n.e.c.",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "96040000",
+   "hs6": "960400",
+   "hs6_description": "Hand sieves and hand riddles",
    "level": 8,
    "chapter": "96",
    "description": "Hand sieves and hand riddles",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "9605",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Travel sets for personal toilet, sewing or shoe or clothes cleaning.",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "960500",
+   "hs6": "960500",
+   "hs6_description": "Travel sets; for personal toilet, sewing, shoe or clothes cleaning",
    "level": 6,
    "chapter": "96",
    "description": "Travel sets for personal toilet, sewing or shoe or clothes cleaning :",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "96050010",
+   "hs6": "960500",
+   "hs6_description": "Travel sets; for personal toilet, sewing, shoe or clothes cleaning",
    "level": 8,
    "chapter": "96",
    "description": "For personal toilet",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "96050090",
+   "hs6": "960500",
+   "hs6_description": "Travel sets; for personal toilet, sewing, shoe or clothes cleaning",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "9606",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Buttons, press-fasteners, snap-fasteners and press-studs, button moulds and other parts of these articles; button blanks.",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "960610",
+   "hs6": "960610",
+   "hs6_description": "Press-fasteners, snap-fasteners, press-studs and parts therefor",
    "level": 6,
    "chapter": "96",
    "description": "Press-fasteners, snap-fasteners and press-studs and parts therefor",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "96061010",
+   "hs6": "960610",
+   "hs6_description": "Press-fasteners, snap-fasteners, press-studs and parts therefor",
    "level": 8,
    "chapter": "96",
    "description": "Press-fasteners, snap-fasteners and press-studs",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "96061020",
+   "hs6": "960610",
+   "hs6_description": "Press-fasteners, snap-fasteners, press-studs and parts therefor",
    "level": 8,
    "chapter": "96",
    "description": "Parts",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "96062100",
+   "hs6": "960621",
+   "hs6_description": "Buttons; of plastics, not covered with textile material",
    "level": 8,
    "chapter": "96",
    "description": "Buttons: ----Of plastics, not covered with textile material",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "96062200",
+   "hs6": "960622",
+   "hs6_description": "Buttons; of base metal, not covered with textile material",
    "level": 8,
    "chapter": "96",
    "description": "Buttons: ----Of base metals, not covered with textile material",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "960629",
+   "hs6": "960629",
+   "hs6_description": "Buttons; of other than base metal or plastics, not covered with textile material",
    "level": 6,
    "chapter": "96",
    "description": "Buttons : -- Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "96062910",
+   "hs6": "960629",
+   "hs6_description": "Buttons; of other than base metal or plastics, not covered with textile material",
    "level": 8,
    "chapter": "96",
    "description": "Button of coconut shell or wood",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "96062990",
+   "hs6": "960629",
+   "hs6_description": "Buttons; of other than base metal or plastics, not covered with textile material",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "960630",
+   "hs6": "960630",
+   "hs6_description": "Button moulds and other parts of buttons; button blanks",
    "level": 6,
    "chapter": "96",
    "description": "Button moulds and other parts of buttons; button blanks",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "96063010",
+   "hs6": "960630",
+   "hs6_description": "Button moulds and other parts of buttons; button blanks",
    "level": 8,
    "chapter": "96",
    "description": "Button blanks",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "96063090",
+   "hs6": "960630",
+   "hs6_description": "Button moulds and other parts of buttons; button blanks",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "9607",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Slide fasteners and parts thereof.",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "960711",
+   "hs6": "960711",
+   "hs6_description": "Slide fasteners; fitted with chain scoops of base metal",
    "level": 6,
    "chapter": "96",
    "description": "Slide fasteners : -- Fitted with chain scoops of base metal",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "96071110",
+   "hs6": "960711",
+   "hs6_description": "Slide fasteners; fitted with chain scoops of base metal",
    "level": 8,
    "chapter": "96",
    "description": "Zip fasteners",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "96071190",
+   "hs6": "960711",
+   "hs6_description": "Slide fasteners; fitted with chain scoops of base metal",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "960719",
+   "hs6": "960719",
+   "hs6_description": "Slide fasteners; other than those fitted with chain scoops of base metal",
    "level": 6,
    "chapter": "96",
    "description": "Slide fasteners : -- Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "96071910",
+   "hs6": "960719",
+   "hs6_description": "Slide fasteners; other than those fitted with chain scoops of base metal",
    "level": 8,
    "chapter": "96",
    "description": "Zip fasteners",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "96071990",
+   "hs6": "960719",
+   "hs6_description": "Slide fasteners; other than those fitted with chain scoops of base metal",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "96072000",
+   "hs6": "960720",
+   "hs6_description": "Slide fasteners; parts",
    "level": 8,
    "chapter": "96",
    "description": "Parts",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "9608",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Ball point pens; felt tipped and other porous-tipped pens and markers; fountain pens, stylograph pens and other pens; duplicating stylos; propelling or sliding pencils; pen-holders, pencil-holders and similar holders; parts (including caps and clips) of the foregoing articles, other than those of heading 9609.",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "960810",
+   "hs6": "960810",
+   "hs6_description": "Pens; ball point",
    "level": 6,
    "chapter": "96",
    "description": "Ball point pens",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "96081011",
+   "hs6": "960810",
+   "hs6_description": "Pens; ball point",
    "level": 8,
    "chapter": "96",
    "description": "With liquid ink (for rolling ball pen):---- High value ball point pens (US $ 100 and above c.i.f. per unit)",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "96081012",
+   "hs6": "960810",
+   "hs6_description": "Pens; ball point",
    "level": 8,
    "chapter": "96",
    "description": "Ball point pens with body or cap of precious metal or rolled precious metal",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "96081019",
+   "hs6": "960810",
+   "hs6_description": "Pens; ball point",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "96081091",
+   "hs6": "960810",
+   "hs6_description": "Pens; ball point",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----High value ball point pens (US $ 100 and above c.i.f. per unit)",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "96081092",
+   "hs6": "960810",
+   "hs6_description": "Pens; ball point",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----Ball point pens with body or cap of precious metal or rolled precious metal",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "96081099",
+   "hs6": "960810",
+   "hs6_description": "Pens; ball point",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----Other",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "96082000",
+   "hs6": "960820",
+   "hs6_description": "Pens; felt tipped and other porous-tipped pens and markers",
    "level": 8,
    "chapter": "96",
    "description": "Felt tipped and other porous-tipped pens and markers",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "960830",
+   "hs6": "960830",
+   "hs6_description": "Pens; fountain, stylograph and other pens",
    "level": 6,
    "chapter": "96",
    "description": "Fountain pens, stylograph pens and other pens",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "96083011",
+   "hs6": "960830",
+   "hs6_description": "Pens; fountain, stylograph and other pens",
    "level": 8,
    "chapter": "96",
    "description": "Fountain pens: ----High value ball point pens (US $ 100 and above c.i.f. per unit)",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "96083012",
+   "hs6": "960830",
+   "hs6_description": "Pens; fountain, stylograph and other pens",
    "level": 8,
    "chapter": "96",
    "description": "Fountain pens: ----With body or cap of precious metal or rolled precious metal",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "96083019",
+   "hs6": "960830",
+   "hs6_description": "Pens; fountain, stylograph and other pens",
    "level": 8,
    "chapter": "96",
    "description": "Fountain pens: ----Other",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "96083021",
+   "hs6": "960830",
+   "hs6_description": "Pens; fountain, stylograph and other pens",
    "level": 8,
    "chapter": "96",
    "description": "Stylograph pens: ----High value ball point pens (US $ 100 and above c.i.f. per unit)",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "96083022",
+   "hs6": "960830",
+   "hs6_description": "Pens; fountain, stylograph and other pens",
    "level": 8,
    "chapter": "96",
    "description": "Stylograph pens: ----With body or cap of precious metal or rolled precious metal",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "96083029",
+   "hs6": "960830",
+   "hs6_description": "Pens; fountain, stylograph and other pens",
    "level": 8,
    "chapter": "96",
    "description": "Stylograph pens: ----Other",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "96083091",
+   "hs6": "960830",
+   "hs6_description": "Pens; fountain, stylograph and other pens",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----High value ball point pens (US $ 100 and above c.i.f. per unit)",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "96083092",
+   "hs6": "960830",
+   "hs6_description": "Pens; fountain, stylograph and other pens",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----With body or cap of precious metal or rolled precious metal",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "96083099",
+   "hs6": "960830",
+   "hs6_description": "Pens; fountain, stylograph and other pens",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----Other",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "96084000",
+   "hs6": "960840",
+   "hs6_description": "Pencils; propelling or sliding",
    "level": 8,
    "chapter": "96",
    "description": "Propelling or sliding pencils",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "96085000",
+   "hs6": "960850",
+   "hs6_description": "Pen and pencil sets; of articles from two or more of the foregoing sub-headings",
    "level": 8,
    "chapter": "96",
    "description": "Sets of articles from two or more of the foregoing sub-headings",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "960860",
+   "hs6": "960860",
+   "hs6_description": "Pens; ball-point, refills comprising the ball point and ink-reservoir",
    "level": 6,
    "chapter": "96",
    "description": "Refills for ball point pens, comprising the ball point and ink- reservoir",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "96086010",
+   "hs6": "960860",
+   "hs6_description": "Pens; ball-point, refills comprising the ball point and ink-reservoir",
    "level": 8,
    "chapter": "96",
    "description": "With liquid ink (For rolling ball-pen)",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "96086090",
+   "hs6": "960860",
+   "hs6_description": "Pens; ball-point, refills comprising the ball point and ink-reservoir",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "960891",
+   "hs6": "960891",
+   "hs6_description": "Pens; nibs and nib points",
    "level": 6,
    "chapter": "96",
    "description": "Other : -- Pen nibs and nib points",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "96089110",
+   "hs6": "960891",
+   "hs6_description": "Pens; nibs and nib points",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----Nib points for pen",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "96089120",
+   "hs6": "960891",
+   "hs6_description": "Pens; nibs and nib points",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----Nibs of wool felt or plastics for use in the manufacture of porous tip pen or markers",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "96089130",
+   "hs6": "960891",
+   "hs6_description": "Pens; nibs and nib points",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----Other pen nibs",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "96089191",
+   "hs6": "960891",
+   "hs6_description": "Pens; nibs and nib points",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----Of metal",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "96089199",
+   "hs6": "960891",
+   "hs6_description": "Pens; nibs and nib points",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "960899",
+   "hs6": "960899",
+   "hs6_description": "Pens and pencils; duplicating stylos, pen-holders, pencil-holders, and similar holders, parts of the articles of heading 9608, including caps and clips",
    "level": 6,
    "chapter": "96",
    "description": "Other : -- Other",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "96089910",
+   "hs6": "960899",
+   "hs6_description": "Pens and pencils; duplicating stylos, pen-holders, pencil-holders, and similar holders, parts of the articles of heading 9608, including caps and clips",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----Pen holders, pencil holders and similar holders",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "96089990",
+   "hs6": "960899",
+   "hs6_description": "Pens and pencils; duplicating stylos, pen-holders, pencil-holders, and similar holders, parts of the articles of heading 9608, including caps and clips",
    "level": 8,
    "chapter": "96",
    "description": "Other: ----Other",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "9609",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Pencils (other than pencils of heading 96.08), crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks and tailors chalks.",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "96091000",
+   "hs6": "960910",
+   "hs6_description": "Pencils and crayons; with leads encased in sheath",
    "level": 8,
    "chapter": "96",
    "description": "Pencils and crayons, with leads encased in a sheath",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "96092000",
+   "hs6": "960920",
+   "hs6_description": "Pencil leads; black or coloured",
    "level": 8,
    "chapter": "96",
    "description": "Pencil leads, black or coloured",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "960990",
+   "hs6": "960990",
+   "hs6_description": "Pastels, drawing charcoals, writing or drawing chalks, tailors' chalk",
    "level": 6,
    "chapter": "96",
    "description": "Other",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "96099010",
+   "hs6": "960990",
+   "hs6_description": "Pastels, drawing charcoals, writing or drawing chalks, tailors' chalk",
    "level": 8,
    "chapter": "96",
    "description": "Slate pencils",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "96099020",
+   "hs6": "960990",
+   "hs6_description": "Pastels, drawing charcoals, writing or drawing chalks, tailors' chalk",
    "level": 8,
    "chapter": "96",
    "description": "Other pencils",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "96099030",
+   "hs6": "960990",
+   "hs6_description": "Pastels, drawing charcoals, writing or drawing chalks, tailors' chalk",
    "level": 8,
    "chapter": "96",
    "description": "Pastels, drawing charcoals and writing or drawing chalks and tailors chalks",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "96099090",
+   "hs6": "960990",
+   "hs6_description": "Pastels, drawing charcoals, writing or drawing chalks, tailors' chalk",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "96100000",
+   "hs6": "961000",
+   "hs6_description": "Slates and boards; with writing or drawing surfaces, whether or not framed",
    "level": 8,
    "chapter": "96",
    "description": "Slates and Boards, with writing or drawing surfaces, whether or not framed",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "96110000",
+   "hs6": "961100",
+   "hs6_description": "Stamps; date, numbering, sealing stamps and the like (including devices for printing or embossing labels), designed for operating by hand; hand operated composing sticks and printing sets",
    "level": 8,
    "chapter": "96",
    "description": "Date, sealing or numbering stamps, and the like (including devices for printing or embossing labels), designed for operating in the hand; hand-operated composing sticks and hand printing sets incorporating such composing sticks.",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "9612",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether or not on spools or in cartridges; ink-pads, whether or not inked, with or without boxes.",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "961210",
+   "hs6": "961210",
+   "hs6_description": "Ribbons; for typewriters and the like, inked or otherwise prepared, for giving impressions, whether or not on spools or in cartridges",
    "level": 6,
    "chapter": "96",
    "description": "Ribbons",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "96121010",
+   "hs6": "961210",
+   "hs6_description": "Ribbons; for typewriters and the like, inked or otherwise prepared, for giving impressions, whether or not on spools or in cartridges",
    "level": 8,
    "chapter": "96",
    "description": "Computer printer ribbon",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "96121020",
+   "hs6": "961210",
+   "hs6_description": "Ribbons; for typewriters and the like, inked or otherwise prepared, for giving impressions, whether or not on spools or in cartridges",
    "level": 8,
    "chapter": "96",
    "description": "Ribbon for typewriters, other than electronic and similar machines",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "96121030",
+   "hs6": "961210",
+   "hs6_description": "Ribbons; for typewriters and the like, inked or otherwise prepared, for giving impressions, whether or not on spools or in cartridges",
    "level": 8,
    "chapter": "96",
    "description": "Ribbon for electronic typewriter",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "96121090",
+   "hs6": "961210",
+   "hs6_description": "Ribbons; for typewriters and the like, inked or otherwise prepared, for giving impressions, whether or not on spools or in cartridges",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "96122000",
+   "hs6": "961220",
+   "hs6_description": "Ink pads; whether or not inked, with or without boxes",
    "level": 8,
    "chapter": "96",
    "description": "Ink-pads",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "9613",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Cigarette lighters and other lighters, whether or not mechanical or electrical, and parts thereof other than flints and wicks.",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "96131000",
+   "hs6": "961310",
+   "hs6_description": "Lighters; pocket, cigarette, gas fuelled, non-refillable",
    "level": 8,
    "chapter": "96",
    "description": "Pocket lighters, gas fuelled, non-refillable",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "96132000",
+   "hs6": "961320",
+   "hs6_description": "Lighters; pocket, cigarette, gas fuelled, refillable",
    "level": 8,
    "chapter": "96",
    "description": "Pocket lighters, gas fuelled, refillable",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "961380",
+   "hs6": "961380",
+   "hs6_description": "Lighters; whether or not mechanical or electrical, n.e.c. in heading no. 9613",
    "level": 6,
    "chapter": "96",
    "description": "Other lighters",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "96138010",
+   "hs6": "961380",
+   "hs6_description": "Lighters; whether or not mechanical or electrical, n.e.c. in heading no. 9613",
    "level": 8,
    "chapter": "96",
    "description": "Electronic",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "96138090",
+   "hs6": "961380",
+   "hs6_description": "Lighters; whether or not mechanical or electrical, n.e.c. in heading no. 9613",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "96139000",
+   "hs6": "961390",
+   "hs6_description": "Lighters; parts for cigarette lighters and other lighters, whether or not mechanical or electrical, other than flints and wicks",
    "level": 8,
    "chapter": "96",
    "description": "Parts",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "96140000",
+   "hs6": "961400",
+   "hs6_description": "Smoking pipes (including pipe bowls) and cigar or cigarette holders, and parts thereof",
    "level": 8,
    "chapter": "96",
    "description": "Smoking pipes (including pipe bowls) and cigar or cigarette holders and parts thereof",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "9615",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers and the like, other than those of heading 85.16, and parts thereof.",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "96151100",
+   "hs6": "961511",
+   "hs6_description": "Combs, hair slides and the like; of hard rubber or plastics",
    "level": 8,
    "chapter": "96",
    "description": "Combs, hair-slides and the like : -- Of hard rubber or plastics",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "96151900",
+   "hs6": "961519",
+   "hs6_description": "Combs, hair slides and the like; of other than hard rubber or plastics",
    "level": 8,
    "chapter": "96",
    "description": "Combs, hair-slides and the like : -- Other",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "96159000",
+   "hs6": "961590",
+   "hs6_description": "Hairpins, curling pins, curling grips, hair curlers and the like (not those of heading no. 8516) and parts thereof",
    "level": 8,
    "chapter": "96",
    "description": "Other",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "9616",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Scent sprays and similar toilet sprays, and mounts and heads therefor; powder-puffs and pads for the application of cosmetics or toilet preparations.",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "961610",
+   "hs6": "961610",
+   "hs6_description": "Scent sprays and similar toilet sprays, and mounts and heads therefor",
    "level": 6,
    "chapter": "96",
    "description": "Scent sprays and similar toilet sprays, and mounts and heads therefor",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "96161010",
+   "hs6": "961610",
+   "hs6_description": "Scent sprays and similar toilet sprays, and mounts and heads therefor",
    "level": 8,
    "chapter": "96",
    "description": "Scent sprays and similar toilet sprays",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "96161020",
+   "hs6": "961610",
+   "hs6_description": "Scent sprays and similar toilet sprays, and mounts and heads therefor",
    "level": 8,
    "chapter": "96",
    "description": "Mounts and heads",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "96162000",
+   "hs6": "961620",
+   "hs6_description": "Powder puffs and pads; for the application of cosmetics or toilet preparations",
    "level": 8,
    "chapter": "96",
    "description": "Powder-puffs and pads for the application of cosmetics or toilet preparations",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "9617",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "Vacuum flasks and other vacuum vessels, complete with cases; parts thereof other than glass inners.",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "961700",
+   "hs6": "961700",
+   "hs6_description": "Vacuum flasks and other vacuum vessels, complete with cases; parts thereof other than glass inners",
    "level": 6,
    "chapter": "96",
    "description": "Vacuum flasks and other vacuum vessels, complete; parts thereof other than glass inners:",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "96170011",
+   "hs6": "961700",
+   "hs6_description": "Vacuum flasks and other vacuum vessels, complete with cases; parts thereof other than glass inners",
    "level": 8,
    "chapter": "96",
    "description": "Vacuum flasks and other vacuum vessels, complete:- - - - Vacuum flasks having a capacity not exceeding 0.75 l",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "96170012",
+   "hs6": "961700",
+   "hs6_description": "Vacuum flasks and other vacuum vessels, complete with cases; parts thereof other than glass inners",
    "level": 8,
    "chapter": "96",
    "description": "Vaccum flasks and other vessels, complete with case: ----Vacuum flasks having a capacity exceeding 0.75 l",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "96170013",
+   "hs6": "961700",
+   "hs6_description": "Vacuum flasks and other vacuum vessels, complete with cases; parts thereof other than glass inners",
    "level": 8,
    "chapter": "96",
    "description": "Vaccum flasks and other vessels, complete with case: ----Casserol and any other vacuum containers",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "96170019",
+   "hs6": "961700",
+   "hs6_description": "Vacuum flasks and other vacuum vessels, complete with cases; parts thereof other than glass inners",
    "level": 8,
    "chapter": "96",
    "description": "Vaccum flasks and other vessels, complete with case: ----Other",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "96170090",
+   "hs6": "961700",
+   "hs6_description": "Vacuum flasks and other vacuum vessels, complete with cases; parts thereof other than glass inners",
    "level": 8,
    "chapter": "96",
    "description": "Vaccum flasks and other vessels, complete with case: ----Parts (other than glass inners)",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "96180000",
+   "hs6": "961800",
+   "hs6_description": "Tailors' dummies and other lay figures; automata and other animated displays used for shop window dressing",
    "level": 8,
    "chapter": "96",
    "description": "Tailors dummies and other lay figures; automata and other animated displays, used for shop window dressing",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "9619",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "96",
    "description": "SANITARY TOWELS (PADS) AND TAMPONS, NAPKINS (DIAPERS), NAPKIN LINERS AND SIMILAR ARTICLES, OF ANY MATERIAL",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "961900",
+   "hs6": "961900",
+   "hs6_description": "Sanitary towels (pads) and tampons, napkins (diapers), napkin liners and similar articles, of any material",
    "level": 6,
    "chapter": "96",
    "description": "Sanitary towels (pads) and tampons, napkins (diapers), napkin liners and similar articles, of any material:",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "96190010",
+   "hs6": "961900",
+   "hs6_description": "Sanitary towels (pads) and tampons, napkins (diapers), napkin liners and similar articles, of any material",
    "level": 8,
    "chapter": "96",
    "description": "Sanitary towels ( pads) or sanitary napkins",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "96190020",
+   "hs6": "961900",
+   "hs6_description": "Sanitary towels (pads) and tampons, napkins (diapers), napkin liners and similar articles, of any material",
    "level": 8,
    "chapter": "96",
    "description": "Tampons",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "96190030",
+   "hs6": "961900",
+   "hs6_description": "Sanitary towels (pads) and tampons, napkins (diapers), napkin liners and similar articles, of any material",
    "level": 8,
    "chapter": "96",
    "description": "Napkins and napkin liners for babies",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "96190040",
+   "hs6": "961900",
+   "hs6_description": "Sanitary towels (pads) and tampons, napkins (diapers), napkin liners and similar articles, of any material",
    "level": 8,
    "chapter": "96",
    "description": "Clinical diapers",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "96190090",
+   "hs6": "961900",
+   "hs6_description": "Sanitary towels (pads) and tampons, napkins (diapers), napkin liners and similar articles, of any material",
    "level": 8,
    "chapter": "96",
    "description": "Others",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "96200000",
+   "hs6": "962000",
+   "hs6_description": "Monopods, bipods, tripods and similar articles",
    "level": 8,
    "chapter": "96",
    "description": "Monopods, bipods, tripods and similar articles",

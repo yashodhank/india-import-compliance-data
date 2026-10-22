@@ -1,27 +1,27 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-9201,4,92,"Pianos, including automatic pianos; harpsichords and other keyboard stringed instruments.",,,,,,2026-10-22
-92011000,8,92,Upright pianos,Free,,,,,2026-10-22
-92012000,8,92,Grand pianos,Free,,,,,2026-10-22
-92019000,8,92,Other,Free,,,,,2026-10-22
-9202,4,92,"Other string musical instruments (for example, guitars, violins, harps).",,,,,,2026-10-22
-92021000,8,92,Played with a bow,Free,,,,,2026-10-22
-92029000,8,92,Other,Free,,,,,2026-10-22
-9205,4,92,"Wind musical instruments (for example, keyboard pipe organs, accordions, clarinets, trumpets, bagpipes), other than fairground organs and mechanical street organs.",,,,,,2026-10-22
-92051000,8,92,Brass-wind instruments,Free,,,,,2026-10-22
-920590,6,92,Other,,,,,,2026-10-22
-92059010,8,92,Flutes,Free,,,,,2026-10-22
-92059020,8,92,Clarinets,Free,,,,,2026-10-22
-92059090,8,92,Other,Free,,,,,2026-10-22
-92060000,8,92,"Percussion musical instruments (for example, drums, xylophones, cymbols, castanets, maracas)",Free,,,,,2026-10-22
-9207,4,92,"Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions).",,,,,,2026-10-22
-92071000,8,92,"Keyboard instruments, other than accordions",Free,,,,,2026-10-22
-92079000,8,92,Other,Free,,,,,2026-10-22
-9208,4,92,"Musical boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other heading of this Chapter; decoy calls of all kinds; whistles, call horns and other mouthblown sound signalling instruments.",,,,,,2026-10-22
-92081000,8,92,Musical boxes,Free,,,,,2026-10-22
-92089000,8,92,Other,Free,,,,,2026-10-22
-9209,4,92,"Parts (for example, mechanisms for musical boxes) and accessories (for example, cards, discs and rolls for mechanical instruments) of musical instruments; metronomes, tuning forks and pitch pipes of all kinds.",,,,,,2026-10-22
-92093000,8,92,Musical instrument strings,Free,,,,,2026-10-22
-92099100,8,92,Other : -- Parts and accessories for pianos,Free,,,,,2026-10-22
-92099200,8,92,Other : -- Parts and accessories for the musical instruments of heading 92.02,Free,,,,,2026-10-22
-92099400,8,92,Other : -- Parts and accessories for the musical instruments of heading 92.07,Free,,,,,2026-10-22
-92099900,8,92,Other : -- Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+9201,,,4,92,"Pianos, including automatic pianos; harpsichords and other keyboard stringed instruments.",,,,,,2026-10-22
+92011000,920110,"Musical instruments; pianos, upright, including automatic pianos",8,92,Upright pianos,Free,,,,,2026-10-22
+92012000,920120,"Musical instruments; pianos, grand",8,92,Grand pianos,Free,,,,,2026-10-22
+92019000,920190,Musical instruments; harpsichords and other keyboard stringed instruments n.e.c. in heading no. 9201,8,92,Other,Free,,,,,2026-10-22
+9202,,,4,92,"Other string musical instruments (for example, guitars, violins, harps).",,,,,,2026-10-22
+92021000,920210,"Musical instruments; string, played with a bow (e.g. violins)",8,92,Played with a bow,Free,,,,,2026-10-22
+92029000,920290,"Musical instruments; string, played other than with a bow (e.g. guitars and harps)",8,92,Other,Free,,,,,2026-10-22
+9205,,,4,92,"Wind musical instruments (for example, keyboard pipe organs, accordions, clarinets, trumpets, bagpipes), other than fairground organs and mechanical street organs.",,,,,,2026-10-22
+92051000,920510,"Musical instruments; brass-wind (e.g. trumpets), other than fairground organs and mechanical street organs",8,92,Brass-wind instruments,Free,,,,,2026-10-22
+920590,920590,"Musical instruments; wind, other than brass, (eg. clarinet, bagpipes, pipe organs), other than fairground organs and mechanical street organs",6,92,Other,,,,,,2026-10-22
+92059010,920590,"Musical instruments; wind, other than brass, (eg. clarinet, bagpipes, pipe organs), other than fairground organs and mechanical street organs",8,92,Flutes,Free,,,,,2026-10-22
+92059020,920590,"Musical instruments; wind, other than brass, (eg. clarinet, bagpipes, pipe organs), other than fairground organs and mechanical street organs",8,92,Clarinets,Free,,,,,2026-10-22
+92059090,920590,"Musical instruments; wind, other than brass, (eg. clarinet, bagpipes, pipe organs), other than fairground organs and mechanical street organs",8,92,Other,Free,,,,,2026-10-22
+92060000,920600,"Musical instruments; percussion (e.g. drums, xylophones, cymbals, castanets, maracas)",8,92,"Percussion musical instruments (for example, drums, xylophones, cymbols, castanets, maracas)",Free,,,,,2026-10-22
+9207,,,4,92,"Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions).",,,,,,2026-10-22
+92071000,920710,"Musical instruments; keyboard, (other than accordions), the sound of which is produced or must be amplified electrically",8,92,"Keyboard instruments, other than accordions",Free,,,,,2026-10-22
+92079000,920790,"Musical instruments; (other than keyboard), the sound of which is produced or must be amplified electrically",8,92,Other,Free,,,,,2026-10-22
+9208,,,4,92,"Musical boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other heading of this Chapter; decoy calls of all kinds; whistles, call horns and other mouthblown sound signalling instruments.",,,,,,2026-10-22
+92081000,920810,Musical boxes,8,92,Musical boxes,Free,,,,,2026-10-22
+92089000,920890,"Fairground and mechanical street organs, mechanical singing birds, musical saws and musical instruments n.e.c. in chapter 92; decoy calls of all kinds; whistles; call horns and other mouth-blown sound signalling instruments",8,92,Other,Free,,,,,2026-10-22
+9209,,,4,92,"Parts (for example, mechanisms for musical boxes) and accessories (for example, cards, discs and rolls for mechanical instruments) of musical instruments; metronomes, tuning forks and pitch pipes of all kinds.",,,,,,2026-10-22
+92093000,920930,Musical instrument strings,8,92,Musical instrument strings,Free,,,,,2026-10-22
+92099100,920991,Musical instruments; parts and accessories for pianos,8,92,Other : -- Parts and accessories for pianos,Free,,,,,2026-10-22
+92099200,920992,Musical instruments; parts and accessories for string musical instruments other than keyboard instruments,8,92,Other : -- Parts and accessories for the musical instruments of heading 92.02,Free,,,,,2026-10-22
+92099400,920994,"Musical instruments; parts and accessories for the musical instruments the sound of which is produced or must be amplified electrically (e.g. organs, guitars and accordions)",8,92,Other : -- Parts and accessories for the musical instruments of heading 92.07,Free,,,,,2026-10-22
+92099900,920999,"Musical instruments; parts and accessories for musical instruments n.e.c. in heading no. 9209; metronomes, tuning forks and pitch pipes",8,92,Other : -- Other,Free,,,,,2026-10-22

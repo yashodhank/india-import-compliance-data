@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "9503",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "95",
    "description": "Tricycles, scooters, pedal cars and similar wheeled toys; dolls carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "950300",
+   "hs6": "950300",
+   "hs6_description": "Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds",
    "level": 6,
    "chapter": "95",
    "description": "Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds:",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "95030010",
+   "hs6": "950300",
+   "hs6_description": "Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds",
    "level": 8,
    "chapter": "95",
    "description": "Electronic",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "95030020",
+   "hs6": "950300",
+   "hs6_description": "Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds",
    "level": 8,
    "chapter": "95",
    "description": "Non electronic",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "95030091",
+   "hs6": "950300",
+   "hs6_description": "Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds",
    "level": 8,
    "chapter": "95",
    "description": "Parts: ---- Of electronic toys",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "95030099",
+   "hs6": "950300",
+   "hs6_description": "Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds",
    "level": 8,
    "chapter": "95",
    "description": "Parts: ---- Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "9504",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "95",
    "description": "VIDEO GAME CONSOLES AND MACHINES, TABLE OR PARLOUR GAMES, INCLUDING PINTABLES, BILLIARDS, SPECIAL TABLES FOR CASINO GAMES AND AUTOMATIC BOWLING EQUIPMENT, AMUSEMENT MACHINES OPERATED BY COINS, BANK NOTES, BANK CARDS, TOKENS OR BY ANY OTHER MEANS OF PAYMENT",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "95042000",
+   "hs6": "950420",
+   "hs6_description": "Billiard articles and accessories of all kinds",
    "level": 8,
    "chapter": "95",
    "description": "Articles and accessories for billiards of all kinds",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "95043000",
+   "hs6": "950430",
+   "hs6_description": "Games; operated by coins, banknotes, bank cards, tokens or by other means of payment, other than billiard articles and accesssories, and automatic bowling alley equipment",
    "level": 8,
    "chapter": "95",
    "description": "Other games, operated by coins, banknotes, bank cards, tokens or by any other means of payment, other than automatic bowling alley equipment",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "95044000",
+   "hs6": "950440",
+   "hs6_description": "Games; playing cards",
    "level": 8,
    "chapter": "95",
    "description": "Playing cards",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "95045000",
+   "hs6": "950450",
+   "hs6_description": "Games; video game consoles and machines, other than those of subheading 9504.30",
    "level": 8,
    "chapter": "95",
    "description": "Video game consoles and machines, other than those of subheading 9504.30",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "950490",
+   "hs6": "950490",
+   "hs6_description": "Games; articles for funfair, table or parlour games, including pintables, special tables for casino games, automatic bowling alley equipment, n.e.c. in heading 9504",
    "level": 6,
    "chapter": "95",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "95049010",
+   "hs6": "950490",
+   "hs6_description": "Games; articles for funfair, table or parlour games, including pintables, special tables for casino games, automatic bowling alley equipment, n.e.c. in heading 9504",
    "level": 8,
    "chapter": "95",
    "description": "Chess set, all types",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "95049020",
+   "hs6": "950490",
+   "hs6_description": "Games; articles for funfair, table or parlour games, including pintables, special tables for casino games, automatic bowling alley equipment, n.e.c. in heading 9504",
    "level": 8,
    "chapter": "95",
    "description": "Carom Board, with or without coins and strikers",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "95049090",
+   "hs6": "950490",
+   "hs6_description": "Games; articles for funfair, table or parlour games, including pintables, special tables for casino games, automatic bowling alley equipment, n.e.c. in heading 9504",
    "level": 8,
    "chapter": "95",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "9505",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "95",
    "description": "Festive, carnival or other entertainment articles, including conjuring tricks and novelty jokes.",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "95051000",
+   "hs6": "950510",
+   "hs6_description": "Christmas festivity articles",
    "level": 8,
    "chapter": "95",
    "description": "articles for Christmas festivities",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "950590",
+   "hs6": "950590",
+   "hs6_description": "Festive, carnival or other entertainment articles including novelty jokes and conjuring tricks; other than Christmas festivity articles",
    "level": 6,
    "chapter": "95",
    "description": "Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "95059010",
+   "hs6": "950590",
+   "hs6_description": "Festive, carnival or other entertainment articles including novelty jokes and conjuring tricks; other than Christmas festivity articles",
    "level": 8,
    "chapter": "95",
    "description": "Magical equipments",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "95059090",
+   "hs6": "950590",
+   "hs6_description": "Festive, carnival or other entertainment articles including novelty jokes and conjuring tricks; other than Christmas festivity articles",
    "level": 8,
    "chapter": "95",
    "description": "Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "9506",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "95",
    "description": "Articles and equipment for general physical exercise, gymnastics, athletics, other sports (including table-tennis) or outdoor games, not specified or included elsewhere in this Chapter; swimming pools and paddling pools.",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "95061100",
+   "hs6": "950611",
+   "hs6_description": "Skis; for snow",
    "level": 8,
    "chapter": "95",
    "description": "Snow-skis and other snow-ski equipment : -- Skis",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "95061200",
+   "hs6": "950612",
+   "hs6_description": "Ski-fastenings (ski-bindings); for snow-skis",
    "level": 8,
    "chapter": "95",
    "description": "Snow-skis and other snow-ski equipment : -- Ski-fastenings (ski-bindings)",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "95061900",
+   "hs6": "950619",
+   "hs6_description": "Snow-ski equipment",
    "level": 8,
    "chapter": "95",
    "description": "Snow-skis and other snow-ski equipment : -- Other",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "95062100",
+   "hs6": "950621",
+   "hs6_description": "Sailboards; for water sport",
    "level": 8,
    "chapter": "95",
    "description": "Water-skis, surf-boards, sailboards and other water-sport equipment : -- Sailboards",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "95062900",
+   "hs6": "950629",
+   "hs6_description": "Water sport equipment; water-skis, surf-boards and other water-sport equipment, excluding sailboards",
    "level": 8,
    "chapter": "95",
    "description": "Water-skis, surf-boards, sailboards and other water-sport equipment : -- Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "95063100",
+   "hs6": "950631",
+   "hs6_description": "Golf clubs; complete",
    "level": 8,
    "chapter": "95",
    "description": "Golf clubs and other golf equipment : -- Clubs, complete",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "95063200",
+   "hs6": "950632",
+   "hs6_description": "Golf balls",
    "level": 8,
    "chapter": "95",
    "description": "Golf clubs and other golf equipment : -- Balls",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "95063900",
+   "hs6": "950639",
+   "hs6_description": "Golf equipment; other than clubs and balls",
    "level": 8,
    "chapter": "95",
    "description": "Golf clubs and other golf equipment : -- Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "95064000",
+   "hs6": "950640",
+   "hs6_description": "Table-tennis articles and equipment",
    "level": 8,
    "chapter": "95",
    "description": "Articles and equipment for table-tennis",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "95065100",
+   "hs6": "950651",
+   "hs6_description": "Lawn-tennis rackets; whether or not strung",
    "level": 8,
    "chapter": "95",
    "description": "Tennis, badminton or similar rackets, whether or not strung : -- Lawn-tennis rackets, whether or not strung",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "950659",
+   "hs6": "950659",
+   "hs6_description": "Tennis, badminton and similar rackets; whether or not strung",
    "level": 6,
    "chapter": "95",
    "description": "Tennis, badminton or similar rackets, whether or not strung : -- Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "95065910",
+   "hs6": "950659",
+   "hs6_description": "Tennis, badminton and similar rackets; whether or not strung",
    "level": 8,
    "chapter": "95",
    "description": "Other: ----Squash or racketball badminton rackets, whether or not strung",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "95065990",
+   "hs6": "950659",
+   "hs6_description": "Tennis, badminton and similar rackets; whether or not strung",
    "level": 8,
    "chapter": "95",
    "description": "Other: ----Other",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "95066100",
+   "hs6": "950661",
+   "hs6_description": "Lawn-tennis balls",
    "level": 8,
    "chapter": "95",
    "description": "Balls, other than golf balls and table-tennis balls : -- Lawn-tennis balls",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "950662",
+   "hs6": "950662",
+   "hs6_description": "Balls; inflatable",
    "level": 6,
    "chapter": "95",
    "description": "Balls, other than golf balls and table-tennis balls : -- Inflatable",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "95066210",
+   "hs6": "950662",
+   "hs6_description": "Balls; inflatable",
    "level": 8,
    "chapter": "95",
    "description": "Football",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "95066220",
+   "hs6": "950662",
+   "hs6_description": "Balls; inflatable",
    "level": 8,
    "chapter": "95",
    "description": "Volley ball",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "95066230",
+   "hs6": "950662",
+   "hs6_description": "Balls; inflatable",
    "level": 8,
    "chapter": "95",
    "description": "Basket ball",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "95066290",
+   "hs6": "950662",
+   "hs6_description": "Balls; inflatable",
    "level": 8,
    "chapter": "95",
    "description": "Other",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "950669",
+   "hs6": "950669",
+   "hs6_description": "Balls; (other than inflatable or for lawn-tennis, golf or table-tennis)",
    "level": 6,
    "chapter": "95",
    "description": "Balls, other than golf balls and table-tennis balls : -- Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "95066910",
+   "hs6": "950669",
+   "hs6_description": "Balls; (other than inflatable or for lawn-tennis, golf or table-tennis)",
    "level": 8,
    "chapter": "95",
    "description": "Hockey ball",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "95066920",
+   "hs6": "950669",
+   "hs6_description": "Balls; (other than inflatable or for lawn-tennis, golf or table-tennis)",
    "level": 8,
    "chapter": "95",
    "description": "Cricket ball",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "95066930",
+   "hs6": "950669",
+   "hs6_description": "Balls; (other than inflatable or for lawn-tennis, golf or table-tennis)",
    "level": 8,
    "chapter": "95",
    "description": "Golf ball",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "95066940",
+   "hs6": "950669",
+   "hs6_description": "Balls; (other than inflatable or for lawn-tennis, golf or table-tennis)",
    "level": 8,
    "chapter": "95",
    "description": "Rugby ball",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "95066990",
+   "hs6": "950669",
+   "hs6_description": "Balls; (other than inflatable or for lawn-tennis, golf or table-tennis)",
    "level": 8,
    "chapter": "95",
    "description": "Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "95067000",
+   "hs6": "950670",
+   "hs6_description": "Skates; ice and roller, including skating boots with skates attached",
    "level": 8,
    "chapter": "95",
    "description": "Ice skates and roller skates, including skating boots with skates attached",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "950691",
+   "hs6": "950691",
+   "hs6_description": "Athletics and gymnastics equipment",
    "level": 6,
    "chapter": "95",
    "description": "Other : -- Articles and equipment for general physical exercise, gymnastics or athletics",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "95069110",
+   "hs6": "950691",
+   "hs6_description": "Athletics and gymnastics equipment",
    "level": 8,
    "chapter": "95",
    "description": "Other: ----Boxing equipment",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "95069190",
+   "hs6": "950691",
+   "hs6_description": "Athletics and gymnastics equipment",
    "level": 8,
    "chapter": "95",
    "description": "Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "950699",
+   "hs6": "950699",
+   "hs6_description": "Equipment for outdoor games and recreation n.e.c. in heading no. 9506",
    "level": 6,
    "chapter": "95",
    "description": "Other -- Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "95069910",
+   "hs6": "950699",
+   "hs6_description": "Equipment for outdoor games and recreation n.e.c. in heading no. 9506",
    "level": 8,
    "chapter": "95",
    "description": "Badminton shuttle cocks",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "95069920",
+   "hs6": "950699",
+   "hs6_description": "Equipment for outdoor games and recreation n.e.c. in heading no. 9506",
    "level": 8,
    "chapter": "95",
    "description": "Leg pads and bats for Cricket",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "95069930",
+   "hs6": "950699",
+   "hs6_description": "Equipment for outdoor games and recreation n.e.c. in heading no. 9506",
    "level": 8,
    "chapter": "95",
    "description": "Shoulder pads for Football",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "95069940",
+   "hs6": "950699",
+   "hs6_description": "Equipment for outdoor games and recreation n.e.c. in heading no. 9506",
    "level": 8,
    "chapter": "95",
    "description": "Hockey sticks and blades",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "95069950",
+   "hs6": "950699",
+   "hs6_description": "Equipment for outdoor games and recreation n.e.c. in heading no. 9506",
    "level": 8,
    "chapter": "95",
    "description": "Polo sticks including blades, shafts and heads",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "95069960",
+   "hs6": "950699",
+   "hs6_description": "Equipment for outdoor games and recreation n.e.c. in heading no. 9506",
    "level": 8,
    "chapter": "95",
    "description": "Sports net",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "95069970",
+   "hs6": "950699",
+   "hs6_description": "Equipment for outdoor games and recreation n.e.c. in heading no. 9506",
    "level": 8,
    "chapter": "95",
    "description": "Tennis and badminton racket pressures",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "95069980",
+   "hs6": "950699",
+   "hs6_description": "Equipment for outdoor games and recreation n.e.c. in heading no. 9506",
    "level": 8,
    "chapter": "95",
    "description": "Shin-guards and elbow or shoulders pads excluding those for football; waist, thigh and hip protective equipment",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "95069990",
+   "hs6": "950699",
+   "hs6_description": "Equipment for outdoor games and recreation n.e.c. in heading no. 9506",
    "level": 8,
    "chapter": "95",
    "description": "Other",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "9507",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "95",
    "description": "Fishing rods, fish-hooks and other line fishing tackle; fish landing nets, butterfly nets and similar nets; decoy birds (other than those of heading 92.08 or 97.05) and similar hunting or shooting requisites.",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "95071000",
+   "hs6": "950710",
+   "hs6_description": "Fishing rods",
    "level": 8,
    "chapter": "95",
    "description": "Fishing rods",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "95072000",
+   "hs6": "950720",
+   "hs6_description": "Fish-hooks; whether or not snelled",
    "level": 8,
    "chapter": "95",
    "description": "Fish-hooks, whether or not snelled",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "95073000",
+   "hs6": "950730",
+   "hs6_description": "Fishing reels",
    "level": 8,
    "chapter": "95",
    "description": "Fishing reels",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "950790",
+   "hs6": "950790",
+   "hs6_description": "Fishing tackle n.e.c., butterfly nets, decoy birds (other than those of heading no. 9208 or 9705) and similar hunting or shooting requisites",
    "level": 6,
    "chapter": "95",
    "description": "Other",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "95079010",
+   "hs6": "950790",
+   "hs6_description": "Fishing tackle n.e.c., butterfly nets, decoy birds (other than those of heading no. 9208 or 9705) and similar hunting or shooting requisites",
    "level": 8,
    "chapter": "95",
    "description": "Fish landing and butterfly nets",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "95079090",
+   "hs6": "950790",
+   "hs6_description": "Fishing tackle n.e.c., butterfly nets, decoy birds (other than those of heading no. 9208 or 9705) and similar hunting or shooting requisites",
    "level": 8,
    "chapter": "95",
    "description": "Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "9508",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "95",
    "description": "TRAVELLING CIRCUSES AND TRAVELLING MENAGERIES; AMUSEMENT PARK RIDES AND WATER PARK AMUSEMENTS; FAIRGROUND AMUSEMENTS, INCLUDING SHOOTING GALLERIES; TRAVELLING THEATRES",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "95081000",
+   "hs6": "950810",
+   "hs6_description": "Travelling circuses and travelling menageries",
    "level": 8,
    "chapter": "95",
    "description": "Travelling circuses and travelling menageries",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "95082100",
+   "hs6": "950821",
+   "hs6_description": "Amusement park rides and water park amusements; Roller coasters",
    "level": 8,
    "chapter": "95",
    "description": "Amusement park rides and water park amusements: - - Roller coasters",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "95082200",
+   "hs6": "950822",
+   "hs6_description": "Amusement park rides and water park amusements; carousels, swings and roundabouts",
    "level": 8,
    "chapter": "95",
    "description": "Amusement park rides and water park amusements: - - Carousels, swings and roundabouts",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "95082300",
+   "hs6": "950823",
+   "hs6_description": "Amusement park rides and water park amusements; dodge'em cars",
    "level": 8,
    "chapter": "95",
    "description": "Amusement park rides and water park amusements: - - Dodge em cars",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "95082400",
+   "hs6": "950824",
+   "hs6_description": "Amusement park rides and water park amusements; motion simulators and moving theatres",
    "level": 8,
    "chapter": "95",
    "description": "Amusement park rides and water park amusements: - - Motion simulators and moving theatres",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "95082500",
+   "hs6": "950825",
+   "hs6_description": "Amusement park rides and water park amusements; water rides",
    "level": 8,
    "chapter": "95",
    "description": "Amusement park rides and water park amusements: - - Water rides",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "95082600",
+   "hs6": "950826",
+   "hs6_description": "Amusement park rides and water park amusements; water park amusements",
    "level": 8,
    "chapter": "95",
    "description": "Amusement park rides and water park amusements: - - Water park amusements",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "95082900",
+   "hs6": "950829",
+   "hs6_description": "Amusement park rides and water park amusements; other than roller coasters, carousels, swings, roundabouts, dodge'em cars, motion simulators and moving theatres, water rides and water park amusements",
    "level": 8,
    "chapter": "95",
    "description": "Amusement park rides and water park amusements: - - Other",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "95083000",
+   "hs6": "950830",
+   "hs6_description": "Fairground amusements; including shooting galleries",
    "level": 8,
    "chapter": "95",
    "description": "Amusement park rides and water park amusements: - Fairground amusements",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "95084000",
+   "hs6": "950840",
+   "hs6_description": "Travelling theatres",
    "level": 8,
    "chapter": "95",
    "description": "Amusement park rides and water park amusements: - Travelling theatres",

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "8101",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "81",
    "description": "Tungsten (wolfram) and articles thereof, including waste and scrap.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "81011000",
+   "hs6": "810110",
+   "hs6_description": "Tungsten (wolfram); articles thereof, including waste and scrap, powders",
    "level": 8,
    "chapter": "81",
    "description": "Powders",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "81019400",
+   "hs6": "810194",
+   "hs6_description": "Tungsten (wolfram); unwrought, including bars and rods obtained simply by sintering",
    "level": 8,
    "chapter": "81",
    "description": "Other : -- Unwrought tungsten, including bars and rods obtained simply by sintering",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "81019600",
+   "hs6": "810196",
+   "hs6_description": "Tungsten (wolfram); wire",
    "level": 8,
    "chapter": "81",
    "description": "Other : -- Wire",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "81019700",
+   "hs6": "810197",
+   "hs6_description": "Tungsten (wolfram); waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Other : -- Waste and scrap",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "810199",
+   "hs6": "810199",
+   "hs6_description": "Tungsten (wolfram); articles n.e.c. in heading no. 8101",
    "level": 6,
    "chapter": "81",
    "description": "Other : -- Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "81019910",
+   "hs6": "810199",
+   "hs6_description": "Tungsten (wolfram); articles n.e.c. in heading no. 8101",
    "level": 8,
    "chapter": "81",
    "description": "Tungsten filament",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "81019920",
+   "hs6": "810199",
+   "hs6_description": "Tungsten (wolfram); articles n.e.c. in heading no. 8101",
    "level": 8,
    "chapter": "81",
    "description": "---Non-galvanised pipes, other :----Clad, plated or coated",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "81019990",
+   "hs6": "810199",
+   "hs6_description": "Tungsten (wolfram); articles n.e.c. in heading no. 8101",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "8102",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "81",
    "description": "Molybdenum and articles thereof, including waste and scrap.",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "81021000",
+   "hs6": "810210",
+   "hs6_description": "Molybdenum; articles thereof, including waste and scrap, powders",
    "level": 8,
    "chapter": "81",
    "description": "Powders",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "81029400",
+   "hs6": "810294",
+   "hs6_description": "Molybdenum; unwrought, including bars and rods obtained simply by sintering",
    "level": 8,
    "chapter": "81",
    "description": "Other : -- Unwrought molybdenum, including bars and rods obtained simply by sintering",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "810295",
+   "hs6": "810295",
+   "hs6_description": "Molybdenum; bars and rods, other than those obtained simply by sintering, profiles, plates, sheets, strip and foil",
    "level": 6,
    "chapter": "81",
    "description": "Other : -- bars and rods, other than those obtained simply by sintering, profiles, plates, sheets, strip and foil",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "81029510",
+   "hs6": "810295",
+   "hs6_description": "Molybdenum; bars and rods, other than those obtained simply by sintering, profiles, plates, sheets, strip and foil",
    "level": 8,
    "chapter": "81",
    "description": "Hollow bars",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "81029590",
+   "hs6": "810295",
+   "hs6_description": "Molybdenum; bars and rods, other than those obtained simply by sintering, profiles, plates, sheets, strip and foil",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "81029600",
+   "hs6": "810296",
+   "hs6_description": "Molybdenum; wire",
    "level": 8,
    "chapter": "81",
    "description": "Other : -- Wire",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "81029700",
+   "hs6": "810297",
+   "hs6_description": "Molybdenum; waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Other : -- Waste and scrap",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "81029900",
+   "hs6": "810299",
+   "hs6_description": "Molybdenum; articles n.e.c. in heading no. 8102",
    "level": 8,
    "chapter": "81",
    "description": "Other : -- Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "8103",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "81",
    "description": "Tantalum and articles thereof, including waste and scrap.",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "810320",
+   "hs6": "810320",
+   "hs6_description": "Tantalum; unwrought, including bars and rods obtained simply by sintering, powders",
    "level": 6,
    "chapter": "81",
    "description": "Unwrought tantalum, including bars and rods obtained simply by sintering; powders",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "81032010",
+   "hs6": "810320",
+   "hs6_description": "Tantalum; unwrought, including bars and rods obtained simply by sintering, powders",
    "level": 8,
    "chapter": "81",
    "description": "Hollow bars",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "81032090",
+   "hs6": "810320",
+   "hs6_description": "Tantalum; unwrought, including bars and rods obtained simply by sintering, powders",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "81033000",
+   "hs6": "810330",
+   "hs6_description": "Tantalum; waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Waste and scrap",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "81039100",
+   "hs6": "810391",
+   "hs6_description": "Tantalum; crucibles",
    "level": 8,
    "chapter": "81",
    "description": "Crucibles",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "81039900",
+   "hs6": "810399",
+   "hs6_description": "Tantalum; articles n.e.c. in heading no. 8103",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "8104",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "81",
    "description": "Magnesium and articles thereof, including waste and scrap.",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "81041100",
+   "hs6": "810411",
+   "hs6_description": "Magnesium; unwrought, containing at least 99.8% by weight of magnesium",
    "level": 8,
    "chapter": "81",
    "description": "Unwrought magnesium : -- Containing at least 99.8 percent by weight of magnesium",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "81041900",
+   "hs6": "810419",
+   "hs6_description": "Magnesium; unwrought, containing less than 99.8% by weight of magnesium",
    "level": 8,
    "chapter": "81",
    "description": "Unwrought magnesium : -- Other",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "810420",
+   "hs6": "810420",
+   "hs6_description": "Magnesium; waste and scrap",
    "level": 6,
    "chapter": "81",
    "description": "Waste and scrap",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "81042010",
+   "hs6": "810420",
+   "hs6_description": "Magnesium; waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Magnesium scrap, namely the following: Magnesium clips covered by ISRI code word Wafer; Magnesium scrap covered by ISRI code word Walnut; Magnesium engraver plates covered by ISRI code word Wine; Magnesium dock boards covered by ISIR code word Wood; Magnesium turnings covered by ISRI code word World.",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "81042090",
+   "hs6": "810420",
+   "hs6_description": "Magnesium; waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "810430",
+   "hs6": "810430",
+   "hs6_description": "Magnesium; raspings, turnings and granules, graded according to size, powders",
    "level": 6,
    "chapter": "81",
    "description": "Raspings, turnings and granules, graded according to size; powders",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "81043010",
+   "hs6": "810430",
+   "hs6_description": "Magnesium; raspings, turnings and granules, graded according to size, powders",
    "level": 8,
    "chapter": "81",
    "description": "Raspings, turnings and granules graded according to size",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "81043020",
+   "hs6": "810430",
+   "hs6_description": "Magnesium; raspings, turnings and granules, graded according to size, powders",
    "level": 8,
    "chapter": "81",
    "description": "Powders",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "810490",
+   "hs6": "810490",
+   "hs6_description": "Magnesium; articles n.e.c. in heading no. 8104",
    "level": 6,
    "chapter": "81",
    "description": "Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "81049010",
+   "hs6": "810490",
+   "hs6_description": "Magnesium; articles n.e.c. in heading no. 8104",
    "level": 8,
    "chapter": "81",
    "description": "Other magnesium and magnesium base alloys, wrought",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "81049020",
+   "hs6": "810490",
+   "hs6_description": "Magnesium; articles n.e.c. in heading no. 8104",
    "level": 8,
    "chapter": "81",
    "description": "Flakes",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "81049030",
+   "hs6": "810490",
+   "hs6_description": "Magnesium; articles n.e.c. in heading no. 8104",
    "level": 8,
    "chapter": "81",
    "description": "Wire",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "81049090",
+   "hs6": "810490",
+   "hs6_description": "Magnesium; articles n.e.c. in heading no. 8104",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "8105",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "81",
    "description": "Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap.",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "810520",
+   "hs6": "810520",
+   "hs6_description": "Cobalt; mattes and other intermediate products of cobalt metallurgy, unwrought cobalt, powders",
    "level": 6,
    "chapter": "81",
    "description": "Cobalt mattes and other intermediate products of cobalt metallurgy; unwrought cobalt; powders",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "81052010",
+   "hs6": "810520",
+   "hs6_description": "Cobalt; mattes and other intermediate products of cobalt metallurgy, unwrought cobalt, powders",
    "level": 8,
    "chapter": "81",
    "description": "Cobalt mattes and other intermediate products of cobalt metallurgy",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "81052020",
+   "hs6": "810520",
+   "hs6_description": "Cobalt; mattes and other intermediate products of cobalt metallurgy, unwrought cobalt, powders",
    "level": 8,
    "chapter": "81",
    "description": "Cobalt unwrought",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "81052030",
+   "hs6": "810520",
+   "hs6_description": "Cobalt; mattes and other intermediate products of cobalt metallurgy, unwrought cobalt, powders",
    "level": 8,
    "chapter": "81",
    "description": "Powders",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "81053000",
+   "hs6": "810530",
+   "hs6_description": "Cobalt; waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Waste and scrap",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "81059000",
+   "hs6": "810590",
+   "hs6_description": "Cobalt; articles n.e.c. in heading no. 8105",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "8106",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "81",
    "description": "Bismuth and articles thereof, including waste and scrap.",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "810610",
+   "hs6": "810610",
+   "hs6_description": "Bismuth; articles thereof, including waste and scrap, containing more than 99.99% of bismuth, by weight",
    "level": 6,
    "chapter": "81",
    "description": "Containing more than 99.99 % of bismuth, by weight:",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "81061010",
+   "hs6": "810610",
+   "hs6_description": "Bismuth; articles thereof, including waste and scrap, containing more than 99.99% of bismuth, by weight",
    "level": 8,
    "chapter": "81",
    "description": "Bismuth, unwrought",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "81061020",
+   "hs6": "810610",
+   "hs6_description": "Bismuth; articles thereof, including waste and scrap, containing more than 99.99% of bismuth, by weight",
    "level": 8,
    "chapter": "81",
    "description": "Article of bismuth",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "81061090",
+   "hs6": "810610",
+   "hs6_description": "Bismuth; articles thereof, including waste and scrap, containing more than 99.99% of bismuth, by weight",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "810690",
+   "hs6": "810690",
+   "hs6_description": "Bismuth; including articles n.e.c. in heading 8106, including waste and scrap, containing less than or equal to 99.99% of bismuth, by weight",
    "level": 6,
    "chapter": "81",
    "description": "Other:",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "81069010",
+   "hs6": "810690",
+   "hs6_description": "Bismuth; including articles n.e.c. in heading 8106, including waste and scrap, containing less than or equal to 99.99% of bismuth, by weight",
    "level": 8,
    "chapter": "81",
    "description": "Waste and scrap of bismuth and bismuth alloys",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "81069090",
+   "hs6": "810690",
+   "hs6_description": "Bismuth; including articles n.e.c. in heading 8106, including waste and scrap, containing less than or equal to 99.99% of bismuth, by weight",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "8108",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "81",
    "description": "Titanium and articles thereof, including waste and scrap.",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "81082000",
+   "hs6": "810820",
+   "hs6_description": "Titanium; unwrought, powders",
    "level": 8,
    "chapter": "81",
    "description": "Unwrought titanium; powders",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "81083000",
+   "hs6": "810830",
+   "hs6_description": "Titanium; waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Waste and scrap",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "810890",
+   "hs6": "810890",
+   "hs6_description": "Titanium; other than unwrought, n.e.c. in heading no. 8108",
    "level": 6,
    "chapter": "81",
    "description": "Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "81089010",
+   "hs6": "810890",
+   "hs6_description": "Titanium; other than unwrought, n.e.c. in heading no. 8108",
    "level": 8,
    "chapter": "81",
    "description": "Titanium, wrought",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "81089090",
+   "hs6": "810890",
+   "hs6_description": "Titanium; other than unwrought, n.e.c. in heading no. 8108",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "81092100",
+   "hs6": "810921",
+   "hs6_description": "Zirconium; unwrought, powders, containing less than 1 part hafnium to 500 parts zirconium by weight",
    "level": 8,
    "chapter": "81",
    "description": "Unwrought zirconium; powders: - - Containing less than 1 part hafnium to 500 parts zirconium by weight",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "81092900",
+   "hs6": "810929",
+   "hs6_description": "Zirconium; unwrought, powders, containing not less than 1 part hafnium to 500 parts zirconium by weight",
    "level": 8,
    "chapter": "81",
    "description": "Unwrought zirconium; powders: - - Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "81093100",
+   "hs6": "810931",
+   "hs6_description": "Zirconium; waste and scrap, containing less than 1 part hafnium to 500 parts zirconium by weight",
    "level": 8,
    "chapter": "81",
    "description": "Waste and scrap: - - Containing less than 1 part hafnium to 500 parts zirconium by weight",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "81093900",
+   "hs6": "810939",
+   "hs6_description": "Zirconium; waste and scrap, containing not less than 1 part hafnium to 500 parts zirconium by weight",
    "level": 8,
    "chapter": "81",
    "description": "Waste and scrap: - - Other",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "81099100",
+   "hs6": "810991",
+   "hs6_description": "Zirconium; other than unwrought, n.e.c. in heading no. 8109, containing less than 1 part hafnium to 500 parts zirconium by weight",
    "level": 8,
    "chapter": "81",
    "description": "Other: - - Containing less than 1 part hafnium to 500 parts zirconium by weight",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "81099900",
+   "hs6": "810999",
+   "hs6_description": "Zirconium; other than unwrought, n.e.c. in heading no. 8109, containing not less than 1 part hafnium to 500 parts zirconium by weight",
    "level": 8,
    "chapter": "81",
    "description": "Other: - - Other",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "8110",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "81",
    "description": "Antimony and articles thereof, including waste and scrap.",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "81101000",
+   "hs6": "811010",
+   "hs6_description": "Antimony and articles thereof; unwrought antimony, powders",
    "level": 8,
    "chapter": "81",
    "description": "Unwrought antimony; powders",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "81102000",
+   "hs6": "811020",
+   "hs6_description": "Antimony; waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Waste and scrap",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "81109000",
+   "hs6": "811090",
+   "hs6_description": "Antimony and articles thereof; wrought, other than waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "8111",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "81",
    "description": "Manganese and articles thereof, including waste and scrap.",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "811100",
+   "hs6": "811100",
+   "hs6_description": "Manganese; articles thereof, including waste and scrap",
    "level": 6,
    "chapter": "81",
    "description": "Manganese and articlesthereof, including waste and scrap",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "81110010",
+   "hs6": "811100",
+   "hs6_description": "Manganese; articles thereof, including waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Unwrought manganese and manganese base alloys",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "81110020",
+   "hs6": "811100",
+   "hs6_description": "Manganese; articles thereof, including waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Waste and scrap of manganese base alloys",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "81110030",
+   "hs6": "811100",
+   "hs6_description": "Manganese; articles thereof, including waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Wrought manganese",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "81110090",
+   "hs6": "811100",
+   "hs6_description": "Manganese; articles thereof, including waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "8112",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "81",
    "description": "BERYLLIUM, CHROMIUM, HAFNIUM, RHENIUM, THALLIUM, CADMIUM, GERMANIUM, VANADIUM, GALLIUM, INDIUM AND NIOBIUM (COLUMBIUM AND) AND ARTICLES OF THESE METALS, INCLUDING WASTE AND SCRAP;",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "81121200",
+   "hs6": "811212",
+   "hs6_description": "Beryllium and articles thereof; unwrought beryllium, powders",
    "level": 8,
    "chapter": "81",
    "description": "Beryllium : -- Unwrought; powders",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "81121300",
+   "hs6": "811213",
+   "hs6_description": "Beryllium; waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Beryllium : -- Waste and scrap",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "81121900",
+   "hs6": "811219",
+   "hs6_description": "Beryllium and articles thereof; wrought other than waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Beryllium : -- Other",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "81122100",
+   "hs6": "811221",
+   "hs6_description": "Chromium and articles thereof; unwrought chromium, powders",
    "level": 8,
    "chapter": "81",
    "description": "Chromium : -- Unwrought; powders",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "81122200",
+   "hs6": "811222",
+   "hs6_description": "Chromium; waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Chromium : -- Waste and scrap",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "81122900",
+   "hs6": "811229",
+   "hs6_description": "Chromium and articles thereof; wrought other than waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Chromium : -- Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "811231",
+   "hs6": "811231",
+   "hs6_description": "Hafnium and articles thereof; unwrought, powders, waste and scrap",
    "level": 6,
    "chapter": "81",
    "description": "Hafnium: - - Unwrought; waste and scrap; powders:",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "81123110",
+   "hs6": "811231",
+   "hs6_description": "Hafnium and articles thereof; unwrought, powders, waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Hafnium: - - - Unwrought",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "81123120",
+   "hs6": "811231",
+   "hs6_description": "Hafnium and articles thereof; unwrought, powders, waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Hafnium: - - - Waste and scrap",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "81123130",
+   "hs6": "811231",
+   "hs6_description": "Hafnium and articles thereof; unwrought, powders, waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Hafnium: - - - Powders",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "81123900",
+   "hs6": "811239",
+   "hs6_description": "Hafnium and articles thereof; wrought, other than powders, waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Hafnium: - - Other",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "811241",
+   "hs6": "811241",
+   "hs6_description": "Rhenium and articles thereof; unwrought, powders, waste and scrap",
    "level": 6,
    "chapter": "81",
    "description": "Rhenium: - - Unwrought; waste and scrap; powders:",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "81124110",
+   "hs6": "811241",
+   "hs6_description": "Rhenium and articles thereof; unwrought, powders, waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Rhenium: - - - Unwrought",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "81124120",
+   "hs6": "811241",
+   "hs6_description": "Rhenium and articles thereof; unwrought, powders, waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Rhenium: - - - Waste and scrap",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "81124130",
+   "hs6": "811241",
+   "hs6_description": "Rhenium and articles thereof; unwrought, powders, waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Rhenium: - - - Powders",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "81124900",
+   "hs6": "811249",
+   "hs6_description": "Rhenium and articles thereof; wrought, other than powders, waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Rhenium: - - Other",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "81125100",
+   "hs6": "811251",
+   "hs6_description": "Thallium and articles thereof; unwrought thallium, powders",
    "level": 8,
    "chapter": "81",
    "description": "Thallium : -- Unwrought; powders",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "81125200",
+   "hs6": "811252",
+   "hs6_description": "Thallium; waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Thallium : -- Waste and scrap",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "81125900",
+   "hs6": "811259",
+   "hs6_description": "Thallium and articles thereof; other than unwrought thallium, powders or waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Thallium : -- Other",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "81126100",
+   "hs6": "811261",
+   "hs6_description": "Cadmium; waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Cadmium: - - Waste and scrap",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "81126910",
+   "hs6": "811269",
+   "hs6_description": "Cadmium; other than waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Cadmium, unwrought; Powders",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "81126920",
+   "hs6": "811269",
+   "hs6_description": "Cadmium; other than waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Cadmium, wrought",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "81126990",
+   "hs6": "811269",
+   "hs6_description": "Cadmium; other than waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "81129200",
+   "hs6": "811292",
+   "hs6_description": "Gallium, germanium, indium, niobium (columbium) and vanadium; articles thereof, unwrought, including waste and scrap, powders",
    "level": 8,
    "chapter": "81",
    "description": "Other : -- Unwrought; waste and scrap; powders",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "81129900",
+   "hs6": "811299",
+   "hs6_description": "Gallium, germanium, indium, niobium (columbium) and vanadium; articles thereof, other than unwrought including waste and scrap and powders",
    "level": 8,
    "chapter": "81",
    "description": "Other : -- Other",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "8113",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "81",
    "description": "Cermets and articles thereof, including waste and scrap.",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "811300",
+   "hs6": "811300",
+   "hs6_description": "Cermets; articles thereof, including waste and scrap",
    "level": 6,
    "chapter": "81",
    "description": "Cermets and articles thereof, including waste and scrap :",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "81130010",
+   "hs6": "811300",
+   "hs6_description": "Cermets; articles thereof, including waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Unwrought cermets",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "81130020",
+   "hs6": "811300",
+   "hs6_description": "Cermets; articles thereof, including waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Waste and scrap of cermets",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "81130030",
+   "hs6": "811300",
+   "hs6_description": "Cermets; articles thereof, including waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Articles of cermets",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "81130090",
+   "hs6": "811300",
+   "hs6_description": "Cermets; articles thereof, including waste and scrap",
    "level": 8,
    "chapter": "81",
    "description": "Other",

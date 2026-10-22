@@ -1,131 +1,131 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-0701,4,07,"Potatoes, fresh or chilled.",,,,,,2026-10-22
-07011000,8,07,Seed,Restricted,"Import permitted for sowing or planting without a licence in accordance with an import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-07019000,8,07,Other,Restricted,"Import of Potatoes from Bhutan is permitted freely, without any license, up to 30th June,2027.",,20/2024-25,2024-07-05,2026-10-22
-07020000,8,07,"Tomatoes, fresh or chilled.",Free,,,,,2026-10-22
-0703,4,07,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",,,,,,2026-10-22
-070310,6,07,Onions and shallots,,,,,,2026-10-22
-07031011,8,07,Onions: ----Rose onion,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-07031019,8,07,Onions: ----Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-07031020,8,07,Shallots,Free,,,,,2026-10-22
-07032000,8,07,Garlic,Free,,,,,2026-10-22
-07039000,8,07,Leeks and other alliaceous vegetables,Free,,,,,2026-10-22
-0704,4,07,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",,,,,,2026-10-22
-07041000,8,07,- Cauliflowers and broccoli,Free,,,,,2026-10-22
-07042000,8,07,Brussels sprouts,Free,,,,,2026-10-22
-07049000,8,07,Other,Free,,,,,2026-10-22
-0705,4,07,"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled.",,,,,,2026-10-22
-07051100,8,07,Lettuce : -- Cabbage lettuce (head lettuce),Free,,,,,2026-10-22
-07051900,8,07,Lettuce : -- Other,Free,,,,,2026-10-22
-07052100,8,07,Chicory : --Witloof chicory (Cichorium intybus var. foliosum),Free,,,,,2026-10-22
-07052900,8,07,Chicory : --Other,Free,,,,,2026-10-22
-0706,4,07,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.",,,,,,2026-10-22
-07061000,8,07,Carrots and turnips,Free,,,,,2026-10-22
-070690,6,07,Other,,,,,,2026-10-22
-07069010,8,07,Horse radish,Free,,,,,2026-10-22
-07069020,8,07,Other Radish,Free,,,,,2026-10-22
-07069030,8,07,Salad beetroot,Free,,,,,2026-10-22
-07069090,8,07,Other,Free,,,,,2026-10-22
-07070000,8,07,"Cucumbers and gherkins, fresh or chilled.",Free,,,,,2026-10-22
-0708,4,07,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",,,,,,2026-10-22
-07081000,8,07,Peas (Pisum sativum),Free,,,,,2026-10-22
-07082000,8,07,"Beans (Vigna spp., Phaseolus spp.)",Free,,,,,2026-10-22
-07089000,8,07,Other leguminous vegetables,Free,,,,,2026-10-22
-0709,4,07,"Other vegetables, fresh or chilled.",,,,,,2026-10-22
-07092000,8,07,Asparagus,Free,,,,,2026-10-22
-07093000,8,07,Aubergines (egg-plants),Free,,,,,2026-10-22
-07094000,8,07,Celery other than celeriac,Free,,,,,2026-10-22
-07095100,8,07,Mushrooms and truffles : -- Mushrooms of the genus Agaricus,Free,,,,,2026-10-22
-07095200,8,07,Mushrooms and truffles:- - Mushrooms of the genus Boletus,Free,,,54/2015-2020,2022-02-09,2026-10-22
-07095300,8,07,Mushrooms and truffles:- - Mushrooms of the genus Cantharellus,Free,,,54/2015-2020,2022-02-09,2026-10-22
-07095400,8,07,Mushrooms and truffles:- - Shiitake (Lentinus edodes),Free,,,54/2015-2020,2022-01-09,2026-10-22
-07095500,8,07,"Mushrooms and truffles:- - Matsutake (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum)",Free,,,54/2015-2020,2022-02-09,2026-10-22
-07095600,8,07,Mushrooms and truffles:- - Truffles (Tuber spp.),Free,,,54/2015-2020,2022-02-09,2026-10-22
-07095900,8,07,Mushrooms and truffles : -- Other,Free,,,,,2026-10-22
-070960,6,07,Fruits of the genus Capsicum or of the genus Pimenta,,,,,,2026-10-22
-07096010,8,07,Green chilly,Free,,,,,2026-10-22
-07096090,8,07,Other,Free,,,,,2026-10-22
-07097000,8,07,"Spinach, New Zealand spinach and orache spinach (garden spinach)",Free,,,,,2026-10-22
-07099100,8,07,Other : -- Globe artichokes,Free,,,,,2026-10-22
-07099200,8,07,Other : -- Olives,Free,,,,,2026-10-22
-070993,6,07,"Other: -- Pumpkins, squash and gourds (Cucurbita spp.)",,,,,,2026-10-22
-07099310,8,07,Pumpkins,Free,,,,,2026-10-22
-07099320,8,07,Squash,Free,,,,,2026-10-22
-07099330,8,07,Bitter gourd,Free,,,,,2026-10-22
-07099340,8,07,Bottle gourd,Free,,,,,2026-10-22
-07099350,8,07,Snake gourd,Free,,,,,2026-10-22
-07099360,8,07,Coccinia (Kundru),Free,,,,,2026-10-22
-07099390,8,07,Other,Free,,,,,2026-10-22
-070999,6,07,Other : -- Other,,,,,,2026-10-22
-07099910,8,07,Green Pepper,Free,,,,,2026-10-22
-07099930,8,07,Okra/lady finger (Bhindi),Free,,,,,2026-10-22
-07099990,8,07,Other,Free,,,,,2026-10-22
-0710,4,07,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",,,,,,2026-10-22
-07101000,8,07,Potatoes,Free,,,,,2026-10-22
-07102100,8,07,"Leguminous vegetables, shelled or unshelled : -- Peas (Pisum sativum)",Free,,,,,2026-10-22
-07102200,8,07,"Leguminous vegetables, shelled or unshelled : -- Beans (Vigna spp., Phaseolus spp.)",Free,,,,,2026-10-22
-07102900,8,07,"Leguminous vegetables, shelled or unshelled : -- Other",Free,,,,,2026-10-22
-07103000,8,07,"Spinach, New Zealand spinach and orache spinach (garden spinach)",Free,,,,,2026-10-22
-07104000,8,07,Sweet corn,Free,,,,,2026-10-22
-071080,6,07,Other vegetables,,,,,,2026-10-22
-07108010,8,07,Terragon,Free,,,,,2026-10-22
-07108090,8,07,Other,Free,,,,,2026-10-22
-07109000,8,07,Mixtures of vegetables,Free,,,,,2026-10-22
-0711,4,07,"VEGETABLES PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION",,,,,,2026-10-22
-07112000,8,07,Olives,Free,,,,,2026-10-22
-07114000,8,07,Cucumbers and gherkins,Free,,,,,2026-10-22
-07115100,8,07,Mushrooms and truffles : -- Mushrooms of the genus Agaricus,Free,,,,,2026-10-22
-07115900,8,07,Mushrooms and truffles : -- Other,Free,,,,,2026-10-22
-071190,6,07,Other vegetables; mixtures of vegetables,,,,,,2026-10-22
-07119010,8,07,Green pepper in brine,Free,,,,,2026-10-22
-07119020,8,07,Assorted canned vegetables,Free,,,,,2026-10-22
-07119090,8,07,Other,Free,,,,,2026-10-22
-0712,4,07,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",,,,,,2026-10-22
-07122000,8,07,Onions,Free,,,,,2026-10-22
-07123100,8,07,"Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : -- Mushrooms of the genus lgaricus",Free,,,,,2026-10-22
-07123200,8,07,"Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : -- Wood ears (Auricularia spp.)",Free,,,,,2026-10-22
-07123300,8,07,"Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : -- Jelly fungi (Tremella spp.)",Free,,,,,2026-10-22
-07123400,8,07,"Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : - - Shiitake (Lentinus edodes)",Free,,,54/2015-2020,2022-02-09,2026-10-22
-07123900,8,07,"Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : -- Other",Free,,,,,2026-10-22
-071290,6,07,Other vegetables; mixtures of vegetables,,,,,,2026-10-22
-07129010,8,07,Asparagus,Free,,,,,2026-10-22
-07129020,8,07,Dehydrated garlic powder,Free,,,,,2026-10-22
-07129030,8,07,Dehydrated garlic flakes,Free,,,,,2026-10-22
-07129040,8,07,Dried garlic,Free,,,,,2026-10-22
-07129050,8,07,"Marjoram, Oregano",Free,,,,,2026-10-22
-07129060,8,07,Potatoes,Free,,,,,2026-10-22
-07129090,8,07,Other,Free,,,,,2026-10-22
-0713,4,07,"Dried leguminous vegetables, shelled, whether or not skinned or split.",,,,,,2026-10-22
-071310,6,07,Peas (Pisum sativum),,,,,,2026-10-22
-07131010,8,07,Yellow peas,Free,"a) Import is ‘Free’ without the MIP condition and without Port Restriction, for Import consignments where Bill of Lading (Shipped on Board) has been issued on or before 31st March, 2027. b) Imports where Bill of Lading (Shipped on Board) is issued after 31st March, 2027 shall be ‘Restricted’ and associated Import Policy Conditions as existing prior to the DGFT Notification 50/2023 dated 08.12.2023 shall come into force. c) All imports of Yellow Peas where Bill of Lading (Shipped on Board) is dated on or before 31st March, 2027 shall be subject to compulsory registration under the online Import Monitoring System.",,70/2025-26,2026-03-31,2026-10-22
-07131020,8,07,Green peas,Restricted,Import shall subject to Minimum Import Price (MIP) of Rs. 200/- and above CIF per kilogram and import is allowed through Kolkata sea port only. This Restriction shall not apply to Governments import commitments under any Bilateral or Regional Agreement or Memorandum of Understanding,,"S.O. 1225(E) , S.O.1260(E)",2020-04-16,2026-10-22
-07131090,8,07,Other,Restricted,Import shall be subject to Minimum Import Price (MIP) of Rs. 200/- and above CIF per kilogram and import is allowed through Kolkata sea port only. This Restriction shall not apply to Governments import commitments under any Bilateral or Regional Agreement or Memorandum of Understanding,,"S.O. 1225(E) , S.O.1260(E)",2020-04-16,2026-10-22
-071320,6,07,Chickpeas (garbanzos):,,,,,,2026-10-22
-07132010,8,07,Kabuli chana,Free,,,,,2026-10-22
-07132020,8,07,Bengal gram (desi chana),Free,,,,,2026-10-22
-07132090,8,07,Other,Free,,,,,2026-10-22
-071331,6,07,"Beans (Vigna spp., Phaseolus spp.) : -- Beans of the species Vigna mungo (L.) Hepper or Vigna radiata (L.) Wilczek",,,,,,2026-10-22
-07133110,8,07,Beans of the species Vigna mungo (L.) Hepper,Free,Import is 'Free' up to 31.03.2027.,,71/2025-26,2026-03-31,2026-10-22
-07133190,8,07,Beans of the species Vigna radiata (L.) Wilczek,Restricted,,,S.O. 624(E),2022-02-11,2026-10-22
-07133200,8,07,"Beans (Vigna spp., Phaseolus spp.):- Small red (Adzuki) beans (Phaseolus or Vigna angularis)",Free,,,,,2026-10-22
-07133300,8,07,"Beans (Vigna spp., Phaseolus spp.):-- Kidney beans, including white pea beans (Phaseolus vulgaris)",Free,,,,,2026-10-22
-07133400,8,07,"Beans (Vigna spp., Phaseolus spp.):-- Bambara beans (Vigna subterranea or Voandzeia subterranea)",Free,,,,,2026-10-22
-07133500,8,07,"Beans (Vigna spp., Phaseolus spp.):-- Cow peas (Vigna unguiculata)",Free,,,,,2026-10-22
-071339,6,07,"Beans (Vigna spp., Phaseolus spp.):-- Other",,,,,,2026-10-22
-07133910,8,07,Guar Seeds,Free,,,,,2026-10-22
-07133990,8,07,Other,Free,,,,,2026-10-22
-07134000,8,07,Lentils,Free,,,,,2026-10-22
-07135000,8,07,"Broad beans (Vicia faba var. major) and horse beans (Vicia faba var. equina, Vicia faba var. minor)",Free,,,,,2026-10-22
-07136000,8,07,Pigeon peas (Cajanus cajan),Free,Import is 'Free' up to 31.03.2027.,,72/2025-26,2026-03-31,2026-10-22
-071390,6,07,Other,,,,,,2026-10-22
-07139010,8,07,Split,Restricted,Import shall be subject to the annual (fiscal year) quota 4 lakh MTs each for Toor and Urad and 1.5 lakh MTs of Moong as per the procedure to be notified. This restriction will not apply to Governments import commitments under any bilateral/ regional Agreement/ MoU.,,"S.O. 1122(E) , S.O. 1605(E)","17/03/2020 , 22/05/2020",2026-10-22
-07139090,8,07,Other,Restricted,Import shall be subject to the annual (fiscal year) quota 4 lakh MTs each for Toor and Urad and 1.5 lakh MTs of Moong as per the procedure to be notified. This restriction will not apply to Governments import commitments under any bilateral/ regional Agreement/ MoU.,,"S.O. 1122(E) , S.O. 1605(E)","17/03/2020 , 22/05/2020",2026-10-22
-0714,4,07,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",,,,,,2026-10-22
-07141000,8,07,Manioc (cassava),Free,,,,,2026-10-22
-07142000,8,07,Sweet potatoes,Free,,,,,2026-10-22
-07143000,8,07,Yams (Dioscorea spp.),Free,,,,,2026-10-22
-07144000,8,07,Taro (Colocasia spp.),Free,,,,,2026-10-22
-07145000,8,07,Yautia (Xanthosoma spp.),Free,,,,,2026-10-22
-071490,6,07,Other,,,,,,2026-10-22
-07149010,8,07,Sago pith,Free,,,,,2026-10-22
-07149090,8,07,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+0701,,,4,07,"Potatoes, fresh or chilled.",,,,,,2026-10-22
+07011000,070110,"Vegetables; seed potatoes, fresh or chilled",8,07,Seed,Restricted,"Import permitted for sowing or planting without a licence in accordance with an import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+07019000,070190,"Vegetables; potatoes (other than seed), fresh or chilled",8,07,Other,Restricted,"Import of Potatoes from Bhutan is permitted freely, without any license, up to 30th June,2027.",,20/2024-25,2024-07-05,2026-10-22
+07020000,070200,"Vegetables; tomatoes, fresh or chilled",8,07,"Tomatoes, fresh or chilled.",Free,,,,,2026-10-22
+0703,,,4,07,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",,,,,,2026-10-22
+070310,070310,"Vegetables, alliaceous; onions and shallots, fresh or chilled",6,07,Onions and shallots,,,,,,2026-10-22
+07031011,070310,"Vegetables, alliaceous; onions and shallots, fresh or chilled",8,07,Onions: ----Rose onion,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+07031019,070310,"Vegetables, alliaceous; onions and shallots, fresh or chilled",8,07,Onions: ----Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+07031020,070310,"Vegetables, alliaceous; onions and shallots, fresh or chilled",8,07,Shallots,Free,,,,,2026-10-22
+07032000,070320,"Vegetables, alliaceous; garlic, fresh or chilled",8,07,Garlic,Free,,,,,2026-10-22
+07039000,070390,"Vegetables, alliaceous; leeks and other kinds n.e.c. in heading no. 0703, fresh or chilled",8,07,Leeks and other alliaceous vegetables,Free,,,,,2026-10-22
+0704,,,4,07,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",,,,,,2026-10-22
+07041000,070410,"Vegetables, brassica; cauliflowers and broccoli, fresh or chilled",8,07,- Cauliflowers and broccoli,Free,,,,,2026-10-22
+07042000,070420,"Vegetables, brassica; brussel sprouts, fresh or chilled",8,07,Brussels sprouts,Free,,,,,2026-10-22
+07049000,070490,"Vegetables, brassica; edible, n.e.c. in heading no. 0704, fresh or chilled",8,07,Other,Free,,,,,2026-10-22
+0705,,,4,07,"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled.",,,,,,2026-10-22
+07051100,070511,"Vegetables; cabbage (head) lettuce (lactuca sativa), fresh or chilled",8,07,Lettuce : -- Cabbage lettuce (head lettuce),Free,,,,,2026-10-22
+07051900,070519,"Vegetables; lettuce (lactuca sativa), (other than cabbage lettuce), fresh or chilled",8,07,Lettuce : -- Other,Free,,,,,2026-10-22
+07052100,070521,"Vegetables; witloff chicory (cichorium intybus var. foliosum), fresh or chilled",8,07,Chicory : --Witloof chicory (Cichorium intybus var. foliosum),Free,,,,,2026-10-22
+07052900,070529,"Vegetables; chicory (cichorium spp.), (other than witloof chicory), fresh or chilled",8,07,Chicory : --Other,Free,,,,,2026-10-22
+0706,,,4,07,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.",,,,,,2026-10-22
+07061000,070610,"Vegetables, root; carrots and turnips, fresh or chilled",8,07,Carrots and turnips,Free,,,,,2026-10-22
+070690,070690,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",6,07,Other,,,,,,2026-10-22
+07069010,070690,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",8,07,Horse radish,Free,,,,,2026-10-22
+07069020,070690,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",8,07,Other Radish,Free,,,,,2026-10-22
+07069030,070690,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",8,07,Salad beetroot,Free,,,,,2026-10-22
+07069090,070690,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",8,07,Other,Free,,,,,2026-10-22
+07070000,070700,"Vegetables; cucumbers and gherkins, fresh or chilled",8,07,"Cucumbers and gherkins, fresh or chilled.",Free,,,,,2026-10-22
+0708,,,4,07,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",,,,,,2026-10-22
+07081000,070810,"Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, fresh or chilled",8,07,Peas (Pisum sativum),Free,,,,,2026-10-22
+07082000,070820,"Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, fresh or chilled",8,07,"Beans (Vigna spp., Phaseolus spp.)",Free,,,,,2026-10-22
+07089000,070890,"Vegetables, leguminous; (other than peas and beans), shelled or unshelled, fresh or chilled",8,07,Other leguminous vegetables,Free,,,,,2026-10-22
+0709,,,4,07,"Other vegetables, fresh or chilled.",,,,,,2026-10-22
+07092000,070920,"Vegetables; asparagus, fresh or chilled",8,07,Asparagus,Free,,,,,2026-10-22
+07093000,070930,"Vegetables; aubergines, (e.g. plants), fresh or chilled",8,07,Aubergines (egg-plants),Free,,,,,2026-10-22
+07094000,070940,"Vegetables; celery (other than celeriac), fresh or chilled",8,07,Celery other than celeriac,Free,,,,,2026-10-22
+07095100,070951,"Vegetables; mushrooms of the genus Agaricus, fresh or chilled",8,07,Mushrooms and truffles : -- Mushrooms of the genus Agaricus,Free,,,,,2026-10-22
+07095200,070952,"Vegetables; mushrooms of the genus Boletus, fresh or chilled",8,07,Mushrooms and truffles:- - Mushrooms of the genus Boletus,Free,,,54/2015-2020,2022-02-09,2026-10-22
+07095300,070953,"Vegetables; mushrooms of the genus Cantharellus, fresh or chilled",8,07,Mushrooms and truffles:- - Mushrooms of the genus Cantharellus,Free,,,54/2015-2020,2022-02-09,2026-10-22
+07095400,070954,"Vegetables; shiitake mushrooms (Lentinus edodes), fresh or chilled",8,07,Mushrooms and truffles:- - Shiitake (Lentinus edodes),Free,,,54/2015-2020,2022-01-09,2026-10-22
+07095500,070955,"Vegetables; matsutake mushrooms (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum), fresh or chilled",8,07,"Mushrooms and truffles:- - Matsutake (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum)",Free,,,54/2015-2020,2022-02-09,2026-10-22
+07095600,070956,"Vegetables; truffles (Tuber spp.), fresh or chilled",8,07,Mushrooms and truffles:- - Truffles (Tuber spp.),Free,,,54/2015-2020,2022-02-09,2026-10-22
+07095900,070959,"Vegetables; truffles and mushrooms n.e.c. in heading 0709, fresh or chilled",8,07,Mushrooms and truffles : -- Other,Free,,,,,2026-10-22
+070960,070960,"Vegetables; fruits of the genus capsicum or of the genus pimenta, fresh or chilled",6,07,Fruits of the genus Capsicum or of the genus Pimenta,,,,,,2026-10-22
+07096010,070960,"Vegetables; fruits of the genus capsicum or of the genus pimenta, fresh or chilled",8,07,Green chilly,Free,,,,,2026-10-22
+07096090,070960,"Vegetables; fruits of the genus capsicum or of the genus pimenta, fresh or chilled",8,07,Other,Free,,,,,2026-10-22
+07097000,070970,"Vegetables; spinach, New Zealand spinach and orache spinach (garden spinach), fresh or chilled",8,07,"Spinach, New Zealand spinach and orache spinach (garden spinach)",Free,,,,,2026-10-22
+07099100,070991,"Vegetables; globe artichokes, fresh or chilled",8,07,Other : -- Globe artichokes,Free,,,,,2026-10-22
+07099200,070992,"Vegetables; olives, fresh or chilled",8,07,Other : -- Olives,Free,,,,,2026-10-22
+070993,070993,"Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",6,07,"Other: -- Pumpkins, squash and gourds (Cucurbita spp.)",,,,,,2026-10-22
+07099310,070993,"Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",8,07,Pumpkins,Free,,,,,2026-10-22
+07099320,070993,"Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",8,07,Squash,Free,,,,,2026-10-22
+07099330,070993,"Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",8,07,Bitter gourd,Free,,,,,2026-10-22
+07099340,070993,"Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",8,07,Bottle gourd,Free,,,,,2026-10-22
+07099350,070993,"Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",8,07,Snake gourd,Free,,,,,2026-10-22
+07099360,070993,"Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",8,07,Coccinia (Kundru),Free,,,,,2026-10-22
+07099390,070993,"Vegetables; pumpkins, squash and gourds (Cucurbita spp.), fresh or chilled",8,07,Other,Free,,,,,2026-10-22
+070999,070999,"Vegetables; edible, n.e.c. in chapter 07, fresh or chilled",6,07,Other : -- Other,,,,,,2026-10-22
+07099910,070999,"Vegetables; edible, n.e.c. in chapter 07, fresh or chilled",8,07,Green Pepper,Free,,,,,2026-10-22
+07099930,070999,"Vegetables; edible, n.e.c. in chapter 07, fresh or chilled",8,07,Okra/lady finger (Bhindi),Free,,,,,2026-10-22
+07099990,070999,"Vegetables; edible, n.e.c. in chapter 07, fresh or chilled",8,07,Other,Free,,,,,2026-10-22
+0710,,,4,07,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",,,,,,2026-10-22
+07101000,071010,"Vegetables; potatoes, uncooked or cooked by steaming or boiling in water, frozen",8,07,Potatoes,Free,,,,,2026-10-22
+07102100,071021,"Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, uncooked or cooked by steaming or boiling in water, frozen",8,07,"Leguminous vegetables, shelled or unshelled : -- Peas (Pisum sativum)",Free,,,,,2026-10-22
+07102200,071022,"Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, uncooked or cooked by steaming or boiling in water, frozen",8,07,"Leguminous vegetables, shelled or unshelled : -- Beans (Vigna spp., Phaseolus spp.)",Free,,,,,2026-10-22
+07102900,071029,"Vegetables, leguminous; (other than peas or beans), shelled or unshelled, uncooked or cooked by steaming or boiling in water, frozen",8,07,"Leguminous vegetables, shelled or unshelled : -- Other",Free,,,,,2026-10-22
+07103000,071030,"Vegetables; spinach, New Zealand spinach and orache spinach (garden spinach), uncooked or cooked by steaming or boiling in water, frozen",8,07,"Spinach, New Zealand spinach and orache spinach (garden spinach)",Free,,,,,2026-10-22
+07104000,071040,"Vegetables; sweetcorn, uncooked or cooked by steaming or boiling in water, frozen",8,07,Sweet corn,Free,,,,,2026-10-22
+071080,071080,"Vegetables; uncooked or cooked by steaming or boiling in water, n.e.c. in heading no. 0710, frozen",6,07,Other vegetables,,,,,,2026-10-22
+07108010,071080,"Vegetables; uncooked or cooked by steaming or boiling in water, n.e.c. in heading no. 0710, frozen",8,07,Terragon,Free,,,,,2026-10-22
+07108090,071080,"Vegetables; uncooked or cooked by steaming or boiling in water, n.e.c. in heading no. 0710, frozen",8,07,Other,Free,,,,,2026-10-22
+07109000,071090,"Vegetable mixtures; uncooked or cooked by steaming or boiling in water, frozen",8,07,Mixtures of vegetables,Free,,,,,2026-10-22
+0711,,,4,07,"VEGETABLES PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION",,,,,,2026-10-22
+07112000,071120,"Vegetables; olives, provisionally preserved but unsuitable in that state for immediate consumption",8,07,Olives,Free,,,,,2026-10-22
+07114000,071140,"Vegetables; cucumbers and gherkins, provisionally preserved but unsuitable in that state for immediate consumption",8,07,Cucumbers and gherkins,Free,,,,,2026-10-22
+07115100,071151,"Vegetables; mushrooms of the genus Agaricus, provisionally preserved but unsuitable in that state for immediate consumption",8,07,Mushrooms and truffles : -- Mushrooms of the genus Agaricus,Free,,,,,2026-10-22
+07115900,071159,"Vegetables; mushrooms other than of the genus Agaricus, provisionally preserved but unsuitable in that state for immediate consumption",8,07,Mushrooms and truffles : -- Other,Free,,,,,2026-10-22
+071190,071190,"Vegetables and mixed vegetables; n.e.c. in heading no. 0711, provisionally preserved but unsuitable in that state for immediate consumption",6,07,Other vegetables; mixtures of vegetables,,,,,,2026-10-22
+07119010,071190,"Vegetables and mixed vegetables; n.e.c. in heading no. 0711, provisionally preserved but unsuitable in that state for immediate consumption",8,07,Green pepper in brine,Free,,,,,2026-10-22
+07119020,071190,"Vegetables and mixed vegetables; n.e.c. in heading no. 0711, provisionally preserved but unsuitable in that state for immediate consumption",8,07,Assorted canned vegetables,Free,,,,,2026-10-22
+07119090,071190,"Vegetables and mixed vegetables; n.e.c. in heading no. 0711, provisionally preserved but unsuitable in that state for immediate consumption",8,07,Other,Free,,,,,2026-10-22
+0712,,,4,07,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",,,,,,2026-10-22
+07122000,071220,"Vegetables; onions, whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,Onions,Free,,,,,2026-10-22
+07123100,071231,"Vegetables; mushrooms of the genus Agaricus, whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,"Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : -- Mushrooms of the genus lgaricus",Free,,,,,2026-10-22
+07123200,071232,"Vegetables; wood ears (Auricularia spp), whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,"Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : -- Wood ears (Auricularia spp.)",Free,,,,,2026-10-22
+07123300,071233,"Vegetables; jelly fungi (Tremella spp)), whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,"Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : -- Jelly fungi (Tremella spp.)",Free,,,,,2026-10-22
+07123400,071234,"Vegetables; shiitake mushrooms (Lentinus edodes), whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,"Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : - - Shiitake (Lentinus edodes)",Free,,,54/2015-2020,2022-02-09,2026-10-22
+07123900,071239,"Vegetables; mushrooms and truffles n.e.c. in item 0712.3, whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,"Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : -- Other",Free,,,,,2026-10-22
+071290,071290,"Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",6,07,Other vegetables; mixtures of vegetables,,,,,,2026-10-22
+07129010,071290,"Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,Asparagus,Free,,,,,2026-10-22
+07129020,071290,"Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,Dehydrated garlic powder,Free,,,,,2026-10-22
+07129030,071290,"Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,Dehydrated garlic flakes,Free,,,,,2026-10-22
+07129040,071290,"Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,Dried garlic,Free,,,,,2026-10-22
+07129050,071290,"Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,"Marjoram, Oregano",Free,,,,,2026-10-22
+07129060,071290,"Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,Potatoes,Free,,,,,2026-10-22
+07129090,071290,"Vegetables; mixtures of vegetables n.e.c. in heading no. 0712, whole, cut, sliced, broken or in powder but not further prepared, dried",8,07,Other,Free,,,,,2026-10-22
+0713,,,4,07,"Dried leguminous vegetables, shelled, whether or not skinned or split.",,,,,,2026-10-22
+071310,071310,"Vegetables, leguminous; peas (pisum sativum), shelled, whether or not skinned or split, dried",6,07,Peas (Pisum sativum),,,,,,2026-10-22
+07131010,071310,"Vegetables, leguminous; peas (pisum sativum), shelled, whether or not skinned or split, dried",8,07,Yellow peas,Free,"a) Import is ‘Free’ without the MIP condition and without Port Restriction, for Import consignments where Bill of Lading (Shipped on Board) has been issued on or before 31st March, 2027. b) Imports where Bill of Lading (Shipped on Board) is issued after 31st March, 2027 shall be ‘Restricted’ and associated Import Policy Conditions as existing prior to the DGFT Notification 50/2023 dated 08.12.2023 shall come into force. c) All imports of Yellow Peas where Bill of Lading (Shipped on Board) is dated on or before 31st March, 2027 shall be subject to compulsory registration under the online Import Monitoring System.",,70/2025-26,2026-03-31,2026-10-22
+07131020,071310,"Vegetables, leguminous; peas (pisum sativum), shelled, whether or not skinned or split, dried",8,07,Green peas,Restricted,Import shall subject to Minimum Import Price (MIP) of Rs. 200/- and above CIF per kilogram and import is allowed through Kolkata sea port only. This Restriction shall not apply to Governments import commitments under any Bilateral or Regional Agreement or Memorandum of Understanding,,"S.O. 1225(E) , S.O.1260(E)",2020-04-16,2026-10-22
+07131090,071310,"Vegetables, leguminous; peas (pisum sativum), shelled, whether or not skinned or split, dried",8,07,Other,Restricted,Import shall be subject to Minimum Import Price (MIP) of Rs. 200/- and above CIF per kilogram and import is allowed through Kolkata sea port only. This Restriction shall not apply to Governments import commitments under any Bilateral or Regional Agreement or Memorandum of Understanding,,"S.O. 1225(E) , S.O.1260(E)",2020-04-16,2026-10-22
+071320,071320,"Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",6,07,Chickpeas (garbanzos):,,,,,,2026-10-22
+07132010,071320,"Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",8,07,Kabuli chana,Free,,,,,2026-10-22
+07132020,071320,"Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",8,07,Bengal gram (desi chana),Free,,,,,2026-10-22
+07132090,071320,"Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",8,07,Other,Free,,,,,2026-10-22
+071331,071331,"Vegetables, leguminous; beans of the species vigna mungo (l.) hepper or vigna radiata (l.) wilczek, shelled, whether or not skinned or split, dried",6,07,"Beans (Vigna spp., Phaseolus spp.) : -- Beans of the species Vigna mungo (L.) Hepper or Vigna radiata (L.) Wilczek",,,,,,2026-10-22
+07133110,071331,"Vegetables, leguminous; beans of the species vigna mungo (l.) hepper or vigna radiata (l.) wilczek, shelled, whether or not skinned or split, dried",8,07,Beans of the species Vigna mungo (L.) Hepper,Free,Import is 'Free' up to 31.03.2027.,,71/2025-26,2026-03-31,2026-10-22
+07133190,071331,"Vegetables, leguminous; beans of the species vigna mungo (l.) hepper or vigna radiata (l.) wilczek, shelled, whether or not skinned or split, dried",8,07,Beans of the species Vigna radiata (L.) Wilczek,Restricted,,,S.O. 624(E),2022-02-11,2026-10-22
+07133200,071332,"Vegetables, leguminous; small red (adzuki) beans (phaseolus or vigna angularis), shelled, whether or not skinned or split, dried",8,07,"Beans (Vigna spp., Phaseolus spp.):- Small red (Adzuki) beans (Phaseolus or Vigna angularis)",Free,,,,,2026-10-22
+07133300,071333,"Vegetables, leguminous; kidney beans, including white pea beans (phaseolus vulgaris), shelled, whether or not skinned or split, dried",8,07,"Beans (Vigna spp., Phaseolus spp.):-- Kidney beans, including white pea beans (Phaseolus vulgaris)",Free,,,,,2026-10-22
+07133400,071334,"Vegetables, leguminous; bambara beans (Vigna subterranea or Voandzeia subterranea), shelled, whether or not skinned or split, dried",8,07,"Beans (Vigna spp., Phaseolus spp.):-- Bambara beans (Vigna subterranea or Voandzeia subterranea)",Free,,,,,2026-10-22
+07133500,071335,"Vegetables, leguminous; cow peas (Vigna unguiculata), shelled, whether or not skinned or split, dried",8,07,"Beans (Vigna spp., Phaseolus spp.):-- Cow peas (Vigna unguiculata)",Free,,,,,2026-10-22
+071339,071339,"Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",6,07,"Beans (Vigna spp., Phaseolus spp.):-- Other",,,,,,2026-10-22
+07133910,071339,"Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",8,07,Guar Seeds,Free,,,,,2026-10-22
+07133990,071339,"Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",8,07,Other,Free,,,,,2026-10-22
+07134000,071340,"Vegetables, leguminous; lentils, shelled, whether or not skinned or split, dried",8,07,Lentils,Free,,,,,2026-10-22
+07135000,071350,"Vegetables, leguminous; broad beans (vicia faba var. major) and horse beans (vicia faba var. equina, vicia faba var. minor), shelled, whether or not skinned or split, dried",8,07,"Broad beans (Vicia faba var. major) and horse beans (Vicia faba var. equina, Vicia faba var. minor)",Free,,,,,2026-10-22
+07136000,071360,"Vegetables, leguminous; pigeon peas (Cajanus cajan), shelled, whether or not skinned or split, dried",8,07,Pigeon peas (Cajanus cajan),Free,Import is 'Free' up to 31.03.2027.,,72/2025-26,2026-03-31,2026-10-22
+071390,071390,"Vegetables, leguminous; n.e.c. in heading no. 0713, shelled, whether or not skinned or split, dried",6,07,Other,,,,,,2026-10-22
+07139010,071390,"Vegetables, leguminous; n.e.c. in heading no. 0713, shelled, whether or not skinned or split, dried",8,07,Split,Restricted,Import shall be subject to the annual (fiscal year) quota 4 lakh MTs each for Toor and Urad and 1.5 lakh MTs of Moong as per the procedure to be notified. This restriction will not apply to Governments import commitments under any bilateral/ regional Agreement/ MoU.,,"S.O. 1122(E) , S.O. 1605(E)","17/03/2020 , 22/05/2020",2026-10-22
+07139090,071390,"Vegetables, leguminous; n.e.c. in heading no. 0713, shelled, whether or not skinned or split, dried",8,07,Other,Restricted,Import shall be subject to the annual (fiscal year) quota 4 lakh MTs each for Toor and Urad and 1.5 lakh MTs of Moong as per the procedure to be notified. This restriction will not apply to Governments import commitments under any bilateral/ regional Agreement/ MoU.,,"S.O. 1122(E) , S.O. 1605(E)","17/03/2020 , 22/05/2020",2026-10-22
+0714,,,4,07,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",,,,,,2026-10-22
+07141000,071410,"Vegetable roots and tubers; manioc (cassava), with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets",8,07,Manioc (cassava),Free,,,,,2026-10-22
+07142000,071420,"Vegetable roots and tubers; sweet potatoes, with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets",8,07,Sweet potatoes,Free,,,,,2026-10-22
+07143000,071430,"Vegetable roots and tubers; yams (Dioscorea spp.) with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets",8,07,Yams (Dioscorea spp.),Free,,,,,2026-10-22
+07144000,071440,"Vegetable roots and tubers; taro (Colocasia spp.) with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets",8,07,Taro (Colocasia spp.),Free,,,,,2026-10-22
+07145000,071450,"Vegetable roots and tubers; yautia (Xanthosoma spp.) with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets",8,07,Yautia (Xanthosoma spp.),Free,,,,,2026-10-22
+071490,071490,"Vegetable roots and tubers; arrowroot, salep, Jerusalem artichokes and similar roots and tubers (not manioc, sweet potatoes, yams, taro or yautia), high starch or inulin content, fresh, chilled, frozen, dried, sliced or not, or in pellet form; sago pith",6,07,Other,,,,,,2026-10-22
+07149010,071490,"Vegetable roots and tubers; arrowroot, salep, Jerusalem artichokes and similar roots and tubers (not manioc, sweet potatoes, yams, taro or yautia), high starch or inulin content, fresh, chilled, frozen, dried, sliced or not, or in pellet form; sago pith",8,07,Sago pith,Free,,,,,2026-10-22
+07149090,071490,"Vegetable roots and tubers; arrowroot, salep, Jerusalem artichokes and similar roots and tubers (not manioc, sweet potatoes, yams, taro or yautia), high starch or inulin content, fresh, chilled, frozen, dried, sliced or not, or in pellet form; sago pith",8,07,Other,Free,,,,,2026-10-22

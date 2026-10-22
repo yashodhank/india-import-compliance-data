@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "5801",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "58",
    "description": "Woven pile fabrics and chenille fabrics, other than fabrics of heading 58.02 or 58.06.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "58011000",
+   "hs6": "580110",
+   "hs6_description": "Fabrics; woven pile, of wool or fine animal hair, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Of wool or fine animal hair",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "58012100",
+   "hs6": "580121",
+   "hs6_description": "Fabrics; woven pile, of cotton, uncut weft pile fabrics, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Of cotton : -- Uncut weft pile fabrics",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "580122",
+   "hs6": "580122",
+   "hs6_description": "Fabrics; woven pile, of cotton, cut corduroy, other than fabrics of heading no. 5802 or 5806",
    "level": 6,
    "chapter": "58",
    "description": "Of cotton : -- Cut corduroy",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "58012210",
+   "hs6": "580122",
+   "hs6_description": "Fabrics; woven pile, of cotton, cut corduroy, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Solely of cotton",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "58012290",
+   "hs6": "580122",
+   "hs6_description": "Fabrics; woven pile, of cotton, cut corduroy, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "58012300",
+   "hs6": "580123",
+   "hs6_description": "Fabrics; woven pile, of cotton, weft pile fabrics other than uncut and corduroy, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Of cotton : -- Other weft pile fabrics",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "58012600",
+   "hs6": "580126",
+   "hs6_description": "Fabrics; chenille, of cotton, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Of cotton : -- Chenille fabrics",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "580127",
+   "hs6": "580127",
+   "hs6_description": "Fabrics; woven pile, of cotton, warp pile fabrics, other than fabrics of heading no. 5802 or 5806",
    "level": 6,
    "chapter": "58",
    "description": "Of cotton : -- Warp pile fabrics",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "58012710",
+   "hs6": "580127",
+   "hs6_description": "Fabrics; woven pile, of cotton, warp pile fabrics, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Warp pile fabrics, epingle (uncut)",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "58012720",
+   "hs6": "580127",
+   "hs6_description": "Fabrics; woven pile, of cotton, warp pile fabrics, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Warp pile fabrics, cut",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "58012790",
+   "hs6": "580127",
+   "hs6_description": "Fabrics; woven pile, of cotton, warp pile fabrics, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "58013100",
+   "hs6": "580131",
+   "hs6_description": "Fabrics; woven pile, of man-made fibres, uncut weft pile fabrics, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Of man-made fibres : -- Uncut weft pile fabrics",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "58013200",
+   "hs6": "580132",
+   "hs6_description": "Fabrics; woven pile, of man-made fibres, cut corduroy, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Of man-made fibres : -- Cut corduroy",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "58013300",
+   "hs6": "580133",
+   "hs6_description": "Fabrics; woven pile, of man-made fibres, other weft pile fabrics, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Of man-made fibres : -- Other weft pile fabrics",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "580136",
+   "hs6": "580136",
+   "hs6_description": "Fabrics; chenille, of man-made fibres, other than fabrics of heading no. 5802 or 5806",
    "level": 6,
    "chapter": "58",
    "description": "Of man-made fibres : -- Chenille fabrics",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "58013610",
+   "hs6": "580136",
+   "hs6_description": "Fabrics; chenille, of man-made fibres, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Carduroys",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "58013690",
+   "hs6": "580136",
+   "hs6_description": "Fabrics; chenille, of man-made fibres, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "580137",
+   "hs6": "580137",
+   "hs6_description": "Fabrics; woven pile, of man-made fibres, warp pile fabrics, other than fabrics of heading no. 5802 or 5806",
    "level": 6,
    "chapter": "58",
    "description": "Of man-made fibres : -- Warp pile fabrics",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "58013720",
+   "hs6": "580137",
+   "hs6_description": "Fabrics; woven pile, of man-made fibres, warp pile fabrics, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Warp pile fabrics, cut",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "58013790",
+   "hs6": "580137",
+   "hs6_description": "Fabrics; woven pile, of man-made fibres, warp pile fabrics, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "580190",
+   "hs6": "580190",
+   "hs6_description": "Fabrics; woven pile and chenille, of textile materials n.e.c. in heading no. 5801, other than fabrics of heading no. 5802 or 5806",
    "level": 6,
    "chapter": "58",
    "description": "Of other textile materials",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "58019010",
+   "hs6": "580190",
+   "hs6_description": "Fabrics; woven pile and chenille, of textile materials n.e.c. in heading no. 5801, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Pile fabrics and chenille fabrics of silk containing more than 50percent by weight of silk, but not containing wool or hair",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "58019090",
+   "hs6": "580190",
+   "hs6_description": "Fabrics; woven pile and chenille, of textile materials n.e.c. in heading no. 5801, other than fabrics of heading no. 5802 or 5806",
    "level": 8,
    "chapter": "58",
    "description": "Pile fabrics and chenille fabrics not elsewhere specified or included",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "5802",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "58",
    "description": "TERRY TOWELLING AND SIMILAR WOVEN TERRY FABRICS, OTHER THAN NARROW FABRICS OF HEADING 5806 TUFTED TEXTILE FABRICS, OTHER THAN PRODUCTS OF HEADING 5703",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "580210",
+   "hs6": "580210",
+   "hs6_description": "Fabrics; terry towelling and similar woven terry fabrics, of cotton, whether bleached or unbleached, excluding narrow fabrics of heading no. 5806",
    "level": 6,
    "chapter": "58",
    "description": "Terry towelling and similar woven terry fabrics, of cotton:",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "58021010",
+   "hs6": "580210",
+   "hs6_description": "Fabrics; terry towelling and similar woven terry fabrics, of cotton, whether bleached or unbleached, excluding narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Unbleached",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "58021020",
+   "hs6": "580210",
+   "hs6_description": "Fabrics; terry towelling and similar woven terry fabrics, of cotton, whether bleached or unbleached, excluding narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Bleached",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "58021030",
+   "hs6": "580210",
+   "hs6_description": "Fabrics; terry towelling and similar woven terry fabrics, of cotton, whether bleached or unbleached, excluding narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Piece dyed",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "58021040",
+   "hs6": "580210",
+   "hs6_description": "Fabrics; terry towelling and similar woven terry fabrics, of cotton, whether bleached or unbleached, excluding narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Yarn dyed",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "58021050",
+   "hs6": "580210",
+   "hs6_description": "Fabrics; terry towelling and similar woven terry fabrics, of cotton, whether bleached or unbleached, excluding narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Printed",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "58021060",
+   "hs6": "580210",
+   "hs6_description": "Fabrics; terry towelling and similar woven terry fabrics, of cotton, whether bleached or unbleached, excluding narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Of Handloom",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "58021090",
+   "hs6": "580210",
+   "hs6_description": "Fabrics; terry towelling and similar woven terry fabrics, of cotton, whether bleached or unbleached, excluding narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "58022000",
+   "hs6": "580220",
+   "hs6_description": "Fabrics; terry towelling and similar woven terry fabrics, of textile materials, excluding cotton, excluding narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Terry towelling and similar woven terry fabrics, of other textile materials",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "58023000",
+   "hs6": "580230",
+   "hs6_description": "Fabrics; tufted textile fabrics, excluding products of heading no. 5703",
    "level": 8,
    "chapter": "58",
    "description": "Tufted textile fabrics",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "580300",
+   "hs6": "580300",
+   "hs6_description": "Gauze; other than narrow fabrics of heading no. 5806",
    "level": 6,
    "chapter": "58",
    "description": "GAUZE, OTHER THAN NARROW FABRICS OF HEADING 5806",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "58030011",
+   "hs6": "580300",
+   "hs6_description": "Gauze; other than narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Unbleached",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "58030012",
+   "hs6": "580300",
+   "hs6_description": "Gauze; other than narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Bleached",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "58030013",
+   "hs6": "580300",
+   "hs6_description": "Gauze; other than narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Piece dyed",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "58030014",
+   "hs6": "580300",
+   "hs6_description": "Gauze; other than narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Yarn dyed",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "58030015",
+   "hs6": "580300",
+   "hs6_description": "Gauze; other than narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Printed",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "58030019",
+   "hs6": "580300",
+   "hs6_description": "Gauze; other than narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "58030091",
+   "hs6": "580300",
+   "hs6_description": "Gauze; other than narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Of other textile materials: ---- Of silk or silk waste",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "58030092",
+   "hs6": "580300",
+   "hs6_description": "Gauze; other than narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Of other textile materials: ---- Of synthetic fibre",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "58030093",
+   "hs6": "580300",
+   "hs6_description": "Gauze; other than narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Of other textile materials: ---- Of artificial fibre",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "58030099",
+   "hs6": "580300",
+   "hs6_description": "Gauze; other than narrow fabrics of heading no. 5806",
    "level": 8,
    "chapter": "58",
    "description": "Of other textile materials: ---- Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "5804",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "58",
    "description": "TULLES AND OTHER NET FABRICS, NOT INCLUDING WOVEN, KNITTED OR CROCHETED FABRICS; LACE IN THE PIECE, IN STRIPS OR IN MOTIFS, OTHER THAN FABRICS OF HEADINGS 6002 TO 6006",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "580410",
+   "hs6": "580410",
+   "hs6_description": "Tulles and other net fabrics; excluding woven, knitted or crocheted fabrics, (other than fabrics of headings 60.02 to 60.06)",
    "level": 6,
    "chapter": "58",
    "description": "Tulles and other net fabrics",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "58041010",
+   "hs6": "580410",
+   "hs6_description": "Tulles and other net fabrics; excluding woven, knitted or crocheted fabrics, (other than fabrics of headings 60.02 to 60.06)",
    "level": 8,
    "chapter": "58",
    "description": "Of cotton",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "58041090",
+   "hs6": "580410",
+   "hs6_description": "Tulles and other net fabrics; excluding woven, knitted or crocheted fabrics, (other than fabrics of headings 60.02 to 60.06)",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "58042100",
+   "hs6": "580421",
+   "hs6_description": "Lace; mechanically made, of man-made fibres in the piece, in strips or in motifs, (other than fabrics of headings 60.02 to 60.06)",
    "level": 8,
    "chapter": "58",
    "description": "Mechanically made lace : -- Of man-made fibres",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "580429",
+   "hs6": "580429",
+   "hs6_description": "Lace; mechanically made, of textile materials, (other than man-made fibres), in the piece, in strips or motifs, (other than fabrics of headings 60.02 to 60.06)",
    "level": 6,
    "chapter": "58",
    "description": "Mechanically made lace : -- Of other textile materials",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "58042910",
+   "hs6": "580429",
+   "hs6_description": "Lace; mechanically made, of textile materials, (other than man-made fibres), in the piece, in strips or motifs, (other than fabrics of headings 60.02 to 60.06)",
    "level": 8,
    "chapter": "58",
    "description": "Of cotton",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "58042990",
+   "hs6": "580429",
+   "hs6_description": "Lace; mechanically made, of textile materials, (other than man-made fibres), in the piece, in strips or motifs, (other than fabrics of headings 60.02 to 60.06)",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "58043000",
+   "hs6": "580430",
+   "hs6_description": "Lace; hand-made, in the piece, in strips or motifs, (other than fabrics of headings 60.02 to 60.06)",
    "level": 8,
    "chapter": "58",
    "description": "Hand-made lace",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "5805",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "58",
    "description": "Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up.",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "580500",
+   "hs6": "580500",
+   "hs6_description": "Tapestries; hand-woven, (Gobelins, Flanders, Aubusson, Beauvais and the like) and needle-worked tapestries (e.g. petit point, cross-stitch) whether or not made up",
    "level": 6,
    "chapter": "58",
    "description": "Hand-woven tapestries of the type gobelins, flanders, aubusson, beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up :",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "58050010",
+   "hs6": "580500",
+   "hs6_description": "Tapestries; hand-woven, (Gobelins, Flanders, Aubusson, Beauvais and the like) and needle-worked tapestries (e.g. petit point, cross-stitch) whether or not made up",
    "level": 8,
    "chapter": "58",
    "description": "Tapestries hand made or needle worked by hand, of cotton",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "58050020",
+   "hs6": "580500",
+   "hs6_description": "Tapestries; hand-woven, (Gobelins, Flanders, Aubusson, Beauvais and the like) and needle-worked tapestries (e.g. petit point, cross-stitch) whether or not made up",
    "level": 8,
    "chapter": "58",
    "description": "Tapestries of jute",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "58050090",
+   "hs6": "580500",
+   "hs6_description": "Tapestries; hand-woven, (Gobelins, Flanders, Aubusson, Beauvais and the like) and needle-worked tapestries (e.g. petit point, cross-stitch) whether or not made up",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "5806",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "58",
    "description": "Narrow woven fabrics, other than goods of heading 58.07; narrow fabrics consisting of warp without weft assembled by means of an adhesive (bolducs).",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "58061000",
+   "hs6": "580610",
+   "hs6_description": "Fabrics; woven pile (including terry towelling and similar terry fabrics) and chenille fabrics (excluding goods of heading 5807)",
    "level": 8,
    "chapter": "58",
    "description": "Woven pile fabrics (including terry towelling and similar terry fabrics) and chenille fabrics",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "58062000",
+   "hs6": "580620",
+   "hs6_description": "Fabrics; narrow (excluding pile fabrics), containing by weight 5% or more of elastomeric yarn or rubber thread",
    "level": 8,
    "chapter": "58",
    "description": "Other woven fabrics, containing by weight 5percent or more of elastomeric yarn or rubber thread",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "580631",
+   "hs6": "580631",
+   "hs6_description": "Fabrics; narrow woven fabrics, n.e.c. in heading no. 5806, of cotton (excluding goods of heading no. 5807)",
    "level": 6,
    "chapter": "58",
    "description": "Other woven fabrics : -- Of cotton",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "58063110",
+   "hs6": "580631",
+   "hs6_description": "Fabrics; narrow woven fabrics, n.e.c. in heading no. 5806, of cotton (excluding goods of heading no. 5807)",
    "level": 8,
    "chapter": "58",
    "description": "Typewriter ribbon cloth",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "58063120",
+   "hs6": "580631",
+   "hs6_description": "Fabrics; narrow woven fabrics, n.e.c. in heading no. 5806, of cotton (excluding goods of heading no. 5807)",
    "level": 8,
    "chapter": "58",
    "description": "Newar cotton",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "58063190",
+   "hs6": "580631",
+   "hs6_description": "Fabrics; narrow woven fabrics, n.e.c. in heading no. 5806, of cotton (excluding goods of heading no. 5807)",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "58063200",
+   "hs6": "580632",
+   "hs6_description": "Fabrics, narrow woven fabrics, n.e.c. in heading no. 5806, of man-made fibres (excluding goods of heading no. 5807)",
    "level": 8,
    "chapter": "58",
    "description": "Other woven fabrics : -- Of man-made fibres",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "580639",
+   "hs6": "580639",
+   "hs6_description": "Fabrics; narrow woven fabrics, n.e.c. in heading no. 5806, of textile materials n.e.c. in item no. 5806.3 (excluding goods of heading no. 5807)",
    "level": 6,
    "chapter": "58",
    "description": "Other woven fabrics : -- Of other textile materials",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "58063910",
+   "hs6": "580639",
+   "hs6_description": "Fabrics; narrow woven fabrics, n.e.c. in heading no. 5806, of textile materials n.e.c. in item no. 5806.3 (excluding goods of heading no. 5807)",
    "level": 8,
    "chapter": "58",
    "description": "Goat hair puttis tape",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "58063920",
+   "hs6": "580639",
+   "hs6_description": "Fabrics; narrow woven fabrics, n.e.c. in heading no. 5806, of textile materials n.e.c. in item no. 5806.3 (excluding goods of heading no. 5807)",
    "level": 8,
    "chapter": "58",
    "description": "Jute webbing",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "58063930",
+   "hs6": "580639",
+   "hs6_description": "Fabrics; narrow woven fabrics, n.e.c. in heading no. 5806, of textile materials n.e.c. in item no. 5806.3 (excluding goods of heading no. 5807)",
    "level": 8,
    "chapter": "58",
    "description": "Other narrow fabrics of jute",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "58063990",
+   "hs6": "580639",
+   "hs6_description": "Fabrics; narrow woven fabrics, n.e.c. in heading no. 5806, of textile materials n.e.c. in item no. 5806.3 (excluding goods of heading no. 5807)",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "58064000",
+   "hs6": "580640",
+   "hs6_description": "Fabrics; narrow woven, consisting of warp without weft, assembled by means of an adhesive (bolducs)",
    "level": 8,
    "chapter": "58",
    "description": "Fabrics consisting of warp without weft assembled by means of an adhesive (bolducs)",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "5807",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "58",
    "description": "Labels, badges and similar articles of textile materials, in the piece, in strips or cut to shape or size, not embroidered.",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "580710",
+   "hs6": "580710",
+   "hs6_description": "Labels, badges and similar articles; woven, of textile materials, in the piece, in strips or cut to shape or size, not embroidered",
    "level": 6,
    "chapter": "58",
    "description": "Woven",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "58071010",
+   "hs6": "580710",
+   "hs6_description": "Labels, badges and similar articles; woven, of textile materials, in the piece, in strips or cut to shape or size, not embroidered",
    "level": 8,
    "chapter": "58",
    "description": "Of cotton",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "58071020",
+   "hs6": "580710",
+   "hs6_description": "Labels, badges and similar articles; woven, of textile materials, in the piece, in strips or cut to shape or size, not embroidered",
    "level": 8,
    "chapter": "58",
    "description": "Of man-made fibre",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "58071090",
+   "hs6": "580710",
+   "hs6_description": "Labels, badges and similar articles; woven, of textile materials, in the piece, in strips or cut to shape or size, not embroidered",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "580790",
+   "hs6": "580790",
+   "hs6_description": "Labels, badges and similar articles; (other than woven), of textile materials, in the piece, in strips or cut to shape or size, not embroidered",
    "level": 6,
    "chapter": "58",
    "description": "Other",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "58079010",
+   "hs6": "580790",
+   "hs6_description": "Labels, badges and similar articles; (other than woven), of textile materials, in the piece, in strips or cut to shape or size, not embroidered",
    "level": 8,
    "chapter": "58",
    "description": "Felt or non-woven",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "58079090",
+   "hs6": "580790",
+   "hs6_description": "Labels, badges and similar articles; (other than woven), of textile materials, in the piece, in strips or cut to shape or size, not embroidered",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "5808",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "58",
    "description": "Braids in the piece; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted; tassels, pompons and similar articles.",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "580810",
+   "hs6": "580810",
+   "hs6_description": "Braids; in the piece",
    "level": 6,
    "chapter": "58",
    "description": "Braids in the piece",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "58081010",
+   "hs6": "580810",
+   "hs6_description": "Braids; in the piece",
    "level": 8,
    "chapter": "58",
    "description": "Of cotton",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "58081090",
+   "hs6": "580810",
+   "hs6_description": "Braids; in the piece",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "580890",
+   "hs6": "580890",
+   "hs6_description": "Ornamental trimmings; tassels, pompons and similar articles; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted",
    "level": 6,
    "chapter": "58",
    "description": "Other",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "58089010",
+   "hs6": "580890",
+   "hs6_description": "Ornamental trimmings; tassels, pompons and similar articles; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted",
    "level": 8,
    "chapter": "58",
    "description": "Tapes, ornamental or cotton",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "58089020",
+   "hs6": "580890",
+   "hs6_description": "Ornamental trimmings; tassels, pompons and similar articles; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted",
    "level": 8,
    "chapter": "58",
    "description": "Hair band of narrow fabrics",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "58089030",
+   "hs6": "580890",
+   "hs6_description": "Ornamental trimmings; tassels, pompons and similar articles; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted",
    "level": 8,
    "chapter": "58",
    "description": "Other braids",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "58089040",
+   "hs6": "580890",
+   "hs6_description": "Ornamental trimmings; tassels, pompons and similar articles; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted",
    "level": 8,
    "chapter": "58",
    "description": "Ribbons of rayon with ornamental trimmings",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "58089050",
+   "hs6": "580890",
+   "hs6_description": "Ornamental trimmings; tassels, pompons and similar articles; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted",
    "level": 8,
    "chapter": "58",
    "description": "Saree falls, borders (other than zari), frings of cotton",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "58089060",
+   "hs6": "580890",
+   "hs6_description": "Ornamental trimmings; tassels, pompons and similar articles; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted",
    "level": 8,
    "chapter": "58",
    "description": "Saree falls, borders (other than zari), frings of man-made fibre",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "58089090",
+   "hs6": "580890",
+   "hs6_description": "Ornamental trimmings; tassels, pompons and similar articles; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "5809",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "58",
    "description": "Woven fabrics of metal thread and woven fabrics of metallised yarn of heading 56.05, of a kind used in apparel, as furnishing fabrics or for similar purposes, not elsewhere specified or included.",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "580900",
+   "hs6": "580900",
+   "hs6_description": "Fabrics, woven; of metal thread and metallised yarn of heading no. 5605, of a kind used in apparel, as furnishing fabrics or similar purposes; n.e.c. or included",
    "level": 6,
    "chapter": "58",
    "description": "Woven fabrics of metal thread and woven fabrics of metallised yarn of heading 5605, of a kind used in apparel, as furnishing fabrics or for similar purposes, not elsewhere specified or included :",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "58090010",
+   "hs6": "580900",
+   "hs6_description": "Fabrics, woven; of metal thread and metallised yarn of heading no. 5605, of a kind used in apparel, as furnishing fabrics or similar purposes; n.e.c. or included",
    "level": 8,
    "chapter": "58",
    "description": "Zari borders",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "58090090",
+   "hs6": "580900",
+   "hs6_description": "Fabrics, woven; of metal thread and metallised yarn of heading no. 5605, of a kind used in apparel, as furnishing fabrics or similar purposes; n.e.c. or included",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "5810",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "58",
    "description": "Embroidery in the piece, in strips or in motifs.",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "58101000",
+   "hs6": "581010",
+   "hs6_description": "Embroidery; without visible ground, in the piece, in strips or in motifs",
    "level": 8,
    "chapter": "58",
    "description": "Embroidery without visible ground",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "581091",
+   "hs6": "581091",
+   "hs6_description": "Embroidery; with visible ground, of cotton, in the piece, in strips or in motifs",
    "level": 6,
    "chapter": "58",
    "description": "Other embroidery : -- Of cotton:",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "58109110",
+   "hs6": "581091",
+   "hs6_description": "Embroidery; with visible ground, of cotton, in the piece, in strips or in motifs",
    "level": 8,
    "chapter": "58",
    "description": "Embroidered with Lucknow Chikan Craft",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "58109190",
+   "hs6": "581091",
+   "hs6_description": "Embroidery; with visible ground, of cotton, in the piece, in strips or in motifs",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "581092",
+   "hs6": "581092",
+   "hs6_description": "Embroidery; with visible ground, of man-made fibres, in the piece, in strips or in motifs",
    "level": 6,
    "chapter": "58",
    "description": "Other embroidery : -- Of man-made fibres",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "58109210",
+   "hs6": "581092",
+   "hs6_description": "Embroidery; with visible ground, of man-made fibres, in the piece, in strips or in motifs",
    "level": 8,
    "chapter": "58",
    "description": "Embroidered badges, motifs and the like",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "58109220",
+   "hs6": "581092",
+   "hs6_description": "Embroidery; with visible ground, of man-made fibres, in the piece, in strips or in motifs",
    "level": 8,
    "chapter": "58",
    "description": "Embroidered with Lucknow Chikan Craft",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "58109290",
+   "hs6": "581092",
+   "hs6_description": "Embroidery; with visible ground, of man-made fibres, in the piece, in strips or in motifs",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "581099",
+   "hs6": "581099",
+   "hs6_description": "Embroidery; with visible ground, of textile materials (other than cotton and man-made fibres), in the piece, in strips or in motifs",
    "level": 6,
    "chapter": "58",
    "description": "Other embroidery : -- Of other textile materials:",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "58109910",
+   "hs6": "581099",
+   "hs6_description": "Embroidery; with visible ground, of textile materials (other than cotton and man-made fibres), in the piece, in strips or in motifs",
    "level": 8,
    "chapter": "58",
    "description": "Embroidered with Lucknow Chikan Craft",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "58109990",
+   "hs6": "581099",
+   "hs6_description": "Embroidery; with visible ground, of textile materials (other than cotton and man-made fibres), in the piece, in strips or in motifs",
    "level": 8,
    "chapter": "58",
    "description": "Other",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "5811",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "58",
    "description": "Quilted textile products in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise, other than embroidery of heading 58.10.",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "581100",
+   "hs6": "581100",
+   "hs6_description": "Quilted textile products; in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise (excluding embroidery of heading no. 5810)",
    "level": 6,
    "chapter": "58",
    "description": "Quilted textile products in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise, other than embroidery of heading 5810:",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "58110010",
+   "hs6": "581100",
+   "hs6_description": "Quilted textile products; in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise (excluding embroidery of heading no. 5810)",
    "level": 8,
    "chapter": "58",
    "description": "Kantha (multilayer stitched textile fabrics in piece used for bedding, mattress pads or clothing)",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "58110020",
+   "hs6": "581100",
+   "hs6_description": "Quilted textile products; in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise (excluding embroidery of heading no. 5810)",
    "level": 8,
    "chapter": "58",
    "description": "Quilted wadding",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "58110090",
+   "hs6": "581100",
+   "hs6_description": "Quilted textile products; in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise (excluding embroidery of heading no. 5810)",
    "level": 8,
    "chapter": "58",
    "description": "Other",

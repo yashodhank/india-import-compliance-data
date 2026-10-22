@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "7501",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "75",
    "description": "Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "75011000",
+   "hs6": "750110",
+   "hs6_description": "Nickel; nickel mattes",
    "level": 8,
    "chapter": "75",
    "description": "Nickel mattes",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "75012000",
+   "hs6": "750120",
+   "hs6_description": "Nickel; oxide sinters and other intermediate products of nickel metallurgy",
    "level": 8,
    "chapter": "75",
    "description": "Nickel oxide sinters and other intermediate products of nickel metallurgy",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "7502",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "75",
    "description": "Unwrought nickel.",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "75021000",
+   "hs6": "750210",
+   "hs6_description": "Nickel; unwrought, not alloyed",
    "level": 8,
    "chapter": "75",
    "description": "Nickel, not alloyed",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "750220",
+   "hs6": "750220",
+   "hs6_description": "Nickel; unwrought, alloys",
    "level": 6,
    "chapter": "75",
    "description": "Nickel alloys",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "75022010",
+   "hs6": "750220",
+   "hs6_description": "Nickel; unwrought, alloys",
    "level": 8,
    "chapter": "75",
    "description": "Cupro-nickel containing more than 40 percent by weight of nickel",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "75022020",
+   "hs6": "750220",
+   "hs6_description": "Nickel; unwrought, alloys",
    "level": 8,
    "chapter": "75",
    "description": "Monel metal including K monel",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "75022030",
+   "hs6": "750220",
+   "hs6_description": "Nickel; unwrought, alloys",
    "level": 8,
    "chapter": "75",
    "description": "Nickel alloys containing more than 40 percent by weight of nickel",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "75022040",
+   "hs6": "750220",
+   "hs6_description": "Nickel; unwrought, alloys",
    "level": 8,
    "chapter": "75",
    "description": "Nickel alloys containing more than 10 percent but not more than 40percent by weight of nickel",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "75022090",
+   "hs6": "750220",
+   "hs6_description": "Nickel; unwrought, alloys",
    "level": 8,
    "chapter": "75",
    "description": "Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "7503",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "75",
    "description": "NICKEL WASTE AND SCRAP",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "750300",
+   "hs6": "750300",
+   "hs6_description": "Nickel; waste and scrap",
    "level": 6,
    "chapter": "75",
    "description": "Nickel waste and scrap.",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "75030010",
+   "hs6": "750300",
+   "hs6_description": "Nickel; waste and scrap",
    "level": 8,
    "chapter": "75",
    "description": "Nickel scrap, namely the following: New nickel scrap covered by ISRI code word Aroma; Old nickel scrap covered by ISRI code word Burly; New R-monel clippings solids covered by ISRI code word Hitch; New mixed monel solids and clippings covered by ISRI code word House; Old monel sheet and solids covered by ISRI code word Ideal; k-monel solids covered by ISRI code word Indian; Soldered monel sheet and solids covered by ISRI code word Junto; Monel castings covered by ISRI code word Lemon; Monel turnings covered by ISRI code word Lemur; Nickel scrap obtained by breaking up of ships, boats and other floating structures; Nickel-iron batteries to be sold free of crates, copper terminal connectors and excess liquid, must be free of nickel cadmium batteries covered by ISRI code word Vaunt",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "75030090",
+   "hs6": "750300",
+   "hs6_description": "Nickel; waste and scrap",
    "level": 8,
    "chapter": "75",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "75040000",
+   "hs6": "750400",
+   "hs6_description": "Nickel; powders and flakes",
    "level": 8,
    "chapter": "75",
    "description": "Nickel powders and flakes.",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "7505",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "75",
    "description": "Nickel bars, rods, profiles and wire.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "750511",
+   "hs6": "750511",
+   "hs6_description": "Nickel; bars, rods and profiles, not alloyed",
    "level": 6,
    "chapter": "75",
    "description": "Bars, rods and profiles : -- Of nickel, not alloyed",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "75051110",
+   "hs6": "750511",
+   "hs6_description": "Nickel; bars, rods and profiles, not alloyed",
    "level": 8,
    "chapter": "75",
    "description": "Hollow bars",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "75051120",
+   "hs6": "750511",
+   "hs6_description": "Nickel; bars, rods and profiles, not alloyed",
    "level": 8,
    "chapter": "75",
    "description": "Other bar rods and profiles",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "750512",
+   "hs6": "750512",
+   "hs6_description": "Nickel; bars, rods and profiles, of nickel alloys",
    "level": 6,
    "chapter": "75",
    "description": "Bars, rods and profiles : -- Of nickel alloys",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "75051210",
+   "hs6": "750512",
+   "hs6_description": "Nickel; bars, rods and profiles, of nickel alloys",
    "level": 8,
    "chapter": "75",
    "description": "Hollow bars",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "75051220",
+   "hs6": "750512",
+   "hs6_description": "Nickel; bars, rods and profiles, of nickel alloys",
    "level": 8,
    "chapter": "75",
    "description": "Other bars; rods and profiles",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "75052100",
+   "hs6": "750521",
+   "hs6_description": "Nickel; wire, not alloyed",
    "level": 8,
    "chapter": "75",
    "description": "Wire : -- Of nickel, not alloyed",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "75052200",
+   "hs6": "750522",
+   "hs6_description": "Nickel; wire, of nickel alloys",
    "level": 8,
    "chapter": "75",
    "description": "Wire : -- Of nickel alloys",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "7506",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "75",
    "description": "Nickel plates, sheets, strip and foil.",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "75061000",
+   "hs6": "750610",
+   "hs6_description": "Nickel; plates, sheets, strip and foil, not alloyed",
    "level": 8,
    "chapter": "75",
    "description": "Of nickel, not alloyed",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "75062000",
+   "hs6": "750620",
+   "hs6_description": "Nickel; plates, sheets, strip and foil, of nickel alloys",
    "level": 8,
    "chapter": "75",
    "description": "Of nickel alloys",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "7507",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "75",
    "description": "Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves).",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "75071100",
+   "hs6": "750711",
+   "hs6_description": "Nickel; tubes and pipes, not alloyed",
    "level": 8,
    "chapter": "75",
    "description": "Tubes and pipes : -- Of nickel, not alloyed",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "75071200",
+   "hs6": "750712",
+   "hs6_description": "Nickel; tubes and pipes, of nickel alloys",
    "level": 8,
    "chapter": "75",
    "description": "Tubes and pipes : -- Of nickel alloys",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "75072000",
+   "hs6": "750720",
+   "hs6_description": "Nickel; tube and pipe fittings",
    "level": 8,
    "chapter": "75",
    "description": "Tube or pipe fittings",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "7508",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "75",
    "description": "Other articles of nickel.",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "75081000",
+   "hs6": "750810",
+   "hs6_description": "Nickel; cloth, grill and netting, of nickel wire",
    "level": 8,
    "chapter": "75",
    "description": "Cloth, grill and netting, of nickel wire",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "750890",
+   "hs6": "750890",
+   "hs6_description": "Nickel; articles thereof n.e.c. in item no. 7508.1",
    "level": 6,
    "chapter": "75",
    "description": "Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "75089010",
+   "hs6": "750890",
+   "hs6_description": "Nickel; articles thereof n.e.c. in item no. 7508.1",
    "level": 8,
    "chapter": "75",
    "description": "Electroplating anodes of nickel",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "75089020",
+   "hs6": "750890",
+   "hs6_description": "Nickel; articles thereof n.e.c. in item no. 7508.1",
    "level": 8,
    "chapter": "75",
    "description": "Blanks ordinarily used for manufacturing tubes and pipes of nickel",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "75089030",
+   "hs6": "750890",
+   "hs6_description": "Nickel; articles thereof n.e.c. in item no. 7508.1",
    "level": 8,
    "chapter": "75",
    "description": "Nickel screen",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "75089090",
+   "hs6": "750890",
+   "hs6_description": "Nickel; articles thereof n.e.c. in item no. 7508.1",
    "level": 8,
    "chapter": "75",
    "description": "Other articles of nickel and nickel alloy",

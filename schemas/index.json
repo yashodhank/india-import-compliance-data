@@ -24,6 +24,8 @@
   "data/qco/products.csv": "qco-products",
   "data/qco/gazette-pdf-hashes.csv": "qco-gazette-hashes",
   "data/derived/hs-scheme-candidates.csv": "hs-scheme-candidates",
+  "data/hs6/harmonized-system.csv": "hs6",
+  "data/hs6/PROVENANCE.csv": "provenance",
   "data/itchs/2022/ch01.csv": "itchs-rows",
   "data/itchs/2022/ch02.csv": "itchs-rows",
   "data/itchs/2022/ch03.csv": "itchs-rows",

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "1901",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "19",
    "description": "Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40 percent by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 04.01 to 04.04, not containing cocoa or containing less than 5 percent by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "190110",
+   "hs6": "190110",
+   "hs6_description": "Food preparations; of flour, meal, starch, malt extract or milk products, suitable for infants or young children, put up for retail sale",
    "level": 6,
    "chapter": "19",
    "description": "Preparations suitable for infants or young children, put up for retail sale",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "19011010",
+   "hs6": "190110",
+   "hs6_description": "Food preparations; of flour, meal, starch, malt extract or milk products, suitable for infants or young children, put up for retail sale",
    "level": 8,
    "chapter": "19",
    "description": "Malted milk (including powder)",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "19011090",
+   "hs6": "190110",
+   "hs6_description": "Food preparations; of flour, meal, starch, malt extract or milk products, suitable for infants or young children, put up for retail sale",
    "level": 8,
    "chapter": "19",
    "description": "Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "19012000",
+   "hs6": "190120",
+   "hs6_description": "Food preparations; mixes and doughs for the preparation of bread, pastry, cakes, biscuits and other bakers' wares",
    "level": 8,
    "chapter": "19",
    "description": "Mixes and doughs for the preparation of bakers wares of heading 19.05",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "190190",
+   "hs6": "190190",
+   "hs6_description": "Food preparations; of flour, meal, starch, malt extract or milk products, for uses n.e.c. in heading no. 1901",
    "level": 6,
    "chapter": "19",
    "description": "Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "19019010",
+   "hs6": "190190",
+   "hs6_description": "Food preparations; of flour, meal, starch, malt extract or milk products, for uses n.e.c. in heading no. 1901",
    "level": 8,
    "chapter": "19",
    "description": "Malt extract",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "19019090",
+   "hs6": "190190",
+   "hs6_description": "Food preparations; of flour, meal, starch, malt extract or milk products, for uses n.e.c. in heading no. 1901",
    "level": 8,
    "chapter": "19",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "1902",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "19",
    "description": "Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "19021100",
+   "hs6": "190211",
+   "hs6_description": "Food preparations; pasta, containing eggs, uncooked, not stuffed or otherwise prepared",
    "level": 8,
    "chapter": "19",
    "description": "Uncooked pasta, not stuffed or otherwise prepared : --Containing eggs",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "19021900",
+   "hs6": "190219",
+   "hs6_description": "Food preparations; pasta, uncooked (excluding that containing eggs), not stuffed or otherwise prepared",
    "level": 8,
    "chapter": "19",
    "description": "Uncooked pasta, not stuffed or otherwise prepared : -- Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "190220",
+   "hs6": "190220",
+   "hs6_description": "Food preparations; pasta, stuffed (with meat or other substances), whether or not cooked or otherwise prepared",
    "level": 6,
    "chapter": "19",
    "description": "Stuffed pasta, whether or not cooked or otherwise prepared",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "19022010",
+   "hs6": "190220",
+   "hs6_description": "Food preparations; pasta, stuffed (with meat or other substances), whether or not cooked or otherwise prepared",
    "level": 8,
    "chapter": "19",
    "description": "Cooked",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "19022090",
+   "hs6": "190220",
+   "hs6_description": "Food preparations; pasta, stuffed (with meat or other substances), whether or not cooked or otherwise prepared",
    "level": 8,
    "chapter": "19",
    "description": "Other",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "190230",
+   "hs6": "190230",
+   "hs6_description": "Food preparations; pasta (excluding stuffed), cooked or otherwise prepared",
    "level": 6,
    "chapter": "19",
    "description": "Other pasta",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "19023010",
+   "hs6": "190230",
+   "hs6_description": "Food preparations; pasta (excluding stuffed), cooked or otherwise prepared",
    "level": 8,
    "chapter": "19",
    "description": "Dried",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "19023090",
+   "hs6": "190230",
+   "hs6_description": "Food preparations; pasta (excluding stuffed), cooked or otherwise prepared",
    "level": 8,
    "chapter": "19",
    "description": "Other",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "190240",
+   "hs6": "190240",
+   "hs6_description": "Food preparations; couscous",
    "level": 6,
    "chapter": "19",
    "description": "Couscous",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "19024010",
+   "hs6": "190240",
+   "hs6_description": "Food preparations; couscous",
    "level": 8,
    "chapter": "19",
    "description": "Unprepared",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "19024090",
+   "hs6": "190240",
+   "hs6_description": "Food preparations; couscous",
    "level": 8,
    "chapter": "19",
    "description": "Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "19030000",
+   "hs6": "190300",
+   "hs6_description": "Food preparations; tapioca and substitutes thereof, prepared from starch in the form of flakes, grains, pearls, siftings or similar",
    "level": 8,
    "chapter": "19",
    "description": "Tapioca and substitutes therefore prepared from starch, in the form of flakes, grains, pearls, siftings or in similar forms",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "1904",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "19",
    "description": "Prepared foods obtained by the swelling or roasting of cereals or cereal products (for example, corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked, or otherwise prepared, not elsewhere specified or included.",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "190410",
+   "hs6": "190410",
+   "hs6_description": "Food preparations; obtained by the swelling or roasting of cereals or cereal products",
    "level": 6,
    "chapter": "19",
    "description": "Prepared foods obtained by the swelling or roasting of cereals or cereal products",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "19041010",
+   "hs6": "190410",
+   "hs6_description": "Food preparations; obtained by the swelling or roasting of cereals or cereal products",
    "level": 8,
    "chapter": "19",
    "description": "Corn flakes",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "19041020",
+   "hs6": "190410",
+   "hs6_description": "Food preparations; obtained by the swelling or roasting of cereals or cereal products",
    "level": 8,
    "chapter": "19",
    "description": "Paws, Mudi and the like",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "19041030",
+   "hs6": "190410",
+   "hs6_description": "Food preparations; obtained by the swelling or roasting of cereals or cereal products",
    "level": 8,
    "chapter": "19",
    "description": "Bulgar wheat",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "19041090",
+   "hs6": "190410",
+   "hs6_description": "Food preparations; obtained by the swelling or roasting of cereals or cereal products",
    "level": 8,
    "chapter": "19",
    "description": "Other",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "190420",
+   "hs6": "190420",
+   "hs6_description": "Food preparations; obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals",
    "level": 6,
    "chapter": "19",
    "description": "Prepared foods obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals;",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "19042010",
+   "hs6": "190420",
+   "hs6_description": "Food preparations; obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals",
    "level": 8,
    "chapter": "19",
    "description": "With millet content 15% or more by weight",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "19042090",
+   "hs6": "190420",
+   "hs6_description": "Food preparations; obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals",
    "level": 8,
    "chapter": "19",
    "description": "Other",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "19043000",
+   "hs6": "190430",
+   "hs6_description": "Prepared foods obtained by the swelling or roasting of cereals or cereal products (e.g. corn flakes); cereals, not maize (corn), in grain form or in the form of flakes or other worked grains, from bulgur wheat",
    "level": 8,
    "chapter": "19",
    "description": "Bulgur wheat",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "19049000",
+   "hs6": "190490",
+   "hs6_description": "Food preparations; cereal or cereal products (excluding maize), in grain form, pre-cooked or otherwise prepared",
    "level": 8,
    "chapter": "19",
    "description": "Other",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "1905",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "19",
    "description": "Bread, pastry, cakes, biscuits and other bakers wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products.",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "19051000",
+   "hs6": "190510",
+   "hs6_description": "Food preparations; crispbread, whether or not containing cocoa",
    "level": 8,
    "chapter": "19",
    "description": "Crispbread",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "19052000",
+   "hs6": "190520",
+   "hs6_description": "Food preparations; gingerbread and the like, whether or not containing cocoa",
    "level": 8,
    "chapter": "19",
    "description": "Gingerbread and the like",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "19053100",
+   "hs6": "190531",
+   "hs6_description": "Food preparations; sweet biscuits, whether or not containing cocoa",
    "level": 8,
    "chapter": "19",
    "description": "Sweet biscuits; waffles and wafers : --Sweet biscuits",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "190532",
+   "hs6": "190532",
+   "hs6_description": "Food preparations; waffles and wafers, whether or not containing cocoa",
    "level": 6,
    "chapter": "19",
    "description": "--Waffles and wafers",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "19053211",
+   "hs6": "190532",
+   "hs6_description": "Food preparations; waffles and wafers, whether or not containing cocoa",
    "level": 8,
    "chapter": "19",
    "description": "Communion wafers: ---- Coated with chocolate or containing chocolate",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "19053290",
+   "hs6": "190532",
+   "hs6_description": "Food preparations; waffles and wafers, whether or not containing cocoa",
    "level": 8,
    "chapter": "19",
    "description": "Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "19054000",
+   "hs6": "190540",
+   "hs6_description": "Food preparations; rusks, toasted bread and similar toasted products, whether or not containing cocoa",
    "level": 8,
    "chapter": "19",
    "description": "Rusks, toasted bread and similar toasted products",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "190590",
+   "hs6": "190590",
+   "hs6_description": "Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",
    "level": 6,
    "chapter": "19",
    "description": "Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "19059010",
+   "hs6": "190590",
+   "hs6_description": "Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",
    "level": 8,
    "chapter": "19",
    "description": "Pastries and cakes",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "19059020",
+   "hs6": "190590",
+   "hs6_description": "Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",
    "level": 8,
    "chapter": "19",
    "description": "Biscuits not elsewhere specified or included",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "19059030",
+   "hs6": "190590",
+   "hs6_description": "Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",
    "level": 8,
    "chapter": "19",
    "description": "Extruded or expanded products, savoury or salted",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "19059040",
+   "hs6": "190590",
+   "hs6_description": "Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",
    "level": 8,
    "chapter": "19",
    "description": "Papad",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "19059051",
+   "hs6": "190590",
+   "hs6_description": "Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",
    "level": 8,
    "chapter": "19",
    "description": "Communion wafers:---- Coated with chocolate or containing chocolate",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "19059059",
+   "hs6": "190590",
+   "hs6_description": "Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",
    "level": 8,
    "chapter": "19",
    "description": "Communion wafers: ---- Other",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "19059090",
+   "hs6": "190590",
+   "hs6_description": "Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",
    "level": 8,
    "chapter": "19",
    "description": "Other",

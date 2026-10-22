@@ -234,6 +234,11 @@ def run_bee(ctx, summary, prov):
 def run_itchs(ctx, summary):
     root, d = ctx.root, S.ITCHS_DIR
     old_prov = {r['chapter']: r for r in (read_rows(root, d + '/PROVENANCE.csv') or [])}
+    hs6_path = os.path.join(root, 'data', 'hs6', 'harmonized-system.csv')
+    if not os.path.isfile(hs6_path):
+        raise Failure('itchs: data/hs6/harmonized-system.csv is missing (the HS6 nomenclature table the hs6_description column joins)')
+    hs6 = itchs.load_hs6(hs6_path)
+    hs6_missing = set()
     bodies, prov_new = {}, {}
     if ctx.offline:
         # the acquisition record (raw PROVENANCE of the first archive, else data/itchs/2022/PROVENANCE.csv) says which chapters and which bytes
@@ -279,6 +284,7 @@ def run_itchs(ctx, summary):
         if old and old_json and not ctx.offline:
             old_asof = old[0]['as_of'] if old else date
             rows0, notes0, _, st0 = itchs.parse_chapter(body, ch, old_asof)
+            itchs.add_hs6_descriptions(rows0, hs6)
             if chapter_json(ch, st0, rows0, notes0, old_asof) == old_json:
                 use_asof, status = old_asof, 'unchanged'
             else:
@@ -286,6 +292,7 @@ def run_itchs(ctx, summary):
         elif old:
             status = 'rebuilt'
         rows, notes, snotes, st = itchs.parse_chapter(body, ch, use_asof)
+        hs6_missing.update(itchs.add_hs6_descriptions(rows, hs6))
         p = prov_new.get(ch) or (itchs.provenance_row(ch, body, ts, st['rows_8digit']) if ts else old_prov.get(ch))
         if p is None:
             raise Failure('itchs ch%s: no provenance row' % ch)
@@ -328,10 +335,12 @@ def run_itchs(ctx, summary):
     report = {'edition': itchs.EDITION, 'permission_ref': itchs.PERMISSION_REF, 'chapters': len(chapters), 'rows_total': len(all_rows),
               'rows_8digit': n8, 'rows_6digit': sum(1 for r in all_rows if int(r['level']) == 6), 'rows_4digit': sum(1 for r in all_rows if int(r['level']) == 4),
               'chapter_condition_rows': len(all_notes), 'section_note_rows': len(section_notes),
+              'hs6_not_in_wco_table': sorted(hs6_missing),
               'duplicate_codes_in_export': sorted(c for r in report_rows for c in r['duplicate_codes_in_export']),
               'assertions': ['rows parsed == items in each chapter export', 'notes parsed == notes in each chapter export',
                              '8-digit rows parsed == rows_in_json recorded at acquisition (per chapter)', 'sha256 of each archived chapter == PROVENANCE',
-                             'sum of per-chapter 8-digit rows == 8-digit rows in all.csv'], 'all_passed': True,
+                             'sum of per-chapter 8-digit rows == 8-digit rows in all.csv',
+                             'every hs6 in all.csv is in data/hs6/harmonized-system.csv or listed in hs6_not_in_wco_table'], 'all_passed': True,
               'per_chapter': [{k: v for k, v in r.items() if k != 'duplicate_codes_in_export'} for r in report_rows]}
     ctx.stage.put(d + '/BUILD-REPORT.json', (json.dumps(report, indent=1, ensure_ascii=False) + '\n').encode())
     summary['itchs'] = {'chapters': len(chapters), 'rows_total': len(all_rows), 'rows_8digit': n8, 'chapters_changed': sorted(changed_chapters) if not ctx.offline else [], **diff}

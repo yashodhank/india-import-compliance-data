@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "2801",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Fluorine, chlorine, bromine and iodine.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "28011000",
+   "hs6": "280110",
+   "hs6_description": "Chlorine",
    "level": 8,
    "chapter": "28",
    "description": "Chlorine",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "28012000",
+   "hs6": "280120",
+   "hs6_description": "Iodine",
    "level": 8,
    "chapter": "28",
    "description": "Iodine",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "280130",
+   "hs6": "280130",
+   "hs6_description": "Fluorine; bromine",
    "level": 6,
    "chapter": "28",
    "description": "Fluorine; bromine",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "28013010",
+   "hs6": "280130",
+   "hs6_description": "Fluorine; bromine",
    "level": 8,
    "chapter": "28",
    "description": "Fluorine",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "28013020",
+   "hs6": "280130",
+   "hs6_description": "Fluorine; bromine",
    "level": 8,
    "chapter": "28",
    "description": "Bromine",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "2802",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Sulphur, sublimed or precipitated; colloidal sulphur.",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "280200",
+   "hs6": "280200",
+   "hs6_description": "Sulphur; sublimed or precipitated, colloidal sulphur",
    "level": 6,
    "chapter": "28",
    "description": "Sulphur, sublimed or precipitated; colloidal sulphur :",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "28020010",
+   "hs6": "280200",
+   "hs6_description": "Sulphur; sublimed or precipitated, colloidal sulphur",
    "level": 8,
    "chapter": "28",
    "description": "Sublimed sulphur",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "28020020",
+   "hs6": "280200",
+   "hs6_description": "Sulphur; sublimed or precipitated, colloidal sulphur",
    "level": 8,
    "chapter": "28",
    "description": "Precipitated sulphur",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "28020030",
+   "hs6": "280200",
+   "hs6_description": "Sulphur; sublimed or precipitated, colloidal sulphur",
    "level": 8,
    "chapter": "28",
    "description": "Colloidal sulphur",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "2803",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Carbon (carbon blacks and other forms of carbon not elsewhere specified or included).",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "280300",
+   "hs6": "280300",
+   "hs6_description": "Carbon; carbon blacks and other forms of carbon n.e.c.",
    "level": 6,
    "chapter": "28",
    "description": "Carbon (carbon blacks and other forms of carbon not elsewhere specified or included) :",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "28030010",
+   "hs6": "280300",
+   "hs6_description": "Carbon; carbon blacks and other forms of carbon n.e.c.",
    "level": 8,
    "chapter": "28",
    "description": "Carbon blacks",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "28030020",
+   "hs6": "280300",
+   "hs6_description": "Carbon; carbon blacks and other forms of carbon n.e.c.",
    "level": 8,
    "chapter": "28",
    "description": "Acetylene black",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "28030090",
+   "hs6": "280300",
+   "hs6_description": "Carbon; carbon blacks and other forms of carbon n.e.c.",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "2804",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Hydrogen, rare gases and other non-metals.",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "28041000",
+   "hs6": "280410",
+   "hs6_description": "Hydrogen",
    "level": 8,
    "chapter": "28",
    "description": "Hydrogen",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "28042100",
+   "hs6": "280421",
+   "hs6_description": "Gases, rare; argon",
    "level": 8,
    "chapter": "28",
    "description": "Rare gases : -- Argon",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "280429",
+   "hs6": "280429",
+   "hs6_description": "Gases, rare; other than argon",
    "level": 6,
    "chapter": "28",
    "description": "Rare gases : -- Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "28042910",
+   "hs6": "280429",
+   "hs6_description": "Gases, rare; other than argon",
    "level": 8,
    "chapter": "28",
    "description": "Helium",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "28042990",
+   "hs6": "280429",
+   "hs6_description": "Gases, rare; other than argon",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "28043000",
+   "hs6": "280430",
+   "hs6_description": "Nitrogen",
    "level": 8,
    "chapter": "28",
    "description": "Nitrogen",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "280440",
+   "hs6": "280440",
+   "hs6_description": "Oxygen",
    "level": 6,
    "chapter": "28",
    "description": "Oxygen",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "28044010",
+   "hs6": "280440",
+   "hs6_description": "Oxygen",
    "level": 8,
    "chapter": "28",
    "description": "Medicinal grade",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "28044090",
+   "hs6": "280440",
+   "hs6_description": "Oxygen",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "280450",
+   "hs6": "280450",
+   "hs6_description": "Boron; tellurium",
    "level": 6,
    "chapter": "28",
    "description": "Boron; tellurium",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "28045010",
+   "hs6": "280450",
+   "hs6_description": "Boron; tellurium",
    "level": 8,
    "chapter": "28",
    "description": "Boron",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "28045020",
+   "hs6": "280450",
+   "hs6_description": "Boron; tellurium",
    "level": 8,
    "chapter": "28",
    "description": "Tellurium",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "28046100",
+   "hs6": "280461",
+   "hs6_description": "Silicon; containing by weight not less than 99.99% of silicon",
    "level": 8,
    "chapter": "28",
    "description": "Silicon : -- Containing by weight not less than 99.99 percent of silicon",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "28046900",
+   "hs6": "280469",
+   "hs6_description": "Silicon; containing by weight less than 99.99% of silicon",
    "level": 8,
    "chapter": "28",
    "description": "Silicon : -- Other",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "280470",
+   "hs6": "280470",
+   "hs6_description": "Phosphorus",
    "level": 6,
    "chapter": "28",
    "description": "Phosphorus",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "28047010",
+   "hs6": "280470",
+   "hs6_description": "Phosphorus",
    "level": 8,
    "chapter": "28",
    "description": "Phosphorus, black",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "28047020",
+   "hs6": "280470",
+   "hs6_description": "Phosphorus",
    "level": 8,
    "chapter": "28",
    "description": "Phosphorus, red",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "28047030",
+   "hs6": "280470",
+   "hs6_description": "Phosphorus",
    "level": 8,
    "chapter": "28",
    "description": "Phosphorus, white or yellow",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "28048000",
+   "hs6": "280480",
+   "hs6_description": "Arsenic",
    "level": 8,
    "chapter": "28",
    "description": "Arsenic",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "28049000",
+   "hs6": "280490",
+   "hs6_description": "Selenium",
    "level": 8,
    "chapter": "28",
    "description": "Selenium",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "2805",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "ALKALI OR ALKALINE-EARTH METALS; RARE-EARTH METALS,SCANDIUM AND YTTRIUM, WHETHER OR NOT INTERMIXED OR INTERALLOYED; MERCURY",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "28051100",
+   "hs6": "280511",
+   "hs6_description": "Alkali or alkali-earth metals; sodium",
    "level": 8,
    "chapter": "28",
    "description": "Alkali or alkaline-earth metals : -- Sodium",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "28051200",
+   "hs6": "280512",
+   "hs6_description": "Alkali or alkali-earth metals; calcium",
    "level": 8,
    "chapter": "28",
    "description": "Alkali or alkaline-earth metals : -- Calcium",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "28051900",
+   "hs6": "280519",
+   "hs6_description": "Alkali or alkali-earth metals; other than sodium and calcium",
    "level": 8,
    "chapter": "28",
    "description": "Alkali or alkaline-earth metals : -- Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "28053000",
+   "hs6": "280530",
+   "hs6_description": "Earth-metals, rare; scandium and yttrium, whether or not intermixed or interalloyed",
    "level": 8,
    "chapter": "28",
    "description": "Rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "28054000",
+   "hs6": "280540",
+   "hs6_description": "Mercury",
    "level": 8,
    "chapter": "28",
    "description": "Mercury",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "2806",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Hydrogen chloride (hydrochloric acid); chlorosulphuric acid.",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "28061000",
+   "hs6": "280610",
+   "hs6_description": "Hydrogen chloride (hydrochloric acid)",
    "level": 8,
    "chapter": "28",
    "description": "Hydrogen chloride (hydrochloric acid)",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "28062000",
+   "hs6": "280620",
+   "hs6_description": "Chlorosulphuric acid",
    "level": 8,
    "chapter": "28",
    "description": "Chlorosulphuric acid",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "2807",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Sulphuric acid; oleum.",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "280700",
+   "hs6": "280700",
+   "hs6_description": "Sulphuric acid; oleum",
    "level": 6,
    "chapter": "28",
    "description": "Sulphuric acid; oleum :",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "28070010",
+   "hs6": "280700",
+   "hs6_description": "Sulphuric acid; oleum",
    "level": 8,
    "chapter": "28",
    "description": "Sulphurc acid",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "28070020",
+   "hs6": "280700",
+   "hs6_description": "Sulphuric acid; oleum",
    "level": 8,
    "chapter": "28",
    "description": "Oleum",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "2808",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Nitric acid; sulphonitric acids.",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "280800",
+   "hs6": "280800",
+   "hs6_description": "Nitric acid; sulphonitric acids",
    "level": 6,
    "chapter": "28",
    "description": "Nitric acid; sulphonitric acids :",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "28080010",
+   "hs6": "280800",
+   "hs6_description": "Nitric acid; sulphonitric acids",
    "level": 8,
    "chapter": "28",
    "description": "Nitric acid",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "28080020",
+   "hs6": "280800",
+   "hs6_description": "Nitric acid; sulphonitric acids",
    "level": 8,
    "chapter": "28",
    "description": "Sulphonitric acids",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "2809",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically defined.",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "28091000",
+   "hs6": "280910",
+   "hs6_description": "Diphosphorus pentoxide",
    "level": 8,
    "chapter": "28",
    "description": "Diphosphorus pentaoxide",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "280920",
+   "hs6": "280920",
+   "hs6_description": "Phosphoric acid and polyphosphoric acids",
    "level": 6,
    "chapter": "28",
    "description": "Phosphoric acid and polyphosphoric acids",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "28092010",
+   "hs6": "280920",
+   "hs6_description": "Phosphoric acid and polyphosphoric acids",
    "level": 8,
    "chapter": "28",
    "description": "Phosporic acid",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "28092020",
+   "hs6": "280920",
+   "hs6_description": "Phosphoric acid and polyphosphoric acids",
    "level": 8,
    "chapter": "28",
    "description": "Polyphosphoric acids",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "2810",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Oxides of boron; boric acids.",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "28100010",
+   "hs6": "281000",
+   "hs6_description": "Oxides of boron; boric acids",
    "level": 8,
    "chapter": "28",
    "description": "Oxides of boron; boric acids: --- Oxides of boron",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "28100020",
+   "hs6": "281000",
+   "hs6_description": "Oxides of boron; boric acids",
    "level": 8,
    "chapter": "28",
    "description": "Oxides of boron; boric acids: --- Boric acids",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "2811",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Other inorganic acids and other inorganic oxygen compounds of non-metals.",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "28111100",
+   "hs6": "281111",
+   "hs6_description": "Hydrogen fluoride (hydrofluoric acid)",
    "level": 8,
    "chapter": "28",
    "description": "Other inorganic acids : -- Hydrogen fluoride (hydrofluoric acid)",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "28111200",
+   "hs6": "281112",
+   "hs6_description": "Hydrogen cyanide (hydrocyanic acid)",
    "level": 8,
    "chapter": "28",
    "description": "Other inorganic acids : -- Hydrogen cyanide (hydrocyanic acid)",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "281119",
+   "hs6": "281119",
+   "hs6_description": "Inorganic acids; other than hydrogen fluoride",
    "level": 6,
    "chapter": "28",
    "description": "Other inorganic acids : -- Other",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "28111920",
+   "hs6": "281119",
+   "hs6_description": "Inorganic acids; other than hydrogen fluoride",
    "level": 8,
    "chapter": "28",
    "description": "Hypophosphorus acid (phosphinic acid)",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "28111930",
+   "hs6": "281119",
+   "hs6_description": "Inorganic acids; other than hydrogen fluoride",
    "level": 8,
    "chapter": "28",
    "description": "Acids of arsenic",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "28111940",
+   "hs6": "281119",
+   "hs6_description": "Inorganic acids; other than hydrogen fluoride",
    "level": 8,
    "chapter": "28",
    "description": "Sulphonic acid",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "28111990",
+   "hs6": "281119",
+   "hs6_description": "Inorganic acids; other than hydrogen fluoride",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "281121",
+   "hs6": "281121",
+   "hs6_description": "Carbon dioxide",
    "level": 6,
    "chapter": "28",
    "description": "Other inorganic oxygen compounds of non-metals : -- Carbon dioxide",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "28112110",
+   "hs6": "281121",
+   "hs6_description": "Carbon dioxide",
    "level": 8,
    "chapter": "28",
    "description": "Dry ice",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "28112190",
+   "hs6": "281121",
+   "hs6_description": "Carbon dioxide",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "28112200",
+   "hs6": "281122",
+   "hs6_description": "Silicon dioxide",
    "level": 8,
    "chapter": "28",
    "description": "Other inorganic oxygen compounds of non-metals : -- Silicon dioxide",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "281129",
+   "hs6": "281129",
+   "hs6_description": "Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",
    "level": 6,
    "chapter": "28",
    "description": "Other inorganic oxygen compounds of non-metals : -- Other",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "28112910",
+   "hs6": "281129",
+   "hs6_description": "Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",
    "level": 8,
    "chapter": "28",
    "description": "Arsenic pentoxide",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "28112920",
+   "hs6": "281129",
+   "hs6_description": "Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",
    "level": 8,
    "chapter": "28",
    "description": "Arsenic trioxide",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "28112930",
+   "hs6": "281129",
+   "hs6_description": "Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",
    "level": 8,
    "chapter": "28",
    "description": "Nitrous oxide",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "28112940",
+   "hs6": "281129",
+   "hs6_description": "Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",
    "level": 8,
    "chapter": "28",
    "description": "Carbon monoxide",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "28112950",
+   "hs6": "281129",
+   "hs6_description": "Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",
    "level": 8,
    "chapter": "28",
    "description": "Sulphur trioxide (sulphuric anhydride)",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "28112990",
+   "hs6": "281129",
+   "hs6_description": "Inorganic oxygen compounds; of non-metals, n.e.c. in item no. 2811.2",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "2812",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Halides and halide oxides of non-metals.",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "28121100",
+   "hs6": "281211",
+   "hs6_description": "Carbonyl dichloride (phosgene)",
    "level": 8,
    "chapter": "28",
    "description": "Chlorides and chloride oxides : -- Carbonyl dichloride (phosgene)",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "28121200",
+   "hs6": "281212",
+   "hs6_description": "Phosphorus oxychloride",
    "level": 8,
    "chapter": "28",
    "description": "Chlorides and chloride oxides : -- Phosphorus oxychloride",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "28121300",
+   "hs6": "281213",
+   "hs6_description": "Phosphorus trichloride",
    "level": 8,
    "chapter": "28",
    "description": "Chlorides and chloride oxides : -- Phosphorus trichloride",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "28121400",
+   "hs6": "281214",
+   "hs6_description": "Phosphorus pentachloride",
    "level": 8,
    "chapter": "28",
    "description": "Chlorides and chloride oxides : -- Phosphorus pentachloride",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "28121500",
+   "hs6": "281215",
+   "hs6_description": "Sulphur monochloride",
    "level": 8,
    "chapter": "28",
    "description": "Chlorides and chloride oxides : -- Sulphur monochloride",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "28121600",
+   "hs6": "281216",
+   "hs6_description": "Sulphur dichloride",
    "level": 8,
    "chapter": "28",
    "description": "Chlorides and chloride oxides : -- Sulphur dichloride",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "28121700",
+   "hs6": "281217",
+   "hs6_description": "Thionyl chloride",
    "level": 8,
    "chapter": "28",
    "description": "Chlorides and chloride oxides : -- Thionyl chloride",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "281219",
+   "hs6": "281219",
+   "hs6_description": "Arsenic trichloride and other chlorides and chloride oxides, n.e.c. in item no. 2812",
    "level": 6,
    "chapter": "28",
    "description": "Chlorides and chloride oxides : --Other",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "28121910",
+   "hs6": "281219",
+   "hs6_description": "Arsenic trichloride and other chlorides and chloride oxides, n.e.c. in item no. 2812",
    "level": 8,
    "chapter": "28",
    "description": "Sulphur oxychloride",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "28121920",
+   "hs6": "281219",
+   "hs6_description": "Arsenic trichloride and other chlorides and chloride oxides, n.e.c. in item no. 2812",
    "level": 8,
    "chapter": "28",
    "description": "Silicon tetrachloride",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "28121930",
+   "hs6": "281219",
+   "hs6_description": "Arsenic trichloride and other chlorides and chloride oxides, n.e.c. in item no. 2812",
    "level": 8,
    "chapter": "28",
    "description": "Arsenic trichloride",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "28121990",
+   "hs6": "281219",
+   "hs6_description": "Arsenic trichloride and other chlorides and chloride oxides, n.e.c. in item no. 2812",
    "level": 8,
    "chapter": "28",
    "description": "other",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "28129000",
+   "hs6": "281290",
+   "hs6_description": "Halides and halide oxides of non-metals; excluding chloride",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "2813",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Sulphides of non-metals; commercial phosphorus trisulphide.",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "28131000",
+   "hs6": "281310",
+   "hs6_description": "Carbon disulphide",
    "level": 8,
    "chapter": "28",
    "description": "Carbon disulphide",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "281390",
+   "hs6": "281390",
+   "hs6_description": "Sulphides of non-metals, (excluding carbon); commercial phosphorus trisulphide",
    "level": 6,
    "chapter": "28",
    "description": "other",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "28139010",
+   "hs6": "281390",
+   "hs6_description": "Sulphides of non-metals, (excluding carbon); commercial phosphorus trisulphide",
    "level": 8,
    "chapter": "28",
    "description": "Arsenic disulphide (artificial)",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "28139020",
+   "hs6": "281390",
+   "hs6_description": "Sulphides of non-metals, (excluding carbon); commercial phosphorus trisulphide",
    "level": 8,
    "chapter": "28",
    "description": "Commercial phosphorus trisulphide",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "28139030",
+   "hs6": "281390",
+   "hs6_description": "Sulphides of non-metals, (excluding carbon); commercial phosphorus trisulphide",
    "level": 8,
    "chapter": "28",
    "description": "Lime Sulphur",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "28139090",
+   "hs6": "281390",
+   "hs6_description": "Sulphides of non-metals, (excluding carbon); commercial phosphorus trisulphide",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "2814",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Ammonia, anhydrous or in aqueous solution.",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "28141000",
+   "hs6": "281410",
+   "hs6_description": "Ammonia; anhydrous",
    "level": 8,
    "chapter": "28",
    "description": "Anhydrous ammonia",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "28142000",
+   "hs6": "281420",
+   "hs6_description": "Ammonia; in aqueous solution",
    "level": 8,
    "chapter": "28",
    "description": "Ammonia in aqueous solution",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "2815",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Sodium hydroxide (caustic soda); potassium hydroxide (caustic potash); peroxides of sodium or potassium.",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "281511",
+   "hs6": "281511",
+   "hs6_description": "Sodium hydroxide (caustic soda); solid",
    "level": 6,
    "chapter": "28",
    "description": "Sodium hydroxide (caustic soda) : -- Solid",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "28151110",
+   "hs6": "281511",
+   "hs6_description": "Sodium hydroxide (caustic soda); solid",
    "level": 8,
    "chapter": "28",
    "description": "Flakes",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "28151190",
+   "hs6": "281511",
+   "hs6_description": "Sodium hydroxide (caustic soda); solid",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "28151200",
+   "hs6": "281512",
+   "hs6_description": "Sodium hydroxide (caustic soda); in aqueous solution (soda lye or liquid soda)",
    "level": 8,
    "chapter": "28",
    "description": "Sodium hydroxide (caustic soda) : -- In aqueous solution (soda lye or liquid soda)",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "28152000",
+   "hs6": "281520",
+   "hs6_description": "Potassium hydroxide (caustic potash)",
    "level": 8,
    "chapter": "28",
    "description": "Potassium hydroxide (caustic potash)",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "28153000",
+   "hs6": "281530",
+   "hs6_description": "Peroxides of sodium or potassium",
    "level": 8,
    "chapter": "28",
    "description": "Peroxides of sodium or potassium",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "2816",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Hydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or barium.",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "281610",
+   "hs6": "281610",
+   "hs6_description": "Hydroxide and peroxide of magnesium",
    "level": 6,
    "chapter": "28",
    "description": "Hydroxide and peroxide of magnesium",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "28161010",
+   "hs6": "281610",
+   "hs6_description": "Hydroxide and peroxide of magnesium",
    "level": 8,
    "chapter": "28",
    "description": "Hydroxide of magnesium",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "28161020",
+   "hs6": "281610",
+   "hs6_description": "Hydroxide and peroxide of magnesium",
    "level": 8,
    "chapter": "28",
    "description": "Peroxide of magnesium",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "28164000",
+   "hs6": "281640",
+   "hs6_description": "Oxides, hydroxides and peroxides, of strontium or barium",
    "level": 8,
    "chapter": "28",
    "description": "Oxides, hydroxides and peroxides, of strontium or barium",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "2817",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Zinc oxide; zinc peroxide.",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "281700",
+   "hs6": "281700",
+   "hs6_description": "Zinc; oxide and peroxide",
    "level": 6,
    "chapter": "28",
    "description": "Zinc oxide; zinc peroxide :",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "28170010",
+   "hs6": "281700",
+   "hs6_description": "Zinc; oxide and peroxide",
    "level": 8,
    "chapter": "28",
    "description": "Zinc oxide",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "28170020",
+   "hs6": "281700",
+   "hs6_description": "Zinc; oxide and peroxide",
    "level": 8,
    "chapter": "28",
    "description": "Zinc peroxide",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "2818",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Artificial corundum, whether or not chemically defined; aluminium oxide; aluminium hydroxide.",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "28181000",
+   "hs6": "281810",
+   "hs6_description": "Aluminium oxide; artificial corundum",
    "level": 8,
    "chapter": "28",
    "description": "Artificial corundum, whether or not chemically defined",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "281820",
+   "hs6": "281820",
+   "hs6_description": "Aluminium oxide; other than artificial corundum",
    "level": 6,
    "chapter": "28",
    "description": "Aluminium oxide, other than artificial corundum",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "28182011",
+   "hs6": "281820",
+   "hs6_description": "Aluminium oxide; other than artificial corundum",
    "level": 8,
    "chapter": "28",
    "description": "Alumina, calcined: Metallurgical grade, conforming to IS 17441",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "28182019",
+   "hs6": "281820",
+   "hs6_description": "Aluminium oxide; other than artificial corundum",
    "level": 8,
    "chapter": "28",
    "description": "Alumina, calcined: ---- Non- metallurgical grade, conforming to IS 17441",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "28182090",
+   "hs6": "281820",
+   "hs6_description": "Aluminium oxide; other than artificial corundum",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "28183000",
+   "hs6": "281830",
+   "hs6_description": "Aluminium hydroxide",
    "level": 8,
    "chapter": "28",
    "description": "Aluminium hydroxide",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "2819",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Chromium oxides and hydroxides.",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "28191000",
+   "hs6": "281910",
+   "hs6_description": "Chromium trioxide",
    "level": 8,
    "chapter": "28",
    "description": "Chromium trioxide",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "28199000",
+   "hs6": "281990",
+   "hs6_description": "Chromium oxides and hydroxides; excluding chromium trioxide",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "2820",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Manganese oxides.",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "28201000",
+   "hs6": "282010",
+   "hs6_description": "Manganese dioxide",
    "level": 8,
    "chapter": "28",
    "description": "Manganese dioxide",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "28209000",
+   "hs6": "282090",
+   "hs6_description": "Manganese oxides; excluding manganese dioxide",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "2821",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Iron oxides and hydroxides; earth colours containing 70 percent or more by weight of combined iron evaluated as Fe2O3.",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "282110",
+   "hs6": "282110",
+   "hs6_description": "Iron oxides and hydroxides",
    "level": 6,
    "chapter": "28",
    "description": "Iron oxides and hydroxides",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "28211010",
+   "hs6": "282110",
+   "hs6_description": "Iron oxides and hydroxides",
    "level": 8,
    "chapter": "28",
    "description": "Iron oxides",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "28211020",
+   "hs6": "282110",
+   "hs6_description": "Iron oxides and hydroxides",
    "level": 8,
    "chapter": "28",
    "description": "Iron hydroxides",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "28212000",
+   "hs6": "282120",
+   "hs6_description": "Earth colours; containing 70% or more by weight of combined iron evaluated as Fe2o3",
    "level": 8,
    "chapter": "28",
    "description": "Earth colours",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "2822",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Cobalt oxides and hydroxides; commercial cobalt oxides.",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "282200",
+   "hs6": "282200",
+   "hs6_description": "Cobalt oxides and hydroxides; commercial cobalt oxides",
    "level": 6,
    "chapter": "28",
    "description": "Cobalt oxides and hydroxides; commercial cobalt oxides :",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "28220010",
+   "hs6": "282200",
+   "hs6_description": "Cobalt oxides and hydroxides; commercial cobalt oxides",
    "level": 8,
    "chapter": "28",
    "description": "Cobalt oxides",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "28220020",
+   "hs6": "282200",
+   "hs6_description": "Cobalt oxides and hydroxides; commercial cobalt oxides",
    "level": 8,
    "chapter": "28",
    "description": "Cobalt hydroxides",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "28220030",
+   "hs6": "282200",
+   "hs6_description": "Cobalt oxides and hydroxides; commercial cobalt oxides",
    "level": 8,
    "chapter": "28",
    "description": "Commercial cobalt oxides",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "2823",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Titanium oxides.",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "282300",
+   "hs6": "282300",
+   "hs6_description": "Titanium oxides",
    "level": 6,
    "chapter": "28",
    "description": "Titanium oxides :",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "28230010",
+   "hs6": "282300",
+   "hs6_description": "Titanium oxides",
    "level": 8,
    "chapter": "28",
    "description": "Titanium dioxide",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "28230090",
+   "hs6": "282300",
+   "hs6_description": "Titanium oxides",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "2824",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Lead oxides; red lead and orange lead.",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "282410",
+   "hs6": "282410",
+   "hs6_description": "Lead; lead monoxide (litharge, massicot)",
    "level": 6,
    "chapter": "28",
    "description": "Lead monoxide (litharge, massicot)",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "28241010",
+   "hs6": "282410",
+   "hs6_description": "Lead; lead monoxide (litharge, massicot)",
    "level": 8,
    "chapter": "28",
    "description": "Litharge",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "28241020",
+   "hs6": "282410",
+   "hs6_description": "Lead; lead monoxide (litharge, massicot)",
    "level": 8,
    "chapter": "28",
    "description": "Massicot",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "28249000",
+   "hs6": "282490",
+   "hs6_description": "Lead oxides; n.e.c. in heading no. 2824",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "2825",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Hydrazine and hydroxylamine and their inorganic salts; other inorganic bases; other metal oxides, hydroxides and peroxides.",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "282510",
+   "hs6": "282510",
+   "hs6_description": "Hydrazine and hydroxylamine and their inorganic salts",
    "level": 6,
    "chapter": "28",
    "description": "Hydrazine and hydroxylamine and their inorganic salts",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "28251010",
+   "hs6": "282510",
+   "hs6_description": "Hydrazine and hydroxylamine and their inorganic salts",
    "level": 8,
    "chapter": "28",
    "description": "Hydrazine anhydrous",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "28251020",
+   "hs6": "282510",
+   "hs6_description": "Hydrazine and hydroxylamine and their inorganic salts",
    "level": 8,
    "chapter": "28",
    "description": "Hydrazine hydrate",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "28251030",
+   "hs6": "282510",
+   "hs6_description": "Hydrazine and hydroxylamine and their inorganic salts",
    "level": 8,
    "chapter": "28",
    "description": "Hydrazine sulphate",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "28251040",
+   "hs6": "282510",
+   "hs6_description": "Hydrazine and hydroxylamine and their inorganic salts",
    "level": 8,
    "chapter": "28",
    "description": "Hydroxylamine sulphate",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "28251090",
+   "hs6": "282510",
+   "hs6_description": "Hydrazine and hydroxylamine and their inorganic salts",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "28252000",
+   "hs6": "282520",
+   "hs6_description": "Lithium oxide and hydroxide",
    "level": 8,
    "chapter": "28",
    "description": "Lithium oxide and hydroxide",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "282530",
+   "hs6": "282530",
+   "hs6_description": "Vanadium oxides and hydroxides",
    "level": 6,
    "chapter": "28",
    "description": "Vanadium oxides and hydroxides",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "28253010",
+   "hs6": "282530",
+   "hs6_description": "Vanadium oxides and hydroxides",
    "level": 8,
    "chapter": "28",
    "description": "Vanadium pentoxide flakes",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "28253090",
+   "hs6": "282530",
+   "hs6_description": "Vanadium oxides and hydroxides",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "28254000",
+   "hs6": "282540",
+   "hs6_description": "Nickel oxides and hydroxides",
    "level": 8,
    "chapter": "28",
    "description": "Nickel oxides and hydroxides",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "28255000",
+   "hs6": "282550",
+   "hs6_description": "Copper oxides and hydroxides",
    "level": 8,
    "chapter": "28",
    "description": "Copper oxides and hydroxides",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "282560",
+   "hs6": "282560",
+   "hs6_description": "Germanium oxides and zirconium dioxide",
    "level": 6,
    "chapter": "28",
    "description": "Germanium oxides and zirconium dioxide",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "28256010",
+   "hs6": "282560",
+   "hs6_description": "Germanium oxides and zirconium dioxide",
    "level": 8,
    "chapter": "28",
    "description": "Germanium oxides",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "28256020",
+   "hs6": "282560",
+   "hs6_description": "Germanium oxides and zirconium dioxide",
    "level": 8,
    "chapter": "28",
    "description": "Zirconium dioxide",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "282570",
+   "hs6": "282570",
+   "hs6_description": "Molybdenum oxides and hydroxides",
    "level": 6,
    "chapter": "28",
    "description": "Molybdenum oxides and hydroxides",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "28257010",
+   "hs6": "282570",
+   "hs6_description": "Molybdenum oxides and hydroxides",
    "level": 8,
    "chapter": "28",
    "description": "Molybdenum trioxide",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "28257020",
+   "hs6": "282570",
+   "hs6_description": "Molybdenum oxides and hydroxides",
    "level": 8,
    "chapter": "28",
    "description": "Molybdic acid",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "28257090",
+   "hs6": "282570",
+   "hs6_description": "Molybdenum oxides and hydroxides",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "28258000",
+   "hs6": "282580",
+   "hs6_description": "Antimony oxides",
    "level": 8,
    "chapter": "28",
    "description": "Antimony oxides",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "282590",
+   "hs6": "282590",
+   "hs6_description": "Inorganic bases, metal oxides, hydroxides and peroxides; n.e.c. in heading no. 2825",
    "level": 6,
    "chapter": "28",
    "description": "Other",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "28259010",
+   "hs6": "282590",
+   "hs6_description": "Inorganic bases, metal oxides, hydroxides and peroxides; n.e.c. in heading no. 2825",
    "level": 8,
    "chapter": "28",
    "description": "Tin oxide",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "28259020",
+   "hs6": "282590",
+   "hs6_description": "Inorganic bases, metal oxides, hydroxides and peroxides; n.e.c. in heading no. 2825",
    "level": 8,
    "chapter": "28",
    "description": "Cadmium oxide",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "28259040",
+   "hs6": "282590",
+   "hs6_description": "Inorganic bases, metal oxides, hydroxides and peroxides; n.e.c. in heading no. 2825",
    "level": 8,
    "chapter": "28",
    "description": "Calcium hydroxide",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "28259050",
+   "hs6": "282590",
+   "hs6_description": "Inorganic bases, metal oxides, hydroxides and peroxides; n.e.c. in heading no. 2825",
    "level": 8,
    "chapter": "28",
    "description": "Ammonium hydroxide",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "28259090",
+   "hs6": "282590",
+   "hs6_description": "Inorganic bases, metal oxides, hydroxides and peroxides; n.e.c. in heading no. 2825",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "2826",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts.",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "28261200",
+   "hs6": "282612",
+   "hs6_description": "Fluorides; of aluminium",
    "level": 8,
    "chapter": "28",
    "description": "Fluorides : -- Of aluminium",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "282619",
+   "hs6": "282619",
+   "hs6_description": "Fluorides; other than of aluminium",
    "level": 6,
    "chapter": "28",
    "description": "Fluorides : -- Other",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "28261910",
+   "hs6": "282619",
+   "hs6_description": "Fluorides; other than of aluminium",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium fluoride",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "28261990",
+   "hs6": "282619",
+   "hs6_description": "Fluorides; other than of aluminium",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "28263000",
+   "hs6": "282630",
+   "hs6_description": "Sodium hexafluoroaluminate (synthetic cryolite)",
    "level": 8,
    "chapter": "28",
    "description": "Sodium hexafluoroaluminate (synthetic cryolite)",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "28269000",
+   "hs6": "282690",
+   "hs6_description": "Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts, n.e.c. in heading no. 2826",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "2827",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Chlorides, chloride oxides and chloride hydroxides; bromides and bromide oxides; iodides and iodide oxides.",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "28271000",
+   "hs6": "282710",
+   "hs6_description": "Chlorides; of ammonium",
    "level": 8,
    "chapter": "28",
    "description": "Ammonium chloride",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "28272000",
+   "hs6": "282720",
+   "hs6_description": "Chlorides; of calcium",
    "level": 8,
    "chapter": "28",
    "description": "Calcium chloride",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "28273100",
+   "hs6": "282731",
+   "hs6_description": "Chlorides; of magnesium",
    "level": 8,
    "chapter": "28",
    "description": "Other chlorides : -- Of magnesium",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "28273200",
+   "hs6": "282732",
+   "hs6_description": "Chlorides; of aluminium",
    "level": 8,
    "chapter": "28",
    "description": "Other chlorides : -- Of aluminium",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "28273500",
+   "hs6": "282735",
+   "hs6_description": "Chlorides; of nickel",
    "level": 8,
    "chapter": "28",
    "description": "Other chlorides : -- Of nickel",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "282739",
+   "hs6": "282739",
+   "hs6_description": "Chlorides; other than of ammonium, calcium, magnesium, aluminium and nickel",
    "level": 6,
    "chapter": "28",
    "description": "Other chlorides : -- Other",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "28273920",
+   "hs6": "282739",
+   "hs6_description": "Chlorides; other than of ammonium, calcium, magnesium, aluminium and nickel",
    "level": 8,
    "chapter": "28",
    "description": "Mercurous chloride",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "28273930",
+   "hs6": "282739",
+   "hs6_description": "Chlorides; other than of ammonium, calcium, magnesium, aluminium and nickel",
    "level": 8,
    "chapter": "28",
    "description": "Strontium chloride",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "28273940",
+   "hs6": "282739",
+   "hs6_description": "Chlorides; other than of ammonium, calcium, magnesium, aluminium and nickel",
    "level": 8,
    "chapter": "28",
    "description": "Cuprous chloride",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "28273990",
+   "hs6": "282739",
+   "hs6_description": "Chlorides; other than of ammonium, calcium, magnesium, aluminium and nickel",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "282741",
+   "hs6": "282741",
+   "hs6_description": "Chloride oxides and chloride hydroxides; of copper",
    "level": 6,
    "chapter": "28",
    "description": "Chloride oxides and chloride hydroxides : -- Of copper",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "28274110",
+   "hs6": "282741",
+   "hs6_description": "Chloride oxides and chloride hydroxides; of copper",
    "level": 8,
    "chapter": "28",
    "description": "Copper oxychloride",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "28274190",
+   "hs6": "282741",
+   "hs6_description": "Chloride oxides and chloride hydroxides; of copper",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "28274900",
+   "hs6": "282749",
+   "hs6_description": "Chloride oxides and chloride hydroxides; other than of copper",
    "level": 8,
    "chapter": "28",
    "description": "Chloride oxides and chloride hydroxides : -- Other",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "282751",
+   "hs6": "282751",
+   "hs6_description": "Bromides; of sodium or of potassium",
    "level": 6,
    "chapter": "28",
    "description": "Bromides and bromide oxides : -- Bromides of sodium or of potassium",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "28275110",
+   "hs6": "282751",
+   "hs6_description": "Bromides; of sodium or of potassium",
    "level": 8,
    "chapter": "28",
    "description": "Bromides of sodium",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "28275120",
+   "hs6": "282751",
+   "hs6_description": "Bromides; of sodium or of potassium",
    "level": 8,
    "chapter": "28",
    "description": "Bromides of potassium",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "282759",
+   "hs6": "282759",
+   "hs6_description": "Bromides and bromide oxides; other than item no. 2827.51",
    "level": 6,
    "chapter": "28",
    "description": "Bromides and bromide oxides : -- Other",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "28275910",
+   "hs6": "282759",
+   "hs6_description": "Bromides and bromide oxides; other than item no. 2827.51",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium bromide",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "28275990",
+   "hs6": "282759",
+   "hs6_description": "Bromides and bromide oxides; other than item no. 2827.51",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "282760",
+   "hs6": "282760",
+   "hs6_description": "Iodides and iodide oxides",
    "level": 6,
    "chapter": "28",
    "description": "Iodides and iodide oxides",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "28276010",
+   "hs6": "282760",
+   "hs6_description": "Iodides and iodide oxides",
    "level": 8,
    "chapter": "28",
    "description": "Potassium iodide",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "28276020",
+   "hs6": "282760",
+   "hs6_description": "Iodides and iodide oxides",
    "level": 8,
    "chapter": "28",
    "description": "Sodium iodide",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "28276090",
+   "hs6": "282760",
+   "hs6_description": "Iodides and iodide oxides",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "2828",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites.",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "282810",
+   "hs6": "282810",
+   "hs6_description": "Hypochlorites; commercial calcium hypochlorite and other calcium hypochlorites",
    "level": 6,
    "chapter": "28",
    "description": "Commercial calcium hypochlorite and other calcium hypochlorites",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "28281010",
+   "hs6": "282810",
+   "hs6_description": "Hypochlorites; commercial calcium hypochlorite and other calcium hypochlorites",
    "level": 8,
    "chapter": "28",
    "description": "Commercial calcium hypochlorite (bleaching paste or powder)",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "28281090",
+   "hs6": "282810",
+   "hs6_description": "Hypochlorites; commercial calcium hypochlorite and other calcium hypochlorites",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "282890",
+   "hs6": "282890",
+   "hs6_description": "Hypochlorites; n.e.c. in heading no. 2828",
    "level": 6,
    "chapter": "28",
    "description": "Other",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "28289011",
+   "hs6": "282890",
+   "hs6_description": "Hypochlorites; n.e.c. in heading no. 2828",
    "level": 8,
    "chapter": "28",
    "description": "Sodium hypochlorites: ---- Bleaching paste or powder",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "28289019",
+   "hs6": "282890",
+   "hs6_description": "Hypochlorites; n.e.c. in heading no. 2828",
    "level": 8,
    "chapter": "28",
    "description": "Sodium hypochlorites: ---- Other",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "28289020",
+   "hs6": "282890",
+   "hs6_description": "Hypochlorites; n.e.c. in heading no. 2828",
    "level": 8,
    "chapter": "28",
    "description": "Potassium hypochlorites",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "28289030",
+   "hs6": "282890",
+   "hs6_description": "Hypochlorites; n.e.c. in heading no. 2828",
    "level": 8,
    "chapter": "28",
    "description": "Sodium chlorite",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "28289040",
+   "hs6": "282890",
+   "hs6_description": "Hypochlorites; n.e.c. in heading no. 2828",
    "level": 8,
    "chapter": "28",
    "description": "Aluminium chlorite",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "28289050",
+   "hs6": "282890",
+   "hs6_description": "Hypochlorites; n.e.c. in heading no. 2828",
    "level": 8,
    "chapter": "28",
    "description": "Hypobromites",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "28289060",
+   "hs6": "282890",
+   "hs6_description": "Hypochlorites; n.e.c. in heading no. 2828",
    "level": 8,
    "chapter": "28",
    "description": "Bleaching paste or powder of other hypochlorites",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "28289090",
+   "hs6": "282890",
+   "hs6_description": "Hypochlorites; n.e.c. in heading no. 2828",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "2829",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Chlorates and perchlorates; bromates and perbromates; iodates and periodates.",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "28291100",
+   "hs6": "282911",
+   "hs6_description": "Chlorates; of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Chlorates : -- Of sodium",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "282919",
+   "hs6": "282919",
+   "hs6_description": "Chlorates; other than sodium",
    "level": 6,
    "chapter": "28",
    "description": "Chlorates : -- Other",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "28291910",
+   "hs6": "282919",
+   "hs6_description": "Chlorates; other than sodium",
    "level": 8,
    "chapter": "28",
    "description": "Barium chlorate",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "28291920",
+   "hs6": "282919",
+   "hs6_description": "Chlorates; other than sodium",
    "level": 8,
    "chapter": "28",
    "description": "Potassium chlorate",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "28291930",
+   "hs6": "282919",
+   "hs6_description": "Chlorates; other than sodium",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium chlorate",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "28291990",
+   "hs6": "282919",
+   "hs6_description": "Chlorates; other than sodium",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "282990",
+   "hs6": "282990",
+   "hs6_description": "Perchlorates; bromates and perbromates; iodates and periodates",
    "level": 6,
    "chapter": "28",
    "description": "Other",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "28299010",
+   "hs6": "282990",
+   "hs6_description": "Perchlorates; bromates and perbromates; iodates and periodates",
    "level": 8,
    "chapter": "28",
    "description": "Perchlorates",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "28299020",
+   "hs6": "282990",
+   "hs6_description": "Perchlorates; bromates and perbromates; iodates and periodates",
    "level": 8,
    "chapter": "28",
    "description": "Bromates and perbromates",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "28299030",
+   "hs6": "282990",
+   "hs6_description": "Perchlorates; bromates and perbromates; iodates and periodates",
    "level": 8,
    "chapter": "28",
    "description": "Iodates and periodates",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "2830",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Sulphides; polysulphides, whether or not chemically defined.",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "28301000",
+   "hs6": "283010",
+   "hs6_description": "Sulphides; of sodium, whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Sodium sulphides",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "283090",
+   "hs6": "283090",
+   "hs6_description": "Sulphides and polysulphides; whether or not chemically defined, other than sulphides of sodium",
    "level": 6,
    "chapter": "28",
    "description": "Other",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "28309010",
+   "hs6": "283090",
+   "hs6_description": "Sulphides and polysulphides; whether or not chemically defined, other than sulphides of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Sulphides",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "28309020",
+   "hs6": "283090",
+   "hs6_description": "Sulphides and polysulphides; whether or not chemically defined, other than sulphides of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Polysulphides",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "2831",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Dithionites and sulphoxylates.",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "283110",
+   "hs6": "283110",
+   "hs6_description": "Dithionites and sulphoxylates; of sodium",
    "level": 6,
    "chapter": "28",
    "description": "Of sodium",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "28311010",
+   "hs6": "283110",
+   "hs6_description": "Dithionites and sulphoxylates; of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Sodium dithionites (sodium hydrosulfite)",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "28311020",
+   "hs6": "283110",
+   "hs6_description": "Dithionites and sulphoxylates; of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Sodium sulphoxylates (including sodium formaldehyde sulphoxylate)",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "283190",
+   "hs6": "283190",
+   "hs6_description": "Dithionites and sulphoxylates; other than sodium",
    "level": 6,
    "chapter": "28",
    "description": "Other",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "28319010",
+   "hs6": "283190",
+   "hs6_description": "Dithionites and sulphoxylates; other than sodium",
    "level": 8,
    "chapter": "28",
    "description": "Dithionites",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "28319020",
+   "hs6": "283190",
+   "hs6_description": "Dithionites and sulphoxylates; other than sodium",
    "level": 8,
    "chapter": "28",
    "description": "Sulphoxylates",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "2832",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Sulphites; thiosulphates.",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "283210",
+   "hs6": "283210",
+   "hs6_description": "Sulphites; of sodium",
    "level": 6,
    "chapter": "28",
    "description": "Sodium sulphites",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "28321010",
+   "hs6": "283210",
+   "hs6_description": "Sulphites; of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Sodium bisulphite",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "28321020",
+   "hs6": "283210",
+   "hs6_description": "Sulphites; of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Sodium hydrosulphites",
@@ -3033,6 +3537,8 @@
   },
   {
    "hs_code": "28321090",
+   "hs6": "283210",
+   "hs6_description": "Sulphites; of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3045,6 +3551,8 @@
   },
   {
    "hs_code": "283220",
+   "hs6": "283220",
+   "hs6_description": "Sulphites; other than of sodium",
    "level": 6,
    "chapter": "28",
    "description": "Other sulphites",
@@ -3057,6 +3565,8 @@
   },
   {
    "hs_code": "28322010",
+   "hs6": "283220",
+   "hs6_description": "Sulphites; other than of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Potassium metabisulphite",
@@ -3069,6 +3579,8 @@
   },
   {
    "hs_code": "28322020",
+   "hs6": "283220",
+   "hs6_description": "Sulphites; other than of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium sulphite",
@@ -3081,6 +3593,8 @@
   },
   {
    "hs_code": "28322090",
+   "hs6": "283220",
+   "hs6_description": "Sulphites; other than of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3093,6 +3607,8 @@
   },
   {
    "hs_code": "283230",
+   "hs6": "283230",
+   "hs6_description": "Thiosulphates",
    "level": 6,
    "chapter": "28",
    "description": "Thiosulphates",
@@ -3105,6 +3621,8 @@
   },
   {
    "hs_code": "28323010",
+   "hs6": "283230",
+   "hs6_description": "Thiosulphates",
    "level": 8,
    "chapter": "28",
    "description": "Sodium thiosulphate (hypo)",
@@ -3117,6 +3635,8 @@
   },
   {
    "hs_code": "28323020",
+   "hs6": "283230",
+   "hs6_description": "Thiosulphates",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium thiosulphate",
@@ -3129,6 +3649,8 @@
   },
   {
    "hs_code": "28323090",
+   "hs6": "283230",
+   "hs6_description": "Thiosulphates",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3141,6 +3663,8 @@
   },
   {
    "hs_code": "2833",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Sulphates; alums; peroxosulphates (persulphates).",
@@ -3153,6 +3677,8 @@
   },
   {
    "hs_code": "28331100",
+   "hs6": "283311",
+   "hs6_description": "Sodium sulphates; disodium sulphate",
    "level": 8,
    "chapter": "28",
    "description": "Sodium sulphates : -- Disodium sulphate",
@@ -3165,6 +3691,8 @@
   },
   {
    "hs_code": "283319",
+   "hs6": "283319",
+   "hs6_description": "Sodium sulphates; other than disodium sulphate",
    "level": 6,
    "chapter": "28",
    "description": "Sodium sulphates : -- Other",
@@ -3177,6 +3705,8 @@
   },
   {
    "hs_code": "28331910",
+   "hs6": "283319",
+   "hs6_description": "Sodium sulphates; other than disodium sulphate",
    "level": 8,
    "chapter": "28",
    "description": "Sodium hydrogen sulphate (acid sulphate)",
@@ -3189,6 +3719,8 @@
   },
   {
    "hs_code": "28331920",
+   "hs6": "283319",
+   "hs6_description": "Sodium sulphates; other than disodium sulphate",
    "level": 8,
    "chapter": "28",
    "description": "Sodium pyrosulphate",
@@ -3201,6 +3733,8 @@
   },
   {
    "hs_code": "28331990",
+   "hs6": "283319",
+   "hs6_description": "Sodium sulphates; other than disodium sulphate",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3213,6 +3747,8 @@
   },
   {
    "hs_code": "28332100",
+   "hs6": "283321",
+   "hs6_description": "Sulphates; of magnesium",
    "level": 8,
    "chapter": "28",
    "description": "Other sulphates : -- Of magnesium",
@@ -3225,6 +3761,8 @@
   },
   {
    "hs_code": "283322",
+   "hs6": "283322",
+   "hs6_description": "Sulphates; of aluminium",
    "level": 6,
    "chapter": "28",
    "description": "Other sulphates : -- Of aluminium",
@@ -3237,6 +3775,8 @@
   },
   {
    "hs_code": "28332210",
+   "hs6": "283322",
+   "hs6_description": "Sulphates; of aluminium",
    "level": 8,
    "chapter": "28",
    "description": "Aluminium sulphate (iron free)",
@@ -3249,6 +3789,8 @@
   },
   {
    "hs_code": "28332290",
+   "hs6": "283322",
+   "hs6_description": "Sulphates; of aluminium",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3261,6 +3803,8 @@
   },
   {
    "hs_code": "28332400",
+   "hs6": "283324",
+   "hs6_description": "Sulphates; of nickel",
    "level": 8,
    "chapter": "28",
    "description": "Other sulphates : -- Of nickel",
@@ -3273,6 +3817,8 @@
   },
   {
    "hs_code": "28332500",
+   "hs6": "283325",
+   "hs6_description": "Sulphates; of copper",
    "level": 8,
    "chapter": "28",
    "description": "Other sulphates : -- Of copper",
@@ -3285,6 +3831,8 @@
   },
   {
    "hs_code": "28332700",
+   "hs6": "283327",
+   "hs6_description": "Sulphates; of barium",
    "level": 8,
    "chapter": "28",
    "description": "Other sulphates : -- Of barium",
@@ -3297,6 +3845,8 @@
   },
   {
    "hs_code": "283329",
+   "hs6": "283329",
+   "hs6_description": "Sulphates; n.e.c. in item no. 2833.2",
    "level": 6,
    "chapter": "28",
    "description": "Other sulphates : -- Other",
@@ -3309,6 +3859,8 @@
   },
   {
    "hs_code": "28332910",
+   "hs6": "283329",
+   "hs6_description": "Sulphates; n.e.c. in item no. 2833.2",
    "level": 8,
    "chapter": "28",
    "description": "Ferrous sulphate",
@@ -3321,6 +3873,8 @@
   },
   {
    "hs_code": "28332930",
+   "hs6": "283329",
+   "hs6_description": "Sulphates; n.e.c. in item no. 2833.2",
    "level": 8,
    "chapter": "28",
    "description": "Quinidine sulphate",
@@ -3333,6 +3887,8 @@
   },
   {
    "hs_code": "28332940",
+   "hs6": "283329",
+   "hs6_description": "Sulphates; n.e.c. in item no. 2833.2",
    "level": 8,
    "chapter": "28",
    "description": "Manganese sulphate",
@@ -3345,6 +3901,8 @@
   },
   {
    "hs_code": "28332950",
+   "hs6": "283329",
+   "hs6_description": "Sulphates; n.e.c. in item no. 2833.2",
    "level": 8,
    "chapter": "28",
    "description": "Strontium sulphate",
@@ -3357,6 +3915,8 @@
   },
   {
    "hs_code": "28332990",
+   "hs6": "283329",
+   "hs6_description": "Sulphates; n.e.c. in item no. 2833.2",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3369,6 +3929,8 @@
   },
   {
    "hs_code": "283330",
+   "hs6": "283330",
+   "hs6_description": "Alums",
    "level": 6,
    "chapter": "28",
    "description": "Alums",
@@ -3381,6 +3943,8 @@
   },
   {
    "hs_code": "28333010",
+   "hs6": "283330",
+   "hs6_description": "Alums",
    "level": 8,
    "chapter": "28",
    "description": "Ammonium alum",
@@ -3393,6 +3957,8 @@
   },
   {
    "hs_code": "28333020",
+   "hs6": "283330",
+   "hs6_description": "Alums",
    "level": 8,
    "chapter": "28",
    "description": "Ferric ammonium alum",
@@ -3405,6 +3971,8 @@
   },
   {
    "hs_code": "28333030",
+   "hs6": "283330",
+   "hs6_description": "Alums",
    "level": 8,
    "chapter": "28",
    "description": "Potash alum",
@@ -3417,6 +3985,8 @@
   },
   {
    "hs_code": "28333090",
+   "hs6": "283330",
+   "hs6_description": "Alums",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3429,6 +3999,8 @@
   },
   {
    "hs_code": "28334000",
+   "hs6": "283340",
+   "hs6_description": "Peroxosulphates (persulphates)",
    "level": 8,
    "chapter": "28",
    "description": "Peroxosulphates (persulphates)",
@@ -3441,6 +4013,8 @@
   },
   {
    "hs_code": "2834",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Nitrites; nitrates.",
@@ -3453,6 +4027,8 @@
   },
   {
    "hs_code": "283410",
+   "hs6": "283410",
+   "hs6_description": "Nitrites",
    "level": 6,
    "chapter": "28",
    "description": "Nitrites",
@@ -3465,6 +4041,8 @@
   },
   {
    "hs_code": "28341010",
+   "hs6": "283410",
+   "hs6_description": "Nitrites",
    "level": 8,
    "chapter": "28",
    "description": "Sodium nitrite",
@@ -3477,6 +4055,8 @@
   },
   {
    "hs_code": "28341090",
+   "hs6": "283410",
+   "hs6_description": "Nitrites",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3489,6 +4069,8 @@
   },
   {
    "hs_code": "28342100",
+   "hs6": "283421",
+   "hs6_description": "Nitrates; of potassium",
    "level": 8,
    "chapter": "28",
    "description": "Nitrates : -- Of potassium",
@@ -3501,6 +4083,8 @@
   },
   {
    "hs_code": "283429",
+   "hs6": "283429",
+   "hs6_description": "Nitrates; of other than potassium",
    "level": 6,
    "chapter": "28",
    "description": "Nitrates : -- Other",
@@ -3513,6 +4097,8 @@
   },
   {
    "hs_code": "28342910",
+   "hs6": "283429",
+   "hs6_description": "Nitrates; of other than potassium",
    "level": 8,
    "chapter": "28",
    "description": "Strontium nitrate",
@@ -3525,6 +4111,8 @@
   },
   {
    "hs_code": "28342920",
+   "hs6": "283429",
+   "hs6_description": "Nitrates; of other than potassium",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium nitrate",
@@ -3537,6 +4125,8 @@
   },
   {
    "hs_code": "28342930",
+   "hs6": "283429",
+   "hs6_description": "Nitrates; of other than potassium",
    "level": 8,
    "chapter": "28",
    "description": "Barium nitrate",
@@ -3549,6 +4139,8 @@
   },
   {
    "hs_code": "28342990",
+   "hs6": "283429",
+   "hs6_description": "Nitrates; of other than potassium",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3561,6 +4153,8 @@
   },
   {
    "hs_code": "2835",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates; polyphosphates, whether or not chemically defined.",
@@ -3573,6 +4167,8 @@
   },
   {
    "hs_code": "283510",
+   "hs6": "283510",
+   "hs6_description": "Phosphinates (hypophosphites) and phosphonates (phosphites), whether or not chemically defined",
    "level": 6,
    "chapter": "28",
    "description": "Phosphinates (hypophosphites) and phosphonates (phosphites)",
@@ -3585,6 +4181,8 @@
   },
   {
    "hs_code": "28351010",
+   "hs6": "283510",
+   "hs6_description": "Phosphinates (hypophosphites) and phosphonates (phosphites), whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Calcium hypophosphite",
@@ -3597,6 +4195,8 @@
   },
   {
    "hs_code": "28351020",
+   "hs6": "283510",
+   "hs6_description": "Phosphinates (hypophosphites) and phosphonates (phosphites), whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium hypophosphite",
@@ -3609,6 +4209,8 @@
   },
   {
    "hs_code": "28351090",
+   "hs6": "283510",
+   "hs6_description": "Phosphinates (hypophosphites) and phosphonates (phosphites), whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3621,6 +4223,8 @@
   },
   {
    "hs_code": "28352200",
+   "hs6": "283522",
+   "hs6_description": "Phosphates; of mono- or disodium, whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Phosphates : -- Of mono- or disodium",
@@ -3633,6 +4237,8 @@
   },
   {
    "hs_code": "28352400",
+   "hs6": "283524",
+   "hs6_description": "Phosphates; of potassium, whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Phosphates : -- Of potassium",
@@ -3645,6 +4251,8 @@
   },
   {
    "hs_code": "28352500",
+   "hs6": "283525",
+   "hs6_description": "Phosphates; calcium hydrogenorthophosphate (dicalcium phosphate), whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Phosphates : -- Calcium hydrogenorthophosphate (ìdicalcium phosphateî)",
@@ -3657,6 +4265,8 @@
   },
   {
    "hs_code": "283526",
+   "hs6": "283526",
+   "hs6_description": "Phosphates; of calcium n.e.c. in item no. 2835.25, whether or not chemically defined",
    "level": 6,
    "chapter": "28",
    "description": "Phosphates : -- Other phosphates of calcium",
@@ -3669,6 +4279,8 @@
   },
   {
    "hs_code": "28352610",
+   "hs6": "283526",
+   "hs6_description": "Phosphates; of calcium n.e.c. in item no. 2835.25, whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Calcium monobasic phosphate",
@@ -3681,6 +4293,8 @@
   },
   {
    "hs_code": "28352620",
+   "hs6": "283526",
+   "hs6_description": "Phosphates; of calcium n.e.c. in item no. 2835.25, whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Calcium tribasic phosphate",
@@ -3693,6 +4307,8 @@
   },
   {
    "hs_code": "28352690",
+   "hs6": "283526",
+   "hs6_description": "Phosphates; of calcium n.e.c. in item no. 2835.25, whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3705,6 +4321,8 @@
   },
   {
    "hs_code": "283529",
+   "hs6": "283529",
+   "hs6_description": "Phosphates; (other than of mono- or disodium, other than of potassium or of calcium hydrogenorthophosphate (dicalcium phosphate) and excluding other phosphates of calcium), whether or not chemically defined",
    "level": 6,
    "chapter": "28",
    "description": "Phosphates : -- Other",
@@ -3717,6 +4335,8 @@
   },
   {
    "hs_code": "28352910",
+   "hs6": "283529",
+   "hs6_description": "Phosphates; (other than of mono- or disodium, other than of potassium or of calcium hydrogenorthophosphate (dicalcium phosphate) and excluding other phosphates of calcium), whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium phosphate, monobasic",
@@ -3729,6 +4349,8 @@
   },
   {
    "hs_code": "28352920",
+   "hs6": "283529",
+   "hs6_description": "Phosphates; (other than of mono- or disodium, other than of potassium or of calcium hydrogenorthophosphate (dicalcium phosphate) and excluding other phosphates of calcium), whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium phosphate, dibasic",
@@ -3741,6 +4363,8 @@
   },
   {
    "hs_code": "28352930",
+   "hs6": "283529",
+   "hs6_description": "Phosphates; (other than of mono- or disodium, other than of potassium or of calcium hydrogenorthophosphate (dicalcium phosphate) and excluding other phosphates of calcium), whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium phosphate, tribasic",
@@ -3753,6 +4377,8 @@
   },
   {
    "hs_code": "28352940",
+   "hs6": "283529",
+   "hs6_description": "Phosphates; (other than of mono- or disodium, other than of potassium or of calcium hydrogenorthophosphate (dicalcium phosphate) and excluding other phosphates of calcium), whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Sodium hexa meta phosphate",
@@ -3765,6 +4391,8 @@
   },
   {
    "hs_code": "28352990",
+   "hs6": "283529",
+   "hs6_description": "Phosphates; (other than of mono- or disodium, other than of potassium or of calcium hydrogenorthophosphate (dicalcium phosphate) and excluding other phosphates of calcium), whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3777,6 +4405,8 @@
   },
   {
    "hs_code": "28353100",
+   "hs6": "283531",
+   "hs6_description": "Polyphosphates; sodium triphosphate (sodium tripolyphosphate), whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Polyphosphates : -- Sodium triphosphate (sodium tripolyphosphate)",
@@ -3789,6 +4419,8 @@
   },
   {
    "hs_code": "28353900",
+   "hs6": "283539",
+   "hs6_description": "Polyphosphates; other than sodium triphosphate (sodium tripolyphosphate), whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Polyphosphates : -- Other",
@@ -3801,6 +4433,8 @@
   },
   {
    "hs_code": "2836",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Carbonates; peroxocarbonates (percarbonates); commercial ammonium carbonate containing ammonium carbamate.",
@@ -3813,6 +4447,8 @@
   },
   {
    "hs_code": "283620",
+   "hs6": "283620",
+   "hs6_description": "Carbonates; disodium carbonate",
    "level": 6,
    "chapter": "28",
    "description": "Disodium carbonate",
@@ -3825,6 +4461,8 @@
   },
   {
    "hs_code": "28362010",
+   "hs6": "283620",
+   "hs6_description": "Carbonates; disodium carbonate",
    "level": 8,
    "chapter": "28",
    "description": "Disodium carbonate, dense",
@@ -3837,6 +4475,8 @@
   },
   {
    "hs_code": "28362020",
+   "hs6": "283620",
+   "hs6_description": "Carbonates; disodium carbonate",
    "level": 8,
    "chapter": "28",
    "description": "Disodium carbonate, light",
@@ -3849,6 +4489,8 @@
   },
   {
    "hs_code": "28362090",
+   "hs6": "283620",
+   "hs6_description": "Carbonates; disodium carbonate",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3861,6 +4503,8 @@
   },
   {
    "hs_code": "28363000",
+   "hs6": "283630",
+   "hs6_description": "Carbonates; sodium hydrogen carbonate (sodium bicarbonate)",
    "level": 8,
    "chapter": "28",
    "description": "Sodium hydrogencarbonate (sodium bicarbonate)",
@@ -3873,6 +4517,8 @@
   },
   {
    "hs_code": "28364000",
+   "hs6": "283640",
+   "hs6_description": "Carbonates; potassium carbonate",
    "level": 8,
    "chapter": "28",
    "description": "Potassium carbonates",
@@ -3885,6 +4531,8 @@
   },
   {
    "hs_code": "28365000",
+   "hs6": "283650",
+   "hs6_description": "Carbonates; calcium carbonate",
    "level": 8,
    "chapter": "28",
    "description": "Calcium carbonate",
@@ -3897,6 +4545,8 @@
   },
   {
    "hs_code": "28366000",
+   "hs6": "283660",
+   "hs6_description": "Carbonates; barium carbonate",
    "level": 8,
    "chapter": "28",
    "description": "Barium carbonate",
@@ -3909,6 +4559,8 @@
   },
   {
    "hs_code": "28369100",
+   "hs6": "283691",
+   "hs6_description": "Carbonates; lithium carbonate",
    "level": 8,
    "chapter": "28",
    "description": "Other : -- Lithium carbonates",
@@ -3921,6 +4573,8 @@
   },
   {
    "hs_code": "28369200",
+   "hs6": "283692",
+   "hs6_description": "Carbonates; strontium carbonate",
    "level": 8,
    "chapter": "28",
    "description": "Other : -- Strontium carbonate",
@@ -3933,6 +4587,8 @@
   },
   {
    "hs_code": "283699",
+   "hs6": "283699",
+   "hs6_description": "Carbonates; n.e.c. in heading no. 2836 and other than lithium or strontium",
    "level": 6,
    "chapter": "28",
    "description": "Other : -- Other",
@@ -3945,6 +4601,8 @@
   },
   {
    "hs_code": "28369910",
+   "hs6": "283699",
+   "hs6_description": "Carbonates; n.e.c. in heading no. 2836 and other than lithium or strontium",
    "level": 8,
    "chapter": "28",
    "description": "Percarbonates",
@@ -3957,6 +4615,8 @@
   },
   {
    "hs_code": "28369920",
+   "hs6": "283699",
+   "hs6_description": "Carbonates; n.e.c. in heading no. 2836 and other than lithium or strontium",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium carbonate",
@@ -3969,6 +4629,8 @@
   },
   {
    "hs_code": "28369930",
+   "hs6": "283699",
+   "hs6_description": "Carbonates; n.e.c. in heading no. 2836 and other than lithium or strontium",
    "level": 8,
    "chapter": "28",
    "description": "Aluminium bicarbonate",
@@ -3981,6 +4643,8 @@
   },
   {
    "hs_code": "28369990",
+   "hs6": "283699",
+   "hs6_description": "Carbonates; n.e.c. in heading no. 2836 and other than lithium or strontium",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -3993,6 +4657,8 @@
   },
   {
    "hs_code": "2837",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Cyanides, cyanide oxides and complex cyanides.",
@@ -4005,6 +4671,8 @@
   },
   {
    "hs_code": "28371100",
+   "hs6": "283711",
+   "hs6_description": "Cyanides and cyanide oxides; of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Cyanides and cyanide oxides : -- Of sodium",
@@ -4017,6 +4685,8 @@
   },
   {
    "hs_code": "283719",
+   "hs6": "283719",
+   "hs6_description": "Cyanides and cyanide oxides; other than of sodium",
    "level": 6,
    "chapter": "28",
    "description": "Cyanides and cyanide oxides : -- Other",
@@ -4029,6 +4699,8 @@
   },
   {
    "hs_code": "28371910",
+   "hs6": "283719",
+   "hs6_description": "Cyanides and cyanide oxides; other than of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Potassium cyanide",
@@ -4041,6 +4713,8 @@
   },
   {
    "hs_code": "28371920",
+   "hs6": "283719",
+   "hs6_description": "Cyanides and cyanide oxides; other than of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Double cyanide of potassium and sodium",
@@ -4053,6 +4727,8 @@
   },
   {
    "hs_code": "28371990",
+   "hs6": "283719",
+   "hs6_description": "Cyanides and cyanide oxides; other than of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -4065,6 +4741,8 @@
   },
   {
    "hs_code": "283720",
+   "hs6": "283720",
+   "hs6_description": "Complex cyanides",
    "level": 6,
    "chapter": "28",
    "description": "Complex cyanides",
@@ -4077,6 +4755,8 @@
   },
   {
    "hs_code": "28372010",
+   "hs6": "283720",
+   "hs6_description": "Complex cyanides",
    "level": 8,
    "chapter": "28",
    "description": "Ammonium sulphocyanide",
@@ -4089,6 +4769,8 @@
   },
   {
    "hs_code": "28372020",
+   "hs6": "283720",
+   "hs6_description": "Complex cyanides",
    "level": 8,
    "chapter": "28",
    "description": "Potassium ferricyanide",
@@ -4101,6 +4783,8 @@
   },
   {
    "hs_code": "28372030",
+   "hs6": "283720",
+   "hs6_description": "Complex cyanides",
    "level": 8,
    "chapter": "28",
    "description": "Potassium ferrocyanide",
@@ -4113,6 +4797,8 @@
   },
   {
    "hs_code": "28372040",
+   "hs6": "283720",
+   "hs6_description": "Complex cyanides",
    "level": 8,
    "chapter": "28",
    "description": "Sodium ferrocyanide",
@@ -4125,6 +4811,8 @@
   },
   {
    "hs_code": "28372050",
+   "hs6": "283720",
+   "hs6_description": "Complex cyanides",
    "level": 8,
    "chapter": "28",
    "description": "Sodium nitroprusside (sodium nitroferricyanide)",
@@ -4137,6 +4825,8 @@
   },
   {
    "hs_code": "28372090",
+   "hs6": "283720",
+   "hs6_description": "Complex cyanides",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -4149,6 +4839,8 @@
   },
   {
    "hs_code": "2839",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Silicates; commercial alkali metal silicates.",
@@ -4161,6 +4853,8 @@
   },
   {
    "hs_code": "28391100",
+   "hs6": "283911",
+   "hs6_description": "Silicates; sodium metasilicates",
    "level": 8,
    "chapter": "28",
    "description": "Of sodium : -- Sodium metasilicates",
@@ -4173,6 +4867,8 @@
   },
   {
    "hs_code": "28391900",
+   "hs6": "283919",
+   "hs6_description": "Silicates; of sodium (excluding sodium metasilicates)",
    "level": 8,
    "chapter": "28",
    "description": "Of sodium : -- Other",
@@ -4185,6 +4881,8 @@
   },
   {
    "hs_code": "283990",
+   "hs6": "283990",
+   "hs6_description": "Silicates; commercial alkali metal silicates, other than of sodium",
    "level": 6,
    "chapter": "28",
    "description": "Other",
@@ -4197,6 +4895,8 @@
   },
   {
    "hs_code": "28399010",
+   "hs6": "283990",
+   "hs6_description": "Silicates; commercial alkali metal silicates, other than of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium trisilicate",
@@ -4209,6 +4909,8 @@
   },
   {
    "hs_code": "28399090",
+   "hs6": "283990",
+   "hs6_description": "Silicates; commercial alkali metal silicates, other than of sodium",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -4221,6 +4923,8 @@
   },
   {
    "hs_code": "2840",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Borates; peroxoborates (perborates).",
@@ -4233,6 +4937,8 @@
   },
   {
    "hs_code": "28401100",
+   "hs6": "284011",
+   "hs6_description": "Borates; disodium tetraborate (refined borax), anhydrous",
    "level": 8,
    "chapter": "28",
    "description": "Disodium tetraborate (refined borax) : -- Anhydrous",
@@ -4245,6 +4951,8 @@
   },
   {
    "hs_code": "28401900",
+   "hs6": "284019",
+   "hs6_description": "Borates; disodium tetraborate (refined borax), other than anhydrous",
    "level": 8,
    "chapter": "28",
    "description": "Disodium tetraborate (refined borax) : -- Other",
@@ -4257,6 +4965,8 @@
   },
   {
    "hs_code": "284020",
+   "hs6": "284020",
+   "hs6_description": "Borates; n.e.c. in heading no. 2840",
    "level": 6,
    "chapter": "28",
    "description": "Other borates",
@@ -4269,6 +4979,8 @@
   },
   {
    "hs_code": "28402010",
+   "hs6": "284020",
+   "hs6_description": "Borates; n.e.c. in heading no. 2840",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium borates",
@@ -4281,6 +4993,8 @@
   },
   {
    "hs_code": "28402090",
+   "hs6": "284020",
+   "hs6_description": "Borates; n.e.c. in heading no. 2840",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -4293,6 +5007,8 @@
   },
   {
    "hs_code": "28403000",
+   "hs6": "284030",
+   "hs6_description": "Peroxoborates (perborates)",
    "level": 8,
    "chapter": "28",
    "description": "Peroxoborates (perborates)",
@@ -4305,6 +5021,8 @@
   },
   {
    "hs_code": "2841",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Salts of oxometallic or peroxometallic acids.",
@@ -4317,6 +5035,8 @@
   },
   {
    "hs_code": "28413000",
+   "hs6": "284130",
+   "hs6_description": "Salts; sodium dichromate",
    "level": 8,
    "chapter": "28",
    "description": "Sodium dichromate",
@@ -4329,6 +5049,8 @@
   },
   {
    "hs_code": "284150",
+   "hs6": "284150",
+   "hs6_description": "Salts; chromates, dichromates, peroxochromates; n.e.c. in heading no. 2841",
    "level": 6,
    "chapter": "28",
    "description": "Other chromates and dichromates; peroxochromates",
@@ -4341,6 +5063,8 @@
   },
   {
    "hs_code": "28415010",
+   "hs6": "284150",
+   "hs6_description": "Salts; chromates, dichromates, peroxochromates; n.e.c. in heading no. 2841",
    "level": 8,
    "chapter": "28",
    "description": "Sodium chromate",
@@ -4353,6 +5077,8 @@
   },
   {
    "hs_code": "28415090",
+   "hs6": "284150",
+   "hs6_description": "Salts; chromates, dichromates, peroxochromates; n.e.c. in heading no. 2841",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -4365,6 +5091,8 @@
   },
   {
    "hs_code": "28416100",
+   "hs6": "284161",
+   "hs6_description": "Salts; of oxometallic or peroxometallic acids, manganites, manganates and permanganates, potassium permanganate",
    "level": 8,
    "chapter": "28",
    "description": "Manganites, manganates and permanganates : -- Potassium permanganate",
@@ -4377,6 +5105,8 @@
   },
   {
    "hs_code": "28416900",
+   "hs6": "284169",
+   "hs6_description": "Salts; of oxometallic or peroxometallic acids, manganites, manganates and permanganates, other than potassium permanganate",
    "level": 8,
    "chapter": "28",
    "description": "Manganites, manganates and permanganates : -- Other",
@@ -4389,6 +5119,8 @@
   },
   {
    "hs_code": "284170",
+   "hs6": "284170",
+   "hs6_description": "Salts; molybdates",
    "level": 6,
    "chapter": "28",
    "description": "Molybdates",
@@ -4401,6 +5133,8 @@
   },
   {
    "hs_code": "28417010",
+   "hs6": "284170",
+   "hs6_description": "Salts; molybdates",
    "level": 8,
    "chapter": "28",
    "description": "Aluminium molybdate",
@@ -4413,6 +5147,8 @@
   },
   {
    "hs_code": "28417020",
+   "hs6": "284170",
+   "hs6_description": "Salts; molybdates",
    "level": 8,
    "chapter": "28",
    "description": "Sodium molybdate",
@@ -4425,6 +5161,8 @@
   },
   {
    "hs_code": "28417090",
+   "hs6": "284170",
+   "hs6_description": "Salts; molybdates",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -4437,6 +5175,8 @@
   },
   {
    "hs_code": "284180",
+   "hs6": "284180",
+   "hs6_description": "Salts; tungstates (wolframates)",
    "level": 6,
    "chapter": "28",
    "description": "Tungstates (wolframates)",
@@ -4449,6 +5189,8 @@
   },
   {
    "hs_code": "28418010",
+   "hs6": "284180",
+   "hs6_description": "Salts; tungstates (wolframates)",
    "level": 8,
    "chapter": "28",
    "description": "Sodium tungstate",
@@ -4461,6 +5203,8 @@
   },
   {
    "hs_code": "28418020",
+   "hs6": "284180",
+   "hs6_description": "Salts; tungstates (wolframates)",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium tungstate",
@@ -4473,6 +5217,8 @@
   },
   {
    "hs_code": "28418090",
+   "hs6": "284180",
+   "hs6_description": "Salts; tungstates (wolframates)",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -4485,6 +5231,8 @@
   },
   {
    "hs_code": "284190",
+   "hs6": "284190",
+   "hs6_description": "Salts of oxometallic or peroxometallic acids; n.e.c. in heading no. 2841",
    "level": 6,
    "chapter": "28",
    "description": "Other",
@@ -4497,6 +5245,8 @@
   },
   {
    "hs_code": "28419010",
+   "hs6": "284190",
+   "hs6_description": "Salts of oxometallic or peroxometallic acids; n.e.c. in heading no. 2841",
    "level": 8,
    "chapter": "28",
    "description": "--- Ammonium metavanadate",
@@ -4509,6 +5259,8 @@
   },
   {
    "hs_code": "28419090",
+   "hs6": "284190",
+   "hs6_description": "Salts of oxometallic or peroxometallic acids; n.e.c. in heading no. 2841",
    "level": 8,
    "chapter": "28",
    "description": "--- Other",
@@ -4521,6 +5273,8 @@
   },
   {
    "hs_code": "2842",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Other salts of inorganic acids or peroxoacids (including aluminosilicates whether or not chemically defined), other than azides.",
@@ -4533,6 +5287,8 @@
   },
   {
    "hs_code": "28421000",
+   "hs6": "284210",
+   "hs6_description": "Salts of inorganic acids or peroxoacids, double or complex silicates, including aluminosilicates, whether or not chemically defined, excluding azides",
    "level": 8,
    "chapter": "28",
    "description": "Double or complex silicates, including aluminosilicates whether or not chemically defined",
@@ -4545,6 +5301,8 @@
   },
   {
    "hs_code": "284290",
+   "hs6": "284290",
+   "hs6_description": "Salts; of inorganic acids or peroxoacids, other than double or complex silicates, including aluminosilicates, whether or not chemically, excluding azides",
    "level": 6,
    "chapter": "28",
    "description": "Other",
@@ -4557,6 +5315,8 @@
   },
   {
    "hs_code": "28429010",
+   "hs6": "284290",
+   "hs6_description": "Salts; of inorganic acids or peroxoacids, other than double or complex silicates, including aluminosilicates, whether or not chemically, excluding azides",
    "level": 8,
    "chapter": "28",
    "description": "Arsenites and arsenates",
@@ -4569,6 +5329,8 @@
   },
   {
    "hs_code": "28429020",
+   "hs6": "284290",
+   "hs6_description": "Salts; of inorganic acids or peroxoacids, other than double or complex silicates, including aluminosilicates, whether or not chemically, excluding azides",
    "level": 8,
    "chapter": "28",
    "description": "Bichromates and dichromates",
@@ -4581,6 +5343,8 @@
   },
   {
    "hs_code": "28429090",
+   "hs6": "284290",
+   "hs6_description": "Salts; of inorganic acids or peroxoacids, other than double or complex silicates, including aluminosilicates, whether or not chemically, excluding azides",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -4593,6 +5357,8 @@
   },
   {
    "hs_code": "2843",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not chemically defined; amalgams of precious metals.",
@@ -4605,6 +5371,8 @@
   },
   {
    "hs_code": "284310",
+   "hs6": "284310",
+   "hs6_description": "Colloidal precious metals; whether or not chemically defined",
    "level": 6,
    "chapter": "28",
    "description": "Colloidal precious metals",
@@ -4617,6 +5385,8 @@
   },
   {
    "hs_code": "28431010",
+   "hs6": "284310",
+   "hs6_description": "Colloidal precious metals; whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Of gold",
@@ -4629,6 +5399,8 @@
   },
   {
    "hs_code": "28431020",
+   "hs6": "284310",
+   "hs6_description": "Colloidal precious metals; whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Of silver",
@@ -4641,6 +5413,8 @@
   },
   {
    "hs_code": "28431090",
+   "hs6": "284310",
+   "hs6_description": "Colloidal precious metals; whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -4653,6 +5427,8 @@
   },
   {
    "hs_code": "28432100",
+   "hs6": "284321",
+   "hs6_description": "Silver compounds; silver nitrates",
    "level": 8,
    "chapter": "28",
    "description": "Silver compounds : -- Silver nitrate",
@@ -4665,6 +5441,8 @@
   },
   {
    "hs_code": "28432900",
+   "hs6": "284329",
+   "hs6_description": "Silver compounds; excluding silver nitrates",
    "level": 8,
    "chapter": "28",
    "description": "Silver compounds : -- Other",
@@ -4677,6 +5455,8 @@
   },
   {
    "hs_code": "28433000",
+   "hs6": "284330",
+   "hs6_description": "Gold compounds",
    "level": 8,
    "chapter": "28",
    "description": "Gold compounds",
@@ -4689,6 +5469,8 @@
   },
   {
    "hs_code": "284390",
+   "hs6": "284390",
+   "hs6_description": "Inorganic or organic compounds of precious metals, n.e.c.; amalgams",
    "level": 6,
    "chapter": "28",
    "description": "Other compounds; amalgams",
@@ -4701,6 +5483,8 @@
   },
   {
    "hs_code": "28439011",
+   "hs6": "284390",
+   "hs6_description": "Inorganic or organic compounds of precious metals, n.e.c.; amalgams",
    "level": 8,
    "chapter": "28",
    "description": "Other compounds: ---- Sodium aurous thiosulphate",
@@ -4713,6 +5497,8 @@
   },
   {
    "hs_code": "28439012",
+   "hs6": "284390",
+   "hs6_description": "Inorganic or organic compounds of precious metals, n.e.c.; amalgams",
    "level": 8,
    "chapter": "28",
    "description": "Other compounds: ---- Noble metal solutions of platinum, kg. 10% - rhodium and palladium",
@@ -4725,6 +5511,8 @@
   },
   {
    "hs_code": "28439019",
+   "hs6": "284390",
+   "hs6_description": "Inorganic or organic compounds of precious metals, n.e.c.; amalgams",
    "level": 8,
    "chapter": "28",
    "description": "Other compounds: ---- Other",
@@ -4737,6 +5525,8 @@
   },
   {
    "hs_code": "28439020",
+   "hs6": "284390",
+   "hs6_description": "Inorganic or organic compounds of precious metals, n.e.c.; amalgams",
    "level": 8,
    "chapter": "28",
    "description": "Amalgams",
@@ -4749,6 +5539,8 @@
   },
   {
    "hs_code": "2844",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Radioactive chemical elements and radioactive isotopes (including the fissile or fertile chemical elements and isotopes) and their compounds; mixtures and residues containing these products.",
@@ -4761,6 +5553,8 @@
   },
   {
    "hs_code": "28441000",
+   "hs6": "284410",
+   "hs6_description": "Uranium; natural uranium and its compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing natural uranium or natural uranium compounds",
    "level": 8,
    "chapter": "28",
    "description": "Natural uranium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing natural uranium or natural uranium compounds",
@@ -4773,6 +5567,8 @@
   },
   {
    "hs_code": "28442000",
+   "hs6": "284420",
+   "hs6_description": "Uranium; enriched in U235, plutonium, their compounds, alloys dispersions (including cermets), ceramic products and mixtures containing uranium enriched in U235, plutonium or compounds of these products",
    "level": 8,
    "chapter": "28",
    "description": "Uranium enriched in U 235 and its compounds; plutonium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing uranium enriched in U 235, plutonium or compounds of these products",
@@ -4785,6 +5581,8 @@
   },
   {
    "hs_code": "284430",
+   "hs6": "284430",
+   "hs6_description": "Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",
    "level": 6,
    "chapter": "28",
    "description": "Uranium depleted in U 235 and its compounds; thorium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U 235, thorium or compounds of these products",
@@ -4797,6 +5595,8 @@
   },
   {
    "hs_code": "28443010",
+   "hs6": "284430",
+   "hs6_description": "Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",
    "level": 8,
    "chapter": "28",
    "description": "Uranium depleted in U235 and or thorium and their alloys, unwrought or wrought and compounds thereof Compounds of thorium or of uranium depleted in U235:",
@@ -4809,6 +5609,8 @@
   },
   {
    "hs_code": "28443021",
+   "hs6": "284430",
+   "hs6_description": "Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",
    "level": 8,
    "chapter": "28",
    "description": "Thorium oxide",
@@ -4821,6 +5623,8 @@
   },
   {
    "hs_code": "28443022",
+   "hs6": "284430",
+   "hs6_description": "Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",
    "level": 8,
    "chapter": "28",
    "description": "Thorium hydroxide",
@@ -4833,6 +5637,8 @@
   },
   {
    "hs_code": "28443023",
+   "hs6": "284430",
+   "hs6_description": "Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",
    "level": 8,
    "chapter": "28",
    "description": "Thorium nitrate",
@@ -4845,6 +5651,8 @@
   },
   {
    "hs_code": "28443029",
+   "hs6": "284430",
+   "hs6_description": "Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -4857,6 +5665,8 @@
   },
   {
    "hs_code": "28443030",
+   "hs6": "284430",
+   "hs6_description": "Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",
    "level": 8,
    "chapter": "28",
    "description": "Waste and scrap of uranium depleted in U235 or of thorium",
@@ -4869,6 +5679,8 @@
   },
   {
    "hs_code": "28443090",
+   "hs6": "284430",
+   "hs6_description": "Uranium; depleted in U235, thorium, their compounds, alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium; compounds of these products",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -4881,6 +5693,8 @@
   },
   {
    "hs_code": "28444100",
+   "hs6": "284441",
+   "hs6_description": "Radioactive elements; tritium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing tritium or its compounds",
    "level": 8,
    "chapter": "28",
    "description": "Radioactive elements and isotopes and compounds other than those of sub-headings2844 10, 2844 20 or 2844 30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues: -- Tritium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing tritium or its compounds",
@@ -4893,6 +5707,8 @@
   },
   {
    "hs_code": "28444200",
+   "hs6": "284442",
+   "hs6_description": "Radioactive elements; actinium-225, 227, californium-253, curium-240, 241, 242, 243, 244, einsteinium-253, 254, gadolinium-148, polonium-208, 209, 210, radium-223, uranium-230 or 232, compounds; alloys, dispersions, ceramic products and mixtures",
    "level": 8,
    "chapter": "28",
    "description": "Actinium-225, actinium-227, californium-253, curium-240, curium-241, curium-242, curium-243, curium-244, einsteinium-253, einsteinium-254, gadolinium-148, polonium208, polonium-209, polonium-210, radium-223, uranium-230 or uranium-232, and their compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements or compounds",
@@ -4905,6 +5721,8 @@
   },
   {
    "hs_code": "28444300",
+   "hs6": "284443",
+   "hs6_description": "Radioactive elements, isotopes and compounds; other alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds",
    "level": 8,
    "chapter": "28",
    "description": "Radioactive elements and isotopes and compounds other than those of sub-headings2844 10, 2844 20 or 2844 30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues: -- Other radioactive elements and isotopes and compounds; other alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes",
@@ -4917,6 +5735,8 @@
   },
   {
    "hs_code": "28444400",
+   "hs6": "284444",
+   "hs6_description": "Radioactive elements, isotopes, compounds n.e.c. in heading no. 2844, alloys, dispersions (including cermets), ceramic products, mixtures containing the elements, isotopes, compounds; radioactive residues",
    "level": 8,
    "chapter": "28",
    "description": "\"Radioactive elements and isotopes and compounds other than those of sub-headings2844 10, 2844 20 or 2844 30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues: -- Radioactive residues",
@@ -4929,6 +5749,8 @@
   },
   {
    "hs_code": "28445000",
+   "hs6": "284450",
+   "hs6_description": "Spent (irradiated) fuel elements (cartridges) of nuclear reactors",
    "level": 8,
    "chapter": "28",
    "description": "Spent (irradiated) fuel elements (cartridges) of nuclear reactors",
@@ -4941,6 +5763,8 @@
   },
   {
    "hs_code": "2845",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Isotopes other than those of heading 28.44; compounds, inorganic or organic, of such isotopes, whether or not chemically defined.",
@@ -4953,6 +5777,8 @@
   },
   {
    "hs_code": "28451000",
+   "hs6": "284510",
+   "hs6_description": "Heavy water (deuterium oxide)",
    "level": 8,
    "chapter": "28",
    "description": "Heavy water (deuterium oxide)",
@@ -4965,6 +5791,8 @@
   },
   {
    "hs_code": "28452000",
+   "hs6": "284520",
+   "hs6_description": "Boron enriched in boron-10 and its compounds",
    "level": 8,
    "chapter": "28",
    "description": "Boron enriched in boron-10 and its compounds",
@@ -4977,6 +5805,8 @@
   },
   {
    "hs_code": "28453000",
+   "hs6": "284530",
+   "hs6_description": "Lithium enriched in lithium-6 and its compounds",
    "level": 8,
    "chapter": "28",
    "description": "Lithium enriched in lithium-6 and its compounds",
@@ -4989,6 +5819,8 @@
   },
   {
    "hs_code": "28454000",
+   "hs6": "284540",
+   "hs6_description": "Helium-3",
    "level": 8,
    "chapter": "28",
    "description": "Helium-3",
@@ -5001,6 +5833,8 @@
   },
   {
    "hs_code": "284590",
+   "hs6": "284590",
+   "hs6_description": "Isotopes other than those of heading no. 2844, 2845.20, 2845.30 or 2845.40; compounds, inorganic or organic, of such isotopes, whether or not chemically defined",
    "level": 6,
    "chapter": "28",
    "description": "Other",
@@ -5013,6 +5847,8 @@
   },
   {
    "hs_code": "28459010",
+   "hs6": "284590",
+   "hs6_description": "Isotopes other than those of heading no. 2844, 2845.20, 2845.30 or 2845.40; compounds, inorganic or organic, of such isotopes, whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Nuclear fuels not elsewhere included or specified",
@@ -5025,6 +5861,8 @@
   },
   {
    "hs_code": "28459090",
+   "hs6": "284590",
+   "hs6_description": "Isotopes other than those of heading no. 2844, 2845.20, 2845.30 or 2845.40; compounds, inorganic or organic, of such isotopes, whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -5037,6 +5875,8 @@
   },
   {
    "hs_code": "2846",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Compounds, inorganic or organic, of rare-earth metals, of yttrium or of scandium or of mixtures of these metals.",
@@ -5049,6 +5889,8 @@
   },
   {
    "hs_code": "284610",
+   "hs6": "284610",
+   "hs6_description": "Cerium compounds",
    "level": 6,
    "chapter": "28",
    "description": "Cerium compounds",
@@ -5061,6 +5903,8 @@
   },
   {
    "hs_code": "28461010",
+   "hs6": "284610",
+   "hs6_description": "Cerium compounds",
    "level": 8,
    "chapter": "28",
    "description": "Cerium oxides",
@@ -5073,6 +5917,8 @@
   },
   {
    "hs_code": "28461090",
+   "hs6": "284610",
+   "hs6_description": "Cerium compounds",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -5085,6 +5931,8 @@
   },
   {
    "hs_code": "284690",
+   "hs6": "284690",
+   "hs6_description": "Compounds, inorganic or organic (excluding cerium), of rare-earth metals, of yttrium, scandium or of mixtures of these metals",
    "level": 6,
    "chapter": "28",
    "description": "Other",
@@ -5097,6 +5945,8 @@
   },
   {
    "hs_code": "28469010",
+   "hs6": "284690",
+   "hs6_description": "Compounds, inorganic or organic (excluding cerium), of rare-earth metals, of yttrium, scandium or of mixtures of these metals",
    "level": 8,
    "chapter": "28",
    "description": "Rare earth oxides not elsewhere included or specified",
@@ -5109,6 +5959,8 @@
   },
   {
    "hs_code": "28469020",
+   "hs6": "284690",
+   "hs6_description": "Compounds, inorganic or organic (excluding cerium), of rare-earth metals, of yttrium, scandium or of mixtures of these metals",
    "level": 8,
    "chapter": "28",
    "description": "Rare earth fluorides not elsewhere included or specified",
@@ -5121,6 +5973,8 @@
   },
   {
    "hs_code": "28469030",
+   "hs6": "284690",
+   "hs6_description": "Compounds, inorganic or organic (excluding cerium), of rare-earth metals, of yttrium, scandium or of mixtures of these metals",
    "level": 8,
    "chapter": "28",
    "description": "Rare earth chlorides not elsewhere included or specified",
@@ -5133,6 +5987,8 @@
   },
   {
    "hs_code": "28469090",
+   "hs6": "284690",
+   "hs6_description": "Compounds, inorganic or organic (excluding cerium), of rare-earth metals, of yttrium, scandium or of mixtures of these metals",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -5145,6 +6001,8 @@
   },
   {
    "hs_code": "28470000",
+   "hs6": "284700",
+   "hs6_description": "Hydrogen peroxide; whether or not solidified with urea",
    "level": 8,
    "chapter": "28",
    "description": "Hydrogen peroxide, whether or not solidified with urea",
@@ -5157,6 +6015,8 @@
   },
   {
    "hs_code": "2849",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Carbides, whether or not chemically defined.",
@@ -5169,6 +6029,8 @@
   },
   {
    "hs_code": "28491000",
+   "hs6": "284910",
+   "hs6_description": "Carbides; of calcium, whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Of calcium",
@@ -5181,6 +6043,8 @@
   },
   {
    "hs_code": "284920",
+   "hs6": "284920",
+   "hs6_description": "Carbides; of silicon, whether or not chemically defined",
    "level": 6,
    "chapter": "28",
    "description": "Of silicon",
@@ -5193,6 +6057,8 @@
   },
   {
    "hs_code": "28492010",
+   "hs6": "284920",
+   "hs6_description": "Carbides; of silicon, whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Carborandum",
@@ -5205,6 +6071,8 @@
   },
   {
    "hs_code": "28492090",
+   "hs6": "284920",
+   "hs6_description": "Carbides; of silicon, whether or not chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -5217,6 +6085,8 @@
   },
   {
    "hs_code": "284990",
+   "hs6": "284990",
+   "hs6_description": "Carbides; whether or not chemically defined, other than of calcium or silicon",
    "level": 6,
    "chapter": "28",
    "description": "Other",
@@ -5229,6 +6099,8 @@
   },
   {
    "hs_code": "28499010",
+   "hs6": "284990",
+   "hs6_description": "Carbides; whether or not chemically defined, other than of calcium or silicon",
    "level": 8,
    "chapter": "28",
    "description": "Boron carbide",
@@ -5241,6 +6113,8 @@
   },
   {
    "hs_code": "28499020",
+   "hs6": "284990",
+   "hs6_description": "Carbides; whether or not chemically defined, other than of calcium or silicon",
    "level": 8,
    "chapter": "28",
    "description": "Tungsten carbide",
@@ -5253,6 +6127,8 @@
   },
   {
    "hs_code": "28499090",
+   "hs6": "284990",
+   "hs6_description": "Carbides; whether or not chemically defined, other than of calcium or silicon",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -5265,6 +6141,8 @@
   },
   {
    "hs_code": "2850",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 28.49.",
@@ -5277,6 +6155,8 @@
   },
   {
    "hs_code": "285000",
+   "hs6": "285000",
+   "hs6_description": "Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",
    "level": 6,
    "chapter": "28",
    "description": "Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 2849:",
@@ -5289,6 +6169,8 @@
   },
   {
    "hs_code": "28500010",
+   "hs6": "285000",
+   "hs6_description": "Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",
    "level": 8,
    "chapter": "28",
    "description": "Hydrides",
@@ -5301,6 +6183,8 @@
   },
   {
    "hs_code": "28500020",
+   "hs6": "285000",
+   "hs6_description": "Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",
    "level": 8,
    "chapter": "28",
    "description": "Nitrides",
@@ -5313,6 +6197,8 @@
   },
   {
    "hs_code": "28500030",
+   "hs6": "285000",
+   "hs6_description": "Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",
    "level": 8,
    "chapter": "28",
    "description": "Azides",
@@ -5325,6 +6211,8 @@
   },
   {
    "hs_code": "28500041",
+   "hs6": "285000",
+   "hs6_description": "Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",
    "level": 8,
    "chapter": "28",
    "description": "Silicides: ---- Of calcium",
@@ -5337,6 +6225,8 @@
   },
   {
    "hs_code": "28500049",
+   "hs6": "285000",
+   "hs6_description": "Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",
    "level": 8,
    "chapter": "28",
    "description": "Silicides: ---- Other",
@@ -5349,6 +6239,8 @@
   },
   {
    "hs_code": "28500050",
+   "hs6": "285000",
+   "hs6_description": "Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading no. 2849",
    "level": 8,
    "chapter": "28",
    "description": "Borides",
@@ -5361,6 +6253,8 @@
   },
   {
    "hs_code": "2852",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Inorganic or organic compounds of mercury, whether or not chemically defined, excluding amalgams.",
@@ -5373,6 +6267,8 @@
   },
   {
    "hs_code": "28521000",
+   "hs6": "285210",
+   "hs6_description": "Inorganic or organic compounds of mercury, excluding amalgams, chemically defined",
    "level": 8,
    "chapter": "28",
    "description": "Chemically defined",
@@ -5385,6 +6281,8 @@
   },
   {
    "hs_code": "28529000",
+   "hs6": "285290",
+   "hs6_description": "Inorganic or organic compounds of mercury; excluding amalgams, not chemically defined,",
    "level": 8,
    "chapter": "28",
    "description": "Other",
@@ -5397,6 +6295,8 @@
   },
   {
    "hs_code": "2853",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "28",
    "description": "Phosphides, whether or not chemically defined, excluding ferrophosphorus; other inorganic compounds (including distilled or conductivity water and water of similar purity); liquid air (whether or not rare gases have been removed); compressed air; amalgams, other than amalgams of precious metals.",
@@ -5409,6 +6309,8 @@
   },
   {
    "hs_code": "28531000",
+   "hs6": "285310",
+   "hs6_description": "Inorganic compounds; cyanogen chloride (chlorcyan)",
    "level": 8,
    "chapter": "28",
    "description": "Cyanogen chloride (chlorcyan)",
@@ -5421,6 +6323,8 @@
   },
   {
    "hs_code": "285390",
+   "hs6": "285390",
+   "hs6_description": "Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",
    "level": 6,
    "chapter": "28",
    "description": "Other",
@@ -5433,6 +6337,8 @@
   },
   {
    "hs_code": "28539010",
+   "hs6": "285390",
+   "hs6_description": "Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",
    "level": 8,
    "chapter": "28",
    "description": "Distilled or conductivity water and water of similar purity",
@@ -5445,6 +6351,8 @@
   },
   {
    "hs_code": "28539020",
+   "hs6": "285390",
+   "hs6_description": "Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",
    "level": 8,
    "chapter": "28",
    "description": "Liquid air, whether or not rare gases have been removed",
@@ -5457,6 +6365,8 @@
   },
   {
    "hs_code": "28539030",
+   "hs6": "285390",
+   "hs6_description": "Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",
    "level": 8,
    "chapter": "28",
    "description": "Compressed air",
@@ -5469,6 +6379,8 @@
   },
   {
    "hs_code": "28539040",
+   "hs6": "285390",
+   "hs6_description": "Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",
    "level": 8,
    "chapter": "28",
    "description": "Amalgams, other than of precious metals",
@@ -5481,6 +6393,8 @@
   },
   {
    "hs_code": "28539050",
+   "hs6": "285390",
+   "hs6_description": "Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",
    "level": 8,
    "chapter": "28",
    "description": "Magnesium phosphide plates, zinc phosphide",
@@ -5493,6 +6407,8 @@
   },
   {
    "hs_code": "28539090",
+   "hs6": "285390",
+   "hs6_description": "Phosphides, chemically defined or not, not ferrophosphorus; other inorganic compounds n.e.c. (including distilled, conductivity water and water of like purity); liquid air, rare gases removed or not; compressed air; amalgams, not precious metal amalgams",
    "level": 8,
    "chapter": "28",
    "description": "Other",

@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "9801",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "98",
    "description": "All items of machinery including prime movers, instruments, apparatus and appliances, control gear and transmission equipment, auxiliary equipment (including those required for research and development purposes, testing and quality control), as well as all components (whether finished or not) or raw materials for the manufacture of the aforesaid items and their components, required for the initial setting up of a unit, or the substantial expansion of an existing unit, of a specified: (1) Industrial plant, (2) Irrigation project, (3) Power project, other than solar power plant or solar power project, (4) Mining project, (5) Project for the exploration for oil or other minerals, and (6) Such other projects, other than solar power plant or solar power project, as the central government may, having regard to the economic development of the country notify in the official gazette in this behalf; and spare parts, other raw materials (including semi-finished material) or consumable stores not exceeding 10% of the value of the goods specified above provided that such spare parts, raw materials or consumable stores are essential for the maintenance of the plant or project mentioned in (1) to (6) above.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "980100",
+   "hs6": "980100",
+   "hs6_description": "",
    "level": 6,
    "chapter": "98",
    "description": "All items of machinery including prime movers, instruments, apparatus and appliances, control gear and transmission equipment, auxiliary equipment (including those required for research and development purposes, testing and quality control), as well as all components (whether finished or not) or raw materials for the manufacture of the aforesaid items and their components, required for the initial setting up of a unit, or the substantial expansion of an existing unit, of a specified: (1) industrial plant, (2) irrigation project, (3) Power project, other than solar power plant or solar power project, (4) mining project, (5) project for the exploration for oil or other minerals, and (6) such other projects, other than solar power plant or solar power project, as the Central Government may, having regard to the economic development of the country notify in the Official Gazette in this behalf; and spare parts, other raw materials (including semi- finished materials of consumable stores) not exceeding 10% of the value of the goods specified above, provided that such spare parts, raw materials or consumable stores are essential for the maintenance of the plant or project mentioned in (1) to (6) above:",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "98010011",
+   "hs6": "980100",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "Machinery: ----For industrial plant project",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "98010012",
+   "hs6": "980100",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "Machinery: ----For irrigation plant",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "98010013",
+   "hs6": "980100",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "For power project, other than solar power plant or solar power project",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "98010014",
+   "hs6": "980100",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "Machinery: ----For mining project",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "98010015",
+   "hs6": "980100",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "Machinery: ----Project for exploration of oil or other minerals",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "98010019",
+   "hs6": "980100",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "For other projects, other than solar power plant or solar power project",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "98010020",
+   "hs6": "980100",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "Machinery: ----Components (whether finished or not) or raw materials for the manufacture of aforesaid items and their components required for the initial setting up of a unit or the substantial expansion of a unit",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "98010030",
+   "hs6": "980100",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "Machinery: ----Spare parts and other raw materials (including semi-finished materials) or consumable stores for the maintenance of plant or project",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "98020000",
+   "hs6": "980200",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "Laboratory Chemicals",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "98030000",
+   "hs6": "980300",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "All dutiable articles, imported by a passenger or a member of a crew in his baggage",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "9804",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "98",
    "description": "All Dutiable Articles, Intended For Personal Use, Imported By Post Or Air, And Exempted From Any Prohibition In Respect Of The Imports Thereof Under The Foreign Trade (Development and",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "98041000",
+   "hs6": "980410",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "Drugs and medicines",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "98049000",
+   "hs6": "980490",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "Other",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "9805",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "98",
    "description": "The Following Articles Of Stores On Board Of A Vessel Or Aircraft On Which Duty Is Leviable Under The Customs Act, 1962 (52 Of 1962) Namely:",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "98051000",
+   "hs6": "980510",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "Prepared or preserved meat, fish and vegetables; dairy products; soup; lard; fresh fruits",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "98059000",
+   "hs6": "980590",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "All other consumable stores excluding fuel, lubricating oil, alcoholic drinks and tobacco products",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "98089299",
+   "hs6": "980892",
+   "hs6_description": "",
    "level": 8,
    "chapter": "98",
    "description": "--- Other: ---- Other",

@@ -1,53 +1,53 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-3501,4,35,"Casein, caseinates and other casein derivatives; casein glues.",,,,,,2026-10-22
-35011000,8,35,Casein,Free,,,,,2026-10-22
-35019000,8,35,Other,Free,,,,,2026-10-22
-3502,4,35,"Albumins (including concentrates of two or more whey proteins, containing by weight more than 80 percent whey proteins, calculated on the dry matter), albuminates and other albumin derivatives.",,,,,,2026-10-22
-35021100,8,35,Egg albumin : -- Dried,Free,,,,,2026-10-22
-35021900,8,35,Egg albumin : -- Other,Free,,,,,2026-10-22
-35022000,8,35,"Milk albumin, including concentrates of two or more whey proteins",Free,,,,,2026-10-22
-35029000,8,35,Other,Free,,,,,2026-10-22
-3503,4,35,"Gelatin (including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 35.01.",,,,,,2026-10-22
-350300,6,35,"Gelatin [including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured] and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 3501:",,,,,,2026-10-22
-35030010,8,35,Isinglass,Free,"Subject to Wild Life (Protection) Act, 1972 and CITES.",,,,2026-10-22
-35030020,8,35,"Gelatin, edible grade and not elsewhere specified or included",Free,"Subject to Wild Life (Protection) Act, 1972 and CITES.",,,,2026-10-22
-35030030,8,35,"Glues derived from bones, hides and similar items; fish glues",Free,"Subject to Wild Life (Protection) Act, 1972 and CITES.",,,,2026-10-22
-35030090,8,35,Other,Free,"Subject to Wild Life (Protection) Act, 1972 and CITES.",,,,2026-10-22
-3504,4,35,"Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed.",,,,,,2026-10-22
-350400,6,35,"Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed:",,,,,,2026-10-22
-35040010,8,35,Peptones,Free,,,,,2026-10-22
-35040091,8,35,Other: ---- Isolated Soya protein,Free,,,,,2026-10-22
-35040099,8,35,Other: ---- Others,Free,,,,,2026-10-22
-3505,4,35,"Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches.",,,,,,2026-10-22
-350510,6,35,Dextrins and other modified starches,,,,,,2026-10-22
-35051010,8,35,Esterified starches,Free,,,,,2026-10-22
-35051090,8,35,Other,Free,,,,,2026-10-22
-35052000,8,35,Glues,Free,,,,,2026-10-22
-3506,4,35,"Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg.",,,,,,2026-10-22
-35061000,8,35,"products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg",Free,,,,,2026-10-22
-350691,6,35,Other : -- Adhesives based on polymers of headings 39.01 to 39.13 or on rubber,,,,,,2026-10-22
-35069110,8,35,"Based on latex, Phenol Formaldehyde (PF), Urea Formaldehyde (UF) and Polyvinyl Alcohol (PVA)",Free,,,,,2026-10-22
-35069190,8,35,Other,Free,,,,,2026-10-22
-350699,6,35,Other : -- Other,,,,,,2026-10-22
-35069910,8,35,Synthetic glue with phenol urea or cresol (with formaldehyde) as the main component,Free,,,,,2026-10-22
-35069991,8,35,"Prepared glues and other prepared adhesives not elsewhere specified or included: ---- Based on starch, gum, latex, PF, UF and PVA",Free,,,,,2026-10-22
-35069999,8,35,Prepared glues and other prepared adhesives not elsewhere specified or included: ---- Other,Free,,,,,2026-10-22
-3507,4,35,Enzymes; prepared enzymes not elsewhere specified or included.,,,,,,2026-10-22
-350710,6,35,Rennet and concentrates thereof,,,,,,2026-10-22
-35071011,8,35,Microbial rennet: ---- Animal rennet,Prohibited,,,,,2026-10-22
-35071019,8,35,Microbial rennet: ---- Other,Prohibited,,,,,2026-10-22
-35071091,8,35,Other: ---- Animal rennet,Prohibited,,,,,2026-10-22
-35071099,8,35,Other: ---- Other,Prohibited,,,,,2026-10-22
-350790,6,35,Other,,,,,,2026-10-22
-35079010,8,35,Industrial enzymes (textile assistant),Free,,,,,2026-10-22
-35079020,8,35,Pancretin pure (excluding medicament),Free,,,,,2026-10-22
-35079030,8,35,Pepsin (excluding medicament),Free,,,,,2026-10-22
-35079040,8,35,Pectin esterases pure,Free,,,,,2026-10-22
-35079050,8,35,Pectolytic enzyme (pectimase),Free,,,,,2026-10-22
-35079061,8,35,Other enzymes of microbial origin: ---- Streptokinase,Free,,,,,2026-10-22
-35079062,8,35,Other enzymes of microbial origin: ---- Amylases enzymes,Free,,,,,2026-10-22
-35079069,8,35,Other enzymes of microbial origin: ---- Other,Free,,,,,2026-10-22
-35079071,8,35,"Enzymes for pharmaceutical use, other than streptokinase: ---- Papain, pure, of pharmaceutical grade",Free,,,,,2026-10-22
-35079079,8,35,"Enzymes for pharmaceutical use, other than streptokinase: ---- Other",Free,,,,,2026-10-22
-35079091,8,35,Other: ---- Enzymatic preparations containing food stuffs,Free,,,,,2026-10-22
-35079099,8,35,Other: ---- Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+3501,,,4,35,"Casein, caseinates and other casein derivatives; casein glues.",,,,,,2026-10-22
+35011000,350110,Casein,8,35,Casein,Free,,,,,2026-10-22
+35019000,350190,Caseinates and other casein derivatives; casein glues,8,35,Other,Free,,,,,2026-10-22
+3502,,,4,35,"Albumins (including concentrates of two or more whey proteins, containing by weight more than 80 percent whey proteins, calculated on the dry matter), albuminates and other albumin derivatives.",,,,,,2026-10-22
+35021100,350211,"Albumins; egg albumin, dried",8,35,Egg albumin : -- Dried,Free,,,,,2026-10-22
+35021900,350219,"Albumins; egg albumin, not dried",8,35,Egg albumin : -- Other,Free,,,,,2026-10-22
+35022000,350220,"Albumins; milk albumin, including concentrates of two or more whey proteins",8,35,"Milk albumin, including concentrates of two or more whey proteins",Free,,,,,2026-10-22
+35029000,350290,"Albumins, albuminates and other albumin derivatives; other than egg or milk albumin, including concentrates of two or more whey proteins",8,35,Other,Free,,,,,2026-10-22
+3503,,,4,35,"Gelatin (including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 35.01.",,,,,,2026-10-22
+350300,350300,"Gelatin (including gelatin in rectangular sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading no. 3501",6,35,"Gelatin [including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured] and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 3501:",,,,,,2026-10-22
+35030010,350300,"Gelatin (including gelatin in rectangular sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading no. 3501",8,35,Isinglass,Free,"Subject to Wild Life (Protection) Act, 1972 and CITES.",,,,2026-10-22
+35030020,350300,"Gelatin (including gelatin in rectangular sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading no. 3501",8,35,"Gelatin, edible grade and not elsewhere specified or included",Free,"Subject to Wild Life (Protection) Act, 1972 and CITES.",,,,2026-10-22
+35030030,350300,"Gelatin (including gelatin in rectangular sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading no. 3501",8,35,"Glues derived from bones, hides and similar items; fish glues",Free,"Subject to Wild Life (Protection) Act, 1972 and CITES.",,,,2026-10-22
+35030090,350300,"Gelatin (including gelatin in rectangular sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading no. 3501",8,35,Other,Free,"Subject to Wild Life (Protection) Act, 1972 and CITES.",,,,2026-10-22
+3504,,,4,35,"Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed.",,,,,,2026-10-22
+350400,350400,"Peptones and their derivatives; other protein substances and their derivatives n.e.c. or included, hide powder, whether or not chromed",6,35,"Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed:",,,,,,2026-10-22
+35040010,350400,"Peptones and their derivatives; other protein substances and their derivatives n.e.c. or included, hide powder, whether or not chromed",8,35,Peptones,Free,,,,,2026-10-22
+35040091,350400,"Peptones and their derivatives; other protein substances and their derivatives n.e.c. or included, hide powder, whether or not chromed",8,35,Other: ---- Isolated Soya protein,Free,,,,,2026-10-22
+35040099,350400,"Peptones and their derivatives; other protein substances and their derivatives n.e.c. or included, hide powder, whether or not chromed",8,35,Other: ---- Others,Free,,,,,2026-10-22
+3505,,,4,35,"Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches.",,,,,,2026-10-22
+350510,350510,Dextrins and other modified starches,6,35,Dextrins and other modified starches,,,,,,2026-10-22
+35051010,350510,Dextrins and other modified starches,8,35,Esterified starches,Free,,,,,2026-10-22
+35051090,350510,Dextrins and other modified starches,8,35,Other,Free,,,,,2026-10-22
+35052000,350520,"Glues; based on starches, or on dextrins or other modified starches",8,35,Glues,Free,,,,,2026-10-22
+3506,,,4,35,"Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg.",,,,,,2026-10-22
+35061000,350610,"Glues or adhesives; prepared, products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1kg",8,35,"products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg",Free,,,,,2026-10-22
+350691,350691,"Adhesives; prepared, based on polymers of heading 3901 to 3913 or on rubber",6,35,Other : -- Adhesives based on polymers of headings 39.01 to 39.13 or on rubber,,,,,,2026-10-22
+35069110,350691,"Adhesives; prepared, based on polymers of heading 3901 to 3913 or on rubber",8,35,"Based on latex, Phenol Formaldehyde (PF), Urea Formaldehyde (UF) and Polyvinyl Alcohol (PVA)",Free,,,,,2026-10-22
+35069190,350691,"Adhesives; prepared, based on polymers of heading 3901 to 3913 or on rubber",8,35,Other,Free,,,,,2026-10-22
+350699,350699,"Glues and other adhesives; prepared, n.e.c. in heading no. 3506, not exceeding a net weight of 1kg",6,35,Other : -- Other,,,,,,2026-10-22
+35069910,350699,"Glues and other adhesives; prepared, n.e.c. in heading no. 3506, not exceeding a net weight of 1kg",8,35,Synthetic glue with phenol urea or cresol (with formaldehyde) as the main component,Free,,,,,2026-10-22
+35069991,350699,"Glues and other adhesives; prepared, n.e.c. in heading no. 3506, not exceeding a net weight of 1kg",8,35,"Prepared glues and other prepared adhesives not elsewhere specified or included: ---- Based on starch, gum, latex, PF, UF and PVA",Free,,,,,2026-10-22
+35069999,350699,"Glues and other adhesives; prepared, n.e.c. in heading no. 3506, not exceeding a net weight of 1kg",8,35,Prepared glues and other prepared adhesives not elsewhere specified or included: ---- Other,Free,,,,,2026-10-22
+3507,,,4,35,Enzymes; prepared enzymes not elsewhere specified or included.,,,,,,2026-10-22
+350710,350710,Enzymes; rennet and concentrates thereof,6,35,Rennet and concentrates thereof,,,,,,2026-10-22
+35071011,350710,Enzymes; rennet and concentrates thereof,8,35,Microbial rennet: ---- Animal rennet,Prohibited,,,,,2026-10-22
+35071019,350710,Enzymes; rennet and concentrates thereof,8,35,Microbial rennet: ---- Other,Prohibited,,,,,2026-10-22
+35071091,350710,Enzymes; rennet and concentrates thereof,8,35,Other: ---- Animal rennet,Prohibited,,,,,2026-10-22
+35071099,350710,Enzymes; rennet and concentrates thereof,8,35,Other: ---- Other,Prohibited,,,,,2026-10-22
+350790,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,6,35,Other,,,,,,2026-10-22
+35079010,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,8,35,Industrial enzymes (textile assistant),Free,,,,,2026-10-22
+35079020,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,8,35,Pancretin pure (excluding medicament),Free,,,,,2026-10-22
+35079030,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,8,35,Pepsin (excluding medicament),Free,,,,,2026-10-22
+35079040,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,8,35,Pectin esterases pure,Free,,,,,2026-10-22
+35079050,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,8,35,Pectolytic enzyme (pectimase),Free,,,,,2026-10-22
+35079061,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,8,35,Other enzymes of microbial origin: ---- Streptokinase,Free,,,,,2026-10-22
+35079062,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,8,35,Other enzymes of microbial origin: ---- Amylases enzymes,Free,,,,,2026-10-22
+35079069,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,8,35,Other enzymes of microbial origin: ---- Other,Free,,,,,2026-10-22
+35079071,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,8,35,"Enzymes for pharmaceutical use, other than streptokinase: ---- Papain, pure, of pharmaceutical grade",Free,,,,,2026-10-22
+35079079,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,8,35,"Enzymes for pharmaceutical use, other than streptokinase: ---- Other",Free,,,,,2026-10-22
+35079091,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,8,35,Other: ---- Enzymatic preparations containing food stuffs,Free,,,,,2026-10-22
+35079099,350790,Enzymes and prepared enzymes; other than rennet and concentrates thereof,8,35,Other: ---- Other,Free,,,,,2026-10-22

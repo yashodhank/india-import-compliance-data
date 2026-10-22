@@ -1,289 +1,289 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-5401,4,54,"Sewing thread of man-made filaments, whether or not put up for retail sale.",,,,,,2026-10-22
-54011000,8,54,of synthetic filaments,Free,,,,,2026-10-22
-54012000,8,54,of Artificial filaments,Free,,,,,2026-10-22
-5402,4,54,"Synthetic filament yarn (other than sewing thread), not put up for retail sale, including synthetic monofilament of less than 67 decitex.",,,,,,2026-10-22
-54021100,8,54,"High tenacity yarn of nylon or other polyamides, whether or not textured: -- Of aramids",Free,.,,08/2023,2023-05-29,2026-10-22
-540219,6,54,"High tenacity yarn of nylon or Other polyamides, whether or not textured : -- Other",,,,,,2026-10-22
-54021910,8,54,Nylon tyre yarn,Free,,,,,2026-10-22
-54021920,8,54,Nylon 66 filament yarn confirming to IS 13464,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-54021990,8,54,Other,Free,,,,,2026-10-22
-540220,6,54,"High tenacity yarn of polyesters, whether or not textured",,,,,,2026-10-22
-54022010,8,54,Of terylene dacron,Free,,,,,2026-10-22
-54022090,8,54,Other,Free,,,,,2026-10-22
-54023100,8,54,"Textured yarn : -- of nylon or other polyamides, Measuring per single yarn not more than 50 tex",Free,,,,,2026-10-22
-54023200,8,54,"Textured yarn : -- of nylon or other polyamides, Measuring per single yarn more than 50 tex",Free,,,,,2026-10-22
-54023300,8,54,Textured yarn : -- Of polyesters,Free,,,,,2026-10-22
-54023400,8,54,Textured yarn : -- Of polypropylene,Free,,,,,2026-10-22
-540239,6,54,Textured yarn : -- Other,,,,,,2026-10-22
-54023910,8,54,Polypropylene filament yarn,Free,,,,,2026-10-22
-54023920,8,54,Acrylic filament yarn,Free,,,,,2026-10-22
-54023990,8,54,Other,Free,,,,,2026-10-22
-54024400,8,54,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Elastomeric",Free,,,,,2026-10-22
-54024500,8,54,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other, of nylon or other polyamides",Free,,,,,2026-10-22
-54024600,8,54,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other, of polyesters, partially oriented",Free,,,,,2026-10-22
-54024700,8,54,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other, of polyesters",Free,,,,,2026-10-22
-54024800,8,54,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other, of polypropylene",Free,,,,,2026-10-22
-54024900,8,54,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other",Free,,,,,2026-10-22
-54025100,8,54,"Other yarn, single, with a twist exceeding 50 turns per metre : -- Of nylon or other polyamides",Free,,,,,2026-10-22
-540252,6,54,Of polyesters,,,,,,2026-10-22
-54025210,8,54,Polyester yarn-Anti Static Filament,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-54025290,8,54,Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-54025300,8,54,"Other yarn, single, with a twist exceeding 50 turns per metre : -- Of polypropylene",Free,,,,,2026-10-22
-540259,6,54,"Other yarn, single, with a twist exceeding 50 turns per metre : -- Other",,,,,,2026-10-22
-54025900,8,54,"Other yarn, single, with a twist exceeding 50 turns per metre: -- Other",Free,.,,08/2023,2023-05-29,2026-10-22
-54026100,8,54,"Other yarn, multiple (folded) or cabled : -- Of nylon or other polyamides",Free,,,,,2026-10-22
-54026200,8,54,"Other yarn, multiple (folded) or cabled : -- Of polyesters",Free,,,,,2026-10-22
-54026300,8,54,"Other yarn, multiple (folded) or cabled : -- Of polypropylene",Free,,,,,2026-10-22
-540269,6,54,"Other yarn, multiple (folded) or cabled : -- Other",,,,,,2026-10-22
-54026910,8,54,Polyvinyl acetate filament yarn,Free,,,,,2026-10-22
-54026920,8,54,Polyvinyl chloride filament yarn,Free,,,,,2026-10-22
-54026930,8,54,Polypropylene filament yarn,Free,,,,,2026-10-22
-54026940,8,54,Acrylic filament yarn,Free,,,,,2026-10-22
-54026950,8,54,Polytetrafluoroethylene yarn,Free,,,,,2026-10-22
-54026960,8,54,Ultra high molecular weight poly ethylene filament yarn conforming to ASTM F2848,Free,-,,20/2015-2020,2022-07-07,2026-10-22
-54026990,8,54,Other,Free,,,,,2026-10-22
-5403,4,54,"Artificial filament yarn (other than sewing thread), not put up for retail sale, including artificial monofilament of less than 67 decitex.",,,,,,2026-10-22
-540310,6,54,High tenacity yarn of viscose rayon,,,,,,2026-10-22
-54031010,8,54,"Viscose rayon tyre yarn - 1,233 decitex",Free,,,,,2026-10-22
-54031020,8,54,"Viscose rayon tyre yarn - 1,833 decitex",Free,,,,,2026-10-22
-54031090,8,54,Other,Free,,,,,2026-10-22
-54033100,8,54,"Other yarn, single : -- Of viscose rayon, untwisted or with a twist not exceeding 120",Free,,,,,2026-10-22
-54033200,8,54,"Other yarn, single : -- Of viscose rayon, with a twist exceeding 120 turns per metre",Free,,,,,2026-10-22
-54033300,8,54,"Other yarn, single : -- Of cellulose acetate",Free,,,,,2026-10-22
-540339,6,54,Other,,,,,,2026-10-22
-54033910,8,54,Cuprammonium rayon,Free,,,,,2026-10-22
-54033990,8,54,Other,Free,,,,,2026-10-22
-540341,6,54,"Other yarn, multiple (folded) or cabled : -- Of viscose rayon",,,,,,2026-10-22
-54034110,8,54,Upto 67 decitex,Free,,,,,2026-10-22
-54034120,8,54,Of 83 decitex,Free,,,,,2026-10-22
-54034130,8,54,"Of 111 decitex, bright",Free,,,,,2026-10-22
-54034140,8,54,"Of 111 decitex, dull",Free,,,,,2026-10-22
-54034150,8,54,"Of 133 decitex, bright",Free,,,,,2026-10-22
-54034160,8,54,"Of 133 decitex, dull",Free,,,,,2026-10-22
-54034170,8,54,"Of 167 decitex, bright",Free,,,,,2026-10-22
-54034180,8,54,"Of 167 decitex, dull",Free,,,,,2026-10-22
-54034190,8,54,Other,Free,,,,,2026-10-22
-540342,6,54,"Other yarn, multiple (folded) or cabled : -- Of cellulose acetate",,,,,,2026-10-22
-54034210,8,54,"Acetate rayon filament yarn, 83 decitex",Free,,,,,2026-10-22
-54034220,8,54,"Acetate rayon filament yarn, 111 decitex",Free,,,,,2026-10-22
-54034230,8,54,"Acetate rayon filament yarn, 133 decitex",Free,,,,,2026-10-22
-54034240,8,54,"Acetate rayon filament yarn, 167 decitex",Free,,,,,2026-10-22
-54034250,8,54,"Acetate rayon filament yarn, 333 decitex",Free,,,,,2026-10-22
-54034290,8,54,Other,Free,,,,,2026-10-22
-540349,6,54,"Other yarn, multiple (folded) or cabled : -- Other",,,,,,2026-10-22
-54034911,8,54,Cuprammonium filament yarn ---- Of 33 decitex,Free,,,,,2026-10-22
-54034912,8,54,Cuprammonium filament yarn ---- Of 44 decitex,Free,,,,,2026-10-22
-54034913,8,54,Cuprammonium filament yarn ---- Of 67 decitex,Free,,,,,2026-10-22
-54034914,8,54,Cuprammonium filament yarn ---- Of 83 decitex,Free,,,,,2026-10-22
-54034915,8,54,Cuprammonium filament yarn ---- Of 89 decitex,Free,,,,,2026-10-22
-54034919,8,54,Cuprammonium filament yarn ---- Other,Free,,,,,2026-10-22
-54034990,8,54,Cuprammonium filament yarn ---- Other,Free,,,,,2026-10-22
-5404,4,54,"Synthetic monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of synthetic textile materials of an apparent width not exceeding 5 mm.",,,,,,2026-10-22
-54041100,8,54,Monofilament : -- Elastomeric,Free,,,,,2026-10-22
-54041200,8,54,"Monofilament : -- Other, of polypropylene",Free,,,,,2026-10-22
-540419,6,54,Monofilament : -- Other,,,,,,2026-10-22
-54041910,8,54,"Catgut imitation of synthetic yarn, non-sterile",Free,,,,,2026-10-22
-54041920,8,54,Strip and the like of synthetic fibre material,Free,,,,,2026-10-22
-54041990,8,54,Other,Free,,,,,2026-10-22
-540490,6,54,Other,,,,,,2026-10-22
-54049010,8,54,"Catgut imitation of synthetic yarn, non-sterile",Free,,,,,2026-10-22
-54049020,8,54,Strip and the like of synthetic fibre materials,Free,,,,,2026-10-22
-54049090,8,54,Other,Free,,,,,2026-10-22
-54050000,8,54,"Artificial monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of artificial textile materials of an apparent width not exceeding 5 mm.",Free,,,,,2026-10-22
-540600,6,54,"MAN-MADE FILAMENT YARN (OTHER THAN SEWING THREAD), PUT UP FOR RETAIL SALE",,,,,,2026-10-22
-54060010,8,54,Synthetic filament yarn,Free,,,,,2026-10-22
-54060020,8,54,Artificial filament yarn,Free,,,,,2026-10-22
-5407,4,54,"Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials of heading 54.04.",,,,,,2026-10-22
-540710,6,54,Woven fabrics obtained from high tenacity yarn of nylon or other polyamides or of polyesters,,,,,,2026-10-22
-54071011,8,54,Unbleached: ----Parachute fabric,Free,,,,,2026-10-22
-54071012,8,54,Unbleached: ----Tent fabrics,Free,,,,,2026-10-22
-54071013,8,54,Unbleached: ----Nylon furnishing fabrics,Free,,,,,2026-10-22
-54071014,8,54,Unbleached: ----Umbrella cloth panel fabrics,Free,,,,,2026-10-22
-54071015,8,54,Unbleached: ----Other nylon and polyamide fabrics (filament),Free,,,,,2026-10-22
-54071016,8,54,Unbleached: ----Polyester suitings,Free,,,,,2026-10-22
-54071019,8,54,Unbleached: ----Other polyester fabrics,Free,,,,,2026-10-22
-54071021,8,54,Bleached: ---- Parachute fabrics,Free,,,,,2026-10-22
-54071022,8,54,Bleached: ---- Tent fabrics,Free,,,,,2026-10-22
-54071023,8,54,Bleached: ---- Nylon furnishing fabrics,Free,,,,,2026-10-22
-54071024,8,54,Bleached: ---- Umbrella cloth panel fabrics,Free,,,,,2026-10-22
-54071025,8,54,Bleached: ---- Other nylon and polyamide fabrics of filament yarn,Free,,,,,2026-10-22
-54071026,8,54,Bleached: ---- Polyester suitings,Free,,,,,2026-10-22
-54071029,8,54,Other,Free,,,,,2026-10-22
-54071031,8,54,Dyed: ---- Parachute Fabrics,Free,,,,,2026-10-22
-54071032,8,54,Dyed: ---- Tent fabrics,Free,,,,,2026-10-22
-54071033,8,54,Dyed: ---- Nylon furnishing fabrics,Free,,,,,2026-10-22
-54071034,8,54,Dyed: ---- Umbrella cloth panel fabrics,Free,,,,,2026-10-22
-54071035,8,54,Dyed: ---- Other nylon and polyamide fabrics (filament),Free,,,,,2026-10-22
-54071036,8,54,Dyed: ---- Polyester suitings,Free,,,,,2026-10-22
-54071039,8,54,Dyed: ---- Other,Free,,,,,2026-10-22
-54071041,8,54,Printed: ---- Parachute fabrics,Free,,,,,2026-10-22
-54071042,8,54,Printed: ---- Tent fabrics,Free,,,,,2026-10-22
-54071043,8,54,Printed: ---- Nylon furnishing fabrics,Free,,,,,2026-10-22
-54071044,8,54,Printed: ---- Umbrella cloth panel fabrics,Free,,,,,2026-10-22
-54071045,8,54,Printed: ---- Other nylon and polyamide fabrics (filament),Free,,,,,2026-10-22
-54071046,8,54,Printed: ---- Polyester suitings,Free,,,,,2026-10-22
-54071049,8,54,Printed: ---- Other,Free,,,,,2026-10-22
-54071091,8,54,Other: ---- Parachute fabrics,Free,,,,,2026-10-22
-54071092,8,54,Other: ---- Tent fabrics,Free,,,,,2026-10-22
-54071093,8,54,Other: ---- Nylon furnishing fabrics,Free,,,,,2026-10-22
-54071094,8,54,Other: ---- Umbrella cloth panel fabrics,Free,,,,,2026-10-22
-54071095,8,54,Other: ---- Other nylon and polyamide fabrics of filament yarn,Free,,,,,2026-10-22
-54071096,8,54,Other: ---- Polyester suitings,Free,,,,,2026-10-22
-54071099,8,54,Other: ---- Other,Free,,,,,2026-10-22
-540720,6,54,Woven fabrics obtained from strip or the like,,,,,,2026-10-22
-54072010,8,54,Unbleached,Free,,,,,2026-10-22
-54072020,8,54,Bleached,Free,,,,,2026-10-22
-54072030,8,54,Dyed,Free,,,,,2026-10-22
-54072040,8,54,Printed,Free,,,,,2026-10-22
-54072090,8,54,Other,Free,,,,,2026-10-22
-540730,6,54,Fabrics specified in Note 9 to Section XI,,,,,,2026-10-22
-54073010,8,54,Unbleached,Free,,,,,2026-10-22
-54073020,8,54,Bleached,Free,,,,,2026-10-22
-54073030,8,54,Dyed,Free,,,,,2026-10-22
-54073040,8,54,Printed,Free,,,,,2026-10-22
-54073090,8,54,Other,Free,,,,,2026-10-22
-540741,6,54,"Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides : -- Unbleached or bleached",,,,,,2026-10-22
-54074111,8,54,Nylon brasso,Free,,,,,2026-10-22
-54074112,8,54,Nylon georgette,Free,,,,,2026-10-22
-54074113,8,54,Nylon tafetta,Free,,,,,2026-10-22
-54074114,8,54,Nylon sarees,Free,,,,,2026-10-22
-54074119,8,54,Other,Free,,,,,2026-10-22
-54074121,8,54,Bleached: ---- Nylon brasso,Free,,,,,2026-10-22
-54074122,8,54,Bleached: ---- Nylon georgette,Free,,,,,2026-10-22
-54074123,8,54,Bleached: ---- Nylon tafetta,Free,,,,,2026-10-22
-54074124,8,54,Bleached: ---- Nylon sarees,Free,,,,,2026-10-22
-54074129,8,54,Bleached: ---- Other,Free,,,,,2026-10-22
-540742,6,54,"Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides : -- Dyed",,,,,,2026-10-22
-54074210,8,54,Nylon brasso,Free,,,,,2026-10-22
-54074220,8,54,Nylon georgette,Free,,,,,2026-10-22
-54074230,8,54,Nylon tafetta,Free,,,,,2026-10-22
-54074240,8,54,Nylon sarees,Free,,,,,2026-10-22
-54074290,8,54,Other,Free,,,,,2026-10-22
-54074300,8,54,"Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides : -- Of yarns of different colours",Free,,,,,2026-10-22
-540744,6,54,"Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides : -- Printed",,,,,,2026-10-22
-54074410,8,54,Nylon brasso,Free,,,,,2026-10-22
-54074420,8,54,Nylon georgette,Free,,,,,2026-10-22
-54074430,8,54,Nylon tafetta,Free,,,,,2026-10-22
-54074440,8,54,"Nylon sarees,",Free,,,,,2026-10-22
-54074490,8,54,Other,Free,,,,,2026-10-22
-540751,6,54,"Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments : -- Unbleached or bleached",,,,,,2026-10-22
-54075111,8,54,Polyester shirtings,Free,,,,,2026-10-22
-54075119,8,54,Other,Free,,,,,2026-10-22
-54075121,8,54,Bleached: ---- Polyester shirtings,Free,,,,,2026-10-22
-54075129,8,54,Bleached: ---- Other,Free,,,,,2026-10-22
-540752,6,54,"Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments : -- Dyed",,,,,,2026-10-22
-54075210,8,54,Polyester shirtings,Free,,,,,2026-10-22
-54075220,8,54,Polyester suitings,Free,,,,,2026-10-22
-54075230,8,54,Terylene and dacron sarees,Free,,,,,2026-10-22
-54075240,8,54,Polyester sarees,Free,,,,,2026-10-22
-54075290,8,54,Other,Free,,,,,2026-10-22
-54075300,8,54,"Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments : -- Of yarns of different colours",Free,,,,,2026-10-22
-540754,6,54,"Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments : -- Printed",,,,,,2026-10-22
-54075410,8,54,Terylene and dacron sarees,Free,,,,,2026-10-22
-54075420,8,54,Polyester shirtings,Free,,,,,2026-10-22
-54075430,8,54,Polyester sarees,Free,,,,,2026-10-22
-54075490,8,54,Other,Free,,,,,2026-10-22
-540761,6,54,"Other woven fabrics, containing 85 percent or more by weight of polyester filaments : -- Containing 85 percent or more by weight of non-textured polyester filaments",,,,,,2026-10-22
-54076110,8,54,Polyester shirtings,Free,,,,,2026-10-22
-54076120,8,54,Polyester suitings,Free,,,,,2026-10-22
-54076190,8,54,Other,Free,,,,,2026-10-22
-54076900,8,54,"Other woven fabrics, containing 85 percent or more by weight of polyester filaments : -- Other",Free,,,,,2026-10-22
-540771,6,54,"Other woven fabrics, containing 85 percent or more by weight of synthetic filaments : -- Unbleached or bleached",,,,,,2026-10-22
-54077110,8,54,Unbleached,Free,,,,,2026-10-22
-54077120,8,54,Bleached,Free,,,,,2026-10-22
-54077200,8,54,"Other woven fabrics, containing 85 percent or more by weight of synthetic filaments : -- Dyed",Free,,,,,2026-10-22
-54077300,8,54,"Other woven fabrics, containing 85 percent or more by weight of synthetic filaments : -- Of yarns of different colours",Free,,,,,2026-10-22
-54077400,8,54,"Other woven fabrics, containing 85 percent or more by weight of synthetic filaments : --Printed",Free,,,,,2026-10-22
-540781,6,54,"Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton : -- Unbleached or bleached",,,,,,2026-10-22
-54078111,8,54,Nylon georgette,Free,,,,,2026-10-22
-54078112,8,54,Nylon sarees,Free,,,,,2026-10-22
-54078113,8,54,Polyester shirtings,Free,,,,,2026-10-22
-54078114,8,54,Polyester suitings,Free,,,,,2026-10-22
-54078115,8,54,Terylene and dacron sarees,Free,,,,,2026-10-22
-54078116,8,54,Polyester dhoti,Free,,,,,2026-10-22
-54078119,8,54,Other,Free,,,,,2026-10-22
-54078121,8,54,Bleached: ---- Nylon georgette,Free,,,,,2026-10-22
-54078122,8,54,Bleached: ---- Nylon sarees,Free,,,,,2026-10-22
-54078123,8,54,Bleached: ---- Polyester shirtings,Free,,,,,2026-10-22
-54078124,8,54,Bleached: ---- Polyester suitings,Free,,,,,2026-10-22
-54078125,8,54,Bleached: ---- Terylene and dacron sarees,Free,,,,,2026-10-22
-54078126,8,54,Bleached: ---- Polyester dhoti,Free,,,,,2026-10-22
-54078129,8,54,Bleached: ---- Other,Free,,,,,2026-10-22
-540782,6,54,"Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton : -- Dyed",,,,,,2026-10-22
-54078210,8,54,Nylon georgette,Free,,,,,2026-10-22
-54078220,8,54,Nylon sarees,Free,,,,,2026-10-22
-54078230,8,54,Polyester shirtings,Free,,,,,2026-10-22
-54078240,8,54,Polyester suitings,Free,,,,,2026-10-22
-54078250,8,54,Terylene and dacron sarees,Free,,,,,2026-10-22
-54078260,8,54,Lungies,Free,,,,,2026-10-22
-54078290,8,54,Other,Free,,,,,2026-10-22
-54078300,8,54,"Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton : -- Of yarns of different colours",Free,,,,,2026-10-22
-540784,6,54,"Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton : -- Printed",,,,,,2026-10-22
-54078410,8,54,Nylon georgette,Free,,,,,2026-10-22
-54078420,8,54,Nylon sarees,Free,,,,,2026-10-22
-54078430,8,54,Polyester shirtings,Free,,,,,2026-10-22
-54078440,8,54,Polyester suitings,Free,,,,,2026-10-22
-54078450,8,54,Terylene and dacron sarees,Free,,,,,2026-10-22
-54078460,8,54,Lungies,Free,,,,,2026-10-22
-54078470,8,54,Polyester sarees,Free,,,,,2026-10-22
-54078490,8,54,Other,Free,,,,,2026-10-22
-540791,6,54,Other woven fabrics : -- Unbleached or bleached x,,,,,,2026-10-22
-54079110,8,54,Other woven fabrics: ---- Unbleached,Free,,,,,2026-10-22
-54079120,8,54,Other woven fabrics: ---- Bleached,Free,,,,,2026-10-22
-54079200,8,54,Other woven fabrics : -- Dyed,Free,,,,,2026-10-22
-54079300,8,54,Other woven fabrics : -- Of yarns of different colours,Free,,,,,2026-10-22
-54079400,8,54,Other woven fabrics : -- Printed,Free,,,,,2026-10-22
-5408,4,54,"Woven fabrics of artificial filament yarn, including woven fabrics obtained from materials of heading 54.05.",,,,,,2026-10-22
-54081000,8,54,Woven fabrics obtained from high tenacity yarn of viscose rayon,Free,,,,,2026-10-22
-540821,6,54,"Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like : -- Unbleached or bleached",,,,,,2026-10-22
-54082110,8,54,Unbleached,Free,,,,,2026-10-22
-54082120,8,54,Bleached,Free,,,,,2026-10-22
-540822,6,54,"Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like : -- Dyed",,,,,,2026-10-22
-54082211,8,54,Fabrics of rayon: ---- Rayon crepe fabrics,Free,,,,,2026-10-22
-54082212,8,54,Fabrics of rayon: ---- Rayon jacquards,Free,,,,,2026-10-22
-54082213,8,54,Fabrics of rayon: ---- Rayon brocades,Free,,,,,2026-10-22
-54082214,8,54,Fabrics of rayon: ---- Rayon georgette,Free,,,,,2026-10-22
-54082215,8,54,Fabrics of rayon: ---- Rayon tafetta,Free,,,,,2026-10-22
-54082216,8,54,Fabrics of rayon: ---- Rayon suitings,Free,,,,,2026-10-22
-54082217,8,54,Fabrics of rayon: ---- Rayon shirtings,Free,,,,,2026-10-22
-54082218,8,54,Fabrics of rayon: ---- Rayon sarees,Free,,,,,2026-10-22
-54082219,8,54,Fabrics of rayon: ---- Other,Free,,,,,2026-10-22
-54082220,8,54,"Fabrics of continuous filament, other than rayon",Free,,,,,2026-10-22
-54082290,8,54,Other than rayon,Free,,,,,2026-10-22
-54082300,8,54,"Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like : -- Of yarns of different colours",Free,,,,,2026-10-22
-540824,6,54,"Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like : --Printed",,,,,,2026-10-22
-54082411,8,54,Of rayon: ---- Rayon crepe fabrics,Free,,,,,2026-10-22
-54082412,8,54,Of rayon: ---- Rayon jacquards,Free,,,,,2026-10-22
-54082413,8,54,Of rayon: ---- Rayon brocades,Free,,,,,2026-10-22
-54082414,8,54,Of rayon: ---- Rayon georgette,Free,,,,,2026-10-22
-54082415,8,54,Of rayon: ---- Rayon tafetta,Free,,,,,2026-10-22
-54082416,8,54,Of rayon: ---- Rayon suitings,Free,,,,,2026-10-22
-54082417,8,54,Of rayon: ---- Rayon shirtings,Free,,,,,2026-10-22
-54082418,8,54,Of rayon: ---- Rayon sarees,Free,,,,,2026-10-22
-54082419,8,54,Of rayon: ---- Other,Free,,,,,2026-10-22
-54082490,8,54,Other,Free,,,,,2026-10-22
-540831,6,54,Other woven fabrics : -- Unbleached or bleached,,,,,,2026-10-22
-54083110,8,54,Unbleached,Free,,,,,2026-10-22
-54083120,8,54,Bleached,Free,,,,,2026-10-22
-540832,6,54,Other woven fabrics : -- Dyed,,,,,,2026-10-22
-54083211,8,54,Fabrics of rayon: ---- Rayon brocades,Free,,,,,2026-10-22
-54083212,8,54,Fabrics of rayon: ---- Rayon georgette,Free,,,,,2026-10-22
-54083213,8,54,Fabrics of rayon: ---- Rayon tafetta,Free,,,,,2026-10-22
-54083214,8,54,Fabrics of rayon: ---- Rayon suitings,Free,,,,,2026-10-22
-54083215,8,54,Fabrics of rayon: ---- Rayon shirtings,Free,,,,,2026-10-22
-54083219,8,54,Fabrics of rayon: ---- Other,Free,,,,,2026-10-22
-54083290,8,54,Other,Free,,,,,2026-10-22
-54083300,8,54,Other woven fabrics : -- Of yarns of different colours,Free,,,,,2026-10-22
-540834,6,54,Other woven fabrics : -- Printed,,,,,,2026-10-22
-54083411,8,54,Fabrics of rayon: ---- Rayon crepe fabrics,Free,,,,,2026-10-22
-54083412,8,54,Fabrics of rayon: ---- Rayon jacquards,Free,,,,,2026-10-22
-54083413,8,54,Fabrics of rayon: ---- Rayon brocades,Free,,,,,2026-10-22
-54083414,8,54,Fabrics of rayon: ---- Rayon georgette,Free,,,,,2026-10-22
-54083415,8,54,Fabrics of rayon: ---- Rayon tafetta,Free,,,,,2026-10-22
-54083416,8,54,Fabrics of rayon: ---- Rayon suitings,Free,,,,,2026-10-22
-54083417,8,54,Fabrics of rayon: ---- Rayon shirtings,Free,,,,,2026-10-22
-54083418,8,54,Fabrics of rayon: ---- Rayon sarees,Free,,,,,2026-10-22
-54083419,8,54,Fabrics of rayon: ---- Other,Free,,,,,2026-10-22
-54083420,8,54,"Fabrics of continuous filament, other than rayon",Free,,,,,2026-10-22
-54083490,8,54,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+5401,,,4,54,"Sewing thread of man-made filaments, whether or not put up for retail sale.",,,,,,2026-10-22
+54011000,540110,"Sewing thread; of synthetic filaments, whether or not put up for retail sale",8,54,of synthetic filaments,Free,,,,,2026-10-22
+54012000,540120,"Sewing thread; of artificial filaments, whether or not put up for retail sale",8,54,of Artificial filaments,Free,,,,,2026-10-22
+5402,,,4,54,"Synthetic filament yarn (other than sewing thread), not put up for retail sale, including synthetic monofilament of less than 67 decitex.",,,,,,2026-10-22
+54021100,540211,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity yarn of nylon or other polyamides, textured or not; of aramids, not for retail sale, not sewing thread",8,54,"High tenacity yarn of nylon or other polyamides, whether or not textured: -- Of aramids",Free,.,,08/2023,2023-05-29,2026-10-22
+540219,540219,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity nylon or other polyamides, textured or not; other than aramids, not for retail sale, not sewing thread",6,54,"High tenacity yarn of nylon or Other polyamides, whether or not textured : -- Other",,,,,,2026-10-22
+54021910,540219,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity nylon or other polyamides, textured or not; other than aramids, not for retail sale, not sewing thread",8,54,Nylon tyre yarn,Free,,,,,2026-10-22
+54021920,540219,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity nylon or other polyamides, textured or not; other than aramids, not for retail sale, not sewing thread",8,54,Nylon 66 filament yarn confirming to IS 13464,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+54021990,540219,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity nylon or other polyamides, textured or not; other than aramids, not for retail sale, not sewing thread",8,54,Other,Free,,,,,2026-10-22
+540220,540220,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity yarn of polyesters, whether or not textured, not for retail sale, not sewing thread",6,54,"High tenacity yarn of polyesters, whether or not textured",,,,,,2026-10-22
+54022010,540220,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity yarn of polyesters, whether or not textured, not for retail sale, not sewing thread",8,54,Of terylene dacron,Free,,,,,2026-10-22
+54022090,540220,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of high tenacity yarn of polyesters, whether or not textured, not for retail sale, not sewing thread",8,54,Other,Free,,,,,2026-10-22
+54023100,540231,"Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, of nylon or other polyamides, measuring per single yarn not more than 50 decitex, not for retail sale, not sewing thread",8,54,"Textured yarn : -- of nylon or other polyamides, Measuring per single yarn not more than 50 tex",Free,,,,,2026-10-22
+54023200,540232,"Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, of nylon or other polyamides, measuring per single yarn more than 50 decitex, not for retail sale, not sewing thread",8,54,"Textured yarn : -- of nylon or other polyamides, Measuring per single yarn more than 50 tex",Free,,,,,2026-10-22
+54023300,540233,"Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, of polyesters, not for retail sale, not sewing thread",8,54,Textured yarn : -- Of polyesters,Free,,,,,2026-10-22
+54023400,540234,"Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, of polypropylene, not for retail sale, not sewing thread",8,54,Textured yarn : -- Of polypropylene,Free,,,,,2026-10-22
+540239,540239,"Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, other than of nylon or other polymides, polyesters, or polypropylene, not for retail sale, not sewing thread",6,54,Textured yarn : -- Other,,,,,,2026-10-22
+54023910,540239,"Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, other than of nylon or other polymides, polyesters, or polypropylene, not for retail sale, not sewing thread",8,54,Polypropylene filament yarn,Free,,,,,2026-10-22
+54023920,540239,"Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, other than of nylon or other polymides, polyesters, or polypropylene, not for retail sale, not sewing thread",8,54,Acrylic filament yarn,Free,,,,,2026-10-22
+54023990,540239,"Yarn, synthetic; filament, monofilament (less than 67 decitex), textured, other than of nylon or other polymides, polyesters, or polypropylene, not for retail sale, not sewing thread",8,54,Other,Free,,,,,2026-10-22
+54024400,540244,"Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, elastomeric, single, untwisted or twisted 50 turns or less per metre, not for retail sale, not sewing thread",8,54,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Elastomeric",Free,,,,,2026-10-22
+54024500,540245,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of nylon or other polymides (not high tenacity or textured), single, untwisted or twisted 50 turns or less per metre, not for retail sale, not sewing thread",8,54,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other, of nylon or other polyamides",Free,,,,,2026-10-22
+54024600,540246,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of polyesters (not high tenacity or textured), partially oriented, single, untwisted or twisted 50 turns or less per metre, not for retail sale, not sewing thread",8,54,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other, of polyesters, partially oriented",Free,,,,,2026-10-22
+54024700,540247,"Yarn, synthetic; filament, monofilament (less than 67 decitex), polyesters (not high tenacity or textured), not partially oriented, single, untwisted or twisted 50 turns or less per metre, not for retail sale, not sewing thread",8,54,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other, of polyesters",Free,,,,,2026-10-22
+54024800,540248,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of polypropylene (not high tenacity or textured), single, untwisted or twisted 50 turns or less per metre, not for retail sale, not sewing thread",8,54,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other, of polypropylene",Free,,,,,2026-10-22
+54024900,540249,"Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, single, untwisted or twisted 50 turns or less per metre, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",8,54,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre : -- Other",Free,,,,,2026-10-22
+54025100,540251,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of nylon or other polymides (not high tenacity or textured), single, twisted more than 50 turns per metre, not for retail sale, not sewing thread",8,54,"Other yarn, single, with a twist exceeding 50 turns per metre : -- Of nylon or other polyamides",Free,,,,,2026-10-22
+540252,540252,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of polyesters (not high tenacity or textured), single, twisted more than 50 turns per metre, not for retail sale, not sewing thread",6,54,Of polyesters,,,,,,2026-10-22
+54025210,540252,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of polyesters (not high tenacity or textured), single, twisted more than 50 turns per metre, not for retail sale, not sewing thread",8,54,Polyester yarn-Anti Static Filament,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+54025290,540252,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of polyesters (not high tenacity or textured), single, twisted more than 50 turns per metre, not for retail sale, not sewing thread",8,54,Other,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+54025300,540253,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of polypropylene (not high tenacity or textured), single, twisted more than 50 turns per metre, not for retail sale, not sewing thread",8,54,"Other yarn, single, with a twist exceeding 50 turns per metre : -- Of polypropylene",Free,,,,,2026-10-22
+540259,540259,"Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, single, twisted more than 50 turns per metre, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",6,54,"Other yarn, single, with a twist exceeding 50 turns per metre : -- Other",,,,,,2026-10-22
+54025900,540259,"Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, single, twisted more than 50 turns per metre, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",8,54,"Other yarn, single, with a twist exceeding 50 turns per metre: -- Other",Free,.,,08/2023,2023-05-29,2026-10-22
+54026100,540261,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of nylon or other polymides (not high tenacity or textured), multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Other yarn, multiple (folded) or cabled : -- Of nylon or other polyamides",Free,,,,,2026-10-22
+54026200,540262,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of polyesters (not high tenacity or textured), multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Other yarn, multiple (folded) or cabled : -- Of polyesters",Free,,,,,2026-10-22
+54026300,540263,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of polypropylene, other than high tenacity or textured yarn, multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Other yarn, multiple (folded) or cabled : -- Of polypropylene",Free,,,,,2026-10-22
+540269,540269,"Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",6,54,"Other yarn, multiple (folded) or cabled : -- Other",,,,,,2026-10-22
+54026910,540269,"Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",8,54,Polyvinyl acetate filament yarn,Free,,,,,2026-10-22
+54026920,540269,"Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",8,54,Polyvinyl chloride filament yarn,Free,,,,,2026-10-22
+54026930,540269,"Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",8,54,Polypropylene filament yarn,Free,,,,,2026-10-22
+54026940,540269,"Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",8,54,Acrylic filament yarn,Free,,,,,2026-10-22
+54026950,540269,"Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",8,54,Polytetrafluoroethylene yarn,Free,,,,,2026-10-22
+54026960,540269,"Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",8,54,Ultra high molecular weight poly ethylene filament yarn conforming to ASTM F2848,Free,-,,20/2015-2020,2022-07-07,2026-10-22
+54026990,540269,"Yarn, synthetic; filament, monofilament (less than 67 decitex), other than high tenacity or textured yarn, multiple (folded) or cabled, n.e.c. in heading no. 5402, not for retail sale, not sewing thread",8,54,Other,Free,,,,,2026-10-22
+5403,,,4,54,"Artificial filament yarn (other than sewing thread), not put up for retail sale, including artificial monofilament of less than 67 decitex.",,,,,,2026-10-22
+540310,540310,"Yarn, artificial; filament, monofilament (less than 67 decitex), of high tenacity viscose rayon, not for retail sale, not sewing thread",6,54,High tenacity yarn of viscose rayon,,,,,,2026-10-22
+54031010,540310,"Yarn, artificial; filament, monofilament (less than 67 decitex), of high tenacity viscose rayon, not for retail sale, not sewing thread",8,54,"Viscose rayon tyre yarn - 1,233 decitex",Free,,,,,2026-10-22
+54031020,540310,"Yarn, artificial; filament, monofilament (less than 67 decitex), of high tenacity viscose rayon, not for retail sale, not sewing thread",8,54,"Viscose rayon tyre yarn - 1,833 decitex",Free,,,,,2026-10-22
+54031090,540310,"Yarn, artificial; filament, monofilament (less than 67 decitex), of high tenacity viscose rayon, not for retail sale, not sewing thread",8,54,Other,Free,,,,,2026-10-22
+54033100,540331,"Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), single, untwisted or twisted 120 turns per metre or less, not for retail sale, not sewing thread",8,54,"Other yarn, single : -- Of viscose rayon, untwisted or with a twist not exceeding 120",Free,,,,,2026-10-22
+54033200,540332,"Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), single, twisted more than 120 turns per metre, not for retail sale, not sewing thread",8,54,"Other yarn, single : -- Of viscose rayon, with a twist exceeding 120 turns per metre",Free,,,,,2026-10-22
+54033300,540333,"Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, single, not for retail sale, not sewing thread",8,54,"Other yarn, single : -- Of cellulose acetate",Free,,,,,2026-10-22
+540339,540339,"Yarn, artificial; filament, monofilament (less than 67 decitex), single, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",6,54,Other,,,,,,2026-10-22
+54033910,540339,"Yarn, artificial; filament, monofilament (less than 67 decitex), single, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",8,54,Cuprammonium rayon,Free,,,,,2026-10-22
+54033990,540339,"Yarn, artificial; filament, monofilament (less than 67 decitex), single, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",8,54,Other,Free,,,,,2026-10-22
+540341,540341,"Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",6,54,"Other yarn, multiple (folded) or cabled : -- Of viscose rayon",,,,,,2026-10-22
+54034110,540341,"Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,Upto 67 decitex,Free,,,,,2026-10-22
+54034120,540341,"Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,Of 83 decitex,Free,,,,,2026-10-22
+54034130,540341,"Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Of 111 decitex, bright",Free,,,,,2026-10-22
+54034140,540341,"Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Of 111 decitex, dull",Free,,,,,2026-10-22
+54034150,540341,"Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Of 133 decitex, bright",Free,,,,,2026-10-22
+54034160,540341,"Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Of 133 decitex, dull",Free,,,,,2026-10-22
+54034170,540341,"Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Of 167 decitex, bright",Free,,,,,2026-10-22
+54034180,540341,"Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Of 167 decitex, dull",Free,,,,,2026-10-22
+54034190,540341,"Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,Other,Free,,,,,2026-10-22
+540342,540342,"Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",6,54,"Other yarn, multiple (folded) or cabled : -- Of cellulose acetate",,,,,,2026-10-22
+54034210,540342,"Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Acetate rayon filament yarn, 83 decitex",Free,,,,,2026-10-22
+54034220,540342,"Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Acetate rayon filament yarn, 111 decitex",Free,,,,,2026-10-22
+54034230,540342,"Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Acetate rayon filament yarn, 133 decitex",Free,,,,,2026-10-22
+54034240,540342,"Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Acetate rayon filament yarn, 167 decitex",Free,,,,,2026-10-22
+54034250,540342,"Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,"Acetate rayon filament yarn, 333 decitex",Free,,,,,2026-10-22
+54034290,540342,"Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, multiple (folded) or cabled, not for retail sale, not sewing thread",8,54,Other,Free,,,,,2026-10-22
+540349,540349,"Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",6,54,"Other yarn, multiple (folded) or cabled : -- Other",,,,,,2026-10-22
+54034911,540349,"Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",8,54,Cuprammonium filament yarn ---- Of 33 decitex,Free,,,,,2026-10-22
+54034912,540349,"Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",8,54,Cuprammonium filament yarn ---- Of 44 decitex,Free,,,,,2026-10-22
+54034913,540349,"Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",8,54,Cuprammonium filament yarn ---- Of 67 decitex,Free,,,,,2026-10-22
+54034914,540349,"Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",8,54,Cuprammonium filament yarn ---- Of 83 decitex,Free,,,,,2026-10-22
+54034915,540349,"Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",8,54,Cuprammonium filament yarn ---- Of 89 decitex,Free,,,,,2026-10-22
+54034919,540349,"Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",8,54,Cuprammonium filament yarn ---- Other,Free,,,,,2026-10-22
+54034990,540349,"Yarn, artificial; filament, monofilament (less than 67 decitex), multiple (folded) or cabled, n.e.c. in heading no. 5403, not for retail sale, not sewing thread",8,54,Cuprammonium filament yarn ---- Other,Free,,,,,2026-10-22
+5404,,,4,54,"Synthetic monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of synthetic textile materials of an apparent width not exceeding 5 mm.",,,,,,2026-10-22
+54041100,540411,Elastomeric monofilament; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm,8,54,Monofilament : -- Elastomeric,Free,,,,,2026-10-22
+54041200,540412,Monofilament of polypropylene; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm,8,54,"Monofilament : -- Other, of polypropylene",Free,,,,,2026-10-22
+540419,540419,Monofilament n.e.c. in heading no 5404; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm,6,54,Monofilament : -- Other,,,,,,2026-10-22
+54041910,540419,Monofilament n.e.c. in heading no 5404; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm,8,54,"Catgut imitation of synthetic yarn, non-sterile",Free,,,,,2026-10-22
+54041920,540419,Monofilament n.e.c. in heading no 5404; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm,8,54,Strip and the like of synthetic fibre material,Free,,,,,2026-10-22
+54041990,540419,Monofilament n.e.c. in heading no 5404; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm,8,54,Other,Free,,,,,2026-10-22
+540490,540490,"Filament, synthetic; strip and the like (e.g.. artificial straw), of synthetic textile materials of an apparent width not exceeding 5mm",6,54,Other,,,,,,2026-10-22
+54049010,540490,"Filament, synthetic; strip and the like (e.g.. artificial straw), of synthetic textile materials of an apparent width not exceeding 5mm",8,54,"Catgut imitation of synthetic yarn, non-sterile",Free,,,,,2026-10-22
+54049020,540490,"Filament, synthetic; strip and the like (e.g.. artificial straw), of synthetic textile materials of an apparent width not exceeding 5mm",8,54,Strip and the like of synthetic fibre materials,Free,,,,,2026-10-22
+54049090,540490,"Filament, synthetic; strip and the like (e.g.. artificial straw), of synthetic textile materials of an apparent width not exceeding 5mm",8,54,Other,Free,,,,,2026-10-22
+54050000,540500,"Monofilament, synthetic; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm, strip and the like (e.g. artificial straw), of synthetic textile materials with width not over 5mm",8,54,"Artificial monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of artificial textile materials of an apparent width not exceeding 5 mm.",Free,,,,,2026-10-22
+540600,540600,"Man-made filament yarn (other than sewing thread), put up for retail sale",6,54,"MAN-MADE FILAMENT YARN (OTHER THAN SEWING THREAD), PUT UP FOR RETAIL SALE",,,,,,2026-10-22
+54060010,540600,"Man-made filament yarn (other than sewing thread), put up for retail sale",8,54,Synthetic filament yarn,Free,,,,,2026-10-22
+54060020,540600,"Man-made filament yarn (other than sewing thread), put up for retail sale",8,54,Artificial filament yarn,Free,,,,,2026-10-22
+5407,,,4,54,"Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials of heading 54.04.",,,,,,2026-10-22
+540710,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",6,54,Woven fabrics obtained from high tenacity yarn of nylon or other polyamides or of polyesters,,,,,,2026-10-22
+54071011,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Unbleached: ----Parachute fabric,Free,,,,,2026-10-22
+54071012,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Unbleached: ----Tent fabrics,Free,,,,,2026-10-22
+54071013,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Unbleached: ----Nylon furnishing fabrics,Free,,,,,2026-10-22
+54071014,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Unbleached: ----Umbrella cloth panel fabrics,Free,,,,,2026-10-22
+54071015,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Unbleached: ----Other nylon and polyamide fabrics (filament),Free,,,,,2026-10-22
+54071016,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Unbleached: ----Polyester suitings,Free,,,,,2026-10-22
+54071019,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Unbleached: ----Other polyester fabrics,Free,,,,,2026-10-22
+54071021,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Bleached: ---- Parachute fabrics,Free,,,,,2026-10-22
+54071022,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Bleached: ---- Tent fabrics,Free,,,,,2026-10-22
+54071023,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Bleached: ---- Nylon furnishing fabrics,Free,,,,,2026-10-22
+54071024,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Bleached: ---- Umbrella cloth panel fabrics,Free,,,,,2026-10-22
+54071025,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Bleached: ---- Other nylon and polyamide fabrics of filament yarn,Free,,,,,2026-10-22
+54071026,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Bleached: ---- Polyester suitings,Free,,,,,2026-10-22
+54071029,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Other,Free,,,,,2026-10-22
+54071031,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Dyed: ---- Parachute Fabrics,Free,,,,,2026-10-22
+54071032,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Dyed: ---- Tent fabrics,Free,,,,,2026-10-22
+54071033,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Dyed: ---- Nylon furnishing fabrics,Free,,,,,2026-10-22
+54071034,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Dyed: ---- Umbrella cloth panel fabrics,Free,,,,,2026-10-22
+54071035,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Dyed: ---- Other nylon and polyamide fabrics (filament),Free,,,,,2026-10-22
+54071036,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Dyed: ---- Polyester suitings,Free,,,,,2026-10-22
+54071039,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Dyed: ---- Other,Free,,,,,2026-10-22
+54071041,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Printed: ---- Parachute fabrics,Free,,,,,2026-10-22
+54071042,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Printed: ---- Tent fabrics,Free,,,,,2026-10-22
+54071043,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Printed: ---- Nylon furnishing fabrics,Free,,,,,2026-10-22
+54071044,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Printed: ---- Umbrella cloth panel fabrics,Free,,,,,2026-10-22
+54071045,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Printed: ---- Other nylon and polyamide fabrics (filament),Free,,,,,2026-10-22
+54071046,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Printed: ---- Polyester suitings,Free,,,,,2026-10-22
+54071049,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Printed: ---- Other,Free,,,,,2026-10-22
+54071091,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Other: ---- Parachute fabrics,Free,,,,,2026-10-22
+54071092,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Other: ---- Tent fabrics,Free,,,,,2026-10-22
+54071093,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Other: ---- Nylon furnishing fabrics,Free,,,,,2026-10-22
+54071094,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Other: ---- Umbrella cloth panel fabrics,Free,,,,,2026-10-22
+54071095,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Other: ---- Other nylon and polyamide fabrics of filament yarn,Free,,,,,2026-10-22
+54071096,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Other: ---- Polyester suitings,Free,,,,,2026-10-22
+54071099,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",8,54,Other: ---- Other,Free,,,,,2026-10-22
+540720,540720,"Fabrics, woven; from strip or the like, of synthetic textile materials",6,54,Woven fabrics obtained from strip or the like,,,,,,2026-10-22
+54072010,540720,"Fabrics, woven; from strip or the like, of synthetic textile materials",8,54,Unbleached,Free,,,,,2026-10-22
+54072020,540720,"Fabrics, woven; from strip or the like, of synthetic textile materials",8,54,Bleached,Free,,,,,2026-10-22
+54072030,540720,"Fabrics, woven; from strip or the like, of synthetic textile materials",8,54,Dyed,Free,,,,,2026-10-22
+54072040,540720,"Fabrics, woven; from strip or the like, of synthetic textile materials",8,54,Printed,Free,,,,,2026-10-22
+54072090,540720,"Fabrics, woven; from strip or the like, of synthetic textile materials",8,54,Other,Free,,,,,2026-10-22
+540730,540730,"Fabrics, woven; from synthetic filament yarn, adhesive or thermal bonded",6,54,Fabrics specified in Note 9 to Section XI,,,,,,2026-10-22
+54073010,540730,"Fabrics, woven; from synthetic filament yarn, adhesive or thermal bonded",8,54,Unbleached,Free,,,,,2026-10-22
+54073020,540730,"Fabrics, woven; from synthetic filament yarn, adhesive or thermal bonded",8,54,Bleached,Free,,,,,2026-10-22
+54073030,540730,"Fabrics, woven; from synthetic filament yarn, adhesive or thermal bonded",8,54,Dyed,Free,,,,,2026-10-22
+54073040,540730,"Fabrics, woven; from synthetic filament yarn, adhesive or thermal bonded",8,54,Printed,Free,,,,,2026-10-22
+54073090,540730,"Fabrics, woven; from synthetic filament yarn, adhesive or thermal bonded",8,54,Other,Free,,,,,2026-10-22
+540741,540741,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",6,54,"Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides : -- Unbleached or bleached",,,,,,2026-10-22
+54074111,540741,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",8,54,Nylon brasso,Free,,,,,2026-10-22
+54074112,540741,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",8,54,Nylon georgette,Free,,,,,2026-10-22
+54074113,540741,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",8,54,Nylon tafetta,Free,,,,,2026-10-22
+54074114,540741,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",8,54,Nylon sarees,Free,,,,,2026-10-22
+54074119,540741,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",8,54,Other,Free,,,,,2026-10-22
+54074121,540741,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",8,54,Bleached: ---- Nylon brasso,Free,,,,,2026-10-22
+54074122,540741,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",8,54,Bleached: ---- Nylon georgette,Free,,,,,2026-10-22
+54074123,540741,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",8,54,Bleached: ---- Nylon tafetta,Free,,,,,2026-10-22
+54074124,540741,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",8,54,Bleached: ---- Nylon sarees,Free,,,,,2026-10-22
+54074129,540741,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, unbleached or bleached",8,54,Bleached: ---- Other,Free,,,,,2026-10-22
+540742,540742,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, dyed",6,54,"Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides : -- Dyed",,,,,,2026-10-22
+54074210,540742,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, dyed",8,54,Nylon brasso,Free,,,,,2026-10-22
+54074220,540742,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, dyed",8,54,Nylon georgette,Free,,,,,2026-10-22
+54074230,540742,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, dyed",8,54,Nylon tafetta,Free,,,,,2026-10-22
+54074240,540742,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, dyed",8,54,Nylon sarees,Free,,,,,2026-10-22
+54074290,540742,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, dyed",8,54,Other,Free,,,,,2026-10-22
+54074300,540743,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, of yarns of different colours",8,54,"Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides : -- Of yarns of different colours",Free,,,,,2026-10-22
+540744,540744,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, printed",6,54,"Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides : -- Printed",,,,,,2026-10-22
+54074410,540744,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, printed",8,54,Nylon brasso,Free,,,,,2026-10-22
+54074420,540744,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, printed",8,54,Nylon georgette,Free,,,,,2026-10-22
+54074430,540744,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, printed",8,54,Nylon tafetta,Free,,,,,2026-10-22
+54074440,540744,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, printed",8,54,"Nylon sarees,",Free,,,,,2026-10-22
+54074490,540744,"Fabrics, woven; containing 85% or more by weight of filaments of nylon or other polyamides, printed",8,54,Other,Free,,,,,2026-10-22
+540751,540751,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, unbleached or bleached",6,54,"Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments : -- Unbleached or bleached",,,,,,2026-10-22
+54075111,540751,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, unbleached or bleached",8,54,Polyester shirtings,Free,,,,,2026-10-22
+54075119,540751,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, unbleached or bleached",8,54,Other,Free,,,,,2026-10-22
+54075121,540751,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, unbleached or bleached",8,54,Bleached: ---- Polyester shirtings,Free,,,,,2026-10-22
+54075129,540751,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, unbleached or bleached",8,54,Bleached: ---- Other,Free,,,,,2026-10-22
+540752,540752,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, dyed",6,54,"Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments : -- Dyed",,,,,,2026-10-22
+54075210,540752,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, dyed",8,54,Polyester shirtings,Free,,,,,2026-10-22
+54075220,540752,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, dyed",8,54,Polyester suitings,Free,,,,,2026-10-22
+54075230,540752,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, dyed",8,54,Terylene and dacron sarees,Free,,,,,2026-10-22
+54075240,540752,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, dyed",8,54,Polyester sarees,Free,,,,,2026-10-22
+54075290,540752,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, dyed",8,54,Other,Free,,,,,2026-10-22
+54075300,540753,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, of yarns of different colours",8,54,"Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments : -- Of yarns of different colours",Free,,,,,2026-10-22
+540754,540754,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, printed",6,54,"Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments : -- Printed",,,,,,2026-10-22
+54075410,540754,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, printed",8,54,Terylene and dacron sarees,Free,,,,,2026-10-22
+54075420,540754,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, printed",8,54,Polyester shirtings,Free,,,,,2026-10-22
+54075430,540754,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, printed",8,54,Polyester sarees,Free,,,,,2026-10-22
+54075490,540754,"Fabrics, woven; containing 85% or more by weight of textured polyester filaments, printed",8,54,Other,Free,,,,,2026-10-22
+540761,540761,"Fabrics, woven; containing 85% or more by weight of non-textured polyester filaments",6,54,"Other woven fabrics, containing 85 percent or more by weight of polyester filaments : -- Containing 85 percent or more by weight of non-textured polyester filaments",,,,,,2026-10-22
+54076110,540761,"Fabrics, woven; containing 85% or more by weight of non-textured polyester filaments",8,54,Polyester shirtings,Free,,,,,2026-10-22
+54076120,540761,"Fabrics, woven; containing 85% or more by weight of non-textured polyester filaments",8,54,Polyester suitings,Free,,,,,2026-10-22
+54076190,540761,"Fabrics, woven; containing 85% or more by weight of non-textured polyester filaments",8,54,Other,Free,,,,,2026-10-22
+54076900,540769,"Fabrics, woven; containing less than 85% by weight of non-textured polyester filaments",8,54,"Other woven fabrics, containing 85 percent or more by weight of polyester filaments : -- Other",Free,,,,,2026-10-22
+540771,540771,"Fabrics, woven; containing 85% or more by weight of synthetic filaments (excluding nylon or other polyamides and polyesters), unbleached or bleached",6,54,"Other woven fabrics, containing 85 percent or more by weight of synthetic filaments : -- Unbleached or bleached",,,,,,2026-10-22
+54077110,540771,"Fabrics, woven; containing 85% or more by weight of synthetic filaments (excluding nylon or other polyamides and polyesters), unbleached or bleached",8,54,Unbleached,Free,,,,,2026-10-22
+54077120,540771,"Fabrics, woven; containing 85% or more by weight of synthetic filaments (excluding nylon or other polyamides and polyesters), unbleached or bleached",8,54,Bleached,Free,,,,,2026-10-22
+54077200,540772,"Fabrics, woven; containing 85% or more by weight of synthetic filaments (excluding nylon or other polyamides and polyesters), dyed",8,54,"Other woven fabrics, containing 85 percent or more by weight of synthetic filaments : -- Dyed",Free,,,,,2026-10-22
+54077300,540773,"Fabrics, woven; containing 85% or more by weight of synthetic filaments (excluding nylon or other polyamides and polyesters), of yarns of different colours",8,54,"Other woven fabrics, containing 85 percent or more by weight of synthetic filaments : -- Of yarns of different colours",Free,,,,,2026-10-22
+54077400,540774,"Fabrics, woven; containing 85% or more by weight of synthetic filaments (excluding nylon or other polyamides and polyesters), printed",8,54,"Other woven fabrics, containing 85 percent or more by weight of synthetic filaments : --Printed",Free,,,,,2026-10-22
+540781,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",6,54,"Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton : -- Unbleached or bleached",,,,,,2026-10-22
+54078111,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Nylon georgette,Free,,,,,2026-10-22
+54078112,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Nylon sarees,Free,,,,,2026-10-22
+54078113,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Polyester shirtings,Free,,,,,2026-10-22
+54078114,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Polyester suitings,Free,,,,,2026-10-22
+54078115,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Terylene and dacron sarees,Free,,,,,2026-10-22
+54078116,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Polyester dhoti,Free,,,,,2026-10-22
+54078119,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Other,Free,,,,,2026-10-22
+54078121,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Bleached: ---- Nylon georgette,Free,,,,,2026-10-22
+54078122,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Bleached: ---- Nylon sarees,Free,,,,,2026-10-22
+54078123,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Bleached: ---- Polyester shirtings,Free,,,,,2026-10-22
+54078124,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Bleached: ---- Polyester suitings,Free,,,,,2026-10-22
+54078125,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Bleached: ---- Terylene and dacron sarees,Free,,,,,2026-10-22
+54078126,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Bleached: ---- Polyester dhoti,Free,,,,,2026-10-22
+54078129,540781,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, bleached or unbleached",8,54,Bleached: ---- Other,Free,,,,,2026-10-22
+540782,540782,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",6,54,"Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton : -- Dyed",,,,,,2026-10-22
+54078210,540782,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",8,54,Nylon georgette,Free,,,,,2026-10-22
+54078220,540782,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",8,54,Nylon sarees,Free,,,,,2026-10-22
+54078230,540782,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",8,54,Polyester shirtings,Free,,,,,2026-10-22
+54078240,540782,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",8,54,Polyester suitings,Free,,,,,2026-10-22
+54078250,540782,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",8,54,Terylene and dacron sarees,Free,,,,,2026-10-22
+54078260,540782,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",8,54,Lungies,Free,,,,,2026-10-22
+54078290,540782,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, dyed",8,54,Other,Free,,,,,2026-10-22
+54078300,540783,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton, of yarns of different colours",8,54,"Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton : -- Of yarns of different colours",Free,,,,,2026-10-22
+540784,540784,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",6,54,"Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton : -- Printed",,,,,,2026-10-22
+54078410,540784,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",8,54,Nylon georgette,Free,,,,,2026-10-22
+54078420,540784,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",8,54,Nylon sarees,Free,,,,,2026-10-22
+54078430,540784,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",8,54,Polyester shirtings,Free,,,,,2026-10-22
+54078440,540784,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",8,54,Polyester suitings,Free,,,,,2026-10-22
+54078450,540784,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",8,54,Terylene and dacron sarees,Free,,,,,2026-10-22
+54078460,540784,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",8,54,Lungies,Free,,,,,2026-10-22
+54078470,540784,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",8,54,Polyester sarees,Free,,,,,2026-10-22
+54078490,540784,"Fabrics, woven; of synthetic filament yarn, containing less than 85% by weight of synthetic filaments, printed",8,54,Other,Free,,,,,2026-10-22
+540791,540791,"Fabrics, woven; of synthetic filament yarn, bleached or unbleached, n.e.c. in heading no. 5407",6,54,Other woven fabrics : -- Unbleached or bleached x,,,,,,2026-10-22
+54079110,540791,"Fabrics, woven; of synthetic filament yarn, bleached or unbleached, n.e.c. in heading no. 5407",8,54,Other woven fabrics: ---- Unbleached,Free,,,,,2026-10-22
+54079120,540791,"Fabrics, woven; of synthetic filament yarn, bleached or unbleached, n.e.c. in heading no. 5407",8,54,Other woven fabrics: ---- Bleached,Free,,,,,2026-10-22
+54079200,540792,"Fabrics, woven; of synthetic filament yarn, dyed, n.e.c. in heading 5407",8,54,Other woven fabrics : -- Dyed,Free,,,,,2026-10-22
+54079300,540793,"Fabrics, woven; of synthetic filament yarn, of yarns of different colours, n.e.c. in heading no. 5407",8,54,Other woven fabrics : -- Of yarns of different colours,Free,,,,,2026-10-22
+54079400,540794,"Fabrics, woven; of synthetic filament yarn, printed, n.e.c. in heading no. 5407",8,54,Other woven fabrics : -- Printed,Free,,,,,2026-10-22
+5408,,,4,54,"Woven fabrics of artificial filament yarn, including woven fabrics obtained from materials of heading 54.05.",,,,,,2026-10-22
+54081000,540810,"Fabrics, woven; of viscose rayon, high tenacity, artificial filament yarn",8,54,Woven fabrics obtained from high tenacity yarn of viscose rayon,Free,,,,,2026-10-22
+540821,540821,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, bleached or unbleached",6,54,"Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like : -- Unbleached or bleached",,,,,,2026-10-22
+54082110,540821,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, bleached or unbleached",8,54,Unbleached,Free,,,,,2026-10-22
+54082120,540821,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, bleached or unbleached",8,54,Bleached,Free,,,,,2026-10-22
+540822,540822,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",6,54,"Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like : -- Dyed",,,,,,2026-10-22
+54082211,540822,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",8,54,Fabrics of rayon: ---- Rayon crepe fabrics,Free,,,,,2026-10-22
+54082212,540822,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",8,54,Fabrics of rayon: ---- Rayon jacquards,Free,,,,,2026-10-22
+54082213,540822,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",8,54,Fabrics of rayon: ---- Rayon brocades,Free,,,,,2026-10-22
+54082214,540822,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",8,54,Fabrics of rayon: ---- Rayon georgette,Free,,,,,2026-10-22
+54082215,540822,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",8,54,Fabrics of rayon: ---- Rayon tafetta,Free,,,,,2026-10-22
+54082216,540822,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",8,54,Fabrics of rayon: ---- Rayon suitings,Free,,,,,2026-10-22
+54082217,540822,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",8,54,Fabrics of rayon: ---- Rayon shirtings,Free,,,,,2026-10-22
+54082218,540822,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",8,54,Fabrics of rayon: ---- Rayon sarees,Free,,,,,2026-10-22
+54082219,540822,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",8,54,Fabrics of rayon: ---- Other,Free,,,,,2026-10-22
+54082220,540822,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",8,54,"Fabrics of continuous filament, other than rayon",Free,,,,,2026-10-22
+54082290,540822,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, dyed",8,54,Other than rayon,Free,,,,,2026-10-22
+54082300,540823,"Fabrics, woven; containing 85% or more by weight of artificial filament, strip or the like, of yarns of different colours",8,54,"Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like : -- Of yarns of different colours",Free,,,,,2026-10-22
+540824,540824,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",6,54,"Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like : --Printed",,,,,,2026-10-22
+54082411,540824,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",8,54,Of rayon: ---- Rayon crepe fabrics,Free,,,,,2026-10-22
+54082412,540824,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",8,54,Of rayon: ---- Rayon jacquards,Free,,,,,2026-10-22
+54082413,540824,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",8,54,Of rayon: ---- Rayon brocades,Free,,,,,2026-10-22
+54082414,540824,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",8,54,Of rayon: ---- Rayon georgette,Free,,,,,2026-10-22
+54082415,540824,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",8,54,Of rayon: ---- Rayon tafetta,Free,,,,,2026-10-22
+54082416,540824,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",8,54,Of rayon: ---- Rayon suitings,Free,,,,,2026-10-22
+54082417,540824,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",8,54,Of rayon: ---- Rayon shirtings,Free,,,,,2026-10-22
+54082418,540824,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",8,54,Of rayon: ---- Rayon sarees,Free,,,,,2026-10-22
+54082419,540824,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",8,54,Of rayon: ---- Other,Free,,,,,2026-10-22
+54082490,540824,"Fabrics, woven; of artificial filament yarn, containing 85% or more by weight of artificial filament, strip or the like, printed",8,54,Other,Free,,,,,2026-10-22
+540831,540831,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, unbleached or bleached",6,54,Other woven fabrics : -- Unbleached or bleached,,,,,,2026-10-22
+54083110,540831,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, unbleached or bleached",8,54,Unbleached,Free,,,,,2026-10-22
+54083120,540831,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, unbleached or bleached",8,54,Bleached,Free,,,,,2026-10-22
+540832,540832,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",6,54,Other woven fabrics : -- Dyed,,,,,,2026-10-22
+54083211,540832,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",8,54,Fabrics of rayon: ---- Rayon brocades,Free,,,,,2026-10-22
+54083212,540832,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",8,54,Fabrics of rayon: ---- Rayon georgette,Free,,,,,2026-10-22
+54083213,540832,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",8,54,Fabrics of rayon: ---- Rayon tafetta,Free,,,,,2026-10-22
+54083214,540832,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",8,54,Fabrics of rayon: ---- Rayon suitings,Free,,,,,2026-10-22
+54083215,540832,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",8,54,Fabrics of rayon: ---- Rayon shirtings,Free,,,,,2026-10-22
+54083219,540832,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",8,54,Fabrics of rayon: ---- Other,Free,,,,,2026-10-22
+54083290,540832,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, dyed",8,54,Other,Free,,,,,2026-10-22
+54083300,540833,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, of yarns of different colours",8,54,Other woven fabrics : -- Of yarns of different colours,Free,,,,,2026-10-22
+540834,540834,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",6,54,Other woven fabrics : -- Printed,,,,,,2026-10-22
+54083411,540834,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",8,54,Fabrics of rayon: ---- Rayon crepe fabrics,Free,,,,,2026-10-22
+54083412,540834,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",8,54,Fabrics of rayon: ---- Rayon jacquards,Free,,,,,2026-10-22
+54083413,540834,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",8,54,Fabrics of rayon: ---- Rayon brocades,Free,,,,,2026-10-22
+54083414,540834,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",8,54,Fabrics of rayon: ---- Rayon georgette,Free,,,,,2026-10-22
+54083415,540834,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",8,54,Fabrics of rayon: ---- Rayon tafetta,Free,,,,,2026-10-22
+54083416,540834,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",8,54,Fabrics of rayon: ---- Rayon suitings,Free,,,,,2026-10-22
+54083417,540834,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",8,54,Fabrics of rayon: ---- Rayon shirtings,Free,,,,,2026-10-22
+54083418,540834,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",8,54,Fabrics of rayon: ---- Rayon sarees,Free,,,,,2026-10-22
+54083419,540834,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",8,54,Fabrics of rayon: ---- Other,Free,,,,,2026-10-22
+54083420,540834,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",8,54,"Fabrics of continuous filament, other than rayon",Free,,,,,2026-10-22
+54083490,540834,"Fabrics, woven; of artificial filament yarn, of artificial monofilament, strip and the like, n.e.c. in heading no. 5408, printed",8,54,Other,Free,,,,,2026-10-22

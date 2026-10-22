@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "3001",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "30",
    "description": "Glands and other organs for organo-therapeutic uses, dried,whether or not powdered; extracts of glands or other organs or of their secretions for organo-therapeutic uses; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, not elsewhere specified or included.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "300120",
+   "hs6": "300120",
+   "hs6_description": "Glands and other organs; extracts of glands or other organs or of their secretions, for organo-therapeutic uses",
    "level": 6,
    "chapter": "30",
    "description": "Extracts of glands or other organs or of their secretions",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "30012010",
+   "hs6": "300120",
+   "hs6_description": "Glands and other organs; extracts of glands or other organs or of their secretions, for organo-therapeutic uses",
    "level": 8,
    "chapter": "30",
    "description": "Liquid extracts of liver",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "30012020",
+   "hs6": "300120",
+   "hs6_description": "Glands and other organs; extracts of glands or other organs or of their secretions, for organo-therapeutic uses",
    "level": 8,
    "chapter": "30",
    "description": "Liver extracts, dry",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "30012030",
+   "hs6": "300120",
+   "hs6_description": "Glands and other organs; extracts of glands or other organs or of their secretions, for organo-therapeutic uses",
    "level": 8,
    "chapter": "30",
    "description": "Snake Venom",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "30012090",
+   "hs6": "300120",
+   "hs6_description": "Glands and other organs; extracts of glands or other organs or of their secretions, for organo-therapeutic uses",
    "level": 8,
    "chapter": "30",
    "description": "Other",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "300190",
+   "hs6": "300190",
+   "hs6_description": "Glands and other organs; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, n.e.c. in heading 3001",
    "level": 6,
    "chapter": "30",
    "description": "Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "30019010",
+   "hs6": "300190",
+   "hs6_description": "Glands and other organs; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, n.e.c. in heading 3001",
    "level": 8,
    "chapter": "30",
    "description": "Of human origin",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "30019091",
+   "hs6": "300190",
+   "hs6_description": "Glands and other organs; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, n.e.c. in heading 3001",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Heparin and its salts",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "30019099",
+   "hs6": "300190",
+   "hs6_description": "Glands and other organs; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, n.e.c. in heading 3001",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "3002",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "30",
    "description": "HUMAN BLOOD; ANIMAL BLOOD PREPARED FORTHERAPEUTIC, PROPHYLACTIC OR DIAGNOSTIC USES; ANTISERA, OTHER BLOOD FRACTIONS AND IMMUNOLOGICAL PRODUCTS, WHETHER OR NOT MODIFIED OR OBTAINED BY MEANS OF BIOTECHNOLOGICAL PROCESSES; VACCINES,TOXINS, CULTURES OF MICRO-ORGANISMS (EXCLUDING YEASTS) AND ETHER SIMILAR PRODUCTS; CELL CULTURES, WHETHER OR NOT MODIFIED",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "300210",
+   "hs6": "300210",
+   "hs6_description": "",
    "level": 6,
    "chapter": "30",
    "description": "Antisera and other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "30021020",
+   "hs6": "300210",
+   "hs6_description": "",
    "level": 8,
    "chapter": "30",
    "description": "Antisera and other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "30021091",
+   "hs6": "300210",
+   "hs6_description": "",
    "level": 8,
    "chapter": "30",
    "description": "Antisera and other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "300212",
+   "hs6": "300212",
+   "hs6_description": "Blood, human or animal, antisera, other blood fractions and immunological products; antisera and other blood fractions",
    "level": 6,
    "chapter": "30",
    "description": "Antisera, other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes -- Antisera and other blood fractions",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "30021210",
+   "hs6": "300212",
+   "hs6_description": "Blood, human or animal, antisera, other blood fractions and immunological products; antisera and other blood fractions",
    "level": 8,
    "chapter": "30",
    "description": "For diphtheria",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "30021220",
+   "hs6": "300212",
+   "hs6_description": "Blood, human or animal, antisera, other blood fractions and immunological products; antisera and other blood fractions",
    "level": 8,
    "chapter": "30",
    "description": "For tetanus",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "30021230",
+   "hs6": "300212",
+   "hs6_description": "Blood, human or animal, antisera, other blood fractions and immunological products; antisera and other blood fractions",
    "level": 8,
    "chapter": "30",
    "description": "For rabies",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "30021240",
+   "hs6": "300212",
+   "hs6_description": "Blood, human or animal, antisera, other blood fractions and immunological products; antisera and other blood fractions",
    "level": 8,
    "chapter": "30",
    "description": "For snake venom",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "30021290",
+   "hs6": "300212",
+   "hs6_description": "Blood, human or animal, antisera, other blood fractions and immunological products; antisera and other blood fractions",
    "level": 8,
    "chapter": "30",
    "description": "Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "30021300",
+   "hs6": "300213",
+   "hs6_description": "Blood, human or animal, antisera, other blood fractions and immunological products; immunological products, unmixed, not put up in measured doses or in forms or packings for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Immunological products, unmixed, not put up in measured doses or in forms or packings for retail sale",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "30021400",
+   "hs6": "300214",
+   "hs6_description": "Blood, human or animal, antisera, other blood fractions and immunological products; immunological products, mixed, put up in measured doses or in forms or packings for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Immunological products, mixed, not put up in measured doses or in forms or packings for retail sale",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "30021500",
+   "hs6": "300215",
+   "hs6_description": "Blood, human or animal, antisera, other blood fractions and immunological products; immunological products, put up in measured doses or in forms or packings for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antisera, other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes -- Immunological products, put up in measured doses or in forms or packings for retail sale",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "300241",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 6,
    "chapter": "30",
    "description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products: - - Vaccines for human medicine:",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "30024111",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Single vaccines for: - - - - Cholera and typhoid",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "30024112",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Single vaccines for: - - - - Hepatitis",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "30024113",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Single vaccines for: - - - - Tetanus",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "30024114",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Single vaccines for: - - - - Polio",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "30024115",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Single vaccines for: - - - - Tuberculosis",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "30024116",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Single vaccines for: - - - - Rabies",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "30024117",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Single vaccines for: - - - - Japanese encephalitis",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "30024118",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Single vaccines for: - - - - Whopping cough (pertussis)",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "30024119",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Single vaccines for: - - - - Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "30024121",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Diphtheria, pertussis and tetanus (DPT)",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "30024122",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Mixed vaccines for: - - - - Diphtheria and tetanus (DT)",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "30024123",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Mixed vaccines for: - - - - Measles, mumps and rubella (MMR)",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "30024124",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Mixed vaccines for: - - - - Typhoid-paratyphoid (TAB)",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "30024125",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Mixed vaccines for: - - - - Typhoid-paratyphoid-cholera (TABC)",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "30024129",
+   "hs6": "300241",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for human medicine",
    "level": 8,
    "chapter": "30",
    "description": "Mixed vaccines for: - - - - Other",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "30024200",
+   "hs6": "300242",
+   "hs6_description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; for veterinary medicine",
    "level": 8,
    "chapter": "30",
    "description": "Mixed vaccines for: - - Vaccines for veterinary medicine",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "300249",
+   "hs6": "300249",
+   "hs6_description": "Toxins, cultures of micro-organisms (excluding yeasts) and similar products; n.e.c. in item 3002.3",
    "level": 6,
    "chapter": "30",
    "description": "Mixed vaccines for: - - Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "30024910",
+   "hs6": "300249",
+   "hs6_description": "Toxins, cultures of micro-organisms (excluding yeasts) and similar products; n.e.c. in item 3002.3",
    "level": 8,
    "chapter": "30",
    "description": "Mixed vaccines for: - - - Cultures of micro-organisms (excluding yeast)",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "30024920",
+   "hs6": "300249",
+   "hs6_description": "Toxins, cultures of micro-organisms (excluding yeasts) and similar products; n.e.c. in item 3002.3",
    "level": 8,
    "chapter": "30",
    "description": "Mixed vaccines for: - - - Toxins",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "30024990",
+   "hs6": "300249",
+   "hs6_description": "Toxins, cultures of micro-organisms (excluding yeasts) and similar products; n.e.c. in item 3002.3",
    "level": 8,
    "chapter": "30",
    "description": "Mixed vaccines for: - - - Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "30025100",
+   "hs6": "300251",
+   "hs6_description": "Cell cultures, whether or not modified; cell therapy products",
    "level": 8,
    "chapter": "30",
    "description": "Cell cultures, whether or not modified - - Cell therapy products",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "30025900",
+   "hs6": "300259",
+   "hs6_description": "Cell cultures, whether or not modified; other cell cultures not including cell therapy products",
    "level": 8,
    "chapter": "30",
    "description": "Cell cultures, whether or not modified - - Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "300290",
+   "hs6": "300290",
+   "hs6_description": "Toxins, cultures of micro-organisms (excluding yeasts) and similar products",
    "level": 6,
    "chapter": "30",
    "description": "Other",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "30029010",
+   "hs6": "300290",
+   "hs6_description": "Toxins, cultures of micro-organisms (excluding yeasts) and similar products",
    "level": 8,
    "chapter": "30",
    "description": "Human blood",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "30029020",
+   "hs6": "300290",
+   "hs6_description": "Toxins, cultures of micro-organisms (excluding yeasts) and similar products",
    "level": 8,
    "chapter": "30",
    "description": "Animal blood prepared for therapeutic, prophylactic or diagnostic uses",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "30029090",
+   "hs6": "300290",
+   "hs6_description": "Toxins, cultures of micro-organisms (excluding yeasts) and similar products",
    "level": 8,
    "chapter": "30",
    "description": "Other",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "3003",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "30",
    "description": "Medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "30031000",
+   "hs6": "300310",
+   "hs6_description": "Medicaments; containing penicillins, streptomycins or their derivatives, for therapeutic or prophylactic uses, (not in measured doses, not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Containing penicillins or derivatives thereof, with a penicillanic acid structure, or streptomycins or their derivatives",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "30032000",
+   "hs6": "300320",
+   "hs6_description": "Medicaments; containing antibiotics other than penicillins, streptomycins and their derivatives, for therapeutic or prophylactic uses, (not in measured doses, not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing antibiotics",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "30033100",
+   "hs6": "300331",
+   "hs6_description": "Medicaments; containing insulin, for therapeutic or prophylactic uses, not packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing hormones or other products of heading 29.37 : -- Containing insulin",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "30033900",
+   "hs6": "300339",
+   "hs6_description": "Medicaments; containing hormones (excluding insulin), (but not containing antibiotics), for therapeutic or prophylactic uses, not packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing hormones or other products of heading 29.37 : -- Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "30034100",
+   "hs6": "300341",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives, containing ephedrine or its salts, for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing alkaloids or derivatives thereof : -- Containing ephedrine or its salts",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "30034200",
+   "hs6": "300342",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives, containing pseudoephedrine (INN) or its salts, for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing alkaloids or derivatives thereof : -- Containing pseudoephedrine (INN) or its salts",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "30034300",
+   "hs6": "300343",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives, containing norephedrine or its salts, for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing alkaloids or derivatives thereof : -- Containing norephedrine or its salts",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "30034900",
+   "hs6": "300349",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives; other than ephedrine, pseudoephedrine (INN) or norephedrine or their salts; for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing alkaloids or derivatives thereof : -- Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "30036000",
+   "hs6": "300360",
+   "hs6_description": "Medicaments; containing antimalarial active principles described in subheading note 2 to this chapter, for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing antimalarial active principles described in Subheading Note 2 to this Chapter",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "300390",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 6,
    "chapter": "30",
    "description": "Other",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "30039011",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Ayurvedic, Unani, siddha, Homoeopathic or bio-chemic systems medicaments: ---- Of Ayurvedic System",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "30039012",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Ayurvedic, Unani, siddha, Homoeopathic or bio-chemic systems medicaments: ---- Of Unani systems",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "30039013",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Ayurvedic, Unani, siddha, Homoeopathic or bio-chemic systems medicaments: ---- Of Siddha system",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "30039014",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Ayurvedic, Unani, siddha, Homoeopathic or bio-chemic systems medicaments: ---- Of Homoeopathic System",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "30039015",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Ayurvedic, Unani, siddha, Homoeopathic or bio-chemic systems medicaments: ---- Of Bio-chemic system",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "30039021",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Menthol crystals and Milk of Magnesia: ---- Menthol crystals",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "30039022",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Menthol crystals and Milk of Magnesia: ---- Milk of Magnesia",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "30039031",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Bovine Albumin and drugs of animal origin, Merbromine National Formulary XII (Mercurochrome), Calcium Sennoside, Anaesthetic agents used in human or veterinary medicine or surgery, Aluminium hydroxide gel: ---- Bovine Albumin and drugs of animal origin",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "30039032",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Bovine Albumin and drugs of animal origin, Merbromine National Formulary XII (Mercurochrome), Calcium Sennoside, Anaesthetic agents used in human or veterinary medicine or surgery, Aluminium hydroxide gel: ---- Merbromine National Formulary XII (mercurochrome)",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "30039033",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Bovine Albumin and drugs of animal origin, Merbromine National Formulary XII (Mercurochrome), Calcium Sennoside, Anaesthetic agents used in human or veterinary medicine or surgery, Aluminium hydroxide gel: ---- Calcium Sennoside",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "30039034",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Bovine Albumin and drugs of animal origin, Merbromine National Formulary XII (Mercurochrome), Calcium Sennoside, Anaesthetic agents used in human or veterinary medicine or surgery, Aluminium hydroxide gel: ---- Anaesthetic agents used in human or veterinary medicine or surgery",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "30039035",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Bovine Albumin and drugs of animal origin, Merbromine National Formulary XII (Mercurochrome), Calcium Sennoside, Anaesthetic agents used in human or veterinary medicine or surgery, Aluminium hydroxide gel: ---- Aluminium hydroxide gel",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "30039036",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Bovine Albumin and drugs of animal origin, Merbromine National Formulary XII (Mercurochrome), Calcium Sennoside, Anaesthetic agents used in human or veterinary medicine or surgery, Aluminium hydroxide gel: ---- Ketamine",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "30039090",
+   "hs6": "300390",
+   "hs6_description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
    "level": 8,
    "chapter": "30",
    "description": "Bovine Albumin and drugs of animal origin, Merbromine National Formulary XII (Mercurochrome), Calcium Sennoside, Anaesthetic agents used in human or veterinary medicine or surgery, Aluminium hydroxide gel: ---- Other",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "3004",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "30",
    "description": "Medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale.",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "300410",
+   "hs6": "300410",
+   "hs6_description": "Medicaments; containing penicillins, streptomycins or their derivatives, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 6,
    "chapter": "30",
    "description": "containing Penicillins or derivatives thereof, with a penicillanic acid structure, or streptomycins or their derivatives",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "30041010",
+   "hs6": "300410",
+   "hs6_description": "Medicaments; containing penicillins, streptomycins or their derivatives, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Penicillins",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "30041020",
+   "hs6": "300410",
+   "hs6_description": "Medicaments; containing penicillins, streptomycins or their derivatives, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Ampicillin",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "30041030",
+   "hs6": "300410",
+   "hs6_description": "Medicaments; containing penicillins, streptomycins or their derivatives, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Amoxycillin",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "30041040",
+   "hs6": "300410",
+   "hs6_description": "Medicaments; containing penicillins, streptomycins or their derivatives, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Becampicillin",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "30041050",
+   "hs6": "300410",
+   "hs6_description": "Medicaments; containing penicillins, streptomycins or their derivatives, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Cloxacillin",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "30041060",
+   "hs6": "300410",
+   "hs6_description": "Medicaments; containing penicillins, streptomycins or their derivatives, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Ampicillin and Cloxacillin combinations",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "30041070",
+   "hs6": "300410",
+   "hs6_description": "Medicaments; containing penicillins, streptomycins or their derivatives, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Streptomycin",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "30041090",
+   "hs6": "300410",
+   "hs6_description": "Medicaments; containing penicillins, streptomycins or their derivatives, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "300420",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 6,
    "chapter": "30",
    "description": "Other, containing antibiotics",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "30042011",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Cephalosporins and their derivatives: ---- Cefazolin",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "30042012",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Cephalosporins and their derivatives: ---- Cephalexin",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "30042013",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Cephalosporins and their derivatives: ---- Ciprofloxacin",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "30042014",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Cephalosporins and their derivatives: ---- Cefoxitin",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "30042019",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Cephalosporins and their derivatives: ---- Other",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "30042020",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Cephalosporins and their derivatives: ---- Sulfonamides and Cotrimoxazole",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "30042031",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Fluoroquinolones: ---- Norfloxacin",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "30042032",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Fluoroquinolones: ---- Nalidixic acid",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "30042033",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Fluoroquinolones: ---- Ciprofloxacin",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "30042034",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Fluoroquinolones: ---- Ofloxacin",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "30042039",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Fluoroquinolones: ---- Other",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "30042041",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Tetracyclines: ---- Chlortetracycline",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "30042042",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Tetracyclines: ---- Oxytetracycline",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "30042049",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Tetracyclines: ---- Other",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "30042050",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Tetracyclines: ---- Chloramphenicol",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "30042061",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Macrolide: ---- Erythromycin",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "30042062",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Macrolide: ---- Roxithromycin",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "30042063",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Macrolide: ---- Clarithromycin",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "30042064",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Macrolide: ---- Azithromycin",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "30042069",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Macrolide: ---- Other",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "30042070",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Macrolide: ---- Cefadroxil",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "30042091",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Isoniazid",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "30042092",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Rifampicin",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "30042093",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Pyrazinamide",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "30042094",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Ethambutol",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "30042095",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Clindamycin",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "30042096",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Vancomycin",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "30042097",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Polymyxin B and Colistin",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "30042099",
+   "hs6": "300420",
+   "hs6_description": "Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Hormones or other products",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "300431",
+   "hs6": "300431",
+   "hs6_description": "Medicaments; containing insulin, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 6,
    "chapter": "30",
    "description": "Other, containing hormones or other products of heading 29.37 : -- Containing insulin",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "30043110",
+   "hs6": "300431",
+   "hs6_description": "Medicaments; containing insulin, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Insulin injection",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "30043190",
+   "hs6": "300431",
+   "hs6_description": "Medicaments; containing insulin, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "30043200",
+   "hs6": "300432",
+   "hs6_description": "Medicaments; containing corticosteroid hormones, their derivatives or structural analogues (but not containing antibiotics), for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing hormones or other products of heading 29.37 : -- Containing corticosteroid hormones, their derivatives or structural analogues",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "300439",
+   "hs6": "300439",
+   "hs6_description": "Medicaments; containing hormones (but not insulin), adrenal cortex hormones or antibiotics, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 6,
    "chapter": "30",
    "description": "Other, containing hormones or other products of heading 29.37 : -- Other",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "30043911",
+   "hs6": "300439",
+   "hs6_description": "Medicaments; containing hormones (but not insulin), adrenal cortex hormones or antibiotics, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Pituitary hormones; Prednisolone; Dexamethasone; Danazol; Other progestogen and oestogen group hormones: ---- Pituitary hormones",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "30043912",
+   "hs6": "300439",
+   "hs6_description": "Medicaments; containing hormones (but not insulin), adrenal cortex hormones or antibiotics, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Pituitary hormones; Prednisolone; Dexamethasone; Danazol; Other progestogen and oestogen group hormones: ---- Prednisolone",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "30043913",
+   "hs6": "300439",
+   "hs6_description": "Medicaments; containing hormones (but not insulin), adrenal cortex hormones or antibiotics, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Pituitary hormones; Prednisolone; Dexamethasone; Danazol; Other progestogen and oestogen group hormones: ---- Dexamethasone",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "30043914",
+   "hs6": "300439",
+   "hs6_description": "Medicaments; containing hormones (but not insulin), adrenal cortex hormones or antibiotics, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Pituitary hormones; Prednisolone; Dexamethasone; Danazol; Other progestogen and oestogen group hormones: ---- Danazol",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "30043919",
+   "hs6": "300439",
+   "hs6_description": "Medicaments; containing hormones (but not insulin), adrenal cortex hormones or antibiotics, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Pituitary hormones; Prednisolone; Dexamethasone; Danazol; Other progestogen and oestogen group hormones: ---- Other progestogen and oestogen group hormones",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "30043921",
+   "hs6": "300439",
+   "hs6_description": "Medicaments; containing hormones (but not insulin), adrenal cortex hormones or antibiotics, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Gonadotrophins and luteinising hormone: ---- Gonadotrophins",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "30043922",
+   "hs6": "300439",
+   "hs6_description": "Medicaments; containing hormones (but not insulin), adrenal cortex hormones or antibiotics, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Gonadotrophins and luteinising hormone: ---- Luteinising hormone",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "30043990",
+   "hs6": "300439",
+   "hs6_description": "Medicaments; containing hormones (but not insulin), adrenal cortex hormones or antibiotics, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Gonadotrophins and luteinising hormone: ---- Other",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "30044100",
+   "hs6": "300441",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives, containing ephedrine or its salts, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing alkaloids or derivatives thereof : -- Containing ephedrine or its salts",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "30044200",
+   "hs6": "300442",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives, containing pseudoephedrine (INN) or its salts, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing alkaloids or derivatives thereof : -- Containing pseudoephedrine (INN) or its salts",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "30044300",
+   "hs6": "300443",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives, containing norephedrine or its salts, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing alkaloids or derivatives thereof : -- Containing norephedrine or its salts",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "300449",
+   "hs6": "300449",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives; other than ephedrine, pseudoephedrine (INN) or norephedrine or their salts; for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 6,
    "chapter": "30",
    "description": "Other, containing alkaloids or derivatives thereof : -- Other",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "30044910",
+   "hs6": "300449",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives; other than ephedrine, pseudoephedrine (INN) or norephedrine or their salts; for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Atropine and salts thereof",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "30044920",
+   "hs6": "300449",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives; other than ephedrine, pseudoephedrine (INN) or norephedrine or their salts; for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Caffeine and salts thereof",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "30044930",
+   "hs6": "300449",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives; other than ephedrine, pseudoephedrine (INN) or norephedrine or their salts; for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Codeine and derivatives, with or without ephedrine hydrochloride",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "30044940",
+   "hs6": "300449",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives; other than ephedrine, pseudoephedrine (INN) or norephedrine or their salts; for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Ergot preparations, ergotamine and salts thereof",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "30044950",
+   "hs6": "300449",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives; other than ephedrine, pseudoephedrine (INN) or norephedrine or their salts; for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Papavarine hydrochloride",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "30044960",
+   "hs6": "300449",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives; other than ephedrine, pseudoephedrine (INN) or norephedrine or their salts; for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Bromohexin and salbutamol",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "30044970",
+   "hs6": "300449",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives; other than ephedrine, pseudoephedrine (INN) or norephedrine or their salts; for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Theophylline and salts thereof",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "30044990",
+   "hs6": "300449",
+   "hs6_description": "Medicaments; containing alkaloids or their derivatives; other than ephedrine, pseudoephedrine (INN) or norephedrine or their salts; for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "300450",
+   "hs6": "300450",
+   "hs6_description": "Medicaments; containing vitamins or their derivatives, for therapeutic or prophylactic use, packaged for retail sale",
    "level": 6,
    "chapter": "30",
    "description": "Other, containing vitamins or other products of heading 29.36",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "30045010",
+   "hs6": "300450",
+   "hs6_description": "Medicaments; containing vitamins or their derivatives, for therapeutic or prophylactic use, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Heamatinics and Erythropoyetin preperations",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "30045020",
+   "hs6": "300450",
+   "hs6_description": "Medicaments; containing vitamins or their derivatives, for therapeutic or prophylactic use, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Preperations of minerals and their supplements",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "30045031",
+   "hs6": "300450",
+   "hs6_description": "Medicaments; containing vitamins or their derivatives, for therapeutic or prophylactic use, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Preparations of vitamins: ---- Of Vitamin A",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "30045032",
+   "hs6": "300450",
+   "hs6_description": "Medicaments; containing vitamins or their derivatives, for therapeutic or prophylactic use, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Preparations of vitamins: ---- Of Vitamin B1 and B2 and their salts thereof",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "30045033",
+   "hs6": "300450",
+   "hs6_description": "Medicaments; containing vitamins or their derivatives, for therapeutic or prophylactic use, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Preparations of vitamins: ---- Of Vitamin B9",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "30045034",
+   "hs6": "300450",
+   "hs6_description": "Medicaments; containing vitamins or their derivatives, for therapeutic or prophylactic use, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Preparations of vitamins: ---- Of Vitamin B12",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "30045035",
+   "hs6": "300450",
+   "hs6_description": "Medicaments; containing vitamins or their derivatives, for therapeutic or prophylactic use, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Preparations of vitamins: ---- Of Vitamin C",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "30045036",
+   "hs6": "300450",
+   "hs6_description": "Medicaments; containing vitamins or their derivatives, for therapeutic or prophylactic use, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Preparations of vitamins: ---- Of Vitamin D",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "30045037",
+   "hs6": "300450",
+   "hs6_description": "Medicaments; containing vitamins or their derivatives, for therapeutic or prophylactic use, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Preparations of vitamins: ---- Of Vitamin E",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "30045039",
+   "hs6": "300450",
+   "hs6_description": "Medicaments; containing vitamins or their derivatives, for therapeutic or prophylactic use, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Preparations of vitamins: ---- Other",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "30045090",
+   "hs6": "300450",
+   "hs6_description": "Medicaments; containing vitamins or their derivatives, for therapeutic or prophylactic use, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "30046000",
+   "hs6": "300460",
+   "hs6_description": "Medicaments; containing antimalarial active principles described in Subheading Note 2 to this Chapter, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other, containing antimalarial active principles described in Subheading Note 2 to this Chapter",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "300490",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 6,
    "chapter": "30",
    "description": "Other",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "30049011",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Ayurvedic, Unani, Homoeopathic, Siddha or Bio-chemic systems medicaments, put up for retail sale: ---- Of Ayurvedic System",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "30049012",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Ayurvedic, Unani, Homoeopathic, Siddha or Bio-chemic systems medicaments, put up for retail sale: ---- Of Unani systems",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "30049013",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Ayurvedic, Unani, Homoeopathic, Siddha or Bio-chemic systems medicaments, put up for retail sale: ---- Of Siddha system",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "30049014",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Ayurvedic, Unani, Homoeopathic, Siddha or Bio-chemic systems medicaments, put up for retail sale: ---- Of Homoeopathic System",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "30049015",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Ayurvedic, Unani, Homoeopathic, Siddha or Bio-chemic systems medicaments, put up for retail sale: ---- Of Bio-chemic system",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "30049021",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anthelmintics drugs; Antiamoebic and other Antiprotozal drugs; Antifungal drugs: ---- Anthelmintics and preparations thereof",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "30049022",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anthelmintics drugs; Antiamoebic and other Antiprotozal drugs; Antifungal drugs: ---- Metronidazole",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "30049023",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anthelmintics drugs; Antiamoebic and other Antiprotozal drugs; Antifungal drugs: ---- Tinidazole",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "30049024",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anthelmintics drugs; Antiamoebic and other Antiprotozal drugs; Antifungal drugs: ---- Secnidazole",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "30049025",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anthelmintics drugs; Antiamoebic and other Antiprotozal drugs; Antifungal drugs: ---- Diloxamide Furoate",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "30049026",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anthelmintics drugs; Antiamoebic and other Antiprotozal drugs; Antifungal drugs: ---- Sodium Stibogluconate",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "30049027",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anthelmintics drugs; Antiamoebic and other Antiprotozal drugs; Antifungal drugs: ---- Pentamidine",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "30049029",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anthelmintics drugs; Antiamoebic and other Antiprotozal drugs; Antifungal drugs: ---- Other",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "30049031",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihistaminics drugs; Antacids preparations; Antiulcer drugs; Antiemitics and other Gastrointestinal drugs: ---- Promethazine, Chlorphenimiramine, Astemizole and Ceteirizine",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "30049032",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihistaminics drugs; Antacids preparations; Antiulcer drugs; Antiemitics and other Gastrointestinal drugs: ---- Sodium bicarbonate, Magnesium hydroxide (Milk of Magnesia), Magnesium carbonate, Magnesium trisilicate, Aluminium hydroxide gel, Magaldarate and combinations thereof",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "30049033",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihistaminics drugs; Antacids preparations; Antiulcer drugs; Antiemitics and other Gastrointestinal drugs: ---- Cimetidine, Rantidine, Nizatidine and Roxatidine",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "30049034",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihistaminics drugs; Antacids preparations; Antiulcer drugs; Antiemitics and other Gastrointestinal drugs: ---- Omeprazole and Lansoprazole",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "30049035",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihistaminics drugs; Antacids preparations; Antiulcer drugs; Antiemitics and other Gastrointestinal drugs: ---- Dicyclomine, Metoclopramide and Dexamethasone and Ondansetron",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "30049036",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihistaminics drugs; Antacids preparations; Antiulcer drugs; Antiemitics and other Gastrointestinal drugs: ---- Chenodiol and Ursodiol",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "30049039",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihistaminics drugs; Antacids preparations; Antiulcer drugs; Antiemitics and other Gastrointestinal drugs: ---- Other",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "30049041",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anticancer drugs: ---- Cyclophosphamide",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "30049042",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anticancer drugs: ---- Methotrexate, 5-fluorouracil(5-FU) and Ftorafur",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "30049043",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anticancer drugs: ---- Bincristine and Vinblastine",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "30049044",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anticancer drugs: ---- Paclitaxel and Docetaxel",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "30049045",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anticancer drugs: ---- Etoposide",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "30049046",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anticancer drugs: ---- Actinomycin D-Dactinomycin and Doxorubicin",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "30049047",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anticancer drugs: ---- L-Asparaginase, Cisplatin and Carboplatin",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "30049048",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anticancer drugs: ---- Tamoxifen",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "30049049",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Anticancer drugs: ---- Other",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "30049051",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antitubercular drugs; Antileprotic drugs; Antimalarial drugs: ---- Isoniazid",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "30049052",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antitubercular drugs; Antileprotic drugs; Antimalarial drugs: ---- Rifampicin",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "30049053",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antitubercular drugs; Antileprotic drugs; Antimalarial drugs: ---- Pyrazimamide and Ethambutol",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "30049054",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antitubercular drugs; Antileprotic drugs; Antimalarial drugs: ---- Streptomycin",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "30049055",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antitubercular drugs; Antileprotic drugs; Antimalarial drugs: ---- Dapsone(DDS), Acedapsone (DADDS), Solopsone and Clofazimine",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "30049056",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antitubercular drugs; Antileprotic drugs; Antimalarial drugs: ---- Chloroquine, Amodiaquine, Mefloquine, Quinine, Chloroguamamide, Pyrimethamine",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "30049057",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antitubercular drugs; Antileprotic drugs; Antimalarial drugs: ---- Other Antitubercular drugs",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "30049058",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antitubercular drugs; Antileprotic drugs; Antimalarial drugs: ---- Other Antileprotic drugs",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "30049059",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antitubercular drugs; Antileprotic drugs; Antimalarial drugs: ---- Other Antimalarial drugs",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "30049061",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Nonsteroidal antiinflammatory, analgesics and antipyratic drugs: ---- Analgin with or without other compounds such as paracetamol",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "30049062",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Nonsteroidal antiinflammatory, analgesics and antipyratic drugs: ---- Acetyl salicylic acid (Aspirin) and formulations thereof",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "30049063",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Nonsteroidal antiinflammatory, analgesics and antipyratic drugs: ---- Ibuprofen with or without paracetamol or other compunds",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "30049064",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Nonsteroidal antiinflammatory, analgesics and antipyratic drugs: ---- Oxyphen butazone, Phenyl butazone and formulations thereof",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "30049065",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Nonsteroidal antiinflammatory, analgesics and antipyratic drugs: ---- Indomethacin",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "30049066",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Nonsteroidal antiinflammatory, analgesics and antipyratic drugs: ---- Mephenamic acid, dactofenac sodium, Piroxicam, Tenoxicam and Meloxicam",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "30049067",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Nonsteroidal antiinflammatory, analgesics and antipyratic drugs: ---- Ketorolac, Nimesulide, Mabumetone and Nefopam",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "30049069",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Nonsteroidal antiinflammatory, analgesics and antipyratic drugs: ---- Other",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "30049071",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihepertensive drugs: ---- Captopril, Enalapril, Lisimopril, Perimdopril and Ramipril",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "30049072",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihepertensive drugs: ---- Verapamil, Nifedipine, Amlodipine and Lacidipine",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "30049073",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihepertensive drugs: ---- Losartam",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "30049074",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihepertensive drugs: ---- Propranolol, Metoprolol, Atenolol and Labetalol",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "30049075",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihepertensive drugs: ---- Prazosin, Terazosin, Phentolamine and Phenoxybenzamime",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "30049076",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihepertensive drugs: ---- Clonidine, Methyldopa",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "30049077",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihepertensive drugs: ---- Hydralazine, Minoxidil and Diazoxide",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "30049079",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antihepertensive drugs: ---- Other",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "30049081",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antiepiliptic drugs; Sulfa drugs not elsewhere specified or included, Preparations of enzymes; veterinary medicinal preparations, not for human use, not elsewhere specified or included; Oral rehydration salts; Antibacterial formulations not elsewhere specified or included, Sedatives and Tranquilizers: ---- Phenobarbitone, Memphobarbitone, Primidone, Phenytoin, Carbamazepine, Ethosuximide, Valporic acid (Sodium valporate), Diazepam, Lamotrigine, Gabapentin, Bigabatrin, Phenacemide, Trimethadione and Acetazolamide",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "30049082",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antiepiliptic drugs; Sulfa drugs not elsewhere specified or included, Preparations of enzymes; veterinary medicinal preparations, not for human use, not elsewhere specified or included; Oral rehydration salts; Antibacterial formulations not elsewhere specified or included, Sedatives and Tranquilizers: ---- Other Antiepileptic drugs",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "30049083",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antiepiliptic drugs; Sulfa drugs not elsewhere specified or included, Preparations of enzymes; veterinary medicinal preparations, not for human use, not elsewhere specified or included; Oral rehydration salts; Antibacterial formulations not elsewhere specified or included, Sedatives and Tranquilizers: ---- Sulpha drugs not elsewhere specified or included",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "30049084",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antiepiliptic drugs; Sulfa drugs not elsewhere specified or included, Preparations of enzymes; veterinary medicinal preparations, not for human use, not elsewhere specified or included; Oral rehydration salts; Antibacterial formulations not elsewhere specified or included, Sedatives and Tranquilizers: ---- Preparations of Enzymes",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "30049085",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antiepiliptic drugs; Sulfa drugs not elsewhere specified or included, Preparations of enzymes; veterinary medicinal preparations, not for human use, not elsewhere specified or included; Oral rehydration salts; Antibacterial formulations not elsewhere specified or included, Sedatives and Tranquilizers: ---- Veterinary medicinal preparations, not for human use, not elsewhere specified or included",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "30049086",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antiepiliptic drugs; Sulfa drugs not elsewhere specified or included, Preparations of enzymes; veterinary medicinal preparations, not for human use, not elsewhere specified or included; Oral rehydration salts; Antibacterial formulations not elsewhere specified or included, Sedatives and Tranquilizers: ---- Oral rehydration salts",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "30049087",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antiepiliptic drugs; Sulfa drugs not elsewhere specified or included, Preparations of enzymes; veterinary medicinal preparations, not for human use, not elsewhere specified or included; Oral rehydration salts; Antibacterial formulations not elsewhere specified or included, Sedatives and Tranquilizers: ---- Antibacterial formulations, not elsewhere specified or included",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "30049088",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antiepiliptic drugs; Sulfa drugs not elsewhere specified or included, Preparations of enzymes; veterinary medicinal preparations, not for human use, not elsewhere specified or included; Oral rehydration salts; Antibacterial formulations not elsewhere specified or included, Sedatives and Tranquilizers: ---- Sedatives",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "30049089",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Antiepiliptic drugs; Sulfa drugs not elsewhere specified or included, Preparations of enzymes; veterinary medicinal preparations, not for human use, not elsewhere specified or included; Oral rehydration salts; Antibacterial formulations not elsewhere specified or included, Sedatives and Tranquilizers: ---- Tranquilizers",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "30049091",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Salbutamol, Terbutaline, Ephedrine, Salmeterol and Methyl xanthimes",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "30049092",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Plasma expanders",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "30049093",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Chloropheniramine Maleate, with or without other compounds (excluding steriods and alkaloids)",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "30049094",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Theophylline, Aminophylline and other Broncho dilators",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "30049095",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Carcino-chemotherapeutic drugs not elsewhere specified or included",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "30049096",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Ketamine",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "30049099",
+   "hs6": "300490",
+   "hs6_description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other: ---- Other",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "3005",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "30",
    "description": "Wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes.",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "300510",
+   "hs6": "300510",
+   "hs6_description": "Dressings, adhesive; and other articles having an adhesive layer, packed for retail sale for medical, surgical, dental or veterinary purposes",
    "level": 6,
    "chapter": "30",
    "description": "Adhesive dressings and other articles having an adhesive layer",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "30051010",
+   "hs6": "300510",
+   "hs6_description": "Dressings, adhesive; and other articles having an adhesive layer, packed for retail sale for medical, surgical, dental or veterinary purposes",
    "level": 8,
    "chapter": "30",
    "description": "Adhesive guaze",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "30051020",
+   "hs6": "300510",
+   "hs6_description": "Dressings, adhesive; and other articles having an adhesive layer, packed for retail sale for medical, surgical, dental or veterinary purposes",
    "level": 8,
    "chapter": "30",
    "description": "Adhesive tape",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "30051090",
+   "hs6": "300510",
+   "hs6_description": "Dressings, adhesive; and other articles having an adhesive layer, packed for retail sale for medical, surgical, dental or veterinary purposes",
    "level": 8,
    "chapter": "30",
    "description": "Other",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "300590",
+   "hs6": "300590",
+   "hs6_description": "Wadding, gauze, bandages and similar articles; (excluding adhesive dressings), impregnated or coated with pharmaceutical substances, packaged for retail sale",
    "level": 6,
    "chapter": "30",
    "description": "Other",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "30059010",
+   "hs6": "300590",
+   "hs6_description": "Wadding, gauze, bandages and similar articles; (excluding adhesive dressings), impregnated or coated with pharmaceutical substances, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Cotton wool, medicated",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "30059020",
+   "hs6": "300590",
+   "hs6_description": "Wadding, gauze, bandages and similar articles; (excluding adhesive dressings), impregnated or coated with pharmaceutical substances, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Poultice of Kaolin",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "30059030",
+   "hs6": "300590",
+   "hs6_description": "Wadding, gauze, bandages and similar articles; (excluding adhesive dressings), impregnated or coated with pharmaceutical substances, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Lint, medicated",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "30059040",
+   "hs6": "300590",
+   "hs6_description": "Wadding, gauze, bandages and similar articles; (excluding adhesive dressings), impregnated or coated with pharmaceutical substances, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Bandages",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "30059050",
+   "hs6": "300590",
+   "hs6_description": "Wadding, gauze, bandages and similar articles; (excluding adhesive dressings), impregnated or coated with pharmaceutical substances, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Burn therapy dressing soaked in protective gel",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "30059060",
+   "hs6": "300590",
+   "hs6_description": "Wadding, gauze, bandages and similar articles; (excluding adhesive dressings), impregnated or coated with pharmaceutical substances, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Micro pores surgical tapes",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "30059070",
+   "hs6": "300590",
+   "hs6_description": "Wadding, gauze, bandages and similar articles; (excluding adhesive dressings), impregnated or coated with pharmaceutical substances, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Corn removers and callous removers",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "30059090",
+   "hs6": "300590",
+   "hs6_description": "Wadding, gauze, bandages and similar articles; (excluding adhesive dressings), impregnated or coated with pharmaceutical substances, packaged for retail sale",
    "level": 8,
    "chapter": "30",
    "description": "Other",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "3006",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "30",
    "description": "Pharmaceutical goods specified in Note 4 to this Chapter.",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "300610",
+   "hs6": "300610",
+   "hs6_description": "Pharmaceutical goods; sterile surgical catgut, suture materials, tissue adhesives, laminaria, laminaria tents, absorbable surgical or dental haemostatics, and surgical or dental adhesion barriers",
    "level": 6,
    "chapter": "30",
    "description": "Sterile surgical catgut, similar sterile suture materials (including sterile absorbable surgical or dental yarns) and sterile tissue adhesives for surgical wound closure; sterile laminaria and sterile laminaria tents; sterile absorbable surgical or dental haemostatics; sterile surgical or dental adhesion barriers, whether or not absorbable",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "30061010",
+   "hs6": "300610",
+   "hs6_description": "Pharmaceutical goods; sterile surgical catgut, suture materials, tissue adhesives, laminaria, laminaria tents, absorbable surgical or dental haemostatics, and surgical or dental adhesion barriers",
    "level": 8,
    "chapter": "30",
    "description": "Sterile surgical catgut, similar sterile suture materials (including sterile absorbable surgical or dental yarns) and sterile tissue adhesives for surgical wound closure",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "30061020",
+   "hs6": "300610",
+   "hs6_description": "Pharmaceutical goods; sterile surgical catgut, suture materials, tissue adhesives, laminaria, laminaria tents, absorbable surgical or dental haemostatics, and surgical or dental adhesion barriers",
    "level": 8,
    "chapter": "30",
    "description": "sterile laminaria and sterile laminaria tents; sterile absorbable surgical or dental haemostatics; sterile surgical or dental adhesion barriers, whether or not absorbable",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "30063000",
+   "hs6": "300630",
+   "hs6_description": "Pharmaceutical goods; opacifying preparations for x-ray examinations, diagnostic reagents designed to be administered to the patient",
    "level": 8,
    "chapter": "30",
    "description": "Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "30064000",
+   "hs6": "300640",
+   "hs6_description": "Pharmaceutical goods; dental cements and other dental fillings, bone reconstruction cements",
    "level": 8,
    "chapter": "30",
    "description": "Dental cements and other dental fillings; bone reconstruction cements",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "30065000",
+   "hs6": "300650",
+   "hs6_description": "Pharmaceutical goods; first aid boxes and kits",
    "level": 8,
    "chapter": "30",
    "description": "First-aid boxes and kits",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "300660",
+   "hs6": "300660",
+   "hs6_description": "Pharmaceutical goods; chemical contraceptive preparations based on hormones, on other products of heading 2937 or on spermicides",
    "level": 6,
    "chapter": "30",
    "description": "Chemical contraceptive preparations based on hormones, on other products of heading 29.37 or on spermicides",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "30066010",
+   "hs6": "300660",
+   "hs6_description": "Pharmaceutical goods; chemical contraceptive preparations based on hormones, on other products of heading 2937 or on spermicides",
    "level": 8,
    "chapter": "30",
    "description": "Based on hormones",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "30066020",
+   "hs6": "300660",
+   "hs6_description": "Pharmaceutical goods; chemical contraceptive preparations based on hormones, on other products of heading 2937 or on spermicides",
    "level": 8,
    "chapter": "30",
    "description": "Based on other products of heading 2937",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "30066030",
+   "hs6": "300660",
+   "hs6_description": "Pharmaceutical goods; chemical contraceptive preparations based on hormones, on other products of heading 2937 or on spermicides",
    "level": 8,
    "chapter": "30",
    "description": "Based on spermicides",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "30067000",
+   "hs6": "300670",
+   "hs6_description": "Pharmaceutical goods; Gel preparations designed to be used in human or veterinary medicine as a lubricant for parts of the body for surgical operations or physical examinations or as a coupling agent between the body and medical instruments",
    "level": 8,
    "chapter": "30",
    "description": "Gel preparations designed to be used in human or veterinary medicine as a lubricant for parts of the body for surgical operations or physical examinations or as a coupling agent between the body and medical instruments",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "30069100",
+   "hs6": "300691",
+   "hs6_description": "Pharmaceutical goods; appliances identifiable for ostomy use",
    "level": 8,
    "chapter": "30",
    "description": "Other : -- Appliances identifiable for ostomy use",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "30069300",
+   "hs6": "300693",
+   "hs6_description": "Pharmaceutical goods; placebos and blinded (or double-blinded) clinical trial kits for a recognised clinical trial, put up in measured doses",
    "level": 8,
    "chapter": "30",
    "description": "Cell cultures, whether or not modified - - Placebos and blinded (or double-blinded) clinical trial kits for a recognised clinical trial, put up in measured doses",

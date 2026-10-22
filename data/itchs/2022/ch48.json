@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "4801",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Newsprint, in rolls or sheets.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "480100",
+   "hs6": "480100",
+   "hs6_description": "Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",
    "level": 6,
    "chapter": "48",
    "description": "Newsprint, in rolls or sheets :",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "48010010",
+   "hs6": "480100",
+   "hs6_description": "Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Glazed",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "48010090",
+   "hs6": "480100",
+   "hs6_description": "Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "4802",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non perforated punchcards and punch tape paper, in rolls or rectangular (including square) sheets, of any size, other than paper of heading 48.01 or 48.03; hand-made paper and paperboard.",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "480210",
+   "hs6": "480210",
+   "hs6_description": "Hand-made paper or paperboard",
    "level": 6,
    "chapter": "48",
    "description": "Hand-made paper and paperboard",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "48021010",
+   "hs6": "480210",
+   "hs6_description": "Hand-made paper or paperboard",
    "level": 8,
    "chapter": "48",
    "description": "Paper",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "48021020",
+   "hs6": "480210",
+   "hs6_description": "Hand-made paper or paperboard",
    "level": 8,
    "chapter": "48",
    "description": "Paperboard",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "480220",
+   "hs6": "480220",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); of a kind used as a base for photo-sensitive, heat-sensitive or electro-sensitive paper or paperboard, in rolls or sheets",
    "level": 6,
    "chapter": "48",
    "description": "Paper and paperboard of a kind used as a base for photo-sensitive, heat-sensitive or electro-sensitive paper or paperboard",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "48022010",
+   "hs6": "480220",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); of a kind used as a base for photo-sensitive, heat-sensitive or electro-sensitive paper or paperboard, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Photographic base paper, uncoated",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "48022090",
+   "hs6": "480220",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); of a kind used as a base for photo-sensitive, heat-sensitive or electro-sensitive paper or paperboard, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "480254",
+   "hs6": "480254",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing less than 40g/m2, in rolls or sheets",
    "level": 6,
    "chapter": "48",
    "description": "Other paper and paperboard, not containing fibres obtained by a mechanical or chemi-mechanical process or of which not more than 10 percent by weight of the total fibre content consists of such fibres : -- Weighing less than 40 g/m²",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "48025410",
+   "hs6": "480254",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing less than 40g/m2, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "India Paper",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "48025420",
+   "hs6": "480254",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing less than 40g/m2, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Litho and offset paper",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "48025430",
+   "hs6": "480254",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing less than 40g/m2, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Duplicating paper",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "48025440",
+   "hs6": "480254",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing less than 40g/m2, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Airmail paper",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "48025450",
+   "hs6": "480254",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing less than 40g/m2, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Tissue paper",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "48025490",
+   "hs6": "480254",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing less than 40g/m2, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "48025510",
+   "hs6": "480255",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing 40g/m2 to 150g/m2, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Litho and offset paper",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "48025520",
+   "hs6": "480255",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing 40g/m2 to 150g/m2, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Drawing paper",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "48025530",
+   "hs6": "480255",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing 40g/m2 to 150g/m2, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Duplicating paper",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "48025540",
+   "hs6": "480255",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing 40g/m2 to 150g/m2, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Account book paper",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "48025550",
+   "hs6": "480255",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing 40g/m2 to 150g/m2, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Bank, bond and cheque paper",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "48025560",
+   "hs6": "480255",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing 40g/m2 to 150g/m2, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Currency note paper",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "48025570",
+   "hs6": "480255",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing 40g/m2 to 150g/m2, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Paper for security printing, currency paper, stamp paper",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "48025590",
+   "hs6": "480255",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing 40g/m2 to 150g/m2, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "480256",
+   "hs6": "480256",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 6,
    "chapter": "48",
    "description": "Other paper and paperboard, not containing fibres obtained by a mechanical or chemi-mechanical process or of which not more than 10 percent by weight of the total fibre content consists of such fibres : -- Weighing 40 g/m² or more but not more than 150 g/m², in sheets with one side not exceeding 435 mm and the other side not exceeding 297 mm in the unfolded state",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "48025610",
+   "hs6": "480256",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Litho and offset paper",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "48025620",
+   "hs6": "480256",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Drawing paper",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "48025630",
+   "hs6": "480256",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Duplicating paper",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "48025640",
+   "hs6": "480256",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Account book paper",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "48025650",
+   "hs6": "480256",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Bank, bond and cheque paper",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "48025660",
+   "hs6": "480256",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Currency note paper",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "48025670",
+   "hs6": "480256",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Paper for security printing, currency paper, stamp paper",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "48025690",
+   "hs6": "480256",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "480257",
+   "hs6": "480257",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, n.e.c. in item no. 4802.55 or 4802.56",
    "level": 6,
    "chapter": "48",
    "description": "Other paper and paperboard, not containing fibres obtained by a mechanical or chemi-mechanical process or of which not more than 10 percent by weight of the total fibre content consists of such fibres : -- Other, weighing 40 g/m² or more but not more than 150 g/m²",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "48025710",
+   "hs6": "480257",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, n.e.c. in item no. 4802.55 or 4802.56",
    "level": 8,
    "chapter": "48",
    "description": "Litho and offset paper",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "48025720",
+   "hs6": "480257",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, n.e.c. in item no. 4802.55 or 4802.56",
    "level": 8,
    "chapter": "48",
    "description": "Drawing paper",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "48025730",
+   "hs6": "480257",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, n.e.c. in item no. 4802.55 or 4802.56",
    "level": 8,
    "chapter": "48",
    "description": "Duplicating paper",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "48025740",
+   "hs6": "480257",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, n.e.c. in item no. 4802.55 or 4802.56",
    "level": 8,
    "chapter": "48",
    "description": "Account book paper",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "48025750",
+   "hs6": "480257",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, n.e.c. in item no. 4802.55 or 4802.56",
    "level": 8,
    "chapter": "48",
    "description": "Bank, bond and cheque paper",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "48025760",
+   "hs6": "480257",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, n.e.c. in item no. 4802.55 or 4802.56",
    "level": 8,
    "chapter": "48",
    "description": "Currency note paper",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "48025770",
+   "hs6": "480257",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, n.e.c. in item no. 4802.55 or 4802.56",
    "level": 8,
    "chapter": "48",
    "description": "Paper for security printing, currency paper, stamp paper",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "48025790",
+   "hs6": "480257",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, n.e.c. in item no. 4802.55 or 4802.56",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "480258",
+   "hs6": "480258",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing more than 150g/m2",
    "level": 6,
    "chapter": "48",
    "description": "Other paper and paperboard, not containing fibres obtained by a mechanical or chemi-mechanical process or of which not more than 10 percent by weight of the total fibre content consists of such fibres : -- Weighing more than 150 g/m²",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "48025810",
+   "hs6": "480258",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing more than 150g/m2",
    "level": 8,
    "chapter": "48",
    "description": "Litho and offset paper",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "48025820",
+   "hs6": "480258",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing more than 150g/m2",
    "level": 8,
    "chapter": "48",
    "description": "Drawing paper",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "48025830",
+   "hs6": "480258",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing more than 150g/m2",
    "level": 8,
    "chapter": "48",
    "description": "Duplicating paper",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "48025840",
+   "hs6": "480258",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing more than 150g/m2",
    "level": 8,
    "chapter": "48",
    "description": "Bank, bond and cheque paper",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "48025850",
+   "hs6": "480258",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing more than 150g/m2",
    "level": 8,
    "chapter": "48",
    "description": "Paper for security printing, currency paper, stamp paper",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "48025890",
+   "hs6": "480258",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing more than 150g/m2",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "480261",
+   "hs6": "480261",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in rolls",
    "level": 6,
    "chapter": "48",
    "description": "Other paper and paperboard, of which more than 10 percent by weight of the total fibre content consists of fibres obtained by a mechanical or chemi-mechanical process : -- In rolls",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "48026110",
+   "hs6": "480261",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Drawing paper",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "48026120",
+   "hs6": "480261",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Poster paper",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "48026130",
+   "hs6": "480261",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Printing paper dyed or marbled in mass",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "48026140",
+   "hs6": "480261",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Account book paper",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "48026150",
+   "hs6": "480261",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Automatic data processing machine paper",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "48026160",
+   "hs6": "480261",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Paper for security printing, currency paper, stamp paper",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "48026190",
+   "hs6": "480261",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "480262",
+   "hs6": "480262",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 6,
    "chapter": "48",
    "description": "Other paper and paperboard, of which more than 10 percent by weight of the total fibre content consists of fibres obtained by a mechanical or chemi-mechanical process : -- In sheets with one side not exceeding 435 mm and the other side",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "48026210",
+   "hs6": "480262",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Drawing paper",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "48026220",
+   "hs6": "480262",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Poster paper",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "48026230",
+   "hs6": "480262",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Printing paper dyed or marbled in mass",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "48026240",
+   "hs6": "480262",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Account book paper",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "48026250",
+   "hs6": "480262",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Automatic data processing machine paper",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "48026260",
+   "hs6": "480262",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Paper for security printing, currency paper, stamp paper",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "48026290",
+   "hs6": "480262",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "480269",
+   "hs6": "480269",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, other than rolls, other than sheets 435mm or less by 297mm or less (unfolded)",
    "level": 6,
    "chapter": "48",
    "description": "Other paper and paperboard, of which more than 10 percent by weight of the total fibre content consists of fibres obtained by a mechanical or chemi-mechanical process : -- Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "48026910",
+   "hs6": "480269",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, other than rolls, other than sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Drawing paper",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "48026920",
+   "hs6": "480269",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, other than rolls, other than sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Poster paper",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "48026930",
+   "hs6": "480269",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, other than rolls, other than sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Printing paper dyed or marbled in mass",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "48026940",
+   "hs6": "480269",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, other than rolls, other than sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Account book paper",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "48026950",
+   "hs6": "480269",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, other than rolls, other than sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Automatic data processing machine paper",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "48026960",
+   "hs6": "480269",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, other than rolls, other than sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Paper for security printing, currency paper, stamp paper",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "48026990",
+   "hs6": "480269",
+   "hs6_description": "Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, other than rolls, other than sheets 435mm or less by 297mm or less (unfolded)",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "4803",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Toilet or facial tissue stock, towel or napkin stock and similar paper of a kind used for household or sanitary purposes, cellulose wadding and webs of cellulose fibres, whether or not creped, crinkled, embossed, perforated, surface-coloured, surface- decorated or printed, in rolls or sheets.",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "480300",
+   "hs6": "480300",
+   "hs6_description": "Tissue, towel, napkin stock or similar; for household or sanitary use, cellulose, wadding webs of cellulose fibres, in rolls exceeding 36cm in width or rectangular sheets with one side more than 36cm in unfolded state",
    "level": 6,
    "chapter": "48",
    "description": "Toilet or facial tissue stock, towel or napkin stock and similar paper of a kind used for household or sanitary purposes, cellulose wadding and webs of cellulose fibres, whether or not creped, crinkled, embossed, perforated, surface- coloured, surface-decorated or printed, in rolls or sheets :\"",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "48030010",
+   "hs6": "480300",
+   "hs6_description": "Tissue, towel, napkin stock or similar; for household or sanitary use, cellulose, wadding webs of cellulose fibres, in rolls exceeding 36cm in width or rectangular sheets with one side more than 36cm in unfolded state",
    "level": 8,
    "chapter": "48",
    "description": "In commercial size rolls of width size 36 cm and above",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "48030090",
+   "hs6": "480300",
+   "hs6_description": "Tissue, towel, napkin stock or similar; for household or sanitary use, cellulose, wadding webs of cellulose fibres, in rolls exceeding 36cm in width or rectangular sheets with one side more than 36cm in unfolded state",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "4804",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Uncoated kraft paper and paperboard, in rolls or sheets, other than that of heading 48.02 or 48.03.",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "48041100",
+   "hs6": "480411",
+   "hs6_description": "Kraft paper and paperboard; kraftliner, uncoated, unbleached, in rolls or sheets, other than that of heading no. 4802 or 4803",
    "level": 8,
    "chapter": "48",
    "description": "Kraftliner : -- Unbleached",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "48041900",
+   "hs6": "480419",
+   "hs6_description": "Kraft paper and paperboard; kraftliner, uncoated, bleached, in rolls or sheets, other than that of heading no. 4802 or 4803",
    "level": 8,
    "chapter": "48",
    "description": "Kraftliner : --Other",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "48042100",
+   "hs6": "480421",
+   "hs6_description": "Kraft paper and paperboard; sack kraft paper, uncoated, unbleached, in rolls or sheets, other than that of heading no. 4802 or 4803",
    "level": 8,
    "chapter": "48",
    "description": "Sack kraft paper : -- Unbleached",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "48042900",
+   "hs6": "480429",
+   "hs6_description": "Kraft paper and paperboard; sack kraft paper, uncoated, bleached, in rolls or sheets, other than that of heading no. 4802 or 4803",
    "level": 8,
    "chapter": "48",
    "description": "Sack kraft paper : -- Other",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "48043100",
+   "hs6": "480431",
+   "hs6_description": "Kraft paper and paperboard; uncoated, unbleached, weight 150g/m2 or less, in rolls or sheets, other than that of heading no. 4802 or 4803",
    "level": 8,
    "chapter": "48",
    "description": "Other kraft paper and paperboard weighing 150 g/m² or less -- Unbleached",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "48043900",
+   "hs6": "480439",
+   "hs6_description": "Kraft paper and paperboard; uncoated, bleached, weight 150g/m2 or less, in rolls or sheets, other than that of heading no. 4802 or 4803",
    "level": 8,
    "chapter": "48",
    "description": "Other kraft paper and paperboard weighing 150 g/m² or less -- Other",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "48044100",
+   "hs6": "480441",
+   "hs6_description": "Kraft paper and paperboard; uncoated, unbleached, weight more than 150g/m2 but less than 225g/m2, in rolls or sheets, other than that of heading no. 4802 or 4803",
    "level": 8,
    "chapter": "48",
    "description": "Other kraft paper and paperboard weighing more than 150 g/m² but less than 225 g/m² : -- Unbleached",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "48044200",
+   "hs6": "480442",
+   "hs6_description": "Kraft paper and paperboard; uncoated, weight between 150 and 225g/m2, bleached uniformly throughout, more than 95% of total fibre content consists of chemically processed wood fibres, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other kraft paper and paperboard weighing more than 150 g/m² but less than 225 g/m² : -- Bleached uniformly throughout the mass and of which more than 95 percent by weight of the total fibre content consists of wood fibres obtained by a chemical process",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "48044900",
+   "hs6": "480449",
+   "hs6_description": "Kraft paper and paperboard; uncoated, weight more than 150g/m2 but less than 225g/m2, in rolls or sheets, n.e.c. in item no. 4804.4, other than that of heading no. 4802 or 4803",
    "level": 8,
    "chapter": "48",
    "description": "Other kraft paper and paperboard weighing more than 150 g/m² but less than 225 g/m² : -- Other",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "48045100",
+   "hs6": "480451",
+   "hs6_description": "Kraft paper and paperboard; uncoated, unbleached, weight 225g/m2 or more, in rolls or sheets, other than that of heading no. 4802 or 4803",
    "level": 8,
    "chapter": "48",
    "description": "Other kraft paper and paperboard weighing 225 g/m² or more : -- Unbleached",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "48045200",
+   "hs6": "480452",
+   "hs6_description": "Kraft paper and paperboard; uncoated, weight 225g/m2 or more, bleached uniformly throughout, more than 95% of total fibre content consists of chemically processed wood fibres, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other kraft paper and paperboard weighing 225 g/m² or more : -- Bleached uniformly throughout the mass and of which more than 95 percent by weight of the total fibre content consists of wood obtained by a chemical process",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "48045900",
+   "hs6": "480459",
+   "hs6_description": "Kraft paper and paperboard; uncoated, weight 225g/m2 or more, in rolls or sheets, n.e.c. in item no. 4804.5, other than that of heading no. 4802 or 4803",
    "level": 8,
    "chapter": "48",
    "description": "Other kraft paper and paperboard weighing 225 g/m² or more : -- Other",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "4805",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Other uncoated paper and paperboard, in rolls or sheets, not further worked or processed than as specified in Note 3 to this Chapter.",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "48051100",
+   "hs6": "480511",
+   "hs6_description": "Paper and paperboard; uncoated, semi-chemical fluting paper, rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Fluting paper : -- Semi-chemical fluting paper",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "48051200",
+   "hs6": "480512",
+   "hs6_description": "Paper and paperboard; uncoated, straw fluting paper, rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Fluting paper : -- Straw fluting paper",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "48051900",
+   "hs6": "480519",
+   "hs6_description": "Paper and paperboard; uncoated, fluting paper other than semi-chemical or straw, rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Fluting paper : -- Other",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "48052400",
+   "hs6": "480524",
+   "hs6_description": "Paper & paperboard; uncoated, testliner (recycled linerboard), weight 150g/m2, or less, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Testliner (recycled liner board) : -- Weighing 150 g/m² or less",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "48052500",
+   "hs6": "480525",
+   "hs6_description": "Paper & paperboard; uncoated, testliner (recycled linerboard), weight over 150g/m2, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Testliner (recycled liner board) : -- Weighing more than 150 g/m²",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "48053000",
+   "hs6": "480530",
+   "hs6_description": "Paper and paperboard; sulphite wrapping paper, uncoated, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Sulphite wrapping paper",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "48054000",
+   "hs6": "480540",
+   "hs6_description": "Paper and paperboard; filter paper and paperboard, uncoated, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Filter paper and paperboard",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "48055000",
+   "hs6": "480550",
+   "hs6_description": "Paper and paperboard; felt paper and paperboard, uncoated, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Felt paper and paperboard",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "48059100",
+   "hs6": "480591",
+   "hs6_description": "Paper and paperboard; uncoated, weight 150g/m2 or less, in rolls or sheets, n.e.c. in heading no.4805",
    "level": 8,
    "chapter": "48",
    "description": "Other : -- Weighing 150 g/m² or less",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "48059200",
+   "hs6": "480592",
+   "hs6_description": "Paper and paperboard; uncoated, weight more than 150g/m2 but less than 225 g/m2, in rolls or sheets, n.e.c. in heading no. 4805",
    "level": 8,
    "chapter": "48",
    "description": "Other : -- Weighing more than 150 g/m² but less than 225 g/m²",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "48059300",
+   "hs6": "480593",
+   "hs6_description": "Paper and paperboard; uncoated, weight 225/m2 or more, in rolls or sheets, n.e.c. in heading no. 4805",
    "level": 8,
    "chapter": "48",
    "description": "Other : -- Weighing 225 g/m² or more",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "4806",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Vegetable parchment, greaseproof papers, tracing papers and glassine and other glazed transparent or translucent papers, in rolls or sheets.",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "48061000",
+   "hs6": "480610",
+   "hs6_description": "Paper; vegetable parchment, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Vegetable parchment",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "48062000",
+   "hs6": "480620",
+   "hs6_description": "Paper; greaseproof papers, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Greaseproof papers",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "48063000",
+   "hs6": "480630",
+   "hs6_description": "Paper; tracing papers, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Tracing papers",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "480640",
+   "hs6": "480640",
+   "hs6_description": "Paper; glassine and other glazed transparent or translucent papers, in rolls or sheets",
    "level": 6,
    "chapter": "48",
    "description": "Glassine and other glazed transparent or translucent papers",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "48064010",
+   "hs6": "480640",
+   "hs6_description": "Paper; glassine and other glazed transparent or translucent papers, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Glassine papers",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "48064090",
+   "hs6": "480640",
+   "hs6_description": "Paper; glassine and other glazed transparent or translucent papers, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "4807",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Composite paper and paperboard (made by sticking flat layers of paper or paperboard together with an adhesive), not surfacecoated or impregnated, whether or not internally reinforced, in rolls or sheets.",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "480700",
+   "hs6": "480700",
+   "hs6_description": "Paper and paperboard; composite (made by sticking layers together with an adhesive), not surface-coated or impregnated, whether or not internally reinforced, in rolls or sheets",
    "level": 6,
    "chapter": "48",
    "description": "Composite paper and paperboard (made by sticking flat layers of paper or paperboard together with an adhesive), not surface-coated or impregnated, whether or not internally reinforced, in rolls or sheets :",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "48070010",
+   "hs6": "480700",
+   "hs6_description": "Paper and paperboard; composite (made by sticking layers together with an adhesive), not surface-coated or impregnated, whether or not internally reinforced, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Straw paper and other straw board, whether or not covered with paper other than straw paper",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "48070090",
+   "hs6": "480700",
+   "hs6_description": "Paper and paperboard; composite (made by sticking layers together with an adhesive), not surface-coated or impregnated, whether or not internally reinforced, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "4808",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Paper and paperboard, corrugated (with or without glued flat or sheets, other than paper of the kind described in",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "48081000",
+   "hs6": "480810",
+   "hs6_description": "Paper and paperboard; corrugated, whether or not perforated, in rolls or sheets, other than paper of heading 4803",
    "level": 8,
    "chapter": "48",
    "description": "Corrugated paper and paperboard, whether or not perforated",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "480840",
+   "hs6": "480840",
+   "hs6_description": "Paper and paperboard; kraft paper, creped or crinkled, whether or not embossed or perforated, in rolls or sheets, other than paper of heading 4803",
    "level": 6,
    "chapter": "48",
    "description": "Kraft paper, creped or crinkled, whether or not embossed or perforated",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "48084010",
+   "hs6": "480840",
+   "hs6_description": "Paper and paperboard; kraft paper, creped or crinkled, whether or not embossed or perforated, in rolls or sheets, other than paper of heading 4803",
    "level": 8,
    "chapter": "48",
    "description": "Sack kraft paper, creped or crinkled, whether or not embossed or perforated",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "48084090",
+   "hs6": "480840",
+   "hs6_description": "Paper and paperboard; kraft paper, creped or crinkled, whether or not embossed or perforated, in rolls or sheets, other than paper of heading 4803",
    "level": 8,
    "chapter": "48",
    "description": "Other kraft paper, creped or crinkled, whether or not embossed or perforated",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "48089000",
+   "hs6": "480890",
+   "hs6_description": "Paper and paperboard; other than corrugated (with or without glued flat surface sheets) or kraft paper, creped or crinkled, whether or not embossed or perforated, in rolls or sheets, other than paper of heading 4803",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "4809",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Carbon paper, self-copy paper and other copying or transfer papers (including coated or impregnated paper for duplicator stencils or offset plates), whether or not printed, in rolls or sheets.",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "48092000",
+   "hs6": "480920",
+   "hs6_description": "Paper; self-copy paper, whether or not printed, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Self-copy paper",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "48099000",
+   "hs6": "480990",
+   "hs6_description": "Paper; carbon paper and other copying or transfer papers (including coated or impregnated paper for duplicator stencils or offset plates), whether or not printed, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "4810",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Paper and paperboard, coated on one or both sides with kaolin (China clay) or other inorganic substances, with or without a binder, and with no other coating, whether or not surfacecoloured, surface-decorated or printed, in rolls or rectangular (including square) sheets, of any size.",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "481013",
+   "hs6": "481013",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing & writing, graphics, containing no, or not more than 10% by weight of total fibres obtained by mechanical or chemi-mechanical process, in rolls",
    "level": 6,
    "chapter": "48",
    "description": "Paper and paperboard of a kind used for writing, printing or other graphic purposes, not containing fibres obtained by a mechanical or chemi-mechanical process or of which not more than 10 percent by weight of the total fibre content consists of such fibres : -- In rolls",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "48101310",
+   "hs6": "481013",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing & writing, graphics, containing no, or not more than 10% by weight of total fibres obtained by mechanical or chemi-mechanical process, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Imitation art paper",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "48101320",
+   "hs6": "481013",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing & writing, graphics, containing no, or not more than 10% by weight of total fibres obtained by mechanical or chemi-mechanical process, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Art paper",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "48101330",
+   "hs6": "481013",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing & writing, graphics, containing no, or not more than 10% by weight of total fibres obtained by mechanical or chemi-mechanical process, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Chrome paper or paper board",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "48101390",
+   "hs6": "481013",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing & writing, graphics, containing no, or not more than 10% by weight of total fibres obtained by mechanical or chemi-mechanical process, in rolls",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "481014",
+   "hs6": "481014",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing/writing/graphics, having 10% or less by weight of total fibres got mechanical/chemi-mechanical process, sheets, sides 435mm or less by 297mm or less, unfolded,",
    "level": 6,
    "chapter": "48",
    "description": "Paper and paperboard of a kind used for writing, printing or other graphic purposes, not containing fibres obtained by a mechanical or chemi-mechanical process or of which not more than 10 percent by weight of the total fibre content consists of such fibres : -- In sheets with one side not exceeding 435 mm and the other side not exceeding 297 mm in the unfolded state",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "48101410",
+   "hs6": "481014",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing/writing/graphics, having 10% or less by weight of total fibres got mechanical/chemi-mechanical process, sheets, sides 435mm or less by 297mm or less, unfolded,",
    "level": 8,
    "chapter": "48",
    "description": "Imitation art paper",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "48101420",
+   "hs6": "481014",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing/writing/graphics, having 10% or less by weight of total fibres got mechanical/chemi-mechanical process, sheets, sides 435mm or less by 297mm or less, unfolded,",
    "level": 8,
    "chapter": "48",
    "description": "Art paper",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "48101430",
+   "hs6": "481014",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing/writing/graphics, having 10% or less by weight of total fibres got mechanical/chemi-mechanical process, sheets, sides 435mm or less by 297mm or less, unfolded,",
    "level": 8,
    "chapter": "48",
    "description": "Chrome paper or paper board",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "48101490",
+   "hs6": "481014",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing/writing/graphics, having 10% or less by weight of total fibres got mechanical/chemi-mechanical process, sheets, sides 435mm or less by 297mm or less, unfolded,",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "481019",
+   "hs6": "481019",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing/writing/graphics, having 10% or less by weight of total fibres got by mechanical/chemi-mechanical process, sides exceeding 435mm and 297mm, unfolded, sheets",
    "level": 6,
    "chapter": "48",
    "description": "Paper and paperboard of a kind used for writing, printing or other graphic purposes, not containing fibres obtained by a mechanical or chemi-mechanical process or of which not more than 10 percent by weight of the total fibre content consists of such fibres : -- Other",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "48101910",
+   "hs6": "481019",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing/writing/graphics, having 10% or less by weight of total fibres got by mechanical/chemi-mechanical process, sides exceeding 435mm and 297mm, unfolded, sheets",
    "level": 8,
    "chapter": "48",
    "description": "Imitation art paper",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "48101920",
+   "hs6": "481019",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing/writing/graphics, having 10% or less by weight of total fibres got by mechanical/chemi-mechanical process, sides exceeding 435mm and 297mm, unfolded, sheets",
    "level": 8,
    "chapter": "48",
    "description": "Art paper",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "48101930",
+   "hs6": "481019",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing/writing/graphics, having 10% or less by weight of total fibres got by mechanical/chemi-mechanical process, sides exceeding 435mm and 297mm, unfolded, sheets",
    "level": 8,
    "chapter": "48",
    "description": "Chrome paper or paper board",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "48101990",
+   "hs6": "481019",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances, for printing/writing/graphics, having 10% or less by weight of total fibres got by mechanical/chemi-mechanical process, sides exceeding 435mm and 297mm, unfolded, sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "48102200",
+   "hs6": "481022",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances only, having more than 10% of mechanical or chemi-mechanical processed fibres, for writing, printing or other graphic purposes, light-weight coated paper, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Paper and paperboard of a kind used for writing, printing or other graphic purposes, of which more than 10 percent by weight of the total fibre content consists of fibres obtained by a mechanical or chemimechanical process : -- Light-weight coated paper",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "48102900",
+   "hs6": "481029",
+   "hs6_description": "Paper and paperboard; coated with kaolin or other inorganic substances only, having more than 10% of mechanically processed fibres, (excluding light-weight paper), for writing, printing or other graphic purposes, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Paper and paperboard of a kind used for writing, printing or other graphic purposes, of which more than 10 percent by weight of the total fibre content consists of fibres obtained by a mechanical or chemimechanical process : -- Other",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "48103100",
+   "hs6": "481031",
+   "hs6_description": "Kraft paper and paperboard; uniformly bleached throughout, coated with inorganic substances, more than 95% of chemically processed wood fibres, weight 150g/m2 or less, for non-graphic purposes, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Kraft paper and paperboard, other than that of a kind used for writing, printing or other graphic purposes : -- Bleached uniformly throughout the mass and of which more than 95 percent by weight of the total fibre content consists of wood fibres obtained by a chemical process, and weighing 150 g/m² or less",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "48103200",
+   "hs6": "481032",
+   "hs6_description": "Kraft paper and paperboard; uniformly bleached throughout, coated with inorganic substances, more than 95% of chemically processed wood fibres, weight more than 150g/m2, for non-graphic purposes, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Kraft paper and paperboard, other than that of a kind used for writing, printing or other graphic purposes : -- Bleached uniformly throughout the mass and of which more than 95 percent by weight of the total fibre content consists of wood fibres obtained by a chemical process, and weighing more than 150 g/m²",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "481039",
+   "hs6": "481039",
+   "hs6_description": "Kraft paper and paperboard; coated with kaolin or other inorganic substances only, for non-graphic purposes, n.e.c. in item no. 4810.31 and 4810.32, in rolls or sheets",
    "level": 6,
    "chapter": "48",
    "description": "Kraft paper and paperboard, other than that of a kind used for writing, printing or other graphic purposes : -- Other",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "48103910",
+   "hs6": "481039",
+   "hs6_description": "Kraft paper and paperboard; coated with kaolin or other inorganic substances only, for non-graphic purposes, n.e.c. in item no. 4810.31 and 4810.32, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Insulating paper",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "48103920",
+   "hs6": "481039",
+   "hs6_description": "Kraft paper and paperboard; coated with kaolin or other inorganic substances only, for non-graphic purposes, n.e.c. in item no. 4810.31 and 4810.32, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Electric insulating press board",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "48103930",
+   "hs6": "481039",
+   "hs6_description": "Kraft paper and paperboard; coated with kaolin or other inorganic substances only, for non-graphic purposes, n.e.c. in item no. 4810.31 and 4810.32, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Insulation boards (homogenous)",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "48103990",
+   "hs6": "481039",
+   "hs6_description": "Kraft paper and paperboard; coated with kaolin or other inorganic substances only, for non-graphic purposes, n.e.c. in item no. 4810.31 and 4810.32, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "48109200",
+   "hs6": "481092",
+   "hs6_description": "Paper and paperboard; multi-ply, coated with kaolin or other inorganic substances only, for non-graphic purposes, n.e.c. in heading no. 4810, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other paper and paperboard : -- Multi-ply",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "48109900",
+   "hs6": "481099",
+   "hs6_description": "Paper and paperboard; coated with inorganic substances only, whether or not surface-coloured, surface-decorated or printed, n.e.c. in heading no. 4810, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other paper and paperboard : -- Other",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "4811",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Paper, paperboard, cellulose wadding and webs of cellulose fibres, coated, impregnated, covered, surface-coloured, surfacedecorated or printed, in rolls or rectangular (including square) sheets, of any size, other than goods of the kind described in heading 48.03, 48.09 or 48.10.",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "48111000",
+   "hs6": "481110",
+   "hs6_description": "Paper and paperboard; tarred, bituminised or asphalted, in rolls or sheets, other than goods of heading no. 4803, 4809, or 4810",
    "level": 8,
    "chapter": "48",
    "description": "Tarred, bituminised or asphalted paper and paperboard",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "48114100",
+   "hs6": "481141",
+   "hs6_description": "Paper and paperboard; self-adhesive, in rolls or sheets, other than goods of heading no. 4803, 4809, or 4810",
    "level": 8,
    "chapter": "48",
    "description": "Gummed or adhesive paper and paperboard : -- Self-adhesive",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "48114900",
+   "hs6": "481149",
+   "hs6_description": "Paper and paperboard; gummed or adhesive paper and paperboard (excluding self-adhesive), in rolls or sheets, other than goods of heading no. 4803, 4809, or 4810",
    "level": 8,
    "chapter": "48",
    "description": "Gummed or adhesive paper and paperboard : -- Other",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "481151",
+   "hs6": "481151",
+   "hs6_description": "Paper and paperboard; coated, impregnated or covered with plastics (excluding adhesives), bleached, weighing more than 150g/m2, other than goods of heading no. 4803, 4809, or 4810",
    "level": 6,
    "chapter": "48",
    "description": "Paper and paperboard coated, impregnated or covered with plastics (excluding adhesives) : -- Bleached, weighing more than 150 g/m²",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "48115110",
+   "hs6": "481151",
+   "hs6_description": "Paper and paperboard; coated, impregnated or covered with plastics (excluding adhesives), bleached, weighing more than 150g/m2, other than goods of heading no. 4803, 4809, or 4810",
    "level": 8,
    "chapter": "48",
    "description": "Aseptic packaging paper",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "48115190",
+   "hs6": "481151",
+   "hs6_description": "Paper and paperboard; coated, impregnated or covered with plastics (excluding adhesives), bleached, weighing more than 150g/m2, other than goods of heading no. 4803, 4809, or 4810",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "481159",
+   "hs6": "481159",
+   "hs6_description": "Paper and paperboard; coated, impregnated or covered with plastics (excluding adhesives), other than bleached and weighing more than 150g/m2, other than goods of heading no. 4803, 4809, or 4810",
    "level": 6,
    "chapter": "48",
    "description": "Paper and paperboard coated, impregnated or covered with plastics (excluding adhesives) : -- Other",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "48115910",
+   "hs6": "481159",
+   "hs6_description": "Paper and paperboard; coated, impregnated or covered with plastics (excluding adhesives), other than bleached and weighing more than 150g/m2, other than goods of heading no. 4803, 4809, or 4810",
    "level": 8,
    "chapter": "48",
    "description": "Aseptic packaging paper",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "48115990",
+   "hs6": "481159",
+   "hs6_description": "Paper and paperboard; coated, impregnated or covered with plastics (excluding adhesives), other than bleached and weighing more than 150g/m2, other than goods of heading no. 4803, 4809, or 4810",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "48116000",
+   "hs6": "481160",
+   "hs6_description": "Paper and paperboard; coated, impregnated or covered with wax, paraffin wax, stearin, oil or glycerol, other than goods of heading no. 4803, 4809, or 4810",
    "level": 8,
    "chapter": "48",
    "description": "Paper and paperboard, coated, impregnated or covered with wax, paraffin wax, stearin, oil or glycerol",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "481190",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 6,
    "chapter": "48",
    "description": "Other paper, paperboard, cellulose wadding and webs of cellulose fibres",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "48119011",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Hand made paper and paperboard, rules, lined or squared but not otherwise printed",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "48119012",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Chromo and art paper, coated",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "48119013",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Building board of paper or pulp, impregnated",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "48119014",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Chromo board",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "48119015",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Raw base paper for sensitising, coated",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "48119016",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Surface marbled paper",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "48119017",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Leather board and imitation leather board",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "48119018",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Matrix board",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "48119091",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "other ---- Grape guard paper",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "48119093",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "other ---- Thermal paper for fax machines",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "48119094",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other:----Thermal paper in jumbo rolls (of size 1 m and above in width and 5,000 m and above in length)",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "48119095",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other : ---- Thermal paper in jumbo rolls (of size 1 m and above in width and less than 5,000 m in length)",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "48119096",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "Other : ---- Thermal paper in rolls of size less than 1 m in width",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "48119099",
+   "hs6": "481190",
+   "hs6_description": "Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets",
    "level": 8,
    "chapter": "48",
    "description": "other ---- Other",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "48120000",
+   "hs6": "481200",
+   "hs6_description": "Paper pulp; filter blocks, slabs and plates of paper pulp",
    "level": 8,
    "chapter": "48",
    "description": "Filter blocks, slabs and plates, of paper pulp.",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "4813",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Cigarette paper, whether or not cut to size or in the form of booklets or tubes.",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "48131000",
+   "hs6": "481310",
+   "hs6_description": "Paper, cigarette; in the form of booklets or tubes",
    "level": 8,
    "chapter": "48",
    "description": "In the form of booklets or tubes",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "48132000",
+   "hs6": "481320",
+   "hs6_description": "Paper, cigarette; in rolls of a width not exceeding 5cm",
    "level": 8,
    "chapter": "48",
    "description": "In rolls of a width not exceeding 5 cm",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "481390",
+   "hs6": "481390",
+   "hs6_description": "Paper, cigarette; (other than in rolls of a width not exceeding 5cm, or in booklets or tubes)",
    "level": 6,
    "chapter": "48",
    "description": "Other",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "48139010",
+   "hs6": "481390",
+   "hs6_description": "Paper, cigarette; (other than in rolls of a width not exceeding 5cm, or in booklets or tubes)",
    "level": 8,
    "chapter": "48",
    "description": "Cigarette paper in bulk, or in sheets",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "48139090",
+   "hs6": "481390",
+   "hs6_description": "Paper, cigarette; (other than in rolls of a width not exceeding 5cm, or in booklets or tubes)",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "4814",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Wallpaper and similar wall coverings; window transparencies of paper.",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "48142000",
+   "hs6": "481420",
+   "hs6_description": "Wallpaper and similar wall coverings; coated or covered on the face side, with a grained, embossed, coloured, design-printed or otherwise decorated layer of plastics",
    "level": 8,
    "chapter": "48",
    "description": "Wallpaper and similar wall coverings, consisting of paper coated or covered, on the face side, with a grained, embossed, coloured, design-printed or otherwise decorated layer of plastics",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "48149000",
+   "hs6": "481490",
+   "hs6_description": "Wallpaper and similar wall coverings and window transparencies of paper; n.e.c. in heading 4814",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "4816",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Carbon paper, self-copy paper and other copying or transfer papers (other than those of heading 48.09), duplicator stencils and offset plates, of paper, whether or not put up in boxes.",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "481620",
+   "hs6": "481620",
+   "hs6_description": "Paper; self-copy paper (other than those of heading no. 4809), whether or not put up in boxes",
    "level": 6,
    "chapter": "48",
    "description": "Self-copy paper",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "48162010",
+   "hs6": "481620",
+   "hs6_description": "Paper; self-copy paper (other than those of heading no. 4809), whether or not put up in boxes",
    "level": 8,
    "chapter": "48",
    "description": "Duplicating paper, cut to size",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "48162020",
+   "hs6": "481620",
+   "hs6_description": "Paper; self-copy paper (other than those of heading no. 4809), whether or not put up in boxes",
    "level": 8,
    "chapter": "48",
    "description": "Paper for Fax machine",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "48162090",
+   "hs6": "481620",
+   "hs6_description": "Paper; self-copy paper (other than those of heading no. 4809), whether or not put up in boxes",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "481690",
+   "hs6": "481690",
+   "hs6_description": "Paper; carbon paper and other copying or transfer papers (other than those of heading no. 4809), n.e.c. in item no. 4816.20",
    "level": 6,
    "chapter": "48",
    "description": "Other",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "48169010",
+   "hs6": "481690",
+   "hs6_description": "Paper; carbon paper and other copying or transfer papers (other than those of heading no. 4809), n.e.c. in item no. 4816.20",
    "level": 8,
    "chapter": "48",
    "description": "Other copying or transfer papers (excluding printed transfer) cut to size whether or not put up in boxes",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "48169020",
+   "hs6": "481690",
+   "hs6_description": "Paper; carbon paper and other copying or transfer papers (other than those of heading no. 4809), n.e.c. in item no. 4816.20",
    "level": 8,
    "chapter": "48",
    "description": "Calculating machine paper in rolls and strips not exceeding 15 cm in width",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "48169090",
+   "hs6": "481690",
+   "hs6_description": "Paper; carbon paper and other copying or transfer papers (other than those of heading no. 4809), n.e.c. in item no. 4816.20",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "4817",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Envelopes, letter cards, plain postcards and correspondence cards, of paper or paperboard; boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationery.",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "48171000",
+   "hs6": "481710",
+   "hs6_description": "Paper and paperboard; envelopes",
    "level": 8,
    "chapter": "48",
    "description": "Envelopes",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "48172000",
+   "hs6": "481720",
+   "hs6_description": "Paper and paperboard; letter cards, plain postcards and correspondence cards",
    "level": 8,
    "chapter": "48",
    "description": "Letter cards, plain postcards and correspondence cards",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "481730",
+   "hs6": "481730",
+   "hs6_description": "Paper and paperboard; boxes, pouches, wallets and writing compendiums containing an assortment of paper stationery",
    "level": 6,
    "chapter": "48",
    "description": "Boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationery",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "48173010",
+   "hs6": "481730",
+   "hs6_description": "Paper and paperboard; boxes, pouches, wallets and writing compendiums containing an assortment of paper stationery",
    "level": 8,
    "chapter": "48",
    "description": "Writing blocks",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "48173090",
+   "hs6": "481730",
+   "hs6_description": "Paper and paperboard; boxes, pouches, wallets and writing compendiums containing an assortment of paper stationery",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "4818",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Toilet paper and similar paper, cellulose wadding or webs of cellulose fibres, of a kind used for household or sanitary purposes, in rolls of a width not exceeding 36 cm, or cut to size or shape; handkerchiefs, cleansing tissues, towels, tablecloths, serviettes, bed sheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories, of paper pulp, paper, cellulose wadding or webs of cellulose fibres.",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "48181000",
+   "hs6": "481810",
+   "hs6_description": "Paper articles; toilet paper",
    "level": 8,
    "chapter": "48",
    "description": "Toilet paper",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "48182000",
+   "hs6": "481820",
+   "hs6_description": "Paper articles; handkerchiefs, cleansing or facial tissues and towels",
    "level": 8,
    "chapter": "48",
    "description": "Handkerchiefs, cleansing or facial tissues and towels",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "48183000",
+   "hs6": "481830",
+   "hs6_description": "Paper articles; tablecloths and serviettes, of paper, cellulose wadding or fibres",
    "level": 8,
    "chapter": "48",
    "description": "Tablecloths and serviettes",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "48185000",
+   "hs6": "481850",
+   "hs6_description": "Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",
    "level": 8,
    "chapter": "48",
    "description": "Articles of apparel and clothing accessories",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "48189000",
+   "hs6": "481890",
+   "hs6_description": "Paper articles; articles of paper, cellulose wadding or fibres, n.e.c. in heading no. 4818",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "4819",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Cartons, boxes, cases, bags and other packing containers, of paper, paperboard, cellulose wadding or webs of cellulose fibres; ox files, letter trays, and similar articles, of paper or paperboard of a kind used in offices, shops or the like.",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "481910",
+   "hs6": "481910",
+   "hs6_description": "Paper and paperboard; cartons, boxes and cases, of corrugated paper or paperboard",
    "level": 6,
    "chapter": "48",
    "description": "Cartons, boxes and cases, of corrugated paper or paperboard",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "48191010",
+   "hs6": "481910",
+   "hs6_description": "Paper and paperboard; cartons, boxes and cases, of corrugated paper or paperboard",
    "level": 8,
    "chapter": "48",
    "description": "Boxes",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "48191090",
+   "hs6": "481910",
+   "hs6_description": "Paper and paperboard; cartons, boxes and cases, of corrugated paper or paperboard",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "481920",
+   "hs6": "481920",
+   "hs6_description": "Paper and paperboard; folding cartons, boxes and cases, of non-corrugated paper or paperboard",
    "level": 6,
    "chapter": "48",
    "description": "Folding cartons, boxes and cases, of Non-corrugated paper or paperboard",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "48192010",
+   "hs6": "481920",
+   "hs6_description": "Paper and paperboard; folding cartons, boxes and cases, of non-corrugated paper or paperboard",
    "level": 8,
    "chapter": "48",
    "description": "Cartons, boxes, cases, intended for the packing of match sticks",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "48192020",
+   "hs6": "481920",
+   "hs6_description": "Paper and paperboard; folding cartons, boxes and cases, of non-corrugated paper or paperboard",
    "level": 8,
    "chapter": "48",
    "description": "Boxes",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "48192090",
+   "hs6": "481920",
+   "hs6_description": "Paper and paperboard; folding cartons, boxes and cases, of non-corrugated paper or paperboard",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "48193000",
+   "hs6": "481930",
+   "hs6_description": "Paper and paperboard; sacks and bags of paper, paperboard, cellulose wadding or fibres, having a base of a width of 40cm or more",
    "level": 8,
    "chapter": "48",
    "description": "Sacks and bags, having a base of a width of 40 cm or more",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "48194000",
+   "hs6": "481940",
+   "hs6_description": "Paper and paperboard; sacks and bags, including cones, of paper, paperboard, cellulose wadding or fibres, having a base width less than 40cm",
    "level": 8,
    "chapter": "48",
    "description": "Other sacks and bags, including cones",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "481950",
+   "hs6": "481950",
+   "hs6_description": "Paper and paperboard; packing containers, including record sleeves, of paper, paperboard, cellulose wadding or fibres, n.e.c. in heading no. 4819",
    "level": 6,
    "chapter": "48",
    "description": "Other packing containers, including record sleeves",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "48195010",
+   "hs6": "481950",
+   "hs6_description": "Paper and paperboard; packing containers, including record sleeves, of paper, paperboard, cellulose wadding or fibres, n.e.c. in heading no. 4819",
    "level": 8,
    "chapter": "48",
    "description": "Made of corrugated paper or paperboard",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "48195090",
+   "hs6": "481950",
+   "hs6_description": "Paper and paperboard; packing containers, including record sleeves, of paper, paperboard, cellulose wadding or fibres, n.e.c. in heading no. 4819",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "48196000",
+   "hs6": "481960",
+   "hs6_description": "Paper and paperboard; box files, letter trays, storage boxes and similar articles, used in offices, shops or the like of paper, paperboard, cellulose wadding or webs of cellulose fibres",
    "level": 8,
    "chapter": "48",
    "description": "Box files, letter trays, storage boxes and similar articles, of a kind used in offices, shops or the like",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "4820",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Registers, account books, note books, order books, receipt books,letter pads, memorandum pads, diaries and similar articles, exercise books, blotting-pads, binders (loose-leaf or other), folders, file covers, manifold business forms, interleaved carbon sets and other articles of stationery, of paper or paperboard; albums for samples or for collections and book covers, of paper or paperboard.",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "482010",
+   "hs6": "482010",
+   "hs6_description": "Paper and paperboard; registers, account books, note books, order books, receipt books, letter pads, memorandum pads, diaries and similar articles",
    "level": 6,
    "chapter": "48",
    "description": "Registers, account books, note books, order books, receipt books, letter pads, memorandum pads, diaries and similar articles",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "48201010",
+   "hs6": "482010",
+   "hs6_description": "Paper and paperboard; registers, account books, note books, order books, receipt books, letter pads, memorandum pads, diaries and similar articles",
    "level": 8,
    "chapter": "48",
    "description": "Registers, account books",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "48201020",
+   "hs6": "482010",
+   "hs6_description": "Paper and paperboard; registers, account books, note books, order books, receipt books, letter pads, memorandum pads, diaries and similar articles",
    "level": 8,
    "chapter": "48",
    "description": "Letter pads",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "48201090",
+   "hs6": "482010",
+   "hs6_description": "Paper and paperboard; registers, account books, note books, order books, receipt books, letter pads, memorandum pads, diaries and similar articles",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "48202000",
+   "hs6": "482020",
+   "hs6_description": "Paper and paperboard; exercise books",
    "level": 8,
    "chapter": "48",
    "description": "Exercise books",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "48203000",
+   "hs6": "482030",
+   "hs6_description": "Paper and paperboard; binders, folders and file covers",
    "level": 8,
    "chapter": "48",
    "description": "Binders (other than book covers), folders and file covers",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "48204000",
+   "hs6": "482040",
+   "hs6_description": "Paper and paperboard; manifold business forms and interleaved carbon sets",
    "level": 8,
    "chapter": "48",
    "description": "Manifold business forms and interleaved carbon sets",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "48205000",
+   "hs6": "482050",
+   "hs6_description": "Paper and paperboard; albums for samples or for collections",
    "level": 8,
    "chapter": "48",
    "description": "Albums for samples or for collections",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "482090",
+   "hs6": "482090",
+   "hs6_description": "Paper or paperboard; stationery n.e.c. in heading no. 4820",
    "level": 6,
    "chapter": "48",
    "description": "Other",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "48209010",
+   "hs6": "482090",
+   "hs6_description": "Paper or paperboard; stationery n.e.c. in heading no. 4820",
    "level": 8,
    "chapter": "48",
    "description": "Blotting paper cut to size",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "48209090",
+   "hs6": "482090",
+   "hs6_description": "Paper or paperboard; stationery n.e.c. in heading no. 4820",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "4821",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Paper or paperboard labels of all kinds, whether or not printed.",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "482110",
+   "hs6": "482110",
+   "hs6_description": "Paper and paperboard; labels or all kinds, printed",
    "level": 6,
    "chapter": "48",
    "description": "Printed",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "48211010",
+   "hs6": "482110",
+   "hs6_description": "Paper and paperboard; labels or all kinds, printed",
    "level": 8,
    "chapter": "48",
    "description": "Paper tags",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "48211020",
+   "hs6": "482110",
+   "hs6_description": "Paper and paperboard; labels or all kinds, printed",
    "level": 8,
    "chapter": "48",
    "description": "Labels",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "48211090",
+   "hs6": "482110",
+   "hs6_description": "Paper and paperboard; labels or all kinds, printed",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "482190",
+   "hs6": "482190",
+   "hs6_description": "Paper and paperboard; labels of all kinds, unprinted",
    "level": 6,
    "chapter": "48",
    "description": "Other",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "48219010",
+   "hs6": "482190",
+   "hs6_description": "Paper and paperboard; labels of all kinds, unprinted",
    "level": 8,
    "chapter": "48",
    "description": "Labels",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "48219090",
+   "hs6": "482190",
+   "hs6_description": "Paper and paperboard; labels of all kinds, unprinted",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "4822",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Bobbins, spools, cops and similar supports of paper pulp, paper or paperboard (whether or not perforated or hardened).",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "48221000",
+   "hs6": "482210",
+   "hs6_description": "Paper pulp, paper or paperboard; bobbins, spools, cops and similar supports, of a kind used for winding textile yarn (whether or not perforated or hardened)",
    "level": 8,
    "chapter": "48",
    "description": "Of a kind used for winding textile yarn",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "482290",
+   "hs6": "482290",
+   "hs6_description": "Paper pulp, paper or paperboard; bobbins, spools, cops and similar supports, other than of a kind used for winding textile yarn (whether or not perforated or hardened)",
    "level": 6,
    "chapter": "48",
    "description": "Other",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "48229010",
+   "hs6": "482290",
+   "hs6_description": "Paper pulp, paper or paperboard; bobbins, spools, cops and similar supports, other than of a kind used for winding textile yarn (whether or not perforated or hardened)",
    "level": 8,
    "chapter": "48",
    "description": "Paper tubes",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "48229090",
+   "hs6": "482290",
+   "hs6_description": "Paper pulp, paper or paperboard; bobbins, spools, cops and similar supports, other than of a kind used for winding textile yarn (whether or not perforated or hardened)",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "4823",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "48",
    "description": "Other paper, paperboard, cellulose wadding and webs of cellulose fibres, cut to size or shape; other articles of paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres.",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "48232000",
+   "hs6": "482320",
+   "hs6_description": "Paper and paperboard; filter paper and paperboard",
    "level": 8,
    "chapter": "48",
    "description": "Filter paper and paperboard",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "48234000",
+   "hs6": "482340",
+   "hs6_description": "Paper and paperboard; rolls, sheets and dials, printed for self-recording apparatus",
    "level": 8,
    "chapter": "48",
    "description": "Rolls, sheets and dials, printed for self-recording apparatus",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "48236100",
+   "hs6": "482361",
+   "hs6_description": "Paper and paperboard; trays, dishes, plates, cups and the like, of bamboo paper or paperboard",
    "level": 8,
    "chapter": "48",
    "description": "Trays, dishes, plates, cups and the like, of paper or paperboard : -- Of bamboo",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "48236900",
+   "hs6": "482369",
+   "hs6_description": "Paper and paperboard; trays, dishes, plates, cups and the like, of paper or paperboard other than of bamboo",
    "level": 8,
    "chapter": "48",
    "description": "Trays, dishes, plates, cups and the like, of paper or paperboard : -- Other",
@@ -3033,6 +3537,8 @@
   },
   {
    "hs_code": "482370",
+   "hs6": "482370",
+   "hs6_description": "Paper pulp; moulded or pressed articles or paper pulp",
    "level": 6,
    "chapter": "48",
    "description": "Moulded or pressed articles of paper pulp",
@@ -3045,6 +3551,8 @@
   },
   {
    "hs_code": "48237010",
+   "hs6": "482370",
+   "hs6_description": "Paper pulp; moulded or pressed articles or paper pulp",
    "level": 8,
    "chapter": "48",
    "description": "Paper pulp moulded trays",
@@ -3057,6 +3565,8 @@
   },
   {
    "hs_code": "48237020",
+   "hs6": "482370",
+   "hs6_description": "Paper pulp; moulded or pressed articles or paper pulp",
    "level": 8,
    "chapter": "48",
    "description": "Wood pulp board",
@@ -3069,6 +3579,8 @@
   },
   {
    "hs_code": "48237030",
+   "hs6": "482370",
+   "hs6_description": "Paper pulp; moulded or pressed articles or paper pulp",
    "level": 8,
    "chapter": "48",
    "description": "Articles made of paper mache other than artware and mounded or pressed goods of wood pulp",
@@ -3081,6 +3593,8 @@
   },
   {
    "hs_code": "48237090",
+   "hs6": "482370",
+   "hs6_description": "Paper pulp; moulded or pressed articles or paper pulp",
    "level": 8,
    "chapter": "48",
    "description": "Other",
@@ -3093,6 +3607,8 @@
   },
   {
    "hs_code": "482390",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 6,
    "chapter": "48",
    "description": "Other",
@@ -3105,6 +3621,8 @@
   },
   {
    "hs_code": "48239011",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Braille paper",
@@ -3117,6 +3635,8 @@
   },
   {
    "hs_code": "48239012",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Cellulose in sole board or sheet",
@@ -3129,6 +3649,8 @@
   },
   {
    "hs_code": "48239013",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Packing and wrapping paper",
@@ -3141,6 +3663,8 @@
   },
   {
    "hs_code": "48239014",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Paper for cigarette filter tips",
@@ -3153,6 +3677,8 @@
   },
   {
    "hs_code": "48239015",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Paper cone for loud speaker",
@@ -3165,6 +3691,8 @@
   },
   {
    "hs_code": "48239016",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Patterns made of papers for leather footwear, leather garments and goods",
@@ -3177,6 +3705,8 @@
   },
   {
    "hs_code": "48239017",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Patterns made of paper for articles of apparel and clothing accessories",
@@ -3189,6 +3719,8 @@
   },
   {
    "hs_code": "48239018",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Products consisting of sheets of paper or paper board, impregnated, coated or covered with plastics (including thermoset resins or mixtures thereof or chemical formulations containing melamine, phenol or urea formaldehyde with or without curing agents or catalysts), compressed together in one or more operations",
@@ -3201,6 +3733,8 @@
   },
   {
    "hs_code": "48239019",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Decorative laminates",
@@ -3213,6 +3747,8 @@
   },
   {
    "hs_code": "48239021",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Pre-punched cards; monotype and newstape paper in strips with perforated edges, not exceeding 15 cm in width; typewriting paper cut to size and the like: ---- Pre-punched cards",
@@ -3225,6 +3761,8 @@
   },
   {
    "hs_code": "48239022",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Pre-punched cards; monotype and newstape paper in strips with perforated edges, not exceeding 15 cm in width; typewriting paper cut to size and the like: ---- Monotype and newstape paper in strips with perforated edges, not exceeding 15cm in width",
@@ -3237,6 +3775,8 @@
   },
   {
    "hs_code": "48239023",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Pre-punched cards; monotype and newstape paper in strips with perforated edges, not exceeding 15 cm in width; typewriting paper cut to size and the like: ---- Typewriting paper cut to size",
@@ -3249,6 +3789,8 @@
   },
   {
    "hs_code": "48239030",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Pre-punched cards; monotype and newstape paper in strips with perforated edges, not exceeding 15 cm in width; typewriting paper cut to size and the like: ---- Plain or embossed seals made of paper, laminated paper or paper gaskets",
@@ -3261,6 +3803,8 @@
   },
   {
    "hs_code": "48239040",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "--- Kites",
@@ -3273,6 +3817,8 @@
   },
   {
    "hs_code": "48239090",
+   "hs6": "482390",
+   "hs6_description": "Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823",
    "level": 8,
    "chapter": "48",
    "description": "Pre-punched cards; monotype and newstape paper in strips with perforated edges, not exceeding 15 cm in width; typewriting paper cut to size and the like: ---- Other",

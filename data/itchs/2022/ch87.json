@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "8701",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Tractors (other than tractors of heading 87.09).",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "87011000",
+   "hs6": "870110",
+   "hs6_description": "Tractors; single axle",
    "level": 8,
    "chapter": "87",
    "description": "Single axle tractors",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "87012100",
+   "hs6": "870121",
+   "hs6_description": "Tractors; road tractors for semi-trailers, with only compression-ignition internal combustion piston engine (diesel or semi-diesel)",
    "level": 8,
    "chapter": "87",
    "description": "Road tractors for semi-trailers: - - With only compression-ignition internal combustion piston engine (diesel or semi-diesel)",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "87012200",
+   "hs6": "870122",
+   "hs6_description": "Tractors; road tractors for semi-trailers, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motors for propulsion",
    "level": 8,
    "chapter": "87",
    "description": "Road tractors for semi-trailers: - - With both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "87012300",
+   "hs6": "870123",
+   "hs6_description": "Tractors; road tractors for semi-trailers, with both spark-ignition internal combustion piston engine and electric motors for propulsion",
    "level": 8,
    "chapter": "87",
    "description": "Road tractors for semi-trailers: - - With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "87012400",
+   "hs6": "870124",
+   "hs6_description": "Tractors; road tractors for semi-trailers, with only electric motors for propulsion",
    "level": 8,
    "chapter": "87",
    "description": "Road tractors for semi-trailers: - - With only electric motor for propulsion",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "87012900",
+   "hs6": "870129",
+   "hs6_description": "Tractors; road tractors for semi-trailers, with other propulsion methods n.e.c. in item no 8701.2",
    "level": 8,
    "chapter": "87",
    "description": "Road tractors for semi-trailers: - - Other",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "870130",
+   "hs6": "870130",
+   "hs6_description": "Tractors; track-laying",
    "level": 6,
    "chapter": "87",
    "description": "Track-laying tractors",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "87013011",
+   "hs6": "870130",
+   "hs6_description": "Tractors; track-laying",
    "level": 8,
    "chapter": "87",
    "description": "Garden tractors: ----Of engine capacity not exceeding 1800 cc",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "87013019",
+   "hs6": "870130",
+   "hs6_description": "Tractors; track-laying",
    "level": 8,
    "chapter": "87",
    "description": "Garden tractors: ----Other",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "87013091",
+   "hs6": "870130",
+   "hs6_description": "Tractors; track-laying",
    "level": 8,
    "chapter": "87",
    "description": "other ----Of engine capacity not exceeding 1800 cc",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "87013099",
+   "hs6": "870130",
+   "hs6_description": "Tractors; track-laying",
    "level": 8,
    "chapter": "87",
    "description": "other ----Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "87019100",
+   "hs6": "870191",
+   "hs6_description": "Tractors; n.e.c. in heading no 8701 (other than tractors of heading no 8709); of an engine power not exceeding 18kW",
    "level": 8,
    "chapter": "87",
    "description": "Other, of an engine power : -- Not exceeding 18 kW",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "87019200",
+   "hs6": "870192",
+   "hs6_description": "Tractors; n.e.c. in heading no 8701 (other than tractors of heading no 8709); of an engine power exceeding 18kW but not exceeding 37kW",
    "level": 8,
    "chapter": "87",
    "description": "Other, of an engine power : -- Exceeding 18 kW but not exceeding 37 kW",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "87019300",
+   "hs6": "870193",
+   "hs6_description": "Tractors; n.e.c. in heading no 8701 (other than tractors of heading no 8709); of an engine power exceeding 37kW but not exceeding 75kW",
    "level": 8,
    "chapter": "87",
    "description": "Other, of an engine power : -- Exceeding 37 kW but not exceeding 75 kW",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "87019400",
+   "hs6": "870194",
+   "hs6_description": "Tractors; n.e.c. in heading no 8701 (other than tractors of heading no 8709); of an engine power exceeding 75kW but not exceeding 130kW",
    "level": 8,
    "chapter": "87",
    "description": "Other, of an engine power : -- Exceeding 75 kW but not exceeding 130 kW",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "87019500",
+   "hs6": "870195",
+   "hs6_description": "Tractors; n.e.c. in heading no 8701 (other than tractors of heading no 8709); of an engine power exceeding 130kW",
    "level": 8,
    "chapter": "87",
    "description": "Other, of an engine power : -- Exceeding 130 kW",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "8702",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Motor vehicles for the transport of ten or more persons, including the driver.",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "870210",
+   "hs6": "870210",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only compression-ignition internal combustion piston engine (diesel or semi-diesel), new or used",
    "level": 6,
    "chapter": "87",
    "description": "With only compression-ignition internal combustion piston engine (diesel or semi-diesel)",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "87021011",
+   "hs6": "870210",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only compression-ignition internal combustion piston engine (diesel or semi-diesel), new or used",
    "level": 8,
    "chapter": "87",
    "description": "Integrated monocoque vehicle, air-conditioned",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "87021012",
+   "hs6": "870210",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only compression-ignition internal combustion piston engine (diesel or semi-diesel), new or used",
    "level": 8,
    "chapter": "87",
    "description": "Integrated monocoque vehicle, non air-conditioned",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "87021018",
+   "hs6": "870210",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only compression-ignition internal combustion piston engine (diesel or semi-diesel), new or used",
    "level": 8,
    "chapter": "87",
    "description": "Other, air-conditioned",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "87021019",
+   "hs6": "870210",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only compression-ignition internal combustion piston engine (diesel or semi-diesel), new or used",
    "level": 8,
    "chapter": "87",
    "description": "Other, non air-conditioned",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "87021021",
+   "hs6": "870210",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only compression-ignition internal combustion piston engine (diesel or semi-diesel), new or used",
    "level": 8,
    "chapter": "87",
    "description": "other ----Integrated monocoque vehicle, air-conditioned",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "87021022",
+   "hs6": "870210",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only compression-ignition internal combustion piston engine (diesel or semi-diesel), new or used",
    "level": 8,
    "chapter": "87",
    "description": "other ----Integrated monocoque vehicle, non air-conditioned",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "87021028",
+   "hs6": "870210",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only compression-ignition internal combustion piston engine (diesel or semi-diesel), new or used",
    "level": 8,
    "chapter": "87",
    "description": "other ----Other, air-conditioned",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "87021029",
+   "hs6": "870210",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only compression-ignition internal combustion piston engine (diesel or semi-diesel), new or used",
    "level": 8,
    "chapter": "87",
    "description": "other ----Other, non air-conditioned",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "870220",
+   "hs6": "870220",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 6,
    "chapter": "87",
    "description": "With both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "87022011",
+   "hs6": "870220",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, air-conditioned",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "87022012",
+   "hs6": "870220",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, non air-conditioned",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "87022018",
+   "hs6": "870220",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Other, air-conditioned",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "87022019",
+   "hs6": "870220",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Other, non air-conditioned",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "87022021",
+   "hs6": "870220",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "other ----Integrated monocoque vehicle, air-conditioned",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "87022022",
+   "hs6": "870220",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "other ----Integrated monocoque vehicle, non air-conditioned",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "87022028",
+   "hs6": "870220",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "other ----Other, air-conditioned",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "87022029",
+   "hs6": "870220",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "other ----Other, non air-conditioned",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "870230",
+   "hs6": "870230",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 6,
    "chapter": "87",
    "description": "With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion:",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "87023011",
+   "hs6": "870230",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, air-conditioned",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "87023012",
+   "hs6": "870230",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, non air-conditioned",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "87023018",
+   "hs6": "870230",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Other, air-conditioned",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "87023019",
+   "hs6": "870230",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Other, non air-conditioned",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "87023021",
+   "hs6": "870230",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "other ----Integrated monocoque vehicle, air-conditioned",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "87023022",
+   "hs6": "870230",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "other ----Integrated monocoque vehicle, non air-conditioned",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "87023028",
+   "hs6": "870230",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "other ----Other, air-conditioned",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "87023029",
+   "hs6": "870230",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "other ----Other, non air-conditioned",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "870240",
+   "hs6": "870240",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only electric motor for propulsion, new or used",
    "level": 6,
    "chapter": "87",
    "description": "With only electric motor for propulsion",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "87024011",
+   "hs6": "870240",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, air-conditioned",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "87024012",
+   "hs6": "870240",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, non air-conditioned",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "87024018",
+   "hs6": "870240",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Other, air-conditioned",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "87024019",
+   "hs6": "870240",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Other, non air-conditioned",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "87024021",
+   "hs6": "870240",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Integrated monocoque vehicle, air-conditioned",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "87024022",
+   "hs6": "870240",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Integrated monocoque vehicle, non air-conditioned",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "87024028",
+   "hs6": "870240",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Other, air-conditioned",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "87024029",
+   "hs6": "870240",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), with only electric motor for propulsion, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Other, non air-conditioned",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "870290",
+   "hs6": "870290",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), n.e.c. in heading 8702, new or used",
    "level": 6,
    "chapter": "87",
    "description": "Other",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "87029011",
+   "hs6": "870290",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), n.e.c. in heading 8702, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, air-conditioned",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "87029012",
+   "hs6": "870290",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), n.e.c. in heading 8702, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Integrated monocoque vehicle, non air-conditioned",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "87029018",
+   "hs6": "870290",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), n.e.c. in heading 8702, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles for transport of not more than 13 persons, including the driver: ----Other, air-conditioned",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "87029019",
+   "hs6": "870290",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), n.e.c. in heading 8702, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Other, non air-conditioned other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "87029021",
+   "hs6": "870290",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), n.e.c. in heading 8702, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Integrated monocoque vehicle, air-conditioned",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "87029022",
+   "hs6": "870290",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), n.e.c. in heading 8702, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Integrated monocoque vehicle, non air-conditioned",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "87029028",
+   "hs6": "870290",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), n.e.c. in heading 8702, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Other, air-conditioned",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "87029029",
+   "hs6": "870290",
+   "hs6_description": "Vehicles; public transport type (carries 10 or more persons, including driver), n.e.c. in heading 8702, new or used",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Other, non air-conditioned",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "8703",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 87.02), including station wagons and racing cars.",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "870310",
+   "hs6": "870310",
+   "hs6_description": "Vehicles; specially designed for travelling on snow, golf cars and similar vehicles",
    "level": 6,
    "chapter": "87",
    "description": "Vehicles specially designed for travelling on snow; golf cars and similar vehicles",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "87031010",
+   "hs6": "870310",
+   "hs6_description": "Vehicles; specially designed for travelling on snow, golf cars and similar vehicles",
    "level": 8,
    "chapter": "87",
    "description": "Electrically operated",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "87031090",
+   "hs6": "870310",
+   "hs6_description": "Vehicles; specially designed for travelling on snow, golf cars and similar vehicles",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "870321",
+   "hs6": "870321",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, cylinder capacity not over 1000cc",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles, with only spark-ignition internal combustion reciprocating piston engine : -- Of a cylinder capacity not exceeding 1,000 cc",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "87032110",
+   "hs6": "870321",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, cylinder capacity not over 1000cc",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles principally designed for the transport of more than seven persons, including the driver",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "87032120",
+   "hs6": "870321",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, cylinder capacity not over 1000cc",
    "level": 8,
    "chapter": "87",
    "description": "Three-wheeled vehicles",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "87032191",
+   "hs6": "870321",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, cylinder capacity not over 1000cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Motor cars",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "87032192",
+   "hs6": "870321",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, cylinder capacity not over 1000cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Specialised transport vehicles such as ambulances, prison vans and the like",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "87032199",
+   "hs6": "870321",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, cylinder capacity not over 1000cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Other",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "870322",
+   "hs6": "870322",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, cylinder capacity over 1000 but not over 1500cc",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles, with only spark-ignition internal combustion reciprocating piston engine : -- Of a cylinder capacity exceeding 1,000 cc but not exceeding 1,500 cc",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "87032210",
+   "hs6": "870322",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, cylinder capacity over 1000 but not over 1500cc",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles principally designed for the transport of more than seven persons, including the driver",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "87032220",
+   "hs6": "870322",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, cylinder capacity over 1000 but not over 1500cc",
    "level": 8,
    "chapter": "87",
    "description": "Specialised transport vehicles such as ambulances, prison vans and the like",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "87032230",
+   "hs6": "870322",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, cylinder capacity over 1000 but not over 1500cc",
    "level": 8,
    "chapter": "87",
    "description": "Three-wheeled vehicles",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "87032291",
+   "hs6": "870322",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, cylinder capacity over 1000 but not over 1500cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Motor cars",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "87032299",
+   "hs6": "870322",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, cylinder capacity over 1000 but not over 1500cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Other",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "870323",
+   "hs6": "870323",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles, with only spark-ignition internal combustion reciprocating piston engine : -- Of a cylinder capacity exceeding 1,500 cc but not exceeding 3,000 cc",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "87032310",
+   "hs6": "870323",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles principally designed for the transport of more than seven persons, including the driver",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "87032320",
+   "hs6": "870323",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
    "level": 8,
    "chapter": "87",
    "description": "Three-wheeled vehicles",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "87032391",
+   "hs6": "870323",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Motor cars",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "87032392",
+   "hs6": "870323",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Specialized transport vehicles such as ambulances, prison vans and the like",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "87032399",
+   "hs6": "870323",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Other",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "870324",
+   "hs6": "870324",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles, with only spark-ignition internal combustion reciprocating piston engine : -- Of a cylinder capacity exceeding 3,000 cc",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "87032410",
+   "hs6": "870324",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles principally designed for the transport of more than seven persons, including the driver",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "87032420",
+   "hs6": "870324",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",
    "level": 8,
    "chapter": "87",
    "description": "Three-wheeled vehicles",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "87032491",
+   "hs6": "870324",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Motor cars",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "87032492",
+   "hs6": "870324",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Specialised transport vehicles such as ambulances, prison vans and the like",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "87032499",
+   "hs6": "870324",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Other",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "870331",
+   "hs6": "870331",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity not over 1500cc",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles, with only compression-ignition internal combustion piston engine (diesel or semi-diesel) : -- Of a cylinder capacity not exceeding 1,500 cc",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "87033110",
+   "hs6": "870331",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity not over 1500cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Vehicles principally designed for the transport of more than seven persons, including the driver",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "87033191",
+   "hs6": "870331",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity not over 1500cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Motor cars",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "87033192",
+   "hs6": "870331",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity not over 1500cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Specialised transport vehicles such as ambulances, prison vans and the like",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "87033199",
+   "hs6": "870331",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity not over 1500cc",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "870332",
+   "hs6": "870332",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity over 1500 but not over 2500cc",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles, with only compression-ignition internal combustion piston engine (diesel or semi-diesel) : -- Of a cylinder capacity exceeding 1,500 cc but not exceeding 2,500 cc",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "87033210",
+   "hs6": "870332",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity over 1500 but not over 2500cc",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles principally designed for the transport of more than seven persons, including the driver",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "87033291",
+   "hs6": "870332",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity over 1500 but not over 2500cc",
    "level": 8,
    "chapter": "87",
    "description": "Motor cars",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "87033292",
+   "hs6": "870332",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity over 1500 but not over 2500cc",
    "level": 8,
    "chapter": "87",
    "description": "Specialised transport vehicles such as ambulances, prison vans and the like",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "87033299",
+   "hs6": "870332",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity over 1500 but not over 2500cc",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "870333",
+   "hs6": "870333",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity over 2500cc",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles, with only compression-ignition internal combustion piston engine (diesel or semi-diesel) : -- Of a cylinder capacity exceeding 2,500 cc",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "87033310",
+   "hs6": "870333",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity over 2500cc",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles principally designed for the transport of more than seven persons, including the driver",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "87033320",
+   "hs6": "870333",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity over 2500cc",
    "level": 8,
    "chapter": "87",
    "description": "Three-wheeled vehicles other",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "87033391",
+   "hs6": "870333",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity over 2500cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Motor cars",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "87033392",
+   "hs6": "870333",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity over 2500cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Specialised transport vehicles such as ambulances, prison vans and the like",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "87033399",
+   "hs6": "870333",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), cylinder capacity over 2500cc",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Other",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "870340",
+   "hs6": "870340",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motor for propulsion, incapable of being charged by plugging to external source of electric power",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion, other than those capable of being charged by plugging to external source of electric power:",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "87034010",
+   "hs6": "870340",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motor for propulsion, incapable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles principally designed for transport of more than seven persons, including driver",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "87034020",
+   "hs6": "870340",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motor for propulsion, incapable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Specialised transport vehicles such as ambulances, prison vans and the like",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "87034030",
+   "hs6": "870340",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motor for propulsion, incapable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Motor cars",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "87034040",
+   "hs6": "870340",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motor for propulsion, incapable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Three-wheeled vehicles",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "87034090",
+   "hs6": "870340",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motor for propulsion, incapable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "870350",
+   "hs6": "870350",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, incapable of being charged by plugging to external source of electric power",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion, other than those capable of being charged by plugging to external source of electric power",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "87035010",
+   "hs6": "870350",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, incapable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles principally designed for transport of more than seven persons, including driver",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "87035020",
+   "hs6": "870350",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, incapable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Specialised transport vehicles such as ambulances, prison vans and the like",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "87035030",
+   "hs6": "870350",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, incapable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Motor cars",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "87035040",
+   "hs6": "870350",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, incapable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Three-wheeled vehicles",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "87035090",
+   "hs6": "870350",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, incapable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "870360",
+   "hs6": "870360",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motor for propulsion, capable of being charged by plugging to external source of electric power",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power:",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "87036010",
+   "hs6": "870360",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motor for propulsion, capable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles principally designed for transport of more than seven persons, including driver",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "87036020",
+   "hs6": "870360",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motor for propulsion, capable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Specialised transport vehicles such as ambulances, prison vans and the like",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "87036030",
+   "hs6": "870360",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motor for propulsion, capable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Motor cars",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "87036040",
+   "hs6": "870360",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motor for propulsion, capable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Three-wheeled vehicles",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "87036090",
+   "hs6": "870360",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motor for propulsion, capable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "870370",
+   "hs6": "870370",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, capable of being charged by plugging to external source of electric power",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "87037010",
+   "hs6": "870370",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, capable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles principally designed for transport of more than seven persons, including driver",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "87037020",
+   "hs6": "870370",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, capable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Specialised transport vehicles such as ambulances, prison vans and the like",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "87037030",
+   "hs6": "870370",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, capable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Motor cars",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "87037040",
+   "hs6": "870370",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, capable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Three-wheeled vehicles",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "87037090",
+   "hs6": "870370",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor for propulsion, capable of being charged by plugging to external source of electric power",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "870380",
+   "hs6": "870380",
+   "hs6_description": "Vehicles; with only electric motor for propulsion",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles, with only electric motor for propulsion",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "87038010",
+   "hs6": "870380",
+   "hs6_description": "Vehicles; with only electric motor for propulsion",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles principally designed for transport of more than seven persons, including driver",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "87038020",
+   "hs6": "870380",
+   "hs6_description": "Vehicles; with only electric motor for propulsion",
    "level": 8,
    "chapter": "87",
    "description": "Specialised transport vehicles such as ambulances, prison vans and the like",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "87038030",
+   "hs6": "870380",
+   "hs6_description": "Vehicles; with only electric motor for propulsion",
    "level": 8,
    "chapter": "87",
    "description": "Motor cars",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "87038040",
+   "hs6": "870380",
+   "hs6_description": "Vehicles; with only electric motor for propulsion",
    "level": 8,
    "chapter": "87",
    "description": "Three-wheeled vehicles",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "87038090",
+   "hs6": "870380",
+   "hs6_description": "Vehicles; with only electric motor for propulsion",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "87039000",
+   "hs6": "870390",
+   "hs6_description": "Vehicles; for transport of persons (other than those of heading no. 8702) n.e.c. in heading no. 8703",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "8704",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Motor vehicles for the transport of goods.",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "870410",
+   "hs6": "870410",
+   "hs6_description": "Vehicles; dumpers, designed for off-highway use, for transport of goods",
    "level": 6,
    "chapter": "87",
    "description": "Dumpers designed for off-highway use",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "87041010",
+   "hs6": "870410",
+   "hs6_description": "Vehicles; dumpers, designed for off-highway use, for transport of goods",
    "level": 8,
    "chapter": "87",
    "description": "With net weight (excluding pay-load) exceeding 8 tonnes and maximum pay-load capacity not less than 10 tonnes",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "87041090",
+   "hs6": "870410",
+   "hs6_description": "Vehicles; dumpers, designed for off-highway use, for transport of goods",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "87042100",
+   "hs6": "870421",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), for transport of goods, (of a gvw not exceeding 5 tonnes), n.e.c. in item no 8704.1",
    "level": 8,
    "chapter": "87",
    "description": "Other, with only compression-ignition internal combustion piston engine (diesel or semi-diesel): - - g.v.w. not exceeding 5 tonnes",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "87042200",
+   "hs6": "870422",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), for transport of goods, (of a g.v.w. exceeding 5 tonnes but not exceeding 20 tonnes), n.e.c. in item no 8704.1",
    "level": 8,
    "chapter": "87",
    "description": "Other, with only compression-ignition internal combustion piston engine (diesel or semi-diesel): - - g.v.w. exceeding 5 tonnes but not exceeding 20 tonnes",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "87042219",
+   "hs6": "870422",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), for transport of goods, (of a g.v.w. exceeding 5 tonnes but not exceeding 20 tonnes), n.e.c. in item no 8704.1",
    "level": 8,
    "chapter": "87",
    "description": "Lorries and trucks: ----Other",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "87042300",
+   "hs6": "870423",
+   "hs6_description": "Vehicles; with only compression-ignition internal combustion piston engine (diesel or semi-diesel), for transport of goods, (of a g.v.w. exceeding 20 tonnes), n.e.c. in item no 8704.1",
    "level": 8,
    "chapter": "87",
    "description": "Other, with only compression-ignition internal combustion piston engine (diesel or semi-diesel): - - g.v.w. exceeding 20 tonnes",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "87043100",
+   "hs6": "870431",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, for transport of goods, (of a g.v.w. not exceeding 5 tonnes), n.e.c. in item no 8704.1",
    "level": 8,
    "chapter": "87",
    "description": "Other, with only spark-ignition internal combustion piston engine - - g.v.w. not exceeding 5 tonnes",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "87043200",
+   "hs6": "870432",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, for transport of goods, (of a g.v.w. exceeding 5 tonnes), n.e.c. in item no 8704.1",
    "level": 8,
    "chapter": "87",
    "description": "Other, with only spark-ignition internal combustion piston engine - - g.v.w. exceeding 5 tonnes",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "87043219",
+   "hs6": "870432",
+   "hs6_description": "Vehicles; with only spark-ignition internal combustion piston engine, for transport of goods, (of a g.v.w. exceeding 5 tonnes), n.e.c. in item no 8704.1",
    "level": 8,
    "chapter": "87",
    "description": "Lorries and trucks: ----Other",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "87044100",
+   "hs6": "870441",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel/semi-diesel) and electric motor as motor for propulsion, unassembled as in section 14, (gvw not exceeding 5000kg), for the transport of goods, vans",
    "level": 8,
    "chapter": "87",
    "description": "Other, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion: - - g.v.w. not exceeding 5 tonnes",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "87044200",
+   "hs6": "870442",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel/semi-diesel) and electric motors for propulsion, of a g.v.w. exceeding 5,000kg but not exceeding 20,000kg",
    "level": 8,
    "chapter": "87",
    "description": "Other, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion: - - g.v.w. exceeding 5 tonnes but not exceeding 20 tonnes",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "87044300",
+   "hs6": "870443",
+   "hs6_description": "Vehicles; with both compression-ignition internal combustion piston engine (diesel/semi-diesel) and electric motors for propulsion, of a g.v.w. exceeding 20,000kg",
    "level": 8,
    "chapter": "87",
    "description": "Other, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion: - - g.v.w. exceeding 20 tonnes",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "87045100",
+   "hs6": "870451",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motors for propulsion, of a g.v.w. not exceeding 5,000kg",
    "level": 8,
    "chapter": "87",
    "description": "Other, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion: - - g.v.w. not exceeding 5 tonnes",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "87045200",
+   "hs6": "870452",
+   "hs6_description": "Vehicles; with both spark-ignition internal combustion piston engine and electric motors for propulsion, of a g.v.w. exceeding 5,000kg",
    "level": 8,
    "chapter": "87",
    "description": "Other, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion: - - g.v.w. exceeding 5 tonnes",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "87046000",
+   "hs6": "870460",
+   "hs6_description": "Vehicles; with only electric motor for propulsion",
    "level": 8,
    "chapter": "87",
    "description": "Other, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion: - Other with only electric motor for propulsion",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "870490",
+   "hs6": "870490",
+   "hs6_description": "Vehicles; for transport of goods, n.e.c. in heading no. 8704",
    "level": 6,
    "chapter": "87",
    "description": "Other",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "87049011",
+   "hs6": "870490",
+   "hs6_description": "Vehicles; for transport of goods, n.e.c. in heading no. 8704",
    "level": 8,
    "chapter": "87",
    "description": "Lorries and trucks: ----Refrigerated",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "87049012",
+   "hs6": "870490",
+   "hs6_description": "Vehicles; for transport of goods, n.e.c. in heading no. 8704",
    "level": 8,
    "chapter": "87",
    "description": "Lorries and trucks: ----Electrically operated",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "87049019",
+   "hs6": "870490",
+   "hs6_description": "Vehicles; for transport of goods, n.e.c. in heading no. 8704",
    "level": 8,
    "chapter": "87",
    "description": "Lorries and trucks: ----Other",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "87049090",
+   "hs6": "870490",
+   "hs6_description": "Vehicles; for transport of goods, n.e.c. in heading no. 8704",
    "level": 8,
    "chapter": "87",
    "description": "Lorries and trucks: ----Other",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "8705",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Special purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries, fire fighting vehicles, concretemixer lorries, road sweeper lorries, spraying lorries, mobile workshops, mobile radiological units).",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "87051000",
+   "hs6": "870510",
+   "hs6_description": "Vehicles; crane lorries",
    "level": 8,
    "chapter": "87",
    "description": "Crane Lorries",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "87052000",
+   "hs6": "870520",
+   "hs6_description": "Vehicles; mobile drilling derricks",
    "level": 8,
    "chapter": "87",
    "description": "Mobile drilling derricks",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "87053000",
+   "hs6": "870530",
+   "hs6_description": "Vehicles; fire fighting vehicles",
    "level": 8,
    "chapter": "87",
    "description": "Fire fighting vehicles",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "87054000",
+   "hs6": "870540",
+   "hs6_description": "Vehicles; concrete-mixer lorries",
    "level": 8,
    "chapter": "87",
    "description": "Concrete-mixer lorries",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "870590",
+   "hs6": "870590",
+   "hs6_description": "Vehicles; break-down lorries, road-sweepers, spraying lorries, mobile workshops, mobile radiological units, and other special purpose vehicles n.e.c. in heading no. 8705",
    "level": 6,
    "chapter": "87",
    "description": "Other:",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "87059010",
+   "hs6": "870590",
+   "hs6_description": "Vehicles; break-down lorries, road-sweepers, spraying lorries, mobile workshops, mobile radiological units, and other special purpose vehicles n.e.c. in heading no. 8705",
    "level": 8,
    "chapter": "87",
    "description": "Lorries (Trucks) fitted with bridging systems",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "87059090",
+   "hs6": "870590",
+   "hs6_description": "Vehicles; break-down lorries, road-sweepers, spraying lorries, mobile workshops, mobile radiological units, and other special purpose vehicles n.e.c. in heading no. 8705",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "8706",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Chassis fitted with engines, for the motor vehicles of headings 87.01 to 87.05.",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "870600",
+   "hs6": "870600",
+   "hs6_description": "Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",
    "level": 6,
    "chapter": "87",
    "description": "Chassis fitted with engines, for the motor vehicles of headings 8701 to 8705:",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "87060011",
+   "hs6": "870600",
+   "hs6_description": "Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "For the tractors of heading 8701: ----Of engine capacity not exceeding 1800 cc",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "87060019",
+   "hs6": "870600",
+   "hs6_description": "Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "For the tractors of heading 8701: ----Other",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "87060021",
+   "hs6": "870600",
+   "hs6_description": "Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "for the vehicles of heading 8702: ----For transport of not more than thirteen persons, including the driver",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "87060029",
+   "hs6": "870600",
+   "hs6_description": "Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "for the vehicles of heading 8702: ----Other",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "87060031",
+   "hs6": "870600",
+   "hs6_description": "Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "for the vehicles of heading 8703: ----For three-wheeled vehicles",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "87060039",
+   "hs6": "870600",
+   "hs6_description": "Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "for the vehicles of heading 8703: ----Other",
@@ -2121,6 +2473,8 @@
   },
   {
    "hs_code": "87060041",
+   "hs6": "870600",
+   "hs6_description": "Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "for the vehicles of heading 8704: ----For three-wheeled motor vehicle",
@@ -2133,6 +2487,8 @@
   },
   {
    "hs_code": "87060042",
+   "hs6": "870600",
+   "hs6_description": "Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "for the vehicles of heading 8704: ----For vehicles, other than petrol driven",
@@ -2145,6 +2501,8 @@
   },
   {
    "hs_code": "87060043",
+   "hs6": "870600",
+   "hs6_description": "Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "for the vehicles of heading 8704: ----For dumpers covered in the heading 8704",
@@ -2157,6 +2515,8 @@
   },
   {
    "hs_code": "87060049",
+   "hs6": "870600",
+   "hs6_description": "Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "for the vehicles of heading 8704: ----Other",
@@ -2169,6 +2529,8 @@
   },
   {
    "hs_code": "87060050",
+   "hs6": "870600",
+   "hs6_description": "Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "For the motor vehicles of heading 8705",
@@ -2181,6 +2543,8 @@
   },
   {
    "hs_code": "8707",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Bodies (including cabs), for the motor vehicles of headings 87.01 to 87.05.",
@@ -2193,6 +2557,8 @@
   },
   {
    "hs_code": "87071000",
+   "hs6": "870710",
+   "hs6_description": "Vehicles; bodies (including cabs) for the motor vehicles of heading no. 8703",
    "level": 8,
    "chapter": "87",
    "description": "For the vehicles of heading 87.03",
@@ -2205,6 +2571,8 @@
   },
   {
    "hs_code": "87079000",
+   "hs6": "870790",
+   "hs6_description": "Vehicles; bodies (including cabs) for the motor vehicles of heading no. 8701, 8702, 8704 or 8705",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -2217,6 +2585,8 @@
   },
   {
    "hs_code": "8708",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Parts and accessories of the motor vehicles of headings 87.01 to 87.05.",
@@ -2229,6 +2599,8 @@
   },
   {
    "hs_code": "870810",
+   "hs6": "870810",
+   "hs6_description": "Vehicles; bumpers and parts thereof, for the vehicles of heading no. 8701 to 8705",
    "level": 6,
    "chapter": "87",
    "description": "Bumpers and parts thereof",
@@ -2241,6 +2613,8 @@
   },
   {
    "hs_code": "87081010",
+   "hs6": "870810",
+   "hs6_description": "Vehicles; bumpers and parts thereof, for the vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "For tractors",
@@ -2253,6 +2627,8 @@
   },
   {
    "hs_code": "87081090",
+   "hs6": "870810",
+   "hs6_description": "Vehicles; bumpers and parts thereof, for the vehicles of heading no. 8701 to 8705",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -2265,6 +2641,8 @@
   },
   {
    "hs_code": "87082100",
+   "hs6": "870821",
+   "hs6_description": "Vehicles; parts of bodies, safety seat belts",
    "level": 8,
    "chapter": "87",
    "description": "Other parts and accessories of bodies (including cabs): ----Safety seat belts",
@@ -2277,6 +2655,8 @@
   },
   {
    "hs_code": "87082200",
+   "hs6": "870822",
+   "hs6_description": "Vehicles; parts and accessories, front windscreens (windshields), rear windows and other windows specified in subheading note 1 to this chapter",
    "level": 8,
    "chapter": "87",
    "description": "Front windscreens (windshields), rear windows and other windows specified in Sub-heading Note 1 to this Chapter",
@@ -2289,6 +2669,8 @@
   },
   {
    "hs_code": "87082900",
+   "hs6": "870829",
+   "hs6_description": "Vehicles; parts and accessories, of bodies, other than safety seat belts",
    "level": 8,
    "chapter": "87",
    "description": "Other parts and accessories of bodies (including cabs): ----Other",
@@ -2301,6 +2683,8 @@
   },
   {
    "hs_code": "87083000",
+   "hs6": "870830",
+   "hs6_description": "Vehicle parts; brakes, servo-brakes and parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Brakes and servo-brakes; parts thereof",
@@ -2313,6 +2697,8 @@
   },
   {
    "hs_code": "87084000",
+   "hs6": "870840",
+   "hs6_description": "Vehicle parts; gear boxes and parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Gear boxes and parts thereof",
@@ -2325,6 +2711,8 @@
   },
   {
    "hs_code": "87085000",
+   "hs6": "870850",
+   "hs6_description": "Vehicle parts; drive-axles with differential, whether or not provided with other transmission components, and non-driving axles; parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Drive-axles with differential, whether or not provided with other transmission components, non-driving axles; parts thereof",
@@ -2337,6 +2725,8 @@
   },
   {
    "hs_code": "87087000",
+   "hs6": "870870",
+   "hs6_description": "Vehicle parts; road wheels and parts and accessories thereof",
    "level": 8,
    "chapter": "87",
    "description": "Road wheels and parts and accessories thereof",
@@ -2349,6 +2739,8 @@
   },
   {
    "hs_code": "87088000",
+   "hs6": "870880",
+   "hs6_description": "Vehicle parts; suspension systems and parts thereof (including shock-absorbers)",
    "level": 8,
    "chapter": "87",
    "description": "Suspension systems and parts thereof (including shock-absorbers)",
@@ -2361,6 +2753,8 @@
   },
   {
    "hs_code": "870891",
+   "hs6": "870891",
+   "hs6_description": "Vehicle parts; radiators and parts thereof",
    "level": 6,
    "chapter": "87",
    "description": "Other parts and accessories :-- Radiators and parts thereof",
@@ -2373,6 +2767,8 @@
   },
   {
    "hs_code": "87089100",
+   "hs6": "870891",
+   "hs6_description": "Vehicle parts; radiators and parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Other parts and accessories : -- Radiators and parts thereof",
@@ -2385,6 +2781,8 @@
   },
   {
    "hs_code": "87089200",
+   "hs6": "870892",
+   "hs6_description": "Vehicle parts; silencers (mufflers) and exhaust pipes; parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Other parts and accessories : -- Silencers (mufflers) and exhaust pipes; parts thereof thereof",
@@ -2397,6 +2795,8 @@
   },
   {
    "hs_code": "87089300",
+   "hs6": "870893",
+   "hs6_description": "Vehicle parts; clutches and parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Other parts and accessories : -- Clutches and parts thereof",
@@ -2409,6 +2809,8 @@
   },
   {
    "hs_code": "87089400",
+   "hs6": "870894",
+   "hs6_description": "Vehicle parts; steering wheels, steering columns and steering boxes; parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Other parts and accessories : -- Steering wheels, steering columns and steering boxes; parts",
@@ -2421,6 +2823,8 @@
   },
   {
    "hs_code": "87089500",
+   "hs6": "870895",
+   "hs6_description": "Vehicle parts; safety airbags with inflater system; parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Other parts and accessories : -- Safety airbags with inflater system; parts thereof",
@@ -2433,6 +2837,8 @@
   },
   {
    "hs_code": "87089900",
+   "hs6": "870899",
+   "hs6_description": "Vehicle parts and accessories; n.e.c. in heading no. 8708",
    "level": 8,
    "chapter": "87",
    "description": "Other parts and accessories : -- Other",
@@ -2445,6 +2851,8 @@
   },
   {
    "hs_code": "8709",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles.",
@@ -2457,6 +2865,8 @@
   },
   {
    "hs_code": "87091100",
+   "hs6": "870911",
+   "hs6_description": "Vehicles; electrical, self-propelled, (not fitted with lifting or handling equipment), of the type used for short distance transport of goods in factories, warehouses, dock areas or airports",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles : -- Electrical",
@@ -2469,6 +2879,8 @@
   },
   {
    "hs_code": "87091900",
+   "hs6": "870919",
+   "hs6_description": "Vehicles; (not electrical), self-propelled, without handling equipment, used for short distance transport of goods in factories, airports and such, and tractors of the type used on railway station platforms",
    "level": 8,
    "chapter": "87",
    "description": "Vehicles : -- Other",
@@ -2481,6 +2893,8 @@
   },
   {
    "hs_code": "87099000",
+   "hs6": "870990",
+   "hs6_description": "Vehicles; parts of the vehicles of heading no. 8709",
    "level": 8,
    "chapter": "87",
    "description": "Parts",
@@ -2493,6 +2907,8 @@
   },
   {
    "hs_code": "87100000",
+   "hs6": "871000",
+   "hs6_description": "Tanks and other armoured fighting vehicles; motorised, whether or not fitted with weapons, and parts of such vehicles",
    "level": 8,
    "chapter": "87",
    "description": "Tanks and other armoured fighting vehicles, motorised, whether or not fitted with weapons, and parts of such vehicles.",
@@ -2505,6 +2921,8 @@
   },
   {
    "hs_code": "8711",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars.",
@@ -2517,6 +2935,8 @@
   },
   {
    "hs_code": "87110000",
+   "hs6": "871100",
+   "hs6_description": "",
    "level": 8,
    "chapter": "87",
    "description": "Vintage Motorcycles, parts and components thereof manufactured prior to 1.1.1940",
@@ -2529,6 +2949,8 @@
   },
   {
    "hs_code": "871110",
+   "hs6": "871110",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with internal combustion piston engine of a cylinder capacity not exceeding 50cc, with or without side-cars; side-cars",
    "level": 6,
    "chapter": "87",
    "description": "With internal combustion piston engine of a cylinder capacity not exceeding 50 cc :",
@@ -2541,6 +2963,8 @@
   },
   {
    "hs_code": "87111010",
+   "hs6": "871110",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with internal combustion piston engine of a cylinder capacity not exceeding 50cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Mopeds",
@@ -2553,6 +2977,8 @@
   },
   {
    "hs_code": "87111020",
+   "hs6": "871110",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with internal combustion piston engine of a cylinder capacity not exceeding 50cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Motorised cycles",
@@ -2565,6 +2991,8 @@
   },
   {
    "hs_code": "87111090",
+   "hs6": "871110",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with internal combustion piston engine of a cylinder capacity not exceeding 50cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -2577,6 +3005,8 @@
   },
   {
    "hs_code": "871120",
+   "hs6": "871120",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 50cc but not exceeding 250cc, with or without side-cars; side-cars",
    "level": 6,
    "chapter": "87",
    "description": "With internal combustion piston engine of a cylinder capacity exceeding 50 cc but not exceeding 250 cc :",
@@ -2589,6 +3019,8 @@
   },
   {
    "hs_code": "87112011",
+   "hs6": "871120",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 50cc but not exceeding 250cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Scooters: ----Of cylinder capacity not exceeding 75 cc",
@@ -2601,6 +3033,8 @@
   },
   {
    "hs_code": "87112019",
+   "hs6": "871120",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 50cc but not exceeding 250cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Scooters: ----Other",
@@ -2613,6 +3047,8 @@
   },
   {
    "hs_code": "87112021",
+   "hs6": "871120",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 50cc but not exceeding 250cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Motor cycles: ----Of cylinder capacity not exceeding 75 cc",
@@ -2625,6 +3061,8 @@
   },
   {
    "hs_code": "87112029",
+   "hs6": "871120",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 50cc but not exceeding 250cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Motor cycles: ----Other",
@@ -2637,6 +3075,8 @@
   },
   {
    "hs_code": "87112031",
+   "hs6": "871120",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 50cc but not exceeding 250cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Mopeds: ----Of cylinder capacity not exceeding 75 cc",
@@ -2649,6 +3089,8 @@
   },
   {
    "hs_code": "87112039",
+   "hs6": "871120",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 50cc but not exceeding 250cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Mopeds: ----Other",
@@ -2661,6 +3103,8 @@
   },
   {
    "hs_code": "87112091",
+   "hs6": "871120",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 50cc but not exceeding 250cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Of cylinder capacity not exceeding 75 cc",
@@ -2673,6 +3117,8 @@
   },
   {
    "hs_code": "87112099",
+   "hs6": "871120",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 50cc but not exceeding 250cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Other: ----Other",
@@ -2685,6 +3131,8 @@
   },
   {
    "hs_code": "871130",
+   "hs6": "871130",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 250cc but not exceeding 500cc, with or without side-cars; side-cars",
    "level": 6,
    "chapter": "87",
    "description": "With internal combustion piston engine of a cylinder capacity exceeding 250 cc but not exceeding 500 cc :",
@@ -2697,6 +3145,8 @@
   },
   {
    "hs_code": "87113010",
+   "hs6": "871130",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 250cc but not exceeding 500cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Scooters",
@@ -2709,6 +3159,8 @@
   },
   {
    "hs_code": "87113020",
+   "hs6": "871130",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 250cc but not exceeding 500cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Motor-cycles",
@@ -2721,6 +3173,8 @@
   },
   {
    "hs_code": "87113090",
+   "hs6": "871130",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, internal combustion piston engine, of cylinder capacity exceeding 250cc but not exceeding 500cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -2733,6 +3187,8 @@
   },
   {
    "hs_code": "871140",
+   "hs6": "871140",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with auxiliary motor, internal combustion piston engine of cylinder capacity exceeding 500cc but not exceeding 800cc, with or without sidecars; side-cars",
    "level": 6,
    "chapter": "87",
    "description": "With internal combustion piston engine of a cylinder capacity exceeding500 cc but not exceeding 800 cc :",
@@ -2745,6 +3201,8 @@
   },
   {
    "hs_code": "87114010",
+   "hs6": "871140",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with auxiliary motor, internal combustion piston engine of cylinder capacity exceeding 500cc but not exceeding 800cc, with or without sidecars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Motor-cycles",
@@ -2757,6 +3215,8 @@
   },
   {
    "hs_code": "87114090",
+   "hs6": "871140",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with auxiliary motor, internal combustion piston engine of cylinder capacity exceeding 500cc but not exceeding 800cc, with or without sidecars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -2769,6 +3229,8 @@
   },
   {
    "hs_code": "87115000",
+   "hs6": "871150",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with auxiliary motor, with internal combustion piston engine of a cylinder capacity exceeding 800cc, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "With internal combustion piston engine of a cylinder capacity exceeding 800 cc",
@@ -2781,6 +3243,8 @@
   },
   {
    "hs_code": "871160",
+   "hs6": "871160",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with auxiliary motor, with electric motor for propulsion, with or without side-cars; side-cars",
    "level": 6,
    "chapter": "87",
    "description": "With electric motor for propulsion",
@@ -2793,6 +3257,8 @@
   },
   {
    "hs_code": "87116010",
+   "hs6": "871160",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with auxiliary motor, with electric motor for propulsion, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Motor cycles",
@@ -2805,6 +3271,8 @@
   },
   {
    "hs_code": "87116020",
+   "hs6": "871160",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with auxiliary motor, with electric motor for propulsion, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Scooters",
@@ -2817,6 +3285,8 @@
   },
   {
    "hs_code": "87116030",
+   "hs6": "871160",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with auxiliary motor, with electric motor for propulsion, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Mopeds",
@@ -2829,6 +3299,8 @@
   },
   {
    "hs_code": "87116080",
+   "hs6": "871160",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with auxiliary motor, with electric motor for propulsion, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "E-bicycle or battery-operated pedal assisted vehicle",
@@ -2841,6 +3313,8 @@
   },
   {
    "hs_code": "87116090",
+   "hs6": "871160",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; fitted with auxiliary motor, with electric motor for propulsion, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Others",
@@ -2853,6 +3327,8 @@
   },
   {
    "hs_code": "871190",
+   "hs6": "871190",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; n.e.c. in heading no. 8711, fitted with auxiliary motor, with or without side-cars; side-cars",
    "level": 6,
    "chapter": "87",
    "description": "Other",
@@ -2865,6 +3341,8 @@
   },
   {
    "hs_code": "87119010",
+   "hs6": "871190",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; n.e.c. in heading no. 8711, fitted with auxiliary motor, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Side-cars",
@@ -2877,6 +3355,8 @@
   },
   {
    "hs_code": "87119090",
+   "hs6": "871190",
+   "hs6_description": "Motorcycles (including mopeds) and cycles; n.e.c. in heading no. 8711, fitted with auxiliary motor, with or without side-cars; side-cars",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -2889,6 +3369,8 @@
   },
   {
    "hs_code": "8712",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Bicycles and other cycles (including delivery tricycles), not motorised.",
@@ -2901,6 +3383,8 @@
   },
   {
    "hs_code": "871200",
+   "hs6": "871200",
+   "hs6_description": "Bicycles and other cycles; including delivery tricycles, not motorised",
    "level": 6,
    "chapter": "87",
    "description": "Bicycles and other cycles (including delivery tricycles), not motorised :",
@@ -2913,6 +3397,8 @@
   },
   {
    "hs_code": "87120010",
+   "hs6": "871200",
+   "hs6_description": "Bicycles and other cycles; including delivery tricycles, not motorised",
    "level": 8,
    "chapter": "87",
    "description": "Bicycles",
@@ -2925,6 +3411,8 @@
   },
   {
    "hs_code": "87120090",
+   "hs6": "871200",
+   "hs6_description": "Bicycles and other cycles; including delivery tricycles, not motorised",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -2937,6 +3425,8 @@
   },
   {
    "hs_code": "8713",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled.",
@@ -2949,6 +3439,8 @@
   },
   {
    "hs_code": "871310",
+   "hs6": "871310",
+   "hs6_description": "Carriages for disabled persons; not mechanically propelled",
    "level": 6,
    "chapter": "87",
    "description": "Not mechanically propelled",
@@ -2961,6 +3453,8 @@
   },
   {
    "hs_code": "87131010",
+   "hs6": "871310",
+   "hs6_description": "Carriages for disabled persons; not mechanically propelled",
    "level": 8,
    "chapter": "87",
    "description": "Wheel chairs for invalid",
@@ -2973,6 +3467,8 @@
   },
   {
    "hs_code": "87131090",
+   "hs6": "871310",
+   "hs6_description": "Carriages for disabled persons; not mechanically propelled",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -2985,6 +3481,8 @@
   },
   {
    "hs_code": "871390",
+   "hs6": "871390",
+   "hs6_description": "Carriages for disabled persons; mechanically propelled",
    "level": 6,
    "chapter": "87",
    "description": "Other :",
@@ -2997,6 +3495,8 @@
   },
   {
    "hs_code": "87139010",
+   "hs6": "871390",
+   "hs6_description": "Carriages for disabled persons; mechanically propelled",
    "level": 8,
    "chapter": "87",
    "description": "Wheel chairs for invalid",
@@ -3009,6 +3509,8 @@
   },
   {
    "hs_code": "87139090",
+   "hs6": "871390",
+   "hs6_description": "Carriages for disabled persons; mechanically propelled",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -3021,6 +3523,8 @@
   },
   {
    "hs_code": "8714",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Parts and accessories of vehicles of headings 87.11 to 87.13.",
@@ -3033,6 +3537,8 @@
   },
   {
    "hs_code": "871410",
+   "hs6": "871410",
+   "hs6_description": "Motorcycles (including mopeds); parts and accessories",
    "level": 6,
    "chapter": "87",
    "description": "Of motorcycles (including mopeds)",
@@ -3045,6 +3551,8 @@
   },
   {
    "hs_code": "87141010",
+   "hs6": "871410",
+   "hs6_description": "Motorcycles (including mopeds); parts and accessories",
    "level": 8,
    "chapter": "87",
    "description": "Saddles",
@@ -3057,6 +3565,8 @@
   },
   {
    "hs_code": "87141090",
+   "hs6": "871410",
+   "hs6_description": "Motorcycles (including mopeds); parts and accessories",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -3069,6 +3579,8 @@
   },
   {
    "hs_code": "871420",
+   "hs6": "871420",
+   "hs6_description": "Carriages for disabled persons; parts and accessories thereof",
    "level": 6,
    "chapter": "87",
    "description": "Of carriages for disabled persons",
@@ -3081,6 +3593,8 @@
   },
   {
    "hs_code": "87142010",
+   "hs6": "871420",
+   "hs6_description": "Carriages for disabled persons; parts and accessories thereof",
    "level": 8,
    "chapter": "87",
    "description": "Mechanically propelled",
@@ -3093,6 +3607,8 @@
   },
   {
    "hs_code": "87142020",
+   "hs6": "871420",
+   "hs6_description": "Carriages for disabled persons; parts and accessories thereof",
    "level": 8,
    "chapter": "87",
    "description": "Non-mechanically propelled",
@@ -3105,6 +3621,8 @@
   },
   {
    "hs_code": "87142090",
+   "hs6": "871420",
+   "hs6_description": "Carriages for disabled persons; parts and accessories thereof",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -3117,6 +3635,8 @@
   },
   {
    "hs_code": "87149100",
+   "hs6": "871491",
+   "hs6_description": "Cycles; frames and forks, and parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Other : -- Frames and forks, and parts thereof",
@@ -3129,6 +3649,8 @@
   },
   {
    "hs_code": "871492",
+   "hs6": "871492",
+   "hs6_description": "Cycles; parts thereof, wheel rims and spokes",
    "level": 6,
    "chapter": "87",
    "description": "Other : -- Wheel rims and spokes",
@@ -3141,6 +3663,8 @@
   },
   {
    "hs_code": "87149210",
+   "hs6": "871492",
+   "hs6_description": "Cycles; parts thereof, wheel rims and spokes",
    "level": 8,
    "chapter": "87",
    "description": "Bicycle rims",
@@ -3153,6 +3677,8 @@
   },
   {
    "hs_code": "87149220",
+   "hs6": "871492",
+   "hs6_description": "Cycles; parts thereof, wheel rims and spokes",
    "level": 8,
    "chapter": "87",
    "description": "Bicycle spokes",
@@ -3165,6 +3691,8 @@
   },
   {
    "hs_code": "87149290",
+   "hs6": "871492",
+   "hs6_description": "Cycles; parts thereof, wheel rims and spokes",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -3177,6 +3705,8 @@
   },
   {
    "hs_code": "871493",
+   "hs6": "871493",
+   "hs6_description": "Cycles; parts thereof, hubs (other than coaster braking hubs and hub brakes) and free-wheel sprocket-wheels",
    "level": 6,
    "chapter": "87",
    "description": "Other : -- Hubs, other than coaster braking hubs and hub brakes, and free-wheel sprocket-wheels",
@@ -3189,6 +3719,8 @@
   },
   {
    "hs_code": "87149310",
+   "hs6": "871493",
+   "hs6_description": "Cycles; parts thereof, hubs (other than coaster braking hubs and hub brakes) and free-wheel sprocket-wheels",
    "level": 8,
    "chapter": "87",
    "description": "Bicycle hubs",
@@ -3201,6 +3733,8 @@
   },
   {
    "hs_code": "87149320",
+   "hs6": "871493",
+   "hs6_description": "Cycles; parts thereof, hubs (other than coaster braking hubs and hub brakes) and free-wheel sprocket-wheels",
    "level": 8,
    "chapter": "87",
    "description": "Bicycle free-wheels",
@@ -3213,6 +3747,8 @@
   },
   {
    "hs_code": "87149390",
+   "hs6": "871493",
+   "hs6_description": "Cycles; parts thereof, hubs (other than coaster braking hubs and hub brakes) and free-wheel sprocket-wheels",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -3225,6 +3761,8 @@
   },
   {
    "hs_code": "87149400",
+   "hs6": "871494",
+   "hs6_description": "Cycles; parts thereof, brakes, including coaster braking hubs and hub-brakes, and parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Other : -- Brakes, including coaster braking hubs and hub brakes, and parts thereof",
@@ -3237,6 +3775,8 @@
   },
   {
    "hs_code": "871495",
+   "hs6": "871495",
+   "hs6_description": "Cycles; parts thereof, saddles",
    "level": 6,
    "chapter": "87",
    "description": "Other : -- Saddles",
@@ -3249,6 +3789,8 @@
   },
   {
    "hs_code": "87149510",
+   "hs6": "871495",
+   "hs6_description": "Cycles; parts thereof, saddles",
    "level": 8,
    "chapter": "87",
    "description": "Bicycle saddles",
@@ -3261,6 +3803,8 @@
   },
   {
    "hs_code": "87149590",
+   "hs6": "871495",
+   "hs6_description": "Cycles; parts thereof, saddles",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -3273,6 +3817,8 @@
   },
   {
    "hs_code": "87149600",
+   "hs6": "871496",
+   "hs6_description": "Cycles; parts, pedals and crank-gear, and parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Other : -- Pedals and crank-gear, and parts thereof",
@@ -3285,6 +3831,8 @@
   },
   {
    "hs_code": "871499",
+   "hs6": "871499",
+   "hs6_description": "Cycles; parts thereof, n.e.c. in item no. 8714.9",
    "level": 6,
    "chapter": "87",
    "description": "Other : -- Other",
@@ -3297,6 +3845,8 @@
   },
   {
    "hs_code": "87149910",
+   "hs6": "871499",
+   "hs6_description": "Cycles; parts thereof, n.e.c. in item no. 8714.9",
    "level": 8,
    "chapter": "87",
    "description": "Bicycle chains",
@@ -3309,6 +3859,8 @@
   },
   {
    "hs_code": "87149920",
+   "hs6": "871499",
+   "hs6_description": "Cycles; parts thereof, n.e.c. in item no. 8714.9",
    "level": 8,
    "chapter": "87",
    "description": "Bicycle wheels",
@@ -3321,6 +3873,8 @@
   },
   {
    "hs_code": "87149990",
+   "hs6": "871499",
+   "hs6_description": "Cycles; parts thereof, n.e.c. in item no. 8714.9",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -3333,6 +3887,8 @@
   },
   {
    "hs_code": "8715",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Baby carriages and parts thereof.",
@@ -3345,6 +3901,8 @@
   },
   {
    "hs_code": "871500",
+   "hs6": "871500",
+   "hs6_description": "Baby carriages and parts thereof",
    "level": 6,
    "chapter": "87",
    "description": "Baby carriages and parts thereof :",
@@ -3357,6 +3915,8 @@
   },
   {
    "hs_code": "87150010",
+   "hs6": "871500",
+   "hs6_description": "Baby carriages and parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Baby carriages",
@@ -3369,6 +3929,8 @@
   },
   {
    "hs_code": "87150020",
+   "hs6": "871500",
+   "hs6_description": "Baby carriages and parts thereof",
    "level": 8,
    "chapter": "87",
    "description": "Parts",
@@ -3381,6 +3943,8 @@
   },
   {
    "hs_code": "8716",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "87",
    "description": "Trailers and semi-trailers; other vehicles, not mechanically",
@@ -3393,6 +3957,8 @@
   },
   {
    "hs_code": "87161000",
+   "hs6": "871610",
+   "hs6_description": "Trailers and semi-trailers; of the caravan type, for housing or camping",
    "level": 8,
    "chapter": "87",
    "description": "Trailers and semi-trailers of the caravan type, for housing or camping",
@@ -3405,6 +3971,8 @@
   },
   {
    "hs_code": "87162000",
+   "hs6": "871620",
+   "hs6_description": "Trailers and semi-trailers; self-loading or self-unloading, for agricultural purposes",
    "level": 8,
    "chapter": "87",
    "description": "Self-loading or self-unloading trailers and semi-trailers for agricultural purposes",
@@ -3417,6 +3985,8 @@
   },
   {
    "hs_code": "87163100",
+   "hs6": "871631",
+   "hs6_description": "Tanker trailers and tanker semi-trailers",
    "level": 8,
    "chapter": "87",
    "description": "Other trailers and semi-trailers for the transport of goods : -- Tanker trailers and tanker semi-trailers",
@@ -3429,6 +3999,8 @@
   },
   {
    "hs_code": "87163900",
+   "hs6": "871639",
+   "hs6_description": "Trailers and semi-trailers; (other than tanker type)",
    "level": 8,
    "chapter": "87",
    "description": "Other trailers and semi-trailers for the transport of goods : -- Other",
@@ -3441,6 +4013,8 @@
   },
   {
    "hs_code": "87164000",
+   "hs6": "871640",
+   "hs6_description": "Trailers and semi-trailers; n.e.c. in item no. 8716.3",
    "level": 8,
    "chapter": "87",
    "description": "Other trailers and semi-trailers",
@@ -3453,6 +4027,8 @@
   },
   {
    "hs_code": "871680",
+   "hs6": "871680",
+   "hs6_description": "Vehicles; n.e.c. in heading no. 8716",
    "level": 6,
    "chapter": "87",
    "description": "Other vehicles",
@@ -3465,6 +4041,8 @@
   },
   {
    "hs_code": "87168010",
+   "hs6": "871680",
+   "hs6_description": "Vehicles; n.e.c. in heading no. 8716",
    "level": 8,
    "chapter": "87",
    "description": "Hand propelled vehicles (e.g. hand carts, rickshaws and the like)",
@@ -3477,6 +4055,8 @@
   },
   {
    "hs_code": "87168020",
+   "hs6": "871680",
+   "hs6_description": "Vehicles; n.e.c. in heading no. 8716",
    "level": 8,
    "chapter": "87",
    "description": "Animal drawn vehicles",
@@ -3489,6 +4069,8 @@
   },
   {
    "hs_code": "87168090",
+   "hs6": "871680",
+   "hs6_description": "Vehicles; n.e.c. in heading no. 8716",
    "level": 8,
    "chapter": "87",
    "description": "Other",
@@ -3501,6 +4083,8 @@
   },
   {
    "hs_code": "871690",
+   "hs6": "871690",
+   "hs6_description": "Trailers, semi-trailers and other vehicles not mechanically propelled; parts thereof for heading no. 8716",
    "level": 6,
    "chapter": "87",
    "description": "Parts",
@@ -3513,6 +4097,8 @@
   },
   {
    "hs_code": "87169010",
+   "hs6": "871690",
+   "hs6_description": "Trailers, semi-trailers and other vehicles not mechanically propelled; parts thereof for heading no. 8716",
    "level": 8,
    "chapter": "87",
    "description": "Parts and accessories of trailers",
@@ -3525,6 +4111,8 @@
   },
   {
    "hs_code": "87169090",
+   "hs6": "871690",
+   "hs6_description": "Trailers, semi-trailers and other vehicles not mechanically propelled; parts thereof for heading no. 8716",
    "level": 8,
    "chapter": "87",
    "description": "Other",

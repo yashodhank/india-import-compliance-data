@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "1501",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Pig fat (including lard) and poultry fat, other than that of heading 02.09 or 15.03.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "15011000",
+   "hs6": "150110",
+   "hs6_description": "Pig fat; lard, other than that of heading 0209 and 1503",
    "level": 8,
    "chapter": "15",
    "description": "Lard",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "15012000",
+   "hs6": "150120",
+   "hs6_description": "Pig fat; not lard, other than that of heading 0209 or 1503",
    "level": 8,
    "chapter": "15",
    "description": "Other pig fat",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "15019000",
+   "hs6": "150190",
+   "hs6_description": "Poultry fat; other than that of heading 0209 or 1503",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "1502",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Fats of bovine animals, sheep or goats, other than those of heading 15.03.",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "150210",
+   "hs6": "150210",
+   "hs6_description": "Tallow; other than those of heading 1503",
    "level": 6,
    "chapter": "15",
    "description": "Tallow",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "15021010",
+   "hs6": "150210",
+   "hs6_description": "Tallow; other than those of heading 1503",
    "level": 8,
    "chapter": "15",
    "description": "Mutton tallow",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "15021090",
+   "hs6": "150210",
+   "hs6_description": "Tallow; other than those of heading 1503",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "150290",
+   "hs6": "150290",
+   "hs6_description": "Fats of bovine animals, sheep or goats; excluding tallow, and other than those of heading 1503",
    "level": 6,
    "chapter": "15",
    "description": "Other",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "15029010",
+   "hs6": "150290",
+   "hs6_description": "Fats of bovine animals, sheep or goats; excluding tallow, and other than those of heading 1503",
    "level": 8,
    "chapter": "15",
    "description": "Unrendered fats",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "15029020",
+   "hs6": "150290",
+   "hs6_description": "Fats of bovine animals, sheep or goats; excluding tallow, and other than those of heading 1503",
    "level": 8,
    "chapter": "15",
    "description": "Rendered fats or solvent extraction fats",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "15029090",
+   "hs6": "150290",
+   "hs6_description": "Fats of bovine animals, sheep or goats; excluding tallow, and other than those of heading 1503",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "15030000",
+   "hs6": "150300",
+   "hs6_description": "Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil; not emulsified or mixed or otherwise prepared",
    "level": 8,
    "chapter": "15",
    "description": "Lard Stearin, Lard Oil, Oleostearin, Oleo-Oil and Tallow Oil, not emulsified or mixed or otherwise prepared",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "1504",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified.",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "150410",
+   "hs6": "150410",
+   "hs6_description": "Oils of fish; fish-liver oils and their fractions, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Fish-liver oils and their fractions",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "15041010",
+   "hs6": "150410",
+   "hs6_description": "Oils of fish; fish-liver oils and their fractions, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Cod liver oil",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "15041091",
+   "hs6": "150410",
+   "hs6_description": "Oils of fish; fish-liver oils and their fractions, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other: ---- Squid liver oil",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "15041099",
+   "hs6": "150410",
+   "hs6_description": "Oils of fish; fish-liver oils and their fractions, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other: ---- Other",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "150420",
+   "hs6": "150420",
+   "hs6_description": "Fats and oils and their fractions; of fish, (excluding liver-oils)",
    "level": 6,
    "chapter": "15",
    "description": "Fats and oils and their fractions, of fish, other than liver oils",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "15042010",
+   "hs6": "150420",
+   "hs6_description": "Fats and oils and their fractions; of fish, (excluding liver-oils)",
    "level": 8,
    "chapter": "15",
    "description": "Fish body oil",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "15042020",
+   "hs6": "150420",
+   "hs6_description": "Fats and oils and their fractions; of fish, (excluding liver-oils)",
    "level": 8,
    "chapter": "15",
    "description": "Fish lipid oil",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "15042030",
+   "hs6": "150420",
+   "hs6_description": "Fats and oils and their fractions; of fish, (excluding liver-oils)",
    "level": 8,
    "chapter": "15",
    "description": "Sperm oil",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "15042090",
+   "hs6": "150420",
+   "hs6_description": "Fats and oils and their fractions; of fish, (excluding liver-oils)",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "15043000",
+   "hs6": "150430",
+   "hs6_description": "Fats and oils and their fractions; of marine mammals",
    "level": 8,
    "chapter": "15",
    "description": "Fats and oils and their fractions, of marine mammals",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "1505",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Wool grease and fatty substances derived therefrom (including lanolin).",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "150500",
+   "hs6": "150500",
+   "hs6_description": "Wool grease and fatty substances derived therefrom (including lanolin)",
    "level": 6,
    "chapter": "15",
    "description": "Wool grease and fatty substances derived therefrom (including lanolin)",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "15050010",
+   "hs6": "150500",
+   "hs6_description": "Wool grease and fatty substances derived therefrom (including lanolin)",
    "level": 8,
    "chapter": "15",
    "description": "Wool alcohol (including lanolin alcohol)",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "15050020",
+   "hs6": "150500",
+   "hs6_description": "Wool grease and fatty substances derived therefrom (including lanolin)",
    "level": 8,
    "chapter": "15",
    "description": "Wool grease, crude",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "15050090",
+   "hs6": "150500",
+   "hs6_description": "Wool grease and fatty substances derived therefrom (including lanolin)",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "1506",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Other animal fats and oils and their fractions, whether or not refined, but not chemically modified.",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "150600",
+   "hs6": "150600",
+   "hs6_description": "Animal fats and oils and their fractions; whether or not refined, but not chemically modified, n.e.c. in chapter 15",
    "level": 6,
    "chapter": "15",
    "description": "Other animal fats and oils and their fractions, whether or not refined, but not chemically modified",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "15060010",
+   "hs6": "150600",
+   "hs6_description": "Animal fats and oils and their fractions; whether or not refined, but not chemically modified, n.e.c. in chapter 15",
    "level": 8,
    "chapter": "15",
    "description": "Neats Foot oil and fats from bone or waste",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "15060090",
+   "hs6": "150600",
+   "hs6_description": "Animal fats and oils and their fractions; whether or not refined, but not chemically modified, n.e.c. in chapter 15",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "1507",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "15071000",
+   "hs6": "150710",
+   "hs6_description": "Vegetable oils; soya-bean oil and its fractions, crude, whether or not degummed, not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Crude oil, whether or not degummed",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "150790",
+   "hs6": "150790",
+   "hs6_description": "Vegetable oils; soya-bean oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Other",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "15079010",
+   "hs6": "150790",
+   "hs6_description": "Vegetable oils; soya-bean oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Edible grade",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "15079090",
+   "hs6": "150790",
+   "hs6_description": "Vegetable oils; soya-bean oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "1508",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Ground-nut oil and its fractions, whether or not refined, but not chemically modified.",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "15081000",
+   "hs6": "150810",
+   "hs6_description": "Vegetable oils; ground-nut oil and its fractions, crude, not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Crude oil",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "150890",
+   "hs6": "150890",
+   "hs6_description": "Vegetable oils; ground-nut oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Other",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "15089010",
+   "hs6": "150890",
+   "hs6_description": "Vegetable oils; ground-nut oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Deodorized (Salad Oil)",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "15089091",
+   "hs6": "150890",
+   "hs6_description": "Vegetable oils; ground-nut oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other: ---- Edible grade",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "15089099",
+   "hs6": "150890",
+   "hs6_description": "Vegetable oils; ground-nut oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other: ---- Other",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "1509",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Olive oil and its fractions, whether or not refined, but not chemically modified.",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "15092000",
+   "hs6": "150920",
+   "hs6_description": "Vegetable oils; olive oil and its fractions, extra virgin olive oil, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Extra virgin olive oil",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "15093000",
+   "hs6": "150930",
+   "hs6_description": "Vegetable oils; olive oil and its fractions, virgin olive oil, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Virgin olive oil",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "15094000",
+   "hs6": "150940",
+   "hs6_description": "Vegetable oils; olive oil and its fractions, virgin olive oils n.e.c. in heading 1509, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other virgin olive oils",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "150990",
+   "hs6": "150990",
+   "hs6_description": "Vegetable oils; olive oil and its fractions, other than virgin, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Other",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "15099010",
+   "hs6": "150990",
+   "hs6_description": "Vegetable oils; olive oil and its fractions, other than virgin, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Edible grade",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "15099090",
+   "hs6": "150990",
+   "hs6_description": "Vegetable oils; olive oil and its fractions, other than virgin, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "1510",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "OTHER OILS AND THEIR FRACTIONS, OBTAINED SOLELY FROM OLIVES, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, INCLUDING BLENDS OF THESE OILS OR FRACTIONS WITH OILS OR FRACTIONS OF HEADING 1509",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "15101000",
+   "hs6": "151010",
+   "hs6_description": "Vegetable oils; crude olive pomace oil and their fractions, obtained solely from olives, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Crude olive pomace oil",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "151090",
+   "hs6": "151090",
+   "hs6_description": "Vegetable oils; oils and their fractions n.e.c. in heading 1510, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading no. 1509",
    "level": 6,
    "chapter": "15",
    "description": "Other:",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "15109010",
+   "hs6": "151090",
+   "hs6_description": "Vegetable oils; oils and their fractions n.e.c. in heading 1510, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading no. 1509",
    "level": 8,
    "chapter": "15",
    "description": "Refined olive pomace oil",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "15109090",
+   "hs6": "151090",
+   "hs6_description": "Vegetable oils; oils and their fractions n.e.c. in heading 1510, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading no. 1509",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "1511",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Palm oil and its fractions, whether or not refined, but not chemically modified.",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "15111000",
+   "hs6": "151110",
+   "hs6_description": "Vegetable oils; palm oil and its fractions, crude, not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Crude oil",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "151190",
+   "hs6": "151190",
+   "hs6_description": "Vegetable oils; palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Other",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "15119010",
+   "hs6": "151190",
+   "hs6_description": "Vegetable oils; palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Refined bleached deodorised palm oil",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "15119020",
+   "hs6": "151190",
+   "hs6_description": "Vegetable oils; palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Refined bleached deodorised palmolein",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "15119030",
+   "hs6": "151190",
+   "hs6_description": "Vegetable oils; palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Refined bleached deodorised palm stearin",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "15119090",
+   "hs6": "151190",
+   "hs6_description": "Vegetable oils; palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "1512",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified.",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "151211",
+   "hs6": "151211",
+   "hs6_description": "Vegetable oils; sunflower seed or safflower oil and their fractions, crude, not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Sunflower-seed or safflower oil and fractions thereof : -- Crude oil",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "15121110",
+   "hs6": "151211",
+   "hs6_description": "Vegetable oils; sunflower seed or safflower oil and their fractions, crude, not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Sunflower seed oil",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "15121120",
+   "hs6": "151211",
+   "hs6_description": "Vegetable oils; sunflower seed or safflower oil and their fractions, crude, not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Safflower seed oil (kardi seed oil)",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "151219",
+   "hs6": "151219",
+   "hs6_description": "Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Sunflower-seed or safflower oil and fractions thereof : -- Other",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "15121910",
+   "hs6": "151219",
+   "hs6_description": "Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Sunflower oil, edible grade",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "15121920",
+   "hs6": "151219",
+   "hs6_description": "Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Sunflower oil, non-edible grade (other than crude oil)",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "15121930",
+   "hs6": "151219",
+   "hs6_description": "Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Safflower oil, edible grade",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "15121940",
+   "hs6": "151219",
+   "hs6_description": "Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Safflower oil, non - edible grade",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "15121990",
+   "hs6": "151219",
+   "hs6_description": "Vegetable oils; sunflower seed or safflower oil and their fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "15122100",
+   "hs6": "151221",
+   "hs6_description": "Vegetable oils; cotton-seed oil and its fractions; crude, whether or not gossypol has been removed, not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Cotton-seed oil and its fractions : -- Crude oil, whether or not gossypol has been removed",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "151229",
+   "hs6": "151229",
+   "hs6_description": "Vegetable oils; cotton-seed oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Cotton-seed oil and its fractions : -- Other",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "15122910",
+   "hs6": "151229",
+   "hs6_description": "Vegetable oils; cotton-seed oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Edible grade",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "15122990",
+   "hs6": "151229",
+   "hs6_description": "Vegetable oils; cotton-seed oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "1513",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Coconut (copra), palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified.",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "15131100",
+   "hs6": "151311",
+   "hs6_description": "Vegetable oils; coconut (copra) oil and its fractions, crude, not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Coconut (copra) oil and its fractions : -- Crude oil",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "15131900",
+   "hs6": "151319",
+   "hs6_description": "Vegetable oils; coconut (copra) oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Coconut (copra) oil and its fractions : -- Other",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "151321",
+   "hs6": "151321",
+   "hs6_description": "Vegetable oils; palm kernel or babassu oil and their fractions, crude, not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Palm kernel or babassu oil and fractions thereof : -- Crude oil",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "15132110",
+   "hs6": "151321",
+   "hs6_description": "Vegetable oils; palm kernel or babassu oil and their fractions, crude, not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Palm kernel oil",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "15132120",
+   "hs6": "151321",
+   "hs6_description": "Vegetable oils; palm kernel or babassu oil and their fractions, crude, not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Babassu oil",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "151329",
+   "hs6": "151329",
+   "hs6_description": "Vegetable oils; palm kernel or babassu oil and their fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Palm kernel or babassu oil and fractions thereof : -- Other",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "15132910",
+   "hs6": "151329",
+   "hs6_description": "Vegetable oils; palm kernel or babassu oil and their fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Palm kernel oil and its fractions",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "15132920",
+   "hs6": "151329",
+   "hs6_description": "Vegetable oils; palm kernel or babassu oil and their fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Babassu oil and fractions edible grade",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "15132930",
+   "hs6": "151329",
+   "hs6_description": "Vegetable oils; palm kernel or babassu oil and their fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Babassu oil and fractions, other than edible grade",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "15132990",
+   "hs6": "151329",
+   "hs6_description": "Vegetable oils; palm kernel or babassu oil and their fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "1514",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified.",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "151411",
+   "hs6": "151411",
+   "hs6_description": "Vegetable oils; low erucic acid rape or colza oil and its fractions, crude",
    "level": 6,
    "chapter": "15",
    "description": "Low erucic acid rape or colza oil and its fractions : -- Crude oil",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "15141110",
+   "hs6": "151411",
+   "hs6_description": "Vegetable oils; low erucic acid rape or colza oil and its fractions, crude",
    "level": 8,
    "chapter": "15",
    "description": "Colza oil",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "15141120",
+   "hs6": "151411",
+   "hs6_description": "Vegetable oils; low erucic acid rape or colza oil and its fractions, crude",
    "level": 8,
    "chapter": "15",
    "description": "Rape oil",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "15141190",
+   "hs6": "151411",
+   "hs6_description": "Vegetable oils; low erucic acid rape or colza oil and its fractions, crude",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "151419",
+   "hs6": "151419",
+   "hs6_description": "Vegetable oils; low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Low erucic acid rape or colza oil and its fractions : -- Other",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "15141910",
+   "hs6": "151419",
+   "hs6_description": "Vegetable oils; low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Refined colza oil of edible grade",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "15141920",
+   "hs6": "151419",
+   "hs6_description": "Vegetable oils; low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Refined rapeseed oil of edible grade",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "15141990",
+   "hs6": "151419",
+   "hs6_description": "Vegetable oils; low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "151491",
+   "hs6": "151491",
+   "hs6_description": "Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, crude",
    "level": 6,
    "chapter": "15",
    "description": "Other : -- Crude oil",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "15149110",
+   "hs6": "151491",
+   "hs6_description": "Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, crude",
    "level": 8,
    "chapter": "15",
    "description": "Colza oil",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "15149120",
+   "hs6": "151491",
+   "hs6_description": "Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, crude",
    "level": 8,
    "chapter": "15",
    "description": "Mustard oil",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "15149190",
+   "hs6": "151491",
+   "hs6_description": "Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, crude",
    "level": 8,
    "chapter": "15",
    "description": "Rapeseed oil",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "151499",
+   "hs6": "151499",
+   "hs6_description": "Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Other : -- Other",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "15149910",
+   "hs6": "151499",
+   "hs6_description": "Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Refined colza oil of edible grade",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "15149920",
+   "hs6": "151499",
+   "hs6_description": "Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Refined mustard oil of edible grade",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "15149930",
+   "hs6": "151499",
+   "hs6_description": "Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Refined rapeseed oil of edible grade",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "15149990",
+   "hs6": "151499",
+   "hs6_description": "Vegetable oils; excluding low erucic acid rape or colza oil and its fractions, other than crude, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "1515",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "OTHER FIXED VEGETABLE OR MICROBIAL FATS AND OILS (INCLUDING JOJOBA OIL) AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "15151100",
+   "hs6": "151511",
+   "hs6_description": "Vegetable oils; linseed oil and its fractions, crude, not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Linseed oil and its fractions : -- Crude oil",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "151519",
+   "hs6": "151519",
+   "hs6_description": "Vegetable oils; linseed oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Linseed oil and its fractions : -- Other",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "15151910",
+   "hs6": "151519",
+   "hs6_description": "Vegetable oils; linseed oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Edible grade",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "15151990",
+   "hs6": "151519",
+   "hs6_description": "Vegetable oils; linseed oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "15152100",
+   "hs6": "151521",
+   "hs6_description": "Vegetable oils; maize (corn) oil and its fractions, crude, not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Maize (corn) oil and its fractions : -- Crude oil",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "151529",
+   "hs6": "151529",
+   "hs6_description": "Vegetable oils; maize (corn) oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Maize (corn) oil and its fractions : -- Other",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "15152910",
+   "hs6": "151529",
+   "hs6_description": "Vegetable oils; maize (corn) oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Edible grade",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "15152990",
+   "hs6": "151529",
+   "hs6_description": "Vegetable oils; maize (corn) oil and its fractions, other than crude, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "151530",
+   "hs6": "151530",
+   "hs6_description": "Vegetable oils; castor oil and its fractions, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Castor oil and its fractions",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "15153010",
+   "hs6": "151530",
+   "hs6_description": "Vegetable oils; castor oil and its fractions, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Edible grade",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "15153090",
+   "hs6": "151530",
+   "hs6_description": "Vegetable oils; castor oil and its fractions, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "151550",
+   "hs6": "151550",
+   "hs6_description": "Vegetable oils; sesame oil and its fractions, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Sesame oil and its fractions",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "15155010",
+   "hs6": "151550",
+   "hs6_description": "Vegetable oils; sesame oil and its fractions, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Crude oil",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "15155091",
+   "hs6": "151550",
+   "hs6_description": "Vegetable oils; sesame oil and its fractions, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other: ---- Edible grade",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "15155099",
+   "hs6": "151550",
+   "hs6_description": "Vegetable oils; sesame oil and its fractions, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other: ---- Other",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "15156000",
+   "hs6": "151560",
+   "hs6_description": "Vegetable oils; microbial fats and oils and their fractions, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Microbial fats and oils and their fractions",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "151590",
+   "hs6": "151590",
+   "hs6_description": "Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",
    "level": 6,
    "chapter": "15",
    "description": "Other",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "15159010",
+   "hs6": "151590",
+   "hs6_description": "Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Fixed vegetable oils, namely the following: chul moogra oil, mawra oil, kokam oil, tabacco seed oil, sal oil",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "15159020",
+   "hs6": "151590",
+   "hs6_description": "Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Fixed vegetable oils, namely the following: neem seed oil, karanj oil, silk cotton seed oil,",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "15159030",
+   "hs6": "151590",
+   "hs6_description": "Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Fixed vegetable oils, namely the following : cardamom oil, chillies/ capsicum oil, turmeric oil, ajwain seed oil, niger seed oil, garlic oil",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "15159040",
+   "hs6": "151590",
+   "hs6_description": "Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Fixed vegetable oils of edible grade namely the following: mango kernel oil, mahua oil, rice bran oil",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "15159091",
+   "hs6": "151590",
+   "hs6_description": "Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other: ---- Edible grade",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "15159099",
+   "hs6": "151590",
+   "hs6_description": "Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",
    "level": 8,
    "chapter": "15",
    "description": "Other: ---- Other",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "1516",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS ANDTHEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, REESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "15161000",
+   "hs6": "151610",
+   "hs6_description": "Animal fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",
    "level": 8,
    "chapter": "15",
    "description": "Animal fats and oils and their fractions",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "151620",
+   "hs6": "151620",
+   "hs6_description": "Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",
    "level": 6,
    "chapter": "15",
    "description": "Vegetable fats and oils and their fractions",
@@ -1605,6 +1871,8 @@
   },
   {
    "hs_code": "15162011",
+   "hs6": "151620",
+   "hs6_description": "Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",
    "level": 8,
    "chapter": "15",
    "description": "Cotton seed oil: ---- Edible grade",
@@ -1617,6 +1885,8 @@
   },
   {
    "hs_code": "15162019",
+   "hs6": "151620",
+   "hs6_description": "Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",
    "level": 8,
    "chapter": "15",
    "description": "Cotton seed oil: ---- Other",
@@ -1629,6 +1899,8 @@
   },
   {
    "hs_code": "15162021",
+   "hs6": "151620",
+   "hs6_description": "Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",
    "level": 8,
    "chapter": "15",
    "description": "Groundnut oil: ---- Edible grade",
@@ -1641,6 +1913,8 @@
   },
   {
    "hs_code": "15162029",
+   "hs6": "151620",
+   "hs6_description": "Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",
    "level": 8,
    "chapter": "15",
    "description": "Groundnut oil: ---- Other",
@@ -1653,6 +1927,8 @@
   },
   {
    "hs_code": "15162031",
+   "hs6": "151620",
+   "hs6_description": "Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",
    "level": 8,
    "chapter": "15",
    "description": "Hydrogenated castor oil (opal wax): ---- Edible grade",
@@ -1665,6 +1941,8 @@
   },
   {
    "hs_code": "15162039",
+   "hs6": "151620",
+   "hs6_description": "Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",
    "level": 8,
    "chapter": "15",
    "description": "Hydrogenated castor oil (opal wax): ---- Other",
@@ -1677,6 +1955,8 @@
   },
   {
    "hs_code": "15162091",
+   "hs6": "151620",
+   "hs6_description": "Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",
    "level": 8,
    "chapter": "15",
    "description": "Other: ---- Edible grade",
@@ -1689,6 +1969,8 @@
   },
   {
    "hs_code": "15162099",
+   "hs6": "151620",
+   "hs6_description": "Vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",
    "level": 8,
    "chapter": "15",
    "description": "Other: ---- Other",
@@ -1701,6 +1983,8 @@
   },
   {
    "hs_code": "15163000",
+   "hs6": "151630",
+   "hs6_description": "Microbial fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",
    "level": 8,
    "chapter": "15",
    "description": "Microbial fats and oils and their fractions",
@@ -1713,6 +1997,8 @@
   },
   {
    "hs_code": "1517",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "MARGARINE; EDIBLE MIXTURES OR PREPARATIONS OF ANIMAL, VEGETABLE OR MICROBIAL FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS AND OILS OR THEIR FRACTIONS OF HEADING 1516",
@@ -1725,6 +2011,8 @@
   },
   {
    "hs_code": "151710",
+   "hs6": "151710",
+   "hs6_description": "Margarine; excluding liquid margarine",
    "level": 6,
    "chapter": "15",
    "description": "Margarine, excluding liquid margarine",
@@ -1737,6 +2025,8 @@
   },
   {
    "hs_code": "15171010",
+   "hs6": "151710",
+   "hs6_description": "Margarine; excluding liquid margarine",
    "level": 8,
    "chapter": "15",
    "description": "Of animal origin",
@@ -1749,6 +2039,8 @@
   },
   {
    "hs_code": "15171021",
+   "hs6": "151710",
+   "hs6_description": "Margarine; excluding liquid margarine",
    "level": 8,
    "chapter": "15",
    "description": "Of vegetable origin: ---- Edible grade",
@@ -1761,6 +2053,8 @@
   },
   {
    "hs_code": "15171022",
+   "hs6": "151710",
+   "hs6_description": "Margarine; excluding liquid margarine",
    "level": 8,
    "chapter": "15",
    "description": "Of vegetable origin: ---- Linoxyn",
@@ -1773,6 +2067,8 @@
   },
   {
    "hs_code": "15171029",
+   "hs6": "151710",
+   "hs6_description": "Margarine; excluding liquid margarine",
    "level": 8,
    "chapter": "15",
    "description": "Of vegetable origin: ---- Other",
@@ -1785,6 +2081,8 @@
   },
   {
    "hs_code": "151790",
+   "hs6": "151790",
+   "hs6_description": "Edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, n.e.c. in heading 1517, other than edible fats and oils or their fractions of heading 15.16",
    "level": 6,
    "chapter": "15",
    "description": "Other",
@@ -1797,6 +2095,8 @@
   },
   {
    "hs_code": "15179010",
+   "hs6": "151790",
+   "hs6_description": "Edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, n.e.c. in heading 1517, other than edible fats and oils or their fractions of heading 15.16",
    "level": 8,
    "chapter": "15",
    "description": "Sal fat (processed or refined)",
@@ -1809,6 +2109,8 @@
   },
   {
    "hs_code": "15179030",
+   "hs6": "151790",
+   "hs6_description": "Edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, n.e.c. in heading 1517, other than edible fats and oils or their fractions of heading 15.16",
    "level": 8,
    "chapter": "15",
    "description": "Imitation lard of animal origin",
@@ -1821,6 +2123,8 @@
   },
   {
    "hs_code": "15179040",
+   "hs6": "151790",
+   "hs6_description": "Edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, n.e.c. in heading 1517, other than edible fats and oils or their fractions of heading 15.16",
    "level": 8,
    "chapter": "15",
    "description": "Imitation lard of vegetable origin",
@@ -1833,6 +2137,8 @@
   },
   {
    "hs_code": "15179090",
+   "hs6": "151790",
+   "hs6_description": "Edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, n.e.c. in heading 1517, other than edible fats and oils or their fractions of heading 15.16",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -1845,6 +2151,8 @@
   },
   {
    "hs_code": "1518",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS AND THEIR FRACTIONS, BOILED, OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING THOSE OF HEADING 1516; INEDIBLE MIXTURES OR PREPARATIONS OF ANIMAL, VEGETABLE OR MICROBIAL FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, NOT ELSEWHERE SPECIFIED OR INCLUDED",
@@ -1857,6 +2165,8 @@
   },
   {
    "hs_code": "15180011",
+   "hs6": "151800",
+   "hs6_description": "Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",
    "level": 8,
    "chapter": "15",
    "description": "Lin seed oil: ---- Edible grade",
@@ -1869,6 +2179,8 @@
   },
   {
    "hs_code": "15180019",
+   "hs6": "151800",
+   "hs6_description": "Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",
    "level": 8,
    "chapter": "15",
    "description": "Lin seed oil: ---- Other",
@@ -1881,6 +2193,8 @@
   },
   {
    "hs_code": "15180021",
+   "hs6": "151800",
+   "hs6_description": "Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",
    "level": 8,
    "chapter": "15",
    "description": "Castor oil, dehydrated: ---- Edible grade",
@@ -1893,6 +2207,8 @@
   },
   {
    "hs_code": "15180029",
+   "hs6": "151800",
+   "hs6_description": "Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",
    "level": 8,
    "chapter": "15",
    "description": "Castor oil, dehydrated: ---- Other",
@@ -1905,6 +2221,8 @@
   },
   {
    "hs_code": "15180031",
+   "hs6": "151800",
+   "hs6_description": "Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",
    "level": 8,
    "chapter": "15",
    "description": "Other vegetable oil and its fats: ---- Edible grade",
@@ -1917,6 +2235,8 @@
   },
   {
    "hs_code": "15180039",
+   "hs6": "151800",
+   "hs6_description": "Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",
    "level": 8,
    "chapter": "15",
    "description": "Other vegetable oil and its fats: ---- Other",
@@ -1929,6 +2249,8 @@
   },
   {
    "hs_code": "15180040",
+   "hs6": "151800",
+   "hs6_description": "Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",
    "level": 8,
    "chapter": "15",
    "description": "Other vegetable oil and its fats: ---- Other",
@@ -1941,6 +2263,8 @@
   },
   {
    "hs_code": "15200000",
+   "hs6": "152000",
+   "hs6_description": "Glycerol, crude; glycerol waters and glycerol lyes",
    "level": 8,
    "chapter": "15",
    "description": "Glycerol, crude; glycerol waters and glycerol lyes.",
@@ -1953,6 +2277,8 @@
   },
   {
    "hs_code": "1521",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured.",
@@ -1965,6 +2291,8 @@
   },
   {
    "hs_code": "152110",
+   "hs6": "152110",
+   "hs6_description": "Vegetable waxes (other than triglycerides); whether or not refined or coloured",
    "level": 6,
    "chapter": "15",
    "description": "Vegetable waxes",
@@ -1977,6 +2305,8 @@
   },
   {
    "hs_code": "15211011",
+   "hs6": "152110",
+   "hs6_description": "Vegetable waxes (other than triglycerides); whether or not refined or coloured",
    "level": 8,
    "chapter": "15",
    "description": "Carnauba Waxes: ---- Edible wax for waxing fresh fruits and vegetables",
@@ -1989,6 +2319,8 @@
   },
   {
    "hs_code": "15211019",
+   "hs6": "152110",
+   "hs6_description": "Vegetable waxes (other than triglycerides); whether or not refined or coloured",
    "level": 8,
    "chapter": "15",
    "description": "Carnauba Waxes: ---- Other",
@@ -2001,6 +2333,8 @@
   },
   {
    "hs_code": "15211090",
+   "hs6": "152110",
+   "hs6_description": "Vegetable waxes (other than triglycerides); whether or not refined or coloured",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -2013,6 +2347,8 @@
   },
   {
    "hs_code": "152190",
+   "hs6": "152190",
+   "hs6_description": "Waxes, other than vegetable, n.e.c. in heading no. 1521; whether or not refined or coloured",
    "level": 6,
    "chapter": "15",
    "description": "Other",
@@ -2025,6 +2361,8 @@
   },
   {
    "hs_code": "15219010",
+   "hs6": "152190",
+   "hs6_description": "Waxes, other than vegetable, n.e.c. in heading no. 1521; whether or not refined or coloured",
    "level": 8,
    "chapter": "15",
    "description": "Beewax whether or not coloured",
@@ -2037,6 +2375,8 @@
   },
   {
    "hs_code": "15219020",
+   "hs6": "152190",
+   "hs6_description": "Waxes, other than vegetable, n.e.c. in heading no. 1521; whether or not refined or coloured",
    "level": 8,
    "chapter": "15",
    "description": "Shellac wax whether or not coloured",
@@ -2049,6 +2389,8 @@
   },
   {
    "hs_code": "15219090",
+   "hs6": "152190",
+   "hs6_description": "Waxes, other than vegetable, n.e.c. in heading no. 1521; whether or not refined or coloured",
    "level": 8,
    "chapter": "15",
    "description": "Other",
@@ -2061,6 +2403,8 @@
   },
   {
    "hs_code": "1522",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "15",
    "description": "Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes.",
@@ -2073,6 +2417,8 @@
   },
   {
    "hs_code": "152200",
+   "hs6": "152200",
+   "hs6_description": "Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes",
    "level": 6,
    "chapter": "15",
    "description": "Degras: residues resulting from the treatment of fatty substances or animal or vegetable waxes :",
@@ -2085,6 +2431,8 @@
   },
   {
    "hs_code": "15220010",
+   "hs6": "152200",
+   "hs6_description": "Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes",
    "level": 8,
    "chapter": "15",
    "description": "Degras",
@@ -2097,6 +2445,8 @@
   },
   {
    "hs_code": "15220020",
+   "hs6": "152200",
+   "hs6_description": "Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes",
    "level": 8,
    "chapter": "15",
    "description": "Soap stocks",
@@ -2109,6 +2459,8 @@
   },
   {
    "hs_code": "15220090",
+   "hs6": "152200",
+   "hs6_description": "Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes",
    "level": 8,
    "chapter": "15",
    "description": "Other",

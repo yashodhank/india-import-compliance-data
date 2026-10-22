@@ -9,6 +9,8 @@
  "rows": [
   {
    "hs_code": "8201",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Hand tools, the following : spades, shovels, mattocks, picks, hoes, forks and rakes; axes, bill hooks and similar hewing tools; secateurs and pruners of any kind; scythes, sickles, hay knives, hedge shears, timber wedges and other tools of a kind used in agriculture, horticulture or forestry.",
@@ -21,6 +23,8 @@
   },
   {
    "hs_code": "82011000",
+   "hs6": "820110",
+   "hs6_description": "Tools, hand; spades and shovels",
    "level": 8,
    "chapter": "82",
    "description": "Spades and shovels",
@@ -33,6 +37,8 @@
   },
   {
    "hs_code": "82013000",
+   "hs6": "820130",
+   "hs6_description": "Tools, hand; mattocks, picks, hoes and rakes",
    "level": 8,
    "chapter": "82",
    "description": "Mattocks, picks, hoes and rakes",
@@ -45,6 +51,8 @@
   },
   {
    "hs_code": "82014000",
+   "hs6": "820140",
+   "hs6_description": "Tools, hand; axes, bill hooks and similar hewing tools, of a kind used in agriculture, horticulture or forestry",
    "level": 8,
    "chapter": "82",
    "description": "Axes, bill hooks and similar hewing tools",
@@ -57,6 +65,8 @@
   },
   {
    "hs_code": "82015000",
+   "hs6": "820150",
+   "hs6_description": "Tools, hand; one-handed secateurs (including poultry shears)",
    "level": 8,
    "chapter": "82",
    "description": "Secateurs and similar one-handed pruners and shears (including poultry shears)",
@@ -69,6 +79,8 @@
   },
   {
    "hs_code": "82016000",
+   "hs6": "820160",
+   "hs6_description": "Tools, hand; hedge shears, two-handed pruning shears and similar two-handed shears",
    "level": 8,
    "chapter": "82",
    "description": "Hedge shears, two-handed pruning shears and similar two-handed shears",
@@ -81,6 +93,8 @@
   },
   {
    "hs_code": "82019000",
+   "hs6": "820190",
+   "hs6_description": "Tools, hand; forks, scythes, sickles, hay knives, timber wedges, and other hand tools of a kind used in agriculture, horticulture or forestry n.e.c. in heading 8201",
    "level": 8,
    "chapter": "82",
    "description": "Other hand tools of a kind used in agriculture, horticulture or forestry",
@@ -93,6 +107,8 @@
   },
   {
    "hs_code": "8202",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Hand saws; blades for saws of all kinds (including slitting,",
@@ -105,6 +121,8 @@
   },
   {
    "hs_code": "820210",
+   "hs6": "820210",
+   "hs6_description": "Tools, hand; hand saws",
    "level": 6,
    "chapter": "82",
    "description": "Hand saws",
@@ -117,6 +135,8 @@
   },
   {
    "hs_code": "82021010",
+   "hs6": "820210",
+   "hs6_description": "Tools, hand; hand saws",
    "level": 8,
    "chapter": "82",
    "description": "Metal working hand saws",
@@ -129,6 +149,8 @@
   },
   {
    "hs_code": "82021020",
+   "hs6": "820210",
+   "hs6_description": "Tools, hand; hand saws",
    "level": 8,
    "chapter": "82",
    "description": "Wood working and similar hand saws",
@@ -141,6 +163,8 @@
   },
   {
    "hs_code": "82021090",
+   "hs6": "820210",
+   "hs6_description": "Tools, hand; hand saws",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -153,6 +177,8 @@
   },
   {
    "hs_code": "82022000",
+   "hs6": "820220",
+   "hs6_description": "Tools, hand; band saw blades",
    "level": 8,
    "chapter": "82",
    "description": "Band saw blades",
@@ -165,6 +191,8 @@
   },
   {
    "hs_code": "82023100",
+   "hs6": "820231",
+   "hs6_description": "Tools, hand; circular saw blades (including slitting or slotting saw blades), with working part of steel",
    "level": 8,
    "chapter": "82",
    "description": "Circular saw blades (including slitting or slotting saw blades) : -- With working part of steel",
@@ -177,6 +205,8 @@
   },
   {
    "hs_code": "82023900",
+   "hs6": "820239",
+   "hs6_description": "Tools, hand; circular saw blades (including slitting or slotting saw blades), with working part of materials (other than steel)",
    "level": 8,
    "chapter": "82",
    "description": "Circular saw blades (including slitting or slotting saw blades) : -- Other, including parts",
@@ -189,6 +219,8 @@
   },
   {
    "hs_code": "82024000",
+   "hs6": "820240",
+   "hs6_description": "Tools, hand; chain saw blades",
    "level": 8,
    "chapter": "82",
    "description": "Chain saw blades",
@@ -201,6 +233,8 @@
   },
   {
    "hs_code": "820291",
+   "hs6": "820291",
+   "hs6_description": "Tools, hand; straight saw blades, for working metal",
    "level": 6,
    "chapter": "82",
    "description": "Other saw blades : -- Straight saw blades, for working metal",
@@ -213,6 +247,8 @@
   },
   {
    "hs_code": "82029110",
+   "hs6": "820291",
+   "hs6_description": "Tools, hand; straight saw blades, for working metal",
    "level": 8,
    "chapter": "82",
    "description": "Other saw blades: ----Machine operated",
@@ -225,6 +261,8 @@
   },
   {
    "hs_code": "82029120",
+   "hs6": "820291",
+   "hs6_description": "Tools, hand; straight saw blades, for working metal",
    "level": 8,
    "chapter": "82",
    "description": "Other saw blades: ----Hand operated",
@@ -237,6 +275,8 @@
   },
   {
    "hs_code": "820299",
+   "hs6": "820299",
+   "hs6_description": "Tools, hand; saw blades n.e.c. in heading no. 8202",
    "level": 6,
    "chapter": "82",
    "description": "Other saw blades : -- Other",
@@ -249,6 +289,8 @@
   },
   {
    "hs_code": "82029910",
+   "hs6": "820299",
+   "hs6_description": "Tools, hand; saw blades n.e.c. in heading no. 8202",
    "level": 8,
    "chapter": "82",
    "description": "Hacksaw frames",
@@ -261,6 +303,8 @@
   },
   {
    "hs_code": "82029990",
+   "hs6": "820299",
+   "hs6_description": "Tools, hand; saw blades n.e.c. in heading no. 8202",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -273,6 +317,8 @@
   },
   {
    "hs_code": "8203",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Files, rasps, pliers (including cutting pliers), pincers, tweezers, metal cutting shears, pipe-cutters, bolt croppers, perforating punches and similar hand tools.",
@@ -285,6 +331,8 @@
   },
   {
    "hs_code": "82031000",
+   "hs6": "820310",
+   "hs6_description": "Tools, hand; files, rasps and similar tools",
    "level": 8,
    "chapter": "82",
    "description": "Files, rasps and similar tools",
@@ -297,6 +345,8 @@
   },
   {
    "hs_code": "82032000",
+   "hs6": "820320",
+   "hs6_description": "Tools, hand; pliers (including cutting pliers), pincers, tweezers and similar tools",
    "level": 8,
    "chapter": "82",
    "description": "Pliers (including cutting pliers), pincers, tweezers and similar tools",
@@ -309,6 +359,8 @@
   },
   {
    "hs_code": "82033000",
+   "hs6": "820330",
+   "hs6_description": "Tools, hand; metal cutting shears and similar tools",
    "level": 8,
    "chapter": "82",
    "description": "Metal cutting shears and similar tools",
@@ -321,6 +373,8 @@
   },
   {
    "hs_code": "820340",
+   "hs6": "820340",
+   "hs6_description": "Tools, hand; pipe-cutters, bolt croppers, perforating punches and similar tools",
    "level": 6,
    "chapter": "82",
    "description": "Pipe-cutters, bolt croppers, perforating punches and similar tools",
@@ -333,6 +387,8 @@
   },
   {
    "hs_code": "82034010",
+   "hs6": "820340",
+   "hs6_description": "Tools, hand; pipe-cutters, bolt croppers, perforating punches and similar tools",
    "level": 8,
    "chapter": "82",
    "description": "Perforating punches and pipe cutters",
@@ -345,6 +401,8 @@
   },
   {
    "hs_code": "82034090",
+   "hs6": "820340",
+   "hs6_description": "Tools, hand; pipe-cutters, bolt croppers, perforating punches and similar tools",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -357,6 +415,8 @@
   },
   {
    "hs_code": "8204",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches); interchangeable spanner sockets, with or without handles.",
@@ -369,6 +429,8 @@
   },
   {
    "hs_code": "820411",
+   "hs6": "820411",
+   "hs6_description": "Tools, hand; hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches), non-adjustable",
    "level": 6,
    "chapter": "82",
    "description": "Hand-operated spanners and wrenches : -- Non-adjustable",
@@ -381,6 +443,8 @@
   },
   {
    "hs_code": "82041110",
+   "hs6": "820411",
+   "hs6_description": "Tools, hand; hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches), non-adjustable",
    "level": 8,
    "chapter": "82",
    "description": "Spanners",
@@ -393,6 +457,8 @@
   },
   {
    "hs_code": "82041120",
+   "hs6": "820411",
+   "hs6_description": "Tools, hand; hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches), non-adjustable",
    "level": 8,
    "chapter": "82",
    "description": "Wrenches",
@@ -405,6 +471,8 @@
   },
   {
    "hs_code": "820412",
+   "hs6": "820412",
+   "hs6_description": "Tools, hand; hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches), adjustable",
    "level": 6,
    "chapter": "82",
    "description": "Hand-operated spanners and wrenches : -- Adjustable",
@@ -417,6 +485,8 @@
   },
   {
    "hs_code": "82041210",
+   "hs6": "820412",
+   "hs6_description": "Tools, hand; hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches), adjustable",
    "level": 8,
    "chapter": "82",
    "description": "Spanners",
@@ -429,6 +499,8 @@
   },
   {
    "hs_code": "82041220",
+   "hs6": "820412",
+   "hs6_description": "Tools, hand; hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches), adjustable",
    "level": 8,
    "chapter": "82",
    "description": "Wrenches",
@@ -441,6 +513,8 @@
   },
   {
    "hs_code": "82042000",
+   "hs6": "820420",
+   "hs6_description": "Tools, hand; interchangeable spanner sockets, with or without handles",
    "level": 8,
    "chapter": "82",
    "description": "Interchangeable spanner sockets, with or without handles",
@@ -453,6 +527,8 @@
   },
   {
    "hs_code": "8205",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Hand tools (including glaziers diamonds), not elsewhere specified or included; blow lamps; vices, clamps and the like, other than accessories for and parts of, machine-tools or waterjet cutting machines; anvils; portable forges; hand or pedaloperated grinding wheels with frameworks.",
@@ -465,6 +541,8 @@
   },
   {
    "hs_code": "82051000",
+   "hs6": "820510",
+   "hs6_description": "Tools, hand; drilling, threading or tapping tools",
    "level": 8,
    "chapter": "82",
    "description": "Drilling, threading or tapping tools",
@@ -477,6 +555,8 @@
   },
   {
    "hs_code": "82052000",
+   "hs6": "820520",
+   "hs6_description": "Tools, hand; hammers and sledge hammers",
    "level": 8,
    "chapter": "82",
    "description": "Hammers and sledge hammers",
@@ -489,6 +569,8 @@
   },
   {
    "hs_code": "82053000",
+   "hs6": "820530",
+   "hs6_description": "Tools, hand; planes, chisels, gauges and similar cutting tools for working wood",
    "level": 8,
    "chapter": "82",
    "description": "Planes, chisels, gouges and similar cutting tools for working wood",
@@ -501,6 +583,8 @@
   },
   {
    "hs_code": "82054000",
+   "hs6": "820540",
+   "hs6_description": "Tools, hand; screwdrivers",
    "level": 8,
    "chapter": "82",
    "description": "Screwdrivers",
@@ -513,6 +597,8 @@
   },
   {
    "hs_code": "820551",
+   "hs6": "820551",
+   "hs6_description": "Tools, hand; household tools",
    "level": 6,
    "chapter": "82",
    "description": "Other hand tools (including glaziers diamonds) : -- Household tools",
@@ -525,6 +611,8 @@
   },
   {
    "hs_code": "82055110",
+   "hs6": "820551",
+   "hs6_description": "Tools, hand; household tools",
    "level": 8,
    "chapter": "82",
    "description": "Other hand tools (including glaziers diamonds): ----Can or cork opener",
@@ -537,6 +625,8 @@
   },
   {
    "hs_code": "82055190",
+   "hs6": "820551",
+   "hs6_description": "Tools, hand; household tools",
    "level": 8,
    "chapter": "82",
    "description": "Other hand tools (including glaziers diamonds): ----Other",
@@ -549,6 +639,8 @@
   },
   {
    "hs_code": "820559",
+   "hs6": "820559",
+   "hs6_description": "Tools, hand; other hand tools (including glaziers diamonds), excluding household tools, drilling, threading or tapping tools, hammers and sledge hammers, planes, chisels, gouges and similar cutting tools for working wood, and screwdrivers",
    "level": 6,
    "chapter": "82",
    "description": "Other hand tools (including glaziers diamonds) : -- Other",
@@ -561,6 +653,8 @@
   },
   {
    "hs_code": "82055910",
+   "hs6": "820559",
+   "hs6_description": "Tools, hand; other hand tools (including glaziers diamonds), excluding household tools, drilling, threading or tapping tools, hammers and sledge hammers, planes, chisels, gouges and similar cutting tools for working wood, and screwdrivers",
    "level": 8,
    "chapter": "82",
    "description": "Grease guns (excluding compressed air type)",
@@ -573,6 +667,8 @@
   },
   {
    "hs_code": "82055920",
+   "hs6": "820559",
+   "hs6_description": "Tools, hand; other hand tools (including glaziers diamonds), excluding household tools, drilling, threading or tapping tools, hammers and sledge hammers, planes, chisels, gouges and similar cutting tools for working wood, and screwdrivers",
    "level": 8,
    "chapter": "82",
    "description": "Metal working hand tools",
@@ -585,6 +681,8 @@
   },
   {
    "hs_code": "82055930",
+   "hs6": "820559",
+   "hs6_description": "Tools, hand; other hand tools (including glaziers diamonds), excluding household tools, drilling, threading or tapping tools, hammers and sledge hammers, planes, chisels, gouges and similar cutting tools for working wood, and screwdrivers",
    "level": 8,
    "chapter": "82",
    "description": "Hand tools for specified uses, such as watch making tools, goldsmith tools",
@@ -597,6 +695,8 @@
   },
   {
    "hs_code": "82055940",
+   "hs6": "820559",
+   "hs6_description": "Tools, hand; other hand tools (including glaziers diamonds), excluding household tools, drilling, threading or tapping tools, hammers and sledge hammers, planes, chisels, gouges and similar cutting tools for working wood, and screwdrivers",
    "level": 8,
    "chapter": "82",
    "description": "Forks other than those of heading 8201 and 8215",
@@ -609,6 +709,8 @@
   },
   {
    "hs_code": "82055990",
+   "hs6": "820559",
+   "hs6_description": "Tools, hand; other hand tools (including glaziers diamonds), excluding household tools, drilling, threading or tapping tools, hammers and sledge hammers, planes, chisels, gouges and similar cutting tools for working wood, and screwdrivers",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -621,6 +723,8 @@
   },
   {
    "hs_code": "82056000",
+   "hs6": "820560",
+   "hs6_description": "Tools, hand; blow lamps",
    "level": 8,
    "chapter": "82",
    "description": "Blow lamps",
@@ -633,6 +737,8 @@
   },
   {
    "hs_code": "82057000",
+   "hs6": "820570",
+   "hs6_description": "Tools, hand; vices, clamps and the like",
    "level": 8,
    "chapter": "82",
    "description": "Vices, clamps and the like",
@@ -645,6 +751,8 @@
   },
   {
    "hs_code": "820590",
+   "hs6": "820590",
+   "hs6_description": "Tools, hand; n.e.c. in heading 8205, including anvils, portable forges, hand or pedal-operated grinding wheels with frameworks, and sets of articles of two or more of the subheadings in heading 8205",
    "level": 6,
    "chapter": "82",
    "description": "Other, including sets of articles of two or more of subheadings of this heading",
@@ -657,6 +765,8 @@
   },
   {
    "hs_code": "82059010",
+   "hs6": "820590",
+   "hs6_description": "Tools, hand; n.e.c. in heading 8205, including anvils, portable forges, hand or pedal-operated grinding wheels with frameworks, and sets of articles of two or more of the subheadings in heading 8205",
    "level": 8,
    "chapter": "82",
    "description": "Anvils and portable forges",
@@ -669,6 +779,8 @@
   },
   {
    "hs_code": "82059020",
+   "hs6": "820590",
+   "hs6_description": "Tools, hand; n.e.c. in heading 8205, including anvils, portable forges, hand or pedal-operated grinding wheels with frameworks, and sets of articles of two or more of the subheadings in heading 8205",
    "level": 8,
    "chapter": "82",
    "description": "Grinding wheels with frame, hand or pedal-operated",
@@ -681,6 +793,8 @@
   },
   {
    "hs_code": "82059030",
+   "hs6": "820590",
+   "hs6_description": "Tools, hand; n.e.c. in heading 8205, including anvils, portable forges, hand or pedal-operated grinding wheels with frameworks, and sets of articles of two or more of the subheadings in heading 8205",
    "level": 8,
    "chapter": "82",
    "description": "Sets of articles of two or more of the foregoing sub-headings",
@@ -693,6 +807,8 @@
   },
   {
    "hs_code": "82059090",
+   "hs6": "820590",
+   "hs6_description": "Tools, hand; n.e.c. in heading 8205, including anvils, portable forges, hand or pedal-operated grinding wheels with frameworks, and sets of articles of two or more of the subheadings in heading 8205",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -705,6 +821,8 @@
   },
   {
    "hs_code": "8206",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Tools of two or more of the headings 82.02 to 82.05, put up in sets for retail sale.",
@@ -717,6 +835,8 @@
   },
   {
    "hs_code": "820600",
+   "hs6": "820600",
+   "hs6_description": "Tools, hand; two or more of heading no. 8202 to 8205, put up in sets for retail sale",
    "level": 6,
    "chapter": "82",
    "description": "Tools of two or more of the headings 8202 to 8205, put up in sets for retail sale :",
@@ -729,6 +849,8 @@
   },
   {
    "hs_code": "82060010",
+   "hs6": "820600",
+   "hs6_description": "Tools, hand; two or more of heading no. 8202 to 8205, put up in sets for retail sale",
    "level": 8,
    "chapter": "82",
    "description": "Garage tools in sets",
@@ -741,6 +863,8 @@
   },
   {
    "hs_code": "82060090",
+   "hs6": "820600",
+   "hs6_description": "Tools, hand; two or more of heading no. 8202 to 8205, put up in sets for retail sale",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -753,6 +877,8 @@
   },
   {
    "hs_code": "8207",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Interchangeable tools for hand tools, whether or not poweroperated, or for machine-tools (for example, for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screw driving), including dies for drawing or extruding metal, and rock drilling or earth boring tools.",
@@ -765,6 +891,8 @@
   },
   {
    "hs_code": "82071300",
+   "hs6": "820713",
+   "hs6_description": "Tools, interchangeable; rock drilling or earth boring tools, with working part of cermets, whether or not power operated",
    "level": 8,
    "chapter": "82",
    "description": "Rock drilling or earth boring tools : -- With working part of cermets",
@@ -777,6 +905,8 @@
   },
   {
    "hs_code": "82071900",
+   "hs6": "820719",
+   "hs6_description": "Tools, interchangeable; rock drilling or earth boring tools, with working part (other than of cermets), whether or not power operated, including parts",
    "level": 8,
    "chapter": "82",
    "description": "Rock drilling or earth boring tools : -- Other, including parts",
@@ -789,6 +919,8 @@
   },
   {
    "hs_code": "82072000",
+   "hs6": "820720",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), dies for drawing or extruding metal",
    "level": 8,
    "chapter": "82",
    "description": "Dies for drawing or extruding metal",
@@ -801,6 +933,8 @@
   },
   {
    "hs_code": "82073000",
+   "hs6": "820730",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), tools for pressing, stamping or punching",
    "level": 8,
    "chapter": "82",
    "description": "Tools for pressing, stamping or punching",
@@ -813,6 +947,8 @@
   },
   {
    "hs_code": "820740",
+   "hs6": "820740",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), tools for tapping or threading",
    "level": 6,
    "chapter": "82",
    "description": "Tools for tapping or threading",
@@ -825,6 +961,8 @@
   },
   {
    "hs_code": "82074010",
+   "hs6": "820740",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), tools for tapping or threading",
    "level": 8,
    "chapter": "82",
    "description": "Chasers",
@@ -837,6 +975,8 @@
   },
   {
    "hs_code": "82074090",
+   "hs6": "820740",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), tools for tapping or threading",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -849,6 +989,8 @@
   },
   {
    "hs_code": "82075000",
+   "hs6": "820750",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), tools for drilling (other than rock)",
    "level": 8,
    "chapter": "82",
    "description": "Tools for drilling, other than for rock drilling",
@@ -861,6 +1003,8 @@
   },
   {
    "hs_code": "820760",
+   "hs6": "820760",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for boring or broaching",
    "level": 6,
    "chapter": "82",
    "description": "Tools for boring or broaching",
@@ -873,6 +1017,8 @@
   },
   {
    "hs_code": "82076010",
+   "hs6": "820760",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for boring or broaching",
    "level": 8,
    "chapter": "82",
    "description": "Reamers",
@@ -885,6 +1031,8 @@
   },
   {
    "hs_code": "82076090",
+   "hs6": "820760",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for boring or broaching",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -897,6 +1045,8 @@
   },
   {
    "hs_code": "820770",
+   "hs6": "820770",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for milling",
    "level": 6,
    "chapter": "82",
    "description": "Tools for milling",
@@ -909,6 +1059,8 @@
   },
   {
    "hs_code": "82077010",
+   "hs6": "820770",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for milling",
    "level": 8,
    "chapter": "82",
    "description": "Cutters",
@@ -921,6 +1073,8 @@
   },
   {
    "hs_code": "82077090",
+   "hs6": "820770",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for milling",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -933,6 +1087,8 @@
   },
   {
    "hs_code": "82078000",
+   "hs6": "820780",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for turning",
    "level": 8,
    "chapter": "82",
    "description": "Tools for turning",
@@ -945,6 +1101,8 @@
   },
   {
    "hs_code": "820790",
+   "hs6": "820790",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for screw-driving or uses n.e.c. in heading no. 8207",
    "level": 6,
    "chapter": "82",
    "description": "Other interchangeable tools",
@@ -957,6 +1115,8 @@
   },
   {
    "hs_code": "82079010",
+   "hs6": "820790",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for screw-driving or uses n.e.c. in heading no. 8207",
    "level": 8,
    "chapter": "82",
    "description": "For Metal working hand tools",
@@ -969,6 +1129,8 @@
   },
   {
    "hs_code": "82079020",
+   "hs6": "820790",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for screw-driving or uses n.e.c. in heading no. 8207",
    "level": 8,
    "chapter": "82",
    "description": "For Wood working hand tools",
@@ -981,6 +1143,8 @@
   },
   {
    "hs_code": "82079030",
+   "hs6": "820790",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for screw-driving or uses n.e.c. in heading no. 8207",
    "level": 8,
    "chapter": "82",
    "description": "Lathe tools and tool belts",
@@ -993,6 +1157,8 @@
   },
   {
    "hs_code": "82079090",
+   "hs6": "820790",
+   "hs6_description": "Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for screw-driving or uses n.e.c. in heading no. 8207",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -1005,6 +1171,8 @@
   },
   {
    "hs_code": "8208",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Knives and cutting blades, for machines or for mechanical appliances.",
@@ -1017,6 +1185,8 @@
   },
   {
    "hs_code": "82081000",
+   "hs6": "820810",
+   "hs6_description": "Tools; knives and cutting blades, for machines or for mechanical appliances, for metal working",
    "level": 8,
    "chapter": "82",
    "description": "For metal working",
@@ -1029,6 +1199,8 @@
   },
   {
    "hs_code": "82082000",
+   "hs6": "820820",
+   "hs6_description": "Tools; knives and cutting blades, for wood working machines or mechanical appliances",
    "level": 8,
    "chapter": "82",
    "description": "For wood working",
@@ -1041,6 +1213,8 @@
   },
   {
    "hs_code": "82083000",
+   "hs6": "820830",
+   "hs6_description": "Tools; knives and cutting blades, for kitchen appliances or for machines used by the food industry",
    "level": 8,
    "chapter": "82",
    "description": "For kitchen appliances or for machines used by the food industry",
@@ -1053,6 +1227,8 @@
   },
   {
    "hs_code": "82084000",
+   "hs6": "820840",
+   "hs6_description": "Tools; knives and cutting blades, for agricultural, horticultural or forestry machines or mechanical appliances",
    "level": 8,
    "chapter": "82",
    "description": "For agricultural, horticultural or forestry machines",
@@ -1065,6 +1241,8 @@
   },
   {
    "hs_code": "820890",
+   "hs6": "820890",
+   "hs6_description": "Tools; knives and cutting blades, for machines or mechanical appliances, n.e.c. in heading no. 8208",
    "level": 6,
    "chapter": "82",
    "description": "Other",
@@ -1077,6 +1255,8 @@
   },
   {
    "hs_code": "82089010",
+   "hs6": "820890",
+   "hs6_description": "Tools; knives and cutting blades, for machines or mechanical appliances, n.e.c. in heading no. 8208",
    "level": 8,
    "chapter": "82",
    "description": "Knives and cutting blades for paper cutting machines",
@@ -1089,6 +1269,8 @@
   },
   {
    "hs_code": "82089020",
+   "hs6": "820890",
+   "hs6_description": "Tools; knives and cutting blades, for machines or mechanical appliances, n.e.c. in heading no. 8208",
    "level": 8,
    "chapter": "82",
    "description": "Bell skiving knives",
@@ -1101,6 +1283,8 @@
   },
   {
    "hs_code": "82089030",
+   "hs6": "820890",
+   "hs6_description": "Tools; knives and cutting blades, for machines or mechanical appliances, n.e.c. in heading no. 8208",
    "level": 8,
    "chapter": "82",
    "description": "Band knives for splitting machine",
@@ -1113,6 +1297,8 @@
   },
   {
    "hs_code": "82089040",
+   "hs6": "820890",
+   "hs6_description": "Tools; knives and cutting blades, for machines or mechanical appliances, n.e.c. in heading no. 8208",
    "level": 8,
    "chapter": "82",
    "description": "Cutting and clicking dies",
@@ -1125,6 +1311,8 @@
   },
   {
    "hs_code": "82089090",
+   "hs6": "820890",
+   "hs6_description": "Tools; knives and cutting blades, for machines or mechanical appliances, n.e.c. in heading no. 8208",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -1137,6 +1325,8 @@
   },
   {
    "hs_code": "8209",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Plates, sticks, tips and the like for tools, unmounted, of cermets.",
@@ -1149,6 +1339,8 @@
   },
   {
    "hs_code": "820900",
+   "hs6": "820900",
+   "hs6_description": "Tools; plates, sticks, tips and the like for tools, unmounted, of sintered metal carbides or cermets",
    "level": 6,
    "chapter": "82",
    "description": "Plates, sticks, tips and the like fortools, unmounted, of cermets:",
@@ -1161,6 +1353,8 @@
   },
   {
    "hs_code": "82090010",
+   "hs6": "820900",
+   "hs6_description": "Tools; plates, sticks, tips and the like for tools, unmounted, of sintered metal carbides or cermets",
    "level": 8,
    "chapter": "82",
    "description": "Tungsten carbide tips",
@@ -1173,6 +1367,8 @@
   },
   {
    "hs_code": "82090090",
+   "hs6": "820900",
+   "hs6_description": "Tools; plates, sticks, tips and the like for tools, unmounted, of sintered metal carbides or cermets",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -1185,6 +1381,8 @@
   },
   {
    "hs_code": "82100000",
+   "hs6": "821000",
+   "hs6_description": "Tools; hand-operated mechanical appliances, weighing 10kg or less, used in the preparation, conditioning or serving of food or drink",
    "level": 8,
    "chapter": "82",
    "description": "Hand-operated mechanical appliances, weighing 10 kg or less, used in the preparation, conditioning or serving of food or drink.",
@@ -1197,6 +1395,8 @@
   },
   {
    "hs_code": "8211",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Knives with cutting blades, serrated or not (including pruning knives), other than knives of heading 82.08, and blades therefor.",
@@ -1209,6 +1409,8 @@
   },
   {
    "hs_code": "82111000",
+   "hs6": "821110",
+   "hs6_description": "Knives; with cutting blades, serrated or not (including pruning knives), sets of assorted articles, excluding knives and blades of heading no. 8208",
    "level": 8,
    "chapter": "82",
    "description": "Sets of assorted articles",
@@ -1221,6 +1423,8 @@
   },
   {
    "hs_code": "82119100",
+   "hs6": "821191",
+   "hs6_description": "Knives; table knives, having fixed cutting blades, serrated or not, excluding knives and blades of heading no. 8208",
    "level": 8,
    "chapter": "82",
    "description": "Other : -- Table knives having fixed blades",
@@ -1233,6 +1437,8 @@
   },
   {
    "hs_code": "82119200",
+   "hs6": "821192",
+   "hs6_description": "Knives; having fixed cutting blades, (other than table knives), serrated or not, excluding knives and blades of heading no. 8208",
    "level": 8,
    "chapter": "82",
    "description": "Other : -- Other knives having fixed blades",
@@ -1245,6 +1451,8 @@
   },
   {
    "hs_code": "821193",
+   "hs6": "821193",
+   "hs6_description": "Knives; with cutting blades, (having other than fixed blades), serrated or not, excluding knives and blades of heading no. 8208",
    "level": 6,
    "chapter": "82",
    "description": "Other:-- Knives having other than fixed blades:",
@@ -1257,6 +1465,8 @@
   },
   {
    "hs_code": "82119310",
+   "hs6": "821193",
+   "hs6_description": "Knives; with cutting blades, (having other than fixed blades), serrated or not, excluding knives and blades of heading no. 8208",
    "level": 8,
    "chapter": "82",
    "description": "Other : -- Knives having other than fixed blades",
@@ -1269,6 +1479,8 @@
   },
   {
    "hs_code": "82119390",
+   "hs6": "821193",
+   "hs6_description": "Knives; with cutting blades, (having other than fixed blades), serrated or not, excluding knives and blades of heading no. 8208",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -1281,6 +1493,8 @@
   },
   {
    "hs_code": "82119400",
+   "hs6": "821194",
+   "hs6_description": "Blades; cutting, serrated or not, excluding those of heading no. 8208",
    "level": 8,
    "chapter": "82",
    "description": "Other : -- Blades",
@@ -1293,6 +1507,8 @@
   },
   {
    "hs_code": "82119500",
+   "hs6": "821195",
+   "hs6_description": "Knives; with handles of base metal",
    "level": 8,
    "chapter": "82",
    "description": "Other : -- Handles of base metal",
@@ -1305,6 +1521,8 @@
   },
   {
    "hs_code": "8212",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Razors and razor blades (including razor blade blanks in strips).",
@@ -1317,6 +1535,8 @@
   },
   {
    "hs_code": "821210",
+   "hs6": "821210",
+   "hs6_description": "Razors",
    "level": 6,
    "chapter": "82",
    "description": "Razors",
@@ -1329,6 +1549,8 @@
   },
   {
    "hs_code": "82121010",
+   "hs6": "821210",
+   "hs6_description": "Razors",
    "level": 8,
    "chapter": "82",
    "description": "Twin type shaving",
@@ -1341,6 +1563,8 @@
   },
   {
    "hs_code": "82121090",
+   "hs6": "821210",
+   "hs6_description": "Razors",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -1353,6 +1577,8 @@
   },
   {
    "hs_code": "821220",
+   "hs6": "821220",
+   "hs6_description": "Razors; safety razor blades, including razor blade blanks in strips",
    "level": 6,
    "chapter": "82",
    "description": "Safety razor blades, including razor blade blanks in strips",
@@ -1365,6 +1591,8 @@
   },
   {
    "hs_code": "82122011",
+   "hs6": "821220",
+   "hs6_description": "Razors; safety razor blades, including razor blade blanks in strips",
    "level": 8,
    "chapter": "82",
    "description": "Disposable catridge blade",
@@ -1377,6 +1605,8 @@
   },
   {
    "hs_code": "82122019",
+   "hs6": "821220",
+   "hs6_description": "Razors; safety razor blades, including razor blade blanks in strips",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -1389,6 +1619,8 @@
   },
   {
    "hs_code": "82122020",
+   "hs6": "821220",
+   "hs6_description": "Razors; safety razor blades, including razor blade blanks in strips",
    "level": 8,
    "chapter": "82",
    "description": "Safety razor blade blanks, in strips",
@@ -1401,6 +1633,8 @@
   },
   {
    "hs_code": "82129000",
+   "hs6": "821290",
+   "hs6_description": "Razors; parts n.e.c. in heading no. 8212",
    "level": 8,
    "chapter": "82",
    "description": "Other parts",
@@ -1413,6 +1647,8 @@
   },
   {
    "hs_code": "82130000",
+   "hs6": "821300",
+   "hs6_description": "Scissors; tailors' shears, similar shears and blades therefore",
    "level": 8,
    "chapter": "82",
    "description": "Scissors, tailors shears and similar shears, and blades therefor.",
@@ -1425,6 +1661,8 @@
   },
   {
    "hs_code": "8214",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Other articles of cutlery (for example, hair clippers, butchers or kitchen cleavers, choppers and mincing knives, paper knives); manicure or pedicure sets and instruments (including nail files).",
@@ -1437,6 +1675,8 @@
   },
   {
    "hs_code": "821410",
+   "hs6": "821410",
+   "hs6_description": "Cutlery; paper knives, letter openers, erasing knives, pencil sharpeners and blades therefore",
    "level": 6,
    "chapter": "82",
    "description": "Paper knives, letter openers, erasing knives, pencil sharpeners and blades therefor",
@@ -1449,6 +1689,8 @@
   },
   {
    "hs_code": "82141010",
+   "hs6": "821410",
+   "hs6_description": "Cutlery; paper knives, letter openers, erasing knives, pencil sharpeners and blades therefore",
    "level": 8,
    "chapter": "82",
    "description": "Paper knives, letter openers, erasing knives, pencil sharpeners",
@@ -1461,6 +1703,8 @@
   },
   {
    "hs_code": "82141090",
+   "hs6": "821410",
+   "hs6_description": "Cutlery; paper knives, letter openers, erasing knives, pencil sharpeners and blades therefore",
    "level": 8,
    "chapter": "82",
    "description": "Blades",
@@ -1473,6 +1717,8 @@
   },
   {
    "hs_code": "821420",
+   "hs6": "821420",
+   "hs6_description": "Manicure or pedicure sets and instruments; (including nail files)",
    "level": 6,
    "chapter": "82",
    "description": "Manicure or pedicure sets and instruments (including nail files)",
@@ -1485,6 +1731,8 @@
   },
   {
    "hs_code": "82142010",
+   "hs6": "821420",
+   "hs6_description": "Manicure or pedicure sets and instruments; (including nail files)",
    "level": 8,
    "chapter": "82",
    "description": "Nail cutters",
@@ -1497,6 +1745,8 @@
   },
   {
    "hs_code": "82142090",
+   "hs6": "821420",
+   "hs6_description": "Manicure or pedicure sets and instruments; (including nail files)",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -1509,6 +1759,8 @@
   },
   {
    "hs_code": "821490",
+   "hs6": "821490",
+   "hs6_description": "Cutlery; hair clippers and mincing knives",
    "level": 6,
    "chapter": "82",
    "description": "Other",
@@ -1521,6 +1773,8 @@
   },
   {
    "hs_code": "82149010",
+   "hs6": "821490",
+   "hs6_description": "Cutlery; hair clippers and mincing knives",
    "level": 8,
    "chapter": "82",
    "description": "Handles of cutlery of base metal",
@@ -1533,6 +1787,8 @@
   },
   {
    "hs_code": "82149090",
+   "hs6": "821490",
+   "hs6_description": "Cutlery; hair clippers and mincing knives",
    "level": 8,
    "chapter": "82",
    "description": "Other",
@@ -1545,6 +1801,8 @@
   },
   {
    "hs_code": "8215",
+   "hs6": "",
+   "hs6_description": "",
    "level": 4,
    "chapter": "82",
    "description": "Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butterknives, sugar tongs and similar kitchen or tableware.",
@@ -1557,6 +1815,8 @@
   },
   {
    "hs_code": "82151000",
+   "hs6": "821510",
+   "hs6_description": "Cutlery; sets of assorted articles (e.g. spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar), with at least one article plated with precious metal",
    "level": 8,
    "chapter": "82",
    "description": "Sets of assorted articles containing at least one article plated with",
@@ -1569,6 +1829,8 @@
   },
   {
    "hs_code": "82152000",
+   "hs6": "821520",
+   "hs6_description": "Cutlery; sets of assorted articles (e.g. spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter knives, sugar tongs and similar), not plated with precious metal",
    "level": 8,
    "chapter": "82",
    "description": "Other sets of assorted articles",
@@ -1581,6 +1843,8 @@
   },
   {
    "hs_code": "82159100",
+   "hs6": "821591",
+   "hs6_description": "Cutlery; (e.g. spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar), plated with precious metal, not in sets",
    "level": 8,
    "chapter": "82",
    "description": "Other : -- Plated with precious metal",
@@ -1593,6 +1857,8 @@
   },
   {
    "hs_code": "82159900",
+   "hs6": "821599",
+   "hs6_description": "Cutlery; other than plated with precious metal",
    "level": 8,
    "chapter": "82",
    "description": "Other : -- Other",

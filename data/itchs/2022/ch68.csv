@@ -1,120 +1,120 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-68010000,8,68,"Setts, curbstones and flagstones, of natural stone (except slate).",Free,,,,,2026-10-22
-6802,4,68,"WORKED MONUMENTAL OR BUILDING STONE (EXCEPT SLATE) AND ARTICLES THEREOF, OTHER THAN GOODS OF HEADING 6801; MOSAICCUBES AND THE LIKE, OF NATURAL STONE (INCLUDING SLATE), WHETHER OR NOT ON A BACKING; ARTIFICIALLY COLOURED GRANULES, CHIPPINGS AND POWDER, OF NATURAL STONE (INCLUDING SLATE)",,,,,,2026-10-22
-68021000,8,68,"Tiles, cubes and similar articles, whether or not rectangular (including square), the largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm; artificially coloured granules, chippings and powder",Free,Subject to Policy Condition 3,3,,,2026-10-22
-680221,6,68,"Other monumental or building stone and articles thereof, simply cut or sawn, with a flat or even surface : -- Marble, travertine and alabaster",,,,,,2026-10-22
-68022110,8,68,Marble blocks or tiles,Free,Subject to Policy Condition 3,3,,,2026-10-22
-68022120,8,68,Marble monumental stone,Free,Subject to Policy Condition 3,3,,,2026-10-22
-68022190,8,68,Other,Free,Subject to Policy Condition 3,3,,,2026-10-22
-680223,6,68,"Other monumental or building stone and articles thereof, simply cut or sawn, with a flat or even surface : -- Granite",,,,,,2026-10-22
-68022310,8,68,Granite blocks or tiles,Free,Import permitted freely provided cif value is US$ 50 or above per square metre (for maximum thickness of slab 20mm),,,,2026-10-22
-68022390,8,68,Other,Free,Import permitted freely provided cif value is US$ 50 or above per square metre (for maximum thickness of slab 20mm),,,,2026-10-22
-68022900,8,68,"Other monumental or building stone and articles thereof, simply cut or sawn, with a flat or even surface : -- Other stone",Free,Import permitted freely provided cif value is US$ 50 or above per square metre (for maximum thickness of slab 20mm),,,,2026-10-22
-68029100,8,68,"Other : -- Marble, travertine and alabaster",Free,Subject to Policy Condition 3,3,,,2026-10-22
-68029200,8,68,Other : -- Other calcareous stone,Free,Subject to Policy Condition 3,3,,,2026-10-22
-68029300,8,68,Other : -- Granite,Free,Import permitted freely provided cif value is US$ 50 or above per square metre (for maximum thickness of slab 20mm),,,,2026-10-22
-68029900,8,68,Other : -- Other stone,Free,,,,,2026-10-22
-68030000,8,68,Worked slate and articles of slate or of agglomerated slate.,Free,,,,,2026-10-22
-6804,4,68,"Millstones, grindstones, grinding wheels and the like, without frameworks, for grinding, sharpening, polishing, trueing or cutting, hand sharpening or polishing stones, and parts thereof, of natural stone, of agglomerated natural or artificial abrasives, or of ceramics, with or without parts of other materials.",,,,,,2026-10-22
-68041000,8,68,"Millstones and grindstones for milling, grinding or pulping",Free,,,,,2026-10-22
-680421,6,68,"Other millstones, grindstones, grinding wheels and the like : -- Of agglomerated synthetic or natural diamond",,,,,,2026-10-22
-68042110,8,68,Diamond impregnated wheels,Free,,,,,2026-10-22
-68042190,8,68,Other,Free,,,,,2026-10-22
-680422,6,68,"Other millstones, grindstones, grinding wheels and the like : -- Of other agglomerated abrasives or of ceramics",,,,,,2026-10-22
-68042210,8,68,Grinding wheels of synthetic abrasive,Free,,,,,2026-10-22
-68042220,8,68,Grinding wheels of other materials,Free,,,,,2026-10-22
-68042290,8,68,Other,Free,,,,,2026-10-22
-680423,6,68,"Other millstones, grindstones, grinding wheels and the like : -- Of natural stone",,,,,,2026-10-22
-68042310,8,68,Grinding wheels made of natural stone,Free,,,,,2026-10-22
-68042390,8,68,Other,Free,,,,,2026-10-22
-680430,6,68,Hand sharpening or polishing stones,,,,,,2026-10-22
-68043010,8,68,Polishing stones,Free,,,,,2026-10-22
-68043020,8,68,Sharpening stones,Free,,,,,2026-10-22
-6805,4,68,"Natural or artificial abrasive powder or grain, on a base of textile material, of paper, of paperboard or of other materials, whether or not cut to shape or sewn or otherwise made up.",,,,,,2026-10-22
-680510,6,68,On a base of woven textile fabric only,,,,,,2026-10-22
-68051010,8,68,Abrasive cloths,Free,,,,,2026-10-22
-68051090,8,68,Other,Free,,,,,2026-10-22
-680520,6,68,on a base of paper or paperboard only,,,,,,2026-10-22
-68052010,8,68,Emery or corundum coated paper,Free,,,,,2026-10-22
-68052020,8,68,Flint coated paper,Free,,,,,2026-10-22
-68052030,8,68,Glass or sand coated paper,Free,,,,,2026-10-22
-68052040,8,68,Other abrasive paper,Free,,,,,2026-10-22
-68052090,8,68,Other,Free,,,,,2026-10-22
-68053000,8,68,On a base of other materials,Free,,,,,2026-10-22
-6806,4,68,"Slag wool, rock wool and similar mineral wools; exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials; mixtures and articles of heat-insulating, sound-insulating or sound-absorbing mineral materials, other than those of heading 68.11 or 68.12 or of Chapter 69.",,,,,,2026-10-22
-68061000,8,68,"Slag wool, rock wool and similar mineral wools (including intermixtures thereof), in bulk, sheets or rolls",Free,,,,,2026-10-22
-68062000,8,68,"Exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials (including intermixtures thereof)",Free,,,,,2026-10-22
-68069000,8,68,Other,Free,,,,,2026-10-22
-6807,4,68,"Articles of asphalt or of similar material (for example, petroleum bitumen or coal tar pitch).",,,,,,2026-10-22
-680710,6,68,In rolls,,,,,,2026-10-22
-68071010,8,68,Tarfelt roofing,Free,,,,,2026-10-22
-68071090,8,68,Other,Free,,,,,2026-10-22
-680790,6,68,Other,,,,,,2026-10-22
-68079010,8,68,Tarfelt roofing,Free,,,,,2026-10-22
-68079090,8,68,Other,Free,,,,,2026-10-22
-68080000,8,68,"Panels, boards, tiles, blocks and similar articles of vegetable fibre, of straw or of shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders.",Free,,,,,2026-10-22
-6809,4,68,Articles of plaster or of compositions based on plaster.,,,,,,2026-10-22
-68091100,8,68,"Boards, sheets, panels, tiles and similar articles, not ornamented : -- Faced or reinforced with paper or paperboard only",Free,,,,,2026-10-22
-68091900,8,68,"Boards, sheets, panels, tiles and similar articles, not ornamented : -- Other",Free,,,,,2026-10-22
-68099000,8,68,Other articles,Free,,,,,2026-10-22
-6810,4,68,"Articles of cement, of concrete or of artificial stone, whether or not reinforced.",,,,,,2026-10-22
-681011,6,68,"Tiles, flagstones, bricks and similar articles : -- Building blocks and bricks",,,,,,2026-10-22
-68101110,8,68,Cement bricks,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
-68101190,8,68,Other,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
-681019,6,68,"Tiles, flagstones, bricks and similar articles : -- Other",,,,,,2026-10-22
-68101910,8,68,Cement tiles for mosaic,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
-68101990,8,68,Other,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
-68109100,8,68,Other articles : -- Prefabricated structural components for building or civil engineering,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
-681099,6,68,Other articles : -- Other,,,,,,2026-10-22
-68109910,8,68,Concrete boulder,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
-68109990,8,68,Other,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
-6811,4,68,"Articles of asbestos-cement, of cellulose fibre-cement or the like.",,,,,,2026-10-22
-681140,6,68,Containing asbestos,,,,,,2026-10-22
-68114010,8,68,Asbestos - cement sheets,Free,,,,,2026-10-22
-68114020,8,68,Asbestos - cement tiles,Free,,,,,2026-10-22
-68114090,8,68,Other,Free,,,,,2026-10-22
-68118100,8,68,Not containing asbestos : -- Corrugated sheets,Free,,,,,2026-10-22
-68118200,8,68,"Not containing asbestos : -- Other sheets, panels, tiles and similar articles",Free,,,,,2026-10-22
-681189,6,68,Not containing asbestos : -- Other articles,,,,,,2026-10-22
-68118910,8,68,"Tubes, pipes and tube or pipe fittings",Free,,,,,2026-10-22
-68118990,8,68,Other,Free,,,,,2026-10-22
-6812,4,68,"Fabricated asbestos fibres; mixtures with a basis of asbestos or with a basis of asbestos and magnesium carbonate; articles of such mixtures or of asbestos (for example, thread, woven fabric, clothing, headgear, footwear, gaskets), whether or not reinforced, other than goods of heading 68.11 or 68.13.",,,,,,2026-10-22
-68128000,8,68,Of crocidolite,Free,,,,,2026-10-22
-68129100,8,68,"Other : -- Clothing, clothing accessories, footwear and headgear",Free,,,,,2026-10-22
-68129911,8,68,Lagging compounds: ----Asbestos,Free,,,,,2026-10-22
-68129919,8,68,Lagging compounds: ----Other,Free,,,,,2026-10-22
-68129921,8,68,Asbestos packing joints and gaskets: ----Packing joints,Free,,,,,2026-10-22
-68129922,8,68,Asbestos packing joints and gaskets: ----Gaskets,Free,,,,,2026-10-22
-68129990,8,68,Asbestos packing joints and gaskets: ----Other,Free,,,,,2026-10-22
-6813,4,68,"Friction material and articles thereof (for example, sheets, rolls, strips, segments, discs, washers, pads), not mounted, for brakes, for clutches or the like, with a basis of asbestos, of other mineral substances or of cellulose, whether or not combined with textile or other materials.",,,,,,2026-10-22
-681320,6,68,Containing asbestos,,,,,,2026-10-22
-68132010,8,68,Brake lining and pads,Free,,,,,2026-10-22
-68132090,8,68,Asbestos friction materials,Free,,,,,2026-10-22
-68138100,8,68,Not containing asbestos : -- Brake linings and pads,Free,,,,,2026-10-22
-68138900,8,68,Not containing asbestos : -- Other,Free,,,,,2026-10-22
-6814,4,68,"Worked mica and articles of mica, including agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials.",,,,,,2026-10-22
-681410,6,68,"Plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support",,,,,,2026-10-22
-68141010,8,68,Cut mica condenser films or plates,Free,,,,,2026-10-22
-68141020,8,68,Sheets and strips cut to shape,Free,,,,,2026-10-22
-68141030,8,68,Washers and discs,Free,,,,,2026-10-22
-68141090,8,68,Other,Free,,,,,2026-10-22
-681490,6,68,Other,,,,,,2026-10-22
-68149010,8,68,Mica stacked units,Free,,,,,2026-10-22
-68149020,8,68,"Silvered mica, capacitor plates or silvered mica plates",Free,,,,,2026-10-22
-68149030,8,68,Micanite and all sorts of built up mica,Free,,,,,2026-10-22
-68149040,8,68,Mica paper or reconstituted mica paper,Free,,,,,2026-10-22
-68149050,8,68,Moulded glass bonded or glass bonded mica,Free,,,,,2026-10-22
-68149060,8,68,Mica bricks,Free,,,,,2026-10-22
-68149090,8,68,Other,Free,,,,,2026-10-22
-6815,4,68,"Articles of stone or of other mineral substances (including carbon fibres, articles of carbon fibres and articles of peat), not elsewhere specified or included.",,,,,,2026-10-22
-68151100,8,68,Carbon fibres; articles of carbon fibres for non-electrical uses; other articles of graphite or other carbon for non-electrical uses: - - Carbon fibres,Free,,,54/2015-2020,2022-02-09,2026-10-22
-68151200,8,68,Fabrics of carbon fibres,Free,,,54/2015-2020,2022-02-09,2026-10-22
-68151300,8,68,Carbon fibres; articles of carbon fibres for non-electrical uses; other articles of graphite or other carbon for non-electrical uses: - - Other articles of carbon fibres,Free,,,54/2015-2020,2022-02-09,2026-10-22
-68151900,8,68,Carbon fibres; articles of carbon fibres for non-electrical uses; other articles of graphite or other carbon for non-electrical uses: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
-68152000,8,68,Articles of peat,Free,,,,,2026-10-22
-68159100,8,68,"Other articles :- - Containing magnesite, magnesia in the form of periclase, dolomite including in the form of dolime, or chromite",Free,,,,,2026-10-22
-681599,6,68,Other articles : -- Other,,,,,,2026-10-22
-68159910,8,68,Bricks and tiles of fly ash,Free,,,,,2026-10-22
-68159920,8,68,"Sanitary wares, kitchen wares and other made up articles of fly ash",Free,,,,,2026-10-22
-68159930,8,68,"Basalt fibre, filament and articles thereof conforming to ASTM D3039, C1185",Free,-,,20/2015-2020,2022-07-07,2026-10-22
-68159990,8,68,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+68010000,680100,"Stone; setts, curbstones and flagstones, of natural stone (except slate)",8,68,"Setts, curbstones and flagstones, of natural stone (except slate).",Free,,,,,2026-10-22
+6802,,,4,68,"WORKED MONUMENTAL OR BUILDING STONE (EXCEPT SLATE) AND ARTICLES THEREOF, OTHER THAN GOODS OF HEADING 6801; MOSAICCUBES AND THE LIKE, OF NATURAL STONE (INCLUDING SLATE), WHETHER OR NOT ON A BACKING; ARTIFICIALLY COLOURED GRANULES, CHIPPINGS AND POWDER, OF NATURAL STONE (INCLUDING SLATE)",,,,,,2026-10-22
+68021000,680210,"Tiles, cubes and similar articles; whether or not rectangular (including square), largest face of which is capable of being enclosed in square, side less than 7cm, coloured granules, chippings, powder",8,68,"Tiles, cubes and similar articles, whether or not rectangular (including square), the largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm; artificially coloured granules, chippings and powder",Free,Subject to Policy Condition 3,3,,,2026-10-22
+680221,680221,"Marble, travertine and alabaster; simply cut or sawn, with a flat or even surface",6,68,"Other monumental or building stone and articles thereof, simply cut or sawn, with a flat or even surface : -- Marble, travertine and alabaster",,,,,,2026-10-22
+68022110,680221,"Marble, travertine and alabaster; simply cut or sawn, with a flat or even surface",8,68,Marble blocks or tiles,Free,Subject to Policy Condition 3,3,,,2026-10-22
+68022120,680221,"Marble, travertine and alabaster; simply cut or sawn, with a flat or even surface",8,68,Marble monumental stone,Free,Subject to Policy Condition 3,3,,,2026-10-22
+68022190,680221,"Marble, travertine and alabaster; simply cut or sawn, with a flat or even surface",8,68,Other,Free,Subject to Policy Condition 3,3,,,2026-10-22
+680223,680223,"Granite; articles thereof, simply cut or sawn, with a flat or even surface",6,68,"Other monumental or building stone and articles thereof, simply cut or sawn, with a flat or even surface : -- Granite",,,,,,2026-10-22
+68022310,680223,"Granite; articles thereof, simply cut or sawn, with a flat or even surface",8,68,Granite blocks or tiles,Free,Import permitted freely provided cif value is US$ 50 or above per square metre (for maximum thickness of slab 20mm),,,,2026-10-22
+68022390,680223,"Granite; articles thereof, simply cut or sawn, with a flat or even surface",8,68,Other,Free,Import permitted freely provided cif value is US$ 50 or above per square metre (for maximum thickness of slab 20mm),,,,2026-10-22
+68022900,680229,"Stone; monumental or building stone, n.e.c. in item no. 6802.2, articles thereof, simply cut or sawn, with a flat or even surface",8,68,"Other monumental or building stone and articles thereof, simply cut or sawn, with a flat or even surface : -- Other stone",Free,Import permitted freely provided cif value is US$ 50 or above per square metre (for maximum thickness of slab 20mm),,,,2026-10-22
+68029100,680291,"Marble, travertine and alabaster; articles thereof, (other than simply cut or sawn, with a flat or even surface)",8,68,"Other : -- Marble, travertine and alabaster",Free,Subject to Policy Condition 3,3,,,2026-10-22
+68029200,680292,"Stone; calcareous (excluding marble, travertine, alabaster) articles thereof, (other than simply cut or sawn, with a flat or even surface)",8,68,Other : -- Other calcareous stone,Free,Subject to Policy Condition 3,3,,,2026-10-22
+68029300,680293,"Granite; articles thereof, (other than simply cut or sawn, with a flat or even surface)",8,68,Other : -- Granite,Free,Import permitted freely provided cif value is US$ 50 or above per square metre (for maximum thickness of slab 20mm),,,,2026-10-22
+68029900,680299,"Stone; natural (excluding marble, travertine, alabaster, other calcareous stone or granite), monumental or building stone, (other than simply cut or sawn, with a flat or even surface)",8,68,Other : -- Other stone,Free,,,,,2026-10-22
+68030000,680300,"Slate, worked; and articles of slate or of agglomerated slate",8,68,Worked slate and articles of slate or of agglomerated slate.,Free,,,,,2026-10-22
+6804,,,4,68,"Millstones, grindstones, grinding wheels and the like, without frameworks, for grinding, sharpening, polishing, trueing or cutting, hand sharpening or polishing stones, and parts thereof, of natural stone, of agglomerated natural or artificial abrasives, or of ceramics, with or without parts of other materials.",,,,,,2026-10-22
+68041000,680410,"Millstones and grindstones; for milling, grinding or pulping",8,68,"Millstones and grindstones for milling, grinding or pulping",Free,,,,,2026-10-22
+680421,680421,"Millstones, grindstones, grinding wheels and the like; of agglomerated synthetic or natural diamond",6,68,"Other millstones, grindstones, grinding wheels and the like : -- Of agglomerated synthetic or natural diamond",,,,,,2026-10-22
+68042110,680421,"Millstones, grindstones, grinding wheels and the like; of agglomerated synthetic or natural diamond",8,68,Diamond impregnated wheels,Free,,,,,2026-10-22
+68042190,680421,"Millstones, grindstones, grinding wheels and the like; of agglomerated synthetic or natural diamond",8,68,Other,Free,,,,,2026-10-22
+680422,680422,"Millstones, grindstones, grinding wheels and the like; of other agglomerated abrasives or of ceramics",6,68,"Other millstones, grindstones, grinding wheels and the like : -- Of other agglomerated abrasives or of ceramics",,,,,,2026-10-22
+68042210,680422,"Millstones, grindstones, grinding wheels and the like; of other agglomerated abrasives or of ceramics",8,68,Grinding wheels of synthetic abrasive,Free,,,,,2026-10-22
+68042220,680422,"Millstones, grindstones, grinding wheels and the like; of other agglomerated abrasives or of ceramics",8,68,Grinding wheels of other materials,Free,,,,,2026-10-22
+68042290,680422,"Millstones, grindstones, grinding wheels and the like; of other agglomerated abrasives or of ceramics",8,68,Other,Free,,,,,2026-10-22
+680423,680423,"Millstones, grindstones, grinding wheels and the like; of natural stone",6,68,"Other millstones, grindstones, grinding wheels and the like : -- Of natural stone",,,,,,2026-10-22
+68042310,680423,"Millstones, grindstones, grinding wheels and the like; of natural stone",8,68,Grinding wheels made of natural stone,Free,,,,,2026-10-22
+68042390,680423,"Millstones, grindstones, grinding wheels and the like; of natural stone",8,68,Other,Free,,,,,2026-10-22
+680430,680430,"Stones; hand sharpening or polishing stones, of natural stone, agglomerated natural or artificial abrasives or ceramics, with or without parts of other materials",6,68,Hand sharpening or polishing stones,,,,,,2026-10-22
+68043010,680430,"Stones; hand sharpening or polishing stones, of natural stone, agglomerated natural or artificial abrasives or ceramics, with or without parts of other materials",8,68,Polishing stones,Free,,,,,2026-10-22
+68043020,680430,"Stones; hand sharpening or polishing stones, of natural stone, agglomerated natural or artificial abrasives or ceramics, with or without parts of other materials",8,68,Sharpening stones,Free,,,,,2026-10-22
+6805,,,4,68,"Natural or artificial abrasive powder or grain, on a base of textile material, of paper, of paperboard or of other materials, whether or not cut to shape or sewn or otherwise made up.",,,,,,2026-10-22
+680510,680510,"Abrasive powder or grain; natural or artificial, on a base of woven textile fabric only, whether or not cut to shape or sewn or otherwise made up",6,68,On a base of woven textile fabric only,,,,,,2026-10-22
+68051010,680510,"Abrasive powder or grain; natural or artificial, on a base of woven textile fabric only, whether or not cut to shape or sewn or otherwise made up",8,68,Abrasive cloths,Free,,,,,2026-10-22
+68051090,680510,"Abrasive powder or grain; natural or artificial, on a base of woven textile fabric only, whether or not cut to shape or sewn or otherwise made up",8,68,Other,Free,,,,,2026-10-22
+680520,680520,"Abrasive powder or grain; natural or artificial, on a base of paper or paperboard only, whether or not cut to shape or sewn or otherwise made up",6,68,on a base of paper or paperboard only,,,,,,2026-10-22
+68052010,680520,"Abrasive powder or grain; natural or artificial, on a base of paper or paperboard only, whether or not cut to shape or sewn or otherwise made up",8,68,Emery or corundum coated paper,Free,,,,,2026-10-22
+68052020,680520,"Abrasive powder or grain; natural or artificial, on a base of paper or paperboard only, whether or not cut to shape or sewn or otherwise made up",8,68,Flint coated paper,Free,,,,,2026-10-22
+68052030,680520,"Abrasive powder or grain; natural or artificial, on a base of paper or paperboard only, whether or not cut to shape or sewn or otherwise made up",8,68,Glass or sand coated paper,Free,,,,,2026-10-22
+68052040,680520,"Abrasive powder or grain; natural or artificial, on a base of paper or paperboard only, whether or not cut to shape or sewn or otherwise made up",8,68,Other abrasive paper,Free,,,,,2026-10-22
+68052090,680520,"Abrasive powder or grain; natural or artificial, on a base of paper or paperboard only, whether or not cut to shape or sewn or otherwise made up",8,68,Other,Free,,,,,2026-10-22
+68053000,680530,"Abrasive powder or grain; natural or artificial, on a base of materials n.e.c. in heading no. 6805, whether or not cut to shape or sewn or otherwise made up",8,68,On a base of other materials,Free,,,,,2026-10-22
+6806,,,4,68,"Slag wool, rock wool and similar mineral wools; exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials; mixtures and articles of heat-insulating, sound-insulating or sound-absorbing mineral materials, other than those of heading 68.11 or 68.12 or of Chapter 69.",,,,,,2026-10-22
+68061000,680610,"Slag wool, rock wool and similar mineral wools (including intermixtures thereof), in bulk, sheets or rolls",8,68,"Slag wool, rock wool and similar mineral wools (including intermixtures thereof), in bulk, sheets or rolls",Free,,,,,2026-10-22
+68062000,680620,"Exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials (including intermixtures thereof)",8,68,"Exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials (including intermixtures thereof)",Free,,,,,2026-10-22
+68069000,680690,"Minerals; mixtures and articles of heat-insulating, sound-insulating or sound-absorbing mineral materials, other than those of heading no. 6811 or 6812 or of chapter 69",8,68,Other,Free,,,,,2026-10-22
+6807,,,4,68,"Articles of asphalt or of similar material (for example, petroleum bitumen or coal tar pitch).",,,,,,2026-10-22
+680710,680710,Asphalt or similar material; articles (e.g. petroleum bitumen or coal tar pitch) in rolls,6,68,In rolls,,,,,,2026-10-22
+68071010,680710,Asphalt or similar material; articles (e.g. petroleum bitumen or coal tar pitch) in rolls,8,68,Tarfelt roofing,Free,,,,,2026-10-22
+68071090,680710,Asphalt or similar material; articles (e.g. petroleum bitumen or coal tar pitch) in rolls,8,68,Other,Free,,,,,2026-10-22
+680790,680790,Asphalt or similar material; articles (e.g. petroleum bitumen or coal tar pitch) other than in rolls,6,68,Other,,,,,,2026-10-22
+68079010,680790,Asphalt or similar material; articles (e.g. petroleum bitumen or coal tar pitch) other than in rolls,8,68,Tarfelt roofing,Free,,,,,2026-10-22
+68079090,680790,Asphalt or similar material; articles (e.g. petroleum bitumen or coal tar pitch) other than in rolls,8,68,Other,Free,,,,,2026-10-22
+68080000,680800,"Panels, boards, tiles, blocks and the like; of vegetable fibre, of straw, shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders",8,68,"Panels, boards, tiles, blocks and similar articles of vegetable fibre, of straw or of shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders.",Free,,,,,2026-10-22
+6809,,,4,68,Articles of plaster or of compositions based on plaster.,,,,,,2026-10-22
+68091100,680911,"Plaster, or plaster compositions; boards, sheets, panels, tiles and similar articles, faced or reinforced with paper or paperboard only, not ornamented",8,68,"Boards, sheets, panels, tiles and similar articles, not ornamented : -- Faced or reinforced with paper or paperboard only",Free,,,,,2026-10-22
+68091900,680919,"Plaster, or plaster compositions; boards, sheets, panels, tiles and similar articles, (other than faced or reinforced with paper or paperboard only), not ornamented",8,68,"Boards, sheets, panels, tiles and similar articles, not ornamented : -- Other",Free,,,,,2026-10-22
+68099000,680990,Plaster articles or articles of compositions based on plaster; n.e.c. in heading no. 6809,8,68,Other articles,Free,,,,,2026-10-22
+6810,,,4,68,"Articles of cement, of concrete or of artificial stone, whether or not reinforced.",,,,,,2026-10-22
+681011,681011,"Cement, concrete or artificial stone; building blocks or bricks, whether or not reinforced",6,68,"Tiles, flagstones, bricks and similar articles : -- Building blocks and bricks",,,,,,2026-10-22
+68101110,681011,"Cement, concrete or artificial stone; building blocks or bricks, whether or not reinforced",8,68,Cement bricks,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
+68101190,681011,"Cement, concrete or artificial stone; building blocks or bricks, whether or not reinforced",8,68,Other,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
+681019,681019,"Cement, concrete or artificial stone; tiles, flagstones and similar, (excluding building blocks and bricks) whether or not reinforced",6,68,"Tiles, flagstones, bricks and similar articles : -- Other",,,,,,2026-10-22
+68101910,681019,"Cement, concrete or artificial stone; tiles, flagstones and similar, (excluding building blocks and bricks) whether or not reinforced",8,68,Cement tiles for mosaic,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
+68101990,681019,"Cement, concrete or artificial stone; tiles, flagstones and similar, (excluding building blocks and bricks) whether or not reinforced",8,68,Other,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
+68109100,681091,"Cement, concrete or artificial stone; prefabricated structural components for building or civil engineering, whether or not reinforced",8,68,Other articles : -- Prefabricated structural components for building or civil engineering,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
+681099,681099,"Cement, concrete or artificial stone; articles (other than prefabricated structural components for building or civil engineering), whether or not reinforced, n.e.c. in heading no. 6810",6,68,Other articles : -- Other,,,,,,2026-10-22
+68109910,681099,"Cement, concrete or artificial stone; articles (other than prefabricated structural components for building or civil engineering), whether or not reinforced, n.e.c. in heading no. 6810",8,68,Concrete boulder,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
+68109990,681099,"Cement, concrete or artificial stone; articles (other than prefabricated structural components for building or civil engineering), whether or not reinforced, n.e.c. in heading no. 6810",8,68,Other,Free,Subject to Policy Condition 4 of this Chapter.,4,,,2026-10-22
+6811,,,4,68,"Articles of asbestos-cement, of cellulose fibre-cement or the like.",,,,,,2026-10-22
+681140,681140,"Asbestos-cement; articles or the like, containing asbestos",6,68,Containing asbestos,,,,,,2026-10-22
+68114010,681140,"Asbestos-cement; articles or the like, containing asbestos",8,68,Asbestos - cement sheets,Free,,,,,2026-10-22
+68114020,681140,"Asbestos-cement; articles or the like, containing asbestos",8,68,Asbestos - cement tiles,Free,,,,,2026-10-22
+68114090,681140,"Asbestos-cement; articles or the like, containing asbestos",8,68,Other,Free,,,,,2026-10-22
+68118100,681181,"Cellulose fibre-cement; articles or the like; corrugated sheets, not containing asbestos",8,68,Not containing asbestos : -- Corrugated sheets,Free,,,,,2026-10-22
+68118200,681182,"Cellulose fibre-cement; articles or the like, sheets, panels, tiles and similar articles (other than corrugated sheets), not containing asbestos",8,68,"Not containing asbestos : -- Other sheets, panels, tiles and similar articles",Free,,,,,2026-10-22
+681189,681189,"Cellulose fibre-cement; articles or the like, other than corrugated sheets and other sheets, panels, tiles and similar articles, not containing asbestos",6,68,Not containing asbestos : -- Other articles,,,,,,2026-10-22
+68118910,681189,"Cellulose fibre-cement; articles or the like, other than corrugated sheets and other sheets, panels, tiles and similar articles, not containing asbestos",8,68,"Tubes, pipes and tube or pipe fittings",Free,,,,,2026-10-22
+68118990,681189,"Cellulose fibre-cement; articles or the like, other than corrugated sheets and other sheets, panels, tiles and similar articles, not containing asbestos",8,68,Other,Free,,,,,2026-10-22
+6812,,,4,68,"Fabricated asbestos fibres; mixtures with a basis of asbestos or with a basis of asbestos and magnesium carbonate; articles of such mixtures or of asbestos (for example, thread, woven fabric, clothing, headgear, footwear, gaskets), whether or not reinforced, other than goods of heading 68.11 or 68.13.",,,,,,2026-10-22
+68128000,681280,"Fabricated crocidolite (blue asbestos) fibres, mixtures with a basis of crocidolite (blue asbestos), articles of crocidolite (blue asbestos), whether or not reinforced, not goods of heading 6811 or 6813",8,68,Of crocidolite,Free,,,,,2026-10-22
+68129100,681291,"Asbestos or mixtures with a basis of asbestos (other than crocidolite); clothing, clothing accessories, footwear and headgear, whether or not reinforced, not goods of heading 6811 or 6813",8,68,"Other : -- Clothing, clothing accessories, footwear and headgear",Free,,,,,2026-10-22
+68129911,681299,"Asbestos or mixtures with a basis of asbestos (other than crocidolite); fibres, mixtures or articles n.e.c. in heading no. 6812, whether or not reinforced, not goods of heading 6811 or 6813",8,68,Lagging compounds: ----Asbestos,Free,,,,,2026-10-22
+68129919,681299,"Asbestos or mixtures with a basis of asbestos (other than crocidolite); fibres, mixtures or articles n.e.c. in heading no. 6812, whether or not reinforced, not goods of heading 6811 or 6813",8,68,Lagging compounds: ----Other,Free,,,,,2026-10-22
+68129921,681299,"Asbestos or mixtures with a basis of asbestos (other than crocidolite); fibres, mixtures or articles n.e.c. in heading no. 6812, whether or not reinforced, not goods of heading 6811 or 6813",8,68,Asbestos packing joints and gaskets: ----Packing joints,Free,,,,,2026-10-22
+68129922,681299,"Asbestos or mixtures with a basis of asbestos (other than crocidolite); fibres, mixtures or articles n.e.c. in heading no. 6812, whether or not reinforced, not goods of heading 6811 or 6813",8,68,Asbestos packing joints and gaskets: ----Gaskets,Free,,,,,2026-10-22
+68129990,681299,"Asbestos or mixtures with a basis of asbestos (other than crocidolite); fibres, mixtures or articles n.e.c. in heading no. 6812, whether or not reinforced, not goods of heading 6811 or 6813",8,68,Asbestos packing joints and gaskets: ----Other,Free,,,,,2026-10-22
+6813,,,4,68,"Friction material and articles thereof (for example, sheets, rolls, strips, segments, discs, washers, pads), not mounted, for brakes, for clutches or the like, with a basis of asbestos, of other mineral substances or of cellulose, whether or not combined with textile or other materials.",,,,,,2026-10-22
+681320,681320,"Friction material and articles thereof (e.g. sheets, rolls, strips, segments, discs, washers, pads) not mounted; for brakes, clutches or the like, with a basis of asbestos",6,68,Containing asbestos,,,,,,2026-10-22
+68132010,681320,"Friction material and articles thereof (e.g. sheets, rolls, strips, segments, discs, washers, pads) not mounted; for brakes, clutches or the like, with a basis of asbestos",8,68,Brake lining and pads,Free,,,,,2026-10-22
+68132090,681320,"Friction material and articles thereof (e.g. sheets, rolls, strips, segments, discs, washers, pads) not mounted; for brakes, clutches or the like, with a basis of asbestos",8,68,Asbestos friction materials,Free,,,,,2026-10-22
+68138100,681381,Brake linings and pads; with a basis of mineral substances or cellulose (other than asbestos),8,68,Not containing asbestos : -- Brake linings and pads,Free,,,,,2026-10-22
+68138900,681389,"Friction material and articles thereof (e.g. sheets, rolls, strips, segments, discs, washers, pads) not mounted; for clutches or the like (not brake linings and pads), with a basis of mineral substances or cellulose (other than asbestos)",8,68,Not containing asbestos : -- Other,Free,,,,,2026-10-22
+6814,,,4,68,"Worked mica and articles of mica, including agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials.",,,,,,2026-10-22
+681410,681410,"Mica; plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials",6,68,"Plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support",,,,,,2026-10-22
+68141010,681410,"Mica; plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials",8,68,Cut mica condenser films or plates,Free,,,,,2026-10-22
+68141020,681410,"Mica; plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials",8,68,Sheets and strips cut to shape,Free,,,,,2026-10-22
+68141030,681410,"Mica; plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials",8,68,Washers and discs,Free,,,,,2026-10-22
+68141090,681410,"Mica; plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials",8,68,Other,Free,,,,,2026-10-22
+681490,681490,"Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",6,68,Other,,,,,,2026-10-22
+68149010,681490,"Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",8,68,Mica stacked units,Free,,,,,2026-10-22
+68149020,681490,"Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",8,68,"Silvered mica, capacitor plates or silvered mica plates",Free,,,,,2026-10-22
+68149030,681490,"Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",8,68,Micanite and all sorts of built up mica,Free,,,,,2026-10-22
+68149040,681490,"Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",8,68,Mica paper or reconstituted mica paper,Free,,,,,2026-10-22
+68149050,681490,"Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",8,68,Moulded glass bonded or glass bonded mica,Free,,,,,2026-10-22
+68149060,681490,"Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",8,68,Mica bricks,Free,,,,,2026-10-22
+68149090,681490,"Mica; worked mica and articles of mica (excluding plates, sheets and strips) whether or not on a support of paper, paperboard or other materials",8,68,Other,Free,,,,,2026-10-22
+6815,,,4,68,"Articles of stone or of other mineral substances (including carbon fibres, articles of carbon fibres and articles of peat), not elsewhere specified or included.",,,,,,2026-10-22
+68151100,681511,Stone or other mineral substances not elsewhere specified or included; carbon fibres for non-electrical uses,8,68,Carbon fibres; articles of carbon fibres for non-electrical uses; other articles of graphite or other carbon for non-electrical uses: - - Carbon fibres,Free,,,54/2015-2020,2022-02-09,2026-10-22
+68151200,681512,Stone or other mineral substances not elsewhere specified or included; fabrics of carbon fibres for non-electrical uses,8,68,Fabrics of carbon fibres,Free,,,54/2015-2020,2022-02-09,2026-10-22
+68151300,681513,Stone or other mineral substances not elsewhere specified or included; articles of carbon fibres for non-electrical uses,8,68,Carbon fibres; articles of carbon fibres for non-electrical uses; other articles of graphite or other carbon for non-electrical uses: - - Other articles of carbon fibres,Free,,,54/2015-2020,2022-02-09,2026-10-22
+68151900,681519,Stone or other mineral substances not elsewhere specified or included; non-electrical articles of graphite or carbon n.e.c. in heading 6815,8,68,Carbon fibres; articles of carbon fibres for non-electrical uses; other articles of graphite or other carbon for non-electrical uses: - - Other,Free,,,54/2015-2020,2022-02-09,2026-10-22
+68152000,681520,Peat; articles of peat n.e.c. or included,8,68,Articles of peat,Free,,,,,2026-10-22
+68159100,681591,"Stone articles and articles of other mineral substances; containing magnesite, magnesia in the form of periclase, dolomite including in the form of dolime, or chromite",8,68,"Other articles :- - Containing magnesite, magnesia in the form of periclase, dolomite including in the form of dolime, or chromite",Free,,,,,2026-10-22
+681599,681599,Stone articles and articles of other mineral substances; n.e.c. or included in heading no. 6815,6,68,Other articles : -- Other,,,,,,2026-10-22
+68159910,681599,Stone articles and articles of other mineral substances; n.e.c. or included in heading no. 6815,8,68,Bricks and tiles of fly ash,Free,,,,,2026-10-22
+68159920,681599,Stone articles and articles of other mineral substances; n.e.c. or included in heading no. 6815,8,68,"Sanitary wares, kitchen wares and other made up articles of fly ash",Free,,,,,2026-10-22
+68159930,681599,Stone articles and articles of other mineral substances; n.e.c. or included in heading no. 6815,8,68,"Basalt fibre, filament and articles thereof conforming to ASTM D3039, C1185",Free,-,,20/2015-2020,2022-07-07,2026-10-22
+68159990,681599,Stone articles and articles of other mineral substances; n.e.c. or included in heading no. 6815,8,68,Other,Free,,,,,2026-10-22

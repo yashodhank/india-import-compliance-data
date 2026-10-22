@@ -8,6 +8,32 @@
  "rows_4digit": 1122,
  "chapter_condition_rows": 729,
  "section_note_rows": 53,
+ "hs6_not_in_wco_table": [
+  "293133",
+  "293731",
+  "299090",
+  "300210",
+  "310310",
+  "330122",
+  "440110",
+  "440900",
+  "441500",
+  "441900",
+  "442000",
+  "470300",
+  "470400",
+  "470700",
+  "871100",
+  "970500",
+  "980100",
+  "980200",
+  "980300",
+  "980410",
+  "980490",
+  "980510",
+  "980590",
+  "980892"
+ ],
  "duplicate_codes_in_export": [
   "29037990",
   "29109010",
@@ -32,7 +58,8 @@
   "notes parsed == notes in each chapter export",
   "8-digit rows parsed == rows_in_json recorded at acquisition (per chapter)",
   "sha256 of each archived chapter == PROVENANCE",
-  "sum of per-chapter 8-digit rows == 8-digit rows in all.csv"
+  "sum of per-chapter 8-digit rows == 8-digit rows in all.csv",
+  "every hs6 in all.csv is in data/hs6/harmonized-system.csv or listed in hs6_not_in_wco_table"
  ],
  "all_passed": true,
  "per_chapter": [

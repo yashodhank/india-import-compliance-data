@@ -1,32 +1,32 @@
-hs_code,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
-0601,4,06,"Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower; chicory plants and roots other than roots of heading 12.12.",,,,,,2026-10-22
-06011000,8,06,"Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant",Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-060120,6,06,"Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower; chicory plants and roots",,,,,,2026-10-22
-06012010,8,06,"Bulbs, horticultural",Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-06012021,8,06,Chicory plants and roots: ---- Plants,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-06012022,8,06,Chicory plants and roots: ---- Roots,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-06012090,8,06,Other,Restricted,"Import permitted for sowing or planting without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-0602,4,06,"Other live plants (including their roots), cuttings and slips; mushroom spawn.",,,,,,2026-10-22
-06021000,8,06,Unrooted cuttings and slips,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
-060220,6,06,"Trees, shrubs and bushes, grafted or not, of kinds which bear edible furit or nuts",,,,,,2026-10-22
-06022010,8,06,"Edible fruit or nut trees, grafted or not",Free,,,,,2026-10-22
-06022020,8,06,Cactus,Restricted,Import will be subject to the provisions of Convention of International Trade in Endangered Species of Wild Fauna and Flora (CITES).,,,,2026-10-22
-06022090,8,06,Other,Free,,,,,2026-10-22
-06023000,8,06,"Rhododendrons and azaleas, grafted or not",Free,,,,,2026-10-22
-06024000,8,06,"Roses, grafted or not",Free,,,,,2026-10-22
-060290,6,06,Other,,,,,,2026-10-22
-06029010,8,06,Mushroom spawn,Free,,,,,2026-10-22
-06029020,8,06,Flowering plants (excluding roses and rhododendrons),Free,,,,,2026-10-22
-06029030,8,06,Tissue culture plant,Free,,,,,2026-10-22
-06029090,8,06,Other,Free,,,,,2026-10-22
-0603,4,06,"Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared",,,,,,2026-10-22
-06031100,8,06,Fresh : -- Roses,Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
-06031200,8,06,Fresh : -- Carnations,Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
-06031300,8,06,Fresh : -- Orchids,Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
-06031400,8,06,Fresh : --Chrysanthemums,Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
-06031500,8,06,Fresh : --Lilies (Lilium spp.),Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
-06031900,8,06,Fresh : -- Other,Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
-06039000,8,06,Other,Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
-0604,4,06,"Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared.",,,,,,2026-10-22
-06042000,8,06,Fresh,Free,,,,,2026-10-22
-06049000,8,06,Other,Free,,,,,2026-10-22
+hs_code,hs6,hs6_description,level,chapter,description,policy,condition_text,condition_ref,notification_no,notification_date,as_of
+0601,,,4,06,"Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower; chicory plants and roots other than roots of heading 12.12.",,,,,,2026-10-22
+06011000,060110,"Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant",8,06,"Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant",Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+060120,060120,"Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower, chicory plants and roots other than of heading no. 1212",6,06,"Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower; chicory plants and roots",,,,,,2026-10-22
+06012010,060120,"Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower, chicory plants and roots other than of heading no. 1212",8,06,"Bulbs, horticultural",Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+06012021,060120,"Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower, chicory plants and roots other than of heading no. 1212",8,06,Chicory plants and roots: ---- Plants,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+06012022,060120,"Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower, chicory plants and roots other than of heading no. 1212",8,06,Chicory plants and roots: ---- Roots,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+06012090,060120,"Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower, chicory plants and roots other than of heading no. 1212",8,06,Other,Restricted,"Import permitted for sowing or planting without a licence in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+0602,,,4,06,"Other live plants (including their roots), cuttings and slips; mushroom spawn.",,,,,,2026-10-22
+06021000,060210,"Plants, live; unrooted cuttings and slips",8,06,Unrooted cuttings and slips,Free,"Import permitted in accordance with import permit granted under Plant Quarantine (Regulation of Imports into India) Order, 2003.",,,,2026-10-22
+060220,060220,"Plants, live; edible fruit or nut trees, shrubs and bushes, grafted or not",6,06,"Trees, shrubs and bushes, grafted or not, of kinds which bear edible furit or nuts",,,,,,2026-10-22
+06022010,060220,"Plants, live; edible fruit or nut trees, shrubs and bushes, grafted or not",8,06,"Edible fruit or nut trees, grafted or not",Free,,,,,2026-10-22
+06022020,060220,"Plants, live; edible fruit or nut trees, shrubs and bushes, grafted or not",8,06,Cactus,Restricted,Import will be subject to the provisions of Convention of International Trade in Endangered Species of Wild Fauna and Flora (CITES).,,,,2026-10-22
+06022090,060220,"Plants, live; edible fruit or nut trees, shrubs and bushes, grafted or not",8,06,Other,Free,,,,,2026-10-22
+06023000,060230,"Plants, live; rhododendrons and azaleas, grafted or not",8,06,"Rhododendrons and azaleas, grafted or not",Free,,,,,2026-10-22
+06024000,060240,"Plants, live; roses, grafted or not",8,06,"Roses, grafted or not",Free,,,,,2026-10-22
+060290,060290,"Plants, live; n.e.c. in heading no. 0602",6,06,Other,,,,,,2026-10-22
+06029010,060290,"Plants, live; n.e.c. in heading no. 0602",8,06,Mushroom spawn,Free,,,,,2026-10-22
+06029020,060290,"Plants, live; n.e.c. in heading no. 0602",8,06,Flowering plants (excluding roses and rhododendrons),Free,,,,,2026-10-22
+06029030,060290,"Plants, live; n.e.c. in heading no. 0602",8,06,Tissue culture plant,Free,,,,,2026-10-22
+06029090,060290,"Plants, live; n.e.c. in heading no. 0602",8,06,Other,Free,,,,,2026-10-22
+0603,,,4,06,"Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared",,,,,,2026-10-22
+06031100,060311,"Flowers, cut; roses, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh",8,06,Fresh : -- Roses,Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
+06031200,060312,"Flowers, cut; carnations, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh",8,06,Fresh : -- Carnations,Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
+06031300,060313,"Flowers, cut; orchids, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh",8,06,Fresh : -- Orchids,Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
+06031400,060314,"Flowers, cut; chrysanthemums, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh",8,06,Fresh : --Chrysanthemums,Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
+06031500,060315,"Flowers, cut; lilies (Lilium spp.), flowers and flower buds of a kind suitable for bouquets or ornamental purposes, fresh",8,06,Fresh : --Lilies (Lilium spp.),Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
+06031900,060319,"Flowers, cut; flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh, other than roses, carnations, orchids, chrysanthemums or lillies",8,06,Fresh : -- Other,Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
+06039000,060390,"Flowers, cut; flowers and flower buds of a kind suitable for bouquets or ornamental purposes, dried, dyed, bleached, impregnated or otherwise prepared",8,06,Other,Free,Import of cut flowers is allowed through Chennai airport only,,17/2015-2020,2020-07-09,2026-10-22
+0604,,,4,06,"Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared.",,,,,,2026-10-22
+06042000,060420,"Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens; suitable for bouquets or for ornamental purposes, fresh",8,06,Fresh,Free,,,,,2026-10-22
+06049000,060490,"Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens; suitable for bouquets or for ornamental purposes, dried, dyed, bleached, impregnated or otherwise prepared",8,06,Other,Free,,,,,2026-10-22
