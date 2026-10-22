@@ -1,0 +1,69 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "hs-scheme-candidates",
+ "title": "8-digit ITC(HS) codes whose condition text names a scheme or regulator (candidates only)",
+ "fields": [
+  {
+   "name": "hs_code",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{8}$"
+   }
+  },
+  {
+   "name": "chapter",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{2}$"
+   }
+  },
+  {
+   "name": "scheme_hint",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "matched_terms",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "condition_text",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "as_of",
+   "type": "date",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  },
+  {
+   "name": "method",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  }
+ ],
+ "missingValues": [
+  ""
+ ]
+}

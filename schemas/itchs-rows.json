@@ -1,0 +1,80 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "itchs-rows",
+ "title": "ITC(HS) 2022 Schedule 1 (Import Policy) lines",
+ "fields": [
+  {
+   "name": "hs_code",
+   "type": "string",
+   "description": "4, 6 or 8-digit ITC(HS) code",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{4}(\\d{2}(\\d{2})?)?$"
+   }
+  },
+  {
+   "name": "level",
+   "type": "integer",
+   "description": "Digits in hs_code",
+   "constraints": {
+    "required": true,
+    "enum": [
+     4,
+     6,
+     8
+    ]
+   }
+  },
+  {
+   "name": "chapter",
+   "type": "string",
+   "description": "Two-digit chapter",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{2}$"
+   }
+  },
+  {
+   "name": "description",
+   "type": "string",
+   "description": "Description as printed, HTML removed"
+  },
+  {
+   "name": "policy",
+   "type": "string",
+   "description": "Import policy: Free, Restricted, Prohibited, STE, or blank for non-leaf lines"
+  },
+  {
+   "name": "condition_text",
+   "type": "string",
+   "description": "Policy condition text, HTML stripped, otherwise verbatim"
+  },
+  {
+   "name": "condition_ref",
+   "type": "string",
+   "description": "Policy-condition numbers the text refers to, semicolon separated (extracted, may be incomplete)"
+  },
+  {
+   "name": "notification_no",
+   "type": "string",
+   "description": "DGFT notification number as printed"
+  },
+  {
+   "name": "notification_date",
+   "type": "string",
+   "description": "Notification date, ISO 8601 where it parses, else as printed"
+  },
+  {
+   "name": "as_of",
+   "type": "date",
+   "description": "Date the chapter was acquired",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  }
+ ],
+ "missingValues": [
+  ""
+ ]
+}

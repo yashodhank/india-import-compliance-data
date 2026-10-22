@@ -1,0 +1,90 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "provenance",
+ "title": "Provenance of a published CSV",
+ "fields": [
+  {
+   "name": "file",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "source_url",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "retrieved_on",
+   "type": "date",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  },
+  {
+   "name": "sha256",
+   "type": "string",
+   "description": "sha256 of the published CSV",
+   "constraints": {
+    "required": true,
+    "pattern": "^[0-9a-f]{64}$"
+   }
+  },
+  {
+   "name": "rows",
+   "type": "integer",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "source_rows",
+   "type": "integer",
+   "description": "Rows the source itself counts; equals rows"
+  },
+  {
+   "name": "page_date",
+   "type": "string",
+   "description": "\"Last updated\" date the page prints, if any"
+  },
+  {
+   "name": "parser",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "raw_file",
+   "type": "string",
+   "description": "Path of the archived raw copy"
+  },
+  {
+   "name": "raw_sha256",
+   "type": "string",
+   "description": "sha256 of the raw copy"
+  },
+  {
+   "name": "raw_bytes",
+   "type": "integer",
+   "description": ""
+  },
+  {
+   "name": "raw_committed",
+   "type": "string",
+   "description": ""
+  }
+ ],
+ "missingValues": [
+  ""
+ ],
+ "primaryKey": [
+  "file"
+ ]
+}

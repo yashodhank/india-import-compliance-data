@@ -1,0 +1,62 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "qco-products",
+ "title": "Products covered by each QCO record",
+ "fields": [
+  {
+   "name": "slug",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "product_name",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "is_codes",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "status",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "sector",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "enforcement_date",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  },
+  {
+   "name": "source_file",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "source_row",
+   "type": "integer",
+   "description": ""
+  }
+ ],
+ "missingValues": [
+  ""
+ ]
+}

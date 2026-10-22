@@ -1,0 +1,46 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "qco-gazette-hashes",
+ "title": "SHA-256 of each Gazette PDF the register links to (the PDFs are not stored)",
+ "fields": [
+  {
+   "name": "source_url",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^https?://"
+   }
+  },
+  {
+   "name": "sha256",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "pattern": "^[0-9a-f]{64}$"
+   }
+  },
+  {
+   "name": "retrieved_on",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  },
+  {
+   "name": "status",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  }
+ ],
+ "missingValues": [
+  ""
+ ],
+ "primaryKey": [
+  "source_url"
+ ]
+}

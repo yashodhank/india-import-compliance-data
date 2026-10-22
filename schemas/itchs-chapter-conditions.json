@@ -1,0 +1,64 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "itchs-chapter-conditions",
+ "title": "ITC(HS) 2022 chapter policy conditions and notes",
+ "fields": [
+  {
+   "name": "chapter",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{2}$"
+   }
+  },
+  {
+   "name": "note_type",
+   "type": "string",
+   "description": "Main, Policy Condition, Supplementary Notes or Sub-Heading",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "serial_no",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "section",
+   "type": "string",
+   "description": "Roman-numeral section"
+  },
+  {
+   "name": "text",
+   "type": "string",
+   "description": "Note text, HTML stripped",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "notification_no",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "notification_date",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "as_of",
+   "type": "date",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  }
+ ],
+ "missingValues": [
+  ""
+ ]
+}

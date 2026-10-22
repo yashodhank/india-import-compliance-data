@@ -1,0 +1,161 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "qco-register",
+ "title": "QCO register: one record per Quality Control Order (or list)",
+ "fields": [
+  {
+   "name": "slug",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "list",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "enum": [
+     "isi_qco",
+     "qco_upcoming",
+     "crs"
+    ]
+   }
+  },
+  {
+   "name": "list_serial",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "title",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "ministry",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "sector",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "state",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "enum": [
+     "in_force",
+     "notified",
+     "withdrawn",
+     "de_notified"
+    ]
+   }
+  },
+  {
+   "name": "extended",
+   "type": "boolean",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "rescinded",
+   "type": "boolean",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "is_codes",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "history_truncated",
+   "type": "boolean",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "product_count",
+   "type": "integer",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "first_date",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  },
+  {
+   "name": "latest_date",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  },
+  {
+   "name": "source_file",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "source_url",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "retrieved_on",
+   "type": "date",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  },
+  {
+   "name": "source_rows",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "pdf_urls",
+   "type": "string",
+   "description": "Gazette PDF URLs, \" ; \" separated"
+  },
+  {
+   "name": "gazette_pdf_sha256",
+   "type": "string",
+   "description": "sha256 of each Gazette PDF, \" ; \" separated, aligned with pdf_urls; empty where the file could not be fetched"
+  }
+ ],
+ "missingValues": [
+  ""
+ ],
+ "primaryKey": [
+  "slug"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "itchs-section-notes",
+ "title": "ITC(HS) 2022 section notes (deduplicated across chapters)",
+ "fields": [
+  {
+   "name": "section",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "section_name",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "note_type",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "serial_no",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "text",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "notification_no",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "notification_date",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "as_of",
+   "type": "date",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  }
+ ],
+ "missingValues": [
+  ""
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "itchs-provenance",
+ "title": "Acquisition record of each ITC(HS) chapter export",
+ "fields": [
+  {
+   "name": "chapter",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{2}$"
+   }
+  },
+  {
+   "name": "url",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "method",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "retrieved_at_utc",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+   }
+  },
+  {
+   "name": "sha256",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^[0-9a-f]{64}$"
+   }
+  },
+  {
+   "name": "bytes",
+   "type": "integer",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "permission_ref",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "rows_in_json",
+   "type": "integer",
+   "description": "8-digit rows in the export",
+   "constraints": {
+    "required": true
+   }
+  }
+ ],
+ "missingValues": [
+  ""
+ ],
+ "primaryKey": [
+  "chapter"
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "qco-events",
+ "title": "QCO events (notification, amendment, extension, rescission) read from the order text",
+ "fields": [
+  {
+   "name": "slug",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "seq",
+   "type": "integer",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "date",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  },
+  {
+   "name": "kind",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "enum": [
+     "notified",
+     "amended",
+     "extended",
+     "rescinded",
+     "superseded",
+     "exemption",
+     "enforcement",
+     "order"
+    ]
+   }
+  },
+  {
+   "name": "text",
+   "type": "string",
+   "description": "",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "source_file",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "source_row",
+   "type": "integer",
+   "description": ""
+  },
+  {
+   "name": "source_url",
+   "type": "string",
+   "description": ""
+  },
+  {
+   "name": "retrieved_on",
+   "type": "date",
+   "description": "",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  }
+ ],
+ "missingValues": [
+  ""
+ ],
+ "primaryKey": [
+  "slug",
+  "seq"
+ ]
+}

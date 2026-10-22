@@ -1,0 +1,82 @@
+{
+ "$schema": "https://datapackage.org/profiles/2.0/tableschema.json",
+ "name": "list",
+ "title": "Official list row (BIS, TEC, BEE)",
+ "fields": [
+  {
+   "name": "product_name",
+   "type": "string",
+   "description": "Product or item as the official list words it",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "is_codes",
+   "type": "string",
+   "description": "Indian Standard (IS) codes as printed; blank where the list gives none"
+  },
+  {
+   "name": "scheme",
+   "type": "string",
+   "description": "Scheme or list the row belongs to",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "authority",
+   "type": "string",
+   "description": "Administering authority as printed or inferred from the list page",
+   "constraints": {
+    "required": true
+   }
+  },
+  {
+   "name": "group",
+   "type": "string",
+   "description": "Section or group title on the source page"
+  },
+  {
+   "name": "source_url",
+   "type": "string",
+   "description": "URL of the source page or document",
+   "constraints": {
+    "required": true,
+    "pattern": "^https?://"
+   }
+  },
+  {
+   "name": "retrieved_on",
+   "type": "date",
+   "description": "Date the source was fetched (or the archive copy was taken)",
+   "constraints": {
+    "required": true,
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+   }
+  },
+  {
+   "name": "status",
+   "type": "string",
+   "description": "Status taken from the source page's own words",
+   "constraints": {
+    "required": true,
+    "enum": [
+     "active",
+     "upcoming",
+     "withdrawn",
+     "de-notified",
+     "discontinued"
+    ]
+   }
+  },
+  {
+   "name": "notes",
+   "type": "string",
+   "description": "Remaining source text: notification, dates, requirement; verbatim where quoted"
+  }
+ ],
+ "missingValues": [
+  ""
+ ]
+}
