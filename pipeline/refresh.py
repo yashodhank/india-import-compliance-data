@@ -24,7 +24,7 @@ import urllib.request
 
 from pipeline import adapters as A
 from pipeline import fallback as FB
-from pipeline import derived, itchs, qco_register
+from pipeline import derived, itchs, measures, qco_register
 from pipeline import refresh_diff as rd
 from pipeline import sources as S
 
@@ -440,6 +440,11 @@ def run(root, today, offline=False, dry_run=False, fetch=http_fetch):
     cand = derived.candidates(all_rows)
     ctx.stage.put('data/derived/hs-scheme-candidates.csv', derived.to_csv(cand))
     summary['derived'] = {'hs_scheme_candidates': len(cand)}
+    staged = dict(ctx.stage.files)
+    built = measures.build(root, staged)
+    for name, key in (('measures.csv', 'csv'), ('measures.json', 'json'), ('BUILD-REPORT.json', 'report')):
+        ctx.stage.put('data/measures/' + name, built[key])
+    summary['measures'] = {'rows': len(built['rows'])}
     if dry_run:
         summary['dry_run'] = True
         summary['files_that_would_change'] = sum(1 for rel, b in ctx.stage.files.items() if read_file(root, rel) != b)

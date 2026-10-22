@@ -10786,6 +10786,160 @@
       }
     },
     {
+      "name": "measures-measures",
+      "title": "Measures: one row per (8-digit ITC(HS) code, import-compliance measure)",
+      "path": "data/measures/measures.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "hs8",
+            "type": "string",
+            "description": "8-digit ITC(HS) 2022 code",
+            "constraints": {
+              "required": true,
+              "pattern": "^\\d{8}$"
+            }
+          },
+          {
+            "name": "hs6",
+            "type": "string",
+            "description": "6-digit HS prefix (join key to data/hs6)",
+            "constraints": {
+              "required": true,
+              "pattern": "^\\d{6}$"
+            }
+          },
+          {
+            "name": "measure_type",
+            "type": "string",
+            "description": "import_policy, policy_condition, bis_isi_qco, bis_crs, bis_scheme_x, bis_upcoming_qco, tec_mtcte, bee_label, import_monitoring, other_condition",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "import_policy",
+                "policy_condition",
+                "bis_isi_qco",
+                "bis_crs",
+                "bis_scheme_x",
+                "bis_upcoming_qco",
+                "tec_mtcte",
+                "bee_label",
+                "import_monitoring",
+                "other_condition"
+              ]
+            }
+          },
+          {
+            "name": "measure_value",
+            "type": "string",
+            "description": "Free, Restricted, Prohibited or STE for import_policy (blank if the source line has no policy); otherwise the IS number, monitoring system or keyword",
+            "constraints": {}
+          },
+          {
+            "name": "condition_text",
+            "type": "string",
+            "description": "Verbatim condition text from the source, HTML stripped",
+            "constraints": {}
+          },
+          {
+            "name": "document_code",
+            "type": "string",
+            "description": "Short stable code for the certificate or registration; defined in docs/document-codes.md",
+            "constraints": {}
+          },
+          {
+            "name": "legal_ref",
+            "type": "string",
+            "description": "S.O. number, DGFT notification number or list entry as printed; never blank for bis_* types",
+            "constraints": {}
+          },
+          {
+            "name": "valid_from",
+            "type": "date",
+            "description": "Notification or enforcement date, when the source gives one",
+            "constraints": {
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            }
+          },
+          {
+            "name": "valid_to",
+            "type": "date",
+            "description": "Rescission date; blank means open",
+            "constraints": {
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            }
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "in_force, upcoming or withdrawn",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "in_force",
+                "upcoming",
+                "withdrawn"
+              ]
+            }
+          },
+          {
+            "name": "confidence",
+            "type": "string",
+            "description": "official: stated in official text for this code; candidate: keyword match, not a determination",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "official",
+                "candidate"
+              ]
+            }
+          },
+          {
+            "name": "basis",
+            "type": "string",
+            "description": "How the row was derived (row condition, chapter condition N, candidate: keyword ...)",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "qco_slug",
+            "type": "string",
+            "description": "Key into data/qco/register.csv when the measure is tied to a QCO register record",
+            "constraints": {}
+          },
+          {
+            "name": "source_file",
+            "type": "string",
+            "description": "Repository file(s) the row was derived from, semicolon-separated",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "source_sha256",
+            "type": "string",
+            "description": "SHA-256 of each source_file as published here, same order, semicolon-separated",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "as_of",
+            "type": "date",
+            "description": "Date the ITC(HS) source was retrieved",
+            "constraints": {
+              "required": true,
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            }
+          }
+        ]
+      }
+    },
+    {
       "name": "qco-provenance",
       "title": "Provenance of a published CSV",
       "path": "data/qco/PROVENANCE.csv",
