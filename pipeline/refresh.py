@@ -117,24 +117,13 @@ def same_rows(a, b):
     return strip(a) == strip(b)
 
 
-# Archived pages are stored as fetched, except that a third-party CDN host name in a stylesheet link is replaced (this repository names no
-# infrastructure vendors). The parsers do not read those links; raw_sha256 is the hash of the archived (redacted) bytes.
-REDACTIONS = [(b'cdnjs.' + b'cloud' + b'flare.com', b'cdn.invalid')]  # the host name is assembled so this file does not itself name it
-
-
-def redact(body):
-    for old, new in REDACTIONS:
-        body = body.replace(old, new)
-    return body
-
-
 def get_raw(ctx, source_id, url, lang, stem, ext):
     """-> (body, date, raw_rel, already_archived)."""
     if ctx.offline:
         date, path = newest_raw(ctx.root, source_id)
         with open(path, 'rb') as fh:
             return fh.read(), date, os.path.relpath(path, ctx.root), True
-    body = redact(ctx.fetch(fetch_url(url, lang)))
+    body = ctx.fetch(fetch_url(url, lang))
     return body, ctx.today, 'raw/%s/%s/%s_%s.%s' % (source_id, ctx.today, stem, ctx.today, ext), False
 
 

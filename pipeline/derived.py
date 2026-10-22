@@ -6,11 +6,18 @@ import re
 COLS = ['hs_code', 'chapter', 'scheme_hint', 'matched_terms', 'condition_text', 'as_of', 'method']
 METHOD = 'keyword match on the official condition text; candidates only'
 
+MONITORING = {'SIMS', 'CHIMS', 'NFMIMS', 'PIMS'}
+
 # (hint, regex). Acronyms are matched in capitals only, as the Schedule writes them.
 PATTERNS = [
     ('BIS', re.compile(r'\bBIS\b|Bureau of Indian Standards')),
     ('IS', re.compile(r'\bIS\s*[:.]?\s*\d{2,}|Indian Standards?\b')),
-    ('CRS', re.compile(r'\bCRS\b|Compulsory Registration')),
+    # BIS CRS only from text that names the BIS order or the ministry; "Compulsory Registration" in ITC(HS) text means an import-monitoring system
+    ('CRS', re.compile(r'Compulsory Registration Order|\bCRO\b|\bMeitY\b|Electronics and Information Technology Goods')),
+    ('SIMS', re.compile(r'\bSIMS\b|Steel Import Monitoring System')),
+    ('CHIMS', re.compile(r'\bCHIMS\b|Chip Import Monitoring System')),
+    ('NFMIMS', re.compile(r'\bNFMIMS\b|Non-?\s?Ferrous Metal Import Monitoring System')),
+    ('PIMS', re.compile(r'\bPIMS\b|Paper Import Monitoring System')),
     ('QCO', re.compile(r'\bQCOs?\b|Quality Control Orders?')),
     ('WPC', re.compile(r'\bWPC\b|Wireless Planning')),
     ('TEC', re.compile(r'\bTEC\b|Telecommunication Engineering Cent')),
@@ -29,6 +36,8 @@ def candidates(rows):
             continue
         text = r['condition_text']
         hits = [(h, m.group(0)) for h, p in PATTERNS for m in [p.search(text)] if m]
+        if re.search(r'Compulsory Registration|Import Monitoring System', text) and not any(h in MONITORING for h, _ in hits):
+            hits.append(('import_monitoring', re.search(r'Compulsory Registration|Import Monitoring System', text).group(0)))
         if not hits:
             continue
         out.append({'hs_code': r['hs_code'], 'chapter': r['chapter'], 'scheme_hint': ';'.join(h for h, _ in hits),

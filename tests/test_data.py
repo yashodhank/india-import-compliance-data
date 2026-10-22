@@ -137,6 +137,14 @@ class DerivedTest(unittest.TestCase):
             self.assertEqual('keyword match on the official condition text; candidates only', c['method'])
             self.assertIn(c['matched_terms'].split(';')[0], c['condition_text'])
 
+    def test_compulsory_registration_is_never_labelled_bis_crs(self):
+        for c in rows('data/derived/hs-scheme-candidates.csv'):
+            hints = c['scheme_hint'].split(';')
+            if 'Compulsory Registration' in c['condition_text'] and 'CRS' in hints:
+                self.assertRegex(c['condition_text'], r'Compulsory Registration Order|\bCRO\b|MeitY|Electronics and Information Technology Goods', c['hs_code'])
+            if 'CRS' in hints:
+                self.assertRegex(c['condition_text'], r'Compulsory Registration Order|\bCRO\b|MeitY|Electronics and Information Technology Goods', c['hs_code'])
+
     def test_keywords(self):
         from pipeline import derived
         rows_ = [{'hs_code': '11111111', 'level': '8', 'chapter': '11', 'condition_text': 'Free subject to Compulsory Registration under CRS', 'as_of': 'x'},
@@ -144,7 +152,11 @@ class DerivedTest(unittest.TestCase):
                  {'hs_code': '3333', 'level': '4', 'chapter': '33', 'condition_text': 'BIS', 'as_of': 'x'}]
         got = derived.candidates(rows_)
         self.assertEqual(['11111111'], [g['hs_code'] for g in got])
-        self.assertEqual('CRS', got[0]['scheme_hint'])
+        self.assertEqual('import_monitoring', got[0]['scheme_hint'])
+        pims = derived.candidates([{'hs_code': '4801000', 'level': '8', 'chapter': '48', 'condition_text': 'Free subject to Compulsory Registration under Paper Import Monitoring System (PIMS)', 'as_of': 'x'}])
+        self.assertEqual('PIMS', pims[0]['scheme_hint'])
+        cro = derived.candidates([{'hs_code': '85171300', 'level': '8', 'chapter': '85', 'condition_text': 'Subject to the Compulsory Registration Order of MeitY', 'as_of': 'x'}])
+        self.assertIn('CRS', cro[0]['scheme_hint'])
 
 
 if __name__ == '__main__':

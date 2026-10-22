@@ -24,9 +24,10 @@
   {
    "name": "scheme_hint",
    "type": "string",
-   "description": "",
+   "description": "Semicolon-separated hints, each one of: BIS, IS, CRS, QCO, WPC, TEC, BEE, LegalMetrology, EPR, CDSCO, FSSAI, SIMS, CHIMS, NFMIMS, PIMS, import_monitoring",
    "constraints": {
-    "required": true
+    "required": true,
+    "pattern": "^(BIS|IS|CRS|QCO|WPC|TEC|BEE|LegalMetrology|EPR|CDSCO|FSSAI|SIMS|CHIMS|NFMIMS|PIMS|import_monitoring)(;(BIS|IS|CRS|QCO|WPC|TEC|BEE|LegalMetrology|EPR|CDSCO|FSSAI|SIMS|CHIMS|NFMIMS|PIMS|import_monitoring))*$"
    }
   },
   {

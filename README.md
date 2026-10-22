@@ -18,11 +18,11 @@ Every row carries its source URL, retrieval date and a hash of the archived orig
 | TEC MTCTE product list | `data/tec/mtcte.csv` | 200 | TEC |
 | BEE star-label lists | `data/bee/mandatory.csv`, `voluntary.csv` | 19 + 23 | BEE |
 | QCO register (order, S.O. number, dates, IS codes, state, Gazette PDF hash) | `data/qco/register.csv`, `register.json`, `events.csv`, `products.csv` | 310 records | derived from the BIS lists and the Gazette |
-| HS to scheme candidates | `data/derived/hs-scheme-candidates.csv` | 393 | derived from the ITC(HS) condition text |
+| HS to scheme candidates | `data/derived/hs-scheme-candidates.csv` | 402 | derived from the ITC(HS) condition text |
 
 Each data directory has a `PROVENANCE.csv`: source URL, retrieval date, row count, the source's own row count (the two must be equal or the run fails), SHA-256 of the published file and of the raw copy under `raw/`.
 
-The HS to scheme file is **candidates only**: a keyword match on the official condition text (BIS, IS, CRS, Compulsory Registration, QCO, WPC, TEC, BEE, Legal Metrology, EPR, CDSCO, FSSAI). It is a pointer to where a rule may apply, not a determination that one does. Read `DATA-QUALITY.md` before relying on any table.
+The HS to scheme file is **candidates only**: a keyword match on the official condition text (BIS, IS, CRS order, import-monitoring systems, QCO, WPC, TEC, BEE, Legal Metrology, EPR, CDSCO, FSSAI). It is a pointer to where a rule may apply, not a determination that one does. Read `DATA-QUALITY.md` before relying on any table.
 
 ## Licences
 
@@ -76,4 +76,10 @@ Corrections are welcome as issues or pull requests, ideally with a pointer to th
 
 ## Raw archive
 
-`raw/<source>/<date>/` holds the bytes each list was parsed from, so every row can be re-derived. Pages are stored as fetched, with one exception: a third-party CDN host name inside a stylesheet link is replaced with `cdn.invalid` (`REDACTIONS` in `pipeline/refresh.py`); `raw_sha256` in `PROVENANCE.csv` is the hash of the stored bytes.
+`raw/<source>/<date>/` holds the bytes each source returned, **verbatim**: nothing is rewritten, so `raw_sha256` in `PROVENANCE.csv` verifies against what the server sent. Third-party links inside an archived page are that page's own content.
+
+## Glossary
+
+- **Compulsory Registration (in ITC(HS) condition text)**: registration on a DGFT import-monitoring system, not BIS certification. Named systems: SIMS (steel), CHIMS (chips), NFMIMS (non-ferrous metals), PIMS (paper). In `hs-scheme-candidates.csv` these appear as `SIMS`, `CHIMS`, `NFMIMS`, `PIMS`, or `import_monitoring` when the text does not name the system.
+- **CRS**: BIS Compulsory Registration Scheme for electronics (Scheme II; list in `data/bis/crs.csv`). A candidate is labelled `CRS` only when the condition text says "Compulsory Registration Order", "CRO", "MeitY" or "Electronics and Information Technology Goods".
+- **QCO**: Quality Control Order. **MTCTE**: Mandatory Testing and Certification of Telecom Equipment.
