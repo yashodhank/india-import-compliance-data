@@ -129,6 +129,8 @@ def get_raw(ctx, source_id, url, lang, stem, ext):
     u = fetch_url(url, lang)
     body = ctx.fetch(u)
     ctx.meta[source_id] = (getattr(ctx.fetch, 'info', None) or {}).get(u) or {'fetch_method': 'direct', 'fetch_tier': '', 'fetch_cost_usd': ''}
+    if ctx.meta[source_id]['fetch_method'] == 'alterlab_text':
+        raise Failure('%s: only extracted text of the PDF could be fetched, which is not the original bytes; nothing is archived or parsed from it' % source_id)
     return body, ctx.today, 'raw/%s/%s/%s_%s.%s' % (source_id, ctx.today, stem, ctx.today, ext), False
 
 
@@ -367,6 +369,8 @@ def run_qco(ctx, summary):
                 continue
             try:
                 b = ctx.fetch(u)
+                if (getattr(ctx.fetch, 'info', None) or {}).get(u, {}).get('fetch_method') == 'alterlab_text':
+                    raise Failure('extracted text only, not the original bytes')
                 gaz[u] = {'source_url': u, 'sha256': sha(b), 'retrieved_on': ctx.today, 'status': 'ok'}
             except Failure as e:
                 gaz[u] = {'source_url': u, 'sha256': '', 'retrieved_on': ctx.today, 'status': 'unavailable: %s' % str(e)[:80]}

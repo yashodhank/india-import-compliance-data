@@ -77,17 +77,25 @@ def _post(payload, key, timeout):
             return e.code, {}
 
 
-def _body_of(resp, pdf):
-    c = resp.get('content') if isinstance(resp.get('content'), dict) else {}
-    if pdf:
-        for k in ('pdf_base64', 'raw_base64', 'content_base64', 'base64'):
-            v = resp.get(k) or c.get(k)
-            if v:
-                return base64.b64decode(v)
-    for v in (resp.get('raw_html'), c.get('raw_html'), resp.get('html'), c.get('html')):
-        if isinstance(v, str) and v.strip():
-            return v.encode('utf-8')
-    return b''
+def _content(resp):
+    return resp.get('content') if isinstance(resp.get('content'), dict) else {}
+
+
+def _html_of(resp):
+    v = _content(resp).get('html')
+    return v.encode('utf-8') if isinstance(v, str) and v.strip() else b''
+
+
+def _text_of(resp):
+    v = _content(resp).get('text')
+    return v.encode('utf-8') if isinstance(v, str) and v.strip() else b''
+
+
+def is_pdf(url):
+    return bool(re.search(r'\.pdf(\?|$)', url, re.I)) or 'filedownload' in url
+
+
+WAYBACK = 'https://web.archive.org/web/0id_/'  # id_ = the original bytes, unmodified
 
 
 class FallbackFetcher:
@@ -120,12 +128,25 @@ class FallbackFetcher:
         except Failure as e:
             if not (self.configured and needs_fallback(e)):
                 raise
-            body = self._scrape(url, str(e))
+            body = self._wayback(url) if is_pdf(url) else None
+            if body is None:
+                body = self._scrape(url, str(e))
         else:
             if self.configured and looks_js_only(body, url):
                 body = self._scrape(url, 'direct page needs JavaScript', keep=body)
             else:
                 self.info[url] = {'fetch_method': 'direct', 'fetch_tier': '', 'fetch_cost_usd': ''}
+        return body
+
+    def _wayback(self, url):
+        """Verbatim bytes of a refused PDF from the Internet Archive, free; None when it has no copy."""
+        try:
+            body = self.direct(WAYBACK + url)
+        except Failure:
+            return None
+        if body[:5] != b'%PDF-':
+            return None
+        self.info[url] = {'fetch_method': 'wayback', 'fetch_tier': '', 'fetch_cost_usd': ''}
         return body
 
     def _scrape(self, url, why, keep=None):
@@ -137,8 +158,8 @@ class FallbackFetcher:
                 self.info[url] = {'fetch_method': 'direct', 'fetch_tier': '', 'fetch_cost_usd': ''}
                 return keep
             raise Failure('%s (%s)' % (msg, why))
-        pdf = bool(re.search(r'\.pdf(\?|$)', url, re.I)) or 'filedownload' in url
-        payload = {'url': url, 'mode': 'pdf' if pdf else 'auto', 'formats': ['html'], 'include_raw_html': True, 'sync': True, 'timeout': 90,
+        pdf = is_pdf(url)
+        payload = {'url': url, 'mode': 'pdf' if pdf else 'auto', 'formats': ['text'] if pdf else ['html'], 'include_raw_html': not pdf, 'sync': True, 'timeout': 90,
                    'cost_controls': {'max_tier': '4', 'max_credits': 0.01, 'fail_fast': True}}
         status, resp = self.post(payload, self._key, 120)
         code = str(resp.get('code') or resp.get('error') or '')[:60] if isinstance(resp, dict) else ''
@@ -155,9 +176,9 @@ class FallbackFetcher:
         cost = (b['final_cost_microcents'] / 1e8) if isinstance(b.get('final_cost_microcents'), (int, float)) else (b.get('total_credits') or 0) / 1e6
         self.count += 1
         self.spent += cost
-        body = _body_of(resp, pdf)
+        body = _text_of(resp) if pdf else _html_of(resp)
         if not body.strip():
-            self.errors.append('fallback returned no raw bytes for %s' % url)
-            raise Failure('fallback returned no raw bytes for %s' % url)
-        self.info[url] = {'fetch_method': 'alterlab', 'fetch_tier': str(b.get('tier_used', '')), 'fetch_cost_usd': '%.6f' % cost}
+            self.errors.append('fallback returned no content for %s' % url)
+            raise Failure('fallback returned no content for %s' % url)
+        self.info[url] = {'fetch_method': 'alterlab_text' if pdf else 'alterlab', 'fetch_tier': str(b.get('tier_used', '')), 'fetch_cost_usd': '%.6f' % cost}
         return body

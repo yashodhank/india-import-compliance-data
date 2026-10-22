@@ -45,3 +45,5 @@ Honest list. Open an issue if you find another.
 ## Live fetching
 
 - The weekly workflow fetches with a user agent that names this repository. The first live run of each adapter is the real test that a host accepts that agent; a refused or changed page stops the run and opens an issue.
+
+- A page or PDF fetched through the paid fallback is recorded in `PROVENANCE.csv` (`fetch_method`). A PDF obtained that way is extracted text, not the original bytes, and is never archived as the raw copy; only the origin and the Internet Archive give verbatim PDFs.
