@@ -1,0 +1,38 @@
+name: Data correction
+description: A value in a published table is wrong, stale or missing
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Not legal advice. The official source prevails; this report is checked against it. No response time is promised.
+  - type: input
+    id: file
+    attributes:
+      label: File
+      placeholder: data/itchs/2022/all.csv
+    validations:
+      required: true
+  - type: input
+    id: key
+    attributes:
+      label: Row key
+      description: HS code, IS code or product name
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What the file says, and what it should say
+    validations:
+      required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: Link to the official page or Gazette that shows the right value
+    validations:
+      required: true
+  - type: input
+    id: release
+    attributes:
+      label: Release or commit you looked at

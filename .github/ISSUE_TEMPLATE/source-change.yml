@@ -1,0 +1,30 @@
+name: Source change
+description: An official page or list moved, changed layout, or was replaced
+labels: ["source-change"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this when the authority changed where or how a list is published. If the authority now publishes a machine-readable dataset, say so: see MAINTAINERS.md.
+  - type: input
+    id: source
+    attributes:
+      label: Which source
+      placeholder: BIS Scheme I page, MTCTE product list PDF, DGFT ITC(HS) export
+    validations:
+      required: true
+  - type: input
+    id: new_url
+    attributes:
+      label: New address, if it moved
+  - type: textarea
+    id: what
+    attributes:
+      label: What changed
+      description: Layout, columns, format, robots.txt, or a new machine-readable release
+    validations:
+      required: true
+  - type: input
+    id: seen
+    attributes:
+      label: Date you noticed it
