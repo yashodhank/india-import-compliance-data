@@ -27,6 +27,16 @@ class StatusTest(unittest.TestCase):
         st, tag = A.status_of('', 'Flux Cored Solder Wire (Quality Control) Order, 2023 S.O. 4092(E), dated 18th September 2023 Rescind Flux Cored Solder Wire Order, 2023 S.O. 165(E) Dated 12 January, 2026')
         self.assertEqual(('withdrawn', ' | Status: rescinded 12 January, 2026'), (st, tag))
 
+    def test_a_rescinded_order_that_the_same_row_replaces_is_live(self):
+        """Footwear: the 2020 order was rescinded on 3 June 2022 and the same row lists the fresh 2022 order and amendments to 2026. The last order decides."""
+        text = ('Footwear (Quality Control) Order, 2020 (S.O. 3858(E) 27/10/2020) Rescind order for the Footwear (Quality Control) Order, 2020 (S.O. 2597(E), dated 3rd June 2022) '
+                'Footwear (Quality Control) Order, 2022 (S.O. 2599(E), dated 3rd June 2022) Footwear (Quality Control) Amendment Order, 2026 (S.O. 3100(E), dated 12 June 2026)')
+        self.assertEqual(('active', ''), A.status_of('', text))
+
+    def test_the_chronologically_last_order_on_the_row_decides(self):
+        self.assertEqual(('active', ''), A.status_of('', 'Rescinded 3 June 2022. Order, 2022 S.O. 1234 dated 4 June 2022.'))
+        self.assertEqual(('withdrawn', ' | Status: rescinded 1 January 2027'), A.status_of('', 'Order, 2022 S.O. 1234 dated 4 June 2022. Rescinded 1 January 2027.'))
+
     def test_rescind_without_a_date_says_so(self):
         self.assertEqual(('withdrawn', ' | Status: rescinded (no date printed)'), A.status_of('', 'Order, 2021 Rescind order'))
 
@@ -72,6 +82,36 @@ class PoliteFetcherTest(unittest.TestCase):
                 resp['https://h.example/robots.txt'] = robots
             f, _, _ = self.fetcher(resp)
             self.assertEqual(b'<p>ok</p>', f('https://h.example/a'))
+
+    def test_a_4xx_on_robots_means_no_rules_but_a_5xx_means_nothing_is_fetched(self):
+        """RFC 9309: an unavailable (4xx) robots.txt is unrestricted. The TEC host answers its robots.txt 403 to datacenter addresses."""
+        for code in (401, 403, 429):
+            f, calls, _ = self.fetcher({'https://h.example/robots.txt': (code, 'text/html', b'denied'), 'https://h.example/a': (200, 'x', b'ok')})
+            import urllib.error as ue
+            orig = f.opener
+
+            def opener(url, orig=orig, code=code):
+                if url.endswith('/robots.txt'):
+                    raise ue.HTTPError(url, code, 'no', {}, None)
+                return orig(url)
+            f.opener = opener
+            self.assertEqual(b'ok', f('https://h.example/a'))
+        import urllib.error as ue
+        f, _, _ = self.fetcher({'https://h.example/robots.txt': (503, 'text/html', b'down')})
+        f.opener = lambda url: (_ for _ in ()).throw(ue.HTTPError(url, 503, 'x', {}, None))
+        with self.assertRaisesRegex(A.Failure, 'answered HTTP 503'):
+            f('https://h.example/a')
+
+    def test_a_page_403_after_an_open_robots_carries_its_status_so_the_paid_fallback_can_act(self):
+        from pipeline import fallback as FB
+        import urllib.error as ue
+
+        def opener(url):
+            raise ue.HTTPError(url, 403 if not url.endswith('/robots.txt') else 404, 'x', {}, None)
+        f = FB.DirectFetcher(delay=0, sleep=lambda n: None, opener=opener)
+        with self.assertRaises(FB.FetchError) as cm:
+            f('https://h.example/a')
+        self.assertTrue(FB.needs_fallback(cm.exception))
 
     def test_only_the_named_path_is_disallowed(self):
         f, _, _ = self.fetcher({'https://h.example/robots.txt': (200, 'text/plain', b'User-agent: *\nDisallow: /wp-admin/\n'), 'https://h.example/lists/': (200, 'text/html', b'x')})
@@ -169,9 +209,9 @@ class ReviewFetcherTest(unittest.TestCase):
         f('https://h.example/b')
         self.assertEqual([2.0], naps[before:])
 
-    def test_a_robots_transport_error_or_a_forbidden_is_a_refusal(self):
+    def test_a_robots_transport_error_or_a_server_error_is_a_refusal(self):
         import urllib.error
-        for err in (urllib.error.HTTPError('https://h.example/robots.txt', 403, 'forbidden', {}, None), urllib.error.HTTPError('https://h.example/robots.txt', 500, 'x', {}, None), OSError('reset')):
+        for err in (urllib.error.HTTPError('https://h.example/robots.txt', 503, 'unavailable', {}, None), urllib.error.HTTPError('https://h.example/robots.txt', 500, 'x', {}, None), OSError('reset')):
             f, calls, _ = self.make({'https://h.example/robots.txt': err, 'https://h.example/a': (200, 'x', b'1')})
             with self.assertRaises(A.Failure):
                 f('https://h.example/a')

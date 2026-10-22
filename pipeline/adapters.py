@@ -210,21 +210,48 @@ def count_check(what, parsed, expected):
         raise Failure('%s: parsed %d rows but the source table has %d (a row has a shape the parser does not know)' % (what, parsed, expected))
 
 
+_RESCIND = re.compile(r'\bwithdrawal of\b|\brescind(?:s|ed)?\b', re.I)
+_ORDER = re.compile(r'Order,?\s*20\d\d\b[^.]{0,80}?S\.?\s?O\.?\s*(?:No\.?)?\s*\d+', re.I)
+_FRESH = re.compile(r'\ba\s+fresh\s+(?:Notification|Order)\b', re.I)
+
+
 def status_of(section, text):
-    """(status, tag) from the page's own words. tag is ' | Status: ...' with the date as printed, or ''."""
+    """(status, tag) from the page's own words. tag is ' | Status: ...' with the date as printed, or ''.
+
+    The row's chronologically LAST event decides. Events: a rescission or withdrawal (with the date printed after it), and an order (an Order, 20yy with its S.O. number,
+    or "a fresh Notification/Order") that is not itself the order being rescinded. Events are ordered by their printed date; the same day, or a missing date,
+    keeps the order of the text (the Gazette list is chronological). Rescinded then replaced is live (Footwear: 3 June 2022, amended to 2026); replaced then
+    rescinded is withdrawn; "fresh" in the product's own wording is no event."""
     t = text or ''
     if 'de-notified' in (section or '').lower():
         return 'de-notified', ''
-    m = re.search(r'withdrawal of', t, re.I)
-    if m:
+    events = []  # (position, kind, iso date or '', printed date text)
+    covered = []  # text ranges that belong to a rescission clause: the order named there is the one being rescinded
+    for m in _RESCIND.finditer(t):
         d = printed_dates(t[m.end():])
-        return 'withdrawn', STATUS_TAG + 'withdrawn' + (' ' + t[m.end():][d[0][0]:d[0][1]].strip() if d else '')
-    m = re.search(r'\brescind(?:s|ed)?\b', t, re.I)
-    # "was rescinded by ... and a fresh Notification was issued" says the QCO lives on in a new order: that is not this QCO ending
-    if m and not (re.search(r'\b(?:was|been)\s+rescinded\b', t, re.I) and re.search(r'\bfresh\b', t, re.I)):
-        d = printed_dates(t[m.end():])
-        return 'withdrawn', STATUS_TAG + 'rescinded' + (' ' + t[m.end():][d[0][0]:d[0][1]].strip() if d else ' (no date printed)')
-    return 'active', ''
+        end = m.end() + (d[0][1] if d else 0)
+        events.append((m.start(), 'rescind', d[0][2] if d else '', t[m.end():][d[0][0]:d[0][1]].strip() if d else ''))
+        covered.append((m.start(), end))
+    for m in list(_ORDER.finditer(t)) + list(_FRESH.finditer(t)):
+        if any(a <= m.start() < b for a, b in covered):
+            continue
+        d = printed_dates(t[m.end():m.end() + 160])
+        events.append((m.start(), 'order', d[0][2] if d else '', ''))
+    rescinds = [e for e in events if e[1] == 'rescind']
+    if not rescinds:
+        return 'active', ''
+    # A "fresh" notice only replaces when it follows a rescission; one in the product's own wording before any rescission is ignored.
+    first = min(e[0] for e in rescinds)
+    events = [e for e in events if e[1] == 'rescind' or e[0] > first]
+
+    def key(e):
+        return (e[2] or '', e[0]) if all(x[2] for x in events) else (0, e[0])
+
+    last = sorted(events, key=key)[-1]
+    if last[1] == 'order':
+        return 'active', ''
+    word = 'withdrawn' if t[last[0]:].lower().startswith('withdrawal') else 'rescinded'
+    return 'withdrawn', STATUS_TAG + word + (' ' + last[3] if last[3] else (' (no date printed)' if word == 'rescinded' else ''))
 
 
 def pdf_items(body):
@@ -364,7 +391,7 @@ class PoliteFetcher:
     """GET with robots.txt honoured and two seconds between the end of one request and the start of the next to the same host.
     `sleep`, `opener`, `urlopen` and `clock` are injectable for tests.
 
-    robots.txt: a 404 or 410, or a 200 that is an HTML page, means no published rules. Any other answer (401, 403, 429, 5xx, a transport error)
+    robots.txt: any 4xx (RFC 9309: "unavailable"), or a 200 that is an HTML page, means no published rules. A 5xx or a transport error
     means we cannot tell what is allowed, so nothing is fetched from that host. Only the `*` record is read (this fetcher has no product token)."""
 
     def __init__(self, delay=2.0, sleep=time.sleep, opener=None, clock=time.monotonic, timeout=60, urlopen=urllib.request.urlopen):
@@ -397,15 +424,15 @@ class PoliteFetcher:
             try:
                 status, ctype, body = self._get(host + '/robots.txt')
             except urllib.error.HTTPError as e:
-                if e.code not in (404, 410):
+                if not 400 <= e.code <= 499:
                     raise Failure('robots.txt of %s answered HTTP %s: nothing is fetched from it' % (u.netloc, e.code))
-                status, ctype, body = e.code, '', b''
+                status, ctype, body = e.code, '', b''  # RFC 9309 2.3.1.3: a 4xx means the file is unavailable, so there are no rules (not a refusal)
             except Exception as e:  # noqa: BLE001
                 raise Failure('robots.txt of %s could not be read (%s): nothing is fetched from it' % (u.netloc, e))
             text = body.decode('utf-8', 'replace')
             if status == 200 and 'html' not in ctype.lower() and not re.search(r'<\s*(html|body)\b', text[:500], re.I):
                 lines = text.splitlines()
-            elif status not in (200, 404, 410):
+            elif status != 200 and not 400 <= status <= 499:
                 raise Failure('robots.txt of %s answered HTTP %s: nothing is fetched from it' % (u.netloc, status))
             rp.parse(lines)
             self.robots[host] = rp

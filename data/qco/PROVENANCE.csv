@@ -1,2 +1,2 @@
 file,source_url,retrieved_on,sha256,rows,source_rows,page_date,parser,raw_file,raw_sha256,raw_bytes,raw_committed,fetch_method,fetch_tier,fetch_cost_usd
-register.csv,"derived from data/bis/isi_qco.csv, qco_upcoming.csv, crs.csv",2026-10-21,d22aac50e768cbcce0701b194ae7bd620aa65ac7e62b5e25e84d9102b9795b52,311,311,,pipeline.qco_register.build,,,,gazette PDFs are not stored; see gazette-pdf-hashes.csv,,,
+register.csv,"derived from data/bis/isi_qco.csv, qco_upcoming.csv, crs.csv",2026-10-21,1aad6e83ae2be2b2702d564660a54efc442c4260e8ed38f8154ca3502118a739,311,311,,pipeline.qco_register.build,,,,gazette PDFs are not stored; see gazette-pdf-hashes.csv,,,

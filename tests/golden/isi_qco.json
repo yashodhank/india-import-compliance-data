@@ -2,11 +2,11 @@
  "rows": 799,
  "source_rows": 799,
  "page_date": "2026-10-15",
- "sha256": "b73661b293b1371c799b5f1761d5bd67062e73fc499ac82aa971443479d3f873",
+ "sha256": "33fbcf341714396f3b2898f007fa8ab1f1843e02742d1250d954432d4d778d70",
  "statuses": {
-  "active": 711,
+  "active": 737,
   "de-notified": 13,
-  "withdrawn": 75
+  "withdrawn": 49
  },
  "sample": [
   {
