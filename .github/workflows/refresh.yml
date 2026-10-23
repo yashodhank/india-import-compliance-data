@@ -9,6 +9,10 @@ on:
         description: fetch and parse everything, report what would change, write, commit and release nothing
         type: boolean
         default: false
+      publish:
+        description: cut a release from the current tree even when the fetch changed nothing (every test gate still runs first)
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -71,11 +75,12 @@ jobs:
           r = json.load(open('refresh-report.json'))
           assert r['status'] == 'ok', r
           print('changed=' + ('true' if r.get('changed') else 'false'))
+          print('publish=' + ('true' if (r.get('changed') or '${{ inputs.publish }}' == 'true') else 'false'))
           PY
           git status --short | head -20
 
       - name: Commit, changelog entry and release
-        if: steps.diff.outputs.changed == 'true' && !inputs.dry_run
+        if: steps.diff.outputs.publish == 'true' && !inputs.dry_run
         run: |
           set -euo pipefail
           TAG="v$(date -u +%Y.%m.%d)"
@@ -90,6 +95,7 @@ jobs:
           git pull --rebase origin main
           git push origin HEAD:main
           python -m pipeline.assets dist
+          (cd dist && sha256sum -- * > ../SHA256SUMS && mv ../SHA256SUMS SHA256SUMS)
           gh release create "$TAG" --title "$TAG" --notes-file changelog-entry.md dist/*
           # Pushes made with GITHUB_TOKEN start no workflow, so publish the site explicitly (pages runs ci first).
           gh workflow run pages.yml
