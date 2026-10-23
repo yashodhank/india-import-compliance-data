@@ -32,7 +32,11 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y poppler-utils
-          python -m pip install -r requirements-dev.txt
+          python -m pip install -r requirements-dev.txt ruff
+      - name: Pipeline consistency check (needs pipeline/check.py from the pipeline audit PR)
+        run: python -m pipeline.check
+      - name: Lint pipeline and tests
+        run: ruff check pipeline tests
       - name: Tests, golden files and schema validation of every published CSV
         run: python -m pytest tests -q
       - name: Count the tests that ran

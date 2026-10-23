@@ -69,14 +69,9 @@ jobs:
           git config user.name "data-refresh"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           printf '## %s, %s\n\nIS-standards metadata refresh from BIS Know Your Standards. Counts: data/is-standards/BUILD-REPORT.json.\n' "$TAG" "$(date -u +%Y-%m-%d)" > changelog-entry.md
-          python - "$TAG" <<'PY'
-          import sys
-          entry = open('changelog-entry.md', encoding='utf-8').read()
-          old = open('CHANGELOG.md', encoding='utf-8').read()
-          head, sep, rest = old.partition('\n## ')
-          open('CHANGELOG.md', 'w', encoding='utf-8').write(head + '\n' + entry + ('\n## ' + rest if sep else ''))
-          PY
-          git add CHANGELOG.md
+          python .github/scripts/release_prep.py "$TAG" "$(date -u +%Y-%m-%d)" changelog-entry.md
+          python -m pipeline.datapackage
+          git add CHANGELOG.md CITATION.cff datapackage.json
           git commit -m "data: monthly IS-standards refresh $TAG"
           git pull --rebase origin main
           git push origin HEAD:main
