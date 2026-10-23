@@ -40,4 +40,5 @@ jobs:
       - name: Python package tests
         run: cd packages/python && python -m unittest discover -s tests -v
       - name: Node package tests
-        run: cd packages/node && npm test
+        # `npm test` runs `node --test test/`, which Node 22 reads as a module path and fails
+        run: cd packages/node && node --test
