@@ -2611,7 +2611,7 @@
   "history_truncated": "false",
   "product_count": 5,
   "first_date": "2023-08-09",
-  "latest_date": "2026-03-30",
+  "latest_date": "2026-10-13",
   "source_file": "isi_qco.csv",
   "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
   "retrieved_on": "2026-10-22",
@@ -2660,6 +2660,12 @@
     "date": "2026-03-30",
     "kind": "order",
     "text": "Cookware, Utensils and Cans for Foods and Beverages (Quality Control) Order, 2026 S.O.1661 (E) Dated 30 March, 2026"
+   },
+   {
+    "seq": 8,
+    "date": "2026-10-13",
+    "kind": "order",
+    "text": "Cookware, Utensils and Cans for Foods and Beverages (Quality Control) Second Order, 2026 S.O.5624(E) Dated 13 October, 2026"
    }
   ]
  },
@@ -10833,9 +10839,9 @@
   "state": "in_force",
   "extended": "true",
   "rescinded": "false",
-  "is_codes": "IS 1785 (Part 1) : 1983 ; IS 1785 (Part 2) : 1983 ; IS 6003:2010 ; IS 6006:2014 ; IS 13620:1993 ; IS 14268:1995 ; IS 277:2003 ; IS 2002:2009 ; IS 2041:2009 ; IS 2830:2012 ; IS 1786:2008 ; IS 648:2006 ; IS 3024:2015 ; IS 15391:2003 ; IS 2062:2011 ; IS 432 : Part 1:1982 ; IS 432 : Part 2:1982 ; IS 513 (Part-1): 2016 ; IS 513(Part-2):2016 ; IS 1079: 2017 ; IS 1875:1992 ; IS 2879:1998 ; IS 3502:2009 ; IS 5872:1990 ; IS 5986: 2017 ; IS 6240:2008 ; IS 7283:1992 ; IS 7887:1992 ; IS 10748:2004 ; IS 11513:2017 ; IS 15647:2006 ; IS 7904:2017 ; IS 14246:2013 ; IS 15965:2012 ; IS 280: 2006 ; IS 1835:1976 ; IS 3975:1999 ; IS 4368:1967 ; IS 4454 (Part 1) : 2001 ; IS 4454 (Part 2): 2001 ; IS 4824:2006 ; IS 11169 (Part 1): 1984 ; IS 11587:1986 ; IS 15103: 2002 ; IS 15914:2011 ; IS 15961:2012 ; IS 15962:2012 ; IS 6527:1995 ; IS 6528:1995 ; IS 6603:2001 ; IS 6911:2017 ; IS 15997:2012 ; IS 1110 : 1990 ; IS 4409 : 1973 ; IS 1029 : 1970 ; IS 2385 : 1977 ; IS 3039 : 1988 ; IS 9550 2001 ; IS 3748 : 1990 ; IS 5517 : 1993 ; IS 16732: 2019 ; IS 7494 : 1981 ; IS 12146 : 1987 ; IS 16585 : 2016 ; IS 2831 : 2012 ; IS 1148: 2009 ; IS 1673: 1984 ; IS 1812: 1982 ; IS 2507: 1975 ; IS 2255: 1977 ; IS 3195: 1992 ; IS 3431: 1982 ; IS 3885-Part-1: 1992 ; IS 3885-Part- 2: 1992 ; IS 4223: 1975 ; IS 4224: 1972 ; IS 4397: 1999 ; IS 4398: 1994 ; IS 6902: 1973 ; IS 6967: 1973 ; IS 7226: 1974 ; IS 7557: 1982 ; IS 8052: 2006 ; IS 8951: 2001 ; IS 8952: 1995 ; IS 9476: 1980 ; IS 9962: 1981 ; IS 17111: 2019 (ISO 683- 17: 2014) ; IS 14331:1995 ; IS 12594: 1988 ; IS 14650:1999 ; IS 4882: 1979 ; IS 2090:1983 ; IS 6529:1996 ; IS 9294:1979 ; IS 10631:1983 ; IS 10632 (Part 2):1983 ; IS 10632 (Part 3):1983 ; IS 11169 (Part 2): 1989 ; IS 5651:1987 ; IS 9516:1980 ; IS 11952:1986 ; IS 12045:1987 ; IS 14652:1999 ; IS 1566:1982 ; IS 1170: 1992 ; IS 11946:1987 ; IS 11947:1987 ; IS 963: 1958 ; IS 4454 (Part 4): 2001 ; IS 1993 : 2018 ; IS 12591:2018 ; IS 412:1975 ; IS 2100: 1970 ; IS 2589: 1975 ; IS 3298: 1981 ; IS 4072: 1975 ; IS 8510 (Part II): 1977 ; IS 8510 (PartIII): 1977 ; IS 8563: 1977 ; IS 8564: 1977 ; IS 8565: 1977 ; IS 8566: 1977 ; IS 8917: 1978 ; IS 9442: 1980 ; IS 9485: 1980 ; IS 10794: 1984 ; IS 12262:1988 ; IS 1470: 2013 ; IS 15911:2010 ; IS 1171: 2011 ; IS 4431: 1978 ; IS 4432: 1988 ; IS 5518: 1996 ; IS 8748: 1978 ; IS 12145: 1987 ; IS 13387: 1992 ; IS 14698:1999 ; IS/ISO 11951 : 2016 ; IS 3930: 1994 ; IS 5478: 1969 ; IS 13352: 1992 ; IS 16644: 2018 ; IS 17404 : 2020 ; IS 18316: 2023 ; IS 18384: 2023 ; IS 18385: 2023 ; IS 18513: 2023 ; IS 1469: 1993 ; IS 1466: 1985",
+  "is_codes": "IS 1785 (Part 1) : 1983 ; IS 1785 (Part 2) : 1983 ; IS 6003:2010 ; IS 6006:2014 ; IS 13620:1993 ; IS 14268:1995 ; IS 277:2003 ; IS 2002:2009 ; IS 2041:2009 ; IS 2830:2012 ; IS 1786:2008 ; IS 648:2006 ; IS 3024:2015 ; IS 15391:2003 ; IS 2062:2011 ; IS 432 : Part 1:1982 ; IS 432 : Part 2:1982 ; IS 513 (Part-1): 2016 ; IS 513(Part-2):2016 ; IS 1079: 2017 ; IS 1875:1992 ; IS 2879:1998 ; IS 3502:2009 ; IS 5872:1990 ; IS 5986: 2017 ; IS 6240:2008 ; IS 7283:1992 ; IS 7887:1992 ; IS 10748:2004 ; IS 11513:2017 ; IS 15647:2006 ; IS 7904:2017 ; IS 14246:2013 ; IS 15965:2012 ; IS 280: 2006 ; IS 1835:1976 ; IS 3975:1999 ; IS 4368:1967 ; IS 4454 (Part 1) : 2001 ; IS 4454 (Part 2): 2001 ; IS 4824:2006 ; IS 11169 (Part 1): 1984 ; IS 11587:1986 ; IS 15103: 2002 ; IS 15914:2011 ; IS 15961:2012 ; IS 15962:2012 ; IS 6527:1995 ; IS 6528:1995 ; IS 6603:2001 ; IS 5522:2014 ; IS 6911:2017 ; IS 15997:2012 ; IS 1110 : 1990 ; IS 4409 : 1973 ; IS 1029 : 1970 ; IS 2385 : 1977 ; IS 3039 : 1988 ; IS 9550 2001 ; IS 3748 : 1990 ; IS 5517 : 1993 ; IS 16732: 2019 ; IS 7494 : 1981 ; IS 12146 : 1987 ; IS 16585 : 2016 ; IS 2831 : 2012 ; IS 1148: 2009 ; IS 1673: 1984 ; IS 1812: 1982 ; IS 2507: 1975 ; IS 2255: 1977 ; IS 3195: 1992 ; IS 3431: 1982 ; IS 3885-Part-1: 1992 ; IS 3885-Part- 2: 1992 ; IS 4223: 1975 ; IS 4224: 1972 ; IS 4397: 1999 ; IS 4398: 1994 ; IS 6902: 1973 ; IS 6967: 1973 ; IS 7226: 1974 ; IS 7557: 1982 ; IS 8052: 2006 ; IS 8951: 2001 ; IS 8952: 1995 ; IS 9476: 1980 ; IS 9962: 1981 ; IS 17111: 2019 (ISO 683- 17: 2014) ; IS 14331:1995 ; IS 12594: 1988 ; IS 14650:1999 ; IS 4882: 1979 ; IS 2090:1983 ; IS 6529:1996 ; IS 9294:1979 ; IS 10631:1983 ; IS 10632 (Part 2):1983 ; IS 10632 (Part 3):1983 ; IS 11169 (Part 2): 1989 ; IS 5651:1987 ; IS 9516:1980 ; IS 11952:1986 ; IS 12045:1987 ; IS 14652:1999 ; IS 1566:1982 ; IS 1170: 1992 ; IS 11946:1987 ; IS 11947:1987 ; IS 963: 1958 ; IS 4454 (Part 4): 2001 ; IS 1993 : 2018 ; IS 12591:2018 ; IS 412:1975 ; IS 2100: 1970 ; IS 2589: 1975 ; IS 3298: 1981 ; IS 4072: 1975 ; IS 8510 (Part II): 1977 ; IS 8510 (PartIII): 1977 ; IS 8563: 1977 ; IS 8564: 1977 ; IS 8565: 1977 ; IS 8566: 1977 ; IS 8917: 1978 ; IS 9442: 1980 ; IS 9485: 1980 ; IS 10794: 1984 ; IS 12262:1988 ; IS 1470: 2013 ; IS 15911:2010 ; IS 1171: 2011 ; IS 4431: 1978 ; IS 4432: 1988 ; IS 5518: 1996 ; IS 8748: 1978 ; IS 12145: 1987 ; IS 13387: 1992 ; IS 14698:1999 ; IS/ISO 11951 : 2016 ; IS 3930: 1994 ; IS 5478: 1969 ; IS 13352: 1992 ; IS 16644: 2018 ; IS 17404 : 2020 ; IS 18316: 2023 ; IS 18384: 2023 ; IS 18385: 2023 ; IS 18513: 2023 ; IS 1469: 1993 ; IS 1466: 1985",
   "history_truncated": "false",
-  "product_count": 150,
+  "product_count": 151,
   "first_date": "2020-02-14",
   "latest_date": "2026-06-22",
   "source_file": "isi_qco.csv",
@@ -10934,60 +10940,6 @@
     "date": "2026-06-22",
     "kind": "amended",
     "text": "Steel & Steel Products (Quality Control) Amendment Order, 2026 S.O.3300(E) Dated 22 June, 2026"
-   }
-  ]
- },
- {
-  "slug": "steel-and-steel-products-quality-control-order-2020-2",
-  "list": "isi_qco",
-  "list_serial": "10",
-  "title": "Steel and Steel Products (Quality Control) Order, 2020",
-  "ministry": "",
-  "sector": "Steel and Iron Products",
-  "state": "in_force",
-  "extended": "true",
-  "rescinded": "false",
-  "is_codes": "IS 5522:2014",
-  "history_truncated": "true",
-  "product_count": 1,
-  "first_date": "2020-02-14",
-  "latest_date": "2020-11-12",
-  "source_file": "isi_qco.csv",
-  "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/",
-  "retrieved_on": "2026-10-22",
-  "source_rows": "124",
-  "pdf_urls": "https://bis.gov.in/wp-content/uploads/2020/03/Steel-QCO-14022020-1.pdf ; https://bis.gov.in/wp-content/uploads/2020/06/Steel-QCO-2020-dated-27th-May-2020.pdf ; https://bis.gov.in/wp-content/uploads/2020/07/Steel-QCO-dated-17-July-2020-with-corrigendum.pdf",
-  "gazette_pdf_sha256": "2196b6405fddeb5ef09be859458dea828bca6b3dabdccf72a229b866134c4c80 ; 295891cce6bc03e35734655d480315ec7471b85a6eddb2fdc379f2b7476f98bd ; 576f0e3af5b30338af25ceb692c48edd4de663d6957122bf9336ddfabea1c6ae",
-  "events": [
-   {
-    "seq": 1,
-    "date": "2020-02-14",
-    "kind": "notified",
-    "text": "Steel and Steel Products (Quality Control) Order, 2020 S.O. 756(E) , dated 14-02-2020"
-   },
-   {
-    "seq": 2,
-    "date": "2020-05-27",
-    "kind": "superseded",
-    "text": "Superseded by Steel and Steel Products (Quality Control) Order, 2020 S.O. 1673(E), dated 27-05-2020"
-   },
-   {
-    "seq": 3,
-    "date": "2020-07-17",
-    "kind": "superseded",
-    "text": "Superseded by Steel and Steel Products (Quality Control) Order, 2020 (S.O. 2379(E), dated 17-07-2020"
-   },
-   {
-    "seq": 4,
-    "date": "2020-07-22",
-    "kind": "extended",
-    "text": "Extension in date of enforcement for Steel Products Order File.No. S-20011/1/2020-TECH dated 22.07.2020"
-   },
-   {
-    "seq": 5,
-    "date": "2020-11-12",
-    "kind": "extended",
-    "text": "Extension Order Superseded by Steel and Steel Products (Quality Control) Order, 2020 (S.O. 4082(E), dated 12.11.2020"
    }
   ]
  },
