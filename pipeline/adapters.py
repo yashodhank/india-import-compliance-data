@@ -66,7 +66,6 @@ USER_AGENT = os.environ.get('ICD_USER_AGENT') or 'india-import-compliance-data/1
 STATUS_TAG = ' | Status: '
 
 
-CUT = 600  # the QCO text kept in notes (build_bis.py); the register reads the whole text from the archived page
 
 
 MONTHS = {m: i + 1 for i, m in enumerate(['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'])}

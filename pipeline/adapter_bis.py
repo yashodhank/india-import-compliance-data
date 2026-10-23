@@ -5,7 +5,7 @@ notification the row above spans over it. The expected row count is the table's 
 titles; a `<tr>` that is none of these and does not fill the table's columns is a failure, never a skipped row."""
 import re
 
-from pipeline.adapters import CUT, Failure, NoStructure, Parsed, clean, count_check, html_grid, page_date, row, status_of
+from pipeline.adapters import Failure, NoStructure, Parsed, clean, count_check, html_grid, page_date, row, status_of
 
 
 def grid_tables(body, shapes, what):
@@ -37,6 +37,35 @@ def data_rows(t, width, what, sections=False, spacer=blank, widths=None):
     return data, len(body) - len(spacers) - len(secs), secs
 
 
+ORDER_SEG = re.compile(r'.*?\b(?:dated|dt)\b\.?[\s:]*\d{1,2}(?:st|nd|rd|th)?\s+[A-Za-z]+,?\s+\d{4}', re.S | re.I)
+SO_NO = re.compile(r'S\.?\s?O\.?\s*(?:No\.?)?\s*(\d+)\s*\(\s*E\s*\)', re.I)
+
+
+def order_segments(cell):
+    """The cell's orders, one per stretch that ends in a printed date: [(S.O. number or '', text)], plus the undated rest as text."""
+    out, pos = [], 0
+    for m in ORDER_SEG.finditer(cell):
+        seg = m.group(0).strip()
+        so = SO_NO.search(seg)
+        out.append((so.group(1) if so else '', seg))
+        pos = m.end()
+    return out, cell[pos:].strip()
+
+
+def newer_orders(cell, others):
+    """The orders the other copies' cells name that this cell does not (by S.O. number), in their page order, to be appended to this cell.
+    BIS adds an order to one copy at a time (2026-10-22: Cookware 'Second Order' S.O. 5624(E) of 13 Oct 2026 was only in the second copy), and a cell
+    read from the first copy alone would stop before it."""
+    have = {n for n, _ in order_segments(cell)[0] if n}
+    extra = []
+    for o in others:
+        for n, seg in order_segments(o)[0]:
+            if n and n not in have:
+                have.add(n)
+                extra.append(re.sub(r'^\s*\d+\s*\.\s*', '', seg))
+    return extra
+
+
 def table_copies(ts):
     """The Scheme-I page carries its table three times, and BIS edits them at different moments: on 2026-10-22 one copy (the second) held three new
     rows (IS 1664, IS 5470, IS 920, the Animal Feeds QCO of 12 Oct 2026) that the other two did not yet have. The copies also word their notification
@@ -46,11 +75,11 @@ def table_copies(ts):
       2. A row's TEXT comes from the first copy whenever the first copy has that row (the copy the dataset was always built from); only the rows
          the first copy lacks are read from the longest copy.
     Returns (index of the copy that sets the rows, {id(row of that copy): row to read instead}, {id(row to read): corrected name}, number of rows
-    the longest copy has over the shortest). The name is corrected where the first copy's is the other two's with a stray serial digit in front
+    the longest copy has over the shortest, {id(row to read): orders another copy names that its notification cell lacks}). The name is corrected where the first copy's is the other two's with a stray serial digit in front
     ("6Stainless Steel ..."); any other name disagreement is counted in the parse notes, not guessed at."""
     copies = [[r for r in t[1:] if len(r) == 4 and r[1][0] and r[2][0]] for t in ts[:3]]
     if len(copies) < 3:
-        return 0, {}, {}, 0, 0
+        return 0, {}, {}, 0, 0, {}
     base = max(range(3), key=lambda i: (len(copies[i]), -i))  # the longest; the first of equals
     keys = [r[1][0] for r in copies[base]]
     at = [None] * 3  # at[i][n] = copy i's row for the base copy's n-th row
@@ -64,18 +93,21 @@ def table_copies(ts):
             m[pos] = r
             pos += 1
         at[i] = m
-    use, names, differs = {}, {}, 0
+    use, names, differs, extra = {}, {}, 0, {}
     for n, brow in enumerate(copies[base]):
         src = 0 if n in at[0] else base
         a = at[src][n]
         if a is not brow:
             use[id(brow)] = a
         others = [at[i][n] for i in range(3) if i != src and n in at[i]]
+        more = newer_orders(a[3][0], [o[3][0] for o in others]) if a[3][0] else []
+        if more:
+            extra[id(a)] = more
         if any(a[2][0] != o[2][0] for o in others):
             differs += 1
             if len(others) == 2 and others[0][2][0] == others[1][2][0] and re.fullmatch(r'\d+' + re.escape(others[0][2][0]), a[2][0]):  # the stray serial digit
                 names[id(a)] = others[0][2][0]
-    return base, use, names, differs, len(copies[base]) - min(len(c) for c in copies)
+    return base, use, names, differs, len(copies[base]) - min(len(c) for c in copies), extra
 
 
 def first_copy_sections(t, spacer):
@@ -93,7 +125,7 @@ def first_copy_sections(t, spacer):
 
 def parse_scheme1(body, url, today):
     ts = grid_tables(body, [['sr no', 'is no', 'product']], 'scheme_1')
-    base, use, names, disagreements, only_in_base = table_copies(ts)
+    base, use, names, disagreements, only_in_base, extra = table_copies(ts)
     t = ts[base]
     out, sec, notif, links = [], '', '', []
     scheme = 'BIS ISI-mandatory QCO (Scheme-I)'
@@ -120,10 +152,12 @@ def parse_scheme1(body, url, today):
             raise Failure('scheme_1: row %r has no IS number or no product' % r[0][0][:40])
         if r[3][0]:
             notif, links = r[3][0], r[3][1]
+            if id(r) in extra:  # an order only another copy of the page lists yet: kept, after the ones the first copy has
+                notif = notif + ' ' + ' '.join(extra[id(r)])
         status, tag = status_of(sec, notif)
         out.append(row(url, today, product_name=names.get(id(r), r[2][0]), is_codes=r[1][0], scheme=scheme,
                        authority='BIS (via QCO of administering ministry)', group=sec, status=status,
-                       notes='QCO: ' + notif[:CUT] + (' | QCO PDF: ' + '; '.join(links[:3]) if links else '') + tag))
+                       notes='QCO: ' + notif + (' | QCO PDF: ' + '; '.join(links[:3]) if links else '') + tag))
     keys = [(r['is_codes'], r['product_name']) for r in out]
     if len(set(keys)) != len(keys):
         raise Failure('scheme_1: two rows share one IS code + product name')

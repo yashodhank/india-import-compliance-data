@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 import pipeline.adapter_bis as AB  # noqa: E402
 import pipeline.adapters as A  # noqa: E402
-from testkit import ARCHIVES, REPO, TODAY, GoldenCheck, parse, raw, read_csv_rows  # noqa: E402
+from testkit import ARCHIVES, REPO, TODAY, GoldenCheck, parse, raw  # noqa: E402
 
 
 class BisGoldenTest(GoldenCheck, unittest.TestCase):
@@ -66,6 +66,29 @@ class BisLayoutChangeTest(unittest.TestCase):
         first, longest = by_code(ts[0]), by_code(ts[base])
         flips = sorted(c for c in first if c in longest and first[c] != longest[c])
         self.assertEqual(['IS 3513 (Part 1) : 1989', 'IS 3513 (Part 2) : 1989', 'IS 3513 (Part 3) : 1989'], flips)
+
+    def test_scheme_i_cookware_row_keeps_every_order_of_a_long_history_including_the_one_only_one_copy_lists(self):
+        """Live 2026-10-22: 'Cookware ... (Quality Control) Second Order, 2026, S.O. 5624(E), 13 Oct 2026' was only in the second table copy, and the
+        notes were cut at 600 characters, so neither the order nor the end of the history reached isi_qco.csv."""
+        with open(os.path.join(REPO, 'raw', 'bis-scheme1', '2026-10-22', 'www.bis.gov.in_scheme-1_2026-10-22.html'), 'rb') as fh:
+            got = AB.parse_scheme1(fh.read(), 'u', TODAY)
+        cook = [r for r in got.rows if r['is_codes'] == 'IS 14756 : 2022']
+        self.assertEqual(1, len(cook))
+        qco = cook[0]['notes'].split(' | QCO PDF:')[0]
+        self.assertGreater(len(qco), 700)  # the old cut was at 606
+        flat = re.sub(r'S\.\s?O\.\s*', 'S.O.', qco)
+        for so in ('3583', '1365', '4494', '3850', '219', '1661', '5624'):
+            self.assertIn('S.O.' + so + '(E)', re.sub(r'(\d)\s+\(E\)', r'\1(E)', flat))
+        self.assertIn('Second Order, 2026', qco)
+        self.assertTrue(qco.rstrip().endswith('13 October, 2026'))
+        self.assertTrue(all(r['notes'].count('S.O.5624') == 1 for r in got.rows if r['group'].startswith('Cookware')))
+
+    def test_newer_orders_appends_only_the_orders_a_cell_lacks(self):
+        cell = 'A Order, 2024 S.O. 100(E), dated 1st May 2024 B Order, 2025 S.O.200(E) Dated 2 June, 2025'
+        later = cell + ' C Second Order, 2026 S.O.5624(E) Dated 13 October, 2026'
+        self.assertEqual([], AB.newer_orders(cell, [cell, cell[:60]]))
+        self.assertEqual(['C Second Order, 2026 S.O.5624(E) Dated 13 October, 2026'], AB.newer_orders(cell, [later, later]))
+        self.assertEqual([], AB.newer_orders(later, [cell]))  # an older copy never removes or reorders anything
 
     def test_scheme_i_copies_that_contradict_each_other_still_fail(self):
         h = self.fixture()
