@@ -4,19 +4,27 @@ on:
   schedule:
     - cron: '30 20 * * 0'   # Monday 02:00 IST (Sunday 20:30 UTC)
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: fetch and parse everything, report what would change, write, commit and release nothing
+        type: boolean
+        default: false
 
 permissions:
-  contents: write
-  issues: write
+  contents: read
 
 concurrency:
-  group: refresh
+  group: data-writer
   cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-24.04
     timeout-minutes: 60
+    permissions:
+      contents: write
+      issues: write
+      actions: write
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -39,7 +47,8 @@ jobs:
           ALTERLAB_API_KEY: ${{ secrets.ALTERLAB_API_KEY }}
           ALTERLAB_MAX_USD: '0.25'
           REFRESH_DEBUG_DIR: refresh-debug
-        run: python -m pipeline.refresh --report refresh-report.json --changelog-md changelog-entry.md
+          DRY_RUN: ${{ inputs.dry_run && 'yes' || '' }}
+        run: python -m pipeline.refresh ${DRY_RUN:+--dry-run} --report refresh-report.json --changelog-md changelog-entry.md
 
       # The bodies of sources that answered without the expected structure, so the next failure is readable without a laptop.
       - name: Upload the bodies of failed sources
@@ -48,7 +57,7 @@ jobs:
         with:
           name: refresh-debug
           path: refresh-debug/
-          retention-days: 3
+          retention-days: 7
           if-no-files-found: ignore
 
       - name: Verify the rebuilt tree (schemas, invariants, golden tests)
@@ -66,7 +75,7 @@ jobs:
           git status --short | head -20
 
       - name: Commit, changelog entry and release
-        if: steps.diff.outputs.changed == 'true'
+        if: steps.diff.outputs.changed == 'true' && !inputs.dry_run
         run: |
           set -euo pipefail
           TAG="v$(date -u +%Y.%m.%d)"
@@ -83,12 +92,15 @@ jobs:
           python packages/sync.py
           git add -A data raw packages CHANGELOG.md
           git commit -m "data: weekly refresh $TAG" -m "$(cat changelog-entry.md)"
+          git pull --rebase origin main
           git push origin HEAD:main
           python -m pipeline.assets dist
           gh release create "$TAG" --title "$TAG" --notes-file changelog-entry.md dist/*
+          # Pushes made with GITHUB_TOKEN start no workflow, so publish the site explicitly (pages runs ci first).
+          gh workflow run pages.yml
 
       - name: Report stale sources on the issue
-        if: success()
+        if: success() && !inputs.dry_run
         run: |
           set -euo pipefail
           body="$(python - <<'PY'
@@ -99,25 +111,16 @@ jobs:
           PY
           )"
           if [ -z "$body" ]; then exit 0; fi
-          body="${body}
+          # Same stale sources as an earlier run: already on the issue, so say nothing.
+          key="stale-$(printf '%s' "$body" | sha256sum | cut -c1-16)"
+          url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          .github/scripts/report-issue.sh "$key" "Source stale in the weekly refresh" "${body}
 
-          The last good data was kept and the other sources were refreshed. Run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
-          num="$(gh issue list --label refresh-failure --state open --json number --jq '.[0].number // empty')"
-          if [ -n "$num" ]; then
-            gh issue comment "$num" --body "$body"
-          else
-            labels="$(gh label list --json name --jq '.[].name')"
-            case "$labels" in
-              *refresh-failure*) ;;
-              *) gh label create refresh-failure --color B60205 --description "weekly refresh failed" ;;
-            esac
-            gh issue create --title "Source stale in the weekly refresh" --label refresh-failure --body "$body"
-          fi
+          The last good data was kept and the other sources were refreshed. Run: ${url}"
 
       - name: Open or update an issue on failure
-        if: failure()
+        if: failure() && !inputs.dry_run
         run: |
-          set -euo pipefail
           reason="$(python - <<'PY'
           import json
           try:
@@ -127,19 +130,8 @@ jobs:
           PY
           )"
           url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
-          body="The weekly refresh failed and published nothing.
+          .github/scripts/report-issue.sh "run-${GITHUB_RUN_ID}" "Weekly refresh failed" "The weekly refresh failed and published nothing.
 
           Reason: ${reason}
 
           Run: ${url}"
-          num="$(gh issue list --label refresh-failure --state open --json number --jq '.[0].number // empty')"
-          if [ -n "$num" ]; then
-            gh issue comment "$num" --body "$body"
-          else
-            labels="$(gh label list --json name --jq '.[].name')"
-            case "$labels" in
-              *refresh-failure*) ;;
-              *) gh label create refresh-failure --color B60205 --description "weekly refresh failed" ;;
-            esac
-            gh issue create --title "Weekly refresh failed" --label refresh-failure --body "$body"
-          fi

@@ -13,17 +13,20 @@ on:
         default: '400'
 
 permissions:
-  contents: write
-  issues: write
+  contents: read
 
 concurrency:
-  group: refresh
+  group: data-writer
   cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-24.04
     timeout-minutes: 150
+    permissions:
+      contents: write
+      issues: write
+      actions: write
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -38,9 +41,12 @@ jobs:
 
       - name: Fetch IS-standards metadata (stops on 403 or 429; the next run resumes)
         id: kys
+        env:
+          MAX_REFS: ${{ github.event.inputs.max_refs || '400' }}
         run: |
+          case "$MAX_REFS" in ''|*[!0-9]*) echo "max_refs must be a number" >&2; exit 2 ;; esac
           set +e
-          python -m pipeline.adapter_kys --max-refs "${{ github.event.inputs.max_refs || '400' }}"
+          python -m pipeline.adapter_kys --max-refs "$MAX_REFS"
           rc=$?
           echo "rc=$rc" >> "$GITHUB_OUTPUT"
           # 0 = done, 3 = blocked by the portal (partial progress is kept); anything else is a failure
@@ -72,15 +78,15 @@ jobs:
           PY
           git add CHANGELOG.md
           git commit -m "data: monthly IS-standards refresh $TAG"
+          git pull --rebase origin main
           git push origin HEAD:main
           python -m pipeline.assets dist
           gh release create "$TAG" --title "$TAG" --notes-file changelog-entry.md dist/*
+          # Pushes made with GITHUB_TOKEN start no workflow, so publish the site explicitly (pages runs ci first).
+          gh workflow run pages.yml
 
       - name: Open or update an issue on failure
         if: failure()
         run: |
-          set -euo pipefail
           url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
-          body="The monthly IS-standards refresh failed and published nothing. Run: ${url}"
-          num="$(gh issue list --label refresh-failure --state open --json number --jq '.[0].number // empty')"
-          if [ -n "$num" ]; then gh issue comment "$num" --body "$body"; else gh issue create --title "IS-standards refresh failed" --label refresh-failure --body "$body"; fi
+          .github/scripts/report-issue.sh "run-${GITHUB_RUN_ID}" "IS-standards refresh failed" "The monthly IS-standards refresh failed and published nothing. Run: ${url}"
