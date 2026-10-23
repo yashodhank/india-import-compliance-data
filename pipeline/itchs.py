@@ -16,7 +16,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-from pipeline.adapters import REPO_URL, USER_AGENT, Failure, PoliteFetcher
+from pipeline.adapters import USER_AGENT, Failure, PoliteFetcher
 
 PERMISSION_REF = 'DGFTCOMS-2026-24H4345L'
 PAGE_URL = 'https://www.dgft.gov.in/CP/?opt=itchs-import-export'
@@ -217,7 +217,7 @@ class DgftSession:
                 self.sleep(30)
                 try:
                     self.listing()
-                except Exception:  # noqa: BLE001
+                except Exception:  # noqa: BLE001, S110 (re-priming the session between retries is best effort; the retry's own outcome is what is reported)
                     pass
                 continue
             except Failure:
@@ -227,7 +227,7 @@ class DgftSession:
                 self.sleep(30)
                 try:
                     self.listing()
-                except Exception:  # noqa: BLE001
+                except Exception:  # noqa: BLE001, S110 (re-priming the session between retries is best effort; the retry's own outcome is what is reported)
                     pass
         raise Unreachable('itchs ch%s: fetch failed (%s)' % (ch, last))
 

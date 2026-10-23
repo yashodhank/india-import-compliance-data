@@ -19,7 +19,6 @@ import sys
 
 REPO = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 sys.path.insert(0, REPO)
-from pipeline import derived  # noqa: E402
 
 COLS = ['hs8', 'hs6', 'measure_type', 'measure_value', 'condition_text', 'document_code', 'legal_ref', 'valid_from', 'valid_to', 'status',
         'confidence', 'basis', 'qco_slug', 'source_file', 'source_sha256', 'as_of', 'is_title', 'is_status', 'is_superseded_by']

@@ -1,7 +1,6 @@
 """pipeline/site.py builds the static API and the chapter pages."""
 import json
 import os
-import re
 import sys
 import tempfile
 import unittest

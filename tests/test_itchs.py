@@ -105,8 +105,6 @@ class DgftSessionTest(unittest.TestCase):
 
 class DgftUnreachableTest(unittest.TestCase):
     def session(self, exc):
-        import io
-        import urllib.error
 
         class Op:
             def open(self, req, timeout=0):

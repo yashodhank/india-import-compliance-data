@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 import pipeline.adapter_bee as AE  # noqa: E402
 import pipeline.adapters as A  # noqa: E402
-from testkit import BEE_M, BEE_V, REPO, TODAY, GoldenCheck, parse, raw  # noqa: E402
+from testkit import BEE_M, BEE_V, TODAY, GoldenCheck, parse, raw  # noqa: E402
 
 
 class BeeGoldenTest(GoldenCheck, unittest.TestCase):

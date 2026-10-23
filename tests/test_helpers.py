@@ -1,9 +1,5 @@
 """Unit tests for the shared adapter helpers: status words, polite fetching (robots.txt, delay, timeout), the per-list diff."""
-import csv
-import io
-import json
 import os
-import re
 import sys
 import unittest
 
@@ -11,7 +7,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 import pipeline.adapters as A  # noqa: E402
 import pipeline.refresh_diff as rd  # noqa: E402
-from testkit import ARCHIVES, REPO, TODAY, raw  # noqa: E402
+from testkit import REPO  # noqa: E402
 
 
 class StatusTest(unittest.TestCase):
@@ -96,7 +92,6 @@ class PoliteFetcherTest(unittest.TestCase):
                 return orig(url)
             f.opener = opener
             self.assertEqual(b'ok', f('https://h.example/a'))
-        import urllib.error as ue
         f, _, _ = self.fetcher({'https://h.example/robots.txt': (503, 'text/html', b'down')})
         f.opener = lambda url: (_ for _ in ()).throw(ue.HTTPError(url, 503, 'x', {}, None))
         with self.assertRaisesRegex(A.Failure, 'answered HTTP 503'):

@@ -7,7 +7,6 @@ Pages are `noindex` (and robots.txt disallows everything) only for the three rel
 (PRE_PUBLIC); every later release is indexable, with a title, description, canonical link, sitemap and an Atom feed of the changelog.
 """
 import collections
-import csv
 import html
 import json
 import os
