@@ -1,12 +1,24 @@
 # India import compliance data
 
-Open, versioned, weekly-refreshed tables that answer one question: **what does Indian import policy and product-compliance regulation say about this product?**
+[![ci](https://github.com/yashodhank/india-import-compliance-data/actions/workflows/ci.yml/badge.svg)](https://github.com/yashodhank/india-import-compliance-data/actions/workflows/ci.yml) [![release](https://img.shields.io/github/v/release/yashodhank/india-import-compliance-data)](https://github.com/yashodhank/india-import-compliance-data/releases) Data CC BY 4.0, code MIT.
+
+Open, versioned tables that answer one question: **what does Indian import policy and product-compliance regulation say about this product?** The BIS lists refresh weekly from a GitHub-hosted runner; ITC(HS) and the TEC list are refreshed by hand (see "Freshness").
 
 Every row carries its source URL, retrieval date and a hash of the archived original, so any figure can be traced back to the page or Gazette it came from.
 
 **Not legal advice.** Every row carries an `as_of` date; it was true of the source on that date only.
 The official source prevails over this repository wherever they differ.
 Confirm with the issuing authority before you ship, file or certify anything.
+
+## Quick start
+
+```
+git clone --depth 1 https://github.com/yashodhank/india-import-compliance-data.git && cd india-import-compliance-data
+python3 -c "import csv; print([r for r in csv.DictReader(open('data/measures/measures.csv', encoding='utf-8')) if r['hs8']=='72104100'][0])"
+curl -s https://yashodhank.github.io/india-import-compliance-data/api/codes/72104100.json
+```
+
+Used by: the Sanmayu Solutions website cites the per-code JSON below as the source of its product-compliance pages. Column meanings: `docs/data-dictionary.md`.
 
 ## Where this fits
 
@@ -17,6 +29,7 @@ This is **not a trade-statistics dataset**. It holds no import values, volumes, 
 | [Vonter/india-export-import](https://github.com/Vonter/india-export-import) | How much India trades: DGCIS FTDDP values by commodity, port and country | ODbL | Value and volume of a code you are checking the rules for |
 | [Lekh007/india-import-atlas-data](https://github.com/Lekh007/india-import-atlas-data) | Sector import bill, import-substitution ratings, ventures | GODL and CC BY 4.0 | Where imports are large, then what approval each line needs |
 | [lakshyaag/India-Trade-Data](https://github.com/lakshyaag/India-Trade-Data) | A scraper for the TRADESTAT portal | see the repository | Fetching statistics to put beside the policy tables |
+| [rgupta1311/india-hsn-dataset](https://github.com/rgupta1311/india-hsn-dataset) | What duty and tax an 8-digit code attracts: BCD, SWS, IGST, cess | CC BY 4.0 (per its README) | The duty stack for a code whose approval you are checking here |
 | [datasets/harmonized-system](https://github.com/datasets/harmonized-system) | HS 2022 nomenclature to six digits (data package) | ODC-PDDL-1.0 | The source of `data/hs6/`; the shared vocabulary of all of the above |
 | **this repository** | What approval applies per HS code: ITC(HS) policy and conditions, BIS, QCO, TEC and BEE lists, QCO register with Gazette hashes | CC BY 4.0 (data), MIT (code) | |
 
@@ -29,14 +42,14 @@ The licence column is as stated by each project when this section was written; c
 | HS 2022 six-digit descriptions (join table for `hs6`) | `data/hs6/harmonized-system.csv` | 5,613 | datasets/harmonized-system (WCO nomenclature via UN Comtrade) |
 | ITC(HS) 2022 Schedule 1 (Import Policy), all 97 chapters, 4, 6 and 8-digit lines, with `hs6` and `hs6_description` columns | `data/itchs/2022/` (`all.csv`, `chNN.csv`, `chNN.json`) | 15,943 lines, of which 12,587 are 8-digit | DGFT |
 | Chapter policy conditions and notes | `data/itchs/2022/chapter-conditions.csv`, `section-notes.csv` | 729 + 53 | DGFT |
-| BIS Scheme I (ISI / QCO) | `data/bis/isi_qco.csv` | 799 | BIS |
+| BIS Scheme I (ISI / QCO) | `data/bis/isi_qco.csv` | 802 (740 active, 49 withdrawn, 13 de-notified) | BIS |
 | BIS Scheme II (CRS, registration) | `data/bis/crs.csv`, `data/bis/scheme_ii_other.csv` | 74 + 9 | CRS portal, BIS |
 | BIS Scheme IV, Scheme X | `data/bis/scheme_iv.csv`, `data/bis/scheme_x.csv` | 2 + 52 | BIS |
-| BIS upcoming QCOs | `data/bis/qco_upcoming.csv` | 122 | BIS |
+| BIS upcoming QCOs | `data/bis/qco_upcoming.csv` | 120 | BIS |
 | BIS Option-2 (simplified procedure) list | `data/bis/option2.csv` | 1,085 | BIS |
 | TEC MTCTE product list | `data/tec/mtcte.csv` | 200 | TEC |
 | BEE star-label lists | `data/bee/mandatory.csv`, `voluntary.csv` | 19 + 23 | BEE |
-| QCO register (order, S.O. number, dates, IS codes, state, Gazette PDF hash) | `data/qco/register.csv`, `register.json`, `events.csv`, `products.csv` | 311 records | derived from the BIS lists and the Gazette |
+| QCO register (order, S.O. number, dates, IS codes, state, Gazette PDF hash) | `data/qco/register.csv`, `register.json`, `events.csv`, `products.csv` | 310 records | derived from the BIS lists and the Gazette |
 | HS to scheme candidates | `data/derived/hs-scheme-candidates.csv` | 402 | derived from the ITC(HS) condition text |
 | Measures: one row per (8-digit code, measure) | `data/measures/measures.csv`, `measures.json`, `BUILD-REPORT.json` | 16,900 | derived from the tables above |
 | IS standards metadata: title, year, status, amendments, classification per IS number (no standard texts) | `data/is-standards/standards.csv`, `unmatched.csv`, `BUILD-REPORT.json` | 1,187 + 64 unmatched | BIS Know Your Standards |
@@ -68,12 +81,13 @@ Worked example, `72104100` (galvanised corrugated steel): `import_policy` `Free`
 
 Generated by `python -m pipeline.site OUTDIR` and published to GitHub Pages at <https://yashodhank.github.io/india-import-compliance-data/> by `.github/workflows/pages.yml` after the tests pass. Plain files, no service:
 
+- `api/index.json`: every endpoint with its JSON Schema (`api/schemas/*.schema.json`) and the API version (`api_version`, currently `1`: it changes only when a field is removed or renamed).
 - `api/latest.json`: release, `as_of`, counts.
 - `api/codes/<hs8>.json`: the code, its description, `hs6` and its description, and its measures.
 - `api/chapters/<NN>.json` and `chapters/<NN>.html`: every code of a chapter with its policy and the other measures.
-- `openapi.yaml` describes the three endpoints.
+- `openapi.yaml` describes the JSON endpoints; `feed.xml` is an Atom feed of releases and data changes taken from `CHANGELOG.md`; `sitemap.xml` and `robots.txt` are generated with the pages.
 
-The pages carry `noindex` and `robots.txt` disallows crawling until release `v2026.10.24`.
+The pages are indexable (title, description and canonical link on each). Only the first three releases (`v2026.10.22`, `v2026.10.22.1`, `v2026.10.23`) were built `noindex`. The release shown is read from `CITATION.cff` unless `RELEASE_TAG` is set.
 
 ## IS standards (metadata only — standard texts are BIS copyright; source: BIS Know Your Standards)
 
@@ -89,7 +103,7 @@ The pages carry `noindex` and `robots.txt` disallows crawling until release `v20
 
 ## Packages
 
-Zero-dependency offline lookups with the same API, `lookup(hs)`, `measures(hs)`, `search(text)`. Not published to PyPI or npm.
+Zero-dependency offline lookups with the same API, `lookup(hs)`, `measures(hs)`, `search(text)`. **Not yet on PyPI or npm**; install from git. The Python package takes its version from the release tag; the npm package version is set by hand in `packages/node/package.json`.
 
     pip install "git+https://github.com/yashodhank/india-import-compliance-data.git#subdirectory=packages/python"
     git clone --depth 1 https://github.com/yashodhank/india-import-compliance-data.git && npm install ./india-import-compliance-data/packages/node
@@ -144,8 +158,8 @@ Every CSV is UTF-8, LF line endings, comma separated, with a header row. `schema
 - **Fallback only on refusal.** If the origin answers 403, 429 or 5xx, or returns a page that needs JavaScript, and the environment variable `ALTERLAB_API_KEY` (a repository secret of the same name) is set, the page is fetched once through a pay-per-success scraping API with a per-request cap. The bytes it returns are archived and hashed like any direct fetch, and `PROVENANCE.csv` records `fetch_method`, `fetch_tier` and `fetch_cost_usd`. Without the key the pipeline fetches directly only and prints `fallback fetcher: not configured` once.
 - **PDFs.** A refused PDF is tried from the Internet Archive first (verbatim bytes). The scraping API returns only extracted text for a PDF, never the file, so that copy is never archived or parsed as a list; it is used only by the change monitor, and the refresh fails loudly if a list PDF can only be had that way. Verbatim original bytes come only from the origin or the Internet Archive.
 - **Ceiling.** `ALTERLAB_MAX_USD` (default 0.25) is the most one run may spend; when it is reached the fallback is not used for the rest of the run and the run summary says so. Each refresh entry in `CHANGELOG.md` ends with `Fallback fetches: N, cost USD x.xxxx`.
-- **Change detection.** `.github/workflows/monitor.yml` runs every 6 hours: it fetches each of the 10 source pages by the cheapest route, normalises the body (whitespace, scripts, styles, CSRF tokens, cache-busting query values, copyright year), compares its SHA-256 with `state/monitor.json`, and starts the refresh workflow when one differs. The weekly refresh stays as the safety net.
-- **Cost model.** Direct fetch: free. Fallback: only for a refused source, a fraction of a cent per page. Monitor: at most 12 sources x 4 runs a day, direct unless refused, so zero in the normal case and bounded by its own `ALTERLAB_MAX_USD` (0.10) per run otherwise.
+- **Change detection.** `.github/workflows/monitor.yml` runs every 3 hours (best effort; GitHub may delay or drop a slot): it fetches each of the 10 source pages (every list above except ITC(HS), which DGFT refuses to a runner) by the cheapest route, normalises the body (whitespace, scripts, styles, CSRF tokens, cache-busting query values, copyright year), compares its SHA-256 with `state/monitor.json`, and starts the refresh workflow when one differs. The weekly refresh stays as the safety net.
+- **Cost model.** Direct fetch: free. Fallback: only for a refused source, a fraction of a cent per page. Monitor: at most 10 sources x 8 runs a day, direct unless refused, so zero in the normal case and bounded by its own `ALTERLAB_MAX_USD` (0.10) per run otherwise.
 
 ```
 python -m pipeline.refresh --offline    # rebuild every file from the archived raw copies, no network
@@ -170,7 +184,7 @@ python -m pipeline.refresh --report refresh-report.json --changelog-md changelog
 
 ## Contributing
 
-Corrections are welcome: see `CORRECTIONS.md` and the issue forms. Include a pointer to the official page or Gazette that shows the right value. Files under `data/` are generated: fix the parser or the archived input, not the CSV.
+Corrections are welcome: see `CORRECTIONS.md`, `CONTRIBUTING.md` and the issue forms. Security reports: `SECURITY.md`. Conduct: `CODE_OF_CONDUCT.md`. Include a pointer to the official page or Gazette that shows the right value. Files under `data/` are generated: fix the parser or the archived input, not the CSV.
 
 ## Raw archive
 
