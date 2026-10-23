@@ -76,6 +76,7 @@ jobs:
           git pull --rebase origin main
           git push origin HEAD:main
           python -m pipeline.assets dist
+          (cd dist && sha256sum -- * > ../SHA256SUMS && mv ../SHA256SUMS SHA256SUMS)
           gh release create "$TAG" --title "$TAG" --notes-file changelog-entry.md dist/*
           # Pushes made with GITHUB_TOKEN start no workflow, so publish the site explicitly (pages runs ci first).
           gh workflow run pages.yml
