@@ -1,6 +1,6 @@
 # india-import-compliance (Node)
 
-Offline lookup over the tables of [india-import-compliance-data](https://github.com/yashodhank/india-import-compliance-data). No dependencies; ESM and CommonJS; the data (`all.csv`, `measures.csv`) is bundled. Not legal advice: every row carries an `as_of` date, and the official source prevails.
+Not yet on npm. Offline lookup over the tables of [india-import-compliance-data](https://github.com/yashodhank/india-import-compliance-data). No dependencies; ESM and CommonJS; the data (`all.csv`, `measures.csv`) is bundled. Not legal advice: every row carries an `as_of` date, and the official source prevails.
 
 The package lives in a subdirectory, and npm cannot install a subdirectory of a git repository, so `npm install github:yashodhank/india-import-compliance-data` would not give you this package. Clone and install the folder:
 

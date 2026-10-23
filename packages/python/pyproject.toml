@@ -1,10 +1,10 @@
 [build-system]
-requires = ["setuptools>=61"]
+requires = ["setuptools>=64", "setuptools-scm>=8"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "india-import-compliance"
-version = "2026.10.24"
+dynamic = ["version"]
 description = "Offline lookup of India import policy and product-compliance measures per ITC(HS) 2022 code. Not legal advice."
 readme = "README.md"
 requires-python = ">=3.9"
@@ -19,3 +19,12 @@ packages = ["india_import_compliance"]
 
 [tool.setuptools.package-data]
 india_import_compliance = ["data/*.csv"]
+
+# The version is the release tag of the repository (v2026.10.22.1643 -> 2026.10.22.1643); a checkout past a tag gets a .dev suffix.
+# The package lives two levels below the git root. Without git metadata (a tarball) the fallback is used.
+[tool.setuptools_scm]
+root = "../.."
+tag_regex = '^v(?P<version>\d{4}\.\d+\.\d+(?:\.\d+)?)$'
+git_describe_command = "git describe --dirty --tags --long --match v[0-9]*"
+version_scheme = "post-release"
+fallback_version = "0+unknown"
