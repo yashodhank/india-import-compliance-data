@@ -144,6 +144,30 @@ class StaleSourceTest(unittest.TestCase):
         self.assertIn('STALE since', entry)
         self.assertNotIn('Re-verified; no list changed', entry)
 
+    def test_a_source_stale_for_more_than_thirty_days_escalates_and_a_fresh_one_does_not(self):
+        e = rf.stale_entry('f.csv', 's', '2026-10-01', 'HTTP 403', '2026-10-31')
+        self.assertEqual((30, False), (e['age_days'], e['escalate']))
+        e = rf.stale_entry('f.csv', 's', '2026-10-01', 'HTTP 403', '2026-11-01')
+        self.assertEqual((31, True), (e['age_days'], e['escalate']))
+        e = rf.stale_entry('f.csv', 's', '', 'unknown age', '2026-11-01')
+        self.assertEqual((None, True), (e['age_days'], e['escalate']))
+        self.assertIn('ESCALATED', rf.changelog_entry({'date': '2026-11-01', 'stale': [rf.stale_entry('f.csv', 's', '2026-09-01', 'x', '2026-11-01')]}))
+
+    def test_the_stale_entries_of_a_real_run_carry_every_key_the_report_schema_requires(self):
+        import json
+        sch = json.load(open(os.path.join(os.path.dirname(os.path.abspath(rf.__file__)), 'refresh-report.schema.json'), encoding='utf-8'))
+        need = set(sch['properties']['stale']['items']['required'])
+        root = clone()
+        self.addCleanup(shutil.rmtree, root, True)
+        spec = next(x for x in rf.S.LISTS if x['out'] == 'data/bis/isi_qco.csv')
+
+        def fetch(url):
+            raise rf.Failure('HTTP 403 from %s' % url)
+        summary = {'lists': {}}
+        rf.run_list(rf.Ctx(root, '2026-10-29', False, fetch, False), spec, summary, {})
+        self.assertEqual(need, set(summary['stale'][0]))
+        self.assertTrue(set(sch['required']) <= {'status', 'date'})
+
     def test_a_source_with_no_last_good_file_is_a_failure_and_contradictory_data_still_fails(self):
         root = tempfile.mkdtemp(prefix='icd-')
         self.addCleanup(shutil.rmtree, root, True)

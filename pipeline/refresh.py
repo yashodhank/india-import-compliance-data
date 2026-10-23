@@ -22,7 +22,6 @@ import os
 import re
 import sys
 import traceback
-import urllib.request
 
 from pipeline import adapters as A
 from pipeline import fallback as FB
@@ -189,6 +188,19 @@ def older_edition(root, source_id, body):
     return ''
 
 
+STALE_ESCALATE_DAYS = 30  # a source stale for longer than this is flagged `escalate` in the report (the workflow raises the label on it)
+
+
+def stale_entry(file, source, since, reason, today):
+    """One entry of the report's `stale` list. `age_days` counts from `since` (the newest retrieval the kept data carries) to the run date; it is null when
+    `since` is unknown, and an unknown age escalates, because nobody can say the data is recent."""
+    try:
+        age = (datetime.date.fromisoformat(today) - datetime.date.fromisoformat(since)).days
+    except ValueError:
+        age = None
+    return {'file': file, 'source': source, 'since': since, 'age_days': age, 'escalate': age is None or age > STALE_ESCALATE_DAYS, 'reason': str(reason)[:300]}
+
+
 def keep_stale(ctx, summary, source_id, out, err):
     """A source that cannot be fetched (robots, a block that the paid fallback also failed, a dead host) keeps its last good file and is reported as
     stale; the other sources go on. Only data that is fetched but contradictory or unparseable fails the run (nothing written). With no last good file
@@ -197,7 +209,7 @@ def keep_stale(ctx, summary, source_id, out, err):
     if current is None or ctx.offline:
         raise err
     since = max(r['retrieved_on'] for r in current)
-    summary.setdefault('stale', []).append({'file': out, 'source': source_id, 'since': since, 'reason': str(err)[:300]})
+    summary.setdefault('stale', []).append(stale_entry(out, source_id, since, err, ctx.today))
     summary['lists'][out] = dict(rd.list_diff(current, current), page_date='', source_rows=len(current), unchanged=True, stale=True)
     return current
 
@@ -584,7 +596,7 @@ def run(root, today, offline=False, dry_run=False, fetch=http_fetch):
         # DGFT cannot be reached (no paid fallback for its session): rebuild from the archived chapter exports and report the source stale
         prov = read_rows(ctx.root, S.ITCHS_DIR + '/PROVENANCE.csv') or []
         since = max([r['retrieved_at_utc'][:10] for r in prov] or [''])
-        summary.setdefault('stale', []).append({'file': S.ITCHS_DIR, 'source': 'dgft-itchs', 'since': since, 'reason': str(e)[:300]})
+        summary.setdefault('stale', []).append(stale_entry(S.ITCHS_DIR, 'dgft-itchs', since, e, ctx.today))
         ctx.offline = True
         try:
             all_rows = run_itchs(ctx, summary)
@@ -667,7 +679,7 @@ def changelog_entry(summary):
         for n in notes:
             lines.append('  - `%s`: %s' % (f, n))
     for x in summary.get('stale') or []:
-        lines.append('- `%s`: STALE since %s, last good data kept: %s' % (x['file'], x['since'], x['reason']))
+        lines.append('- `%s`: STALE since %s%s, last good data kept: %s' % (x['file'], x['since'], ' (%s days, ESCALATED)' % x['age_days'] if x.get('escalate') else '', x['reason']))
     fb = summary.get('fallback') or {}
     lines.append('Fallback fetches: %d, cost USD %.4f' % (fb.get('count', 0), fb.get('cost_usd', 0.0)))
     q = summary.get('qco') or {}

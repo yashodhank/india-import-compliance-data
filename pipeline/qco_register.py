@@ -97,7 +97,7 @@ def clean(s):
     return s.strip(' ,;').lstrip(' ,;)')
 
 
-# The official copy of a Scheme-I QCO text was stored cut at 600 characters (build_bis.py); a longer history is cut mid-sentence.
+# Until 2026-10-23 a Scheme-I QCO text was stored cut at 600 characters; older rows are completed from the archived page, and a longer history is cut mid-sentence.
 CUT_AT = 600
 
 
@@ -179,7 +179,9 @@ def build(data, scheme1_page, gazette):
         slug = slug_for(slugify(title))
         statuses = collections.Counter(r['status'] for _, r in members)
         state = {'active': 'in_force', 'withdrawn': 'withdrawn', 'de-notified': 'de_notified'}[statuses.most_common(1)[0][0]]
-        truncated = len(clean(body)) == len(clean(first_row['notes'].split(' | QCO PDF:')[0].split(' | Status:')[0])) and len(clean(body)) >= CUT_AT - 8
+        # only a text this file holds cut (notes written before 2026-10-23 stopped at 600 characters) AND the archived page cannot complete is flagged
+        truncated = (full.get((first_row['is_codes'], first_row['product_name'])) is None
+                     and len(clean(body)) == len(clean(first_row['notes'].split(' | QCO PDF:')[0].split(' | Status:')[0])) and len(clean(body)) >= CUT_AT - 8)
         events = split_events(body, truncated)
         evs = []
         for n, (iso, seg) in enumerate(events):
