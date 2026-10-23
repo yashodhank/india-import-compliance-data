@@ -14,7 +14,7 @@
   },
   "files": ["src", "data"],
   "scripts": {
-    "test": "node --test test/"
+    "test": "node --test"
   },
   "repository": {
     "type": "git",
