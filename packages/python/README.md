@@ -4,6 +4,8 @@ Offline lookup over the tables of [india-import-compliance-data](https://github.
 
     pip install "git+https://github.com/yashodhank/india-import-compliance-data.git#subdirectory=packages/python"
 
+Not yet on PyPI. The installed version is the repository's release tag (`india_import_compliance.__version__`, for example `2026.10.22.1643`; a checkout past a tag shows `.postN`).
+
 ```python
 from india_import_compliance import lookup, measures, search
 

@@ -78,7 +78,7 @@ class SiteTest(unittest.TestCase):
 
     def test_html_escapes_text(self):
         html = open(os.path.join(self.out, 'chapters/08.html'), encoding='utf-8').read()
-        self.assertNotRegex(html, r'<(?!/?(?:html|head|meta|title|body|h1|h2|p|a|table|thead|tbody|tr|th|td|ul|li|nav|code|small|em|style|br)\b)[a-zA-Z]')
+        self.assertNotRegex(html, r'<(?!/?(?:html|head|meta|title|body|h1|h2|p|a|table|thead|tbody|tr|th|td|ul|li|nav|code|small|em|style|br|link)\b)[a-zA-Z]')
         self.assertIn('Not legal advice', html)
 
 

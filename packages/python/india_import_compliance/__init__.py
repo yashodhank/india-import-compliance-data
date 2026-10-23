@@ -3,7 +3,13 @@ import csv
 import os
 import re
 
-__all__ = ['lookup', 'measures', 'search']
+__all__ = ['lookup', 'measures', 'search', '__version__']
+
+try:
+    from importlib.metadata import PackageNotFoundError, version as _version
+    __version__ = _version('india-import-compliance')
+except Exception:  # not installed (run from a checkout)
+    __version__ = '0+unknown'
 
 _DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
 _cache = {}
