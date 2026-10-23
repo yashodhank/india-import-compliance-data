@@ -80,17 +80,12 @@ jobs:
           set -euo pipefail
           TAG="v$(date -u +%Y.%m.%d)"
           if gh release view "$TAG" >/dev/null 2>&1; then TAG="${TAG}.$(date -u +%H%M)"; fi
-          python - "$TAG" <<'PY'
-          import sys
-          entry = open('changelog-entry.md', encoding='utf-8').read().replace('## ', '## %s, ' % sys.argv[1], 1)
-          old = open('CHANGELOG.md', encoding='utf-8').read()
-          head, sep, rest = old.partition('\n## ')
-          open('CHANGELOG.md', 'w', encoding='utf-8').write(head + '\n' + entry + ('\n## ' + rest if sep else ''))
-          PY
+          python .github/scripts/release_prep.py "$TAG" "$(date -u +%Y-%m-%d)" changelog-entry.md
           git config user.name "data-refresh"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           python packages/sync.py
-          git add -A data raw packages CHANGELOG.md
+          python -m pipeline.datapackage
+          git add -A data raw packages CHANGELOG.md CITATION.cff datapackage.json
           git commit -m "data: weekly refresh $TAG" -m "$(cat changelog-entry.md)"
           git pull --rebase origin main
           git push origin HEAD:main
