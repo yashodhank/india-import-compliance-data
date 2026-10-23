@@ -1,22 +1,32 @@
 name: monitor
 
+# GitHub schedules are best effort: a run can start late or be dropped under load, and the :17 slots of the old 6-hourly cron were
+# the busiest of the hour. Every 3 hours at an off-peak minute, so one dropped slot still leaves a look within 6 hours.
+#
+# The commit this workflow pushes (state/monitor.json only) is made with GITHUB_TOKEN, and GitHub does not start workflows for
+# pushes made with it. So fingerprint commits run neither ci nor pages, on purpose: they change no data, no package and no page.
+# A change the monitor finds starts refresh.yml, whose own commit is followed by pages (see refresh.yml).
 on:
   schedule:
-    - cron: '17 */6 * * *'   # every 6 hours
+    - cron: '43 */3 * * *'
   workflow_dispatch:
 
 permissions:
-  contents: write
-  actions: write
+  contents: read
 
+# One writer to main at a time: monitor, refresh and refresh-is-standards share this group.
 concurrency:
-  group: monitor
+  group: data-writer
   cancel-in-progress: false
 
 jobs:
   monitor:
     runs-on: ubuntu-24.04
     timeout-minutes: 20
+    permissions:
+      contents: write
+      actions: write
+      issues: write
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -44,8 +54,10 @@ jobs:
 
       - name: Start the refresh when a source changed
         if: steps.diff.outputs.changed == 'true'
+        env:
+          CHANGED_IDS: ${{ steps.diff.outputs.ids }}
         run: |
-          echo "changed: ${{ steps.diff.outputs.ids }}"
+          echo "changed: ${CHANGED_IDS}"
           gh workflow run refresh.yml
 
       - name: Commit the new state
@@ -56,5 +68,17 @@ jobs:
           git config user.name "data-monitor"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "chore(monitor): source fingerprints $(date -u +%Y-%m-%dT%H:%MZ)"
-          git pull --rebase origin main
-          git push origin HEAD:main
+          # A rejected push changed nothing, so retrying it is safe.
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then exit 0; fi
+            sleep $((attempt * 5))
+          done
+          echo "could not push the monitor state after 3 attempts" >&2
+          exit 1
+
+      - name: Open or update an issue when the monitor itself fails
+        if: failure()
+        run: |
+          url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          .github/scripts/report-issue.sh "run-${GITHUB_RUN_ID}" "Source monitor failed" "The source change monitor failed. Run: ${url}"
