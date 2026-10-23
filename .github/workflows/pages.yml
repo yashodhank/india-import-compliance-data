@@ -1,5 +1,6 @@
 name: pages
 
+# Publishes only after the full ci workflow has passed on the same commit.
 on:
   push:
     branches: [main]
@@ -7,39 +8,25 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: pages
   cancel-in-progress: true
 
 jobs:
-  test:
-    runs-on: ubuntu-24.04
-    steps:
-      - uses: actions/checkout@v5
-      - uses: actions/setup-python@v6
-        with:
-          python-version: '3.12'
-      - uses: actions/setup-node@v5
-        with:
-          node-version: '20'
-      - name: Install poppler (PDF lists) and pytest
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y poppler-utils
-          python -m pip install -r requirements-dev.txt
-      - name: Python tests
-        run: python -m pytest tests -q
-      - name: Python package tests
-        run: cd packages/python && python -m unittest discover -s tests -v
-      - name: Node package tests
-        run: cd packages/node && npm test
+  ci:
+    uses: ./.github/workflows/ci.yml
+    permissions:
+      contents: read
 
   deploy:
-    needs: test
+    needs: ci
     runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -56,5 +43,6 @@ jobs:
       - uses: actions/upload-pages-artifact@v4
         with:
           path: _site
+          retention-days: 7
       - id: deployment
         uses: actions/deploy-pages@v5

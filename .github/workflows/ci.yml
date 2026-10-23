@@ -1,16 +1,23 @@
 name: ci
 
+# Also called by pages.yml, so a site is never published from a tree that has not passed these same steps.
 on:
   pull_request:
   push:
     branches: [main]
+  workflow_call:
 
 permissions:
   contents: read
 
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
 jobs:
   test:
     runs-on: ubuntu-24.04
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
@@ -18,7 +25,9 @@ jobs:
           python-version: '3.12'
       - uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '22'
+      - name: Bundled package data matches data/ (fails with the command that fixes it)
+        run: python packages/sync.py --check
       - name: Install poppler (PDF lists) and pytest
         run: |
           sudo apt-get update
