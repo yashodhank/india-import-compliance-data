@@ -6,8 +6,16 @@ Tag names after `v2026.10.22` carry the date they were planned for; every tag up
 
 ## Unreleased
 
-Changes on `main` after `v2026.10.22.1643`; they ship in the next release.
+Changes on `main` after `v2026.10.23.0739`; they ship in the next release.
 
+## v2026.10.23.0739, 2026-10-23
+
+- `data/tec/mtcte.csv`: STALE since 2026-10-21, last good data kept: the origin served an older edition of the PDF (created 2022-07-14, 411917 bytes; the archived copy was created 2023-06-26)
+- `data/bee/mandatory.csv`: STALE since 2026-10-22, last good data kept: fallback fetch failed for https://www.beestarlabel.com/Home/EquipmentSchemes?type=M: HTTP 422 {'error_code': 'scrape_failed', 'message': 'Scraping failed  (direct: robots.txt of www.beestarlabel.com could not be read (<urlopen error timed out>): nothing is fetched from it)
+- `data/bee/voluntary.csv`: STALE since 2026-10-21, last good data kept: fallback fetch failed for https://www.beestarlabel.com/Home/EquipmentSchemes?type=M: HTTP 422 {'error_code': 'scrape_failed', 'message': 'Scraping failed  (direct: robots.txt of www.beestarlabel.com could not be read (<urlopen error timed out>): nothing is fetched from it)
+- `data/itchs/2022`: STALE since 2026-10-22, last good data kept: HTTP 403 from https://www.dgft.gov.in/CP/?opt=itchs-import-export
+Fallback fetches: 1, cost USD 0.0000
+- `data/qco`: 309 register records, 908 events.
 - Fix: `data/bis/isi_qco.csv` notes are no longer cut at 600 characters and keep orders that only one of the Scheme-I page's table copies lists, so the Cookware and Utensils row notes now end with the Second Order, 2026, S.O. 5624(E), 13 October 2026. `data/qco` gains that event; the QCO register goes from 310 to 309 records (a spurious second Steel and Steel Products record, an artefact of the cut text, is merged into the main one).
 - Pipeline: `refresh-report.json` `stale[]` entries carry `age_days` and `escalate` (true when stale for more than 30 days or of unknown age); schema in `pipeline/refresh-report.schema.json`. New `python -m pipeline.check` asserts the published data's consistency.
 - Fix: the three Animal Feeds rows in `data/bis/isi_qco.csv` (IS 1664, IS 5470, IS 920) are grouped under "Animal Feeds and Feed Ingredients" (Animal Feeds and Feed Ingredients (Quality Control) Order, 2026, S.O. 5576(E)) instead of the section above them, and the three compregs rows (IS 3513 Parts 1-3) keep the section the first table copy gives them; `data/qco` and `data/measures` follow. No row added or removed.

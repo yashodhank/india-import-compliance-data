@@ -2,7 +2,7 @@
   "name": "india-import-compliance-data",
   "title": "India import compliance data",
   "description": "What approval applies to a product at import into India: ITC(HS) 2022 import policy and conditions, BIS, TEC and BEE compulsory lists, a QCO register with Gazette hashes. Not a trade-statistics dataset.",
-  "version": "v2026.10.22.1643",
+  "version": "v2026.10.23.0739",
   "homepage": "https://github.com/yashodhank/india-import-compliance-data",
   "keywords": [
     "India",
