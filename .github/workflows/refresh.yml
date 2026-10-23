@@ -106,12 +106,18 @@ jobs:
           PY
           )"
           if [ -z "$body" ]; then exit 0; fi
+          extra="$(python - <<'PY'
+          import json
+          r = json.load(open('refresh-report.json'))
+          print('refresh-escalated' if any(x.get('escalate') for x in r.get('stale') or []) else '')
+          PY
+          )"
           # Same stale sources as an earlier run: already on the issue, so say nothing.
           key="stale-$(printf '%s' "$body" | sha256sum | cut -c1-16)"
           url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
           .github/scripts/report-issue.sh "$key" "Source stale in the weekly refresh" "${body}
 
-          The last good data was kept and the other sources were refreshed. Run: ${url}"
+          The last good data was kept and the other sources were refreshed. Run: ${url}" "$extra"
 
       - name: Open or update an issue on failure
         if: failure() && !inputs.dry_run
