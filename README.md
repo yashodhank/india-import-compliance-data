@@ -49,7 +49,7 @@ The licence column is as stated by each project when this section was written; c
 | BIS Option-2 (simplified procedure) list | `data/bis/option2.csv` | 1,085 | BIS |
 | TEC MTCTE product list | `data/tec/mtcte.csv` | 200 | TEC |
 | BEE star-label lists | `data/bee/mandatory.csv`, `voluntary.csv` | 19 + 23 | BEE |
-| QCO register (order, S.O. number, dates, IS codes, state, Gazette PDF hash) | `data/qco/register.csv`, `register.json`, `events.csv`, `products.csv` | 310 records | derived from the BIS lists and the Gazette |
+| QCO register (order, S.O. number, dates, IS codes, state, Gazette PDF hash) | `data/qco/register.csv`, `register.json`, `events.csv`, `products.csv` | 309 records | derived from the BIS lists and the Gazette |
 | HS to scheme candidates | `data/derived/hs-scheme-candidates.csv` | 402 | derived from the ITC(HS) condition text |
 | Measures: one row per (8-digit code, measure) | `data/measures/measures.csv`, `measures.json`, `BUILD-REPORT.json` | 16,900 | derived from the tables above |
 | IS standards metadata: title, year, status, amendments, classification per IS number (no standard texts) | `data/is-standards/standards.csv`, `unmatched.csv`, `BUILD-REPORT.json` | 1,187 + 64 unmatched | BIS Know Your Standards |

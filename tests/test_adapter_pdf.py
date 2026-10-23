@@ -3,7 +3,6 @@
 GOLDEN_REGEN=1 python3 -m pytest tests rewrites golden/ from the archived copies (review the diff).
 """
 import os
-import re
 import sys
 import unittest
 
@@ -11,7 +10,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 import pipeline.adapter_pdf as AP  # noqa: E402
 import pipeline.adapters as A  # noqa: E402
-from testkit import REPO, TODAY, GoldenCheck, needs_pdf, parse, read_csv_rows  # noqa: E402
+from testkit import TODAY, GoldenCheck, needs_pdf  # noqa: E402
 
 
 class PdfGoldenTest(GoldenCheck, unittest.TestCase):

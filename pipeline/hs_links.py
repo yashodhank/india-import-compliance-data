@@ -10,8 +10,6 @@ import csv
 import hashlib
 import io
 import os
-import re
-import shutil
 import sys
 
 REPO = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')

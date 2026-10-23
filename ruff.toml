@@ -1,0 +1,4 @@
+# Lint gate for pipeline/ and tests/: `ruff check pipeline tests` (CI runs it). Pyflakes errors, syntax errors, bare/blind except and swallowed exceptions.
+line-length = 200
+[lint]
+select = ["E4", "E9", "F", "E722", "BLE001", "S110"]

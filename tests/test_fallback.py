@@ -86,6 +86,35 @@ class FallbackTest(unittest.TestCase):
         self.assertEqual([], api.calls)
         self.assertEqual('fallback fetcher: not configured\n', out.getvalue())
 
+    def test_the_paid_api_request_carries_the_project_user_agent_and_never_urllibs_default(self):
+        """2026-10-22: the API edge answered 403 to urllib's default agent, so every runner fallback was refused unpaid."""
+        import unittest.mock as mock
+
+        sent = []
+
+        class Resp:
+            status = 200
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *a):
+                return False
+
+            def read(self):
+                return b'{}'
+
+        def opener(req, timeout=None):
+            sent.append(req)
+            return Resp()
+
+        with mock.patch.object(FB.urllib.request, 'urlopen', opener):
+            FB._post({'url': URL}, 'k-test', 5)
+        self.assertEqual(1, len(sent))
+        self.assertEqual(FB.USER_AGENT, sent[0].get_header('User-agent'))
+        self.assertIn('github.com/yashodhank/india-import-compliance-data', sent[0].get_header('User-agent'))
+        self.assertNotIn('Python-urllib', sent[0].get_header('User-agent'))
+
     def test_a_robots_refusal_reaches_neither_route(self):
         api = Api()
         f, _ = make(Direct(FB.Failure('robots.txt disallows ' + URL)), api)

@@ -1,0 +1,39 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "refresh-report.json",
+ "description": "The summary `python -m pipeline.refresh --report FILE` writes. The weekly workflow reads `status`, `reason` and `stale[]`; every other key is informational. Keys are only ever added, never renamed (tests/test_refresh.py pins this file).",
+ "type": "object",
+ "required": ["status", "date"],
+ "properties": {
+  "status": {"enum": ["ok", "failed"], "description": "failed means nothing was written; `reason` says why"},
+  "date": {"type": "string", "format": "date", "description": "the run date (UTC)"},
+  "reason": {"type": "string", "description": "only when status is failed: the error, with the traceback tail for an unexpected one"},
+  "offline": {"type": "boolean"},
+  "dry_run": {"type": "boolean"},
+  "changed": {"type": "boolean", "description": "true when at least one file was written"},
+  "files_written": {"type": "integer"},
+  "lists": {"type": "object", "description": "per list CSV: rows_before, rows_after, added, removed, status_changed, date_changed, other_changed, samples, page_date, source_rows, unchanged, stale"},
+  "itchs": {"type": "object"},
+  "qco": {"type": "object"},
+  "derived": {"type": "object"},
+  "measures": {"type": "object"},
+  "explained": {"type": "object", "description": "file -> notes explaining a removal or other surprising change"},
+  "fallback": {"type": "object", "description": "paid fallback use: count, cost_usd, errors"},
+  "stale": {
+   "type": "array",
+   "description": "sources that could not be fetched this run and kept their last good data",
+   "items": {
+    "type": "object",
+    "required": ["file", "source", "since", "age_days", "escalate", "reason"],
+    "properties": {
+     "file": {"type": "string"},
+     "source": {"type": "string"},
+     "since": {"type": "string", "description": "ISO date of the newest retrieval the kept data carries; may be empty"},
+     "age_days": {"type": ["integer", "null"], "description": "run date minus since; null when since is unknown"},
+     "escalate": {"type": "boolean", "description": "true when age_days is null or more than 30: the workflow should raise the escalation label instead of only commenting"},
+     "reason": {"type": "string"}
+    }
+   }
+  }
+ }
+}

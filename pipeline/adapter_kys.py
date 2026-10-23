@@ -134,7 +134,7 @@ def fix_mojibake(s):
     if 'â€' in s or 'Ã' in s:
         try:
             return s.encode('cp1252').decode('utf8')
-        except Exception:
+        except UnicodeError:
             return s
     return s
 
@@ -298,8 +298,8 @@ def status_list(cl, base, wanted):
         try:
             j = json.loads(c.decode('utf-8', 'replace'))
             total = int(j.get('iTotalDisplayRecords') or j.get('iTotalRecords') or 0)
-        except Exception:
-            raise Failure('status list for IS %s answered HTTP %s and no JSON' % (base, st))
+        except (ValueError, TypeError, AttributeError):
+            raise Failure('status list for IS %s answered HTTP %s and no JSON' % (base, st)) from None
         for r in j.get('aaData', []):
             mm = re.search(r'choosenIS\((\d+)\)', r.get('Action', ''))
             if mm:
@@ -346,8 +346,8 @@ def fetch_ref(cl, base, part, search_cache, status_cache):
         try:
             for r in json.loads(c2.decode('utf-8', 'replace')).get('aaData', []):
                 amd.append({'number': clean(r.get('AmendmentNumber', '')), 'year': r.get('AmendmentYear'), 'file': r.get('AmdFileName')})
-        except Exception:
-            raise Failure('amendments list for pk %s answered HTTP %s and no JSON' % (pk, st2))
+        except (ValueError, TypeError, AttributeError):
+            raise Failure('amendments list for pk %s answered HTTP %s and no JSON' % (pk, st2)) from None
     if base not in status_cache:
         wanted = {pk}
         status_cache[base] = status_list(cl, base, wanted)

@@ -5,7 +5,7 @@ Rows are keyed on IS code + product name, never on the serial (a serial-keyed sc
 """
 import re
 
-from pipeline.adapters import Failure, NoStructure, Parsed, clean, count_check, html_tables, page_date, row
+from pipeline.adapters import Failure, NoStructure, Parsed, count_check, html_tables, page_date, row
 
 SCHEME = 'BIS CRS (Scheme-II registration)'
 MONTHS = {m: i + 1 for i, m in enumerate(['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'])}

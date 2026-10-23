@@ -6,7 +6,6 @@ printed, logged or written. Without the key the pipeline behaves exactly as a di
 Order: robots.txt (always, and it wins) -> direct GET -> only if the direct answer was 403, 429, 5xx or a page that needs JavaScript
 -> POST /api/v1/scrape. A fallback is skipped for the rest of the run once ALTERLAB_MAX_USD (default 0.25) has been spent.
 """
-import base64
 import json
 import os
 import re
@@ -15,9 +14,9 @@ import urllib.error
 import urllib.request
 
 from pipeline import adapters as A
+from pipeline.adapters import USER_AGENT  # the same agent string the direct fetches send
 
 Failure = A.Failure
-from pipeline.adapters import USER_AGENT  # the same agent string the direct fetches send
 
 ENDPOINT = 'https://alterlab.io/api/v1/scrape'
 KEY_ENV, MAX_ENV, DEFAULT_MAX_USD = 'ALTERLAB_API_KEY', 'ALTERLAB_MAX_USD', 0.25
