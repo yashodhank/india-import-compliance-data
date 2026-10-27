@@ -2,39 +2,39 @@
  "bee-mandatory": {},
  "bee-voluntary": {},
  "bis-option2": {
-  "changed_on": "",
+  "changed_on": "2026-10-27",
   "checked_on": "2026-10-27",
-  "sha256": "51c1ae487dcac929579c6680e5bd0e3030b9adec2afbcb78fc999a0724c9f9c5",
+  "sha256": "629fa7702eebf0a740103f1e4c3fd68bdafb76d8089f6246c55621f4937f36ac",
   "url": "https://www.bis.gov.in/wp-content/uploads/2024/11/List-of-Products-Under-Simplified-Procedure.pdf"
  },
  "bis-scheme1": {
   "changed_on": "2026-10-27",
   "checked_on": "2026-10-27",
-  "sha256": "1978da1c69dbb8741d3658a5d82d38e545de3f4a85fbb877ee47145c3be9c0c8",
+  "sha256": "3dfb3c1ae5f23f684a804afb1b59c8bd01d312564ce04096150c8b90648e1b64",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/?lang=en"
  },
  "bis-scheme2": {
   "changed_on": "2026-10-27",
   "checked_on": "2026-10-27",
-  "sha256": "862237b20e6f0c515cb3963ea308e54e7d676c86ef09033d78aad730406c523f",
+  "sha256": "d237c63b137524c4746c80a6df3dc53a1a21182359565a1b56152e270cd29ed9",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme/?lang=en"
  },
  "bis-scheme4": {
   "changed_on": "2026-10-27",
   "checked_on": "2026-10-27",
-  "sha256": "545ee03f93ac38f4fa4d267567a3e083c3299adbd84ef2fc4a85ad31cabcacd2",
+  "sha256": "119972d50483f8379bd3c7c7a0e027541f8c2b236737171ea5d59876b93c654d",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-4/?lang=en"
  },
  "bis-schemex": {
   "changed_on": "2026-10-27",
   "checked_on": "2026-10-27",
-  "sha256": "587a902b23d98ef448c91c88875344ae6426ed91273c672f9b6fba6bfd05753b",
+  "sha256": "9e0dfed7ee34b1b68a50bb1c74cba3b8a71263014eb057f5239f9f193fe878f6",
   "url": "https://www.bis.gov.in/products-under-compulsory-certification-scheme-x/?lang=en"
  },
  "bis-upcoming": {
   "changed_on": "2026-10-27",
   "checked_on": "2026-10-27",
-  "sha256": "b844506b6c18f57964342029735d612aed55643357a241d039beae09f948a88f",
+  "sha256": "1fcb079972dcde701d48f8222fa9bf94f81d576d8831dd824ed651e22094f5c2",
   "url": "https://www.bis.gov.in/upcoming-qcos-notified-and-due-for-implementation/?lang=en"
  },
  "crs": {
