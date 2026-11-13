@@ -3,38 +3,38 @@
  "bee-voluntary": {},
  "bis-option2": {
   "changed_on": "2026-10-27",
-  "checked_on": "2026-11-12",
+  "checked_on": "2026-11-13",
   "sha256": "51c1ae487dcac929579c6680e5bd0e3030b9adec2afbcb78fc999a0724c9f9c5",
   "url": "https://www.bis.gov.in/wp-content/uploads/2024/11/List-of-Products-Under-Simplified-Procedure.pdf"
  },
  "bis-scheme1": {
-  "changed_on": "2026-11-12",
-  "checked_on": "2026-11-12",
-  "sha256": "221b9d7c4929310de72bf873ade92e48242c150219c9593886575ef7ddcae1f0",
+  "changed_on": "2026-11-13",
+  "checked_on": "2026-11-13",
+  "sha256": "c3ef51014864507ba67551a345cf9ecb7192c7afa8e6de24a13376584ec8af4e",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/?lang=en"
  },
  "bis-scheme2": {
-  "changed_on": "2026-11-12",
-  "checked_on": "2026-11-12",
-  "sha256": "8f94cdc3159aa31f4e276df031e8d9f38347c13e687af4f5a71196baa73d6ea9",
+  "changed_on": "2026-11-13",
+  "checked_on": "2026-11-13",
+  "sha256": "4dd88eafeea2efafd37a0690ce72ffbac0f97373896c2ab0593c9859adab3e14",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme/?lang=en"
  },
  "bis-scheme4": {
-  "changed_on": "2026-11-12",
-  "checked_on": "2026-11-12",
-  "sha256": "648a907721c30fe90c28b7f9d2046bded3d3873f069a0b795d037471ff80abf3",
+  "changed_on": "2026-11-13",
+  "checked_on": "2026-11-13",
+  "sha256": "f8e2126bec74c5241f4bea28efd957f4f6e501ba84318ab413d4bc90b4204116",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-4/?lang=en"
  },
  "bis-schemex": {
-  "changed_on": "2026-11-12",
-  "checked_on": "2026-11-12",
-  "sha256": "9257763dca9b2874a98f8ccbb7510f041c91bfb960353f33f686eb75a681aa97",
+  "changed_on": "2026-11-13",
+  "checked_on": "2026-11-13",
+  "sha256": "f213abb3f81be4002b024155e723b088c3f414496a751d608808e9fb89d2388d",
   "url": "https://www.bis.gov.in/products-under-compulsory-certification-scheme-x/?lang=en"
  },
  "bis-upcoming": {
-  "changed_on": "2026-11-12",
-  "checked_on": "2026-11-12",
-  "sha256": "65830161bd69ca19a0da5c42a6b4c858aba8ebfd89e9aca37c07b00f2b901b00",
+  "changed_on": "2026-11-13",
+  "checked_on": "2026-11-13",
+  "sha256": "9259a0e8c37672d607fa18ffcedaef3698c00c8bc885a895e7f2c39c527f74e7",
   "url": "https://www.bis.gov.in/upcoming-qcos-notified-and-due-for-implementation/?lang=en"
  },
  "crs": {
@@ -45,7 +45,7 @@
  },
  "tec-mtcte": {
   "changed_on": "",
-  "checked_on": "2026-11-12",
+  "checked_on": "2026-11-13",
   "sha256": "61770f27af642fe9bf98cfcc4d690b0fb61886cfec215116c1e82ed972aa6cd5",
   "url": "https://mtcte.tec.gov.in/filedownload?name=downloadDocument_ProductsList.pdf"
  }
