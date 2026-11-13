@@ -16,25 +16,25 @@
  "bis-scheme2": {
   "changed_on": "2026-11-13",
   "checked_on": "2026-11-13",
-  "sha256": "4dd88eafeea2efafd37a0690ce72ffbac0f97373896c2ab0593c9859adab3e14",
+  "sha256": "90b5010ef1b31c3bc1cce269e30c3d5f27f268c28798df7df9323fc31fb62b40",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme/?lang=en"
  },
  "bis-scheme4": {
   "changed_on": "2026-11-13",
   "checked_on": "2026-11-13",
-  "sha256": "f8e2126bec74c5241f4bea28efd957f4f6e501ba84318ab413d4bc90b4204116",
+  "sha256": "baec89aad890a9f9a5d8719e426191121de7eaec45c7d868d1e8e99dad74db26",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-4/?lang=en"
  },
  "bis-schemex": {
   "changed_on": "2026-11-13",
   "checked_on": "2026-11-13",
-  "sha256": "f213abb3f81be4002b024155e723b088c3f414496a751d608808e9fb89d2388d",
+  "sha256": "29bc40efb1ed30bfd0ab72b93dc35d33341cc25509267f61c8196ea5a0c29d33",
   "url": "https://www.bis.gov.in/products-under-compulsory-certification-scheme-x/?lang=en"
  },
  "bis-upcoming": {
   "changed_on": "2026-11-13",
   "checked_on": "2026-11-13",
-  "sha256": "9259a0e8c37672d607fa18ffcedaef3698c00c8bc885a895e7f2c39c527f74e7",
+  "sha256": "71d3defbd22ff6c72b1105aba108e2bf3757b286aa94e3a12242805fad531b05",
   "url": "https://www.bis.gov.in/upcoming-qcos-notified-and-due-for-implementation/?lang=en"
  },
  "crs": {
