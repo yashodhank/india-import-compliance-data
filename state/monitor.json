@@ -10,31 +10,31 @@
  "bis-scheme1": {
   "changed_on": "2026-11-14",
   "checked_on": "2026-11-14",
-  "sha256": "5c260e7cbea8637354306d7d67642ab930eca01580a16d250cc23867954d477e",
+  "sha256": "1a8fc45493fd5197ebb27e9bb92e759c73b52af8a4103681b1b6382ade9a3b25",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/?lang=en"
  },
  "bis-scheme2": {
   "changed_on": "2026-11-14",
   "checked_on": "2026-11-14",
-  "sha256": "362bd9448a57331e6c997da13e3baa9e68323de4d3eee476fc1966af400f3e80",
+  "sha256": "10606d08af9f488e50ec79ce6501530e33f495023788eca0ad754d5f08aa3103",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme/?lang=en"
  },
  "bis-scheme4": {
   "changed_on": "2026-11-14",
   "checked_on": "2026-11-14",
-  "sha256": "ad922544fb963937e19c4a4d0f3d08b21738d5183a366c9d6a5e6e509de0203e",
+  "sha256": "68011635999c278660f4e461b18d126cea0d51153b18f24f58107637bbd93e7a",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-4/?lang=en"
  },
  "bis-schemex": {
   "changed_on": "2026-11-14",
   "checked_on": "2026-11-14",
-  "sha256": "a84f4008ddc22f139439f43510a7267e1e4b2dd131e3f5e948c1a4c53a055abf",
+  "sha256": "d96ed2f792fa1cbf0ccd6a30bbf1b52c34a08f8913735b560f07745505568ef5",
   "url": "https://www.bis.gov.in/products-under-compulsory-certification-scheme-x/?lang=en"
  },
  "bis-upcoming": {
   "changed_on": "2026-11-14",
   "checked_on": "2026-11-14",
-  "sha256": "72c8d4a3cb15b569ddbfddb898c77364850eb98b9589ff75952fa252948ff593",
+  "sha256": "574d5da89fe7f962eed067d02d4e778ff94e6e321dfb7a1db3f5b4247917ef22",
   "url": "https://www.bis.gov.in/upcoming-qcos-notified-and-due-for-implementation/?lang=en"
  },
  "crs": {
@@ -46,7 +46,7 @@
  "tec-mtcte": {
   "changed_on": "2026-11-14",
   "checked_on": "2026-11-14",
-  "sha256": "5b8c5cc2cf3cec8a195b1fb9a329447660ac7cc809d175af20884a6ac615c791",
+  "sha256": "61770f27af642fe9bf98cfcc4d690b0fb61886cfec215116c1e82ed972aa6cd5",
   "url": "https://mtcte.tec.gov.in/filedownload?name=downloadDocument_ProductsList.pdf"
  }
 }
