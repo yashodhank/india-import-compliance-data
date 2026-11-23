@@ -10,37 +10,37 @@
  "bis-scheme1": {
   "changed_on": "2026-11-23",
   "checked_on": "2026-11-23",
-  "sha256": "42244c6041e5b18e0d789bf28f37a714e3a06ab10b7ee1453988207db2c9a9ac",
+  "sha256": "90599fce04ed5c6b79117344724b3bc183e6fa95fea895fbb2ddb89d7fb05858",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-1/?lang=en"
  },
  "bis-scheme2": {
   "changed_on": "2026-11-23",
   "checked_on": "2026-11-23",
-  "sha256": "95eef55d28909238e42c5fef26f1667687fbaf14677622ccbd810a8aab1b4da8",
+  "sha256": "b455fdd1f5039817648e4be348a72efef8a37c34e814cf3df91c468745dad6a0",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme/?lang=en"
  },
  "bis-scheme4": {
   "changed_on": "2026-11-23",
   "checked_on": "2026-11-23",
-  "sha256": "176615bbe1644077a5051a17b2e05d13d60cd317ea0aae94a5c98233074e5be7",
+  "sha256": "56053967f1ecd5a50d6e7a361ec5a465a1b0d9109684a8fd31b3bb6136066956",
   "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-4/?lang=en"
  },
  "bis-schemex": {
   "changed_on": "2026-11-23",
   "checked_on": "2026-11-23",
-  "sha256": "ca0adabd00abe70355630700bc961b4b549c55a5d35d4fe4ee22519fe6279281",
+  "sha256": "377dee8c1f641459e6041b9cbbe5623f517a0211e5b27e19546614897e3c6188",
   "url": "https://www.bis.gov.in/products-under-compulsory-certification-scheme-x/?lang=en"
  },
  "bis-upcoming": {
   "changed_on": "2026-11-23",
   "checked_on": "2026-11-23",
-  "sha256": "7b63c9b6dadc8efe2847f07a84e390bac606254a007984a95b201355ef2e1569",
+  "sha256": "b14478105d4c49ab57f58ff98fbea7f66c10a805c56a9600f578610c74008a08",
   "url": "https://www.bis.gov.in/upcoming-qcos-notified-and-due-for-implementation/?lang=en"
  },
  "crs": {
-  "changed_on": "2026-11-18",
+  "changed_on": "2026-11-23",
   "checked_on": "2026-11-23",
-  "sha256": "3d3bb1deb3ddee3d277327d29bf323590445e46da3efdef3f94a1e1647c1e737",
+  "sha256": "d278e7cb643fb017df67c17c0e4ccc01136c12c098052e93570ba373cd842eb5",
   "url": "https://www.crsbis.in/BIS/products-bis.do"
  },
  "tec-mtcte": {
